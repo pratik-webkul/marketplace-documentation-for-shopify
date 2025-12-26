@@ -3,4 +3,4 @@ node_modules/*
 git-local/*
 git-main/*
 #.github/*
-.vitepress/dist/*
+#.vitepress/dist/*
