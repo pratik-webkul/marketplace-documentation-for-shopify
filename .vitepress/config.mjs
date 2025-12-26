@@ -27,8 +27,8 @@ export default defineConfig({
   ],
   themeConfig: {
     logo: {
-      light: '/public/image/mp-black.svg',
-      dark: '/public/image/mp-white.svg'
+      light: '/image/mp-black.svg',
+      dark: '/image/mp-white.svg'
     },
     siteTitle: false,
     // https://vitepress.dev/reference/default-theme-config
