@@ -5,7 +5,7 @@ date: 2025-08-04
 author: Chirag Tyagi
 ---
 
-Here's presenting an additional feature in our [Multivendor Marketplace](https://marketplace-doc.webkul.com/classic/Introduction/) app for Shopify: Favorite Product/Seller through which customer gets an option to like products as well as sellers.
+Here's presenting an additional feature in our [Multivendor Marketplace](/zenith/introduction/) app for Shopify: Favorite Product/Seller through which customer gets an option to like products as well as sellers.
 
 ### FEATURES
 

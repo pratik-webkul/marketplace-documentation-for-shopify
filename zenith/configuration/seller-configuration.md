@@ -10,7 +10,7 @@ From here, you can allow your sellers to fulfill items, enable the option to aut
 
 [![ seller configuration Multivendor Marketplace for Shopify by Webkul](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/sellerconfig-scaled.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/sellerconfig-scaled.webp)
 
-This Guide is dedicated to letting you aware of all the new Seller menu of the [Multi-Vendor Marketplace App](https://marketplace-doc.webkul.com/classic/Introduction/) for Shopify. 
+This Guide is dedicated to letting you aware of all the new Seller menu of the [Multi-Vendor Marketplace App](/zenith/introduction/) for Shopify. 
 
 Please keep following and tracking the **Seller Updates** to know about all the updates in the app.
 
@@ -134,7 +134,7 @@ Go to the **Seller Listing** section and check the same.
 
 Now, the Seller profile page on the front end will have the banner for his shop. Both admin and seller can upload the banner from their respective panels.
 
-**[Click here](https://marketplace-doc.webkul.com/classic/seller/Seller-Profile-Page-Settings)** for a detailed blog on the new seller profile page.
+**[Click here](/zenith//seller/Seller-Profile-Page-Settings)** for a detailed blog on the new seller profile page.
 
 You can upload a default banner for the sellers to be displayed on the "Seller Profile Page Settings" section of the app.
 

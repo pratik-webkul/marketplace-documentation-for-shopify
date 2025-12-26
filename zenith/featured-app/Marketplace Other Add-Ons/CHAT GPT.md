@@ -7,7 +7,7 @@ author: Chirag Tyagi
 
 ### AI-Generated Product Descriptions Generator using Chat GPT Feature App
 
-**Introduction** : We have launched Chat GPT integration with [Multivendor app](https://marketplace-doc.webkul.com/classic/Introduction/) which allows admin and seller to generate unique descriptions of products using OpenAI API ( which is used in Chat GPT )
+**Introduction** : We have launched Chat GPT integration with [Multivendor app](/zenith/introduction/) which allows admin and seller to generate unique descriptions of products using OpenAI API ( which is used in Chat GPT )
 
 > **Important note:** Chat GPT uses OpenAI model Davinci for answers. Currently, OpenAI **does NOT offer an official API for ChatGPT**.
 > 

@@ -5,7 +5,7 @@ date: 2025-08-07
 author: Chirag Tyagi
 ---
 
-[Multivendor Marketplace app for Shopify](https://marketplace-doc.webkul.com/classic/Introduction/)\- Product Expiry App:- We have introduced a new feature in our Multivendor Marketplace app for Shopify name "Expiry App"
+[Multivendor Marketplace app for Shopify](/zenith/introduction/)\- Product Expiry App:- We have introduced a new feature in our Multivendor Marketplace app for Shopify name "Expiry App"
 
 Which enables both admins as well as sellers to set an expiry date for the product while adding any new product or editing the existing product.
 

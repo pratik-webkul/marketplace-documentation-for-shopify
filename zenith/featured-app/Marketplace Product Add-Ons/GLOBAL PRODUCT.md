@@ -5,7 +5,7 @@ date: 2025-08-04
 author: Chirag Tyagi
 ---
 
-We are here to introduce a new feature app of [Multivendor Marketplace](https://marketplace-doc.webkul.com/classic/Introduction/) for Shopify named **Global Product**. It enables the store owner to create global products that can be sold by multiple sellers.
+We are here to introduce a new feature app of [Multivendor Marketplace](/zenith/introduction/) for Shopify named **Global Product**. It enables the store owner to create global products that can be sold by multiple sellers.
 
 The seller can view the list of products added by the admin in the global product section of the seller panel.
 

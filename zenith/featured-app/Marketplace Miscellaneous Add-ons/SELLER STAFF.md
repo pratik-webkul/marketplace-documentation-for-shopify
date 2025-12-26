@@ -7,7 +7,7 @@ author: Chirag Tyagi
 
 **Shopify Multivendor Marketplace App | Seller Staff |**
 
-We are here with an another "Feature App" of  [Multivendor Marketplace](https://marketplace-doc.webkul.com/classic/Introduction/) on your high demand called **"Seller Staff".**
+We are here with an another "Feature App" of  [Multivendor Marketplace](/zenith/introduction/) on your high demand called **"Seller Staff".**
 
 With this feature app, the seller can add staffs and assign permission to them to manage activities on seller panel.
 

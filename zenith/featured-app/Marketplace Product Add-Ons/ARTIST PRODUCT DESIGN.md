@@ -7,7 +7,7 @@ author: Chirag Tyagi
 
 ### INTRODUCTION
 
-Till now, the Admin was able to create/allow Sellers on his [Multivendor Marketplace for Shopify](https://marketplace-doc.webkul.com/classic/Introduction/), but now with the new Multivendor Marketplace feature app, **Artist Product Design**.
+Till now, the Admin was able to create/allow Sellers on his [Multivendor Marketplace for Shopify](/zenith/introduction/), but now with the new Multivendor Marketplace feature app, **Artist Product Design**.
 
 Admin can create/add Artists on his store and let them add designs for the products to sell.
 

@@ -10,7 +10,7 @@ The app allows the merchants to add delivery method to the app, create slots for
 
 Thus, let customers select a slot when they wish to get the item delivered.
 
-Now, the [Delivery Slot Management app](https://webkul.com/blog/delivery-slot-management-for-shopify/) is integrated with the very popular **[Multi-vendor Marketplace app](https://marketplace-doc.webkul.com/classic/Introduction/)** for Shopify.
+Now, the [Delivery Slot Management app](https://webkul.com/blog/delivery-slot-management-for-shopify/) is integrated with the very popular **[Multi-vendor Marketplace app](/zenith/introduction/)** for Shopify.
 
 Enabling this feature app, the merchant can allow sellers to add delivery method and create slots for the customers.
 

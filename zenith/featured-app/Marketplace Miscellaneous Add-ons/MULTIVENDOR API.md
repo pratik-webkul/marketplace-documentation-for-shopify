@@ -5,11 +5,11 @@ date: 2025-07-25
 author: Chirag Tyagi
 ---
 
-Here we are with the [Multivendor Marketplace](https://marketplace-doc.webkul.com/classic/Introduction/) app for Shopify: Multi-vendor API.
+Here we are with the [Multivendor Marketplace](/zenith/introduction/) app for Shopify: Multi-vendor API.
 
 **API** stands for Application programming interface which is a set of tools and protocols that will help you building sync and much more.
 
-Till now, you were using the API Version 1 to allow users to access the Multi-vendor APIs in [Multi-vendor Marketplace app](https://marketplace-doc.webkul.com/classic/Introduction/) for Shopify.
+Till now, you were using the API Version 1 to allow users to access the Multi-vendor APIs in [Multi-vendor Marketplace app](/zenith/introduction/) for Shopify.
 
 Now, we have introduced the **Multi-vendor API Version 2**.
 

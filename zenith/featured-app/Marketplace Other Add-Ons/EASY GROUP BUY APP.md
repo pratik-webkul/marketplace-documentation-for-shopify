@@ -4,7 +4,7 @@ description: Easy Group Buy app
 author: Chirag Tyagi
 ---
 
-The [Easy Group Buy app](https://webkul.com/blog/shopify-group-buy-app-documentaion/) is now integrated with the [Multi-vendor Marketplace App](https://marketplace-doc.webkul.com/classic/Introduction/) for Shopify.
+The [Easy Group Buy app](https://webkul.com/blog/shopify-group-buy-app-documentaion/) is now integrated with the [Multi-vendor Marketplace App](/zenith/introduction/) for Shopify.
 
 Enabling this feature app, you can allow the customer to create a group or join the existing groups to purchase the products at a discounted price.
 

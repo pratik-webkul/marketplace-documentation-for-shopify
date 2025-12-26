@@ -8,7 +8,7 @@ author: Chirag Tyagi
 
 **[Route](https://route.com/)**:- An android/iOS app that allows to virtually track the orders i.e. packages to be delivered. It enables package protection and one-click refunds and reorders.
 
-Using the [Multi-vendor Marketplace app](https://marketplace-doc.webkul.com/classic/Introduction/) for Shopify, you can allow customers to ensure their orders with **Routes**.
+Using the [Multi-vendor Marketplace app](/zenith/introduction/) for Shopify, you can allow customers to ensure their orders with **Routes**.
 
 In Short, you can allow customers to enable insurance on product purchases and virtually track the packages to be shipped.
 

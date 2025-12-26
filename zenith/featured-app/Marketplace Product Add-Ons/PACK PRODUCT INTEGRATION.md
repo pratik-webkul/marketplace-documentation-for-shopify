@@ -4,7 +4,7 @@ description: PACK PRODUCT INTEGRATION
 author: Chirag Tyagi
 ---
 
-The **[Pack & Combo Product app](https://webkul.com/blog/shopify-pack-product-app/)** is now integrated with the [Multi-vendor Marketplace App](https://marketplace-doc.webkul.com/classic/Introduction/) for Shopify.
+The **[Pack & Combo Product app](https://webkul.com/blog/shopify-pack-product-app/)** is now integrated with the [Multi-vendor Marketplace App](/zenith/introduction/) for Shopify.
 
 Enabling this feature, you can allow sellers to create pack and combo products from their seller panel. You as an admin can also add pack & combo products from your admin panel in the app.
 

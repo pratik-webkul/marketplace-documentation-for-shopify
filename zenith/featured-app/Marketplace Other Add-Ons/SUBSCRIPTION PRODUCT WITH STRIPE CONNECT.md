@@ -8,11 +8,11 @@ Now allow your Sellers to add subscription for their products and provide maximu
 
 Allow your sellers to create their own Subscription on a weekly, monthly, or yearly basis.
 
-To get this feature simply enable the Product subscription feature app in your [Multivendor Marketplace app](https://marketplace-doc.webkul.com/classic/Introduction/).
+To get this feature simply enable the Product subscription feature app in your [Multivendor Marketplace app](/zenith/introduction/).
 
 
 
-**Note:** To use this feature it is mandatory to enable the [**Stripe connect feature**](https://marketplace-doc.webkul.com/classic/payment/Stripe.html) app in the Multivendor app. It is also compatible with [**Make an offer**](https://marketplace-doc.webkul.com/classic/Featured-App/Marketplace%20Product%20Add-Ons/MAKE%20AN%20OFFER.html) products
+**Note:** To use this feature it is mandatory to enable the [**Stripe connect feature**](/zenith//payment/Stripe.html) app in the Multivendor app. It is also compatible with [**Make an offer**](/zenith//Featured-App/Marketplace%20Product%20Add-Ons/MAKE%20AN%20OFFER.html) products
 
 **Currently, it only works with stripe payment but soon we are going to launch this feature app with the Shopify payment method too** **and update it constantly.**
 

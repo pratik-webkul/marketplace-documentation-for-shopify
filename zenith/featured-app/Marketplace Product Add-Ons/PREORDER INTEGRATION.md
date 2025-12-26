@@ -6,7 +6,7 @@ author: Chirag Tyagi
 
 [PreOrder](https://webkul.com/blog/preorder-strategy-2020-rev-up-your-shopify-store-sales/) is a great approach to determine the product in high demand. You can allow pre-order on your marketplace products and earn even before the product release.
 
-The [Multi-vendor Marketplace app](https://marketplace-doc.webkul.com/classic/Introduction/) for Shopify is now integrated with the Pre-order Controller App.
+The [Multi-vendor Marketplace app](/zenith/introduction/) for Shopify is now integrated with the Pre-order Controller App.
 
 Enabling the PreOrder feature app, you can **auto-enable pre-order** for the seller's products soon after the items get out of stock.
 

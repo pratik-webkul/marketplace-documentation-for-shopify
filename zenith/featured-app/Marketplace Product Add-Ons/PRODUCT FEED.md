@@ -7,7 +7,7 @@ author: Chirag Tyagi
 
 A Product Feed includes all the information related to products that are available on the marketplace for sale.
 
-[Multivendor Marketplace](https://marketplace-doc.webkul.com/classic/Introduction/) for Shopify has now come up with a new feature app called **Product Feed**.
+[Multivendor Marketplace](/zenith/introduction/) for Shopify has now come up with a new feature app called **Product Feed**.
 
 It enables the merchants to add products in bulk from different eCommerce platforms into Shopify via XML file upload.
 
