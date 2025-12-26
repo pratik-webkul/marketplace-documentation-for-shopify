@@ -141,7 +141,7 @@ export default defineConfig({
           collapsed: true,
           items: 
           [
-              { text: 'Overview', link: '/zenith/featured-app/Overview' },
+              { text: 'Overview', link: '/zenith/featured-app/overview' },
               {
                 text: 'Shipping',
                 collapsible: true,
