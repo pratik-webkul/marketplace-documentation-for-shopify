@@ -35,7 +35,7 @@ Enable the E-Signature feature app by following the below steps:
 ### Need to add code to allow customers to e-sign on pdf on the product page
 
 Copy the following code and add it into **product.json >> sections/main-product.liquid** template
-```liquid
+```html
     {% if product.tags contains 'wk_esign_document' %}  
     <div class="wk_esignate_document_active " data-productid ="  
     {{ product.id }}" data-variantid ="  
