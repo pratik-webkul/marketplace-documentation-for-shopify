@@ -20,7 +20,7 @@ jobs:
       - name: Install dependencies
         run: |
           gem install bundler
-          bundle install  # this will install Faraday v2.0+ and any other gems listed
+          gem 'faraday'  # this will install Faraday v2.0+ and any other gems listed
 
       - name: Setup Node.js
         uses: actions/setup-node@v4
