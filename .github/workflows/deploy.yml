@@ -1,5 +1,5 @@
 name: Deploy vitepress site to GitHub Pages
-
+markdown: kramdown
 on:
   push:
     branches:
