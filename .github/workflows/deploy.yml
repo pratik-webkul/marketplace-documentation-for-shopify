@@ -1,5 +1,5 @@
 name: Deploy vitepress site to GitHub Pages
-markdown: kramdown
+
 on:
   push:
     branches:
@@ -13,6 +13,14 @@ jobs:
         uses: actions/checkout@v4
         with:
           persist-credentials: false  # needed for deploy token auth
+          ruby-version: '3.0'  # specify the Ruby version you're using
+          bundler-cache: true   # enable caching for gems to speed up deployments
+          
+      # Install dependencies from Gemfile
+      - name: Install dependencies
+        run: |
+          gem install bundler
+          bundle install  # this will install Faraday v2.0+ and any other gems listed
 
       - name: Setup Node.js
         uses: actions/setup-node@v4
