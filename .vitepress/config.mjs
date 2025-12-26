@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  base : '/',
+  // base : '/',
   lang: 'en',
   title: 'Multivendor Marketplace For Shopify',
   description: 'This is the documentation regading webkul multivendor marketplace for shopify',
