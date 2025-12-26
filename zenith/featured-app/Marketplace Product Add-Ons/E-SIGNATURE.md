@@ -45,6 +45,7 @@ Copy the following code and add it into **product.json >> sections/main-product
     {% render "wk-esignature-document" %}
     {%- endif -%}       
 ```
+
 ![screenshot_1698411765895-2](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/10/screenshot_1698411765895-2-1200x521.jpeg)
 
 Copy the below code and add it into **templates >> customer/order.liquid** template
