@@ -232,6 +232,10 @@ To configure your store-front, you need to follow the below-given steps:
 
 Copy the below-given code and add it to **product.liquid** template file inside the form tag:
 
+```liquid
+{% render 'wk-product-custom-option' %}
+```
+
 In case, you haven't found the required template file? - Click on the '**Regenerate**' button to create a new one.
 
 ![Instructions-Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/12/Instructions-Admin-1200x627.png)
