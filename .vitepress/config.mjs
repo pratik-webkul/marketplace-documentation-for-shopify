@@ -92,12 +92,12 @@ export default defineConfig({
           collapsed: true,
           items: [
             { text: 'Add products', link: '/zenith/products/add-products' },
-            { text: 'Products updates', link: '/zenith/products/products-updates' },
-            { text: 'Import products', link: '/zenith/products/import-products' },
-            { text: 'Digital products', link: '/zenith/products/digital-products' },            
             { text: 'Collection sync', link: '/zenith/products/collection-sync' },
-            { text: 'Multilevel collection', link: '/zenith/products/multilevel-collection' },            
+            { text: 'Digital products', link: '/zenith/products/digital-products' },
             { text: 'Dual sync', link: '/zenith/products/dual-sync' },
+            { text: 'Import products', link: '/zenith/products/import-products' },                                    
+            { text: 'Multilevel collection', link: '/zenith/products/multilevel-collection' },            
+            { text: 'Products updates', link: '/zenith/products/products-updates' },
           ]
         },
         {
@@ -180,18 +180,18 @@ export default defineConfig({
               collapsible: true,
               collapsed: true,
               items: [
-                { text: 'SELLER SHOPIFY STORE CONNECTOR', link: '/zenith/featured-app/Connector/SELLER SHOPIFY STORE CONNECTOR' },
-                { text: 'WOOCOMMERCE CONNECTOR', link: '/zenith/featured-app/Connector/WOOCOMMERCE CONNECTOR' },
-                { text: 'SHOPIFY ETSY CONNECTOR', link: '/zenith/featured-app/Connector/SHOPIFY ETSY CONNECTOR' },
-                { text: 'SHOPIFY MAGENTO CONNECTOR', link: '/zenith/featured-app/Connector/SHOPIFY MAGENTO CONNECTOR' },
-                { text: 'SHOPIFY PRESTASHOP CONNECTOR', link: '/zenith/featured-app/Connector/SHOPIFY PRESTASHOP CONNECTOR' },
-                { text: 'SQUAREUP CONNECTOR', link: '/zenith/featured-app/Connector/SQUAREUP CONNECTOR' },
-                { text: 'LINNWORKS CONNECTOR', link: '/zenith/featured-app/Connector/LINNWORKS CONNECTOR' },
-                { text: 'SOOPOS CONNECTOR', link: '/zenith/featured-app/Connector/SOOPOS CONNECTOR' },
-                { text: 'BIGCOMMERCE CONNECTOR', link: '/zenith/featured-app/Connector/BIGCOMMERCE CONNECTOR' },
-                { text: 'AMAZON CONNECTOR', link: '/zenith/featured-app/Connector/AMAZON CONNECTOR' },
-                { text: 'SHOPIFY EBAY CONNECTOR', link: '/zenith/featured-app/Connector/SHOPIFY EBAY CONNECTOR' },
-                { text: 'DYTEL POS CONNECTOR', link: '/zenith/featured-app/Connector/DYTEL POS CONNECTOR' }       
+                { text: 'AMAZON CONNECTOR', link: '/zenith/featured-app/Connector/amazon-connector' },
+                { text: 'BIGCOMMERCE CONNECTOR', link: '/zenith/featured-app/Connector/bigcommerce-connector' },
+                { text: 'DYTEL POS CONNECTOR', link: '/zenith/featured-app/Connector/dytel-pos-connector' },
+                { text: 'LINNWORKS CONNECTOR', link: '/zenith/featured-app/Connector/linnworks-connector' },
+                { text: 'SELLER SHOPIFY STORE CONNECTOR', link: '/zenith/featured-app/Connector/seller-shopify-store-connector' },
+                { text: 'SHOPIFY EBAY CONNECTOR', link: '/zenith/featured-app/Connector/shopify-ebay-connector' },
+                { text: 'SHOPIFY ETSY CONNECTOR', link: '/zenith/featured-app/Connector/shopify-etsy-connector' },
+                { text: 'SHOPIFY MAGENTO CONNECTOR', link: '/zenith/featured-app/Connector/shopify-magento-connector' },
+                { text: 'SHOPIFY PRESTASHOP CONNECTOR', link: '/zenith/featured-app/Connector/shopify-prestashop-connector' },
+                { text: 'SOOPOS CONNECTOR', link: '/zenith/featured-app/Connector/soopos-connector' },
+                { text: 'SQUAREUP CONNECTOR', link: '/zenith/featured-app/Connector/squareup-connector' },
+                { text: 'WOOCOMMERCE CONNECTOR', link: '/zenith/featured-app/Connector/woocommerce-connector' },                
               ]
             },
             {
@@ -249,13 +249,13 @@ export default defineConfig({
               collapsible: true,
               collapsed: true,
               items:[
-                { text: 'LOCATE YOUR PICKUP STORE', link: '/zenith/featured-app/Marketplace Other Add-Ons/LOCATE YOUR PICKUP STORE' },
-                { text: 'SUBSCRIPTION PRODUCT WITH STRIPE CONNECT', link: '/zenith/featured-app/Marketplace Other Add-Ons/SUBSCRIPTION PRODUCT WITH STRIPE CONNECT' },
-                { text: 'CHAT GPT', link: '/zenith/featured-app/Marketplace Other Add-Ons/CHAT GPT' },
-                { text: 'MULTIVENDOR DATABASE BACKUP', link: '/zenith/featured-app/Marketplace Other Add-Ons/MULTIVENDOR DATABASE BACKUP' },
-                { text: 'WATERMARK', link: '/zenith/featured-app/Marketplace Other Add-Ons/WATERMARK' },
-                { text: 'SELLER BLOG', link: '/zenith/featured-app/Marketplace Other Add-Ons/SELLER BLOG' },
-                { text: 'EASY GROUP BUY APP', link: '/zenith/featured-app/Marketplace Other Add-Ons/EASY GROUP BUY APP' }
+                { text: 'CHAT GPT', link: '/zenith/featured-app/Marketplace Other Add-Ons/chat-gpt' },
+                { text: 'EASY GROUP BUY APP', link: '/zenith/featured-app/Marketplace Other Add-Ons/easy-group-buy' },
+                { text: 'LOCATE YOUR PICKUP STORE', link: '/zenith/featured-app/Marketplace Other Add-Ons/locate-your-pickup-store' },
+                { text: 'MULTIVENDOR DATABASE BACKUP', link: '/zenith/featured-app/Marketplace Other Add-Ons/multivendor-database-backup' },
+                { text: 'SELLER BLOG', link: '/zenith/featured-app/Marketplace Other Add-Ons/seller-blog' },
+                { text: 'SUBSCRIPTION PRODUCT WITH STRIPE CONNECT', link: '/zenith/featured-app/Marketplace Other Add-Ons/subscription-product-with-stripe-connect' }, 
+                { text: 'WATERMARK', link: '/zenith/featured-app/Marketplace Other Add-Ons/watermark' },                       
               ]
             },
             {
@@ -263,17 +263,17 @@ export default defineConfig({
               collapsible: true,
               collapsed: true,
               items:[
-                { text: 'SMS ALERT', link: '/zenith/featured-app/Marketplace Miscellaneous Add-ons/SMS ALERT' },
-                { text: 'WEGLOT TRANSLATION', link: '/zenith/featured-app/Marketplace Miscellaneous Add-ons/WEGLOT TRANSLATION' },
-                { text: 'MULTIVENDOR API', link: '/zenith/featured-app/Marketplace Miscellaneous Add-ons/MULTIVENDOR API' },
-                { text: 'SELLER STAFF', link: '/zenith/featured-app/Marketplace Miscellaneous Add-ons/SELLER STAFF' },
-                { text: 'ADMIN STAFF', link: '/zenith/featured-app/Marketplace Miscellaneous Add-ons/ADMIN STAFF' },
-                { text: 'MULTI LOCATION INVENTORY', link: '/zenith/featured-app/Marketplace Miscellaneous Add-ons/MULTI LOCATION INVENTORY' },
-                { text: 'CUSTOMER ORDER MANAGEMENT', link: '/zenith/featured-app/Marketplace Miscellaneous Add-ons/CUSTOMER ORDER MANAGEMENT' },
-                { text: 'SPLIT CART', link: '/zenith/featured-app/Marketplace Miscellaneous Add-ons/SPLIT CART' },
-                { text: 'HYPERLOCAL MARKETPLACE', link: '/zenith/featured-app/Marketplace Miscellaneous Add-ons/HYPERLOCAL MARKETPLACE' },
-                { text: 'ROUTE INSURANCE', link: '/zenith/featured-app/Marketplace Miscellaneous Add-ons/ROUTE INSURANCE' },
-                { text: 'ZOHO INTEGRATION', link: '/zenith/featured-app/Marketplace Miscellaneous Add-ons/ZOHO INTEGRATION' }               
+                { text: 'ADMIN STAFF', link: '/zenith/featured-app/Marketplace Miscellaneous Add-ons/admin-staff' },
+                { text: 'CUSTOMER ORDER MANAGEMENT', link: '/zenith/featured-app/Marketplace Miscellaneous Add-ons/customer-order-management' },
+                { text: 'HYPERLOCAL MARKETPLACE', link: '/zenith/featured-app/Marketplace Miscellaneous Add-ons/hyperlocal-marketplace' },
+                { text: 'MULTI LOCATION INVENTORY', link: '/zenith/featured-app/Marketplace Miscellaneous Add-ons/multi-location-inventory' },
+                { text: 'MULTIVENDOR API', link: '/zenith/featured-app/Marketplace Miscellaneous Add-ons/multivendor-api' },
+                { text: 'ROUTE INSURANCE', link: '/zenith/featured-app/Marketplace Miscellaneous Add-ons/route-insurance' },
+                { text: 'SELLER STAFF', link: '/zenith/featured-app/Marketplace Miscellaneous Add-ons/seller-staff' },
+                { text: 'SMS ALERT', link: '/zenith/featured-app/Marketplace Miscellaneous Add-ons/sms-alert' },
+                { text: 'SPLIT CART', link: '/zenith/featured-app/Marketplace Miscellaneous Add-ons/split-cart' },
+                { text: 'WEGLOT TRANSLATION', link: '/zenith/featured-app/Marketplace Miscellaneous Add-ons/weglot-translation' }, 
+                { text: 'ZOHO INTEGRATION', link: '/zenith/featured-app/Marketplace Miscellaneous Add-ons/zoho-integration' }               
               ]
             }
           ]

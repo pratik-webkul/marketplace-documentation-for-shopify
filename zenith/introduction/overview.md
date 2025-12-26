@@ -344,7 +344,7 @@ Now make sure to assign these imported products to your sellers because only the
 
 This way you can successfully import the products from your Shopify store into a multivendor marketplace app.
 
-**Import Products from Shopify to the App** know more: [https://marketplace-doc.webkul.com/classic/products/Import-products.html](https://marketplace-doc.webkul.com/zenith/products/Import-products.html)
+**Import Products from Shopify to the App** know more: [/zenith//products/Import-products.html](https://marketplace-doc.webkul.com/zenith/products/Import-products.html)
 
 **Product Form Customization** With this Admin can manage the "Add Product Form" for normal as well as digital products in the app.
 

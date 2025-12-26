@@ -7,7 +7,7 @@ author: Chirag Tyagi
 
 **Multivendor Marketplace- Booking App Integration**
 
-[Multivendor Marketplace](https://marketplace-doc.webkul.com/classic/Introduction/) App has come up with a new feature app called "**Booking Product**" which is now integrated with the "**[Booking App by Webkul](https://webkul.com/blog/shopify-booking-app/)**".
+[Multivendor Marketplace](/zenith/introduction/) App has come up with a new feature app called "**Booking Product**" which is now integrated with the "**[Booking App by Webkul](https://webkul.com/blog/shopify-booking-app/)**".
 
 This feature app helps both admin and sellers to add bookings to products available on the marketplace.
 

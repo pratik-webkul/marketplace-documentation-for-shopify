@@ -5,7 +5,7 @@ date: 2025-08-07
 author: Chirag Tyagi
 ---
 
-We are here to introduce the basic version of the Indian GST module in [Multivendor Marketplace App](https://marketplace-doc.webkul.com/classic/Introduction/   ) for Shopify
+We are here to introduce the basic version of the Indian GST module in [Multivendor Marketplace App](/zenith/introduction/   ) for Shopify
 
 Which enables the seller to declare the product price inclusive of GST along with other taxes.
 

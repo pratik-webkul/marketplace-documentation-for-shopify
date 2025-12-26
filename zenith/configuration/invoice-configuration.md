@@ -5,7 +5,7 @@ date: 2025-08-12
 author: Chirag Tyagi
 ---
 
-In [Multivendor Marketplace](https://marketplace-doc.webkul.com/classic/Introduction/) App for Shopify, we have introduced Invoice feature which enables both admin and seller to generate an invoice from their respective ends.
+In [Multivendor Marketplace](/zenith/introduction/) App for Shopify, we have introduced Invoice feature which enables both admin and seller to generate an invoice from their respective ends.
 
 **NOTE:** It is mandatory to have a **Multi-Vendor Marketplace PRO plan** to have the invoice feature.
 
