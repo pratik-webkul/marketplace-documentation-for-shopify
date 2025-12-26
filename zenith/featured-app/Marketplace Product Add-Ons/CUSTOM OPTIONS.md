@@ -232,7 +232,7 @@ To configure your store-front, you need to follow the below-given steps:
 
 Copy the below-given code and add it to **product.liquid** template file inside the form tag:
 
-```{% raw %}
+```liquid
 {% render 'wk-product-custom-option' %}
 ```
 
