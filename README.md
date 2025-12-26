@@ -1,1 +1,2 @@
-# marketplace-documentation-for-shopify
+# marketplace-documentation
+
