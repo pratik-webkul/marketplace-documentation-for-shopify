@@ -5,7 +5,7 @@ date: 2025-07-25
 author: Chirag Tyagi
 ---
 
-[Multi-Vendor Marketplace for Shopify](/zenith/introduction/) is here with another feature app called **Hyperlocal Marketplace.**
+[Multi-Vendor Marketplace for Shopify](/zenith/introduction/overview.html) is here with another feature app called **Hyperlocal Marketplace.**
 
 Defining Hyperlocal Marketplace:
 --------------------------------

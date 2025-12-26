@@ -4,7 +4,7 @@ description: LINNWORKS CONNECTOR
 date: 2025-07-25
 author: Chirag Tyagi
 ---
-Connect **[Linnworks](https://www.linnworks.com/)**, an order management software, with **[Multivendor Marketplace App](https://webkul.com/blog/shopify-multivendor-marketplace-new-theme-launched/)** for **Shopify** using this connector add-on.
+Connect **[Linnworks](https://www.linnworks.com/)**, an order management software, with **[Multivendor Marketplace App](/zenith/introduction/overview.html)** for **Shopify** using this connector add-on.
 
 **What is Linnworks?**  
 Linnworks is an eCommerce platform that helps online retailers automate key processes, reduce costs, and grow their business.

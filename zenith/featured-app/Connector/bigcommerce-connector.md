@@ -20,7 +20,8 @@ BmnShr6fcq0
 
 Let’s dig deeper to know more about the BigCommerce Connector.
 
-### How to Enable?
+ How to Enable?
+-------------------
 
 Go to the **Feature App** section and enable the **BigCommerce Connector** feature app.
 
@@ -28,8 +29,8 @@ Go to the **Feature App** section and enable the **BigCommerce Connector** featu
 
 Then, approve the additional charge of $25 USD/month over and above your current Multi-vendor app plan.
 
-### Admin Panel Configuration
-
+ Admin Panel Configuration
+--------------------------------
 To configure the settings, visit the admin panel **Configurations**\>>**Connector Configuration**\>>select the connector.
 
 ![connector configuration](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/09/Dashboard-Admin-1-1200x556.png)
@@ -71,8 +72,8 @@ Copy following code into **product.json >> sections/main-product.liquid** (or 
 
 ![BigCommerce-Preorder Data Information](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/01/preorder-code-edited-scaled.webp)
 
-### Seller Panel Configuration
-
+Seller Panel Configuration
+---------------------------
 Now, the seller needs to manage the configuration from the Multi-vendor seller panel. Go to seller panel **Configuration**\>>**BigCommerce Configuration**.
 
 ![BigCommerce configure](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/09/Dashboard-Seller-%E2%80%A2-Multivendor-MarketPlace-2-1200x556.png)
@@ -85,8 +86,8 @@ Moreover, the seller can choose if he/she wants to auto-sync newly added product
 
 The sellers will get all the details from their BigCommerce stores by creating API accounts.
 
-### How To Create an API Account?
-
+How To Create an API Account?
+--------------------------------
 To create an API account, the seller needs to login to his/her BigCommerce store.
 
 Now, go to **Advanced Settings**.
@@ -105,8 +106,8 @@ Enter the following details:-
 
 ![BigCommerce ](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/10/Screenshot-2021-10-05T181046.674.png)
 
-### Seller Panel Configuration
-
+Seller Panel Configuration
+------------------------------
 As soon as the admin enables the BigCommerce feature, a new sub-menu gets added to the **Configuration** menu of the app i.e. **BigCommerce Configuration**.
 
 ![bigcommerce configuration](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/09/Dashboard-Seller-%E2%80%A2-Multivendor-MarketPlace-3-1200x549.png)
@@ -117,14 +118,14 @@ Next in this guide, we will see how to get access token.
 
 ![BigCommerce](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/09/BigCommerce-Details-Seller-%E2%80%A2-Multivendor-MarketPlace-1-1200x949.png)
 
-### How to Get Access Token?
-
+ How to Get Access Token?
+-----------------------------------
 While creating an API account, enter the details and click the Save button. A pop-up appears from where you will get the access token.
 
 ![Get access token](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/09/DEMO-STORE-BigCommerce-Control-Panel-3-1200x549.png)
 
-### Seller Importing Products - BigCommerce to Shopify
-
+Seller Importing Products - BigCommerce to Shopify
+-------------------------------------------------
 After all these settings, the seller will proceed to import products from his/her BigCommerce store to the admin’s Shopify store.
 
 Clicking the **Import Product** button, the seller will have two methods to import products.
@@ -134,18 +135,18 @@ Clicking the **Import Product** button, the seller will have two methods to im
 
 ![Import products](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/09/Import-Product-From-BigComerce-Seller-%E2%80%A2-Multivendor-MarketPlace-1200x680.png)
 
-### Auto Approve Imported Products
-
+ Auto Approve Imported Products
+---------------------------------
 You can enable Auto Approve from the Admin panel >> Configuration >> Product configuration so that the Admin would automatically approve all these imported products.  
 
-### Register Webhook
-
+Register Webhook
+------------------------------
 The seller can register or unregister BigCommerce webhooks from the seller panel. For this, login to seller panel>>go to BigCommerce Configuration>>BigCommerce Webhooks.
 
 ![register webhook](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/09/Screenshot-32-1200x544.png)
 
-### Price Rule
-
+Price Rule
+----------------------
 Let the sellers create price rules to manage the product price of the seller’s Square up POS to the merchant’s store.
 
 ![connector price rule](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/11/Dashboard-Seller-%E2%80%A2-Multivendor-MarketPlace-2-1200x627.png)
@@ -162,8 +163,8 @@ enter the amount that needs to be changed.
 
 Now, enable the checkbox to update sync product’s price at the merchant’s store as per the price rule created.
 
-### Sync Barcode
-
+Sync Barcode
+------------------------
 Now the admin can allow their sellers to sync the product's Barcodes (UPC, MPN, GTIN, etc) from their Bigcommerce store to the Admin's Shopify store.
 
 To do this, first Admin needs to enable this Configuration from Admin Panel>> Configuration>> Connector Configuration>>Choose Bigcommerce Connector>>

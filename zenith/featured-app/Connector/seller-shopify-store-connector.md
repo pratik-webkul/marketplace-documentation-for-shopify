@@ -5,28 +5,27 @@ date: 2025-07-20
 author: Chirag Tyagi
 ---
 
-
 Here is the solution to allow them to sync their Shopify store products with your Shopify store. "Create an app for your sellers" by enabling the Seller Shopify store Connector feature app.
 
-If your sellers also have Shopify stores and they want to add products from their respective stores to the Admin Shopify Store
+If your sellers also have Shopify stores, and they want to add products from their respective stores to the Admin Shopify Store
 
-then you can use Seller Shopify store connector featured app of the [Multi-vendor Marketplace app](https://webkul.com/blog/shopify-multivendor-marketplace-new-theme-launched/).
+Then you can use the Seller Shopify store connector, a featured app of the [Multi-vendor Marketplace app](/zenith/introduction/overview.html).
 
-You can get this featured app at a monthly subscription of $ 40 (USD) over & above your current multivendor app plan.
+You can get this featured app at a monthly subscription of $40 (USD) in addition to your current multivendor app plan.
 
 ### Features
 
 *   Let the marketplace sellers sync their Shopify store products with the admin's Shopify store.
-*   Also, Seller’s Shopify store’s inventory will be synced with the admin Shopify store.
-*   Further, the seller needs to create a private app on his Shopify store and configure the details in his/her seller panel.
-*   Order & inventory will be synced on both admin & seller Shopify end.
+*   Also, the Seller’s Shopify store’s inventory will be synced with the admin Shopify store.
+*   Further, the seller needs to create a private app on their Shopify store and configure the details in his/her seller panel.
+*   Order and inventory sync automatically on both the admin and seller Shopify stores.
 *   Moreover, sellers can now update products in bulk from the “products” section of the seller app.
 *   The sellers can register webbooks on their own based on their permission.
-*   Compatible with the **[Partial Fulfillment](https://webkul.com/blog/shopify-multivendor-marketplace-partial-fulfillment/)** feature.
-*   Smart collections can now be imported from the seller Shopify store into the Multi-vendor app via this Seller Shopify store connector add-on. [Know About Collection Sync Process](https://webkul.com/blog/shopify-multivendor-marketplace-collection-sync-from-shopify-store/)
-*   Tags can be mapped via CSV file upload.
+*   Compatible with the **[Partial Fulfilment](https://webkul.com/blog/shopify-multivendor-marketplace-partial-fulfillment/)** feature.
+*   Smart collections can now be imported from the seller's Shopify store into the Multi-vendor app via this Seller Shopify store connector add-on. Know About the [Collection Sync Process](/zenith/products/collection-sync.html)
+*   Tags can be mapped via a CSV file upload.
 
-Check the below video for the Seller Shopify Store Connector:
+Check the video below for the Seller Shopify Store Connector:
 
 0wTN1sLpD78
 
@@ -40,13 +39,146 @@ Click the **Enable** button to activate the **Seller Shopify Store Connector** f
 
 Approve the charge & get the feature to your marketplace.
 
-Now, as soon as the Seller Shopify Connector feature app is Active, the sellers will get a new menu to the configuration menu of their respective Seller panels .
+Now, as soon as the Seller Shopify Connector feature app is Active, the sellers will get a new menu to the configuration menu of their respective Seller panels.
 
 ![Dashboard-Seller-•-Multivendor-MarketPlace](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/01/Dashboard-Seller-%E2%80%A2-Multivendor-MarketPlace-1200x627.png)
 
-### NEW WORKFLOW :
+### NEW WORKFLOW
 
-To make the product sync features work, the seller firstly needs to create a custom app on their Shopify store.
+To use the features of the seller Shopify connector app, the seller needs to create a custom app for their Shopify store.
+
+### How to create a custom app?
+
+Seller have to log in to there shopify partner store, then navigate to the dev dashboard.
+
+![dev dashboard](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/02/shopifypartner1-1200x545.webp)
+
+Inside the dev dashboard, click on the create app button.
+
+![create app for seller shopify store connector](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/02/createapp-1-1200x545.webp)
+
+Enter the name and click on the create button.
+
+![app name ](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/02/appname-1200x545.webp)
+
+You will be redirected to the Create a version page, where you have to fill in the necessary details.
+
+![create a version page for seller shopify store connector](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/02/createaversionspage-1155x1024.webp)
+
+Now, scroll down and fill in the URLs section.
+
+Follow these steps to find the App URL and Preference URL:-
+
+*   You have to log in to the seller portal >> go to the **"Seller sync app configuration"** inside the Configuration menu >> copy the App URL from there >> paste it into the App URL and Preferences URL block.
+
+![capy app url seller ](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/02/copyappurl-1200x545.webp)
+
+And, paste the link here and uncheck the "Embed app in Shopify admin" option.
+
+![paste url](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/02/sellersideurlpaste-1200x545.webp)
+
+**Note:- Don't change the Webhook API version.**
+
+Now, go back to the **"Seller sync app configuration"** in the seller portal and copy the other URL under the App URL.
+
+![copy other url](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/02/copyotherurl-1200x545.webp)
+
+And, paste it here in the Redirect URL along with the App URL. Only use a comma ( , ) to separate them.
+
+![paste other url](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/02/pasteredirecturl-1200x545.webp)
+
+### REQUIRED PERMISSIONS FOR CUSTOM APP (New Workflow)
+
+**Here are the required permissions for the custom seller app**:
+
+Assigned fulfilment orders _(**Read and write**)  
+_# `write_assigned_fulfillment_orders` , `read_assigned_fulfillment_orders`
+
+Fulfilment services _(**Read and write**)  
+_\# `read_fulfillments`, `write_fulfillments`
+
+Inventory _(**Read and write**)  
+_\# `read_inventory`, `write_inventory`
+
+Locations _(**Read Access**)  
+_\# `read_locations`
+
+Order Editing _(**Read and write**)  
+_\# `read_orders`, `write_orders`  
+**First**, allow this permission if you want any edits made on the merchant’s store to be automatically synced with the seller’s store.
+
+**As a result**, the seller will always see the most up-to-date order details.
+
+Orders _(**Read and write**)  
+_\# `read_orders`, `write_orders`
+
+Products _**(Read and write)**_  
+\# `read_products`, `write_products`
+
+Markets  
+# read\_markets\_home
+
+Now, copy these required permissions and paste them into the scope block altogether:-
+
+`write_assigned_fulfillment_orders,read_assigned_fulfillment_orders,read_fulfillments, write_fulfillments,read_inventory,`
+
+`write_inventory,read_locations,read_orders, write_orders,read_products, write_products,read_markets_home`
+
+![scope](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/02/scopes-1200x545.webp)
+
+Then, click on Release. A field to enter the version name will appear. You can fill it in or leave it blank; the name will be auto-generated. Click on release.
+
+![release version](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/02/versionname-1-1200x545.webp)
+
+Go back to your Shopify partner account >> navigate to "App distribution" >> All apps >> then click on the custom app you created.
+
+![app distribution](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/02/appdistribution-1-1200x545.webp)
+
+Go to the API access request section, scroll down, and click on the "Request access" button under the "Protected customer data access" section.
+
+![request access](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/02/requestaccess-1200x545.webp)
+
+Inside the "Protected customer data access" section, click on the select option in the "Protected customer data" section.
+
+![ click select](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/02/clickselect-1200x545.webp)
+
+Now select all the options except the "other" option and click on save.
+
+![select saccess](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/02/selectaccess-832x1024.webp)
+
+Go back to your dev dashboard, open the app you just created, and navigate to the settings and copy the client ID from the "Credential" section.
+
+![client id](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/02/appsettingcredential-1200x544.webp)
+
+Paste the client ID in the "Api key" block in the **"Seller sync app configuration"** inside the Configuration menu at the seller portal.
+
+![api key](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/02/apikey-1200x545.webp)
+
+Now copy the "Secret Key" from the "Credential" section.
+
+![copy secret key](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/02/copysecreatkey-1200x545.webp)
+
+Paste it here.
+
+![paste secret key](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/02/pastesecreatkey-1200x545.webp)
+
+And now paste the seller's Shopify store URL here.
+
+![store url](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/02/pastestoreurl-1200x545.webp)
+
+And, click on the "save and install" button at the bottom.
+
+After clicking on the "save and install" button, you will be redirected to the seller shopify store to install the app. Click on Install.
+
+![install ](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/02/installapp-1200x545.webp)
+
+After this, the system installs the custom app in the seller’s Shopify store, allowing you to access all other features of the **Seller Shopify Connector App**.
+
+![full access](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/02/fullaccess-1-1200x545.webp)
+
+### LEGACY WORKFLOW (Old)
+
+To make the product sync features work, the seller first needs to create a custom app on their Shopify store.
 
 Step 1: The seller needs to log in to their Shopify account and create a custom app from the "apps" section.
 
@@ -60,7 +192,7 @@ After entering the name of the app, click on "Create app".
 
 ![screenshot-sagar-satti-store.myshopify.com-2022.02.09-11_44_40](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/02/screenshot-sagar-satti-store.myshopify.com-2022.02.09-11_44_40.png)
 
-Step 3: After creating the custom app, now the seller needs to configure Admin APIs by clicking on "configure Admin API scopes".
+Step 3: After creating the custom app, the seller needs to configure Admin APIs by clicking on "configure Admin API scopes.
 
 ![screenshot-sagar-satti-store.myshopify.com-2022.02.09-11_49_55](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/02/screenshot-sagar-satti-store.myshopify.com-2022.02.09-11_49_55-1200x581.png)
 
@@ -70,49 +202,45 @@ Now, the seller needs to provide the required permission for the custom app.
 
 ![permissions](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/08/permissions.png)
 
-### REQUIRED PERMISSIONS FOR CUSTOM APP
+#### REQUIRED PERMISSIONS FOR CUSTOM APP (LEGACY WORKFLOW)
 
 **Here are the required permissions for the custom seller app**:
 
-Assigned fulfillment orders _(**Read and write**)  
+Assigned fulfilment orders _(**Read and write**)  
 _\# `write_assigned_fulfillment_orders` , `read_assigned_fulfillment_orders`
 
-Fulfillment services _(**Read and write**)  
-_\# read\_fulfillments, write\_fulfillments
+Fulfilment services _(**Read and write**)  
+_\# `read_fulfillments`, `write_fulfillments`
 
 Inventory _(**Read and write**)  
-_\# read\_inventory, write\_inventory
+_\# `read_inventory`, `write_inventory`
 
 Locations _(**Read Access**)  
-_\# read\_locations
-
-Order Editing _(**Read and write**)  
-_\# read\_orders, write\_orders  
-Allow this permission if you want to sync the order details with the seller store once edited on the merchant's store, else don't allow it.
+_\# `read_locations`
 
 Orders _(**Read and write**)  
-_\# read\_orders, write\_orders
+_\# `read_orders`, `write_orders`
 
 Products _**(Read and write)**_  
-\# read\_products, write\_product
+\# `read_products`, `write_products`
 
 Markets  
-\# **read\_merkets\_home**
+\# **read\_markets\_home**
 
-### Required Permission for Sales Channel Configuration
+#### Required Permission for Sales Channel Configuration (LEGACY WORKFLOW)
 
-#write\_product\_listings, #read\_product\_listings  
+#`write_product_listings`, #`read_product_listings`  
   
 **Storefront API access scopes**:  
 #`unauthenticated_read_product_listings`  
   
 _Note: These permissions are mandatory for Sales Channel Configuration._
 
-After providing the required permission, click on save.
+After providing the required permission, click on Save.
 
 ![screenshot-sagar-satti-store.myshopify.com-2022.02.09-12_06_39](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/02/screenshot-sagar-satti-store.myshopify.com-2022.02.09-12_06_39-823x1024.png)
 
-Once, the permissions are saved, the seller will get an option to install the custom app.
+Once the permissions are saved, the seller will get an option to install the custom app.
 
 The seller needs to install the app by clicking on the "install app" button.
 
@@ -124,17 +252,17 @@ Now, the seller needs to copy the access token, API key, and secret key and past
 
 ![screenshot-sagar-satti-store.myshopify.com-2022.02.09-12_14_16](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/02/screenshot-sagar-satti-store.myshopify.com-2022.02.09-12_14_16-1200x801.png)
 
-NOTE: Ignore the flow explained below as the private apps are now depreciated by Shopify. Please skip to the "[seller panel](https://webkul.com/blog/seller-shopify-store-connector-multi-vendor-marketplace-for-shopify/#seller-panel)" section below
+NOTE: Ignore the flow explained below, as the private apps are now deprecated by Shopify. Please skip to the "[seller panel](https://webkul.com/blog/seller-shopify-store-connector-multi-vendor-marketplace-for-shopify/#seller-panel)" section below
 
 To make the product sync features work, the sellers first need to create a private app on their respective Shopify stores.
 
 Then, the sellers will get all the app details to configure for syncing products with the admin’s store.
 
-### How does the Seller Create a Private App?
+#### How does the Seller Create a Private App? (LEGACY WORKFLOW)
 
-To create a Private App, firstly the seller needs to Visit the “**Apps**” section of his/her Shopify Store.
+To create a Private App, firstly, the seller needs to visit the “**Apps**” section of his/her Shopify Store.
 
-Then, scrolling down to the bottom, You will get the “**Manage Private Apps**” option. Click on it to create a new Private app.
+Then, scrolling down to the bottom, you will get the “**Manage Private Apps**” option. Click on it to create a new Private app.
 
 ![Seller App](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/01/Shopify-1200x576.png)
 
@@ -148,9 +276,9 @@ This way, the seller can create a private app from his/her Shopify store.
 
 Now, the seller will configure all the details from his seller panel.
 
-### REQUIRED PERMISSIONS TO CREATE A PRIVATE APP
+#### REQUIRED PERMISSIONS TO CREATE A PRIVATE APP (LEGACY WORKFLOW)
 
-**Here is the required Permission for private seller\_app:**
+**Here is the required Permission for the private seller\_app:**
 
 Assigned fulfillment orders _(**Read and write**)  
 _\# read\_orders, write\_orders
@@ -180,7 +308,7 @@ Products _**(Read and write)**_
 
 ### Seller Panel
 
-After Installing the custom app on the seller Shopify store, the seller has got the access token, API key, and secret key which he/she needs to paste in the "seller sync app configuration".
+After installing the custom app on the seller's Shopify store, the seller has got the access token, API key, and secret key, which he/she needs to paste in the "seller sync app configuration".
 
 Seller panel >> configuration >> seller sync app configurations
 
@@ -269,7 +397,15 @@ You can configure the settings as per the requirements.
 **Product Details Configuration  
 **In the “Product Details Configuration”, you can enable/disable the options. Thus, auto-update the enable fields when the sellers make any update from their end.
 
-![Seller-Supported-App-Configuration-Admin-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/01/Seller-Supported-App-Configuration-Admin-1-889x1024.png)
+![Seller App Details](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/02/sellerappdetail-614x1024.webp)
+
+### TRACK PRODUCT INVENTORY
+
+If the admin enables this option from their end, the **inventory tracking status** from the seller’s Shopify store will be synced to the Multivendor Marketplace (MVM).
+
+Configuration>>Seller Support App Feature>>Product Details Configuration>>Track Product Inventory
+
+![Track product inventory](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/02/trackinventory-1-1200x575.webp)
 
 ### RESTRICT IMAGE COUNT ON PRODUCTS
 
@@ -286,6 +422,28 @@ You can now import product meta fields from the seller's Shopify store into your
 For this, you need to enable the below-given option from the Seller App Configuration>>**Product Details Configuration**.
 
 ![Screenshot-5](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/04/Screenshot-5-1200x610.png)
+
+### Update Product Video
+
+A new option is available that allows you to control whether the product video is updated in the multivendor app when the seller updates the product video in their Shopify store.
+
+For this, you need to enable the below-given option from the Seller App Configuration >> **Product Details Configuration**.
+
+![Product video](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/02/provideo-1-1200x638.webp)
+
+### Manage Product Category
+
+A new configuration option has been added to manage whether product category updates from the seller’s Shopify store are synced with the Multivendor app.
+
+For this, you need to enable the below-given option from the Seller App Configuration >> **Product Details Configuration**.
+
+![Product category](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/02/productcatego-1200x638.webp)
+
+Please note that to enable this configuration, you must first enable the **Manage Product Taxonomy Category** setting. Then only you will be able to enable the above config Product Category.
+
+You can do this by navigating to the **Multivendor Admin Panel >> Configuration >> Product Configuration**.
+
+![Manage Product Taxonomy Category](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/02/taxonomy-1200x638.webp)
 
 ### Seller Updating Products
 
@@ -527,7 +685,7 @@ The seller can unregister/delete webhook and can anytime register it again.
 
 Sellers can now map products with their connected Shopify stores.
 
-In case a seller wants to map a product with a specific product of his/her Shopify store then, the variant will be mapped automatically.
+In case a seller wants to map a product with a specific product of his/her Shopify store, then the variant will be mapped automatically.
 
 Now, the seller can map the products from the Product Listing>>Edit product>>**Map Product** button.
 
@@ -592,4 +750,8 @@ Now, to enable this tab, go to admin panel>>Configuration>>**Seller Supported Ap
 
 ![Screenshot-2021-10-08T175408.237-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/10/Screenshot-2021-10-08T175408.237-1-1200x532.png)
 
-That's all about the this feature app.
+That's all about this feature app.
+
+Furthermore, if you need any kind of support/Consultancy, then please raise a ticket at [http://webkul.uvdesk.com/](http://webkul.uvdesk.com/) or drop an email at **support@webkul.com**.
+
+Thanks for reading this blog!!!

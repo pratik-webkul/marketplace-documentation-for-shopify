@@ -4,7 +4,7 @@ description: SQUAREUP CONNECTOR
 date: 2025-07-20
 author: Chirag Tyagi
 ---
-Square up is now integrated with the [Multi-vendor Marketplace](https://webkul.com/blog/shopify-multivendor-marketplace-new-theme-launched/) app for Shopify. This integration will help your sellers to connect their Square POS to the admin's Shopify store.
+Square up is now integrated with the [Multi-vendor Marketplace](/zenith/introduction/overview.html) app for Shopify. This integration will help your sellers to connect their Square POS to the admin's Shopify store.
 
 Thus, the marketplace sellers can manage products, inventory, pricing at a single location.
 

@@ -8,7 +8,7 @@ DYTEL POS offers a seamless, centralized system for managing orders, payments, a
 
 If you have a restaurant marketplace and use DYTEL POS, you can streamline operations by integrating it with [Shopify Multivendor Marketplace](https://apps.shopify.com/multi-vendor-marketplace) for efficient vendor and transaction management .
 
-DYTEL POS integrates with the [Multivendor Marketplace](https://apps.shopify.com/multi-vendor-marketplace), syncing Marketplace store orders directly into the seller's POS system .
+DYTEL POS integrates with the [Multivendor Marketplace](/zenith/introduction/overview.html), syncing Marketplace store orders directly into the seller's POS system .
 
 This Integration allows you to sync the seller orders to the DYTEL POS in real time .
 

@@ -23,12 +23,12 @@ You can get the Split Cart feature app simply by paying an amount of $14 per mon
 *   Easy to manage orders.
 *   Allow sellers to create discounts for their customers.
 *   Split Cart now **supports product properties**.
-*   Supports the [minimum purchase quantity feature](https://webkul.com/blog/minimum-purchase-quantity-multi-vendor-marketplace-for-shopify/).
+*   Supports the [minimum purchase quantity feature](/zenith/configuration/minimum-purchase-quantity.html).
 
 ![cart page](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/12/Screenshot-85-2-1200x427.png)
 
 *   Split Cart is now compatible with the [slot pricing feature](https://webkul.com/blog/shopify-multivendor-marketplace-slot-pricing/) app.
-*   Also, the split cart feature works with the [minimum purchase amount on orders](https://webkul.com/blog/multi-vendor-marketplace-for-shopify-minimum-purchase-amount/).
+*   Also, the split cart feature works with the [minimum purchase amount on orders](/zenith/configuration/minimum-purchase-amount.html).
 *   You can now use **Split Cart+Store Pickup+Minimum Purchase Amount**.
 *   We have added a limit of 500 line items per seller, allowing customers to check out with up to 499 items from a single seller per cart.
 

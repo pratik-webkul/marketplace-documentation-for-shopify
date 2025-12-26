@@ -5,7 +5,7 @@ date: 2025-07-25
 author: Chirag Tyagi
 ---
 
-[Multivendor Marketplace app for Shopify](/zenith/introduction/)\-Weglot Translation- We have now integrated the Weglot translation tool in our multivendor marketplace app
+[Multivendor Marketplace app for Shopify](/zenith/introduction/overview.html)\-Weglot Translation- We have now integrated the Weglot translation tool in our multivendor marketplace app
 
 Through which multivendor apps can now be translated into multiple languages as per the weglot translation plans.
 

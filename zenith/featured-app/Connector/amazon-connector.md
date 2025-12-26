@@ -10,7 +10,7 @@ Enable the Seller Amazon Store Connector feature app.
 
 If your sellers have Amazon stores and wish to add products from their individual stores to the Admin Shopify Store.
 
-You can utilize the Seller Amazon Store Connector featured app of the [Multi-vendor Marketplace](https://webkul.com/blog/shopify-multivendor-marketplace-new-theme-launched/).
+You can utilize the Seller Amazon Store Connector featured app of the [Multi-vendor Marketplace](/zenith/introduction/overview.html).
 
 Features
 --------

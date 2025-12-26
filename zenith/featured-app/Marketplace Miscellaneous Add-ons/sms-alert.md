@@ -6,7 +6,7 @@ author: Chirag Tyagi
 ---
 
 
-The [Multivendor Marketplace for Shopify](/zenith/introduction/) is now integrated with the **SMS Gateway tools**(SMS Alert) for sending automated messages & calls.
+The [Multivendor Marketplace for Shopify](/zenith/introduction/overview.html) is now integrated with the **SMS Gateway tools**(SMS Alert) for sending automated messages & calls.
 
 Enable the SMS Alert feature app to include this functionality in your marketplace.
 
