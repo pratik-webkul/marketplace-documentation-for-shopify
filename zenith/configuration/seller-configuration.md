@@ -75,7 +75,7 @@ You can check the variables here:-
 ![Screenshot-2020-09-17T182325.932](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/variablezipcode.webp)
 
 **Note**:- The seller profile page theme code is editable only in Theme 1 & Theme 4.  
-[**Know More**](https://marketplace-doc.webkul.com/zenith/seller/Seller-Profile-Page-Settings.html)
+[**Know More**](https://marketplace-doc.webkul.com/zenith/seller/seller-Profile-Page-Settings.html)
 
 ### PUBLISH/UNPUBLISH SELLER PROFILE PAGE
 
@@ -134,7 +134,7 @@ Go to the **Seller Listing** section and check the same.
 
 Now, the Seller profile page on the front end will have the banner for his shop. Both admin and seller can upload the banner from their respective panels.
 
-**[Click here](/zenith//seller/Seller-Profile-Page-Settings)** for a detailed blog on the new seller profile page.
+**[Click here](/zenith/seller/seller-profile-page-settings)** for a detailed blog on the new seller profile page.
 
 You can upload a default banner for the sellers to be displayed on the "Seller Profile Page Settings" section of the app.
 

@@ -21,7 +21,7 @@ To use this payment gateway, the admin needs to enable the [Stripe Connect](http
 
 Multivendor Admin Panel > 'Feature Apps'
 
-You may visit this guide for more details: [Multi-Vendor Marketplace for Shopify: Stripe Connect Integration](/zenith//payment/Stripe.html)
+You may visit this guide for more details: [Multi-Vendor Marketplace for Shopify: Stripe Connect Integration](/zenith/payment/stripe.html)
 
 As we have introduced the **Strong Customer Authentication** for the Stripe Connect Payment Gateway.
 
@@ -184,7 +184,7 @@ This is the continuation of the above configuration page (Multivendor Admin Pane
 
 Further, enter the details like **Secret Key, Publish Key** and **Client ID** and then click on **save**.
 
-> The configuration from the seller end will the same as that was before. To know about that, use the following link: [https://webkul.com/blog/shopify-multi-vendor-marketplace-stripe-connect-integration/](/zenith//payment/Stripe.html)
+> The configuration from the seller end will the same as that was before. To know about that, use the following link: [https://webkul.com/blog/shopify-multi-vendor-marketplace-stripe-connect-integration/](/zenith/payment/stripe)
 
 **Note**: In case you have selected Direct Charges, it is mandatory for sellers to connect their Stripe account otherwise customer payment won't be successful.
 
