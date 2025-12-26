@@ -43,7 +43,7 @@ Copy the following code and add it into **product.json >> sections/main-product
     {{ product.selected_or_first_available_variant.id }} 
     " style="display:none; ">
     </div>
-     render "wk-esignature-document" 
+    {% render "wk-esignature-document" %}
     {%- endif -%}       
 ```
 
