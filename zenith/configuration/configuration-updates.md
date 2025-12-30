@@ -7,8 +7,8 @@ author: Chirag Tyagi
 
 We keep on updating the [Multivendor Marketplace app for Shopify](https://store.webkul.com/Shopify-Multi-Vendor-Marketplace.html) to make it even more desirable. Bookmark this blog to check the configuration updates for the app!
 
-### Auto Fulfillment Reminder For Seller
-
+Auto Fulfillment Reminder For Seller
+--------------------------
 You can now enable the tab to send fulfillment reminders to sellers automatically via the app. For this, visit the admin panel of the app>>Configuration>>**Order Configuration** and enable the tab.
 
 ![Screenshot-36](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/autofulfillment.webp)
@@ -17,8 +17,8 @@ Once you enable it, you can enter the number of days after which the system will
 
 Moreover, get the option to enter the no of days up to which you want to send the fulfillment email.
 
-### DISPLAY VENDOR LOCATION ON COLLECTION PAGE
-
+DISPLAY VENDOR LOCATION ON COLLECTION PAGE
+-------------------------
 Visit **Multivendor Admin Panel** > **Configuration** > **Instructions for Marketplace**, add the following code to the **collection-template.liquid** file:
 
 ![Instructions-Admin-1-3](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/displayvendorlocation.webp)
@@ -27,8 +27,8 @@ This is how it will look on the storefront:
 
 ![collage-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/10/collage-1.png)
 
-### SELLER DELETE
-
+SELLER DELETE
+-------------------
 The admin can now delete the sellers from the marketplace by visiting **Multivendor** **Admin Panel** > **Sellers** > **Seller Listing**:
 
 **[NOTE: Deleting a seller is a permanent action, meaning that once you delete a seller, no information can be recovered.](Note: Deleting a seller is permanent and cannot be undone. Once deleted, all seller information is irretrievably lost.)**
@@ -41,8 +41,8 @@ Clicking on **Delete Seller** will give you a pop-up like so. You can check-mark
 
 ![image-26](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/deletesellerpop-up.webp)
 
-### Seller Notification
-
+Seller Notification
+------------------------
 Now, store admins can easily send notifications to sellers directly from the MVM admin panel. Follow these steps to add a new seller notification:
 
 1.  **Navigate to:** MVM Admin Panel > Sellers > Seller Notification
@@ -72,8 +72,8 @@ Additionally, you can now **disable a notification** when needed:
 
 This feature ensures better communication between store admins and sellers, improving overall store management.
 
-### ADD SELLER TOTAL DUE EARNING
-
+ADD SELLER TOTAL DUE EARNING
+------------------------
 The admin can decide when to add seller payment total due earnings. Configure it by visiting **Multivendor Admin Panel** > **Configuration** > **Payment Configuration**. Refer to the screenshot given below.
 
   
@@ -90,8 +90,8 @@ You can update the total due for seller payment after the following events:
 
 ![image-97](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/sellerdueearnings.webp)
 
-### Display Total Due Amount on Seller Dashboard
-
+Display Total Due Amount on Seller Dashboard
+---------------------------------
 Enabling the "ALLOW SELLER TO VIEW TOTAL DUE" configuration allows sellers to view the total due amount directly on their dashboard.
 
 This feature quickly and clearly presents sellers with an overview of their financials, enhancing their ability to manage transactions effectively.
@@ -107,8 +107,8 @@ Here's how you can enable this setting:
 
 ![seller dashboard](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/05/screenshot1716809714559-1-1200x607.webp)
 
-### ACCEPT AND FULFILL ORDER
-
+ACCEPT AND FULFILL ORDER
+------------------------
 You can now choose whether you want your seller to accept and fulfill the order at the same time.
 
 For this, visit Multivendor Marketplace Admin Panel > Configuration > Order Configuration > Enable this feature & save:
@@ -133,8 +133,8 @@ As soon as the seller will accept the order, he will automatically get a fulfill
 
 The seller needs to enter the required fields & complete the fulfillment step. This way the steps to order fulfillment reduces & you can save the time.
 
-### DISPLAY SELLER'S STORE LOGO CAROUSEL ON HOMEPAGE
-
+DISPLAY SELLER'S STORE LOGO CAROUSEL ON HOMEPAGE
+---------------------------------------
 You will now get an option to add a logo carousel to the home page of your store. For this, you need to follow the below-given steps:-
 
 Go to the admin panel of the Multi-vendor app.
@@ -158,8 +158,8 @@ Additionally, all your sellers’ store logos will be showcased in the logo caro
 
 That’s all!
 
-### REGENERATE TEMPLATE FILES
-
+REGENERATE TEMPLATE FILES
+-----------------------------
 When you install a featured app on your marketplace, its related template files are automatically created in the backend.
 
 However, if these files are accidentally deleted, the app’s functionality may be disrupted.
@@ -176,8 +176,8 @@ Furthermore, on this page, the admin will have all the featured apps he has enab
 
 The Admin just needs to click on the **Regenerate** button to automatically recreate the files for the desired feature.
 
-### SELLER FEEDBACK CONFIGURATION
-
+SELLER FEEDBACK CONFIGURATION
+----------------------------
 Now, the admin can configure the following options regarding the Seller Feedbacks:
 
 Multivendor Admin Panel > Configuration > General Configuration
@@ -203,8 +203,8 @@ Moreover, the customers can edit the feedback given by them by visiting the 'All
 
 Note that the customer needs to log in to the store to edit the review.
 
-### MAKE COLLECTION MANDATORY
-
+MAKE COLLECTION MANDATORY
+----------------------------------
 With this setting in the product section of the configuration, you can enable/disable the make collection mandatory button,
 
 In case enabled it will make sellers mandatorily choose the collection at the time of adding product.
@@ -213,8 +213,8 @@ Go to Configuration >>> Select Product Setting >>> Enable option of Make collect
 
 ![MULTIVENDOR MARKETPLACE](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/makecollectionmandatory.webp)
 
-### ALLOW SELLERS TO VIEW CUSTOMER DETAILS
-
+ALLOW SELLERS TO VIEW CUSTOMER DETAILS
+-------------------------------
 **Allow Seller To View Customer Details**  
 With this setting, admin can allow/disallow the seller to view customer details.
 
@@ -226,8 +226,8 @@ With this setting, admin can also allow/disallow the seller to view the customer
 
 ![MULTIVENDOR MARKETPLACE](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/viewcustomerdetails.webp)
 
-### SSO (SINGLE SIGN-ON) FOR SELLER
-
+SSO (SINGLE SIGN-ON) FOR SELLER
+------------------------
 If an admin has multiple Shopify stores and is using our MVM app on these different stores, they often have to go to each store individually to add sellers in MVM.
 
 To simplify this process, we've introduced an option where admins can connect all their stores in one place. The seller signup page will display the stores they connect to.
@@ -256,20 +256,20 @@ The option to select the Admin's store to sellers will display on the seller sig
 
 ![screenshot_2023_09_05_183840](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/09/screenshot_2023_09_05_183840-1200x696.png)
 
-### DISPLAY TOTAL ORDER AMOUNT & TOTAL ORDER COMMISSION
-
+DISPLAY TOTAL ORDER AMOUNT & TOTAL ORDER COMMISSION
+---------------------------------
 Visiting the restriction setting of the configuration, the admin can now also enable/disable the display Total order amount & Total order commission on the dashboard.
 
 ![MULTIVENDOR MARKETPLACE](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/totalorderamount.webp)
 
-### PAYFAST PAYMENT GATEWAY INTRODUCED
-
+PAYFAST PAYMENT GATEWAY INTRODUCED
+-----------------------------
 The PayFast payment gateway is newly introduced as a payment mode between admin and seller.
 
 ![MULTIVENDOR MARKETPLACE](https://cdnblog.webkul.com/blog/wp-content/uploads/2016/02/11-16.png)
 
-### C2C: CONVERT YOUR CUSTOMERS TO SELLERS
-
+C2C: CONVERT YOUR CUSTOMERS TO SELLERS
+-------------------------
 Take advantage of the new functionality of converting your customers into sellers with ease.
 
 All you need to do is add the following code into the **customer/account.liquid** theme page to display the **“Seller Portal”** button on the customer’s account page.
@@ -322,8 +322,8 @@ If the customer tick and click on submit tab it will redirect you to the seller 
 
 ![s12](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/04/s12-1200x551.png)
 
-### **PAYPAL MASSPAY**
-
+**PAYPAL MASSPAY**
+------------------------------
 Introducing Paypal Masspay where the seller will be paid automatically for the orders once they will mark the order as delivered.
 
 If you enable this option, your seller will be paid via Paypal Masspay automatically only after they mark the order as delivered
@@ -332,8 +332,8 @@ Go to configuration >>> payment setting >>> Enable paypal masspay >>> SAVE.
 
 ![MULTIVENDOR MARKETPLACE](https://cdnblog.webkul.com/blog/wp-content/uploads/2016/02/21.png)
 
-### HANDLING & TRANSACTION CHARGES
-
+HANDLING & TRANSACTION CHARGES
+-------------------------------
 We have introduced [Handling charges and Transaction charges](https://webkul.com/blog/shopify-multivendor-marketplace-handling-transaction-charges/) on the Sales Price
 
 i.e now after enabling the sales price feature from the configuration the Handling and Transaction charges as well.  
@@ -362,8 +362,8 @@ For example:
 =$132 +10$  
 =$142
 
-### ZONE WISE SHIPPING
-
+ZONE WISE SHIPPING
+-------------------------------
 In this feature, Admin can create the zones and add countries in that zone, based on which the sellers will set prices.
 
 Zone here can be any name given to a group by admin, in which admin adds up countries that will have the same range and prices.
@@ -388,8 +388,8 @@ Go to shipping Configuration and add ranges. Then click on the eye button to vie
 
 ![MULTIVENDOR MARKETPLACE](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/selectcountries.webp)
 
-### AUTO DISABLE PRODUCTS
-
+AUTO DISABLE PRODUCTS
+--------------------------------
 Admin can now auto-disable the product after a certain duration. Yes, you read it right. With the feature of Auto disable Admin can set to disable a product after X days.
 
 This X will be the number of days (value) added by admin. And it will be on the basis of:
@@ -404,8 +404,8 @@ To enable this feature visit configuration >>> Product >>> enable “auto-disab
 
 ![MULTIVENDOR MARKETPLACE](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/autodisableproduct.webp)
 
-### DIRECTORY LISTING
-
+DIRECTORY LISTING
+---------------------------
 Multivendor App Directory Listing Feature for Shopify enables you as admin to convert the marketplace into a directory listing marketplace.
 
 You just have to enable this directory listing feature, and then sellers can redirect buyers to their website. To enable this feature you will have to visit:
@@ -414,8 +414,8 @@ Configuration >> product tab >> enable directory listing >> enter the button lab
 
 ![MULTIVENDOR MARKETPLACE](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/directorylisting.webp)
 
-### ORDER PREPARE & FULFILLMENT STATUS
-
+ORDER PREPARE & FULFILLMENT STATUS
+------------------------
 **Step 1:  
 **To enable the functionality, refer to the below screen-shot
 
@@ -451,8 +451,8 @@ Now at the admin side, the shipping status of that order is in the “Collect”
 
 ![MULTIVENDOR MARKETPLACE](https://cdnblog.webkul.com/blog/wp-content/uploads/2016/02/48.png)
 
-### ADD PRODUCT TAG BY CSV
-
+ADD PRODUCT TAG BY CSV
+-----------------------
 In the Multivendor Marketplace app, Admin can now add the product tags in bulk by uploading the CSV file.
 
 For this admin first, we need to enable the “Restrict Product tags” button from the “restriction configuration” menu of the app.
@@ -469,8 +469,8 @@ Admin end of multivendor app >> Products>> Product Tag s>> More actions >> Add p
 
 ![MULTIVENDOR MARKETPLACE](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/addproducttags.webp)
 
-### ADD PRODUCT TYPE BY CSV
-
+ ADD PRODUCT TYPE BY CSV
+----------------------
 In the Multivendor Marketplace app, Admin can now also add product types in bulk by uploading CSV.
 
 For this admin first, need to Enable the “Restrict Product Type” button from “Restriction Configuration” section of the app
@@ -481,8 +481,8 @@ Further, visit the Product types section of the multivendor app and here add the
 
 ![MULTIVENDOR MARKETPLACE](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/addproducttype.webp)
 
-### C2C MARKETPLACE: ADD TAG TO CUSTOMERS
-
+C2C MARKETPLACE: ADD TAG TO CUSTOMERS
+------------------------
 In the C2C Marketplace, You can display a “Seller Portal” button on the customer’s “My Account” page clicking on which your valuable customers will be converting into sellers on your Marketplace.
 
 Now, we have added an option to add Tag to Customers who become sellers from the Seller Portal button.
@@ -498,8 +498,8 @@ After adding the tag, as soon as the customer becomes the seller on your marketp
 
 ![MULTIVENDOR MARKETPLACE](https://cdnblog.webkul.com/blog/wp-content/uploads/2016/02/Demo-Store-Customers-Test-Customer1-Shopify.png)
 
-### ADDITIONAL FIELDS FOR SELLERS TO MANAGE PRODUCTS
-
+ADDITIONAL FIELDS FOR SELLERS TO MANAGE PRODUCTS
+--------------------------------
 ALLOW SELLERS TO ADD PRODUCT HANDLE & META-FIELDS
 
 In the Multivendor App, you can now allow sellers to add **Product Handle** and **Meta Fields** while adding or editing any product from their respective seller panels.
@@ -527,8 +527,8 @@ You can disable the “**Allow Sellers to Edit Product”** tab and enable the 
 
 ![MULTIVENDOR MARKETPLACE](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/editproduct.webp)
 
-### SYNC APPROVAL DATETIME TO SHOPIFY METAFIELD
-
+SYNC APPROVAL DATETIME TO SHOPIFY METAFIELD
+-------------------------
 When the admin enables the "Sync Approval Datetime to Shopify Metafield" configuration and approves or creates a product,
 
 a metafield named "Webkul Product Published Date" is added to the Shopify product page, storing the timestamp value.
@@ -541,8 +541,8 @@ To enable Admin need to navigate to the Admin panel of the marketplace >> Config
 
 ![image](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/syncproductdatetime.webp)
 
-### SELLER NAVIGATION
-
+SELLER NAVIGATION
+-------------------------
 Above all, introduced the Seller Navigation menu in the Multivendor admin panel using which You as an admin can manage menus of Your Seller’s Dashboard.
 
 ![MULTIVENDOR MARKETPLACE](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/sellernavigation.webp)
@@ -576,8 +576,8 @@ So, as you can see, the Vendor Name at Shopify end says ‘demo-store’ (the na
 
 Whereas the second product is added when the following option was enabled, in this case, the Vendor Name is ‘Seller 1’ (name of the seller selling this product).
 
-### Minimum Purchase Amount for Orders
-
+Minimum Purchase Amount for Orders
+---------------------------
 You can now allow sellers to set a minimum purchase amount for orders. That is, using this feature, you can restrict purchases for customers if the checkout condition is not satisfied. 
 
 The customer can proceed to checkout only when the cart amount is greater than or equal to the minimum purchase amount set by the seller.
@@ -622,8 +622,8 @@ In short, if the cart amount is equal or greater than the minimum purchase amoun
 
 ![MULTIVENDOR MARKETPLACE](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/06/Your-Shopping-Cart-%E2%80%93-Demo-Shop-1-1135x1024.png)
 
-### MANAGE DEFAULT TRACK PRODUCT INVENTORY
-
+MANAGE DEFAULT TRACK PRODUCT INVENTORY
+---------------------
 In a multivendor marketplace app for Shopify, while adding a product either from seller panel or admin panel, the INVENTORY DETAILS is by default set to ‘don’t track inventory’ option.
 
 Now, the admin or seller can also select it to ‘track’ manually for individual products.
@@ -640,8 +640,8 @@ So, go to the multivendor marketplace admin panel > Configuration > Product Conf
 
 Further, enable the following option to make the inventory of all the newly added products to be by default set to ‘track’.
 
-### ALTERNATIVE TEMPLATE FILE FOR SELLER PRODUCTS
-
+ ALTERNATIVE TEMPLATE FILE FOR SELLER PRODUCTS
+-----------------------------------
 Now, you can set a template for your seller’s product from the **Product** **Configuration** menu of the app.
 
 That is, whenever a seller creates a product then that template will be assigned to the newly added product.
@@ -660,8 +660,8 @@ So, if you **want to have the seller’s product designs different from the nor
 
 This will directly assign the mentioned template to the products once added by the seller.
 
-### Google Recaptcha Configuration
-
+Google Recaptcha Configuration
+-------------------------------
 You can now add Google reCaptcha to the seller sign-up form.The seller sign-up form is a form that the seller needs to fill out once they register for your marketplace.
 
 To add this option, you need to go to admin panel>> Configuration >> Google reCaptcha Configuration >> Enable the option.
@@ -701,22 +701,22 @@ This is how the Google reCaptcha appears on the seller sign-up form:
 
 **NOTE: If you have a customized seller signup page template. Please contact us at support@webkul.com with your reCaptcha keys so that we can set this up for you.**
 
-### Select the language for reCaptcha
-
+Select the language for reCaptcha
+--------------------------
 Now, while configuring the reCaptcha you can also choose the language in which you want the reCaptcha to be visible to the sellers during the signup process.
 
 ![select Recaptcha language](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/recaptchalanguage.webp)
 
-### Sync Product price
-
+Sync Product price
+-----------------------
 Now admin can allow sellers to sync the product price with their store. This configuration is only applicable if the seller is using the connector app.
 
 Admin can find this configuration on the edit Seller page.
 
 ![sync](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/09/sync.png)
 
-### Allow seller to send feedback notification to customer
-
+Allow seller to send feedback notification to customer
+-----------------------
 Now, you can send automated emails to the customers for their feedback once you deliver or fulfill their order.
 
 Furthermore, if the email has not been sent automatically, sellers will have the option to send these feedback emails automatically through their seller panels.
@@ -755,8 +755,8 @@ You will also have the option to configure the e-mail template of the feedback e
 
 **Note - If the status of the seller feedback notification is disabled, the option to send the feedback mail will not be visible in the orders in the seller panel.**
 
-### Change the Copyright label of the app footer
-
+Change the Copyright label of the app footer
+-----------------------------------
 Now, you can change the copyright label of the app footer, for this visit-
 
 App admin panel>>Configuration>>General Configuration
@@ -765,8 +765,8 @@ App admin panel>>Configuration>>General Configuration
 
 **NOTE**- This feature is available only in the PRO plan of the app.
 
-### Restrict sellers from adding option names
-
+Restrict sellers from adding option names
+-------------------------------------------------------
 In the Multivendor Marketplace app, Admin can now restrict the sellers from adding option names while adding a new product.
 
 Sellers must select option names exclusively from the list of pre-approved product options added by the Admin
@@ -781,8 +781,8 @@ Now, go to Products>>Product Option>>Add Product Option and add the option names
 
 ![add option names](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/productoption.webp)
 
-### **Seller-wise auto-approve product**
-
+**Seller-wise auto-approve product**
+--------------------------------------
 When you disable the auto-approve product configuration in the product configuration section of the marketplace Admin panel.
 
 ![product configuration](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/productconfiguration.webp)
@@ -795,8 +795,8 @@ Then, the Admin can manually go to the seller edit section of the marketplace ad
 
 ![seller edit](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/autoapproveeditseller.webp)
 
-### **Manage product visibility for all sales channels & Markets**
-
+**Manage product visibility for all sales channels & Markets**
+-------------------------------
 We now offer the option to list products on all sales channels and Shopify markets as soon as they are added to the marketplace panel.
 
 For this, navigate to the marketplace Admin panel >> configuration >> product configuration >> Sales channel availability & allow sellers to publish products on all markets
@@ -807,8 +807,8 @@ For this, navigate to the marketplace Admin panel >> configuration >> product co
 
 Note - Disabling the product will result in its removal from all sales channels and markets.
 
-### Send Email Notification To Sellers If Product Inventory Is Low
-
+Send Email Notification To Sellers If Product Inventory Is Low
+---------------------------------
 Now, you can enable the configuration to send email notifications to the sellers if the product inventory is low.
 
 For this, visit the app's **Admin panel>>Configuration>>Seller Configuration** and enable the tab shown in the below image.
@@ -821,8 +821,8 @@ The template for this email can be configured by navigating to Mail configuratio
 
 ![Mail configuration](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/lowinventorymail.webp)
 
-### Future Publishing: Schedule products for publishing on Shopify
-
+Future Publishing: Schedule products for publishing on Shopify
+---------------------------------------------------
 In the Multivendor marketplace app for Shopify, the Future Publishing feature lets sellers schedule when their products will go live on a shared storefront.
 
 Rather than publishing a product immediately after listing it, sellers can choose a specific date and time for the product to go live on the marketplace.
@@ -852,8 +852,8 @@ Admins and sellers have the flexibility to remove a scheduled publish date. Once
 
 ![Remove future publish](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/11/futurepublishhzon-1200x571.webp)
 
-### **Future Selling Date on Product**
-
+**Future Selling Date on Product**
+----------------------------------------------
 The **Future Selling Date on Product** feature in the Multivendor Marketplace app for Shopify allows sellers to schedule when their products will become available for purchase.
 
 While the product will appear in the store immediately, customers will only be able to purchase once the scheduled date has passed, based on the time specified.
@@ -880,8 +880,8 @@ The product will appear on the front end of the store, along with the date on wh
 
 ![F](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/12/futuredate.webp)
 
-### **Prefix on Product Title**
-
+ **Prefix on Product Title**
+----------------------------------------
 This feature enables the addition of a prefix to product titles. When activated, the specified prefix will automatically be applied to the product titles.
 
 To enable this configuration, navigate to the marketplace Admin panel >> configuration >> product configuration >> Enable “ add prefix on product name”
@@ -918,8 +918,8 @@ To do this, navigate to the product listing page, click on the three-dot menu ne
 
 If you mark your product as **"Sold"**, its **inventory will automatically be set to 0**. This means the product will appear as **"Out of Stock"** to customers.
 
-### **Restrict the Number of product images and tags on Product Type.**
-
+**Restrict the Number of product images and tags on Product Type.**
+------------------------------------------------
 In the Multivendor Marketplace App, you can now set limits on the number of images and tags a seller can add to a specific product type.
 
 To add a product type and tags, you have to enable the "Restrict product type" and "Restrict product tags" configuration from the restriction configuration.
@@ -964,8 +964,8 @@ Now, once a seller adds a new product and selects a specific product type, the n
 
 ![add](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/insideaddproduct.webp)
 
-### **Restrict Seller to View Unpaid Orders**
-
+**Restrict Seller to View Unpaid Orders**
+-------------------------------------
 To restrict sellers from viewing unpaid orders, you can enable the “Restrict Seller to View Unpaid Orders” option. 
 
 ![seller](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/unpaidorder.webp)
@@ -980,8 +980,8 @@ Follow these steps:
 
 Once enabled, sellers will only have access to view paid orders. Until the order is marked as paid, it will not be displayed on the seller's dashboard.
 
-### Default Currency Symbol
-
+Default Currency Symbol
+----------------------------------
 This feature allows the admin to replace the default currency symbol displayed in the seller panel with a custom text/symbol of the admin's choice wherever the currency symbol appears.
 
 ![Currency](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/customcurrency-1.webp)
@@ -989,8 +989,8 @@ This feature allows the admin to replace the default currency symbol displayed i
 To configure the default currency symbol for your sellers, the Admin needs to navigate to:  
 Admin Dashboard>General Configuration>Enable Custom Currency Symbol>Enter your Currency Symbol>Save changes.
 
-### Export Order Payouts CSV
-
+Export Order Payouts CSV
+-----------------------------
 Admins can now export order payout details effortlessly.  
   
 To do so, navigate to: **Admin Dashboard > Orders > Order Listing > Export Details**.
@@ -999,8 +999,8 @@ Upon clicking **Export Details**, a form will appear. Simply enter the desired d
 
 ![Order payouts csv](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/exportdetails.webp)
 
-### Google Translation For Admin And Seller Panel
-
+ Google Translation For Admin And Seller Panel
+---------------------------------------------
 We’ve added a new feature in our Multivendor Marketplace app that allows you to translate both the Admin and Seller panels using Google Translate.
 
 With just one configuration, you can choose whether you want to translate only the Admin panel, only the Seller panel, or both.
@@ -1019,8 +1019,8 @@ This makes it easier for admins and sellers from different regions to use the ap
 
 **Note** : **This feature is not compatible with the Weglot Translation featured app. If Weglot is enabled, this feature will not function as expected.**
 
-### How to change seller Email ?
-
+How to change seller Email ?
+--------------------------------------------
 To change the seller's email address, go to the Seller Listing page, click on "Edit Seller", then select the "More Actions" button and Change seller email .
 
 ![seller mail change configuration](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/changeselleremail.webp)
@@ -1033,8 +1033,8 @@ An OTP will be sent for verification to the admin store mail , and upon entering
 
 ![enter otp](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/otpsent.webp)
 
-### **2-Step Authentication for seller and staff logins**
-
+ **2-Step Authentication for seller and staff logins**
+-----------------------------------------------
 To enhance security across the platform, we've introduced a 2-Step Authentication process for both sellers and admin users.
 
 This added layer of protection ensures that only authorized users can access their accounts.
@@ -1061,8 +1061,8 @@ Admins also have the flexibility to personalize the OTP email content. Simply cl
 
 ![edit](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/editemailtemp.webp)
 
-### SMS Authentication
-
+ SMS Authentication
+-------------------------------
 ![SMS](http://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/google2fa.webp)
 
 Users add an extra layer of login security by enabling SMS Authentication. During login, they enter a mobile number with country code and verify it using an OTP.
@@ -1079,8 +1079,8 @@ There is also a feature for admin staff and seller staff login.
   
 Note – If the seller changes the Contact no., he/she needs to verify the no. again at the time of login.
 
-### Google Authentication
-
+ Google Authentication
+---------------------------------------
 ![g](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/11/google-976x1024.webp)
 
 The admin adds an extra layer of security by enabling the Google Authentication option and scanning a QR code with the Google Authenticator app during the first login.

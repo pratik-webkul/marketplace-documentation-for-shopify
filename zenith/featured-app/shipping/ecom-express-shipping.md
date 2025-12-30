@@ -6,13 +6,13 @@ author: Chirag Tyagi
 ---
 [Ecom Express](https://ecomexpress.in/) is one of the leading end-to-end logistics solutions for the express delivery services to eCommerce Industries.
 
-We are here with another [Multivendor Marketplace](https://webkul.com/blog/shopify-multivendor-marketplace-new-theme-launched/) App for Shopify called **Ecom Express Shipping** for the order fulfillment service. This feature will help both the admin and the seller to manage the fulfillment in the simplest possible way.
+We are here with another [Multivendor Marketplace](/zenith/introduction/) App for Shopify called **Ecom Express Shipping** for the order fulfillment service. This feature will help both the admin and the seller to manage the fulfillment in the simplest possible way.
 
 Once the customer places an order, the sellers will manage the fulfillment from their respective seller panels. While fulfilling an order, the seller will have the option to cancel the order with a reason.
 
 The admin will be responsible to add the reason for the cancellation of orders from his admin panel.
 
-You can configure the shipping charges of the product with the same shipping flow procedure explained in [Multivendor Marketplace Shipping.](https://webkul.com/blog/shopify-multivendor-marketplace-shipping/) The order fulfillment process will be more simple now with the use of the Ecom Express Shipping service.
+You can configure the shipping charges of the product with the same shipping flow procedure explained in [Multivendor Marketplace Shipping.](/zenith/featured-app/overview) The order fulfillment process will be more simple now with the use of the Ecom Express Shipping service.
 
 **Important Note**:- “Ecom Express Shipping Feature is available only in the Multivendor **PRO ($60/month)** Plan **+** You need to enable the “Shipping” Feature App which is **FREE** of cost.”
 

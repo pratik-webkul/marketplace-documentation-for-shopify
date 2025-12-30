@@ -4,7 +4,7 @@ description: VAMASHIP SHIPPING
 date: 2025-07-18
 author: Chirag Tyagi
 ---
-[Multi-Vendor Marketplace for Shopify](https://webkul.com/blog/shopify-multivendor-marketplace-new-theme-launched/) has come up with another marketplace shipping feature app for **Indian Merchants**, i.e., **Vamaship**.
+[Multi-Vendor Marketplace for Shopify](/zenith/introduction/) has come up with another marketplace shipping feature app for **Indian Merchants**, i.e., **Vamaship**.
 
 Vamaship
 --------
@@ -13,7 +13,7 @@ Vamaship
 
 Using this featured app, the merchants can enable shipment & fulfillment through Vamaship. Moreover, he can automatically generate shipping labels for the same.
 
-The **Vamaship** feature app is available only with the Multivendor **Pro** **Plan** ($60/month). Moreover, you need to enable the [**Shipping**](https://webkul.com/blog/shopify-multivendor-marketplace-shipping/) add-on (free) from the featured apps section of the app.
+The **Vamaship** feature app is available only with the Multivendor **Pro** **Plan** ($60/month). Moreover, you need to enable the [**Shipping**](/zenith/featured-app/overview) add-on (free) from the featured apps section of the app.
 
 **CHARGES:**
 

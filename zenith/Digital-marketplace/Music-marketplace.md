@@ -67,7 +67,7 @@ This feature is ideal for:
 - Vocal or audio-selling platforms  
 - Creator-based digital stores  
 
-[**For complete details about Digital Products and their configuration, refer to the user guide:**](https://marketplace-doc.webkul.com/zenith/products/Digital-products.html)
+[**For complete details about Digital Products and their configuration, refer to the user guide:**](/zenith/products/digital-products)
 
 ---
 

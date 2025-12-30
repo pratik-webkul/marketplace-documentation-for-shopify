@@ -5,7 +5,7 @@ date: 2025-06-27
 author: Chirag Tyagi
 ---
 **Shopify Multivendor Marketplace | Seller Payment Flow |**
-
+---------------------------
 The [Multivendor Marketplace app for Shopify](https://webkul.com/blog/shopify-multivendor-marketplace-new-theme-launched/) is a great tool to convert your shop into a fully functioning marketplace,allowing you to manage seller payments .
 
 This user manual perfectly guides you to understand the Seller **payment** in the Multivendor Marketplace app for Shopify, from setting up the payment methods to sending the payments to your sellers.
@@ -36,8 +36,8 @@ Admin can use these payment methods offline and can just track the amount in the
 *   Internet Banking
 *   Bank Wire Transfer
 
-### Shopify Multivendor Marketplace | Payment Flow
-
+ Shopify Multivendor Marketplace | Payment Flow
+---------------------------
 ### Payment Methods Setup:-
 
 Firstly, the admin needs to set up the payment methods for payments to the sellers from the admin panel of the app.
@@ -58,8 +58,8 @@ Seller end of Multivendor Marketplace app->> Profile->> Payment details->> Here 
 
 The admin can edit or change the payment methods that the sellers add from their respective panels.
 
-### HOW ADMIN PAYS TO SELLERS:
-
+ HOW ADMIN PAYS TO SELLERS:
+----------------
 To proceed, the admin first needs to select the seller payment type based on how they wish to pay the seller.
 
 They can either choose to pay the total amount at once or, alternatively, opt for an order-wise payment method.
@@ -76,8 +76,8 @@ Go to the **Multivendor Marketplace app** >>**Payment** >> **Seller Payment C
 
 ![payment](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/pay6.webp)
 
-### Pay the total Amount
-
+ Pay the total Amount
+----------------------
 ![payment](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/pay7.webp)
 
 Now, to pay to sellers, the admin needs to visit the “Seller Payments” section under the “payment” menu in the admin panel of the multivendor marketplace app
@@ -179,8 +179,8 @@ A pop-up will appear, allowing the admin to choose a payment method and proceed 
 
 ![Seller Payments](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/pay21.webp)
 
-### **AUTO PAY**
-
+ **AUTO PAY**
+-----------------
 In the multivendor marketplace app, we have three automatic payment methods:
 
 *   **Stripe Connect payment gateway**: This is an add-on to the marketplace.  

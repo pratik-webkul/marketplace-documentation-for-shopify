@@ -5,8 +5,8 @@ date: 2025-09-10
 author: Chirag Tyagi
 ---
 
-### Discount
-
+Discount
+--------------------
 The Webkul Multivendor app now makes it easier for admins to empower sellers with discount management.
 
 As an admin, you can decide whether sellers are allowed to create discounts directly from their dashboards.
@@ -16,8 +16,8 @@ Based on your configuration, sellers will be able to:
 1- Create discounts on individual products  
 2- Create discounts on the overall order
 
-### Create Discounts On Products
-
+Create Discounts On Products
+-----------------------------------
 The admin needs to follow the steps to create discounts on products.
 
 **Configuration: Admin End**
@@ -49,8 +49,8 @@ Set the start and end dates to define the validity period of the discount, then 
 
 The seller will see all the discounts added to their store in the Discount section.
 
-### Create Discounts On Order
-
+ Create Discounts On Order
+-----------------------------
 The admin needs to follow the steps to create discounts on overall orders.
 
 **Configuration: Admin End**

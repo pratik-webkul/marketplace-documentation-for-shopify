@@ -8,7 +8,7 @@ author: Chirag Tyagi
 Initiation
 ----------
 
-Australia Post, a government-owned corporation known to provide postal services in Australia. Now, we have integrated it with the **[Multi-vendor Marketplace app](https://webkul.com/blog/shopify-multivendor-marketplace-new-theme-launched/)** for Shopify.
+Australia Post, a government-owned corporation known to provide postal services in Australia. Now, we have integrated it with the **[Multi-vendor Marketplace app](/zenith/introduction/)** for Shopify.
 
 Presenting Australia Post Feature app using which admin can allow the sellers to deliver their shipment via **Australia Post shipment method** and can also **Generate Shipping Labels** from the app.
 

@@ -33,8 +33,8 @@ Now, only when the cart amount reaches the “minimum purchase amount”, the cu
 
 Else, the customer can either add more products to cart or increase product quantity so that the cart amount can reach the minimum purchase amount & he can easily proceed for checkout. -->
 
-### C2C: CONVERT YOUR CUSTOMERS TO SELLERS
-
+ C2C: CONVERT YOUR CUSTOMERS TO SELLERS
+--------------------------
 Take advantage of the new functionality of converting your customers into sellers with ease.
 
 All you need to do is add the following code into the **customer/account.liquid** theme page to display the **“Seller Portal”** button on the customer’s account page.
@@ -86,8 +86,8 @@ If the customer tick and click on submit tab it will redirect you to the seller 
 
 ![s12](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/04/s12-1200x551.png)
 
-### Minimum Purchase Amount for Orders
-
+ Minimum Purchase Amount for Orders
+--------------------------
 You can now allow sellers to set a minimum purchase amount for orders. That is, using this feature, you can restrict purchases for customers if the checkout condition is not satisfied. 
 
 The customer can proceed to checkout only when the cart amount is greater than or equal to the minimum purchase amount set by the seller.
@@ -132,8 +132,8 @@ In short, if the cart amount is equal or greater than the minimum purchase amoun
 ![MULTIVENDOR MARKETPLACE](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/06/Your-Shopping-Cart-%E2%80%93-Demo-Shop-1-1135x1024.png)
 
 
-### Login As Seller
-
+ Login As Seller
+-------------------
 You as an admin will now have the access to login seller dashboards directly from your admin panel.
 
 Firstly, you need to enable the option from the **General Configuration** menu of the app.  
@@ -152,8 +152,8 @@ Clicking this button, the seller will be redirected to the respective seller pan
 Note that the sellers will be notified every time you'll log in to their account using this option.  
 
 
-### Change the Copyright label of the app footer
-
+ Change the Copyright label of the app footer
+-----------------------------
 Now, you can change the copyright label of the app footer, for this visit-
 
 App admin panel>>Configuration>>General Configuration
@@ -162,16 +162,17 @@ App admin panel>>Configuration>>General Configuration
 
 **NOTE**\- This feature is available only in the PRO plan of the app.
 
-### Default Currency Symbol
-
+ Default Currency Symbol
+------------------------
 This feature allows the admin to replace the default currency symbol displayed in the seller panel with a custom text/symbol of the admin's choice wherever the currency symbol appears.
 
 ![Currency](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/customcurrency.webp)
 
 To configure the default currency symbol for your sellers, the Admin needs to navigate to:  
 Admin Dashboard>General Configuration>Enable Custom Currency Symbol>Enter your Currency Symbol>Save changes.
-### Google Translation For Admin And Seller Panel
 
+Google Translation For Admin And Seller Panel
+-----------------------------------
 We’ve added a new feature in our Multivendor Marketplace app that allows you to translate both the Admin and Seller panels using Google Translate.
 
 With just one configuration, you can choose whether you want to translate only the Admin panel, only the Seller panel, or both.

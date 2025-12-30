@@ -1,6 +1,6 @@
 ---
-title: SELLER MEMBERSHIP
-description: SELLER MEMBERSHIP
+title: E-book Marketplace
+description: E-book Marketplace
 date: 2025-07-29
 author: Chirag Tyagi
 ---
@@ -81,7 +81,7 @@ This feature is ideal for selling:
 
 Digital products help businesses scale globally while keeping operational costs low.
 
-[**For more details about Digital Products and their configuration, refer to the user guide:**](https://marketplace-doc.webkul.com/zenith/products/Digital-products.html)
+[**For more details about Digital Products and their configuration, refer to the user guide:**](/zenith/products/digital-products)
 
 ---
 
@@ -91,4 +91,4 @@ Digital e-books provide a fast, sustainable, and convenient reading experience f
 
 With the **Digital Product feature** in the Webkul Multivendor Marketplace app, you can easily offer downloadable e-books and other digital content while ensuring a smooth experience for both sellers and customers.
 
-Thanks for reading 😇
+Thanks for reading 

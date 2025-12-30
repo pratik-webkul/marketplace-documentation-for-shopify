@@ -14,8 +14,8 @@ This feature lets your sellers automatically receive their total earnings once t
 
 **Note**: Paypal Payout is now compatible with **discounted orders** which means auto-payment to sellers is possible for discounted orders.
 
-### How to configure the PayPal Payout feature?
-
+ How to configure the PayPal Payout feature?
+-------------------------
 To configure this feature, the Admin needs to follow the steps written below:
 
 *   Go to Multi vendor Marketplace **Admin Panel**
@@ -43,8 +43,8 @@ For example, if we make changes to the PayPal details, only the upcoming orders 
 
 *   Save Changes
 
-### How to get PayPal Client ID and Secret Key?
-
+ How to get PayPal Client ID and Secret Key?
+------------------------
 To get your Paypal Client ID & Secret Key, you need to login to your PayPal Account by visiting the following link: [https://developer.paypal.com/docs/api/overview/#api-requests](https://developer.paypal.com/docs/api/overview/#api-requests)
 
 ![Get Started PayPal Developer](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/03/Get-Started-PayPal-Developer.png)
@@ -83,8 +83,8 @@ Click on the **show** menu & copy your **PayPal secret key** then paste it in th
 
 If you want the details for a **live account** then please change the PayPal environment to live and follow the same steps as mentioned above.
 
-### Pay After Refund date
-
+ Pay After Refund date
+---------------------
 There is one more scenario to the PayPal Payout configuration.
 
 Suppose the Admin has selected the PayPal Payout autopay method to pay his Sellers after order delivery or fulfillment.

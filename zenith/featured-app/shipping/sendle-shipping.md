@@ -6,14 +6,14 @@ author: Chirag Tyagi
 ---
 **[Sendle](https://www.sendle.com/):-** An Australian-based shipping company that provides courier services locally within the country.
 
-The Sendle shipping is now integrated with the [Multi-vendor Marketplace App](https://webkul.com/blog/shopify-multivendor-marketplace-new-theme-launched/) for Shopify to let sellers fulfill their orders via Sendle shipment service and generate shipping labels.
+The Sendle shipping is now integrated with the [Multi-vendor Marketplace App](/zenith/introduction/) for Shopify to let sellers fulfill their orders via Sendle shipment service and generate shipping labels.
 
 This feature app costs you a minimal amount of **$10 per month** over and above your current Multivendor plan.
 
 **NOTE**:-
 
 *   The Sendle shipping feature app is available only with the Multivendor **Pro** **Plan** ($60/month).
-*   You need to enable the **[Shipping](https://webkul.com/blog/shopify-multivendor-marketplace-shipping/)** Add-on for FREE from the ‘Feature Apps’ section of the app.
+*   You need to enable the **[Shipping](/zenith/featured-app/overview)** Add-on for FREE from the ‘Feature Apps’ section of the app.
 
 Moreover, access to Shipping requires your Shopify store to be on the plan that supports [Real-Time Carrier-Calculated Shipping.](https://help.shopify.com/en/manual/shipping/setting-up-and-managing-your-shipping/enabling-shipping-carriers)
 

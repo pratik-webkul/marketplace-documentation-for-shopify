@@ -77,7 +77,7 @@ This results in improved marketplace performance, higher customer satisfaction, 
 
 If you want to use **Hyperlocal Marketplace functionality in your multivendor marketplace**, detailed configuration and workflow guidance is available in the official documentation:
 
-[https://marketplace-doc.webkul.com/zenith/Hyperlocal%20Marketplace/HYPERLOCAL%20MARKETPLACE.html](https://marketplace-doc.webkul.com/zenith/Hyperlocal%20Marketplace/HYPERLOCAL%20MARKETPLACE.html)
+[Click here to know more](/zenith/featured-app/Marketplace-miscellaneous-add-ons/hyperlocal-marketplace)
 
 The documentation explains the complete setup process, feature usage, and best practices to help you successfully implement hyperlocal functionality in your marketplace.
 

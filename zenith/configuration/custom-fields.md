@@ -6,8 +6,8 @@ author: Chirag Tyagi
 ---
 
 
-### What is a custom field?
-
+ What is a custom field?
+-----------------------------
 The Custom field allows a user to provide additional information. Like in [Multi-Vendor Marketplace](https://webkul.com/blog/shopify-multivendor-marketplace-new-theme-launched/) app, you can create custom fields for products, orders as well as sellers.
 
 Using these fields, you can ask your sellers to provide their extra information during signing up on your store.
@@ -18,8 +18,8 @@ While adding products to the store, sellers provide the additional information, 
 
 There is one more option to add custom fields to the orders. Go through the documentation to know more!
 
-### Custom Fields for Seller
-
+ Custom Fields for Seller
+--------------------------
 These are the by-default Seller Signup page fields: Seller Name, Email, Password & Confirm Password.
 
 ![seller signup page](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/07/24061016/AwesomeScreenshot-Signup-Multivendor-MarketPlace-2019-07-24-11-07-92.png)
@@ -48,8 +48,8 @@ SHOW ON YOUR SHOP: Choose whether you want to show the custom field on your stor
 
 SEQUENCE: Enter the position of the custom field.
 
-### Types of custom fields that can be added:
-
+Types of custom fields that can be added:
+------------------------------------
 ### **TEXT**
 
 Admin can use this to add additional details like the seller's phone number, city, zip code, and more.
@@ -123,16 +123,16 @@ However, if this setting is disabled, the help text will only appear when users 
 
 ![Question](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/07/blank-1200x571.webp)
 
-### Custom Fields on the Seller's Account Page:
-
+ Custom Fields on the Seller's Account Page:
+--------------------------
 After registration, the seller can view the custom fields details on the following page: **MultiVendor Marketplace Seller Panel** > **Profile** > **My Account**:
 
 ![seller custom fields](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/10/sellerextrainfo.webp)
 
 The seller can update this information from this section.
 
-### Custom Field on the Seller's Profile Page:
-
+ Custom Field on the Seller's Profile Page:
+-----------------------------------------
 This is how the custom details will be present on the storefront for your customers.
 
 ![seller custom fields](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/07/24071303/AwesomeScreenshot-Seller-Profile-demo-store-2019-07-24-12-07-10.png)
@@ -145,8 +145,8 @@ The admin can easily download the files by visiting Multivendor Marketplace Admi
 
 The admin can view all the custom fields detail on the following page. Moreover, he can also upload or download the files if any.
 
-### Custom Field for Product
-
+Custom Field for Product
+---------------------------------
 Similarly, the admin can add custom fields for fetching extra information regarding the products from the sellers.
 
 While creating custom fields for the products, we have now introduced a new input type i.e, "MULTI\_SELECT".
@@ -242,8 +242,8 @@ However, if this setting is disabled, the help text will only appear when users 
 
 _**Note:** For the input type "File," a default value can not be set. However, for the other input type, a default value can be established._
 
-### Custom field for ORDERS
-
+Custom field for ORDERS
+----------------------------
 For this, firstly the admin needs to enable the following option: ALLOW SELLER TO ADD EXTRA INFORMATION FOR ORDER from the Order Configuration page.
 
 After this, the admin will get the option to add custom fields on orders.
@@ -330,8 +330,8 @@ Search for the file name, paste the codes and save.
 
 If you are having any trouble regarding the code-pasting or any other configuration, please don’t hesitate to contact us at support@webkul.com.
 
-### Restrict Custom Field by Product Type
-
+Restrict Custom Field by Product Type
+--------------------------------
 You can now restrict custom fields for your marketplace products based on product type. This feature depends on [restrict product type](https://webkul.uvdesk.com/da/blog/shopify-multivendor-marketplace-restrict-product-type) feature.
 
 So, to enable this feature, visit **Marketplace Admin Panel** > **Configuration** > **Restriction Configuration** \> **Enable** the option shown in the image below:
@@ -348,8 +348,8 @@ If you don't restrict custom fields, all the fields will be displayed by default
 
 ![Product Type](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/10/restrictcustomfieldaddproduct.webp)
 
-### Grouping of Custom Fields
-
+Grouping of Custom Fields
+-----------------------------
 The admin can group multiple custom fields into different groups for improved display structure.
 
 To do that, first, enable this configuration from the Admin Panel>>Configuration>>General configuration  
@@ -376,8 +376,8 @@ On the Add product page, the custom fields will be displayed in their respective
 
 ![Add product page](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/05/addprdct-1200x606.webp)
 
-### How to edit Custom Field default value on seller side ?
-
+How to edit Custom Field default value on seller side ?
+----------------------------------
 We have introduce a new configuration ,now, admins can allow sellers to edit the default values of custom fields directly from their seller panel.
 
 How to Enable This Feature:

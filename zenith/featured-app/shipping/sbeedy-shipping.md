@@ -6,7 +6,7 @@ author: Chirag Tyagi
 ---
 [Multi-Vendor Marketplace for Shopify](https://store.webkul.com/Shopify-Multi-Vendor-Marketplace.html) is here with another marketplace feature add-on, i.e., **Sbeedy.**
 
-This is now integrated with the [Multi-vendor Marketplace App](https://webkul.com/blog/shopify-multivendor-marketplace-new-theme-launched/) for Shopify to let sellers fulfill their orders via the Sbeedy shipment service.
+This is now integrated with the [Multi-vendor Marketplace App](/zenith/introduction/) for Shopify to let sellers fulfill their orders via the Sbeedy shipment service.
 
 By enabling this feature app, the admin can allow sellers to manage the order fulfillment via Sbeedy shipping.
 

@@ -8,12 +8,12 @@ author: Chirag Tyagi
 
 **Minimum Purchase Quantity**: We have introduced this new feature in our [MultiVendor Marketplace App](https://webkul.com/blog/shopify-multivendor-marketplace-new-theme-launched/) for Shopify.
 
-### What is the Minimum Purchase Quantity?
-
+ What is the Minimum Purchase Quantity?
+-----------------------------------
  It is the **minimum quantity of goods a customer needs to buy/order to make the purchase successful**. If the customer is unable to meet the set requirement, the order can't be placed.
 
-### Need to implement the same?
-
+ Need to implement the same?
+----------------------------
 *    **Increase revenue** by incentivizing your customers to place an order in bulk.
 *   Products get sold quickly hence a **great** **inventory turnover**.
 *   A minimum purchase quantity helps to ensure that there is **sufficient demand** for your products to start production.
@@ -23,8 +23,8 @@ Check the below video of the **Minimum Purchase Quantity**:
 
 Let's have a look at how we can configure the same in our MultiVendor Marketplace App.
 
-#### Configuration: Admin Interface
-
+ Configuration: Admin Interface
+--------------------------------
 There are two configurations that need to be done by the admin: Enabling the option & code-pasting.
 
 For this, visit:  
@@ -72,8 +72,8 @@ For this feature to work, you have to enable the **Quantity Selector** for your 
 
 ![Minimum Purchase Quantity Frontend View](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/12/multivendor-marketplace-5-Customize-Debut-Shopify-1-1200x597.png)
 
-#### How to add minimum purchase quantity to a product?
-
+ How to add minimum purchase quantity to a product?
+------------------------------------
 The minimum quantity can be added by the admin as well as the seller. Learn how:
 
 Multivendor Marketplace Admin/Seller Panel > Products > Add Product
@@ -94,8 +94,8 @@ Further, under the heading **Inventory Details**, you'll have the option to edit
 
 ![Minimum Purchase Quantity Configuration Variant Wise](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/editvariantpageqty.webp)
 
-#### Frontend
-
+ Frontend
+---------------------------------
 On the product description page, your customers won't be able to reduce the quantity value lesser than the configured. The value can only be increased. Refer:
 
 ![Black-Classy-Slingbag-with-Gold-Detailing-–-multivendor-marketplace-5](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/12/Black-Classy-Slingbag-with-Gold-Detailing-%E2%80%93-multivendor-marketplace-5-1200x597.png)
@@ -106,4 +106,4 @@ Moreover, in any case, if the customer adds a lesser quantity than the required 
 
 #### Also Read:
 
-[Minimum Purchase Amount: Multi-vendor Marketplace for Shopify](https://webkul.com/blog/multi-vendor-marketplace-for-shopify-minimum-purchase-amount/)
+[Minimum Purchase Amount: Multi-vendor Marketplace for Shopify](/zenith/configuration/minimum-purchase-amount)
