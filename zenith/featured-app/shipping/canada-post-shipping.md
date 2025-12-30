@@ -4,7 +4,7 @@ description: CANADA POST SHIPPING
 date: 2025-07-18
 author: Chirag Tyagi
 ---
-[Multivendor Marketplace app for Shopify](https://webkul.com/blog/shopify-multivendor-marketplace-new-theme-launched/) -Canada Post feature helps the sellers of Canada to ship their products worldwide
+[Multivendor Marketplace app for Shopify](/zenith/introduction/) -Canada Post feature helps the sellers of Canada to ship their products worldwide
 
 And sellers can also generate "shipping label" from their account on Multivendor Marketplace App.
 

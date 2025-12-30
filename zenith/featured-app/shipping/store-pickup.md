@@ -10,7 +10,7 @@ Also, the Store Owner will steer clear of trouble in managing Returns & Exchange
 
 Considering these traits, Webkul is here with a new feature app called **Store Pick up**.
 
-Using the [Multivendor Marketplace](https://webkul.com/blog/shopify-multivendor-marketplace-new-theme-launched/) Store Pick-up feature app, the admin can allow his sellers to provide an order pickup option to the customers.
+Using the [Multivendor Marketplace](/zenith/introduction/) Store Pick-up feature app, the admin can allow his sellers to provide an order pickup option to the customers.
 
 Thus, customers can pick up their orders from the seller's store and get rid of the shipping rates.
 
@@ -20,7 +20,7 @@ Seller will provide his store address as the "Store Pickup Address".
 
 This feature app is at the monthly charge of **$10 USD per month** in addition to your current Multivendor plan.
 
-**Important Note:-** In order to make this feature work please make sure that you are using the [Shipping feature](https://webkul.com/blog/shopify-multivendor-marketplace-shipping/) of the Multivendor app.
+**Important Note:-** In order to make this feature work please make sure that you are using the [Shipping feature](/zenith/featured-app/overview) of the Multivendor app.
 
 ### Additional Features
 

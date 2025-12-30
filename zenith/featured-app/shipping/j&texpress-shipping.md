@@ -4,7 +4,7 @@ description: J&TEXPRESS SHIPPING
 date: 2025-07-18
 author: Chirag Tyagi
 ---
-The [Multi-vendor Marketplace](https://webkul.com/blog/shopify-multivendor-marketplace-new-theme-launched/) has come up with yet another shipping feature app named **J&T Express.**
+The [Multi-vendor Marketplace](/zenith/introduction/) has come up with yet another shipping feature app named **J&T Express.**
 
 [J&T Express](https://www.jtexpress.my/track.php) is known to be an integrated logistics service that allows sellers to ship the package(s) using their own packaging and deliver the items to the customers.
 
@@ -14,7 +14,7 @@ This feature app will charge you a minimal amount of **$10 per month** over an
 
 NOTE:- This J&T Express shipping feature app is available only with the Multivendor **Pro** **Plan** ($60/month).
 
-Moreover, you need to enable the **[Shipping](https://webkul.com/blog/shopify-multivendor-marketplace-shipping/)** Add-on for FREE from the ‘Feature Apps’ section of the app.
+Moreover, you need to enable the **[Shipping](/zenith/featured-app/overview)** Add-on for FREE from the ‘Feature Apps’ section of the app.
 
 Also, Access to Shipping requires your Shopify store to be on the plan that supports [**Real-Time Carrier-Calculated Shipping**.](https://help.shopify.com/en/manual/shipping/setting-up-and-managing-your-shipping/enabling-shipping-carriers)
 

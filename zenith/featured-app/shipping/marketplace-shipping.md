@@ -6,7 +6,7 @@ author: Chirag Tyagi
 ---
 ### **Introduction**
 
-**[Multi-vendor Marketplace](https://webkul.com/blog/shopify-multivendor-marketplace-new-theme-launched/)** app now comes with a new simplified way to understand marketplace shipping in the app.
+**[Multi-vendor Marketplace](/zenith/introduction/)** app now comes with a new simplified way to understand marketplace shipping in the app.
 
 Below guidance will help you to know exactly how shipping works in the app & how the shipping rates will be applied at the checkout. So, Let's proceed to explore.
 

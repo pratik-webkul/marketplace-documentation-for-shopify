@@ -33,8 +33,8 @@ Thus, the order amount can be less than the minimum purchase amount set by the s
 
 Let's understand it in detail.
 
-### Configuration-ADMIN END
-
+Configuration-ADMIN END
+---------------------------------
 In order to make this feature work for your sellers, first, you need to enable this tab from your admin panel. Here are some simple steps:-
 
 *   Go to the Multi-vendor admin panel.
@@ -54,8 +54,8 @@ Introduced a new sub-menu "General Configuration" at the seller side. Now, selle
 
 Let's understand this in detail.
 
-### General Configuration: SELLER END
-
+ General Configuration: SELLER END
+---------------------------------------
 Once the "Minimum Purchase Amount for Orders" tab is enabled by the merchant, the same will reflect in the **General Configuration** menu of the seller panel.
 
 ![general configuration](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/generalconfigseller.webp)
@@ -72,8 +72,8 @@ By default, the Purchase amount will be applicable to all the customers. In this
 
 ![minimum purchase amount-Seller Panel](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/generalconfigsellerenable.webp)
 
-### **SLOT PRICING CASE**
-
+**SLOT PRICING CASE**
+---------------------------
 This functionality is also compatible with Slot Pricing feature app where the seller will be able to choose whether he wants to apply "minimum purchase" for "**All Customers**" or "**Specific Tagged Customers**".
 
 In case, You have enabled the [Slot Pricing feature](https://webkul.com/blog/shopify-multivendor-marketplace-slot-pricing/) on your end, the sellers will get the option to set a different minimum purchase amount for each customer based on the tags assigned to them.
@@ -86,8 +86,8 @@ Now, the purchase amount required for each customer will be different based on t
 
 That is how sellers can set a minimum purchase amount for orders from their respective seller panels of the multi-vendor app.
 
-### How to Configure Front End
-
+ How to Configure Front End
+--------------------
 Now, once the customers purchase products from your store, the checkout condition appears on the cart page after adding the codes into liquid files.
 
 In order to display the checkout conditions on the Cart page, you need to add the codes to the suggested liquid files (as shown in the screenshot).
@@ -134,8 +134,8 @@ Once the codes are added let's see how it appears on the front end.
 ```liquid
     {% assign selected_tag = customer.tags[0] %}<script>var wk_selected_tag = "{{ selected_tag }}";</script>
 ```
-### Front End View
-
+Front End View
+------------------------------
 If the cart amount is lesser than that minimum purchase amount, the check out condition gets failed & customer will not be able to proceed to check out.
 
 ![Cart Page](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/06/image-32-1126x1024.png)
@@ -146,8 +146,8 @@ If the cart amount is equal or greater than the minimum purchase amount, custome
 
 This is all about the Minimum Purchase Amount feature of the Multi-vendor Marketplace app for Shopify.
 
-### Minimum Purchase Amount On Seller Pages
-
+Minimum Purchase Amount On Seller Pages
+---------------------------------------------
 In case, you are using [Theme 4](https://webkul.com/blog/shopify-multivendor-marktplace-custom-seller-profile-page-new-theme/#panel-5) of the seller profile page then, you can display the minimum purchase amount on the seller listing as well as on the seller profile page.
 
 **On the Seller Listing Page**
@@ -162,8 +162,8 @@ Similarly, on the seller profile page, you can view the minimum purchase amount 
 
 **NOTE**:- Currently, this feature is available in [Theme 4](https://webkul.com/blog/shopify-multivendor-marktplace-custom-seller-profile-page-new-theme/#panel-5) only, but in case you want this for other seller profile page themes as well, do send us a request to **support@webkul.com**.
 
-### Minimum Purchase Amount on Product Page
-
+Minimum Purchase Amount on Product Page
+-----------------------------------
 You can now show the minimum purchase amount on the product description page of your store. All you need to do is just go to the "**Instruction for Marketplace**" menu under the "**Configuration**" menu and add the code to the product.liquid template file.
 
 ![order amount on product page](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/codemini.webp)

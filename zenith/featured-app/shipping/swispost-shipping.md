@@ -4,7 +4,7 @@ description: SWISSPOST SHIPPING
 date: 2025-07-18
 author: Chirag Tyagi
 ---
-The [Multi-vendor Marketplace](https://webkul.com/blog/shopify-multivendor-marketplace-new-theme-launched/) has introduced another shipping feature app for order fulfillment named [**Swiss Post**](https://www.post.ch/en/) i.e **the national postal service of Switzerland.**
+The [Multi-vendor Marketplace](/zenith/introduction/) has introduced another shipping feature app for order fulfillment named [**Swiss Post**](https://www.post.ch/en/) i.e **the national postal service of Switzerland.**
 
 By enabling the Swiss Post shipping featured app, the admin can allow sellers to manage the order fulfillment via Swiss Post shipping.
 
@@ -14,7 +14,7 @@ This feature app will charge you a minimal amount of **$10 per month** over an
 
 NOTE:- This Swiss Post shipping feature app is available only with the Multivendor **Pro** **Plan** ($60/month).
 
-Moreover, you need to enable the **[Shipping](https://webkul.com/blog/shopify-multivendor-marketplace-shipping/)** Add-on for FREE from the ‘Feature Apps’ section of the app.
+Moreover, you need to enable the **[Shipping](/zenith/featured-app/overview)** Add-on for FREE from the ‘Feature Apps’ section of the app.
 
 Also, Access to Shipping requires your Shopify store to be on the plan that supports [**Real-Time Carrier-Calculated Shipping**.](https://help.shopify.com/en/manual/shipping/setting-up-and-managing-your-shipping/enabling-shipping-carriers)
 

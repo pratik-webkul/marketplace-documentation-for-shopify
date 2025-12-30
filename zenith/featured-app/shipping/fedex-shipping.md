@@ -4,7 +4,7 @@ description: FEDEX SHIPPING
 date: 2025-07-18
 author: Chirag Tyagi
 ---
-[Multi-Vendor Marketplace for Shopify](https://webkul.com/blog/shopify-multivendor-marketplace-new-theme-launched/) is here with another marketplace shipping feature app, i.e., **FedEx**.
+[Multi-Vendor Marketplace for Shopify](/zenith/introduction/) is here with another marketplace shipping feature app, i.e., **FedEx**.
 
 FedEx
 -----
@@ -13,7 +13,7 @@ FedEx
 
 Using this featured app, the merchants can enable shipment through **FedEx**. Moreover, he can allow **US** **sellers** to automatically generate shipping labels.
 
-**FedEx** feature app is available only with the Multivendor **Pro** **Plan** ($60/month). Moreover, you need to enable the [**Shipping**](https://webkul.com/blog/shopify-multivendor-marketplace-shipping/) add-on (free) from the 'featured apps' section of the app.
+**FedEx** feature app is available only with the Multivendor **Pro** **Plan** ($60/month). Moreover, you need to enable the [**Shipping**](/zenith/featured-app/overview) add-on (free) from the 'featured apps' section of the app.
 
 **CHARGES:**
 

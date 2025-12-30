@@ -38,7 +38,7 @@ You can also configure how **shipping costs** and **taxes** should be shared bet
 ![settings](http://cdnblog.webkul.com/blog/wp-content/uploads/2025/10/paymentsetting-scaled.webp)  
 ![autopay](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/10/autopaysetting.webp)
 
-To learn more about the full seller payment workflow, check the [Complete Payment Flow of the Multivendor Marketplace App](/zenith/payment/overview).
+To learn more about the full seller payment workflow, check the [Complete Payment Flow of the Multivendor Marketplace App](/zenith/payment/seller-payment).
 
 ---
 
@@ -198,7 +198,7 @@ Update seller earnings based on these order events:
 ![seller earning config](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/10/totaldueearning-1.webp)
 
 **Note:**  
-To add earnings post-refund period, enable [Cashable Amount for Sellers](/zenith/payment/paypal#pay-after-refund-date).
+To add earnings post-refund period, enable [Cashable Amount for Sellers](/zenith/payment/paypal.html#pay-after-refund-date).
 
 ---
 

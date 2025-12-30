@@ -6,8 +6,8 @@ author: Chirag Tyagi
 ---
 
 
-### **2-Step Authentication for seller and staff logins**
-
+**2-Step Authentication for seller and staff logins**
+----------------------------------------
 To enhance security across the platform, we've introduced a 2-Step Authentication process for both sellers and admin users.
 
 This added layer of protection ensures that only authorized users can access their accounts.
@@ -34,8 +34,8 @@ Admins also have the flexibility to personalize the OTP email content. Simply cl
 
 ![edit](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/11/2factorr-1200x571.webp)
 
-### SMS Authentication
-
+SMS Authentication
+----------------------
 ![SMS](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/11/sms-825x1024.webp)
 
 Users add an extra layer of login security by enabling SMS Authentication. During login, they enter a mobile number with country code and verify it using an OTP.
@@ -52,8 +52,8 @@ There is also a feature for admin staff and seller staff login.
   
 Note – If the seller changes the Contact no., he/she needs to verify the no. again at the time of login.
 
-### Google Authentication
-
+Google Authentication
+----------------------
 ![g](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/11/google-976x1024.webp)
 
 The admin adds an extra layer of security by enabling the Google Authentication option and scanning a QR code with the Google Authenticator app during the first login.

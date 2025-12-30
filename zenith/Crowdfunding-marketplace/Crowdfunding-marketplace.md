@@ -37,7 +37,7 @@ NGOs or local businesses who are looking to start their crowdfunding project loo
 
 Since money is a constraint for them, they therefore prefer using already established, ready-to-use platforms instead of building their own from scratch.
 
-You can build a [marketplace](https://marketplace-doc.webkul.com/zenith/Crowdfunding/CROWDFUNDING.html) to help people share their vision with the communities that can fund them collectively.
+You can build a [marketplace](/zenith/featured-app/Marketplace-product-add-ons/crowdfunding) to help people share their vision with the communities that can fund them collectively.
 
 Turning their dreams into reality. A platform to bring creative minds, love & support together!
 
@@ -71,7 +71,7 @@ To get your website up & running within weeks, go for **SAAS based products**. Y
 
 They have real-time support to help you on every step.
 
-Search for the apps on their Official App Store that can cater to your needs. We recommend checking out the [**Crowdfunding X Multivendor Marketplace App**](https://marketplace-doc.webkul.com/zenith/Crowdfunding/CROWDFUNDING.html).
+Search for the apps on their Official App Store that can cater to your needs. We recommend checking out the [**Crowdfunding X Multivendor Marketplace App**](/zenith/featured-app/Marketplace-product-add-ons/crowdfunding).
 
 This will help you with creating your own crowdfunding brand which you can also customize to your needs. Know more about it at the end of this article.
 

@@ -4,7 +4,7 @@ description: AIR SPEED SHIPPING
 date: 2025-07-18
 author: Chirag Tyagi
 ---
-With **[Multivendor Marketplace](https://webkul.com/blog/shopify-multivendor-marketplace-new-theme-launched/)** App, You might have used [USPS](https://webkul.com/blog/shopify-multivendor-marketplace-usps-shipping-new-theme/), [Canada Post](https://webkul.com/blog/shopify-multivendor-canada-post-new-theme/) or [Ecom Express Shipping](https://webkul.com/blog/shopify-multivendor-ecom-express-shipping/) Feature Apps on your marketplace to manage fulfillment and generate shipping labels.
+With **[Multivendor Marketplace](/zenith/introduction/)** App, You might have used , [Canada Post](/zenith/featured-app/shipping/canada-post-shipping) or [Ecom Express Shipping](/zenith/featured-app/shipping/ecom-express-shipping) Feature Apps on your marketplace to manage fulfillment and generate shipping labels.
 
 Now, We came up with a new feature app named "AirSpeed Shipping" to manage fulfillment on a priority basis.
 

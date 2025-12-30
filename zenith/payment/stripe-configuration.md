@@ -15,7 +15,7 @@ But if seller is bearing the discount, the amount will be split, i.e., the whole
 
 **NOTE**:- Both admin & seller need to have their respective Stripe accounts. Moreover, if you are using the older version of Stripe API (before 2019-08-14), make sure to upgrade it to the latest version.
 
-To use this payment gateway, the admin needs to enable the [Stripe Connect](https://webkul.com/blog/shopify-multi-vendor-marketplace-stripe-connect-integration/) from the **feature app section**:
+To use this payment gateway, the admin needs to enable the [Stripe Connect](/zenith/payment/stripe.html) from the **feature app section**:
 
 ![Feature app SCA STRIPE](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/pay31.webp)
 
@@ -50,7 +50,7 @@ Enabling this option will give you a few more options:
 
 ENABLE STRIPE FOR: Stripe will work on the **checkout** page. (Merchants using the **Seller Membership feature app** can enable Stripe for **membership payments** as well.)
 
-Admin can also Select **Both** Checkout and [Seller Membership](https://webkul.com/blog/shopify-multivendor-marketplace-seller-membership-new-theme/) for Stripe payment as shown below
+Admin can also Select **Both** Checkout and [Seller Membership](/zenith/featured-app/seller-add-ons/seller-membership.html) for Stripe payment as shown below
 
 ![cxcx](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/01/cxcx.png)
 
@@ -140,7 +140,7 @@ Stripe: Admin End
 **Destination Charges**:
 ------------------------
 
-For selecting "Destination Charges" as the payment process method, make sure to enable the "split-cart" feature app: [Explore feature app](https://webkul.com/blog/shopify-multivendor-marketplace-split-cart/).
+For selecting "Destination Charges" as the payment process method, make sure to enable the "split-cart" feature app: [Explore feature app](/zenith/featured-app/Marketplace-miscellaneous-add-ons/split-cart.html).
 
 Moreover, if you haven't enabled the split-cart feature app then the amount of order with products from multiple sellers will go to the admin and the admin needs to manually pay the seller earning.
 
@@ -159,7 +159,7 @@ Stripe: Admin End
 **Direct Charges**
 ------------------
 
-For selecting "Direct Charges" as the payment process method, make sure to enable the "split-cart" feature app: [Explore feature app](https://webkul.com/blog/shopify-multivendor-marketplace-split-cart/).
+For selecting "Direct Charges" as the payment process method, make sure to enable the "split-cart" feature app: [Explore feature app](/zenith/featured-app/Marketplace-miscellaneous-add-ons/split-cart.html).
 
 Moreover, if you haven’t enabled the split-cart feature app then the amount of order with products from multiple sellers will go to the admin and the admin needs to manually pay the seller earning.
 
@@ -184,7 +184,7 @@ This is the continuation of the above configuration page (Multivendor Admin Pane
 
 Further, enter the details like **Secret Key, Publish Key** and **Client ID** and then click on **save**.
 
-> The configuration from the seller end will the same as that was before. To know about that, use the following link: [https://webkul.com/blog/shopify-multi-vendor-marketplace-stripe-connect-integration/](/zenith/payment/stripe)
+> The configuration from the seller end will the same as that was before. To know about that, use the following link: [/zenith/payment/stripe.html](/zenith/payment/stripe.html)
 
 **Note**: In case you have selected Direct Charges, it is mandatory for sellers to connect their Stripe account otherwise customer payment won't be successful.
 

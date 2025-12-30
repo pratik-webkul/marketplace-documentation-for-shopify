@@ -1,5 +1,8 @@
-
-
+---
+title: C2C Marketplace
+description: C2C Marketplace
+author: Chirag Tyagi
+---
 
 ## C2C Marketplace
 
@@ -33,7 +36,6 @@ To support the Customer-to-Customer (C2C) use case, the Marketplace app includes
 
 This feature empowers marketplace owners to transform regular customers into active sellers without relying only on traditional vendors.
 
- [**C2C Configuration in Multivendor Marketplace:**](https://marketplace-doc.webkul.com/zenith/configuration/general-configration.html#c2c-convert-your-customers-to-sellers)
 
 ---
 
@@ -61,6 +63,8 @@ The C2C feature benefits multiple marketplace scenarios, including:
 - Platforms where buyers frequently resell products
 
 ---
+ [**C2C Configuration in Multivendor Marketplace:**](/zenith/configuration/general-configration.html#c2c-convert-your-customers-to-sellers)
+
 
 ## Conclusion
 

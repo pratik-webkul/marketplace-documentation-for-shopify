@@ -4,7 +4,7 @@ description: SHIPROCKET SHIPPING
 date: 2025-07-18
 author: Chirag Tyagi
 ---
-The [**Multi-vendor Marketplace**](https://webkul.com/blog/shopify-multivendor-marketplace-new-theme-launched/) has introduced another shipping feature app for order fulfillment named [**Shiprocket**](https://www.shiprocket.in/).
+The [**Multi-vendor Marketplace**](/zenith/introduction/) has introduced another shipping feature app for order fulfillment named [**Shiprocket**](https://www.shiprocket.in/).
 
 It is a Delhi-based BigFoot Retail solution that is India's first automated shipping software that aims to reduce eCommerce shipping to its bare bones.
 
@@ -14,7 +14,7 @@ the admin can allow the sellers to manage both the order fulfillment using the S
 
 This feature app comes will charge you **$10 per month** in addition to your current Multivendor plan.
 
-**Note**:- “Shiprocket feature is available only in the Multivendor **PRO ($60/month)** Plan and you need to enable the [**Shipping Feature App**](https://webkul.com/blog/shopify-multivendor-marketplace-shipping/)" that is **FREE** of cost.”
+**Note**:- “Shiprocket feature is available only in the Multivendor **PRO ($60/month)** Plan and you need to enable the [**Shipping Feature App**](/zenith/featured-app/overview)" that is **FREE** of cost.”
 
 To make the shipping feature work, you need to choose the Shopify store plan which supports the **“Real-Time Carrier-Calculated Shipping”**
 

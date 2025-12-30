@@ -27,8 +27,6 @@ To address B2B pricing needs, the Marketplace app provides a **Slot Pricing feat
 
 The Slot Pricing feature works using **product tags**. Based on the configured tags and defined slot rules, specific pricing can be applied to tagged products. This makes it suitable for B2B and wholesale-style pricing scenarios where controlled pricing behavior is required.
 
-**Slot Pricing Documentation:**  
-[User-Guide](https://marketplace-doc.webkul.com/zenith/Featured-App/Marketplace%20Product%20Add-Ons/SLOT%20PRICING.html#admin-adding-slots)
 
 
 ---
@@ -69,6 +67,15 @@ B2B marketplaces often require flexible and controlled pricing mechanisms. The S
 This makes it easier to manage B2B pricing while keeping the marketplace workflow simple and consistent.
 
 ---
+## Learn More About Slot Pricing in the Marketplace
+
+For a detailed understanding of how Slot Pricing works and how it can be configured and used within the Marketplace app, you can refer to the official documentation below.  
+This guide explains the complete setup flow, including admin-side slot creation and tag-based pricing configuration.
+
+**Slot Pricing Documentation:**  
+[User-Guide for slot pricing](/zenith/featured-app/Marketplace-product-add-ons/slot-pricing)
+
+
 
 ## Conclusion
 

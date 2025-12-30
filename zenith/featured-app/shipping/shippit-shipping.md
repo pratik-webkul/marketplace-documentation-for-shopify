@@ -4,7 +4,7 @@ description: SHIPPIT SHIPPING
 date: 2025-07-18
 author: Chirag Tyagi
 ---
-[Multi-Vendor Marketplace for Shopify](https://webkul.com/blog/shopify-multivendor-marketplace-new-theme-launched/) is now Integrated with another shipping add-on: **Shippit**
+[Multi-Vendor Marketplace for Shopify](/zenith/introduction/) is now Integrated with another shipping add-on: **Shippit**
 
 What is Shippit Shipping?
 -------------------------
@@ -15,7 +15,7 @@ This feature will allow you to ship your goods via multiple carrier shipping met
 
 **NOTE**:
 
-The **Shippit** feature app is available only with the Multivendor **Pro** **Plan** ($60/month). Moreover, you need to enable the [**Shipping**](https://webkul.com/blog/shopify-multivendor-marketplace-shipping/) add-on (free) from the ‘feature apps’ section of the app.
+The **Shippit** feature app is available only with the Multivendor **Pro** **Plan** ($60/month). Moreover, you need to enable the [**Shipping**](/zenith/featured-app/overview) add-on (free) from the ‘feature apps’ section of the app.
 
 Above all, access to Shipping requires your Shopify store to be on the plan that supports **Real-Time Carrier-Calculated Shipping**.
 

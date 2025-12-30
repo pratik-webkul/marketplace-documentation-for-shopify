@@ -4,7 +4,7 @@ description: UPS SHIPPING
 date: 2025-07-18
 author: Chirag Tyagi
 ---
-[**Multi-vendor Marketplace**](https://webkul.com/blog/shopify-multivendor-marketplace-new-theme-launched/) app has come up with the **UPS** feature app to manage product shipping, track the packages & print shipping labels through the **United Parcel Service (UPS)**.
+[**Multi-vendor Marketplace**](/zenith/introduction/) app has come up with the **UPS** feature app to manage product shipping, track the packages & print shipping labels through the **United Parcel Service (UPS)**.
 
 You can now visit the feature app section and enable the "UPS" feature app to let the sellers ship their products through UPS.
 
@@ -14,7 +14,7 @@ This feature of the Multivendor app will charge you an additional amount of $10 
 
 > To make UPS shipping feature work, you need to choose the Shopify store plan which supports the **“Real-Time Carrier-Calculated Shipping”.**
 
-**Important Note**:- “UPS Feature is available only in the Multivendor **PRO ($60/month)** Plan **+** You need to enable the “[Shipping” Feature App](https://webkul.com/blog/shopify-multivendor-marketplace-shipping/) which is **FREE** of cost.”
+**Important Note**:- “UPS Feature is available only in the Multivendor **PRO ($60/month)** Plan **+** You need to enable the “[Shipping” Feature App](/zenith/featured-app/overview) which is **FREE** of cost.”
 
 THIS SHIPPING FEATURE APP IS USED FOR **BOTH RATE CALCULATION** AND **FULFILLMENT.**
 
