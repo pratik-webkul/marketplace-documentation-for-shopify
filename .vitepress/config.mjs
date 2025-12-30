@@ -7,7 +7,7 @@ export default defineConfig({
   title: 'Multivendor Marketplace For Shopify',
   description: 'This is the documentation regading webkul multivendor marketplace for shopify',
   head: [
-    ['link', { rel: 'icon', href: '/public/image/favicon.png' }],
+    ['link', { rel: 'icon', href: '/image/favicon.png' }],
     // ['script', { src: '/js/toggle-sidebar.js' }],
     
     ['meta', { name: 'title', content: 'Multi-Vendor Marketplace for Shopify' }],
