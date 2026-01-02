@@ -18,8 +18,8 @@ This feature app will charge you a minimal amount of **$10 per month** over and 
 
 **NOTE**:- Dutch language is now supported in Shipment Type of PostNL Shipping.
 
-### How to Activate PostNL Shipping?
-
+ How to Activate PostNL Shipping?
+----------------------
 To enable this feature within your app, all you need to do is to visit the “**Featured Apps**” section of the admin panel and enable it from there.
 
 ![Feature App-shipping](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/featuredapps.webp)
@@ -32,8 +32,8 @@ Click the **Enable** button to activate the feature app.
 
 In this way, you can enable the feature within your Multivendor App.  
 
-### Workflow
-
+ Workflow
+---------------------
 Admin End:-
 
 As soon as you enable this feature app, a new sub-menu gets added in the Configuration menu of the app i.e. PostNL Configuration.
@@ -63,8 +63,8 @@ Once you configure these details, the sellers will also get the option to enable
 
 ![seller end](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/enablepostnlseller.webp)
 
-#### Global Shipping Configuration
-
+ Global Shipping Configuration
+------------------------
 Also, the sellers need to configure the Global Shipping Configuration details from here:  
 Shipping Duration:\-
 
@@ -78,8 +78,8 @@ Now, the shipping must be required for the products.
 
 The seller will add/edit the product and select any shipping method enabled in the app based on which shipping rates will be calculated at checkout.
 
-### Shipping Label Generation
-
+ Shipping Label Generation
+---------------------------
 Both admin and seller can generate the shipping label for the fulfilled orders. Admin can configure the shipping Label details.
 
 Seller needs to follow these steps to generate shipping labels:
@@ -102,8 +102,8 @@ Then, the seller will click "Agree and Fulfill" button.
 
 ![Order_Details_Seller_•_Multivendor_MarketPlace-4](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/07/Order_Details_Seller_%E2%80%A2_Multivendor_MarketPlace-4-1200x590.png)
 
-### Allow Sellers to Select Delivery Method On Fulfillment
-
+ Allow Sellers to Select Delivery Method On Fulfillment
+---------------------------
 You can now allow your sellers to select a delivery method at the time of order fulfillment.
 
 For this, you need to first enable the configuration from the **PostNL Configuration** menu on admin panel.

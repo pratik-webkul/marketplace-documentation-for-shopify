@@ -17,8 +17,8 @@ To make this shipping feature work, you need to choose the Shopify store plan wh
 
 So let's understand its workflow:-
 
-### ADMIN END
-
+ ADMIN END
+--------------------
 Firstly enable the feature from the "FEATURE APPS" section on the top right-hand side of the main menu in your Marketplace App.
 
 ![Multi Vendor Marketplace Canada Post](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/canadapost.webp)
@@ -59,8 +59,8 @@ This option will introduce a 'Canada Post Configuration' sub-menu on the Seller'
 
 In this way, you can configure your shipping details.
 
-### Add Shipping Method to Product
-
+ Add Shipping Method to Product
+-------------------
 Once you configure the Canada post shipping details, you will have the option to choose a shipping method for each product while adding/editing a product.
 
 ![Multi Vendor Marketplace Canada Post](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/12/Screenshot2-1-1200x619.png)
@@ -74,8 +74,8 @@ So, to do this, go to **Shopify Backend** > **Settings** > **Checkout** > 
 
 ![133](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/09/demo-store-Checkout-Shopify-1200x597.png)
 
-### SELLER END
-
+ SELLER END
+-----------------
 Further, on the seller end, Seller needs to select the "Canada Post" shipping feature from the "Shipping configuration" section from their account in the Multivendor Marketplace App.
 
 Seller End>>Configuration>> Shipping Configuration>> select Canada Post>> Save Changes
@@ -101,8 +101,8 @@ This is the case when international shipping is applied and buyers will get inte
 
 Therefore, they can choose any of the shipping methods and can proceed to checkout.
 
-### CREATE PICKUP REQUEST
-
+ CREATE PICKUP REQUEST
+---------------------
 Your sellers can now create pickup requests for the Canada post shipping service providers.
 
 The provider will come to pick up the orders from the specified seller location and deliver it to the customers.
@@ -129,16 +129,16 @@ This way, you can create pick up requests using the Canada Post shipping feature
 
 the status gets auto-updated on the Seller panel of the multi-vendor app via auto-delivery status feature.
 
-### Order Tracking
-
+ Order Tracking
+----------------
 The Seller, as well as the Admin, can track the order from the Fulfillment Details section of the Order Details Page.
 
 Multi Vendor Marketplace Admin/Seller Panel > Orders > Order Listing > View (Action) > Fulfillment Details Section (refer the image given below):
 
 ![Multi Vendor Marketplace Canada Post](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/07/05062657/screenshot6.png)
 
-### SHIPPING Label
-
+ SHIPPING Label
+------------------
 The seller can also generate the shipping label from the orders section of their account in the Multivendor marketplace app.
 
 Seller end >>orders>>order listing>>click on view button in the “Action” section on the front of order ID>> Generate Shipping Label.

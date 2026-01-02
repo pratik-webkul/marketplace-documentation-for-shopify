@@ -20,8 +20,8 @@ Once the customer orders any imported products on Shopify, the same order will c
 
 To install this feature app, the admin needs to visit the "Feature App" section and approve the charge of $25 USD in addition to the Multivendor App plan.
 
-### Features
-
+ Features
+---------------------
 *   Admin can allow his sellers to connect their Prestashop store with admin's Store.
 *   Sellers can import the products by Product IDs from their Prestashop store to admin's marketplace
 *   Moreover, seller needs to map their Prestashop store's Collection with admin's Store's collection.
@@ -30,13 +30,13 @@ To install this feature app, the admin needs to visit the "Feature App" section 
 *   When imported product will be ordered on Shopify, the same order will be created on Prestashop.
 *   When imported product will be ordered on Prestashop, inventory will updatevon Shopify.
 *   Once a product is created at PrestaShop, the same will be updated automatically on Shopify as well.
-*   **[Slot Pricing](https://webkul.com/blog/shopify-multivendor-marketplace-slot-pricing/) is compatible** with this connector. 
+*   **[Slot Pricing](/zenith/featured-app/marketplace-product-add-ons/slot-pricing) is compatible** with this connector. 
 *   Both admin & seller can now sync the seller’s products in any state from the “Product Listing” section of their respective panels.
 
 ![abc](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/11/Product-Admin-2-1200x597.png)
 
-### Limitations
-
+ Limitations
+---------------------
 *   Sellers can import only Standard Products from PrestaShop to Shopify.  
     \-**Simple Product**  
     \-**Product with Combinations**
@@ -67,8 +67,8 @@ This procedure is the same for all the versions.
 
 If You get any issue in order or product updates, please make sure that you have added the above codes.
 
-### Permissions Required In PrestaShop For Sellers
-
+ Permissions Required In PrestaShop For Sellers
+-------------------
 The seller needs to allow certain permissions on PrestaShop. Allow the following **webservices permissions**:-
 
 products  
@@ -97,8 +97,8 @@ order\_histories
 
 ![required permissions](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/06/screenshot-nimbusweb.me-2021.06.23-18_35_40-1200x549.png)
 
-### How to Install
-
+ How to Install
+----------------
 Admin can follow below-given steps to install the Shopify-Prestashop Connector App:
 
 **Step 1:** Visit the **Feature Apps** Section.
@@ -130,8 +130,8 @@ Now, he can enable/disable other tabs for this section as well.
 
 ![Connector configuration](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/02/screenshot_1708952412908-653x1024.png)
 
-### Image Limiter
-
+ Image Limiter
+----------------
 The admin has the ability to enable a configuration that restricts the number of product images to a range of 1 to 20.
 
 This ensures that sellers can only synchronize a specific number of images, as defined by the admin.
@@ -140,8 +140,8 @@ This ensures that sellers can only synchronize a specific number of images, as d
 
 This feature allows for better control over the number of images associated with each product, providing a more streamlined and consistent experience for both sellers and customers.
 
-### Sync Customer Details
-
+ Sync Customer Details
+-------------------
 By enabling this tab, you can sync customer details in order with the seller’s PrestaShop store. Let’s understand this feature with two cases.
 
 **CASE 1: Sync Customer Details tab is ON (enabled):**
@@ -168,8 +168,8 @@ Even, the admin will get a reference order number like below that will be shown 
 
 ![reference order number](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/02/screenshot_from_2022_12_27_12_51_33-4-1200x595.png)
 
-### How the Seller will install the Module on PrestaShop?
-
+ How the Seller will install the Module on PrestaShop?
+----------------------
 Once the admin provides the PrestaShop Module to the sellers, seller can upload the module on PrestaShop and configure its details to make the feature work.
 
 Steps to Upload the Module:
@@ -193,8 +193,8 @@ This way, a seller can install the module on his/her PrestaShop and configure it
 
 As soon as the seller installs the module, the products created at PrestaShop will be auto-updated on Shopify. Seller needs to import the existing products from the app.  
 
-### How to Generate Access Token?
-
+ How to Generate Access Token?
+-----------------------------------
 To generate access token on PrestaShop, Seller needs to follow certain steps that are as follows:
 
 *   **Login** to PrestaShop.
@@ -223,8 +223,8 @@ To generate access token on PrestaShop, Seller needs to follow certain steps tha
 
 Make sure that the Seller has enabled the **“PrestaShop Webservice”** from the Configuration section (as shown in above screenshot).
 
-### PrestaShop Configuration
-
+ PrestaShop Configuration
+-----------------------------------
 **SELLER END**
 
 Once the admin installs the app, he/she will get a new sub-menu in the Configuration menu of the Seller Panel. Seller needs to configure the PrestaShop details from this section of the app.
@@ -248,8 +248,8 @@ Sellers can directly download the PrestaShop Module from PrestaShop details sect
 
 ![Module](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/01/Screenshot-5-7.png)
 
-### PrestaShop Payment Details
-
+ PrestaShop Payment Details
+----------------------------
 While configuring PrestaShop details on admin’s store, the seller needs to enter Payment Method Name and Payment Method Module.
 
 Sellers can get these details from the “Payment” section of his/her PrestaShop store.
@@ -301,8 +301,8 @@ Seller will map the product type of admin’s Shopify store with product type of
 
 Moreover, the seller can enable/disable or delete the mapped Product Tag & Product Type.
 
-### Seller Importing Products
-
+ Seller Importing Products
+---------------------------
 As soon as the Seller Configures the PrestaShop details, Seller will get the option to import his/her PrestaShop’s products to admin’s Shopify Store.
 
 Clicking on the “Import Product” button added in the seller panel, Seller can import products using any of the three methods.
@@ -320,8 +320,8 @@ Using this method, Seller will enter the range of product IDs of his/her PrestaS
 
 This way, Seller can import their PrestaShop Products to admin’s Shopify Store.
 
-### Product Listing
-
+ Product Listing
+------------------------
 As soon as the Seller imports his PrestaShop products to admin’s marketplace, the imported products will be in “Approval Pending” state at both admin & seller panel.
 
 You can view the imported products in the “**Product Listing**” section of the admin panel.
@@ -332,8 +332,8 @@ Admin can anytime enable or deny the imported product with a reason.
 
 Once the admin approves the product, the same will reflect at seller side too.
 
-### Orders
-
+ Orders
+---------------------------
 Once an order is placed at the Shopify store for the seller product, then the same order will be created on PrestaShop also. 
 
 Accordingly, inventory will be managed at both the ends i.e. at PrestaShop as well as at Multivendor App.
@@ -349,8 +349,8 @@ Moreover, the same order is here on PrestaShop also.
 
 ![PrestaShop00](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/12/Screenshot-14-1.png)
 
-### Auto-synced tracking number
-
+ Auto-synced tracking number
+--------------------------
 Now, not only order details but also the tracking information like the tracking number will sync in our Prestashop connector automatically.
 
 Admin end of order view.
@@ -361,8 +361,8 @@ Seller end of the order view.
 
 ![3-2](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/04/3-2-1200x538.png)
 
-### Price Rule
-
+ Price Rule
+------------------------
 Let the sellers create price rule to manage product price of their PrestaShop store to merchant’s store.
 
 Sellers will have a new menu named **Connector Price Rule** in the configuration menu of the app.
@@ -381,8 +381,8 @@ Enable the checkbox to update already synced product’s price at merchant’s s
 
 This way, sellers can create price rule from their respective seller panels based on which product price of the seller’s store will be calculated at merchant’s store.
 
-### Sync Barcode
-
+ Sync Barcode
+-----------------------
 Now the admin can allow their sellers to sync the product's Barcodes (UPC, MPN, GTIN, etc) from their Prestashop store to the Admin's Shopify store.
 
 To do this, first Admin needs to enable this Configuration from Admin Panel>> Configuration>> Connector Configuration>>Choose Prestashop Connector>>Enable Product Barcode Option>>Save Changes.
@@ -395,8 +395,8 @@ That he wants to sync with the Barcode field in Admin Shopify by navigating to S
 
 ![prestashop-seller-panel](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/02/prestashop-seller-panel-1200x567.jpeg)
 
-### Option Name Mapping
-
+ Option Name Mapping
+-----------------
 Now admin can map the Prestashop option names with Shopify option names.
 
 Admin can do this by navigating to the product listing section in the Admin Panel>>Select the product>>Edit>>Scroll down to the variant details section>> Click on the edit(pencil) icon

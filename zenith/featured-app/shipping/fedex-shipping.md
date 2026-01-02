@@ -108,8 +108,8 @@ So, to do this, go to **Shopify Backend** > **Settings** > **Checkout** > 
 
 Shopify Backend (Admin End)
 
-### Configuration: Seller End
-
+ Configuration: Seller End
+------------------------
 Further, the seller can configuration FedEx Shipping from his panel.
 
 Go to **multi vendor marketplace seller panel** > **configuration** > **shipping configuration**\> **enable** the shipping:

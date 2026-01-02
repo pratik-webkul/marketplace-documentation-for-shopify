@@ -8,7 +8,7 @@ author: Chirag Tyagi
 
  What is a custom field?
 -----------------------------
-The Custom field allows a user to provide additional information. Like in [Multi-Vendor Marketplace](https://webkul.com/blog/shopify-multivendor-marketplace-new-theme-launched/) app, you can create custom fields for products, orders as well as sellers.
+The Custom field allows a user to provide additional information. Like in [Multi-Vendor Marketplace](/zenith/introduction/) app, you can create custom fields for products, orders as well as sellers.
 
 Using these fields, you can ask your sellers to provide their extra information during signing up on your store.
 

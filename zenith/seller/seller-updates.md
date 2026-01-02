@@ -7,14 +7,14 @@ author: Chirag Tyagi
 
 
 
-This Guide is dedicated to letting you aware of all the new updates of the Seller menu of the [Multi-Vendor Marketplace App](https://webkul.com/blog/shopify-multivendor-marketplace-new-theme-launched/) for Shopify. 
+This Guide is dedicated to letting you aware of all the new updates of the Seller menu of the [Multi-Vendor Marketplace App](/zenith/introduction/) for Shopify. 
 
 Please keep following and tracking the **Seller Updates** to know about all the updates in the app.
 
 Have a look at the newly introduced and updated features of the Seller menu of Multi vendor Marketplace app for Shopify:
 
-### Update Seller Handle
-
+Update Seller Handle
+------------------
 When a new seller gets registered to your marketplace, it creates a seller handle for the particular seller profile page that is same as the seller name.
 
 Suppose your seller name is **"Test Vendor"**, a seller profile page link will be created for that seller with seller handle **"test-vendor"**.
@@ -33,8 +33,8 @@ Now, visit the **Sellers** menu>>**Seller Listing** sub-menu>>**Edit** seller>>E
 
 This is how you can update seller handle in the app.
 
-### Restrict Seller To Disable Feedback
-
+ Restrict Seller To Disable Feedback
+--------------------------
 In the Multi-vendor Marketplace app, the customers will have the option to provide feedback to a seller from the seller profile page.
 
 Now, by default, the seller feedback won't be visible until it is enabled by the seller. Once enabled, the seller feedback will appear on the seller profile page.
@@ -57,8 +57,8 @@ NO OPTION TO DISABLE FEEDBACK ON SELLER END
 
 ![Feedback-Seller-•-Multivendor-MarketPlace](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/10/Feedback-Seller-%E2%80%A2-Multivendor-MarketPlace-1200x597.png)
 
-### Seller Zip code on Seller profile page
-
+ Seller Zip code on Seller profile page
+----------------------------
 You can now display the seller zipcode with the seller's address on the seller profile page of your store.
 
 ![Seller-Profile-–-lalit-store1](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/09/Seller-Profile-%E2%80%93-lalit-store1-1200x597.png)
@@ -72,26 +72,26 @@ You can check the variables here:-
 ![Screenshot-2020-09-17T182325.932](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/09/Screenshot-2020-09-17T182325.932-1200x494.png)
 
 **Note**:- The seller profile page theme code is editable only in Theme 1 & Theme 4.  
-[**Know More**](https://webkul.com/blog/shopify-multivendor-marktplace-custom-seller-profile-page-new-theme/)
+[**Know More**](/zenith/seller/seller-profile-page-settings)
 
-### PUBLISH/UNPUBLISH SELLER PROFILE PAGE
-
+ PUBLISH/UNPUBLISH SELLER PROFILE PAGE
+----------------------
 The Admin can now decide whether he wants the seller profile of an individual seller to show up on the frontend or not.
 
 For this, visit Multivendor Admin Panel > Sellers > Seller Listing > Edit Seller. On the following page, you'll this option. Refer:
 
 ![Edit-Seller-Admin-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/04/Edit-Seller-Admin-1-1200x597.png)
 
-### Informative Seller Dashboard
-
+ Informative Seller Dashboard
+--------------------
 Much more informative dashboard showing Total Seller, Recent Orders and their fulfillment status and details of Total sales.
 
 ![adwdwaw](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/11/Dashboard-Seller-%E2%80%A2-Multivendor-MarketPlace-1-1.png)
 
   
 
-### Restrict Seller Signup
-
+ Restrict Seller Signup
+------------------------------
 If you want to restrict new members to signup on your marketplace, you can enable the **Restrict Seller Signup** from the **Seller Configuration** page.
 
 After enabling this feature, the **Join Now** button will be hidden from the **seller login page**. Refer:
@@ -106,8 +106,8 @@ Here, you can enable the following functionality. Refer:
 
 **NOTE:** The admin can still add new sellers from his own marketplace admin panel.
 
-### Seller Email Verification
-
+ Seller Email Verification
+-----------------------------
 If a seller registered to your marketplace is somehow not verified or missed the email verification email can now be verified via the app.
 
 Visit: **Multivendor Admin Panel** > **Configuration** > **Seller Configuration**.
@@ -127,11 +127,11 @@ Go to the **Seller Listing** section and check the same.
 
 ![seller listing](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/04/Screenshot-86-1200x461.png)
 
-### Seller Profile Page BANNER
-
+ Seller Profile Page BANNER
+--------------------------
 Now, the Seller profile page on the front end will have the banner for his shop. Both admin and seller can upload the banner from their respective panels.
 
-**[Click here](https://webkul.com/blog/shopify-multivendor-marktplace-custom-seller-profile-page-new-theme/)** for a detailed blog on the new seller profile page.
+**[Click here](/zenith/seller/seller-profile-page-settings)** for a detailed blog on the new seller profile page.
 
 You can upload a default banner for the sellers to be displayed on the "Seller Profile Page Settings" section of the app.
 
@@ -145,8 +145,8 @@ The banner showing on the seller profile page:-
 
 In case you require this newly changed version of the seller profile page, do let us know as we are not updating it on every shop by default.  
 
-### Video on the Seller Profile page
-
+ Video on the Seller Profile page
+------------------------
 If you thought it was amazing to have banners on the seller profile page, then our new upgrade will make you feel extremely good.
 
 Yes, now you and your sellers can add the video on the place of the banner on the seller’s profile page.
@@ -162,8 +162,8 @@ Seller Profile Page showing Video Banner:-
 
   
 
-### Seller Rating Star Color
-
+ Seller Rating Star Color
+--------------------
 You can now select the **color of the rating star** given to your sellers in the Multivendor app from the “Seller Profile Page Settings” menu.
 
 Once the rating is given by the customers to your seller, the seller can view it on his profile page.
@@ -178,8 +178,8 @@ Admin panel >> Sellers >> Sellers Profile Page Settings (from the drop-down menu
 
 ![adsda](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/11/Seller-Profile-%E2%80%93-Demo-Store-1.png)
 
-### Default “Sort By” for Seller Profiles
-
+ Default “Sort By” for Seller Profiles
+--------------------------------
 This upgraded feature of the Multivendor app will help the admin to select the by default “Sort By” for the seller profile pages.
 
 ![adsd](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/11/Screenshot10.png)
@@ -188,8 +188,8 @@ Once you set this from the “Seller Profile Page Settings” submenu, you can v
 
 ![dqDW](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/11/Screenshot11.png)
 
-### Login As Seller
-
+ Login As Seller
+------------------------------
 You as an admin will now have the access to login seller dashboards directly from your admin panel.
 
 Firstly, you need to enable the option from the **General Configuration** menu of the app.  
@@ -207,8 +207,8 @@ Clicking this button, the seller will be redirected to the respective seller pan
 
 Note that the sellers will be notified every time you'll log in to their account using this option.  
 
-### Display Seller's Store Logo Carousel on Homepage
-
+ Display Seller's Store Logo Carousel on Homepage
+----------------------------------
 You can now get an option to add a logo carousel to the home page of your store. For this, you need to follow the below-given steps:-
 
 Go to the admin panel of the Multi-vendor app.
@@ -232,8 +232,8 @@ Now, the logos of all your seller's store will get displayed on the logo carouse
 
 That's all!
 
-### Mandatory Configurations for Sellers
-
+ Mandatory Configurations for Sellers
+------------------------------
 You can now restrict sellers to add products if the required details are not entered by the seller. These mandatory details include shipping details, payment details & seller's account details.
 
 So, to enable these restrictions in the app, you need to visit the Multi-vendor admin panel>>Configurations>>Seller Mandatory Steps.
@@ -270,8 +270,8 @@ Please Note:- Before enabling these fields here, make sure that these fields are
 
 Thus, the sellers will be able to add products from their seller panels only after completing the above procedures (in case the admin has enabled these tabs & make these options mandatory).
 
-### Customize Seller Login/Sign Up Page
-
+ Customize Seller Login/Sign Up Page
+--------------------------
 You can now edit the theme code of the seller login/sign up page. You can easily edit the theme template provided in the app and make the changes as per your requirements.
 
 For this, Go to the Multi-vendor admin panel>>Visit **Sellers** menu>>Click "**Customize Seller Page**" sub-menu>>Select the **Custom Page** (Login Page or Sign up page)>>Get the template to edit the codes.
@@ -284,8 +284,8 @@ Now, select the custom page and click login or sign up page to edit the theme co
 
 This way, you can edit the theme codes to make the changes in the seller login & sign up page.
 
-### Re-approve Seller's Products
-
+ Re-approve Seller's Products
+-------------------------------------
 You can now re-approve the seller's products in case the seller has done any changes in the products from his/her seller panel.
 
 So, once a seller edits a product, the admin needs to approve the updates before they become live on the storefront.
@@ -303,8 +303,8 @@ You can either accept or deny the product re-approval request.
 
 Keep following this blog of ours to know about all the recent updates.
 
-### Advance Seller Feedback
-
+ Advance Seller Feedback
+----------------------------
 Now, the admin can define the points on which customers will give ratings to sellers on the seller profile page.
 
 For example - if a customer gives a rating to the seller on the basis of product quality, product service, and product delivery.
@@ -327,14 +327,14 @@ And on the seller profile page, it will be shown like the below image.
 **The admin can create maximum 5 options or points for the star rating.  
 This feature is available for theme 1 and theme 4 only.
 
-### Seller's "Created Date" and "Last Login" dates on the Seller Edit Page
-
+ Seller's "Created Date" and "Last Login" dates on the Seller Edit Page
+------------------------
 Now, the Admin can see the Seller's "Created Date" and "Last Login" date on the Seller Edit Page.
 
 ![Seller Edit Page](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/07/screenshot_1690539190801-1200x315.png)
 
-### **Sync Seller data to Shopify MetaObjects**
-
+ **Sync Seller data to Shopify MetaObjects**
+-------------------------------------
 Admins can now easily sync seller data directly into Shopify using metaobjects.
 
 This feature streamlines seller data management and ensures that all essential information is centrally accessible within the Shopify dashboard.

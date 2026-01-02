@@ -6,7 +6,7 @@ author: Chirag Tyagi
 ---
 
 
-**Minimum Purchase Quantity**: We have introduced this new feature in our [MultiVendor Marketplace App](https://webkul.com/blog/shopify-multivendor-marketplace-new-theme-launched/) for Shopify.
+**Minimum Purchase Quantity**: We have introduced this new feature in our [MultiVendor Marketplace App](/zenith/introduction/) for Shopify.
 
  What is the Minimum Purchase Quantity?
 -----------------------------------

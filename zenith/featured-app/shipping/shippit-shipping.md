@@ -103,8 +103,8 @@ Here, the seller can set up their Shippit account by entering the Shippit Api Ke
 
 ![Shipping API Key](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/12/tesas-1200x613.webp)
 
-### Set Default Shipping Method For Products
-
+ Set Default Shipping Method For Products
+-----------------
 *   For all products (old and new)
 
 *   Only for new products

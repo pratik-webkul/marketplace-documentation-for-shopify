@@ -5,15 +5,15 @@ date: 2025-07-02
 author: Chirag Tyagi
 ---
 
-By this time, you might have started using the  [Multivendor Marketplace App for Shopify](https://store.webkul.com/Shopify-Multi-Vendor-Marketplace.html) and you would want to have your Collections from the Shopify Store to be synced to the App.
+By this time, you might have started using the  [Multivendor Marketplace App for Shopify](/zenith/introduction/) and you would want to have your Collections from the Shopify Store to be synced to the App.
 
 This manual will help you understand how you can create Collections in the App.
 
 Please make sure that you have a fair idea about the type of Collections in Shopify, ie. [Manual and Automatic/Smart Collections](https://help.shopify.com/en/manual/products/collections). You can also check the same from here.
 
 
-### Admin End
-
+ Admin End
+-------------------------
 First, understand the Admin end from the App:
 
 You need to restrict the collection from the "Restriction Configuration" so that you can manage the collections here from the App.
@@ -40,8 +40,8 @@ Admin can restrict whether the collections can be shown to the seller or not, fr
 
 [![Restrict Collection](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/col4.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/col4.webp)
 
-### Seller End
-
+ Seller End
+----------------------------
 The Collections are now synced to the app, now check how things will appear at the seller end:
 
 The seller can view the manual collection on the "Add product" page:

@@ -6,7 +6,7 @@ author: Chirag Tyagi
 ---
 **Shopify Multivendor Marketplace | Seller Payment Flow |**
 ---------------------------
-The [Multivendor Marketplace app for Shopify](https://webkul.com/blog/shopify-multivendor-marketplace-new-theme-launched/) is a great tool to convert your shop into a fully functioning marketplace,allowing you to manage seller payments .
+The [Multivendor Marketplace app for Shopify](/zenith/introduction/) is a great tool to convert your shop into a fully functioning marketplace,allowing you to manage seller payments .
 
 This user manual perfectly guides you to understand the Seller **payment** in the Multivendor Marketplace app for Shopify, from setting up the payment methods to sending the payments to your sellers.
 
@@ -15,7 +15,7 @@ By default, Admin receives the complete amount of the order paid by the buyer/cu
 
 Click here to watch the video ⬇️ 
 
-[[![Watch the video](https://img.youtube.com/vi/Jk6C7CpX_I8/0.jpg)](https://www.youtube.com/watch?v=Jk6C7CpX_I8)
+[![Watch the video](https://img.youtube.com/vi/Jk6C7CpX_I8/0.jpg)](https://www.youtube.com/watch?v=Jk6C7CpX_I8)
 
 Admin can pay sellers/vendors by five payment methods in the multivendor app, in which three payment methods are online and two payment methods are offline.
 
@@ -185,12 +185,12 @@ In the multivendor marketplace app, we have three automatic payment methods:
 
 *   **Stripe Connect payment gateway**: This is an add-on to the marketplace.  
     After the customer pays the amount for the order, the amount will go to the respective Seller and Admin account directly, as per the share configured on the basis of commission.  
-    Both the admin & seller need to have their respective Stripe accounts. [Know more](https://webkul.com/blog/shopify-multi-vendor-marketplace-stripe-connect-integration/).
+    Both the admin & seller need to have their respective Stripe accounts. [Know more](/zenith/payment/stripe).
 
 *   **PayPal Payout**: This is an inbuilt feature in the marketplace app.  
-    This feature lets your sellers automatically receive their total earnings once they mark the order as delivered/fulfilled. [Know more](https://webkul.com/blog/multivendor-marketplace-for-shopify-paypal-payout-payment/).
+    This feature lets your sellers automatically receive their total earnings once they mark the order as delivered/fulfilled. [Know more](/zenith/payment/paypal).
 
-*   **Razorpayx:** This is an inbuilt feature of the multivendor marketplace app that allows the merchant to use the Razor PayX gateway to pay their Sellers. This feature only works for Merchants and Sellers based in India. [Know more](https://webkul.com/blog/multivendor-marketplace-razor-payx/).
+*   **Razorpayx:** This is an inbuilt feature of the multivendor marketplace app that allows the merchant to use the Razor PayX gateway to pay their Sellers. This feature only works for Merchants and Sellers based in India. [Know more](/zenith/payment/razorpayx).
 
 **Schedule Auto Pay for PayPal Payouts in the Multivendor Marketplace App**:
 

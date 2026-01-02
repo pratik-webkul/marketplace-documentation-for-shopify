@@ -36,8 +36,8 @@ Admin can also create a menu of Seller Listing Page on his/her store by referrin
 
 This way, you can add a Seller Listing Page menu to your store's frontend.
 
-### Features
-
+Features
+--------------------
 *   Option to Show/Hide the content on the profile page of Sellers.
 *   You can write your own CSS for further changes in the profile page
 *   Admin can choose the position of Seller's Page content to be displayed on Seller's description page.
@@ -48,8 +48,8 @@ This way, you can add a Seller Listing Page menu to your store's frontend.
 
 > **Custom CSS** for seller dashboard option is now **available** in **all the three plans** (Basic, Executive, Pro) of the Multi-vendor Marketplace App.
 
-### Seller Profile Page Settings
-
+ Seller Profile Page Settings
+-----------------
 Admin will follow the below steps to visit Seller Profile Page Settings section:
 
 ![seller's profile](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/sell-1.webp)
@@ -58,14 +58,13 @@ Multivendor App Admin Panel>>Go to **Sellers**\>>**Seller Profile Page Settings*
 
 Following are the fields admin can set up for Seller's profile pages:
 
-1.  **Seller Profile Page Theme**
-
+1:  **Seller Profile Page Theme**
 From this section, you can select the Theme of your Seller's profile page. You can click the radio button & choose the theme of your choice.
 
 ![seller profile page settings](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/sel0.webp)
 
-### Theme 1
-
+ Theme 1
+--------------
 In Theme 1, You will get an option to edit the theme code as well. You can customize CSS and edit the theme template of the profile page as per your choice.
 
 ![select a Theme](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/sel0.webp)
@@ -84,8 +83,7 @@ Moreover, clicking on the **Preview** button, you can preview the change you mad
 
 Admin can anytime restore the default code by clicking the "**Restore to Default**" button.
 
-### FILTER OPTION IN THEME 1
-
+ FILTER OPTION IN THEME 1
 If you want to filter any seller's products by Category, Tag or Type on the seller profile page then, this feature is available in Theme 1.
 
 For this, you need to enable the "Restrict Collection", "Restrict Tag" & "Restrict Type" tab from the "**Restriction Configuration**" menu of the app.
@@ -126,32 +124,32 @@ NOTE:- **The Show/Hide Seller Page Content Option is available only in Theme 1.*
 
 You can anytime re-position the Toggle Logo and Description on the profile page.
 
-###### Admin can also write his/her own CSS for Profile Page.
-
+ Admin can also write his/her own CSS for Profile Page.
+-------------------------------
 ![change position](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/tt5.webp)
 
 If you select Theme 1, sellers page will look as shown in the screenshot below:
 
 ![Seller Profile Theme1](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/Seller-Profile-–-Demo-Store-2.png)
 
-### Theme 2
-
+ Theme 2
+------------
 Similarly, you can check the features for Theme 2 as well.
 
 Once you select Theme 2, the Profile Page will be visible like this as shown in the screenshot below:
 
 ![Theme 2](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/03114424/AwesomeScreenshot-Seller-Profile-multivendor-marketplace-4-2019-07-03-17-07-52.png)
 
-### Theme 3
-
+ Theme 3
+-------------
 Similarly, you can set your seller's profile page using Theme 3 as well.
 
 If you select Theme 3, seller page will look as shown in the screenshot below:
 
 ![Seller Profile Theme 3](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/Seller-Profile-–-Demo-Store-4.png)
 
-### Theme 4
-
+ Theme 4
+---------------
 In Theme 4, you will get an option to edit the theme code as well. You can customize CSS and edit the theme template of the profile page as per your choice.
 
 ![Theme 4](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/tty6.webp)
@@ -168,7 +166,7 @@ Moreover, clicking on the **Preview** button, you can preview the change you m
 
 Admin can anytime restore the default code by clicking the “**Restore to Default**” button.
 
-### Edit Theme Template
+ Edit Theme Template
 -------------------
 
 ![edit theme](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/dt4.webp)
@@ -186,7 +184,7 @@ Here is a look of **seller listing page** for this theme:
 
 ![seller listing](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/11/collage-1-1-2.png)
 
-### Display on seller listing page
+ Display on seller listing page
 -----------------------------
 You can choose whether you want to display seller logo or seller profile image on seller listing page from:
 
@@ -194,7 +192,7 @@ Multivendor App Admin Panel>>Go to **Sellers**\>>**Seller Profile Page Settings*
 
 ![logo-or-profile-](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/sdd5.webp)
 
-### How can Seller upload a banner for the seller profile page
+ How can Seller upload a banner for the seller profile page
 -----------------------------------
 
 To upload banner on the seller profile page, the seller has to visit My Account page from the Profile menu.
@@ -213,16 +211,16 @@ Sellers can also remove the banner from the "My Account" section.
 
 ![banner](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/ddd7.webp)
 
-### How to upload the video on the seller profile page
-
+ How to upload the video on the seller profile page
+----------------------------------
 Sellers can upload video by clicking on the video as shown in the above screenshot.
 
 After clicking on Video a new box will open where you have to enter YouTube embedded link.
 
 ![9](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/sh8.webp)
 
-### How to get Youtube Embedded code
-
+ How to get Youtube Embedded code
+------------------------
 ![10](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/Screenshot-1-2.png)
 
 Open the video on Youtube which you want to upload on the seller profile page.  
@@ -261,7 +259,7 @@ Click on "**Edit**" from Action menu>>Scroll down and **Upload** the Logo>>**Sav
 ![upload seller logo ](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/dasdd7.webp)
 
 **Admin End**
-
+------------------
 Now, go to Edit Seller Section and Upload the Shop Logo of that Particular seller from admin panel.
 
 ![Seller Logo Admin end](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/sad4.webp)
@@ -285,8 +283,8 @@ Follow the below process to paste the code:
 *   Paste the code
 *   Click on save
 
-### Edit/Change the Labels of the field
-
+ Edit/Change the Labels of the field
+--------------------------
 Admin can edit or change the labels as per requirement.
 
 Go to Sellers “Shop Page Settings” from the main menu of the app as shown below.
@@ -297,16 +295,16 @@ You can change the labels as shown in below screenshot:
 
 ![Change Labels](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/final1.webp)
 
-### Display of seller products on the seller profile page
-
+ Display of seller products on the seller profile page
+-----------------------------------
 All the products of that particular seller will be displayed on the seller profile page itself.
 
 The updated seller profile page with the banner and the configuration set by admin will look like this.
 
 ![Seller Profile Page 11](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/Seller-Profile-–-Demo-Store-6.png)
 
-### SELLER COLLECTION:
-
+ SELLER COLLECTION:
+----------------------------
 Now you can create seller collection pages instead of a seller profile page with all the similar seller information from the: Admin panel >> sellers >> seller profile page settings.
 
 The seller collection page can be created in two ways i.e,
@@ -344,8 +342,8 @@ If you want to change the seller profile type from "without collection to with c
 
 ![screenshot-akram-store2.myshopify.com-2022.03.07-22_55_51](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/03/screenshot-akram-store2.myshopify.com-2022.03.07-22_55_51-1200x581.png)
 
-### Use Store Name & Description as Meta Title and Description for Seller Pages
-
+ Use Store Name & Description as Meta Title and Description for Seller Pages
+------------------------------------------
 When a seller profile is displayed as a collection page (showing all products from a particular seller),
 
 it's important to ensure that the **meta title and meta description are optimized for search engines**.
@@ -355,8 +353,8 @@ To keep it effective and consistent:
 *   **Meta Title** should reflect the **seller’s store name**
 *   **Meta Description** should use the **seller’s store description**
 
-#### How to Set It in Multivendor Marketplace App:
-
+ How to Set It in Multivendor Marketplace App:
+------------------------------
 1.  Open the **Multivendor Marketplace** app.
 2.  Go to the **“Sellers”** section.
 3.  Click on any seller profile to **edit**.
@@ -371,8 +369,8 @@ To keep it effective and consistent:
 
 These values will automatically be used as the meta title and meta description on the seller's collection page.
 
-### CODE IMPLEMENTATION FOR SELLER COLLECTION PAGE:
-
+ CODE IMPLEMENTATION FOR SELLER COLLECTION PAGE:
+-----------------------
 You need to add these codes for the seller collection pages:
 
 Copy following code into **collection.liquid** template before collection name and banner.  
@@ -413,8 +411,8 @@ Copy the following code into **main-collection-banner.liquid** template in the
 Copy the following code into **main-collection-product-grid.liquid** template in the parent div.  
 **{wk-seller-products}**
 
-Seller collection page on the storefront:
------------------------------------------
+ Seller collection page on the storefront:
+---------------
 
 The seller collection page will look similar to the seller profile page:
 

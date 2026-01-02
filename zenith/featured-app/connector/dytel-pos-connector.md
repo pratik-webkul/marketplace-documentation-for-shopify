@@ -12,8 +12,8 @@ DYTEL POS integrates with the [Multivendor Marketplace](/zenith/introduction/ove
 
 This Integration allows you to sync the seller orders to the DYTEL POS in real time .
 
-### INSTALLATION
-
+ INSTALLATION
+---------------------------
 To make this app work, first of all, you need to visit the “Feature Apps” section of the multivendor app. There you will get the “DYTEL POS CONNECTOR” feature app.
 
 ![dytel-pos-integration-feature-app](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/09/dytel-pos-install-1200x683.webp)
@@ -28,8 +28,8 @@ After that you have to approve the payments of this feature app to use this on y
 
 And as soon as you agree with this condition and approve the payment you will get the DYTEL POS CONNECTOR installed on your store.Thus, this DYTEL POS CONNECTOR gets enabled on your marketplace.
 
-### Admin Configuration
-
+ Admin Configuration
+--------------------
 To configure the admin settings, navigate to **Configuration** and select **DYTEL POS Configuration** .
 
 ![dytel-pos-integration-admin-configuration](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/09/dytel-admin-config-1200x505.webp)
@@ -40,8 +40,8 @@ To proceed, please enter the required DYTEL POS details, including the **Source 
 
 After entering the DYTEL POS details click on **save changes** .
 
-### Seller Configuration
-
+ Seller Configuration
+------------------
 To configure the seller settings, navigate to **Configuration** and select **DYTEL POS Configuration** .
 
 ![DYTEL POS INTEGRATION-configuration ](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/09/dytel-pos-seller-config-1200x551.webp)
@@ -211,8 +211,8 @@ Once you have created a DYTEL POS Product or edited the existing product you hav
 
 After adding the DYTEL POS ITEM CODE to the product click on save changes .
 
-### Add DYTEL POS Product Via CSV in Bulk
-
+ Add DYTEL POS Product Via CSV in Bulk
+-------------------
 If you want to add DYTEL POS item codes to multiple products at once, simply export the products within a chosen date range into a CSV
 
 make the changes as add the item code and enter yes to mark the product as DYTEL POS Product in the CSV File and upload the updated CSV .

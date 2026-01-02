@@ -14,8 +14,8 @@ By enabling this feature app, the admin can allow sellers to manage the order fu
 
 Note: Sbeedy shipping is used for both fulfillment and checkout.
 
-### How to activate Sbeedy Shipping ?
-
+ How to activate Sbeedy Shipping ?
+---------------------------
 To enable the featured app, all you need to do is to visit the “**Feature Apps**” section of the admin panel and enable it from there.
 
 ![feature-app](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/10/feature-app.webp)
@@ -30,8 +30,8 @@ After enabling this you have to accept the charges and click on agree to enable 
 
 In this way, you can enable the feature within your Multivendor App.
 
-### Configuration
-
+ Configuration
+-----------------------
 **ADMIN END**  
 Once you enable this feature app, a new sub-menu gets added in the Configuration menu of the app i.e. Admin Sbeedy Configuration.
 
@@ -74,8 +74,8 @@ If the customer selects Sbeedy shipping for the product, the checkout page will 
 
 ![image](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/11/sbeedy4-1200x545.webp)
 
-### How to fulfill orders using sbeedy shipping ?
-
+ How to fulfill orders using sbeedy shipping ?
+------------------------
 To fulfill orders using **Sbeedy Shipping** on the seller's end, select **Sbeedy Shipping** as the fulfillment method while processing the order.
 
 Then, enter the **pickup and delivery date and time** as shown in the image below, and simply click **Agree and Fulfill**.

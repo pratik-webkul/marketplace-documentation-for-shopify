@@ -1,11 +1,19 @@
-###  Commission Overview – Shopify Multivendor Marketplace App
+---
+title: Commission Overview
+description: Commission Overview
+author: Chirag Tyagi
+---
 
-[Multivendor Marketplace for Shopify](https://marketplace-doc.webkul.com/zenith/introduction/) offers a robust **commission management system**, allowing store owners to earn from every sale made by their sellers.
+
+ Commission Overview – Shopify Multivendor Marketplace App
+-------------------------------------------------
+
+[Multivendor Marketplace for Shopify](/zenith/introduction/) offers a robust **commission management system**, allowing store owners to earn from every sale made by their sellers.
 
 In a marketplace model, **commissions** are the core of the revenue structure for the admin. They represent the amount earned by the marketplace owner from each transaction made by vendors.
 
-###  What is a Commission?
-
+  What is a Commission?
+--------------------
 A **commission** is the percentage or fixed fee that the **admin (store owner)** earns from a seller's product sale. It can be configured in multiple ways based on your business model:
 
 - **Global Commission**
@@ -26,8 +34,8 @@ The app follows this **commission priority hierarchy**:
 
 ---
 
-###  Global Commission
-
+  Global Commission
+----------------------
 - Applied to all sellers, products, and collections.
 - Set from the **Global Commission Settings** tab in the app.
 - Supports both **percentage-based** and **fixed-value** commission.
@@ -40,16 +48,16 @@ If commission is set to **10% + $20**, and the total order is $1400:
 
 ---
 
-###  Seller-wise Commission
-
+  Seller-wise Commission
+------------------------
 You can override the global settings for specific sellers from the **Seller Commission Settings** page in the app.
 
 ![Seller Commission Settings](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/comm1.webp)
 
 ---
 
-###  Product-wise Commission
-
+  Product-wise Commission
+------------------------------
 Enable product-wise commission from the app’s configuration settings.  
 Navigate to **Products > Product Listing > Edit Product** and set the desired commission.
 
@@ -57,8 +65,8 @@ Navigate to **Products > Product Listing > Edit Product** and set the desired co
 
 ---
 
-###  Category (Collection)-wise Commission
-
+  Category (Collection)-wise Commission
+------------------------------
 To enable this:
 1. Activate “Restrict Collection” from the configuration.
 2. Go to **Products > Collections** and click **Sync**.
@@ -66,8 +74,8 @@ To enable this:
 
 ---
 
-###  Variant-wise Commission
-
+  Variant-wise Commission
+---------------------------
 Commission can be applied at the **variant level** by navigating to:
 `Products > Product Listing > Edit Product > Edit Variant`
 
@@ -75,8 +83,8 @@ Set the commission on individual variants as needed.
 
 ---
 
-###  Seller Panel – Commission Listing
-
+  Seller Panel – Commission Listing
+------------------------
 Sellers can view commissions for each order from:  
 **Seller Panel > Orders > Commission Listing**
 
@@ -86,7 +94,7 @@ Sellers can view commissions for each order from:
 
 ###  Learn More
 
- [Read the full guide on Commission Types](https://marketplace-doc.webkul.com/zenith/Commission/Commission-Type.html)
+ [Read the full guide on Commission Types](/zenith/commission/commission-type.html)
 
 ###  Demo
 

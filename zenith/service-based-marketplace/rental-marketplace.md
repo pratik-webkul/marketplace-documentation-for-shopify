@@ -74,7 +74,7 @@ This allows marketplace owners to scale rental-based offerings without relying o
 
 Reference Documentation
 --------------------
-For detailed guidance on how to set up and manage a **rental marketplace** using the Booking Product featured app, refer to the official documentation below:  [**Booking Product Documentation**](/zenith/featured-app/Marketplace-product-add-ons/booking-product)
+For detailed guidance on how to set up and manage a **rental marketplace** using the Booking Product featured app, refer to the official documentation below:  [**Booking Product Documentation**](/zenith/featured-app/marketplace-product-add-ons/booking-product)
 
 
 

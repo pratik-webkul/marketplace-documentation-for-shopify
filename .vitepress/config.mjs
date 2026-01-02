@@ -92,11 +92,11 @@ export default defineConfig({
           collapsed: true,
           items: [
             { text: 'Add products', link: '/zenith/products/add-products' },
-            { text: 'Collection sync', link: '/zenith/products/collection-sync' },
+            { text: 'Import products', link: '/zenith/products/import-products' },
             { text: 'Digital products', link: '/zenith/products/digital-products' },
-            { text: 'Dual sync', link: '/zenith/products/dual-sync' },
-            { text: 'Import products', link: '/zenith/products/import-products' },                                    
-            { text: 'Multilevel collection', link: '/zenith/products/multilevel-collection' },            
+            { text: 'Collection sync', link: '/zenith/products/collection-sync' },
+            { text: 'Multilevel collection', link: '/zenith/products/multilevel-collection' },  
+            { text: 'Dual sync', link: '/zenith/products/dual-sync' },                                             
             { text: 'Products updates', link: '/zenith/products/products-updates' },
           ]
         },
@@ -159,6 +159,7 @@ export default defineConfig({
                 { text: 'Ecom express shipping', link: '/zenith/featured-app/shipping/ecom-express-shipping' },
                 { text: 'Envia shipping', link: '/zenith/featured-app/shipping/envia-shipping' },
                 { text: 'FedEx shipping', link: '/zenith/featured-app/shipping/fedex-shipping' },
+                { text: 'J&TExpress shipping', link: '/zenith/featured-app/shipping/j&texpress-shipping' },
                 { text: 'Marketplace shipping', link: '/zenith/featured-app/shipping/marketplace-shipping' },
                 { text: 'PostNL', link: '/zenith/featured-app/shipping/postnl' },
                 { text: 'Sendle shipping', link: '/zenith/featured-app/shipping/sendle-shipping' },
@@ -210,7 +211,7 @@ export default defineConfig({
                 { text: 'Seller time slot management', link: '/zenith/featured-app/seller-add-ons/seller-time-slot-management' },
                 { text: 'Seller vacation app', link: '/zenith/featured-app/seller-add-ons/seller-vacation-app' },
                 { text: 'Social media login', link: '/zenith/featured-app/seller-add-ons/social-media-login' },
-                { text: 'Social network tabs', link: '/zenith/featured-app/seller-add-ons/social-network-tabs' },
+                // { text: 'Social network tabs', link: '/zenith/featured-app/seller-add-ons/social-network-tabs' },
                 { text: 'WhatsApp integration', link: '/zenith/featured-app/seller-add-ons/whatsapp-integration' }
               ]
             },
@@ -219,28 +220,28 @@ export default defineConfig({
               collapsible: true,
               collapsed: true,
               items: [
-                { text: 'Artist product design', link: '/zenith/featured-app/Marketplace-product-add-ons/artist-product-design' },
-                { text: 'Booking product', link: '/zenith/featured-app/Marketplace-product-add-ons/booking-product' },
-                { text: 'Crowdfunding', link: '/zenith/featured-app/Marketplace-product-add-ons/crowdfunding' },
-                { text: 'Custom options', link: '/zenith/featured-app/Marketplace-product-add-ons/custom-options' },
-                { text: 'Daily deals', link: '/zenith/featured-app/Marketplace-product-add-ons/daily-deals' },
-                { text: 'Delivery boy integration', link: '/zenith/featured-app/Marketplace-product-add-ons/delivery-boy-integration' },
-                { text: 'Delivery slot management', link: '/zenith/featured-app/Marketplace-product-add-ons/delivery-slot-management' },
-                { text: 'E-signature', link: '/zenith/featured-app/Marketplace-product-add-ons/e-signature' },
-                { text: 'Favorite product | seller', link: '/zenith/featured-app/Marketplace-product-add-ons/favorite-product-seller' },
-                { text: 'Global product', link: '/zenith/featured-app/Marketplace-product-add-ons/global-product' },
-                { text: 'Indian GST', link: '/zenith/featured-app/Marketplace-product-add-ons/indian-gst' },
-                { text: 'Make an offer', link: '/zenith/featured-app/Marketplace-product-add-ons/make-an-offer' },
-                { text: 'Pack product integration', link: '/zenith/featured-app/Marketplace-product-add-ons/pack-product-integration' },
-                { text: 'Pay what you want', link: '/zenith/featured-app/Marketplace-product-add-ons/pay-what-you-want' },
-                { text: 'Preorder integration', link: '/zenith/featured-app/Marketplace-product-add-ons/preorder-integration' },
-                { text: 'Product auction for seller', link: '/zenith/featured-app/Marketplace-product-add-ons/product-auction-for-seller' },
-                { text: 'Product expiry', link: '/zenith/featured-app/Marketplace-product-add-ons/product-expiry' },
-                { text: 'Product feed', link: '/zenith/featured-app/Marketplace-product-add-ons/product-feed' },
-                { text: 'Product review', link: '/zenith/featured-app/Marketplace-product-add-ons/product-review' },
-                { text: 'Slot pricing', link: '/zenith/featured-app/Marketplace-product-add-ons/slot-pricing' },
-                { text: 'Sponsored product', link: '/zenith/featured-app/Marketplace-product-add-ons/sponsored-product' },
-                { text: 'Stock management', link: '/zenith/featured-app/Marketplace-product-add-ons/stock-management' }
+                { text: 'Artist product design', link: '/zenith/featured-app/marketplace-product-add-ons/artist-product-design' },
+                { text: 'Booking product', link: '/zenith/featured-app/marketplace-product-add-ons/booking-product' },
+                { text: 'Crowdfunding', link: '/zenith/featured-app/marketplace-product-add-ons/crowdfunding' },
+                { text: 'Custom options', link: '/zenith/featured-app/marketplace-product-add-ons/custom-options' },
+                { text: 'Daily deals', link: '/zenith/featured-app/marketplace-product-add-ons/daily-deals' },
+                { text: 'Delivery boy integration', link: '/zenith/featured-app/marketplace-product-add-ons/delivery-boy-integration' },
+                { text: 'Delivery slot management', link: '/zenith/featured-app/marketplace-product-add-ons/delivery-slot-management' },
+                { text: 'E-signature', link: '/zenith/featured-app/marketplace-product-add-ons/e-signature' },
+                { text: 'Favorite product | seller', link: '/zenith/featured-app/marketplace-product-add-ons/favorite-product-seller' },
+                { text: 'Global product', link: '/zenith/featured-app/marketplace-product-add-ons/global-product' },
+                { text: 'Indian GST', link: '/zenith/featured-app/marketplace-product-add-ons/indian-gst' },
+                { text: 'Make an offer', link: '/zenith/featured-app/marketplace-product-add-ons/make-an-offer' },
+                { text: 'Pack product integration', link: '/zenith/featured-app/marketplace-product-add-ons/pack-product-integration' },
+                { text: 'Pay what you want', link: '/zenith/featured-app/marketplace-product-add-ons/pay-what-you-want' },
+                { text: 'Preorder integration', link: '/zenith/featured-app/marketplace-product-add-ons/preorder-integration' },
+                { text: 'Product auction for seller', link: '/zenith/featured-app/marketplace-product-add-ons/product-auction-for-seller' },
+                { text: 'Product expiry', link: '/zenith/featured-app/marketplace-product-add-ons/product-expiry' },
+                { text: 'Product feed', link: '/zenith/featured-app/marketplace-product-add-ons/product-feed' },
+                { text: 'Product review', link: '/zenith/featured-app/marketplace-product-add-ons/product-review' },
+                { text: 'Slot pricing', link: '/zenith/featured-app/marketplace-product-add-ons/slot-pricing' },
+                { text: 'Sponsored product', link: '/zenith/featured-app/marketplace-product-add-ons/sponsored-product' },
+                { text: 'Stock management', link: '/zenith/featured-app/marketplace-product-add-ons/stock-management' }
               ]
             },
             {
@@ -248,13 +249,13 @@ export default defineConfig({
               collapsible: true,
               collapsed: true,
               items: [
-                { text: 'Chat GPT', link: '/zenith/featured-app/Marketplace-other-add-ons/chat-gpt' },
-                { text: 'Easy group buy app', link: '/zenith/featured-app/Marketplace-other-add-ons/easy-group-buy' },
-                { text: 'Locate your pickup store', link: '/zenith/featured-app/Marketplace-other-add-ons/locate-your-pickup-store' },
-                { text: 'Multivendor database backup', link: '/zenith/featured-app/Marketplace-other-add-ons/multivendor-database-backup' },
-                { text: 'Seller blog', link: '/zenith/featured-app/Marketplace-other-add-ons/seller-blog' },
-                { text: 'Subscription product with Stripe Connect', link: '/zenith/featured-app/Marketplace-other-add-ons/subscription-product-with-stripe-connect' },
-                { text: 'Watermark', link: '/zenith/featured-app/Marketplace-other-add-ons/watermark' }
+                { text: 'Chat GPT', link: '/zenith/featured-app/marketplace-other-add-ons/chat-gpt' },
+                { text: 'Easy group buy app', link: '/zenith/featured-app/marketplace-other-add-ons/easy-group-buy' },
+                { text: 'Locate your pickup store', link: '/zenith/featured-app/marketplace-other-add-ons/locate-your-pickup-store' },
+                { text: 'Multivendor database backup', link: '/zenith/featured-app/marketplace-other-add-ons/multivendor-database-backup' },
+                { text: 'Seller blog', link: '/zenith/featured-app/marketplace-other-add-ons/seller-blog' },
+                { text: 'Subscription product with Stripe Connect', link: '/zenith/featured-app/marketplace-other-add-ons/subscription-product-with-stripe-connect' },
+                { text: 'Watermark', link: '/zenith/featured-app/marketplace-other-add-ons/watermark' }
               ]
             },
             {
@@ -262,17 +263,17 @@ export default defineConfig({
               collapsible: true,
               collapsed: true,
               items:[
-                { text: 'Admin staff', link: '/zenith/featured-app/Marketplace-miscellaneous-add-ons/admin-staff' },
-                { text: 'Customer order management', link: '/zenith/featured-app/Marketplace-miscellaneous-add-ons/customer-order-management' },
-                { text: 'Hyperlocal marketplace', link: '/zenith/featured-app/Marketplace-miscellaneous-add-ons/hyperlocal-marketplace' },
-                { text: 'Multi location inventory', link: '/zenith/featured-app/Marketplace-miscellaneous-add-ons/multi-location-inventory' },
-                { text: 'Multivendor API', link: '/zenith/featured-app/Marketplace-miscellaneous-add-ons/multivendor-api' },
-                { text: 'Route insurance', link: '/zenith/featured-app/Marketplace-miscellaneous-add-ons/route-insurance' },
-                { text: 'Seller staff', link: '/zenith/featured-app/Marketplace-miscellaneous-add-ons/seller-staff' },
-                { text: 'SMS alert', link: '/zenith/featured-app/Marketplace-miscellaneous-add-ons/sms-alert' },
-                { text: 'Split cart', link: '/zenith/featured-app/Marketplace-miscellaneous-add-ons/split-cart' },
-                { text: 'Weglot translation', link: '/zenith/featured-app/Marketplace-miscellaneous-add-ons/weglot-translation' }, 
-                { text: 'ZOHO integration', link: '/zenith/featured-app/Marketplace-miscellaneous-add-ons/zoho-integration' }               
+                { text: 'Admin staff', link: '/zenith/featured-app/marketplace-miscellaneous-add-ons/admin-staff' },
+                { text: 'Customer order management', link: '/zenith/featured-app/marketplace-miscellaneous-add-ons/customer-order-management' },
+                { text: 'Hyperlocal marketplace', link: '/zenith/featured-app/marketplace-miscellaneous-add-ons/hyperlocal-marketplace' },
+                { text: 'Multi location inventory', link: '/zenith/featured-app/marketplace-miscellaneous-add-ons/multi-location-inventory' },
+                { text: 'Multivendor API', link: '/zenith/featured-app/marketplace-miscellaneous-add-ons/multivendor-api' },
+                { text: 'Route insurance', link: '/zenith/featured-app/marketplace-miscellaneous-add-ons/route-insurance' },
+                { text: 'Seller staff', link: '/zenith/featured-app/marketplace-miscellaneous-add-ons/seller-staff' },
+                { text: 'SMS alert', link: '/zenith/featured-app/marketplace-miscellaneous-add-ons/sms-alert' },
+                { text: 'Split cart', link: '/zenith/featured-app/marketplace-miscellaneous-add-ons/split-cart' },
+                { text: 'Weglot translation', link: '/zenith/featured-app/marketplace-miscellaneous-add-ons/weglot-translation' }, 
+                { text: 'ZOHO integration', link: '/zenith/featured-app/marketplace-miscellaneous-add-ons/zoho-integration' }               
               ]
             }
           ]
@@ -284,7 +285,7 @@ export default defineConfig({
           items: [
             {
               text: 'Hyperlocal marketplace',
-              link: '/zenith/Hyperlocal-marketplace/hyperlocal-marketplace'
+              link: '/zenith/hyperlocal-marketplace/hyperlocal-marketplace'
             }
           ]
         },
@@ -295,11 +296,11 @@ export default defineConfig({
           items: [
             {
               text: 'E book marketplace',
-              link: '/zenith/Digital-marketplace/E-book-marketplace'
+              link: '/zenith/digital-marketplace/e-book-marketplace'
             },
             {
               text: 'Music marketplace',
-              link: '/zenith/Digital-marketplace/Music-marketplace'
+              link: '/zenith/digital-marketplace/music-marketplace'
             }
           ]
         },
@@ -332,7 +333,7 @@ export default defineConfig({
           items: [
             {
               text: 'Auction marketplace',
-              link: '/zenith/Auction-marketplace/Auction-marketplace'
+              link: '/zenith/auction-marketplace/auction-marketplace'
             }
           ]
         },
@@ -342,16 +343,16 @@ export default defineConfig({
           collapsed: true,
           items: [
             {
-              text: 'Appointment-&-Booking-Marketplace',
-              link: '/zenith/Service-based-marketplace/Appointment-&-booking-marketplace'
+              text: 'Appointment & Booking Marketplace',
+              link: '/zenith/service-based-marketplace/appointment-&-booking-marketplace'
             },
             {
               text: 'Rental Marketplace',
-              link: '/zenith/Service-based-marketplace/rental-marketplace'
+              link: '/zenith/service-based-marketplace/rental-marketplace'
             },
             {
               text: 'Service Marketplace',
-              link: '/zenith/Service-based-marketplace/service-marketplace'
+              link: '/zenith/service-based-marketplace/service-marketplace'
             }                        
           ]
         },
@@ -385,7 +386,7 @@ export default defineConfig({
           items: [
             {
               text: 'Crowdfunding marketplace',
-              link: '/zenith/Crowdfunding-marketplace/Crowdfunding-marketplace'
+              link: '/zenith/crowdfunding-marketplace/crowdfunding-marketplace'
             }
           ]
         },
@@ -396,7 +397,7 @@ export default defineConfig({
           items: [
             {
               text: 'Freelancing marketplace',
-              link: '/zenith/Freelancing-marketplace/Freelancing-marketplace'
+              link: '/zenith/freelancing-marketplace/freelancing-marketplace'
             }
           ]
         },

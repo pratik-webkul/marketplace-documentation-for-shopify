@@ -11,7 +11,7 @@ From here, the admin can enter the business email, set the currency for the shop
 
 ![General configuration Multivendor Marketplace for Shopify by Webkul](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/general.webp)
 
-To know about the **Configuration Updates**, Kindly refer: [https://webkul.com/blog/configuration-updates-multi-vendor-marketplace-for-shopify/](https://webkul.com/blog/configuration-updates-multi-vendor-marketplace-for-shopify/)
+To know about the **Configuration Updates**, [Kindly refer :](/zenith/configuration/configuration-updates)
 
 <!-- ### Minimum Purchase Amount for Orders
 
@@ -40,9 +40,9 @@ Take advantage of the new functionality of converting your customers into seller
 All you need to do is add the following code into the **customer/account.liquid** theme page to display the **“Seller Portal”** button on the customer’s account page.
 
 To paste the below given, follow the below process:
-
+``` liquid
 <a class="btn btn--small wk\_c2c\_marketplace" target="\_blank" href="https://sp-seller.webkul.com/?p=c2c\_marketplace\_process&customer\_id={{customer.id}}&shop={{shop.permanent\_domain}}" style="display: none;float: right;">Seller Portal</a>
-
+```
 *   Go To Themes.
 *   Click on Customize Theme button.
 *   Further, click on the Edit Code button.

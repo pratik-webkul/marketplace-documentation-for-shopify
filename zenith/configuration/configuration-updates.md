@@ -84,7 +84,7 @@ You can update the total due for seller payment after the following events:
 *   Order delivered
 *   Refund days completed
 
-**Note**: If you want to add the seller’s total due earning on the completion of refund days then make sure to activate “[Enable Cashable Amount for Sellers](https://webkul.com/blog/multivendor-marketplace-for-shopify-paypal-payout-payment/#pay-after-refund-date)” from the “Order Configuration” menu.
+**Note**: If you want to add the seller’s total due earning on the completion of refund days then make sure to activate “[Enable Cashable Amount for Sellers](/zenith/payment/paypal.html#pay-after-refund-date)” from the “Order Configuration” menu.
 
 **Important Note**: Enabling this option, the payment won't go to the seller automatically. The app will update only the total earnings.
 
@@ -547,7 +547,7 @@ Above all, introduced the Seller Navigation menu in the Multivendor admin panel 
 
 ![MULTIVENDOR MARKETPLACE](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/sellernavigation.webp)
 
-Furthermore, refer to this Blog of Ours to know about this Feature in Detail: [Multivendor Marketplace for Shopify: Manage Seller Menus](https://webkul.com/blog/shopify-multivendor-marketplace-seller-navigation/)
+Furthermore, refer to this Blog of Ours to know about this Feature in Detail: [Multivendor Marketplace for Shopify: Manage Seller Menus](/zenith/seller/seller-navigation)
 
 min will now have the access to login seller dashboards directly from your admin panel.
 
@@ -1094,8 +1094,8 @@ Once linked, a new login code is generated in the app for each login, helping pr
   
 There is also a feature for admin staff and seller staff login.
 
-### **Seller Internal Notes functionality**
-
+ **Seller Internal Notes functionality**
+------------------------------------
 The Admin has the option to create and save **internal notes** for any seller. These notes are meant for internal reference and are only visible within the marketplace Admin panel.
 
 ### **Steps to Add an Internal Note:**
@@ -1116,7 +1116,7 @@ Once submitted, the internal note will be saved and **not visible to the seller*
 ![Seller internal note](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/internalnote-1.webp)
 
 **Save product as draft** :
-
+----------------------------
 We have provided a configuration titled “Save product as draft” which, when enabled, allows **both the Admin and the Seller** to create products in draft status.
 
 Users can schedule the products for publication at a later time.

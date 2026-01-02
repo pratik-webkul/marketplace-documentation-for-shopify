@@ -28,21 +28,21 @@ To install this app on your marketplace, you must first **enable it from the "Fe
 
 Let's Proceed to understand this Feature App.
 
-### Features
-
+ Features
+------------------
 *   Both admin and sellers can add different product prices for different customers on the basis of Customer Tags.
 *   Admin can add Slot Tags in the app that are assigned to the customers from Store backend.
 *   Based on these Customers Tags, Sellers can add different prices to the same product for different customers.
 *   While adding/editing any product, admin/sellers can set quantity ranges and add price per quantity to add multiple slots for each tag.
 *   Admin can configure the labels within the app also.
-*   The **Slot Pricing feature** is now compatible with the [Split Cart feature app](https://webkul.com/blog/shopify-multivendor-marketplace-split-cart/).
+*   The **Slot Pricing feature** is now compatible with the [Split Cart feature app](/zenith/featured-app/marketplace-miscellaneous-add-ons/split-cart).
 *   Moreover, the **Slot Pricing is now compatible** with all the connectors.   
     
 
 Magento Connector, PrestaShop Connector, WooCommerce Connector, Etsy Connector.
 
-### Limitations
-
+ Limitations
+------------------
 There are certain limitations that should be kept in mind while using this Feature App:
 
 *   **Maximum 5 Tags** can be added at a time.
@@ -51,17 +51,17 @@ There are certain limitations that should be kept in mind while using this Featu
 *   The default product price should be greater than the Price per quantity that you add to make slots for each Tag.
 *   With the slot pricing feature app, the **customers won't be able to use the discount codes** on the checkout page as the slot price itself is managed as a discount from the backend.
 
-### How to Install?
-
-![Feature App](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/09/Dashboard-Admin-1.png)
+ How to Install?
+--------------------
+![Feature App](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/featuredapps.webp)
 
 To get this featured app on your Marketplace, You need to visit the Feature Apps section and enable this feature from there.
 
-![slot pricing](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/09/Screenshot11.png)
+![slot pricing](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/slotpricingone.webp)
 
 Now, You can sort the feature app by "Product" from the drop-down menu to get the Slot Pricing feature app. Click on the "Enable" button to activate it.
 
-![Slot Pricing](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/09/Feature-Apps-Admin-1-1.png)
+![Slot Pricing](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/slotpricingtwo.webp)
 
 ![Agree with charge](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/09/Feature-Apps-Admin-2-1-png-1286×657-.png)
 
@@ -73,9 +73,9 @@ Once You agree with the feature app charge, you need to approve this charge and 
 
 In this way, you can install this feature app.
 
-### Workflow
-
-![Dashboard](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/09/Dashboard-Admin-1-1.png)
+ Workflow
+----------------
+![Dashboard](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/slotpricingthree.webp)
 
 **ADMIN END  
 **Once you **enable this feature app**, the system **adds a sub-menu** called **“Slot Pricing Configuration”** under the **"Configuration"** menu of the app.
@@ -84,21 +84,21 @@ In this section, you can **enable the "Slot Pricing Structure"** to activate the
 
 The **admin can add customer tags** that are already **assigned to customers from the store backend**. Additionally, the admin can **configure the labels** used in this feature app.
 
-![AwesomeScreenshot-Slot-Pricing-Configuration-Admin-2019-07-18-17-07-42](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/09/18115122/AwesomeScreenshot-Slot-Pricing-Configuration-Admin-2019-07-18-17-07-42.png)
+![AwesomeScreenshot-Slot-Pricing-Configuration-Admin-2019-07-18-17-07-42](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/slotpricingfour.webp)
 
 Once enabled, the admin can add Slot Tags from this section.
 
  **Note:-** Maximum 5 Tags can be added at a time.
 
-![Slot Pricing1](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/09/Slot-Pricing-Configuration-Admin-1.png)
+![Slot Pricing1](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/slotpricingfive.webp)
 
 Once the admin set this configuration on his/her end, both admin and seller can now add different product prices for different customers on the basis of Customer tags.
 
-![Slot Pricing12](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/09/Screenshot-1-1.png)
+![Slot Pricing12](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/slotpricingsix.webp)
 
 Admin can anytime delete the tags if required. Just click on the "Delete" button and disable the "Slot Pricing Structure" tab.
 
-![Slot Pricing13](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/09/Screenshot-2-1.png)
+![Slot Pricing13](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/slotpricingseven.webp)
 
 When you **disable this tab**, the system **prompts you to delete all existing slot details**.
 
@@ -108,18 +108,18 @@ Once you **agree to the condition** and **click the Save button**, the system **
 
 To **ensure the feature works properly on the storefront**, you must **re-paste the updated code into the relevant Liquid files**.
 
-### Remove Slots for Sellers
-
+ Remove Slots for Sellers
+---------------------
 By disabling this option, there is no need to choose quantity range. Just give a fixed price for _n_ number of quantity based on customer tags.
 
-![AwesomeScreenshot-Slot-Pricing-Configuration-Admin-2019-07-18-17-07-44](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/09/18113555/AwesomeScreenshot-Slot-Pricing-Configuration-Admin-2019-07-18-17-07-44.png)
+![AwesomeScreenshot-Slot-Pricing-Configuration-Admin-2019-07-18-17-07-44](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/slotpricingeight.webp)
 
 Now, when a **seller marks a product as “Slot Pricing”** from the **Seller Panel → Product → Edit**,  
 the system **only shows the option to select a slot tag and enter the Price Per Quantity**.
 
 It **does not prompt the seller to add prices based on product quantity**.
 
-![AwesomeScreenshot-Edit-Variant-Seller-Multivendor-MarketPlace-2019-07-18-15-07-62](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/09/18095123/AwesomeScreenshot-Edit-Variant-Seller-Multivendor-MarketPlace-2019-07-18-15-07-62.png)
+![AwesomeScreenshot-Edit-Variant-Seller-Multivendor-MarketPlace-2019-07-18-15-07-62](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/slotpricingnine.webp)
 
 Similarly, on frontend (Product Description Page) the slot price listing table will not be visible. The Shopify product price will be updated to the fixed price set by the Admin.
 
@@ -141,12 +141,12 @@ Look for the heading: **“Display product price on product description page.”
 ```liquid
 {% if product.tags contains 'wk\_slot' and customer != empty and customer.tags contains 'VIP' or customer.tags contains 'Gold' or customer.tags contains 'VVIP'%} <div class="wk-product-price"><span id="wk-slot-price">{{ product.selected\_or\_first\_available\_variant.price | money }}</span></div>{% else %}<!-- Your existing product price block-->{% endif %}
 ```
-![AwesomeScreenshot-Instructions-Admin-2019-07-18-15-07-89](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/09/18093050/AwesomeScreenshot-Instructions-Admin-2019-07-18-15-07-89-e1563442610422.png)
+![AwesomeScreenshot-Instructions-Admin-2019-07-18-15-07-89](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/slotpricingten.webp)
 
 Now, Let's see how Sellers add multiple Prices on Single Product on the basis of Customer Tags.
 
-### Sellers Adding Slots
-
+ Sellers Adding Slots
+--------------------
 Once you **enable this functionality** in the app,  
 **sellers registered on your marketplace** will **see the option to "Mark the Product as Slot Pricing"** in the **Product section** of their seller panel.
 
@@ -157,7 +157,7 @@ The seller then **selects a Slot Tag** (added by the admin via the Configuration
 
 This way, sellers can **create multiple slots** for different tags, assigning **varied pricing to a single product**.
 
-![Slot Pricing115](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/09/Add-Product-Seller-•-Multivendor-MarketPlace.png)
+![Slot Pricing115](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/slotpricingeleven.webp)
 
 The Process is as simple as this:
 
@@ -165,13 +165,13 @@ Multivendor **Seller Panel**\>>**Products**\>>**Product** **Listing** >>Click on
 
 In this way, Pricing slots will be added by the sellers using this feature app.
 
-### Admin Adding Slots
-
-![Slot Pricing14](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/09/Product-Admin-2.png)
+ Admin Adding Slots
+--------------------
+![Slot Pricing14](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/slotpricingtwelve.webp)
 
 Similarly, admin can add Pricing Slots while adding or editing any product. 
 
-![Slot Pricing1 edit](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/09/Edit-Product-Admin.png)
+![Slot Pricing1 edit](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/slotpricingthirteen.webp)
 
 In the Variant detail section, Click on "Edit" button from Action menu.
 
@@ -187,24 +187,24 @@ However, to **make this functionality work on your store**, you must **paste spe
 
 To get these codes, **visit the “Instruction for Marketplace” section** of the app.
 
-### Configure Front End
-
+ Configure Front End
+----------------------
 You can make this feature work on your store by pasting the following codes into the liquid file.
 
 Follow the below-given Procedure:
 
 Multivendor **Admin Panel**\>>**Configuration**\>>**Instruction for Marketplace**\>>Scroll down to get the **Instructions about Slot Pricing feature** apps>>**Copy** the codes and **Paste** it into respective template files.
 
-![instruction](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/09/Instructions-Admin.png)
+![instruction](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/slotpricingten.webp)
 
-![Copy the code](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/09/Instructions-Admin-1.png)
+![Copy the code](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/slotpricingfifteen.webp)
 
 **Please Note:** Whenever you **update the Slot Tags** from the **Multivendor Configuration menu**, the system **automatically updates the corresponding codes** in the **“Instruction for Marketplace”** section.
 
 Therefore, you must **replace the previously pasted code** in your theme’s Liquid files with the **newly updated code** from the store backend to ensure the feature continues to work correctly.
 
-### Front End View
-
+ Front End View
+-----------------
 ![Frontend](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/09/test44-–-Demo-Store.png)
 
 Once You display the Slot Price Listing on Product Description Page, the same will be visible like this on Frontend as shown in the below screenshot:
@@ -217,15 +217,15 @@ You can update the Product Quantity, Product Price, Total Price and Subtotal Pri
 
 In this way, the admin can receive a different amount from different customers purchasing the same product.
 
-### Minimum Purchase Amount for Orders
-
+ Minimum Purchase Amount for Orders
+-----------------------
 With this feature, You can allow your sellers to set a minimum purchase amount on orders. You can restrict purchases for some specific customers based on the tags assigned to them.
 
 Once done, the customer will proceed to checkout only when the cart amount is greater than or equal to the minimum purchase amount set by the seller.
 
 You as an admin need to enable this tab from the **General** **Configuration** menu of the app.
 
-![Configuration-Admin-2](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/06/Configuration-Admin-2-1200x597.png)
+![Configuration-Admin-2](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/slotpricingseventeen.webp)
 
 As soon as you enable the "**Minimum Purchase Amount**" tab, the same will reflect on the seller side.
 
@@ -233,7 +233,7 @@ As soon as you enable the "**Minimum Purchase Amount**" tab, the same will refle
 
 From the General Configuration menu of the Seller panel, the seller can set a minimum amount for the specific tag customers required for purchasing products.
 
-![General-Configuration-Seller-•-Multivendor-MarketPlace-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/06/General-Configuration-Seller-•-Multivendor-MarketPlace-1-1200x832.png)
+![General-Configuration-Seller-•-Multivendor-MarketPlace-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/slotpricingeighteen.webp)
 
 #### Configure Front End
 
@@ -245,7 +245,7 @@ In order to display the checkout conditions on the Cart page, you need to add th
 *   Now, scroll down to get the codes for "Seller's Minimum Purchase Amount for Orders".
 *   Copy the code from there & add it to the instructed liquid files.
 
-![Instructions-Admin-2](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/06/Instructions-Admin-2-1200x597.png)
+![Instructions-Admin-2](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/slotpricingnineteen.webp)
 
 Once You add the codes to their respective liquid files, the same will be visible on the store's front end.
 
@@ -259,7 +259,7 @@ Order Amount> Minimum Purchase Amount--Check Out condition passed as shown in th
 
 This way, the customer's cart amount will be validated on each order based on the minimum purchase amount set by the seller on the basis of customer tags.
 
-[**Know More about the Minimum Purchase Amount Feature**](https://webkul.com/blog/multi-vendor-marketplace-for-shopify-minimum-purchase-amount/)
+[**Know More about the Minimum Purchase Amount Feature**](/zenith/configuration/minimum-purchase-amount)
 
 #### Add Tag in Customer's Sign Up Form
 
@@ -269,7 +269,7 @@ Based on these tags, the minimum purchase amount will be validated on the cart p
 
 For this, You need to add a code to **customers/register.liquid** template file (inside form) as shown in the below screenshots.
 
-![Instructions-Admin-1-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/06/Instructions-Admin-1-1-1200x469.png)
+![Instructions-Admin-1-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/slotpricingtwenty.webp)
 
 Multi-vendor Admin Panel>>Configuration>>Visit Instruction for Marketplace>>Scroll down to get the codes for Slot Pricing>>Copy the code from there & add it to the instructed liquid files.
 
@@ -281,28 +281,28 @@ Now, the order amount for each customer will be validated based on the minimum p
 
 If the checkout condition satisfies, the customer can proceed to check out else, he/she either needs to increase the product quantity or add other products to the cart.
 
-### Tax Exempt
-
+ Tax Exempt
+---------------
  You can now exempt customers for paying tax based on the tags assigned to them i.e. You can enable/disable the Tax Exempt option for the customer based on the tag(s).
 
 If the admin exempts the tax on customer tag then the customers don’t need to pay any tax.
 
 Visit the **Slot Pricing Configuration** & enable/disable the option for each tag added.
 
-![slot pricing](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/11/Slot-Pricing-Configuration-Admin-1200x627.png)
+![slot pricing](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/slotpricingtwentyone.webp)
 
-### Set a Minimum Purchase Quantity for Each Slot per Product
-
+ Set a Minimum Purchase Quantity for Each Slot per Product
+---------------------------
 You can now set a minimum purchase quantity for each slot tag added per product. Thus, you can restrict specific tag customers to purchase a minimum quantity of goods on your store.
 
 For this, first, you need to **enable the Minimum Purchase Quantity tab** from the **Product Configuration** menu of the app.
 
-![Configuration-Admin-5](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/12/Configuration-Admin-5-1200x627.png)
+![Configuration-Admin-5](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/slotpricingtwentytwo.webp)
 
 Also, enable the slot pricing feature to set a minimum quantity per product based on customer tags.  
 Go to Configurations>>**Slot Pricing Configuration**.
 
-![Slot-Pricing-Configuration-Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/12/Slot-Pricing-Configuration-Admin-1097x1024.png)
+![Slot-Pricing-Configuration-Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/slotpricingtwentythree.webp)
 
 > NOTE:- Please Make sure that You have disabled the option "Remove Slots for Sellers" to set the minimum purchase quantity per product.
 
@@ -312,15 +312,15 @@ Once the admin is done with the settings, the marketplace sellers will have the 
 
 The seller will first visit the Products>>**Product Listing** section & proceed to **Edit** product.
 
-![Product-Seller-•-Multivendor-MarketPlace](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/12/Product-Seller-%E2%80%A2-Multivendor-MarketPlace-1200x627.png)
+![Product-Seller-•-Multivendor-MarketPlace](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/slotpricingtwentyfour.webp)
 
 Clicking the edit button, the seller needs to visit the Variant Details section & click **Add Variant**.
 
-![Add Varinat](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/12/Screenshot-89-1200x615.png)
+![Add Varinat](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/slotpricingtwentyfive.webp)
 
 Now, the seller will select a customer tag, enter a price per quantity & **enter the minimum quantity limit** for the selected customer tag added to that product.
 
-![Add-Variant-Seller-•-Multivendor-MarketPlace](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/12/Add-Variant-Seller-%E2%80%A2-Multivendor-MarketPlace-988x1024.png)
+![Add-Variant-Seller-•-Multivendor-MarketPlace](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/slotpricingtwentysix.webp)
 
 This way, you can allow your sellers to set a minimum purchase quantity per product based on the customer tags that you have created with the slot pricing feature.
 
@@ -329,7 +329,7 @@ This way, you can allow your sellers to set a minimum purchase quantity per prod
 For this visit:  
 Multivendor Marketplace Admin Panel > Configuration > Instructions for Marketplace
 
-![Instructions-Admin-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/12/Instructions-Admin-1-1200x597.png)
+![Instructions-Admin-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/slotpricingtwentyseven.webp)
 
 Here, you’ll have a code that you need to paste in the **product-template.liquid** file.
 
@@ -356,10 +356,10 @@ Visibility on the Cart Page:
 
 ![cart page](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/12/Screenshot-by-Lightshot-2-1200x528.png)
 
-[Know More About the Minimum Purchase Quantity Feature](https://webkul.com/blog/minimum-purchase-quantity-multi-vendor-marketplace-for-shopify/)
+[Know More About the Minimum Purchase Quantity Feature](/zenith/configuration/minimum-purchase-quantity)
 
-### Allow Seller to Create Only Slot Product
-
+ Allow Seller to Create Only Slot Product
+----------------------
 You can now allow sellers to create only slot prices for their products. In this case, no regular (default) price will be shown on the products.
 
 How to Configure?  
@@ -373,7 +373,7 @@ CASE 1: When "**Allow Seller to Create Only Slot Product**" is enable & REMOVE S
 
 Then, this will be the options while adding/editing products:
 
-![Edit-Variant-Admin-2](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/04/Edit-Variant-Admin-2-1200x627.png)
+![Edit-Variant-Admin-2](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/slotpricingtwentyeight.webp)
 
 It appears like this on front end:
 
@@ -434,8 +434,8 @@ This is how it appears on the front end:
 
 ![slot product](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/04/screenshot_3-2-1200x486.png)
 
-### Tag wise Commission
-
+ Tag wise Commission
+-----------------------
 Admin can now add different commissions to different customer tags using the Slot Pricing feature app.
 
 The priority of the commissions will goes like this:
@@ -446,7 +446,7 @@ Membership commission > product commission > Collection Commission > Seller-wise
 
 To set the tag-wise commission, firstly you need to enable the tab from the "Slot Price Configuration" menu of the app.
 
-![Slot_Pricing_Configuration_Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/07/Slot_Pricing_Configuration_Admin-1200x627.png)
+![Slot_Pricing_Configuration_Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/slotpricingtwentynine.webp)
 
 #### Tag Wise Commission in Global Commission
 
@@ -456,7 +456,7 @@ As soon as you enable this tab, you will get the option to add tag wise commissi
 
 Now, select a customer tag, commission type, and value of the commission.
 
-![Set_Slot_Tag_Commission_Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/07/Set_Slot_Tag_Commission_Admin-1200x750.png)
+![Set_Slot_Tag_Commission_Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/slotpricingthirty.webp)
 
 Similarly, you can add tag-wise commisson in seller-wise commission.
 
@@ -464,12 +464,12 @@ Similarly, you can add tag-wise commisson in seller-wise commission.
 
 While setting up the seller-wise, you can add tag wise commission. Just **click** the "Add Tag wise Commission" and enter the details.
 
-![Edit_Commission_Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/07/Edit_Commission_Admin-1200x627.png)
+![Edit_Commission_Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/slotpricingthirtyone.webp)
 
 Details you need to enter: Select the slot tag, select commission type & enter the commission value.  
 Note:- You will have the list of all the added customer slots in the drop-down menu.
 
-![Set_Slot_Tag_Commission_Admin-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/07/Set_Slot_Tag_Commission_Admin-1-1200x821.png)
+![Set_Slot_Tag_Commission_Admin-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/slotpricingthirtytwo.webp)
 
 That's all about the Slot Pricing Feature App.
 

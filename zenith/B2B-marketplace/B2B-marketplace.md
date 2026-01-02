@@ -73,7 +73,7 @@ For a detailed understanding of how Slot Pricing works and how it can be configu
 This guide explains the complete setup flow, including admin-side slot creation and tag-based pricing configuration.
 
 **Slot Pricing Documentation:**  
-[User-Guide for slot pricing](/zenith/featured-app/Marketplace-product-add-ons/slot-pricing)
+[User-Guide for slot pricing](/zenith/featured-app/marketplace-product-add-ons/slot-pricing)
 
 
 

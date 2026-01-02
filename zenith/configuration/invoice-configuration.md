@@ -19,8 +19,8 @@ Seller Bulk Invoice: Seller can generate the invoices in bulk from the Order Lis
 
 So let's understand its workflow:-
 
-### Invoice configuration
-
+ Invoice configuration
+---------------------
 Firstly visit the "Invoice Configuration" section of the app and from here admin can configure the order invoices of his/her store.
 
 From this section, you can enter or change the invoice details like Merchant Address, VAT Number, Fax, Date format, and much more.
@@ -33,8 +33,8 @@ In addition to it, you can allow your sellers to generate invoices from their re
 
 ![mv-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/invoiceconfigurationfullpage.webp)
 
-### VAT on Commission
-
+ VAT on Commission
+-------------------
 You can now manage the VAT (tax) calculation on the commission you set in the app.
 
 Simply choose whether you want to include the VAT on the commission or you want to make it exclusive.
@@ -81,8 +81,8 @@ Moreover, a new section is added to the **commission listing** section in the 
 
 ![mv-5](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/vatoncommission.webp)
 
-### SELLER-WISE VAT ON COMMISSION
-
+ SELLER-WISE VAT ON COMMISSION
+-----------------------
 Now, the admin can manage the VAT ON COMMISSION seller wise which means the admin can enable or disable VAT ON COMMISSION for a particular seller.
 
 For this, the admin can enable "ALLOW SELLER-WISE VAT ON COMMISSION" option in the invoice configuration as shown in the below image.
@@ -103,8 +103,8 @@ Note :-
 
 If this seller-wise vat on commission is set up in between then it will be applied to new orders and the old orders will not be affected by seller wise vat on commission set up.
 
-### SET UP COUNTRY-WISE VAT
-
+ SET UP COUNTRY-WISE VAT
+------------------------
 We have introduced a new feature that is **set** **up country-wise vat**. Once you enable the configuration you will find a green button on the top right-hand side.
 
 ![mv-6](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/countrywisevat.webp)
@@ -121,10 +121,11 @@ On the same page, you will get the list of added countries and the VAT, also you
 
 ![mv-9](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/vatlist.webp)
 
-### ADMIN PANEL
+ ADMIN PANEL
+-----------------
 
-INVOICE: ADMIN TO SELLER:-
---------------------------
+### INVOICE: ADMIN TO SELLER:-
+
 
 From the admin panel section of the app, the admin can generate Admin to the seller invoice.
 
@@ -176,10 +177,11 @@ So **Seller Bulk Invoice** visible like this as showing in the screenshot.
 
 ![screencapture-sp-seller-webkul-admin-index-php-2020-04-29-16_50_44](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/04/screencapture-sp-seller-webkul-admin-index-php-2020-04-29-16_50_44-891x1024.png)
 
-### SELLER PANEL
+ SELLER PANEL
+-------------------
 
-INVOICE- SELLER TO CUSTOMER:-
------------------------------
+### INVOICE- SELLER TO CUSTOMER:-
+
 
 From the seller panel section of the app, the seller can generate Seller to Customer Invoice.
 
@@ -237,8 +239,8 @@ Once a seller fulfills the customer's order from the seller panel, the customer 
 
 ![Mail-Configuration-Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/mailtemp-1.webp)
 
-### Generate Invoice with Seller Name+Order ID as Invoice Number
-
+ Generate Invoice with Seller Name+Order ID as Invoice Number
+-----------------------------
 In the app, you can now generate "merchant to seller" invoices with the seller name+order ID as the invoice number.
 
 Firstly, you need to enable this tab from the "Invoice Configuration" menu of the app.
@@ -253,8 +255,8 @@ Moreover, the seller can download the invoice from their respective seller panel
 
 ![seller end](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/sellerdownloadinvoice.webp)
 
-### Packaging Slip Invoice
-
+ Packaging Slip Invoice
+----------------------------------
 You can now allow sellers to generate packaging slip for the orders from their seller panels.
 
 Packaging slips are different from the shipping labels as it contains information about
@@ -276,7 +278,7 @@ Clicking the Packaging Slip, you will get the option to edit the content as per 
 ![Invoice-Template-Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/packaginginvoicetemp.webp)
 
 **SELLER END**
-
+--------------------
 The seller can download the packaging slip from the Order Detail page of the seller panel. Go to the seller panel>>Click **Orders**\>>Order Listing>>Edit order.
 
 ![Order-Details-Seller-•-Multivendor-MarketPlace-3](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/sellerpackaginginvoice-1.webp)
@@ -289,8 +291,8 @@ Packaging Slip Invoice Generated:-
 
 Printed Packaging Slip
 
-### Automated Seller Invoice
-
+ Automated Seller Invoice
+-----------------------
 You can now auto-generate the order invoices in bulk by configuring the order status and date of order creation.
 
 For this, you need to visit the Multi-vendor admin panel>>**Orders**\>>**Invoice Configuration** menu in the app.
@@ -327,8 +329,8 @@ Similarly, the auto-generated invoices will appear in the **Automated Seller Inv
 
 ![download-28](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/03/download-28-1200x500.png)
 
-### Edit the Automated Bulk Invoice
-
+ Edit the Automated Bulk Invoice
+--------------------------
 Even, now the Admin has an option to edit the automated bulk invoice also.
 
 Just Go to the Marketplace Admin dashboard >> Orders >> Invoice templates >>> choose "Merchant to Seller Automated Bulk Invoice" >>
@@ -356,8 +358,8 @@ Refer to the screenshots below:
 
 ![enable](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/enabletaxbreakup.webp)
 
-### **Admin Panel: Generate Customer Invoice**
-
+ **Admin Panel: Generate Customer Invoice**
+--------------------------
 To print the customer invoce in the admin panel, kindly navigate to the the Admin dashboard >> Orders >> Order listing >> Select product – View – Actions “Generate Customer Invoice”
 
 Refer to the screenshots below:

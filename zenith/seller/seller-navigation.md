@@ -11,7 +11,7 @@ author: Chirag Tyagi
 
 If You own an online Marketplace having multiple sellers registered on it, "Managing Seller Menus" & "Keeping track of Items sold" are the important aspects of Selling.
 
-With this thought, Webkul has come up with a new option for admin to manage the menus & sub-menus for Seller dashboard in the [Multivendor Marketplace](https://marketplace-doc.webkul.com/zenith/introduction/) app.
+With this thought, Webkul has come up with a new option for admin to manage the menus & sub-menus for Seller dashboard in the [Multivendor Marketplace](/zenith/introduction/) app.
 
 Within the Multivendor App, You need to visit the Configuration menu of the admin panel. There, You will get the "Seller Navigation" sub-menu from the drop down.
 
@@ -19,8 +19,8 @@ Visiting this section of the app, You can add new menus, translate the labels of
 
 Go to **Seller Navigation** section of the app and **Manage the Menus** of your sellers.
 
-### Features
-
+ Features
+-----------------
 *   Admin can add new menus & sub-menus for Seller Dashboard in the Multivendor app.
 *   Seller Menus can be enabled or disabled by the admin.
 *   Admin can rename the labels of existing menus & sub-menus.
@@ -28,9 +28,10 @@ Go to **Seller Navigation** section of the app and **Manage the Menus** of your 
 *   Also, admin can enable/disable the Visibility of sub-menus.
 *   Admin can add sub-menus of existing menus also.
 
-### How to Manage Menus for Seller Dashboard
+ How to Manage Menus for Seller Dashboard
+-------------------------
 
-**Adding New Menus:**
+### **Adding New Menus:**
 ---------------------
 
 To add a new menu for Seller dashboard, You need to visit the configuration menu of the Multivendor App. There, You need to click on the "Seller Navigation" from drop down menu.

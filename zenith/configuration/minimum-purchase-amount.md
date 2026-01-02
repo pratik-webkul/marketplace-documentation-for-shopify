@@ -5,7 +5,7 @@ date: 2025-07-10
 author: Chirag Tyagi
 ---
 
-[Multi-vendor Marketplace App](https://webkul.com/blog/shopify-multivendor-marketplace-new-theme-launched/) helps you to convert your store into a multi-functional marketplace. You can register multiple sellers & allow them to publish their products on your store. The app is loaded with tons of features and recently introduced a new one "**Minimum Purchase Amount for Orders**".
+[Multi-vendor Marketplace App](/zenith/introduction/) helps you to convert your store into a multi-functional marketplace. You can register multiple sellers & allow them to publish their products on your store. The app is loaded with tons of features and recently introduced a new one "**Minimum Purchase Amount for Orders**".
 
 With this feature, You can allow your sellers to set a Minimum Purchase Amount for Orders. Thus, sellers can restrict the purchase of the customers by setting up a minimum order value.
 
@@ -76,7 +76,7 @@ By default, the Purchase amount will be applicable to all the customers. In this
 ---------------------------
 This functionality is also compatible with Slot Pricing feature app where the seller will be able to choose whether he wants to apply "minimum purchase" for "**All Customers**" or "**Specific Tagged Customers**".
 
-In case, You have enabled the [Slot Pricing feature](https://webkul.com/blog/shopify-multivendor-marketplace-slot-pricing/) on your end, the sellers will get the option to set a different minimum purchase amount for each customer based on the tags assigned to them.
+In case, You have enabled the [Slot Pricing feature](/zenith/featured-app/marketplace-product-add-ons/slot-pricing) on your end, the sellers will get the option to set a different minimum purchase amount for each customer based on the tags assigned to them.
 
 In this case, the seller will get the option to set different purchase amounts for each customer tag. The seller needs to select if the **minimum purchase amount for orders will be applicable for** all the customers or only for some specific tag customers
 
@@ -148,7 +148,7 @@ This is all about the Minimum Purchase Amount feature of the Multi-vendor Market
 
 Minimum Purchase Amount On Seller Pages
 ---------------------------------------------
-In case, you are using [Theme 4](https://webkul.com/blog/shopify-multivendor-marktplace-custom-seller-profile-page-new-theme/#panel-5) of the seller profile page then, you can display the minimum purchase amount on the seller listing as well as on the seller profile page.
+In case, you are using [Theme 4](/zenith/seller/seller-profile-page-settings.html#theme-4) of the seller profile page then, you can display the minimum purchase amount on the seller listing as well as on the seller profile page.
 
 **On the Seller Listing Page**
 
@@ -160,7 +160,7 @@ Similarly, on the seller profile page, you can view the minimum purchase amount 
 
 ![Seller-Profile-–-Demo-Store-AUD-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/12/Seller-Profile-%E2%80%93-Demo-Store-AUD-1-1200x627.png)
 
-**NOTE**:- Currently, this feature is available in [Theme 4](https://webkul.com/blog/shopify-multivendor-marktplace-custom-seller-profile-page-new-theme/#panel-5) only, but in case you want this for other seller profile page themes as well, do send us a request to **support@webkul.com**.
+**NOTE**:- Currently, this feature is available in [Theme 4](/zenith/seller/seller-profile-page-settings.html#theme-4) only, but in case you want this for other seller profile page themes as well, do send us a request to **support@webkul.com**.
 
 Minimum Purchase Amount on Product Page
 -----------------------------------

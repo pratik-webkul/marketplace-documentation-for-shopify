@@ -13,8 +13,8 @@ Then you can use the Seller Shopify store connector, a featured app of the [Mult
 
 You can get this featured app at a monthly subscription of $40 (USD) in addition to your current multivendor app plan.
 
-### Features
-
+ Features
+-------------
 *   Let the marketplace sellers sync their Shopify store products with the admin's Shopify store.
 *   Also, the Seller’s Shopify store’s inventory will be synced with the admin Shopify store.
 *   Further, the seller needs to create a private app on their Shopify store and configure the details in his/her seller panel.
@@ -27,10 +27,9 @@ You can get this featured app at a monthly subscription of $40 (USD) in addition
 
 Check the video below for the Seller Shopify Store Connector:
 
-0wTN1sLpD78
 
-### Activate the Feature App
-
+ Activate the Feature App
+------------------
 To get this feature app, go to the Feature App section & get the "Seller Shopify store connector" feature app.
 
 ![Screenshot-96](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/01/Screenshot-96.png)
@@ -43,12 +42,12 @@ Now, as soon as the Seller Shopify Connector feature app is Active, the sellers 
 
 ![Dashboard-Seller-•-Multivendor-MarketPlace](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/01/Dashboard-Seller-%E2%80%A2-Multivendor-MarketPlace-1200x627.png)
 
-### NEW WORKFLOW
-
+ NEW WORKFLOW
+-------------------------
 To use the features of the seller Shopify connector app, the seller needs to create a custom app for their Shopify store.
 
-### How to create a custom app?
-
+ How to create a custom app?
+----------------
 Seller have to log in to there shopify partner store, then navigate to the dev dashboard.
 
 ![dev dashboard](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/02/shopifypartner1-1200x545.webp)
@@ -87,8 +86,8 @@ And, paste it here in the Redirect URL along with the App URL. Only use a comma 
 
 ![paste other url](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/02/pasteredirecturl-1200x545.webp)
 
-### REQUIRED PERMISSIONS FOR CUSTOM APP (New Workflow)
-
+ REQUIRED PERMISSIONS FOR CUSTOM APP (New Workflow)
+---------------------
 **Here are the required permissions for the custom seller app**:
 
 Assigned fulfilment orders _(**Read and write**)  
@@ -176,8 +175,8 @@ After this, the system installs the custom app in the seller’s Shopify store, 
 
 ![full access](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/02/fullaccess-1-1200x545.webp)
 
-### LEGACY WORKFLOW (Old)
-
+ LEGACY WORKFLOW (Old)
+------------------
 To make the product sync features work, the seller first needs to create a custom app on their Shopify store.
 
 Step 1: The seller needs to log in to their Shopify account and create a custom app from the "apps" section.
@@ -202,8 +201,8 @@ Now, the seller needs to provide the required permission for the custom app.
 
 ![permissions](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/08/permissions.png)
 
-#### REQUIRED PERMISSIONS FOR CUSTOM APP (LEGACY WORKFLOW)
-
+ REQUIRED PERMISSIONS FOR CUSTOM APP (LEGACY WORKFLOW)
+-----------------------------
 **Here are the required permissions for the custom seller app**:
 
 Assigned fulfilment orders _(**Read and write**)  
@@ -227,8 +226,8 @@ Products _**(Read and write)**_
 Markets  
 \# **read\_markets\_home**
 
-#### Required Permission for Sales Channel Configuration (LEGACY WORKFLOW)
-
+ Required Permission for Sales Channel Configuration (LEGACY WORKFLOW)
+-----------------------
 #`write_product_listings`, #`read_product_listings`  
   
 **Storefront API access scopes**:  
@@ -258,8 +257,8 @@ To make the product sync features work, the sellers first need to create a priva
 
 Then, the sellers will get all the app details to configure for syncing products with the admin’s store.
 
-#### How does the Seller Create a Private App? (LEGACY WORKFLOW)
-
+ How does the Seller Create a Private App? (LEGACY WORKFLOW)
+-----------------------
 To create a Private App, firstly, the seller needs to visit the “**Apps**” section of his/her Shopify Store.
 
 Then, scrolling down to the bottom, you will get the “**Manage Private Apps**” option. Click on it to create a new Private app.
@@ -276,8 +275,8 @@ This way, the seller can create a private app from his/her Shopify store.
 
 Now, the seller will configure all the details from his seller panel.
 
-#### REQUIRED PERMISSIONS TO CREATE A PRIVATE APP (LEGACY WORKFLOW)
-
+ REQUIRED PERMISSIONS TO CREATE A PRIVATE APP (LEGACY WORKFLOW)
+----------------------
 **Here is the required Permission for the private seller\_app:**
 
 Assigned fulfillment orders _(**Read and write**)  
@@ -306,8 +305,8 @@ Products _**(Read and write)**_
 
 ![Screenshot-16-1200x511-png-1200×511-](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/08/Screenshot-16-1200x511-png-1200%C3%97511-.png)
 
-### Seller Panel
-
+ Seller Panel
+--------------
 After installing the custom app on the seller's Shopify store, the seller has got the access token, API key, and secret key, which he/she needs to paste in the "seller sync app configuration".
 
 Seller panel >> configuration >> seller sync app configurations
@@ -322,8 +321,8 @@ After saving the details, the seller can now start with importing the products.
 
 ![screenshot-shopify-trunk.webkul.com-2022.02.09-12_44_13](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/02/screenshot-shopify-trunk.webkul.com-2022.02.09-12_44_13-820x1024.png)
 
-### Admin Panel: Seller Supported App Configuration
-
+ Admin Panel: Seller Supported App Configuration
+----------------------
 **Seller App Configuration**
 
 **SYNC ORDERS  
@@ -351,8 +350,8 @@ For this, Go to Orders>>Order Listing>>View Order>>More Action>>Create Order on 
 
 ![screenshot_from_2022_12_27_12_51_33](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/02/screenshot_from_2022_12_27_12_51_33-1200x595.png)
 
-### Manual Sync Orders
-
+ Manual Sync Orders
+------------------------
 In case an order is placed on the admin's store and is not synced with the seller's Shopify store then, then seller can sync the order manually from the seller panel.
 
 To sync the order manually, the seller need to visit the Multi-vendor **Seller Panel**\>>Go to **Orders**\>>**View Order**\>>On Order Detail Page-In **More Action**\-Click **Sync Order** button.
@@ -361,8 +360,8 @@ To sync the order manually, the seller need to visit the Multi-vendor **Seller P
 
 This way, orders can be synced manually with the seller Shopify store connector.
 
-### Sync Order Refund
-
+ Sync Order Refund
+---------------
 You can now choose to sync orders from the seller store to the admin store and vice versa. For this, you need to visit the admin panel>>Go to Configuration>>**Seller Supported App Configuration**.
 
 Enable the below tabs:-  
@@ -372,8 +371,8 @@ ORDER REFUND FROM ADMIN TO SELLER STORE:- You can choose if you want to sync ord
 
 ![7ed348be-4f35-48bb-b883-d741689b6432](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/01/7ed348be-4f35-48bb-b883-d741689b6432-1200x584.png)
 
-### Sync Customer Details
-
+ Sync Customer Details
+--------------
 By enabling this tab, you can sync customer details in order with the seller's store. Let's understand this feature in detail.
 
 CASE 1: Sync Customer Details tab is **ON** (**enabled**):
@@ -399,24 +398,24 @@ You can configure the settings as per the requirements.
 
 ![Seller App Details](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/02/sellerappdetail-614x1024.webp)
 
-### TRACK PRODUCT INVENTORY
-
+ TRACK PRODUCT INVENTORY
+--------------------
 If the admin enables this option from their end, the **inventory tracking status** from the seller’s Shopify store will be synced to the Multivendor Marketplace (MVM).
 
 Configuration>>Seller Support App Feature>>Product Details Configuration>>Track Product Inventory
 
 ![Track product inventory](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/02/trackinventory-1-1200x575.webp)
 
-### RESTRICT IMAGE COUNT ON PRODUCTS
-
+ RESTRICT IMAGE COUNT ON PRODUCTS
+----------------
 Admin can enable restrict image count configuration to restrict the number of Product images between 1 to 20.
 
 So seller can only sync a certain number of images which is set by the Admin.
 
 ![bdjsbhdsj](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/11/bdjsbhdsj-1200x542.png)
 
-### Import Product Meta Field
-
+ Import Product Meta Field
+-----------------
 You can now import product meta fields from the seller's Shopify store into your marketplace.
 
 For this, you need to enable the below-given option from the Seller App Configuration>>**Product Details Configuration**.
@@ -431,8 +430,8 @@ For this, you need to enable the below-given option from the Seller App Configur
 
 ![Product video](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/02/provideo-1-1200x638.webp)
 
-### Manage Product Category
-
+ Manage Product Category
+----------------
 A new configuration option has been added to manage whether product category updates from the seller’s Shopify store are synced with the Multivendor app.
 
 For this, you need to enable the below-given option from the Seller App Configuration >> **Product Details Configuration**.
@@ -445,8 +444,8 @@ You can do this by navigating to the **Multivendor Admin Panel >> Configuration 
 
 ![Manage Product Taxonomy Category](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/02/taxonomy-1200x638.webp)
 
-### Seller Updating Products
-
+ Seller Updating Products
+----------------
 If the seller has disabled the Auto Sync New Products Tab:-
 
 Once the seller makes any changes in the products on his/her Shopify store, he/she will get info on the multi-vendor seller dashboard to update all products.
@@ -469,8 +468,8 @@ Once processed, the product will get unlisted from this section.
 
 Now, before the sellers start importing products from their respective Shopify stores into the app, please ask your sellers to firstly**, Map The Products then, Import Products**.
 
-### Sales channel configuration : Seller panel
-
+ Sales channel configuration : Seller panel
+-------------
 Using this configuration Sellers can import their products by creating a unique sales channel, especially for the Admin Store which is not available on their own online store.
 
 The seller can create a custom app and provide certain permission which you find below that would convert the custom app into a Sales channel that they can select for their product.
@@ -502,8 +501,8 @@ Pic 1
 
 Pic 2
 
-### Map Product Type and Collection
-
+ Map Product Type and Collection
+----------------------
 The seller will have the option to map the admin’s store product type & collection with the product type & collection of their Shopify store.
 
 Note:- Make sure that the admin has restricted the product type & collection from the admin panel. Also, add types and collections to the admin's marketplace.
@@ -513,11 +512,11 @@ Now, on the seller panel, here is the option to map product types & collections 
 ![Map Collection](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/02/Seller-App-Configuration-Details-Seller-%E2%80%A2-Multivendor-MarketPlace-1200x619.png)
 
 **MAP COLLECTION**
-
+-----------------
 ![Map-Collections-•-Multivendor-MarketPlace](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/02/Map-Collections-%E2%80%A2-Multivendor-MarketPlace-1200x619.png)
 
 **MAP PRODUCT TYPE**
-
+-------------------
 Similarly, sellers can map the product type of their respective stores with the product type of your Shopify store.
 
 Thus, clicking the Map Type, the seller will have the option to choose once product type from the admin's store and map the same with the product type of his/her Shopify store.
@@ -526,8 +525,8 @@ Thus, clicking the Map Type, the seller will have the option to choose once prod
 
 ![Map-Product-Type-•-Multivendor-MarketPlace](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/02/Map-Product-Type-%E2%80%A2-Multivendor-MarketPlace-1200x619.png)
 
-### Map Product Tags
-
+ Map Product Tags
+----------------------
 You can now allow sellers to map the product tags of their respective stores with the product tag of your Shopify store.
 
 ![screenshot-ravikant-sh.webkul.com-2021.07.09-13_00_27](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/07/screenshot-ravikant-sh.webkul.com-2021.07.09-13_00_27-1200x549.png)
@@ -540,8 +539,8 @@ The seller can map product tag via CSV file upload.
 
 ![screenshot-ravikant-sh.webkul.com-2021.07.09-13_04_32](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/07/screenshot-ravikant-sh.webkul.com-2021.07.09-13_04_32-1200x974.png)
 
-### Seller-wise product tag restriction
-
+ Seller-wise product tag restriction
+---------------------
 Admin needs to enable this configuration from the **Admin panel > configuration > restrict configuration > enable the restrict product tags tab.**
 
 ![seller shopify store connector](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/05/ab1-1200x966.png)
@@ -558,8 +557,8 @@ it means the admin allows the seller to import the product along with their prod
 
 The seller will not be able to see the tag mapping option at the time of importing the products if the above tab is disabled.
 
-### Import Products from Seller’s Shopify Store
-
+ Import Products from Seller’s Shopify Store
+-----------------
 Now, by clicking on the Import Products button, the seller can import products from his/her Shopify store to the admin’s Shopify store.
 
 Seller will have three methods to import products:-
@@ -584,8 +583,8 @@ Thus, all the products imported by the seller will be visible in the “Product 
 
 Now, the admin can view a new menu added under the **Configuration** menu of the admin panel i.e. **Seller Supported App Configuration**.
 
-### Inventory Update on Order: Points to be Noted!
-
+ Inventory Update on Order: Points to be Noted!
+------------------
 **ORDER CREATION ON ADMIN'S STORE**
 
 Case 1: Sync Order tab is **OFF**
@@ -616,8 +615,8 @@ both the admin and the seller can sync products manually from the **Product List
 
 ![seller end](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/02/Product-Seller-%E2%80%A2-Multivendor-MarketPlace-1-1200x619.png)
 
-### Third-Party App for Drop Shipping
-
+ Third-Party App for Drop Shipping
+------------------
 In case any of your sellers are using a third-party app, Oberlo for drop shipping then,
 
 products synced from Oberlo to seller’s Shopify store can easily be synced with the admin’s store at his store’s primary location.
@@ -634,8 +633,8 @@ Get the list of all imported products in the Products section of the seller app 
 
 This way, products will update on the admin’s marketplace.  
 
-### Connector Price Rule & Currency Conversion
-
+ Connector Price Rule & Currency Conversion
+-------------
 Seller will select the Seller Sync App from the drop-down menu for currency conversion & price rule:
 
 ![Screenshot22](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/01/Screenshot22-1200x528.png)
@@ -659,8 +658,8 @@ In the price rule menu, the seller can create a price rule to manage the price o
 
 ![Price-Rule-Seller-•-Multivendor-MarketPlace-2](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/01/Price-Rule-Seller-%E2%80%A2-Multivendor-MarketPlace-2-1200x627.png)
 
-### Allow Sellers to Register Webhook
-
+ Allow Sellers to Register Webhook
+-------------------
 **PURPOSE**:- The seller requires certain [permission](https://webkul.com/blog/seller-shopify-store-connector-multi-vendor-marketplace-for-shopify/#required-permissions-to-create-a-private-app) to create a private app to make the sync process work.
 
 In case the seller has missed enabling any permission and created the private app, still, he/she will have the option to register webhooks from his/her seller panel.  
@@ -681,8 +680,8 @@ The seller can unregister/delete webhook and can anytime register it again.
 
 ![delete webhook](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/05/Screenshot-2020-05-15T204208.729-1200x586.png)
 
-### Map Product With Connected Stores
-
+ Map Product With Connected Stores
+---------------------------
 Sellers can now map products with their connected Shopify stores.
 
 In case a seller wants to map a product with a specific product of his/her Shopify store, then the variant will be mapped automatically.
@@ -705,16 +704,16 @@ Once you choose this option, the seller simply needs to select his/her Shopify s
 
 ![Screenshot-2020-10-09T173753.254](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/10/Screenshot-2020-10-09T173753.254-1200x510.png)
 
-### Sync Order On Seller Shopify Store
-
+ Sync Order On Seller Shopify Store
+----------------
 In case the order created in the app, not synced with the seller's Shopify store then, the seller can manually create an order on his/her Shopify store.
 
 For this, the seller will visit the seller panel>>Order>>Edit Order>>Click the **"Sync Order"** button in the More Action menu.
 
 ![Order-Details-Seller-•-Multivendor-MarketPlace-6](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/12/Order-Details-Seller-%E2%80%A2-Multivendor-MarketPlace-6-1200x597.png)
 
-### Update Marketplace Shipping Labels
-
+ Update Marketplace Shipping Labels
+-----------------
 You can now allow sellers to change the marketplace shipping labels to their respective Shopify store's shipping labels.
 
 For this, visit the Seller Supported App Configuration & enable the tab.
@@ -727,8 +726,8 @@ The seller can enable the option from the Seller Sync App Configuration menu:
 
 ![Screenshot-2021-08-20T134736.976](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/08/Screenshot-2021-08-20T134736.976.png)
 
-### Multi-location Inventory Sync
-
+ Multi-location Inventory Sync
+-------------------
 In case you are using the [Multi-location Inventory feature app](https://webkul.com/blog/shopify-multivendor-marketplace-multi-location-inventory/) along with this connector add-on:-
 
 You can provide an option to let sellers choose the location of which they want to sync the product quantity with your Shopify store.
@@ -740,8 +739,8 @@ Now, sellers can enable the location on the seller panel and sync the product's 
 
 ![Seller end](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/10/screenshot-vineet-sinha-sh.webkul.com-2021.10.08-16_07_56-1200x590.png)
 
-### Inventory Policy Sync
-
+ Inventory Policy Sync
+----------------------
 With this option, you can now verify the "Continue Selling Out of Stock" option on Shopify and allow customers to purchase the items accordingly.
 
 ![Screenshot-2021-10-08T180822.481](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/10/Screenshot-2021-10-08T180822.481-1200x472.png)

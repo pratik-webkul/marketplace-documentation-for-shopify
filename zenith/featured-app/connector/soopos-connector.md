@@ -18,8 +18,8 @@ Then, approve the additional charge of $10 USD/month over and above your current
 
 Let’s explore the connector in detail.
 
-### Required Conditions
-
+ Required Conditions
+-------------------
 The connector will work with newly added products, if the below three important conditions satisfy:
 
 1.  The sellers need to enable the "SooPOS Configuration" from their respective seller panels.
@@ -32,8 +32,8 @@ To enable this feature app, you need to visit the Feature app section and enable
 
 ![Feature-Apps-Admin-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/09/Feature-Apps-Admin-1-1200x597.png)
 
-### WorkFlow
-
+ WorkFlow
+-----------------------
 After activating the feature app, the seller will get a new configuration added to their respective seller panels i.e. SooPOS Configuration.
 
 **SELLER END**

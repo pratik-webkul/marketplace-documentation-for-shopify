@@ -6,8 +6,8 @@ author: Chirag Tyagi
 ---
 
 
-# Seller Policy Configuration in Shopify Multivendor Marketplace
-
+Seller Policy Configuration in Shopify Multivendor Marketplace
+-----------------
 The [Multivendor Marketplace app for Shopify](/zenith/introduction/overview.html) allows merchants and sellers to configure two types of seller policies:
 
 - **Normal Seller Policy**
@@ -19,8 +19,8 @@ With the **Advanced Seller Policy** feature, the admin can configure a more deta
 
 ---
 
-## Workflow
-
+ Workflow
+----------------
 ### Normal Seller Policy
 
 To enable the **Normal Seller Policy**, follow these steps:
@@ -46,10 +46,10 @@ The entered seller policy will reflect on the seller's public profile page:
 
 ![Seller Profile View](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/10/Screenshot-71.png)
 
----
 
-### Advanced Seller Policy
 
+ Advanced Seller Policy
+--------------------------------
 To enable the **Advanced Seller Policy**, follow these steps:
 
 Admin Panel >> Configuration >> Seller Configuration >> Choose Advanced Seller Policy from the dropdown under "Seller Policy" >> Save Changes

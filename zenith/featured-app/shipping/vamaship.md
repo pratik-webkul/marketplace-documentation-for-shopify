@@ -44,8 +44,8 @@ MultiVendor Marketplace Admin End
 
 Shopify Backend (Admin End)
 
-### Configuration: Admin End
-
+ Configuration: Admin End
+-----------------------------
 Firstly, go to:  
 **Multi-vendor marketplace admin panel** > **configuration** > **shipping** **configuration**. Now, **enable** the shipping method:
 

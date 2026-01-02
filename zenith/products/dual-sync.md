@@ -7,15 +7,15 @@ author: Chirag Tyagi
 
 Are you using Multivendor Marketplace app & would like to edit the products from shopify products? If yes then "Dual Sync" feature is for you:
 
-We are here with this much awaited feature in our [Multivendor Marketplace App](https://webkul.com/blog/shopify-multivendor-marketplace-new-theme/) .
+We are here with this much awaited feature in our [Multivendor Marketplace App](/zenith/introduction/) .
 
 With the help of this feature, Admin can edit the product details from the Shopify end and the updated changes reflect automatically on the Marketplace.
 
 Let us check out this feature in detail below:
 
 
-### Enable the configuration: Admin panel
-
+ Enable the configuration: Admin panel
+--------------------------
 Primarily, you need to enable the "DUAL SYNC PRODUCT" option from Product configuration of the Admin panel of the app:
 
 ![screenshot-sp-seller.webkul.com-2022.01.31-11_15_24](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/10/dualsyncproduct.webp)

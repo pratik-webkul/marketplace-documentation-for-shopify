@@ -60,6 +60,6 @@ This allows marketplace owners to scale creative marketplaces without custom dev
 Reference Documentation
 ----------------------------
 For detailed guidance on setting up an **artist marketplace** using the Artist Product Design featured app, refer to the official documentation below:
-[**Artist Product Design Documentation**](/zenith/featured-app/Marketplace-product-add-ons/artist-product-design.html)
+[**Artist Product Design Documentation**](/zenith/featured-app/marketplace-product-add-ons/artist-product-design.html)
 
 

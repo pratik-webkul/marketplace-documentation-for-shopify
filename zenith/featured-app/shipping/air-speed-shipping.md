@@ -18,16 +18,16 @@ This feature App comes with a charge of $10 USD/month over and above your curren
 
 THE AIRSPEED SHIPPING FEATURE APP IS AVAILABLE **ONLY FOR FULFILLMENT**.
 
-### Features
-
+ Features
+----------------
 *   Both admin and seller can notify the courier about the prepared orders.
 *   Once you get notified, the seller can start the order fulfillment from his/her end.
 *   AirSpeed Shipping has the highest fulfillment priority among all the other Shipping methods.
 *   No need to enter the Tracking Number & Shipping method while fulfilling any order as they get fetched automatically based on configured AirSpeed Shipping details.
 *   Also, Sellers can generate & print the shipping label for fulfilled orders from their respective panels.
 
-### How to Enable the AirSpeed Shipping Feature?
-
+ How to Enable the AirSpeed Shipping Feature?
+-------------------------------
 To get this feature app installed on your marketplace, admin needs to follow below-given steps:
 
 *   Go to **Feature Apps** section in the admin panel of the Multivendor App.
@@ -48,8 +48,8 @@ To get this feature app installed on your marketplace, admin needs to follow bel
 
 This way, admin can enable the AirSpeed Shipping feature.
 
-### Workflow at Admin End
-
+ Workflow at Admin End
+------------------
 ### AirSpeed Shipping Configuration
 
 As soon as the AirSpeed Shipping feature app is enabled in the app, a new sub-menu gets added in the Configuration menu of the app i.e **Air Speed Shipping Configuration**.
@@ -72,8 +72,8 @@ As the AirSpeed Shipping feature is configured from admin end, he/she will get t
 
 (Go to **Shopify Backend**\>>**Settings**\>>**Checkout**\>>Go to **Form Options**\>>Make the "Shipping Address Phone Number" **Required**\>>Save.)
 
-### Orders: Admin End
-
+ Orders: Admin End
+------------------
 ![Order details](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/orderlisting.webp)
 
 Also, visiting the **Orders** section of the admin panel, You will get a **Notify Courier** button to send the notification to the courier to pick up the prepared order.
@@ -88,8 +88,8 @@ Furthermore, once the admin notifies the courier about the order to be picked up
 
 Now, if the admin doesn't notify the courier from his panel, the seller will get the **Notify Courier** button on his/her seller panel.
 
-### Fulfillment by the Seller
-
+ Fulfillment by the Seller
+--------------------------
 ![Seller Order1](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/vieworder.webp)
 
 Moreover, once the admin configure the AirSpeed Shipping from his/her end. Seller will also get an option to notify the courier if the customer's order is prepared to be picked up.
@@ -110,8 +110,8 @@ Thus, the seller will click on **Fulfill** **Items** button to fulfill the order
 
 Also, once the seller will fulfill the items, he/she will get an option to generate a shipping label for that order.
 
-### How to Generate Shipping Label?
-
+ How to Generate Shipping Label?
+-------------------------------
 Seller will get an option to generate Shipping Label for fulfilled orders in the Order detail section of the app.
 
 The seller needs to follow the below steps to generate the shipping label for fulfilled orders:

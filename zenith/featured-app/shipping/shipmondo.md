@@ -20,8 +20,8 @@ This is a requirement defined by Shopify for your store to retrieve shipping rat
 
 This feature app is available only with the Multivendor **Pro** **Plan** ($60/month). Moreover, you need to enable the [**Shipping**](/zenith/featured-app/overview) add-on (free) from the ‘featured apps’ section of the app.
 
-### Installation
-
+ Installation
+-----------------------
 Enable the following app by visiting:
 
 *   Multi-Vendor **Admin Panel**
@@ -30,26 +30,26 @@ Enable the following app by visiting:
 *   Search for ‘**Shipmondo**‘ & click on ‘**Enable**‘
 *   After accepting the charges, you’ll be good to configure the app!
 
-![Feature-Apps-Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/09/Feature-Apps-Admin-1200x597.png)
+![Feature-Apps-Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/shpmondo.webp)
 
-### Configuration: Admin End
-
+ Configuration: Admin End
+------------------
 Firstly, the admin needs to enable this shipping method from the shipping configuration. So, for this, visit:
 
 **Multivendor Marketplace Admin Panel** > **Configuration** > **Shipping Configuration**. 
 
 Click on the **three dots** under the **Action** menu & further, click on **enable**.
 
-![Configuration-Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/09/Configuration-Admin-1200x560.png)
+![Configuration-Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/configureshippingshipmondo.webp)
 
 Moving on, the admin needs to configure the Shipmondo. So, for this, click on **Configure Shipping** as shown in the image above,
 
 or visit **Multivendor Marketplace Admin Panel** > **Configuration** > **Shipmondo Configuration**. Refer:
 
-![Shipmondo-Configuration-Admin-1-2](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/09/Shipmondo-Configuration-Admin-1-2-1200x597.png)
+![Shipmondo-Configuration-Admin-1-2](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/shipmondoconfigone.webp)
 
-### Shipmondo Configuration
-
+ Shipmondo Configuration
+------------------------
 On the following page, configure the following details:
 
 *   Shipmondo API Username
@@ -60,7 +60,7 @@ On the following page, configure the following details:
         With this, you can also configure the frontend labels.
 *   **Sandbox Mode**: If you want to test the functionality of this shipping method, keep the sandbox mode enabled. Remember, shipping labels won’t be generated in testing mode.
 
-![Shipmondo-Configuration-Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/10/Shipmondo-Configuration-Admin-1200x948.png)
+![Shipmondo-Configuration-Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/shipmondoconfigtwo.webp)
 
 *   **Automatic shipping label generation**: By enabling this, the shipping label will be automatically generated at the tie of order fulfillment.
 *   **Automatic Fulfilment**: By enabling this configuration, the order will be fulfilled automatically.
@@ -72,49 +72,49 @@ On the following page, configure the following details:
 *   Select country
 *   Select the shipping method
 
-![Shipmondo-Configuration-Admin-2](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/10/Shipmondo-Configuration-Admin-2-1200x789.png)
+![Shipmondo-Configuration-Admin-2](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/shipmondoconfigtwo.webp)
 
-### Set Shipping Method For Sellers
-
+ Set Shipping Method For Sellers
+-------------------
 The admin can further set the shipping methods for his sellers. Go to **Multi vendor marketplace admin panel** > **Sellers** > **Seller Listing** > **Edit** (under **Action**). 
 
 On the edit seller page, the admin will have the following block from where he can enable/disable/set as default:
 
-![Edit-Seller-Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/09/Edit-Seller-Admin-1200x597.png)
+![Edit-Seller-Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/shipmondoseller.webp)
 
 Further, the admin can view all the sellers which are using this shipping method by going to **Multi vendor marketplace admin panel** > **Configuration** > **Shipping** **Configuration**:
 
-![Configuration-Admin-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/09/Configuration-Admin-1-1200x597.png)
+![Configuration-Admin-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/viewsellersshipmodo.webp)
 
 The redirected page:
 
-![Shipping-Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/09/Shipping-Admin-1200x821.png)
+![Shipping-Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/editsellershipmondo.webp)
 
 Here, clicking on the ‘Edit’ button for a particular seller will redirect you to the ‘Edit Seller’ page
 
 from where you can disable the following shipping method for that seller (as shown previously in this blog).
 
-### Make **Shipping** **Address Phone Number** Mandatory
-
+ Make **Shipping** **Address Phone Number** Mandatory
+---------------------------
 To use this feature add-on, the admin needs to make the **shipping** **address phone number mandatory** at the time of **checkout**.
 
 So, to do this, go to **Shopify Backend** > **Settings** > **Checkout** > Under **Form Options**, make **Shipping** **address phone number** as **Required**:
 
 ![133](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/09/demo-store-Checkout-Shopify-1200x597.png)
 
-### Configuration: Seller End
-
+ Configuration: Seller End
+--------------------------
 Further, the seller can configuration Shipmondo from his panel.
 
 Go to **Multi-Vendor Marketplace Seller Panel** > **Configuration** > **Shipping Configuration**\> **Enable**/**Disable** the shipping:
 
-![Shipping-Configuration-Seller-•-Multivendor-MarketPlace](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/09/Shipping-Configuration-Seller-%E2%80%A2-Multivendor-MarketPlace-1200x597.png)
+![Shipping-Configuration-Seller-•-Multivendor-MarketPlace](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/setasdefaultsellershipmondo.webp)
 
 Furthermore, the seller can set the shipping method as **by-default** so that every single product created by him will have **Shipmondo** as the **by-default shipping method**.
 
 Clicking on ‘**Set As Default**‘ will give you the following dialogue box:
 
-![Shipping-Configuration-Seller-•-Multivendor-MarketPlace-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/09/Shipping-Configuration-Seller-%E2%80%A2-Multivendor-MarketPlace-1-1200x597.png)
+![Shipping-Configuration-Seller-•-Multivendor-MarketPlace-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/setasdetwo.webp)
 
 Set Default Shipping Method For Products:
 
@@ -126,22 +126,22 @@ If not this, the seller can set the shipping method on individual products while
 
 So, go to **Multi-vendor marketplace seller panel** > **Products** >**Product Listing** \> **Add**/**Edit** the Product:
 
-![Edit-Product-Seller-•-Multivendor-MarketPlace](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/09/Edit-Product-Seller-%E2%80%A2-Multivendor-MarketPlace-1200x597.png)
+![Edit-Product-Seller-•-Multivendor-MarketPlace](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/shippingmethodshipmondo.webp)
 
-### **Global Configuration**
-
+ **Global Configuration**
+---------------------
 Further, click on the **Global Configuration** menu on the **Shipping Configuration** page. From here, the seller can do the **SHIPPING PACKET CONFIGURATION**:
 
 ![Shipping-Configuration-Seller-•-Multivendor-MarketPlace-2](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/09/Shipping-Configuration-Seller-%E2%80%A2-Multivendor-MarketPlace-2-1200x597.png)
 
-### Shopify Store Frontend
-
+ Shopify Store Frontend
+---------------
 The customer will have an option to select the shipping method as per configured from the backend after entering the information:
 
 ![Shipping-abhishek-store2-Checkout](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/09/Shipping-abhishek-store2-Checkout-1200x597.png)
 
-### Shipping Label Generation
-
+ Shipping Label Generation
+------------------
 If the order fulfillment is set to automatic, the seller will receive an email. The email will have a link to download the label. Demo email:
 
 ![Screenshot-from-2020-09-03-19-59-03](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/09/Screenshot-from-2020-09-03-19-59-03-1200x461.png)
@@ -154,7 +154,7 @@ Seller will have an option to generate the shipping label from their seller pane
 
 Go to **Multi-vendor marketplace seller panel** > **Orders** > **Order Listing** > **View** (under **Action**). Select the method of order fulfillment as **Shipmondo** and fulfill the order.
 
-![Order-Details-Seller-•-Multivendor-MarketPlace](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/09/Order-Details-Seller-%E2%80%A2-Multivendor-MarketPlace-1200x597.png)
+![Order-Details-Seller-•-Multivendor-MarketPlace](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/generateshiipinglabel.webp)
 
 Furthermore, this is how the shipping label will be downloaded in pdf form:
 

@@ -8,7 +8,7 @@ author: Chirag Tyagi
 
 In this guide, we will explain how to configure mail using the Multi-vendor Marketplace App for Shopify: Mail Settings
 
-You would have used the [Multivendor Marketplace App](https://webkul.com/blog/shopify-multivendor-marketplace-new-theme-launched/) for Shopify to convert your store into a full-fledged marketplace.
+You would have used the [Multivendor Marketplace App](/zenith/introduction/) for Shopify to convert your store into a full-fledged marketplace.
 
 This app facilitates the process of adding sellers and keep track of their sales.
 
