@@ -61,7 +61,7 @@ If you are using [Shopify](https://www.shopify.com/?ref=webkul) as your platform
 
 Multi-Vendor Marketplace app for Shopify will help you set up a flexible online marketplace where you can add unlimited sellers and products with multiple add-ons to enhance your store.
 
-One such add-on to create online auctions on your marketplace is [Product Auction for Sellers](/zenith/featured-app/Marketplace-product-add-ons/product-auction-for-seller) which is basically an integration of the Shopify [Product Auction](https://apps.shopify.com/product-auction) app.
+One such add-on to create online auctions on your marketplace is [Product Auction for Sellers](/zenith/featured-app/marketplace-product-add-ons/product-auction-for-seller) which is basically an integration of the Shopify [Product Auction](https://apps.shopify.com/product-auction) app.
 
 This integration will let you allow your sellers to put products up for auction and later you can earn commission on each product sold on auction.
 
@@ -82,7 +82,7 @@ Auctions give you the opportunity to buy artworks at competitive prices. Moreove
 
 Just like [Artsy](https://www.artsy.net/), you can also build a perfect multi-artist marketplace to conduct auctions on their artworks.
 
-Multi-Vendor Marketplace has an add-on by the name [Artist Product Design](/zenith/featured-app/Marketplace-product-add-ons/artist-product-design.html), using which you can create a marketplace for artists.
+Multi-Vendor Marketplace has an add-on by the name [Artist Product Design](/zenith/featured-app/marketplace-product-add-ons/artist-product-design.html), using which you can create a marketplace for artists.
 
 Admin can create/add Artists on his store and let them add designs/artworks to sell. Moreover, using the **product auction for seller** add-on, he can put up those artworks on auction.
 
@@ -97,7 +97,7 @@ Install the [Multi-Vendor Marketplace](https://apps.shopify.com/multi-vendor-mar
 
 If you want to understand **how to use the Product Auction for Seller featured app with the Marketplace app** and configure an auction marketplace step by step, you can refer to the official user guide below:
 
-[Product Auction for Seller Documentation:](/zenith/featured-app/Marketplace-product-add-ons/product-auction-for-seller.html)
+[Product Auction for Seller Documentation:](/zenith/featured-app/marketplace-product-add-ons/product-auction-for-seller.html)
 
 If you have suggestions to make something better, do let us know.
 

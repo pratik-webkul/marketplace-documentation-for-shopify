@@ -20,8 +20,8 @@ Also, Access to Shipping requires your Shopify store to be on the plan that supp
 
 EASYPOST SHIPPING FEATURE APP IS AVAILABLE for both **Rate Calculation** and **Fulfillment**.
 
-### How to Activate EasyPost Shipping Feature App?
-
+ How to Activate EasyPost Shipping Feature App?
+-----------------------------------
 To enable the feature app, all you need to do is to visit the “**Featured Apps**” section of the admin panel and enable it from there.
 
 ![EasyPost Shipping](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/10/Home-Admin-1-1200x627.png)
@@ -34,8 +34,8 @@ Click the **Enable** button to activate the feature app.
 
 In this way, you can enable the feature within your Multivendor App.
 
-### Configuration: ADMIN END
-
+ Configuration: ADMIN END
+------------------------
 Once you enable this feature app, you will get a new sub-menu in the **Configuration** menu of the app i.e. **EasyPost Configuration**. 
 
 **Please Note**:- You need to [get registered to EasyPost](https://www.easypost.com/signup) to configure the details in the app.
@@ -54,20 +54,20 @@ Shipping enabled:-
 
 Moving forward to configure EasyPost details in the app:-
 
-### EasyPost Configuration
-
+ EasyPost Configuration
+-------------------------------------
 In this section, you need to enter the API key provided by EasyPost. Moreover, you need to configure the below-mentioned details as per your requirement.
 
 AUTOMATIC GENERATE SHIPPING LABEL:- You can enable this tab to allow sellers to generate the shipping labels automatically on fulfilled orders, you need to enable the tab
 
-### **Custom Dimension on fulfillment**:-
-
+ **Custom Dimension on fulfillment**:-
+----------------------
 Enabling this, you can allow sellers to add Custom package dimensions: length, Width, height, and custom package weight for their order ignoring Product weight and dimensions.
 
 Note: The unit of dimension and weight will be in Inches and ounces/pounds respectively.
 
-### **Allow Create Insurance on order**:
-
+ **Allow Create Insurance on order**:
+-------------------------------------
 Enabling this, you can allow sellers to add Insurance during order fulfillment.
 
 During the order fulfillment, the Seller will get an option “Do you want to add insurance for this order”. Simply choose "Yes" or "No" from the dropdown menu.
@@ -102,16 +102,16 @@ RECEIVE PARCEL TO YOUR ADDRESS:- In case you want to receive the parcel at your
 
 ![EasyPost Shipping configuration](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/05/EasyPost-Configuration-Admin-824x1024.png)
 
-#### Make **Shipping** **Address Phone Number** Mandatory
-
+ Make **Shipping** **Address Phone Number** Mandatory
+-----------------------
 To use this feature add-on, the admin needs to make the **Shipping** **address phone number mandatory** at the time of **checkout**.
 
 To do this, You need to go to Shopify Backend > Settings > Checkout > Under Form Options, make the Shipping address phone number as **Required**.
 
 ![J&T Express Shipping](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/09/demo-store-Checkout-Shopify-1200x597.png)
 
-### Configuration: SELLER END
-
+ Configuration: SELLER END
+---------------------------
 Once you configure these details, the sellers will also get the option to enable the EasyPost shipping from the **Shipping Configuration** menu of their seller panel.
 
 ![EasyPost Shipping](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/05/Shipping-Configuration-Seller-%E2%80%A2-Multivendor-MarketPlace-1200x556.png)
@@ -141,8 +141,8 @@ Configure Width, height, length, girth, and weight.
 
 Now, the seller can fulfill orders via the EasyPost shipping courier service.
 
-### Enable Predefined Packages
-
+ Enable Predefined Packages
+-------------------------------
 Sellers can now enable the feature for **Predefined Packages** to streamline the shipping process.
 
 This option allows them to select from a list of standard package types, helping save time and reduce manual entry.
@@ -153,8 +153,8 @@ To use it, the seller must ensure that the shipping method is set to **USPS** in
 
 ![Easypost-packages ](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/05/easypost-package-1200x943.webp)
 
-### Shipping Label Generation
-
+ Shipping Label Generation
+----------------------
 Both admin and seller can generate the shipping label for the fulfilled orders. Admin can configure the shipping Label details from his admin panel.
 
 Seller needs to follow the below-given steps to generate shipping labels for fulfilled orders:
@@ -184,7 +184,7 @@ Order tracking is now available for EasyPost Shipping.
 
 That's all about the EasyPost Shipping feature app of the Multi-vendor Marketplace App.
 
-**[Check](https://webkul.com/blog/shopify-multivendor-marketplace-shipping/#shipping-methods-in-the-app)** Other Shipping Services integrated with the App.
+**[Check](/zenith/featured-app/overview.html#marketplace-shipping-feature-apps)** Other Shipping Services integrated with the App.
 
 ### DEMO
 

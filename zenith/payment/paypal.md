@@ -129,8 +129,8 @@ Only after enabling this option, the Admin will have the 'Pay after refund date'
 
 Also, the Admin won't be able to choose the 'pay after' as delivery or fulfillment because now it will work as per configured in the 'Cashable Amount for Seller' option.
 
-### Configuration for Seller's Panel
-
+ Configuration for Seller's Panel
+--------------------
 To configure this feature, the Seller needs to follow the steps written below:
 
 *   Go to Multi vendor Marketplace **Seller Panel**
@@ -146,8 +146,8 @@ To configure this feature, the Seller needs to follow the steps written below:
 
 This is all you'll need to do for configuring the PayPal Payout Payment.
 
-### Workflow
-
+ Workflow
+--------------
 When an order gets placed, the total amount paid by the customer will go to the Admin's account.
 
 So, whenever the Seller changes the order status to delivered/fulfilled from his end then the Seller's total earning will be received by him excluding the Admin's commission.
@@ -182,8 +182,8 @@ Mark the delivery status as delivered, enter the delivery date & submit:
 
 ![Order Details Seller • Multivendor MarketPlace (1)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/paypal14.webp)
 
-### The whole auto-pay process at a glance!
-
+ The whole auto-pay process at a glance!
+---------------------
 Suppose, a customer placed an order and the Admin has set the PayPal Payout payment condition as 'fulfilled', i.e.,
 
 The Seller will auto-receive the payment once he set the order status as fulfilled. Considering this scenario, let's have a look:
@@ -229,8 +229,8 @@ Seller end > Orders > Payment Received:
 
 Note: PayPal Payout also works for batch payments & orders with multiple seller products. In this case, the Seller earning will go to respective Seller accounts.
 
-### Schedule Payout.
-
+ Schedule Payout.
+----------------
 We are here with a new feature for your Paypal Payouts i.e, “Schedule payout”. This feature enables you to schedule all your payouts to happen at a scheuled time i.e, Daily, Monthly Or Weekly.
 
 All eligible payouts will be triggered on your scheduled day, according to your PayPal payout settings, instead of being triggered instantly.

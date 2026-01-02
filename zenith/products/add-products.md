@@ -21,8 +21,8 @@ Click here to watch the video ⬇️
 
 You can also add products from your admin panel and assign products to any of your registered sellers.
 
-### How to add Products?
-
+ How to add Products?
+-------------------------
 In order to add items, you need to visit the **Products** section of the app.
 
 ![Products](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/adp2.webp)
@@ -32,7 +32,7 @@ Go to the Product Listing & get the option to **Add Products**. All the added pr
 ![Add products](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/adp3.webp)
 
 *   Clicking the Add Product button, product form appears. Now, enter the details in the given fields of the product form.
-*   Choose products that you want to sell i.e. **Normal** (Physical) or [Digital](/zenith/products/digital-products.html) product.
+*   Choose products that you want to sell i.e. **Normal** (Physical) or [Digital product](/zenith/products/digital-products.html).
 *   Enter seller **email** ID i.e. the seller to whom you want to assign the product.
 *   Write an appropriate **title** of the product.
 *   Enter product **type**, **description**, product **tags**, [policies](https://webkul.com/blog/multi-vendor-marketplace-for-shopify-product-policy/).
@@ -45,7 +45,7 @@ _However, if the image is smaller than 500kb, the original quality will be retai
 
 ![upload image](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/adp4.webp)
 
-*   Shipping Details:- Enter product **weight**, choose "requires [shipping](https://webkul.com/blog/shopify-multivendor-marketplace-shipping/)" in case of normal products & choose a **shipping method** for the product.
+*   Shipping Details:- Enter product **weight**, choose "requires [shipping](/zenith/featured-app/shipping/marketplace-shipping)" in case of normal products & choose a **shipping method** for the product.
 *   Pricing Details:- Enter product **price** & [compare at price](https://help.shopify.com/en/manual/promoting-marketing/discount-codes/sales), if required. Choose to charge tax for the product.
 *   Inventory Details:- Enter **barcode** & product **SKU** to identify & track product inventory or stock.
 
@@ -63,8 +63,8 @@ The admin can use the "filter by" option in the product listing to search the pr
 
 ![Screenshot10](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/01/Screenshot10-1200x295.png)
 
-### How to Add Variants?
-
+ How to Add Variants?
+-----------------------
 > Represent one version of your product with multiple options.
 
 In the app, you can add variants to the products from the product form. Firstly, add options & then, add variants to the available options.
@@ -85,8 +85,8 @@ Clicking the Add Variant button, get the options to add options & related varian
 
 Click the **Save** button.
 
-### How to Edit Products?
-
+ How to Edit Products?
+------------------------
 You can also edit or update products once added. For that, you can visit the Product Listing menu & edit the product details in the app.
 
 **NOTE:** When editing or updating a product, you can edit the image by resizing, cropping, rotating, or deleting it.
@@ -99,24 +99,21 @@ Note:- You can't edit product type (normal or digital) and seller email of any p
 
 ![edit products](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/adp9.webp)
 
-### Bulk Edit Products
-
+ Bulk Edit Products
+----------------------
 You can also edit the products in bulk in the app.
 
-STEP 1: Visit the Product Listing page & click **Bulk Edit** button from the drop-down menu in **More Action**.
----------------------------------------------------------------------------------------------------------------
+### STEP 1: Visit the Product Listing page & click **Bulk Edit** button from the drop-down menu in **More Action**.
 
 ![bulk edit ](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/adp10.webp)
 
-STEP 2: Export CSV
-------------------
+### STEP 2: Export CSV
 
 Clicking the **Bulk Edit** button, you need to select the start & end date of product creation & click the **Export** button to export the product CSV file.
 
 ![bulk edit](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/adp11.webp)
 
-STEP 3: Import the products via CSV, once edited.
--------------------------------------------------
+### STEP 3: Import the products via CSV, once edited.
 
 Export the CSV file & make the changes in the product SKU, Quantity, Price wherever required. Once the changes are made in the product CSV, import the same in the app.
 
@@ -127,10 +124,10 @@ Export the CSV file & make the changes in the product SKU, Quantity, Price where
 \-Variant **Qty**  
 \-and Variant **Price**.
 
-In case you want to update more fields, you can **[Update Products via CSV using Method 1](https://webkul.com/blog/product-updates-multivendor-marketplace-for-shopify/#product-update-by-csv)**
+In case you want to update more fields, you can **[Update Products via CSV using Method 1](/zenith/products/products-updates.html#product-update-by-csv)**
 
-### Edit Variants
-
+ Edit Variants
+---------------
 Firstly, click the "**Edit Option**" button to add options for the product.
 
 ![edit option](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/adp13.webp)
@@ -160,14 +157,14 @@ Added variants on the product page:-
 
 This way, you can edit the products
 
-### Video Guide to Add Products within the App
-
+ Video Guide to Add Products within the App
+----------------
 [![Watch the video](https://img.youtube.com/vi/FRBkcFDXHnc/0.jpg)](https://www.youtube.com/watch?v=FRBkcFDXHnc)
 
 
 
-### Add Products in Bulk via CSV
-
+ Add Products in Bulk via CSV
+-------------------------
 In the multi-vendor marketplace app, both you and your sellers can add items in bulk via CSV file upload.
 
 Firstly, you need to enable the option from the **Product Configuration** menu (under the **Configuration** menu) of the app.

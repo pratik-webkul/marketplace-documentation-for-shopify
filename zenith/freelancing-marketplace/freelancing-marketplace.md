@@ -67,7 +67,7 @@ With this feature:
 - Increases conversion for high-value services  
 - Provides flexibility for both buyers and freelancers  
 
-[**Make an Offer Documentation:**](/zenith/featured-app/Marketplace-product-add-ons/make-an-offer)
+[**Make an Offer Documentation:**](/zenith/featured-app/marketplace-product-add-ons/make-an-offer)
 
 
 How These Features Work Together in a Freelancing Marketplace
@@ -104,6 +104,6 @@ To set up a **freelancing marketplace** using these features, refer to the offic
 
 - [**Ask a Question**](/zenith/featured-app/seller-add-ons/ask-a-question)  
 
-- [**Make an Offer**](/zenith/featured-app/Marketplace-product-add-ons/make-an-offer)  
+- [**Make an Offer**](/zenith/featured-app/marketplace-product-add-ons/make-an-offer)  
 
 

@@ -15,8 +15,8 @@ This feature of the Multivendor app will charge you a minimal amount of $10 per 
 
 BLUEDART SHIPPING FEATURE APP IS AVAILABLE **ONLY FOR FULFILLMENT**.
 
-### Points to be Noted
-
+ Points to be Noted
+--------------------
 *   Blue Dart shipping feature is available in all the three plans of the Multi-vendor Marketplace App.
 *   It is necessary for admin to have an account on Blue Dart as these Blue Dart account details will help the admin to configure settings in the app.
 *   Make the **Contact Number, a mandatory field for the customers** for checkout.
@@ -25,8 +25,8 @@ BLUEDART SHIPPING FEATURE APP IS AVAILABLE **ONLY FOR FULFILLMENT**.
 
 Click the **Enable** Button.
 
-### How to Activate
-
+ How to Activate
+-----------------------
 To enable this feature within your app, all you need to do is to visit the “Featured Apps” section of the admin panel and activate it from there.
 
 ![Feature App ](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/featuredapps.webp)
@@ -52,8 +52,8 @@ Moreover, the admin will have the option to let the sellers **generate Shipping 
 
 Once the admin configures the details from his/her admin panel, sellers immediately get the option to fulfill orders via Blue Dart on their respective seller panels.
 
-### Automatic Track Orders
-
+ Automatic Track Orders
+--------------------------
 You can now allow sellers to enter their tracking numbers and track orders.  
 Go to Multi-vendor Admin Panel>>Configuration>>Bluedart Configuration>>Configure details>>Save
 
@@ -98,8 +98,8 @@ Also, select the pickup Date & Time for the courier service and click the **Agre
 
 Now, proceed to generate the Shipping Label.
 
-### Generate Shipping Label
-
+ Generate Shipping Label
+-----------------
 Clicking the Agree and Fulfill button, the seller can generate a shipping label for this order.
 
 **Shipping Label Generated:-**

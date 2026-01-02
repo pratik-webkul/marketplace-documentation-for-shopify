@@ -18,8 +18,8 @@ But please remember High risks order will not be auto fufilled
 Check the below video of Digital Products:
 
 
-### Configure Shop Type
-
+ Configure Shop Type
+-----------------
 Firstly, the admin needs to configure the Shop Type as digital or both (digital + normal).
 
 For this, go to Multivendor Marketplace Admin Panel > Configuration > General Configuration:
@@ -30,8 +30,8 @@ On the redirected page, change the shop type as digital (if you only want to hav
 
 ![Screenshot from 2019 04 23 16 14 53](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/dg2.webp)
 
-### Digital Product Form Customization
-
+ Digital Product Form Customization
+------------------------
 The admin can configure the product form, i.e., the form for adding a new digital product.
 
 For this, go to Multivendor Marketplace Admin Panel > Products > Product Form Customization:
@@ -42,8 +42,8 @@ On this page, mark the fields you want to have and further save the customizatio
 
 ![Product Form Customization Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/dg4.webp)
 
-### How to add digital products?
-
+ How to add digital products?
+-----------------
 To add a digital product, go to Multivendor Marketplace Seller Panel > Products > Product Listing > Add Product:
 
 ![Product Seller • Multivendor MarketPlace](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/dg5.webp)
@@ -76,8 +76,8 @@ As explained above, save the product and then you can upload digital files to in
 
 The added product will be listed in the Multivendor Marketplace Seller/Admin Panel > Products > Product Listing.
 
-### Digital Product As Service
-
+ Digital Product As Service
+------------------------
 The admin can now have the option to **add digital product as service** in the Multi-vendor App.
 
 In this case, both you & your sellers can directly create & sell digital products without uploading the digital files.
@@ -108,8 +108,8 @@ App>>**Orders**\>>**Order Listing**\>>**Edit** Order>>**Upload** the digital fil
 
 After this, the customer will receive an email regarding the same from where they can download the digital file.
 
-### Digital Product As Link
-
+ Digital Product As Link
+-------------------
 Add link to your digital products. First, the admin needs to enable the configuration.
 
 *   Go to the **Configuration** menu of the app.
@@ -126,8 +126,8 @@ This way the digital product will not take up your multi vendor digital space. I
 
 ![dslo](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/05/image-6-1200x613.png)
 
-### Configure Frontend
-
+ Configure Frontend
+------------------------------
 Furthermore, to display a downloadable link on the customer's order page, the admin needs to do some code pasting.
 
 Go to Multivendor Marketplace Admin Panel > Configuration > Instruction for Marketplace:
@@ -154,8 +154,8 @@ Search for customer/order.liquid template file, search 'line\_item' in the code 
 
 ![Thank you for your purchase Demo Store Checkout](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/04/Thank-you-for-your-purchase-Demo-Store-Checkout.png)
 
-### Digital Product Storage
-
+ Digital Product Storage
+-----------------------
 The digital storage provided in the Multivendor Marketplace for Shopify depends on the plan that you have activated:
 
 *   Pro Plan ($60/month)- 15 GB digital storage

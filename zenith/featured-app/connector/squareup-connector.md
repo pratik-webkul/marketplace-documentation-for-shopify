@@ -22,8 +22,8 @@ You can enable the **Squareup connector** from the “**Feature App**” section
 
 Let's explore the connector in detail.
 
-### Features
-
+ Features
+---------------------
 *   Sellers can connect their Square POS to the admin's Shopify store.
 *   **Auto-Sync** Option:- To sync all the newly added products of the seller's Squareup store will be auto-synced with the admin's Shopify store.
 *   Option to re-sync the products from the product listing section.
@@ -31,8 +31,8 @@ Let's explore the connector in detail.
 *   Marketplace sellers can import their Square POS products to the admin's store.
 *   The sellers can now have multiple variant options in a product synced from Squareup into the multi-vendor marketplace app.
 
-### How to enable this feature app?
-
+ How to enable this feature app?
+----------------
 Go to the Feature app section and enable the Squareup connector feature app.
 
 ![Dashboard](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/11/Home-Admin-1.png)
@@ -45,8 +45,8 @@ Click the **Enable** button.
 
 This way, you can install the Squareup connector in the app.
 
-### Squareup Connector Configuration: Admin End
-
+ Squareup Connector Configuration: Admin End
+--------------------------------------
 After enabling the Squareup feature app, a new menu appears under the **Configuration** menu i.e. **Squareup App Configuration**.
 
 You need to configure the Squareup app details for the seller's Squareup store.
@@ -63,8 +63,8 @@ From the app, you will get the credentials that are required to configure the ap
 
 You can create an app on your own or [**request**](https://webkul.uvdesk.com/en/customer/create-ticket/) to create the app.
 
-### How to Create an App on SquareUp?
-
+ How to Create an App on SquareUp?
+-------------------------
 You can follow the below-given steps to create an app on Square up:-
 
 *   Log in to [**Squareup**](https://squareup.com/).
@@ -85,7 +85,7 @@ Now, enable the **Production mode** settings and get the credentials to configur
 ![Square-Developer-Portal-3](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/04/Square-Developer-Portal-3-1057x1024.png)
 
 Note
-----
+
 
 Make sure to change the API Version suggested in the app. You need to click the **Change Version** button & select the version: **(_2019-09-25_)**
 
@@ -97,8 +97,8 @@ Clicking the version, you can select the version **(_2019-09-25_)** from the dro
 
 This way, you can end up creating an app on Squareup. Now, you need the app credentials to configure the square up settings for your sellers on the multivendor app.
 
-### How to Get the Squareup App Credentials?
-
+ How to Get the Squareup App Credentials?
+----------------------
 After creating the Squareup app, all the credentials will be available to configure the settings. Let's see how to get each of them.
 
 1.  **Application ID**  
@@ -126,8 +126,8 @@ For more details, [**Click here**](https://developer.squareup.com/docs/webhooks-
 
 So, let's see how to create a webhook.
 
-### How to Create Webhook?
-
+ How to Create Webhook?
+---------------------
 Creating a webhook will provide you the signature key to configure the Squareup app details for sellers in the Multi-vendor App. To get the hit, perform the below-given steps & add a webhook:-
 
 *   Log in to **Squareup**.
@@ -173,8 +173,8 @@ Details Saved Successfully:-
 
 Now, let's proceed to check the functionalities on the Seller end.
 
-### Squareup Configuration: Seller End
-
+ Squareup Configuration: Seller End
+---------------------------
 As soon as the admin enables the Squareup feature, a new sub-menu gets added to the **Configuration** menu of the app i.e. **Squareup Configuration**.
 
 ![seller end](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/11/Dashboard-Seller-%E2%80%A2-Multivendor-MarketPlace.png)
@@ -208,8 +208,8 @@ Moreover, the seller will click the **import products** button to import previou
 
 ![configuration details](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/11/Squareup-Details-Seller-%E2%80%A2-Multivendor-MarketPlace-1-2.png)
 
-### Map Collection
-
+ Map Collection
+-----------------------
 Before the product import, the seller needs to map the admin's store collection with the collections of his/her Squareup store.
 
 **Note**:- Make sure that the admin has enabled the “**Restrict Collection**” tab from the multi-vendor admin panel.
@@ -228,8 +228,8 @@ Finally, all the mapped collections will be listed like this:-
 
 This way, sellers can map collection.
 
-### Import Products
-
+ Import Products
+-----------------------
 After all these settings, the seller will proceed to import products from his/her Squareup store to the admin's Shopify store.
 
 Clicking the **Import Product** button, the seller will enter the **comma-separated product IDs** (that the seller wants to import).
@@ -253,8 +253,8 @@ After that, all the imported products will be listed in the "**Approval Pending 
 
 ![enable sync ](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/11/Product-Admin-1.png)
 
-### Create Price Rule
-
+ Create Price Rule
+--------------------
 Let the sellers create price rules to manage the product price of the seller's Square up POS to the merchant’s store.
 
 ![configure](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/11/Dashboard-Seller-%E2%80%A2-Multivendor-MarketPlace-2-1200x627.png)
@@ -275,8 +275,8 @@ Enable the checkbox to update the already synced product’s price at the mercha
 
 As shown above, through this way, sellers can create price rules from their respective seller panels based on which product price of the seller’s POS will be calculated at the merchant’s store.
 
-### Sync Orders
-
+ Sync Orders
+-----------------------
 Orders can now be created in Seller’s Squareup through the Squareup Connector feature app.
 
 You can choose if you want to create an order on the seller’s Squareup Store or not. For this, you need to visit the admin panel>>Connector Configuration>>Enable **Sync Order** tab.

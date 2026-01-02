@@ -20,8 +20,8 @@ This feature app is available only with the Multivendor **Pro** **Plan** ($6
 
 DELHIVERY SHIPPING FEATURE APP IS AVAILABLE BOTH FOR **RATE CALCULATION** & **FULFILLMENT**.
 
-### Installation
-
+ Installation
+-------------------------
 Enable the following app by visiting:
 
 *   Multi-Vendor **Admin Panel**
@@ -32,8 +32,8 @@ Enable the following app by visiting:
 
 ![delhivery shipping](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/06/image-41-1200x621.png)
 
-### Configuration: Admin End
-
+ Configuration: Admin End
+----------------------
 Firstly, the admin needs to enable this shipping method from the shipping configuration.
 
 So, for this, visit **Multivendor Marketplace Admin Panel** > **Configuration** > **Shipping Methods**. 
@@ -42,8 +42,8 @@ Click on the **three dots** under the **Action** menu & further, click on 
 
 ![delhivery shipping](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/06/image-42-1200x624.png)
 
-### Delhivery Configuration
-
+ Delhivery Configuration
+--------------------------
 Moving on, the admin needs to configure the shipping. So, for this, visit **Multivendor Marketplace Admin Panel** > **Configuration** > **Delhivery Configuration**.
 
 On the following page, configure the following details:
@@ -62,8 +62,8 @@ On the following page, configure the following details:
 
 ![delhivery shipping](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/06/image-44-1200x550.png)
 
-### Set Shipping Method For Sellers
-
+ Set Shipping Method For Sellers
+--------------------------------
 The admin can further set the shipping methods for his sellers. Go to **Multi vendor marketplace admin panel** > **Sellers** > **Seller Listing** > **Edit** (under **Action**). 
 
 On the edit seller page, the admin will have the following block from where he can enable/disable/set as default:
@@ -82,23 +82,23 @@ Here, clicking on the ‘Edit’ button for a particular seller will redirect yo
 
 from where you can disable the following shipping method for that seller (as shown previously in this blog).
 
-### Make **Shipping** **Address Phone Number** Mandatory
-
+ Make **Shipping** **Address Phone Number** Mandatory
+-------------------------------------
 To use this feature add-on, the admin needs to make the **shipping** **address phone number mandatory** at the time of **checkout**.
 
 So, to do this, go to **Shopify Backend** > **Settings** > **Checkout** > Under **Form Options**, make **Shipping** **address phone number** as **Required**:
 
 ![133](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/09/demo-store-Checkout-Shopify-1200x597.png)
 
-### Configuration: Seller End
-
+ Configuration: Seller End
+----------------------------
 Further, the seller can configuration shipping from his panel.
 
 Go to **Multi-Vendor Marketplace Seller Panel** > **Configuration** > **Shipping Method** > **Enable**/**Disable** the shipping:
 
 ![delhivery shipping](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/06/image-48-1200x624.png)
 
-Furthermore, the seller can set the shipping method as **by def****ault** so that every single product created by him will have **Delhivery** as the **by de**f**ault shipping method**.
+Furthermore, the seller can set the shipping method as **by default** so that every single product created by him will have **Delhivery** as the **by default shipping method**.
 
 Clicking on ‘**Set As Default**‘ will give you the following dialogue box:
 
@@ -116,16 +116,16 @@ So, go to **Multi-vendor marketplace seller panel** > **Products** >**Produc
 
 ![delhivery shipping](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/06/image-50-1200x606.png)
 
-### **Global Configuration**
-
+ **Global Configuration**
+---------------------
 Further, click on the **Global Configuration** menu on the **Shipping method** page. From here, the seller can do the **SHIPPING PACKET CONFIGURATION**:
 
 **Note**: It is mandatory to save the global configuration atleast once.
 
 ![Shipping-Configuration-Seller-•-Multivendor-MarketPlace-2](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/09/Shipping-Configuration-Seller-%E2%80%A2-Multivendor-MarketPlace-2-1200x597.png)
 
-### GENERATE PICKUP REQUEST
-
+ GENERATE PICKUP REQUEST
+----------------------------------------
 Now, the seller can generate pick up requests for the delhivery of all fulfilled orders at once.  
 Just redirect to same page i.e.
 
@@ -147,8 +147,8 @@ Note:-
 
 2\. You can only generate a pickup requests once in 24 hrs.
 
-### Shopify Store Frontend
-
+ Shopify Store Frontend
+------------------
 The customer will have an option to select the shipping method as per configured from the backend after entering the information:
 
 ![delhivery shipping](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/06/image-51-1200x615.png)

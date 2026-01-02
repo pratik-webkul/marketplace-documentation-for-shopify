@@ -16,8 +16,8 @@ After that, proceed to approve the charge of $25 USD per month over and above yo
 
 Let's understand more about this feature:
 
-### Features
-
+ Features
+-----------------------
 *   Sellers can sync their WooCommerce Store's Products with the admin's Store.
 *   Your seller needs to have a WooCommerce Store to use this feature. Sellers can import the products from their store to the admin's store.
 *   Also, allow your sellers to import their products using any of the 3 distinctive methods i.e. by selecting the date range, by product ID, or by Product Slug.
@@ -25,7 +25,7 @@ Let's understand more about this feature:
 *   Admin can anytime enable or deny the products imported by the seller.
 *   Once approved by the admin, sellers can sell those products on your Store.
 *   Moreover, product Inventory gets updated automatically on the admin's Store once an order is created on Seller's WooCommerce Store.
-*   **[Slot Pricing](https://webkul.com/blog/shopify-multivendor-marketplace-slot-pricing/) is compatible** with this connector.
+*   **[Slot Pricing](/zenith/featured-app/marketplace-product-add-ons/slot-pricing) is compatible** with this connector.
 *   Now, both admin & seller can sync the seller’s products in any state from the “Product Listing” section of their respective panels.
 
 ![woocommerce](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/11/Product-Admin-2-1200x597.png)
@@ -34,8 +34,8 @@ An email notification will be sent to the sellers for invalid variants in Import
 
 ![Screenshot-3](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/04/Screenshot-3.png)
 
-### Eligibility Criteria for Product Import
-
+ Eligibility Criteria for Product Import
+--------------------
 To import the products from seller's Woocommerce store into your marketplace, please ask your sellers to check if the product is eligible for all the following criteria or not:-
 
 Eligibility for a product to be imported into the multivendor app as well as on Shopify stores:-
@@ -70,8 +70,8 @@ Store URL must return with "200 or 201 OK" status for successful integration wit
 Also **NOTE**:-  
 No of Woocommerce Product's attributes will be equal to its Variant's attributes count. Otherwise, Products will not be synced properly & products will not get published to your store.
 
-### How to activate
-
+ How to activate
+-----------------
 Now, to activate this feature, you first need to visit the Feature Apps section of the Multivendor App. There, you will get this app namely "WooCommerce Connector".
 
 **Feature Apps:**
@@ -103,8 +103,8 @@ Note:- Now, Auto approve product functionality will also work for products impor
 
 Auto approve product option, you can enable from admin panel >> configuration >> product configuration.
 
-### Sync Orders
-
+ Sync Orders
+----------------
 Orders can now be created in Seller's Woo Commerce store through the WooCommerce Connector feature app.
 
 You can choose if you want to create an order on the seller’s WooCommerce Store or not. For this, you need to visit the admin panel>>Connector Configuration>>Enable **Sync Order** tab.
@@ -130,8 +130,8 @@ Even, the admin will get a reference order number like below that will show orde
 
 ![screenshot_from_2022_12_27_12_51_33-5](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/02/screenshot_from_2022_12_27_12_51_33-5-1200x595.png)
 
-### WooCommerce Configuration
-
+ WooCommerce Configuration
+-------------------
 Once you enable this feature on your marketplace, a new menu gets added in the configuration section. i.e. WooCommerce Configuration.
 
 ![WooCommerce15](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/09/Dashboard-Seller-•-Multivendor-MarketPlace.png)
@@ -150,16 +150,16 @@ Your sellers need the following details:
 
 ![WooCommerce16](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/09/Woo-Commerce-Details-Seller-•-Multivendor-MarketPlace-1.png)
 
-### Enter Language ISO Code
-
+ Enter Language ISO Code
+----------------
 If the seller has any language restriction on their respective WooCommerce store, they can add ISO code of the language in the option provided:-
 
 ![Screenshot-2021-07-29T170706.760](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/07/Screenshot-2021-07-29T170706.760.png)
 
 Suppose if the seller's store is in English language, enter **ISO as "en"** else, **enter "all"** if the seller's WooCommerce store supports multi-languages.
 
-### How to get API & Secret Key?
-
+ How to get API & Secret Key?
+----------------
 In Order to get the API key and secret key, Sellers need to login to their WordPress account and visit the WooCommerce store.
 
 ![WooCommerce115](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/09/Dashboard-%E2%80%B9-WP-D-V-%E2%80%94-WordPress.png)
@@ -182,8 +182,8 @@ That is, whenever an order is created or product is created/updated/deleted at S
 
 Coming back to the Multivendor App again, Seller can now map admin's product Categories & Tags with his/her own WooCommerce categories & product tags.
 
-### Category Mapping
-
+ Category Mapping
+----------------
 From this section, Seller will map admin’s pre-defined store collections with seller’s WooCommerce Collection.
 
 **Note**:- Make sure that admin has enabled the “Restrict Collection” tab from MV admin panel.
@@ -213,8 +213,8 @@ Clicking on the Map Tags button, Seller will enter the product tag created by ad
 
 This will be a One to Many Mapping.
 
-### How to Add Webhooks?
-
+ How to Add Webhooks?
+------------------------------------------------------------------
 Once done, Seller needs to register Webhook to update the Product Inventory automatically on Shopify Store once any order is created on his/her WooCommerce Store.
 
 In addition to it, if an order is edited/deleted on WooCommerce, the same will be updated/deleted on the Multivendor App too.
@@ -233,8 +233,8 @@ This is the complete configuration of this app.
 
 Once done, let's see how Sellers import Products from WooCommerce Store to admin's Shopify Store.
 
-### Import Products from WooCommerce to Shopify
-
+ Import Products from WooCommerce to Shopify
+----------------------------------------
 Now, after the configuration, sellers can easily sync their WooCommerce Store's products to your Shopify store and thus on Marketplace.
 
 Once the seller configures WooCommerce details on his/her end, he/she will get an option to **Import Products**.
@@ -256,8 +256,8 @@ In this way, Sellers can import their Woo-Commerce Store's products to admin's S
 
 Now, you can view the products in the Product Listing section of their respective panel.
 
-#### **Admin End**
-
+ **Admin End**
+-----------------
 ![WooCommerce19](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/09/Product-Admin.png)
 
 ![WooCommerce10](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/09/Product-Seller-•-Multivendor-MarketPlace.png)
@@ -273,8 +273,8 @@ Here, the products will remain in Pending State until you approve or deny the pr
 
 Now, once the admin denies any product, he needs to mention the reason for the same.
 
-### Create Price Rule
-
+ Create Price Rule
+-------------
 Let the sellers create price rules to manage the product price of their WooCommerce store to the merchant’s store.
 
 Now, the sellers will have a new menu named **Connector Price Rule** in the configuration menu of the app.

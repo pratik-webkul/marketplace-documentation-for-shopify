@@ -18,8 +18,8 @@ Features
 *   Sellers can sync their Amazon Store’s Products manually with the admin’s Store.
 *   Sellers can import their products via reports and create /update them on the marketplace in bulk.
 
-### How to Activate?
-
+ How to Activate?
+----------------------
 To activate the Amazon Connector feature app, first, you need to visit the Feature Apps section of the Multivendor App.
 
 ![Amazon1](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/10/Amazon1-1200x586.png)
@@ -34,8 +34,8 @@ Now, upon clicking on the enable button, you will need to choose the plan that s
 
 Please proceed to authorize the additional charge for this feature app. Once we approve it, we will seamlessly integrate the feature into the Multivendor app.
 
-### Product Sync Configuration
-
+ Product Sync Configuration
+----------------------
 Sync the changes to the marketplace once the sellers make updates in their Amazon store.
 
 For this, you need to visit the marketplace Admin panel >> configuration >> connector configuration
@@ -50,8 +50,8 @@ You can now choose the product details you wish the seller can manually sync fro
 
 ![Amazon6](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/10/Amazon6-1200x586.png)
 
-### **Charge Tax on Product**
-
+ **Charge Tax on Product**
+-------------------
 From the Connector Configuration, you can choose how you want to charge taxes on products synced with the seller’s Amazon store.
 
 You can choose to charge tax on products. You can choose whether to apply the tax rates from your Shopify store or from the seller’s Amazon store.
@@ -60,8 +60,8 @@ Also, You can choose “not to charge taxes” on the products.
 
 ![screenshot_1696849425967](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/10/screenshot_1696849425967-1200x586.png)
 
-### Amazon Configuration: Seller end
-
+ Amazon Configuration: Seller end
+-----------------------------
 The vendor now needs to configure the Amazon credentials on their seller panel.
 
 They must visit the marketplace seller panel >> Configuration >> Amazon configuration for this.
@@ -106,8 +106,8 @@ The other details that need to be configured here are -
 
 **Currency:** The currency used in the seller's Amazon store.
 
-### Amazon Reports
-
+ Amazon Reports
+-------------------------
 Once the seller has configured the Amazon details, they will have the option to view and import reports from Amazon.
 
 Amazon provides reports and on the basis of their reports we can import the products from Amazon
@@ -142,16 +142,16 @@ Now, the product will be created in the Admin panel, where the Admin can enable 
 
 ![screenshot_1697042153827](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/10/screenshot_1697042153827-1200x586.png)
 
-### Product Update
-
+ Product Update
+---------------------------------
 Once the product is created in the marketplace panel, the sellers will then have an " update" option.
 
 Using this option the sellers can sync the changes made in the Amazon seller central to their marketplace manually.
 
 ![screenshot_1697100476054](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/10/screenshot_1697100476054-1200x586.png)
 
-### Connector Price Rule & Currency Conversion
-
+ Connector Price Rule & Currency Conversion
+-----------------------
 Seller will select the Seller Sync App from the drop-down menu for currency conversion & price rule:
 
 ![screenshot_1697042797316](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/10/screenshot_1697042797316-1200x586.png)

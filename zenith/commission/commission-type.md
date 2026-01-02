@@ -1,4 +1,11 @@
-**Commission Types**:-  In [Multivendor Marketplace app for Shopify](https://marketplace-doc.webkul.com/zenith/introduction/) commission is the admin/merchant share from the seller/vendor's total earnings.
+---
+title: Commission Types
+description: Commission Types
+author: Chirag Tyagi
+---
+
+
+**Commission Types**:-  In [Multivendor Marketplace app for Shopify](/zenith/introduction/) commission is the admin/merchant share from the seller/vendor's total earnings.
 
 Admin can charge any commission(Like Global, seller commission, etc.) in the following 4 ways:-
 
@@ -14,8 +21,8 @@ Check the below video of Commission setup:
 
 So let's understand its workflow:-
 
-### SETTING UP GLOBAL COMMISSION
-
+SETTING UP GLOBAL COMMISSION
+----------------------------
 To set up the global commission you need to visit the Commission section in the main menu of the multivendor marketplace app.
 
 Admin Panel>> Commissions->> Global commission settings->> Choose the commission type and enter the commission value->> Save
@@ -63,8 +70,8 @@ Here Firstly "Percent commission" will deduct from product base price=(1000-20%\
 
 So Vendor Share: USD 700 and Merchant Share: USD 300
 
-### Setting Up SELLER COMMISSION
-
+ Setting Up SELLER COMMISSION
+------------------------------
 
 Admin Panel->>Commissions->>Seller commission settings->> Add commission to sellers>> Enter seller email, Choose the commission type and Enter commission value->> Save
 

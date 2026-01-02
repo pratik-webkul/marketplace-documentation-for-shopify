@@ -14,8 +14,8 @@ An order management system using which you can spend less time on order processi
 **Pricing of the connector:  
 **This feature will have an additional charge of **USD 25 per month** over & above your current Multivendor Marketplace plan.
 
-### Purpose of this connector:
-
+ Purpose of this connector:
+------------------------
 Here are all the things that you can allow your sellers to sync once they connect their Linnworks store with the Marketplace:
 
 The sellers can sync and auto-update the product **name**, **inventory**, **price**, **image**, **description**. Also, all the details regarding the orders can also be synced.
@@ -24,8 +24,8 @@ Any changes done on the seller's Linnworks store can be auto-updated on the Mark
 
 Admin can also decide how he wants to charge tax on the products.
 
-### Admin Panel: Installation & Configuration
-
+ Admin Panel: Installation & Configuration
+-----------------------
 Visit **Multivendor Admin Panel** > **Feature Apps** \> **Enable** the add-on:
 
 ![Feature-Apps-Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/08/Feature-Apps-Admin-1200x597.png)
@@ -38,8 +38,8 @@ Visit **Multivendor Admin Panel** > **Configuration** > **Linnworks** **Configur
 
 At the end of this page, you will have the Manifest that you can download. You will need them at the time you'll create an app on Linnworks.
 
-### How to get Application ID, Secret & Installation URL?
-
+ How to get Application ID, Secret & Installation URL?
+---------------------------------
 Visit [](https://developer.linnworks.com/)[developer.linnworks.com/](https://developer.linnworks.com/) and login:
 
 ![Sign-In-Linnworks-Developer-Portal](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/08/Sign-In-Linnworks-Developer-Portal-1200x592.png)
@@ -75,7 +75,7 @@ Also, these fields which will be found only once in the manifest:
 "name": "ChannelFriendlyName",  
 "value": ""  
 },  
-{
+
 
 Maximum length is 20 characters.
 
@@ -87,8 +87,8 @@ Under the General tab, you will have the Application ID, Secret & Installation U
 
 Furthermore, add these to the Linnworks Configuration page of the Marketplace App.
 
-### Connector Configuartion
-
+ Connector Configuartion
+------------------
 Visit **Multivendor Admin Panel** \> **Configuration** > **Connector Configuration**:
 
 ![Connector-Configurations-Admin-2](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/08/Connector-Configurations-Admin-2-1200x848.png)
@@ -116,8 +116,8 @@ Next, choose how you want to charge tax on products:
 
 ![Connector-Configurations-Admin-3](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/08/Connector-Configurations-Admin-3-1200x898.png)
 
-### Seller Panel: Configuration
-
+ Seller Panel: Configuration
+------------------
 The sellers need to visit **Multivendor Seller Panel** > **Configuration** > **Linnworks Configuration**:
 
 Further, they need to download **Shopify Linnworks App**:
@@ -136,8 +136,8 @@ Once installed, you will have this success message:
 
 ![Linnworks-net-Authorize-Application-2](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/08/Linnworks-net-Authorize-Application-2-1200x597.png)
 
-### Channel Integration
-
+ Channel Integration
+------------------
 Visit [linnworks.net](https://www.linnworks.net/) & go to **Settings** > **Channel Integartion**:
 
 ![Homepage-www-linnworks-net](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/10/Homepage-www-linnworks-net-1200x597.png)
@@ -194,8 +194,8 @@ Lastly, the imported products will be listing under product listing section. The
 
 ![Product-Seller-•-Multivendor-MarketPlace](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/08/Product-Seller-%E2%80%A2-Multivendor-MarketPlace-1200x597.png)
 
-### Connector Price Rules
-
+ Connector Price Rules
+------------------
 Visit **Multivendor Seller Panel** > **Configuration** > **Connector Price Rule** > Set up **Price Rule**:
 
 **What is a Price Rule?  

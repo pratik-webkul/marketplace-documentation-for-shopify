@@ -5,7 +5,7 @@ date: 2025-07-20
 author: Chirag Tyagi
 ---
 
-With [Multivendor Marketplace](https://webkul.com/blog/shopify-multivendor-marketplace-new-theme-launched/) App, You can convert your store into a marketplace where multiple sellers can register and sell their products all over the globe.
+With [Multivendor Marketplace](/zenith/introduction/) App, You can convert your store into a marketplace where multiple sellers can register and sell their products all over the globe.
 
 You might know about [Etsy](https://www.etsy.com/), a well-known online global marketplace that focuses on selling handmade goods and vintage items.
 

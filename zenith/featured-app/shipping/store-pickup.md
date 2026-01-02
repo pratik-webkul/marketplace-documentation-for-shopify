@@ -22,8 +22,8 @@ This feature app is at the monthly charge of **$10 USD per month** in addition t
 
 **Important Note:-** In order to make this feature work please make sure that you are using the [Shipping feature](/zenith/featured-app/overview) of the Multivendor app.
 
-### Additional Features
-
+ Additional Features
+---------------------------
 *   Admin can allow his sellers to provide order pick-up option to the customers.
 *   Once the admin enables this feature, the seller will get an option to configure store pickup details.
 *   You can allow your sellers to provide both pick-up and delivery option to the customers.
@@ -33,11 +33,11 @@ This feature app is at the monthly charge of **$10 USD per month** in addition t
 *   You can allow customers to avoid shipping rates through this app.
 *   Admin can minimize the return and exchange of orders.
 *   You can provide a profitable shopping experience for your customers.
-*   **[Multi-location+Store Pickup](https://webkul.com/blog/multi-vendor-marketplace-for-shopify-multilocation-inventorystore-pickup/)** option available.
+*   **[Multi-location+Store Pickup](/zenith/featured-app/marketplace-miscellaneous-add-ons/multi-location-inventory)** option available.
 *   Store Pickup feature app is now compatible with the [Postcode shipping](https://webkul.com/blog/postcode-shipping-multi-vendor-marketplace-for-shopify/) feature app.
 
-### How to Activate?
-
+ How to Activate?
+---------------------
 In order to make this feature app work on your Marketplace, first, you need to enable this feature from the "Featured Apps" section.
 
 ![Dashboard_Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/05/Dashboard_Admin-1200x627.png)
@@ -56,8 +56,8 @@ Once you agree with this charge proceed further to approve the charge and finall
 
 In this way, you can enable this featured app. Let's see how to configure the app.
 
-### Admin Panel
-
+ Admin Panel
+--------------------
 Once you activate this featured app on your store, a new menu gets added to the Configuration.  
 Multi-vendor Admin panel>>Go to Configurations\>>Click "**Store Pickup Configuration**" menu.
 
@@ -71,8 +71,8 @@ Also, enable the tab to show the store pickup location name to the customers.
 
 The settings configured here will appear by default to all the registered sellers while adding the store pickup option.
 
-### Notification Email After Capture Payment
-
+ Notification Email After Capture Payment
+--------------------
 In case you want to let customers notified via email for pickup products after the payment is captured for the paid orders,
 
 You can enable this option in the Store Pickup Configuration.
@@ -83,8 +83,8 @@ Once the Store Pickup feature app is enabled, a " Store Pickup" Column will be v
 
 ![screenshot_1696415802665](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/10/screenshot_1696415802665.png)
 
-### Seller End Configuration
-
+ Seller End Configuration
+-----------------------
 The sellers will get the option to enable the Store Pick up from their seller panel.
 
 For this, the seller needs to visit the **Configuration** section of the seller panel where they can configure the store pickup details.
@@ -143,8 +143,8 @@ Now once the seller configures the store pickup details on his/her panel, admin 
 
 This can be possible only when the admin will configure the settings on his/her panel.
 
-### Configure FrontEnd
-
+ Configure FrontEnd
+----------------
 In order to show the store pickup option on product description page, admin needs to paste the given code into its respective template file.
 
 ![Instruction](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/08/Dashboard-Admin-1-1.png)
@@ -163,8 +163,8 @@ Once you pasted the code, your customers can get the store pickup options on fro
 
 Let's see how it will be visible on frontend.
 
-### Visibility on Front End
-
+ Visibility on Front End
+-----------------
 By default, there will be two options visible to the customers on frontend if the seller has not selected the pickup option as "Store Pick-up Only".
 
 If the customer selects the "Delivery" option, by default the same order process will be applied as per the marketplace app (i.e. Shipping is applied as per the rule).
@@ -233,8 +233,8 @@ This is all about the **Split Cart+ Store Pickup f**eature.
 
 [**CHECK THE DEMO**](https://multivendor-store-pickup.myshopify.com/products/headphones)
 
-### Store Pick Up & Address Detail for Customer
-
+ Store Pick Up & Address Detail for Customer
+-----------------------
 As the sellers can see the Store Pick up status & address details on their order detail page, the customers can also view the status & store pick up address on their respective "**My Account**" section.
 
 To make this option visible for the customers, you need to visit the Instruction for Marketplace section of the app and get the codes.
@@ -251,8 +251,8 @@ The **Get Direction arrow** will redirect the customer to the **Google Map** to 
 
 This way, the customer can check the direction of the store pickup location.
 
-### Store Pickup Compatible with Hyperlocal Marketplace
-
+ Store Pickup Compatible with Hyperlocal Marketplace
+------------------------
 The [Hyperlocal Marketplace](https://webkul.com/blog/hyperlocal-marketplace-multi-vendor-marketplace-for-shopify/) feature app allows you to restrict the seller's service area to a particular geographical reason.
 
 Now, the customers will get the location based on the address & radius configured by the sellers.
@@ -285,16 +285,16 @@ Customer will select a location for store pickup:
 
 ![customer end](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/04/Screenshot9-1200x622.png)
 
-### Filter Option on Seller Listing Page
-
+ Filter Option on Seller Listing Page
+-----------------------------
 The customers can now filter the sellers based of the store pickup service provided by them.
 
 In the seller listing page, the customer can filter if a seller is offering store pickup+delivery of their products or only the store pickup option.
 
 ![Seller_Profile_–_sanjay_store1](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/05/Seller_Profile_%E2%80%93_sanjay_store1-1200x627.png)
 
-### Display Location Name
-
+ Display Location Name
+--------------------------
 You can now choose whether you want to show the name of the store pickup location name on the cart page as well as on the order detail page or not.
 
 Once you enable this option, the location name will be visible to the customers on the cart page while placing an order.
@@ -313,8 +313,8 @@ Both you can your sellers can view the location details from the order detail se
 
 ![order detail](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/06/Order_Details_Admin-1-1200x575.png)
 
-### Store Pick up with Multiple Shipping
-
+ Store Pick up with Multiple Shipping
+----------------------------
 In case you are using the **[Multiple Shipping](https://webkul.com/blog/shopify-multiple-shipping/)** feature, you can allow sellers to add more than 1 shipping option for a product.
 
 Thus, the customers can choose shipping rates on the product page or cart page in case the "Delivery" option configured with the **Store Pickup** Feature App.
@@ -337,8 +337,8 @@ Moreover, you can display the shipping methods on the checkout page as shown in 
 
 ![Screenshot-2020-10-16T123941.723](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/10/Screenshot-2020-10-16T123941.723-1200x592.png)
 
-### Compatibility with "Product auction app":
-
+ Compatibility with "Product auction app":
+-------------------------------
 Now, the store pickup app is compatible with [product auction app for shopify](https://webkul.com/blog/shopify-product-auction/).
 
 This will allow customers to choose their delivery preference while placing bid if the seller has applied storepickup on their products.

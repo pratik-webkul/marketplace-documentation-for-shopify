@@ -20,8 +20,8 @@ To make the shipping feature work, you need to choose the Shopify store plan whi
 
 THIS SHIPPING FEATURE APP IS USED **ONLY FOR FULFILLMENT**.
 
-### How to Enable Shiprocket Shipping Feature?
-
+ How to Enable Shiprocket Shipping Feature?
+-------------------------
 To enable the feature app, all you need is to visit the “**Featured Apps**” section of the admin panel and enable it from there.
 
 ![Home-_-Admin-2](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/featuredapps.webp)
@@ -30,8 +30,8 @@ Once you click on “Feature Apps”, you will get the list of apps listing in t
 
 ![feature_apps___admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/shprckt.webp)
 
-### **Workflow**
-
+ **Workflow**
+---------------------
 ### ADMIN END
 
 Once you enable the feature app, a new sub-menu named Shiprocket configuration is added to the configuration menu of the app.
@@ -67,8 +67,8 @@ Shipping label cost borne by:- Admin will bear the Shipping label cost.
 
 **NOTE\-** The Shiprocket API configure token will be generated automatically once these configurations are saved
 
-### How to get Shiprocket API Email id and Password?
-
+ How to get Shiprocket API Email id and Password?
+--------------------
 Firstly, you need to log in to the Shiprocket shipping: [https://app.shiprocket.in/login](https://app.shiprocket.in/login)
 
 **Note**\- You need to have an API account on the **Shiprocket**.
@@ -81,8 +81,8 @@ Once you login into your shiprocket account, you will be redirected to the dashb
 
 Like this, you will get the details and configure the same in the app to make the Shiprocket shipping work.
 
-### Seller Panel Configuration
-
+ Seller Panel Configuration
+---------------------
 Once you configure these details, the sellers will also get the option to enable the Shiprocket shipping from the **Shipping Configuration** menu of their seller panel.
 
 ![Shipping-Configuration-_-Seller-•-Multivendor-MarketPlace](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/01/Shipping-Configuration-_-Seller-%E2%80%A2-Multivendor-MarketPlace-1200x597.png)
@@ -95,8 +95,8 @@ Configure Width, height, length, girth, and weight.
 
 Now, the seller can fulfill the orders using the Shiprocket shipping courier service.
 
-### Verify the pickup location.
-
+ Verify the pickup location.
+--------------------
 Once the seller enables the shiprocket shipping, a pickup location is created on the shiprocket dashboard. It is mandatory to verify the pickup location address that is created.
 
 The verification is done either by the OTP or by IVR call.
@@ -113,8 +113,8 @@ The Settings>>Pickup address>>Manage pickup address.
 
 This new location will be used as a primary location.
 
-### Order Fulfillment
-
+ Order Fulfillment
+------------------
 **The** **Mandatory conditions for order fulfillment**\-
 
 *   The Contact number is mandatory.
@@ -140,8 +140,8 @@ The seller needs to follow the below-given steps to fulfill the orders:
 
 ![Order-Proceed-_-Seller-•-Multivendor-MarketPlace](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/01/Order-Proceed-_-Seller-%E2%80%A2-Multivendor-MarketPlace-1200x597.png)
 
-### Generate Shipping Label
-
+ Generate Shipping Label
+----------------------
 Both admin and seller can generate the shipping label for the fulfilled orders.
 
 You can configure the shipping Label details from the admin panel>>Shiprocket Configuration.

@@ -309,7 +309,7 @@ Now, while adding products to the marketplace (admin panel or seller panel), you
 
 ![Add-Product-Admin-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/12/Add-Product-Admin-1-1200x627.png)
 
-Know in-depth: [https://webkul.com/blog/minimum-purchase-quantity-multi-vendor-marketplace-for-shopify/](https://webkul.com/blog/minimum-purchase-quantity-multi-vendor-marketplace-for-shopify/)
+[Know in-depth:](/zenith/configuration/minimum-purchase-quantity)
 
 SHOPIFY-MULTIVENDOR PRODUCT SYNC
 --------------------------------------------

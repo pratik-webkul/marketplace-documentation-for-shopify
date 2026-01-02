@@ -4,22 +4,22 @@ description: MARKETPLACE SHIPPING
 date: 2025-07-18
 author: Chirag Tyagi
 ---
-### **Introduction**
-
+ **Introduction**
+---------------------
 **[Multi-vendor Marketplace](/zenith/introduction/)** app now comes with a new simplified way to understand marketplace shipping in the app.
 
 Below guidance will help you to know exactly how shipping works in the app & how the shipping rates will be applied at the checkout. So, Let's proceed to explore.
 
-### **Why Shipping Feature App?**
-
+ **Why Shipping Feature App?**
+-----------------
 As we know by default, the shipping rates are set by the admin on his/her Shopify store which is shown to the customers on the checkout page and the admin can set for seller products also.
 
 But if you want your sellers to add their own shipping rates of their products then we have a featured app named **Shipping**.
 
 In the Multi-vendor Marketplace app, Shipping is set in three ways: Country-wise Shipping, Zone wise Shipping & Postcode wise shipping.
 
-### **What to Choose?**
-
+ **What to Choose?**
+---------------------
 *   If your seller is shipping in different countries with different shipping rates then, you will choose Country-wise shipping.
 *   In case, your seller is shipping in different countries with the same shipping rate then, you will choose Zone wise shipping as the same shipping will be applied for all the countries added to a zone.
 *   And if your seller wants shipping according to postcode with different shipping rates then, you will choose postcode-wise shipping. To know more about **[postcode-wise shipping](https://webkul.com/blog/postcode-shipping-multi-vendor-marketplace-for-shopify/).**
@@ -41,22 +41,22 @@ The shipping methods that you have activated & the shipping type that you set on
 
 Accordingly, the sellers will set the country-wise/zone-wise shipping rates on the basis of the **Price** or **Weight** of the product.
 
-#### **Country wise shipping**
-
+ **Country wise shipping**
+-----------------
 *   Sellers will create the shipping ranges
 *   Add countries
 *   Set the state-wise shipping rates based on the price or weight of the products.
 
-#### **Zone wise shipping**
-
+ **Zone wise shipping**
+-----------------------
 *   First, Sellers will create the shipping ranges
 *   Select the zone (added by the admin).
 *   Then Set the zone-wise shipping rates based on the price or weight of the products.
 
 Let's understand the step-by-step process to install the Shipping feature app & how it works on marketplaces in both cases; Country-wise & Zone wise Shipping.
 
-### Workflow
-
+ Workflow
+--------------------
 #### **STEP 1: Shipping Feature App Installation.**
 
 In order to get the app, first, you need to visit the **[Feature App](https://webkul.com/blog/shopify-multivendor-marketplace-feature-apps/#panel-0)** section of the multi-vendor app and search for the Shipping feature app. Now, click the **Enable** button and activate **Shipping**.
@@ -71,8 +71,8 @@ As soon as you enable the Shipping feature, a sub-menu gets added to the Configu
 
 ![Dashboard-Admin-4](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/11/Dashboard-Admin-4-1200x597.png)
 
-### Shipping Method
-
+ Shipping Method
+-------------------------
 From this section, you can view the list of all the shipping methods that you want to activate on your marketplace.
 
 Here, you can see the **Marketplace shipping** in the list.  
@@ -139,8 +139,8 @@ Next, click on the "Add section" and choose the "Marketplace Shipping Days" opti
 
 ![image-37](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/05/image-37-1200x545.png)
 
-#### **Global** **Configuration on Seller's End**
-
+ **Global** **Configuration on Seller's End**
+----------------------
 If shipping and delivery days have not been configured for a particular state in a country, then in such cases, it will be displayed based on the global configuration.
 
 However, if a specific configuration has been set for the state within that country, it will be displayed accordingly.
@@ -168,8 +168,8 @@ The frontend display will resemble the image shown below.
 
 ![image-40](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/05/image-40-1200x551.png)
 
-### MULTIPLE SHIPPING+COUNTRY WISE SHIPPING
-
+ MULTIPLE SHIPPING+COUNTRY WISE SHIPPING
+---------------------------
 In case you choose **Multiple shipping**, you will have the option to add multiple shipping methods.
 
 ![Configuration-Admin-26](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/11/Configuration-Admin-26-1200x597.png)
@@ -180,14 +180,14 @@ You need to choose whether you want to display the shipping on the cart page or 
 
 ![Configuration-Admin-19](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/11/Configuration-Admin-19-911x1024.png)
 
-### **Zone-wise Shipping**
-
+ **Zone-wise Shipping**
+----------------------
 For zone-wise shipping, you need to configure the zone from the Global Shipping Configuration section.
 
 ![Configuration-Admin-21](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/11/Configuration-Admin-21-1200x597.png)
 
-### **SINGLE SHIPPING+ZONE WISE SHIPPING**
-
+ **SINGLE SHIPPING+ZONE WISE SHIPPING**
+-------------
 ![Configuration-Admin-22](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/11/Configuration-Admin-22-690x1024.png)
 
 ### **MULTIPLE SHIPPING+ZONE WISE SHIPPING**
@@ -202,8 +202,8 @@ Additionally, you can view the list of all the sellers who are using your market
 
 ![View seller details](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/06/Shipping-Admin-1.png)
 
-#### ADMIN ADDING SHIPPING ZONES
-
+ ADMIN ADDING SHIPPING ZONES
+--------------------
 If you select Zone-wise shipping which will let your sellers add zone wise shipping rates then first you need to add zones from your admin panel.
 
 ![Configuration-Admin-18](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/11/Configuration-Admin-18-993x1024.png)
@@ -232,8 +232,8 @@ These zones will be visible to your sellers and sellers can set shipping rates o
 
 Now, let’s see how sellers will add their own shipping rates.
 
-### Set Shipping As Default: Admin End
-
+ Set Shipping As Default: Admin End
+----------------------
 From the S**eller Listing** menu of the app, You can set the **marketplace shipping as a default option** for any of your sellers.
 
 > It is necessary for the sellers to choose a shipping method. Then only shipping rates will be visible to the customers on front end. 
@@ -283,8 +283,8 @@ Even if you have enabled [Multiple Shipping](https://webkul.com/blog/shopify-mul
 
 ![Marketplace-Shipping-Seller-•-Multivendor-MarketPlace-2](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/11/Marketplace-Shipping-Seller-%E2%80%A2-Multivendor-MarketPlace-2-1200x597.png)
 
-### Set Shipping as Default: Seller Panel
-
+ Set Shipping as Default: Seller Panel
+--------------------------
 Similar to admin, sellers can also set the **marketplace shipping as the default option** from their respective seller panels of the Multi-vendor app.
 
 > It is necessary for the sellers to choose a shipping method. Then only shipping rates will be visible to the customers on front end.
@@ -301,8 +301,8 @@ That is how sellers can set **marketplace shipping as the default** shipping met
 
 Now, let’s see how the seller can set shipping rates separately for country wise or zone wise.
 
-### COUNTRY WISE SHIPPING
-
+ COUNTRY WISE SHIPPING
+---------------------
 If your seller is shipping in different countries with different shipping rates then, he/she has to set country-wise shipping.
 
 For this, first, you need to enable the Marketplace Shipping as Country-wise from the Admin Panel>>**Configurations**\>>**Shipping Methods** menu.
@@ -364,14 +364,14 @@ Once done, you need to add google map api keys.
 
 Refer this how to get google map api keys: https://developers.google.com/maps/documentation/javascript/get-api-key
 
-### Seller Panel configuration for distance wise ranges
-
+ Seller Panel configuration for distance wise ranges
+--------------------
 Sellers can then add ranges on the basis of distance.
 
 ![Seller Panel configuration for distance wise ranges](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/05/seller-panel-distange-range-1200x509.webp)
 
-### **Flat Shipping Rate in case of Weight-wise shipping**
-
+ **Flat Shipping Rate in case of Weight-wise shipping**
+----------------------
 If the seller selects range as a weight basis then there is an option to give a flat rate shipping to the customer.
 
 This condition works as per the seller's total products, not the whole cart amount.
@@ -412,8 +412,8 @@ The seller can proceed to manage shipping ranges from there & add new countries 
 
 In case the admin has selected Multiple Shipping and enabled the Country-wise shipping.
 
-### **CASE 2:** COUNTRY-WISE SHIPPING+MULTIPLE SHIPPING
-
+ **CASE 2:** COUNTRY-WISE SHIPPING+MULTIPLE SHIPPING
+--------------------------
 ![Screenshot-2020-11-18T132459.408](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/11/Screenshot-2020-11-18T132459.408-1200x590.png)
 
 A new sub-menu gets added to the seller Configuration menu i.e. **Marketplace Shipping**. From here, you can update the shipping status in case you are using Multiple Shipping.
@@ -428,8 +428,8 @@ From here, the seller will view the Shipping Method and Shipping Type selected. 
 
 This way, a seller can set different shipping rates for different countries based on the Price or weight of the product.
 
-### ZONE WISE SHIPPING
-
+ ZONE WISE SHIPPING
+----------------------------
 Similarly, if the admin has enabled the Zone-wise Shipping from the **Configuration**\>>**Shipping Method** menu of the admin panel,
 
 the seller will configure the **zone-wise shipping rates with Single/Multiple shipping methods** configured.
@@ -515,8 +515,8 @@ This is how the Marketplace Shipping Rates appear at checkout.
 
 ![Screenshot-2021-01-11T105917.777](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/01/Screenshot-2021-01-11T105917.777-1200x522.png)
 
-### Allow Delivery Days for Zone wise Shipping
-
+ Allow Delivery Days for Zone wise Shipping
+-----------------------------
 You can now allow sellers to configure delivery days for zone-wise shipping. Thus, the customers can view the details when the products get delivered to their respective zones.
 
 For that, first you need to enable the tab from the **Shipping Method** menu of the admin panel. Go to the Configuration>>Shipping Methods>>Click **Configure Shipping**\>>Enable the Option.
@@ -529,8 +529,8 @@ Now, enable the tab:
 
 Enabling this option will allow sellers to configure delivery days from their respective seller panels.
 
-#### Seller Panel Configurations:-
-
+ Seller Panel Configurations:-
+--------------------
 The seller will manage the shipping from the "Shipping Configuration" menu of the seller panel.
 
 To configure the delivery days, the seller needs to click the **view** button of the zone-wise shipping menu.
@@ -557,8 +557,8 @@ Finally adding the codes, this is how it appears on the product page of your sto
 
 ![Shipping product page](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/06/Cups_Saucers_%E2%80%93_priyadarshni_store10-1200x627.png)
 
-### Free Shipping Over a Certain Amount
-
+ Free Shipping Over a Certain Amount
+----------------------
 In case you want your sellers to provide free shipping over a certain amount then they can set up the shipping ranges on the basis of price as below:
 
 For example, You can set the shipping ranges as 0-$100, $101-200, $201-300, and in the last shipping range, you can put any higher number like $301 to $5000000.
@@ -575,8 +575,8 @@ $301 to $5000000 shipping rate is zero($0)
 
 This way, if any seller's product falls under $301 to $500000000 range then no shipping rates will be applied to that seller's products.
 
-### **Product-wise fixed rate shipping**
-
+ **Product-wise fixed rate shipping**
+-------------------------
 The Product-wise fixed rate shipping is applied to a particular product one by one, not applied to all products at once.
 
 Check the below video of the Product-wise fixed rate shipping:
@@ -685,8 +685,8 @@ Once enabled, sellers can navigate to the **Add Product** page. they will see an
 
 ![image](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/12/dfgfdfgdf-1200x575.webp)
 
-### Restrict Buyers in Zone-wise Shipping
-
+ Restrict Buyers in Zone-wise Shipping
+-------------------------
 You can now disable the "Add to Cart" & "Buy Now" buttons for any product that has configured Zone-wise shipping rates.
 
 **PURPOSE**  
@@ -792,8 +792,8 @@ Moreover, If the seller is not available to ship at the buyer's location then, a
 
 You can configure the labels in the **"wk-restrict-buyer-liquid"** file under snippets.
 
-### Shipping Label Generation
-
+ Shipping Label Generation
+----------------------------
 Using the Marketplace shipping feature app, you can allow your sellers to generate shipping labels for the fulfilled orders.
 
 As soon as the orders get fulfilled, the seller will get an option to generate a shipping label for their order detail section.
@@ -812,8 +812,8 @@ By clicking on this button, the seller needs to select "**Marketplace Fulfillmen
 
 This way, the sellers can easily generate shipping labels.
 
-### Configure Shipping Label from Invoice Template
-
+ Configure Shipping Label from Invoice Template
+---------------------------------
 You can configure the shipping labels from your admin panel from the **Invoice templates** menu of the app.
 
 ![Invoice_Template_Admin-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/05/Invoice_Template_Admin-1-1200x627.png)

@@ -59,11 +59,11 @@ More interactive dashboard for the Admin and the Sellers both.*   Translation ma
 *   Moreover, he can send emails to the Sellers.
 *   The Admin can now upload the default banners for all his sellers which will be visible on the Seller's profile page.
 *   He can now change the header and footer background colour of the mail templates of the app.
-*   The Admin can now create the subcategories of a particular collection for the product page with the help of our new feature name "[Multilevel collection](https://webkul.com/blog/shopify-multivendor-marketplace-multilevel-collection-setup/)".
-*   Admin can now add the staff members and assign permissions to them to manage the activities on the admin panel with the help of our new feature app named "[Admin staff"](https://webkul.com/blog/shopify-multivendor-marketplace-feature-admin-staff/).
-*   He can also allow his sellers to add the staff to manage the activities on the seller panel with the help of our new feature app "[Seller Staff](https://webkul.com/blog/shopify-multivendor-marketplace-app-seller-staff/)".
-*   Sellers can now disable their products or can sell their products (with a message display) for customers if in case he/she is not available to fulfill the orders with the help of "[Seller Vacation](https://webkul.com/blog/shopify-multivendor-marketplace-seller-vacation-app/)" feature app.
-*   Both admin and Sellers can now add booking products on their end and allow more than one customer to book a slot at a time using the [Booking Product](https://webkul.com/blog/shopify-multivendor-marketplace-booking-app-integration/) feature app which is now integrated with [Booking App for Shopify](https://webkul.com/blog/shopify-booking-app/) by Webkul.
+*   The Admin can now create the subcategories of a particular collection for the product page with the help of our new feature name "[Multilevel collection](/zenith/products/multilevel-collection)".
+*   Admin can now add the staff members and assign permissions to them to manage the activities on the admin panel with the help of our new feature app named "[Admin staff"](/zenith/featured-app/marketplace-miscellaneous-add-ons/admin-staff).
+*   He can also allow his sellers to add the staff to manage the activities on the seller panel with the help of our new feature app "[Seller Staff](/zenith/featured-app/marketplace-miscellaneous-add-ons/seller-staff)".
+*   Sellers can now disable their products or can sell their products (with a message display) for customers if in case he/she is not available to fulfill the orders with the help of "[Seller Vacation](/zenith/featured-app/seller-add-ons/seller-vacation-app)" feature app.
+*   Both admin and Sellers can now add booking products on their end and allow more than one customer to book a slot at a time using the [Booking Product](/zenith/featured-app/marketplace-product-add-ons/booking-product) feature app which is now integrated with [Booking App for Shopify](https://webkul.com/blog/shopify-booking-app/) by Webkul.
 *   Now, Product Custom Fields are also exported in Order export CSV.
 
 ### Understanding the Menus
@@ -102,7 +102,7 @@ From here, the admin can enter the business email, set the currency for the shop
 
 ![General configuration Multivendor Marketplace for Shopify by Webkul](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/08/general-configuration-scaled.webp)
 
-To know about the **Configuration Updates**, Kindly refer: [Click Here](https://marketplace-doc.webkul.com/zenith/configuration/general-configration.html)
+To know about the **Configuration Updates**, Kindly refer: [Click Here](/zenith/configuration/general-configration)
 
 **Product Configuration**
 --------------------------
@@ -113,7 +113,7 @@ Here, you can provide an option to add/edit/delete the products to your sellers,
 
 ![product configuration Multivendor Marketplace for Shopify by Webkul](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/08/productconfig-scaled.webp)
 
-To know about the **Product Updates**, please refer: [Click Here](https://marketplace-doc.webkul.com/zenith/configuration/product-configration.html)
+To know about the **Product Updates**, please refer: [Click Here](/zenith/configuration/product-configration)
 
 **Seller Configuration**
 -------------------------
@@ -124,7 +124,7 @@ From here, you can allow your sellers to fulfill items, enable the option to aut
 
 [![ seller configuration Multivendor Marketplace for Shopify by Webkul](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/08/sellerconfig-scaled.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/08/sellerconfig-scaled.webp)
 
-To know about the **Seller Updates**, Kindly refer: [Click Here/](https://marketplace-doc.webkul.com/zenith/configuration/Seller-configuration.html)
+To know about the **Seller Updates**, Kindly refer: [Click Here:](/zenith/configuration/seller-configuration)
 
 **Order Configuration**
 -------------------------
@@ -152,7 +152,7 @@ You can also set the "Shipping cost" and "Taxes" the way you want to distribute 
 
 ![autopay](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/08/sellerpaymentconfig-scaled.webp)
 
-Check the **Complete Payment Flow** of the Multi-vendor Marketplace App: [Click Here](https://marketplace-doc.webkul.com/zenith/payment/Seller-Payment.html)
+Check the **Complete Payment Flow** of the Multi-vendor Marketplace App: [Click Here to know more about payment flow: ](/zenith/payment/seller-payment)
 
 **Restriction Configuration**
 ---------------------------
@@ -170,7 +170,7 @@ The main purpose of this is to have extra information either from the Seller or 
 
 [![Custom Fields Multivendor Marketplace for Shopify by Webkul](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/08/customfield.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/08/customfield.webp)
 
-Know how to add custom fields in the app: [https://webkul.com/blog/add-custom-fields-on-multi-vendor-marketplace-for-shopify/](https://webkul.com/blog/add-custom-fields-on-multi-vendor-marketplace-for-shopify/)
+[Know how to add custom fields in the app:](/zenith/configuration/custom-fields)
 
 This was all about the App Configuration.
 
@@ -215,7 +215,7 @@ Admin can manage all the fields that are to be shown on the Seller Profile Page.
 
 ![Seller profile page setting Multivendor Marketplace for Shopify by Webkul](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/08/sellerprofilepage-scaled.webp)
 
-To **know more**, kindly refer to this User Guide: [https://webkul.com/blog/shopify-multivendor-marktplace-custom-seller-profile-page-new-theme/](https://webkul.com/blog/shopify-multivendor-marktplace-custom-seller-profile-page-new-theme/)
+[To **know more**, kindly refer to this User Guide:](/zenith/seller/seller-profile-page-settings)
 
 ### Customize Seller Page
 
@@ -230,7 +230,7 @@ From here, admin can manage the Seller Login Page fields, labels, logo and can a
 
 Here the admin can view the list of all the feedback's given by the customer from the Seller Profile Page and the same are managed from here :
 
-[![Feedback Multivendor Marketplace for Shopify by Webkul](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/sellerfeedback.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/sellerfeedback.webp)
+[Feedback Multivendor Marketplace for Shopify by Webkul](/zenith/seller/advanced-seller-policy)
 
 **Seller Policy**
 ------------------
@@ -239,7 +239,7 @@ From this menu, the Admin can customize the Seller Policy if & only if, he has s
 
 ![Seller Policy Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/sellerpolicy.webp)
 
-Know more about the **advanced seller policy**: [https://webkul.com/blog/shopify-multivendor-marketplace-advance-seller-policy-new-theme/](https://webkul.com/blog/shopify-multivendor-marketplace-advance-seller-policy-new-theme/)
+[Know more about the **advanced seller policy**:](/zenith/seller/advanced-seller-policy)
 
 This was all about the Sellers part of the Admin end.
 
@@ -324,7 +324,7 @@ Smart collections are synced this way: 
 
 [![Add Product Multivendor Marketplace for Shopify by Webkul](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/smartcollection.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/smartcollection.webp)
 
-To know more about **Collection Sync**, Please refer: [https://marketplace-doc.webkul.com/zenith/products/Collection-sync.html](https://marketplace-doc.webkul.com/zenith/products/Collection-sync.html)
+To know more about **Collection Sync**, [Please refer to the user guide for collection sync:](/zenith/products/collection-sync)
 
 If you want the seller to view the smart collections then you can disable the "restrict smart collection" from the "Restrict Configuration"
 
@@ -344,7 +344,7 @@ Now make sure to assign these imported products to your sellers because only the
 
 This way you can successfully import the products from your Shopify store into a multivendor marketplace app.
 
-**Import Products from Shopify to the App** know more: [/zenith//products/Import-products.html](https://marketplace-doc.webkul.com/zenith/products/Import-products.html)
+**Import Products from Shopify to the App** [know more about import products:](/zenith/products/import-products)
 
 **Product Form Customization** With this Admin can manage the "Add Product Form" for normal as well as digital products in the app.
 
@@ -411,9 +411,8 @@ The menu helps in managing the invoice layout.
 
 ![Invoice Template ](https://cdnblog.webkul.com/blog/wp-content/uploads/2017/11/15085107/AwesomeScreenshot-Invoice-Template-Admin-2019-07-15-10-07-13.png)
 
-To know about the "INVOICE" feature in detail [Click here.](https://webkul.com/blog/shopify-multivendor-marketplace-invoice-feature-new-theme/)
 
-Know More about **Invoice**: [https://webkul.com/blog/shopify-multivendor-marketplace-invoice-feature-new-theme/](https://webkul.com/blog/shopify-multivendor-marketplace-invoice-feature-new-theme/)
+[Know More about **Invoice**:](/zenith/configuration/invoice-configuration)
 
 That's all about the Order Management menu in the app
 
@@ -459,7 +458,7 @@ After setting this admin can have the commission based on specific collection/ca
 
 Please note that it's applicable only to manual collections not on automated or smart collection.
 
-You can also refer to the user manual of the commission to know about commissions in detail. [**Click here**](https://webkul.com/blog/shopify-multivendor-marketplace-commission-type-new-theme/)
+You can also refer to the user manual of the commission to know about commissions in detail. [**Click here**](/zenith/commission/commission-type)
 
 ### Video Guide: Commissions
 
@@ -576,11 +575,11 @@ Now, You can also edit the table content of the Order Placed Mail templates as s
 
 Admin can now have your own email in the “from” and “reply-to” section of the email sent to the sellers/vendors for the order notification, product approval, etc.
 
-Refer to the [user guide](https://webkul.com/blog/shopify-multivendor-marketplace-smtp-configuration/) for the same.
+Refer to the user guide given below for the same.
 
 ![image](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/mailsmtp-scaled.webp)
 
-To know More, Please refer: [https://webkul.com/blog/shopify-multivendor-marketplace-app-smtp-configuration/](https://webkul.com/blog/shopify-multivendor-marketplace-app-smtp-configuration/)
+[To know More, Please refer:](/zenith/mail-configuration/mail-smtp)
 
 **Mail Counter** 
 ------------------

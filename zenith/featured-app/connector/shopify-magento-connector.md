@@ -4,7 +4,7 @@ description: SHOPIFY MAGENTO CONNECTOR
 date: 2025-07-20
 author: Chirag Tyagi
 ---
-We have now introduced the most awaited feature app i.e. **Shopify-Magento Connector** in [Multivendor Marketplace](https://webkul.com/blog/shopify-multivendor-marketplace-new-theme-launched/) app for Shopify.
+We have now introduced the most awaited feature app i.e. **Shopify-Magento Connector** in [Multivendor Marketplace](/zenith/introduction/) app for Shopify.
 
 The feature app is available for Magento 2.
 
@@ -26,8 +26,8 @@ Moreover, Magento is an Open source platform. That is, Seller will get the compl
 
 Let's Explore this Feature App in detail.
 
-### Features of Shopify-Magento Connector
-
+ Features of Shopify-Magento Connector
+------------------------
 *   Admin can allow the marketplace sellers to connect their Magento stores with the admin's store.
 *   Also, products created at Magento and auto-sync is turned "ON" then the product will be created at Multivendor App with "approval pending" state.
 *   The Seller can import products from their Magento store by SKU(s) and by uploading SKU(s) CSV file.
@@ -35,14 +35,14 @@ Let's Explore this Feature App in detail.
 *   Also, when the synced product will be ordered at Magento and that order will be updated at Magento then, Quantity will be managed at Multivendor app as well as Shopify.
 *   When the synced products will be updated at Magento, Products & Variant details with their image will also be updated at the Multivendor app as well as at Shopify end.
 *   Once any product is deleted at Magento, the same product will be deleted at Shopify also.
-*   Moreover, **[Slot Pricing](https://webkul.com/blog/shopify-multivendor-marketplace-slot-pricing/) is compatible** with this connector.
+*   Moreover, **[Slot Pricing](/zenith/featured-app/marketplace-product-add-ons/slot-pricing) is compatible** with this connector.
 *   Both admin & seller can now sync the seller’s products in any state from the “Product Listing” section of their respective panels.
 *   Also, this feature app is available for Magento 2.
 
 ![Shopify Magento Connector](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/11/Product-Admin-2-1200x597.png)
 
-### Limitations
-
+ Limitations
+-----------------
 *   The app allows only Active, Simple and Configurable products.
 *   If the Seller changes the product type other than "Simple" or "Configurable" on Magento store, those products will be disabled at Multivendor App.
 *   Variations should be less than OR equal to 100.
@@ -51,8 +51,8 @@ Let's Explore this Feature App in detail.
 *   Admin can import maximum of 250 Products at once from Magento to Shopify.
 *   Also, the admin cannot sync the Sales Tax.
 
-### How to Activate?
-
+ How to Activate?
+------------------
 To activate the Shopify-Magento Connector feature app, first, you need to visit the Feature Apps section of the Multivendor App.
 
 ![Admin Dashboard](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/12/Dashboard-Admin-1.png)
@@ -95,8 +95,8 @@ Now, he can enable/disable other tabs for this section as well.
 
 ![magento](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/09/magento-1200x580.webp)
 
-### Sync Customer Details
-
+ Sync Customer Details
+-------------------
 By enabling this tab, you can sync customer details in order with the seller’s Magento store. Let's understand this feature with two cases.
 
 **CASE 1: Sync Customer Details tab is ON (enabled):**
@@ -123,8 +123,8 @@ Even, the admin will get a reference order number like below that will be shown 
 
 ![screenshot_from_2022_12_27_12_51_33-7](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/02/screenshot_from_2022_12_27_12_51_33-7-1200x595.png)
 
-### Magento Configuration
-
+ Magento Configuration
+----------------------
 **SELLER END**
 --------------
 
@@ -149,8 +149,8 @@ Stores>>Configuration>>General >>Locale Options>>Set the Weight Unit.
 
 **Access Token:** Seller needs to enter the access token generated from Magento end.
 
-### **How to Generate Access Token?**
-
+ **How to Generate Access Token?**
+-------------------------
 Seller needs to follow below steps to generate access token from Magento store:
 
 Login to Magento, Go to System>>Integration.
@@ -179,8 +179,8 @@ Lastly, get the access token from there and paste it in the "Magento Configurati
 
 This way Magento Seller will get the Access Token.
 
-### Import Products from Magento to Shopify
-
+ Import Products from Magento to Shopify
+------------------------
 If the Seller has enabled the "Auto Sync to seller" tab from "Magento Configuration" section of the Multivendor app,
 
 then once the Seller creates any product at Magento the same will be created at Multivendor app with "Approval Pending State".
@@ -207,8 +207,8 @@ Moreover, using 2nd method, Seller can upload a CSV file of Magento product SKUs
 
 This way, Seller can import products from Magento to Multivendor App.
 
-### Product Listing
-
+ Product Listing
+--------------------
 As soon as the Magento Seller's products get synced into the Multivendor app, initially the products will be in "Approval Pending" state at both admin and seller end.
 
 Furthermore, you can visit the Product Listing section of the Multivendor App to view the newly added products by Magento Sellers.
@@ -228,8 +228,8 @@ Moreover, once the admin enables the product, product will get approved on selle
 
 ![S1](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/12/Screenshot-16.png)
 
-### Orders
-
+ Orders
+------------------------
 Once you place an order at the Shopify store for the seller product, you will have the same order on the Magento store also. 
 
 Further, manage inventory at both the ends i.e. at Magento as well as at Multivendor App.
@@ -251,8 +251,8 @@ Furthermore, Seller can view the complete order updates at his/her Magento Store
 
 ![Order1](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/12/000000026-Orders-Operations-Sales-Magento-Admin.png)
 
-### Create Price Rule
-
+ Create Price Rule
+----------------------
 Moreover, you can allow sellers to create price rule to manage product price of their Magento store to the merchant’s Shopify store.
 
 ![Price rule ](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/01/Dashboard-Seller-%E2%80%A2-Multivendor-MarketPlace-1.png)

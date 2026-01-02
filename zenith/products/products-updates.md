@@ -22,8 +22,8 @@ Upload videos:
 
 ![screenshot-sp-seller.webkul.com-2021.07.09-15_36_31](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/07/screenshot-sp-seller.webkul.com-2021.07.09-15_36_31-1200x549.png) -->
 
-### Add Product Origin Country/HSN code to the Product Description
-
+ Add Product Origin Country/HSN code to the Product Description
+---------------------
 The admin can allow sellers to add the country of their product origin to the description page. Visit **Multivendor Admin Panel** > **Configuration** > **Product Configuration**:
 
 ![image](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/11/image-1200x597.png)
@@ -44,8 +44,8 @@ This is how it will look on the storefront:
 
 **Note**: For existing products, you need to once save them to display this information on the frontend. Also, note that once the product is added, this can't be updated.
 
-### ALLOW SELLER TO ADD COST PRICE
-
+ ALLOW SELLER TO ADD COST PRICE
+------------------------------
 Now, the admin can allow the seller to add the cost price which is the original product price.
 
 The seller can enter the cost price while adding products from his respective seller panel.
@@ -60,8 +60,8 @@ Now, when the seller will add products from his panel then he will have an optio
 
 ![Add-Product-Seller-•-Multivendor-MarketPlace](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/10/costpriceseller.webp)
 
-### Hide Product Tag Field
-
+ Hide Product Tag Field
+----------------------
 You can now hide the "Product Tag" field from the "Add/Edit Product" form.
 
 For this, You need to visit the multi-vendor admin panel>>Configurations>>**Product Configuration**\>>Enable the Tab.
@@ -74,8 +74,8 @@ Once you enable this tab, you/sellers won't get the product tag field while addi
 
 Note:- In case you add/edit products by CSV, make sure that the "Restrict Product Tags" is disable.
 
-### Product Form Help Text
-
+ Product Form Help Text
+---------------------
 Add help text to product form labels for both admin & seller end.
 
 Visit **Multivendor Admin Panel** > **Configuration** > **Product Configuration**. Enable this tab:
@@ -95,8 +95,8 @@ This is how they will look on the add product page (both admin & seller end):
 
 ![image-2](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/10/formhelptextaddproduct.webp)
 
-### Product Re-Approve feature
-
+ Product Re-Approve feature
+------------------
 Now, once a seller edits a product, the admin can approve/disapprove the updates before they become live on the storefront.
 
 Configure this by visiting **Multivendor Admin Panel** > **Configuration** > **Product Configuration**:
@@ -119,8 +119,8 @@ Once approved, the product updates will become live on the storefront.
 
 **NOTE**: In case the admin saves the product after going on the edit product page, the product will get approved.
 
-### Product Update by CSV
-
+ Product Update by CSV
+--------------------
 Now, the admin/sellers can edit products in bulk. All you have to do is visit **Multivendor Admin Panel** > **Products** > **Product Listing** > **More Actions** \> **Add product via CSV**
 
 ![image-167](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/10/addproductviacsv.webp)
@@ -133,8 +133,8 @@ If the product IDs don't match, the existing products will not be updated and ne
 
 ![image-168](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/10/csvmethod1.webp)
 
-### ALLOW SELLERS TO SET THE PRODUCT PRICE TO ZERO
-
+ ALLOW SELLERS TO SET THE PRODUCT PRICE TO ZERO
+--------------
 The admin can allow his/her sellers to create products with product price being zero.
 
 In that case, the product will become a free product. You can configure it by visiting: **Multivendor admin panel** > **Configuration** > **Products Configuration**:
@@ -145,8 +145,8 @@ In that case, the product will become a free product. You can configure it by vi
 
 Also, this feature will only work if you have set fixed commission and not % or anything else.
 
-### ALLOW SELLER TO SET MINIMUM PURCHASE QUANTITY PER PRODUCT
-
+ ALLOW SELLER TO SET MINIMUM PURCHASE QUANTITY PER PRODUCT
+-----------------------
 From this option, you can allow the seller to set a minimum purchase quantity for products.
 
 This way, the customers will get restricted to buy the set number of quantity for the respective products.
@@ -161,10 +161,10 @@ Now, while adding products to the marketplace (admin panel or seller panel), you
 
 ![Add-Product-Admin-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/10/minimumpurchasequantity2.webp)
 
-Know in-depth: [https://marketplace-doc.webkul.com/zenith/configuration/Minimum%20Purchase%20Quantity.html](https://marketplace-doc.webkul.com/zenith/configuration/Minimum%20Purchase%20Quantity.html)
+[Know in-depth:](/zenith/configuration/minimum-purchase-quantity)
 
-### SHOPIFY-MULTIVENDOR PRODUCT SYNC
-
+ SHOPIFY-MULTIVENDOR PRODUCT SYNC
+-----------------------
 If you make any changes to your products from Shopify end, you need to sync the products each time with the app to reflect the updates made at the multivendor end too.
 
 _**It is advisable to make any changes in the products at the multivendor end because this way the products get auto-updated at Shopify too. But not vice-versa.**_
@@ -185,16 +185,16 @@ Go to **multivendor admin panel** > **products** > **product listing** > select 
 
 ![MULTIVENDOR MARKETPLACE](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/10/syncselected.webp)
 
-### Sync Orders Updates
-
+ Sync Orders Updates
+-------------------------------
 When an item is purchased from your Shopify store, the inventory will only be synced with the app if the item is assigned to any seller registered on your marketplace.
 
 Now, to fetch orders into the app, you need to click the Sync Orders button and sync your Shopify orders with the app.
 
 ![Orders-Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/10/syncorder.webp)
 
-### PRODUCT TYPE, PRODUCT TAG & COLLECTION AT SELLER PANEL
-
+ PRODUCT TYPE, PRODUCT TAG & COLLECTION AT SELLER PANEL
+---------------------------
 Now, the sellers have the following menus in their multivendor seller panel: Product Type, Product Tag & Collections.
 
 Multivendor Seller Panel > Products:
@@ -207,8 +207,8 @@ Moreover, sellers will also have an option to **export** product tags, types &
 
 Example: Multivendor Seller Panel > Products > Collections
 
-### EDIT IMAGE ALT TEXT
-
+ EDIT IMAGE ALT TEXT
+----------------------------
 In our new updates, while editing products on Multi-Vendor Marketplace, the admin/seller will get an option to add **alt text** to the product images.
 
 ALT text is basically your image description. Google bots examine these descriptions and rank them accordingly. Thus, they help a lot with SEO.
@@ -231,8 +231,8 @@ Now enter the ALT text and save.
 
 Similarly, you add alt text to multiple images of a product.
 
-### IMPORT PRODUCTS FROM SHOPIFY
-
+ IMPORT PRODUCTS FROM SHOPIFY
+-------------------------
 By enabling the import product button from the product section of the configuration,
 
 And then visiting the imported product from Shopify from the main menu will enable the user to import the product either by selecting the period
@@ -243,16 +243,16 @@ And entering to and from the date or it can be imported by uploading a CSV.
 
 _Important Note: All of these imported products will be visible on the product section only after the products are assigned by admin to any seller._  
 
-### PRODUCT FORM CUSTOMIZATION
-
+ PRODUCT FORM CUSTOMIZATION
+----------------------
 With this section, you can hide/unhide the components of product form.
 
 Click on Product Form Customization from the main menu of the app and select the products you want to remove from the add product page.
 
 ![MULTIVENDOR MARKETPLACE](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/10/productformcustomisation.webp)
 
-### HIDE/SHOW PRODUCT IMAGES IN PRODUCT LISTING
-
+ HIDE/SHOW PRODUCT IMAGES IN PRODUCT LISTING
+-----------------------------------------
 You can now hide/show the product images in the product listing section by enabling/disabling the below configuration from the product configuration section.
 
 Multivendor Marketplace App Admin panel>>Configuration>>Product Configuration>> Enable/disable **SHOW PRODUCT IMAGE FIELD UNDER "PRODUCT LISTING"** SECTION>>Save.
@@ -275,16 +275,16 @@ This is how the Admin and Seller Panel will look after the configuration is disa
 
 ![Product-_-Seller-•-Multivendor-MarketPlace-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/10/sellerpanelnoimage.webp)
 
-### EXPORT PRODUCT DETAILS AT SELLER PANEL
-
+ EXPORT PRODUCT DETAILS AT SELLER PANEL
+-------------
 Now, the sellers have the **Export Details** option in the product listing section in their multivendor seller panel.
 
 Multivendor Marketplace App Seller Panel>>Products>>Product listing:
 
 ![Product-_-Seller-•-Multivendor-MarketPlace-5](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/export-scaled.webp)
 
-### PRODUCT PRICE ROUND OFF
-
+ PRODUCT PRICE ROUND OFF
+----------------------
 Product price round-off will help the admin to replace a product price number with an approximate value that has decimal value representation. For example, replacing $23.883 with $23.88.
 
 By enabling the product price round-off, a dropdown will appear to select the decimal for the product price round off and select the "decimal number to be round off" from the dropdown.
@@ -300,8 +300,8 @@ then decimal numbers like 22.673 round off to 22.7, 23.889 round off to 23.9
 NOTE:  
 Product price round-off will be applied on product price, its compare at price, variant price, and its compare at price.
 
-### Product Variant Inventory Listings
-
+ Product Variant Inventory Listings
+------------------
 When a customer purchases a product variant, the sold variant is listed in the Variant Inventory section of both the Admin and Seller panels.
 
 They can view all variant orders by navigating to **Products > Variant Inventory** in their panel. Additionally, they can check the remaining variant inventory by location.
@@ -318,8 +318,8 @@ Seller Panel:
 
 ![Variant Seller](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/10/variantinventoryseller.webp)
 
-### Manage products as Draft Product
-
+ Manage products as Draft Product
+-------------------------
 **Introducing the Draft Feature for Sellers!**  
   
 Sellers now have the flexibility to save their products as drafts before making them live.
@@ -346,18 +346,17 @@ sellers can now **directly approve their own draft products** without waiting fo
 
 ![draft-product](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/10/enabledraftproduct.webp)
 
-### MVM Admin & Seller Draft product Reflected in Shopify's draft product List
-
+ MVM Admin & Seller Draft product Reflected in Shopify's draft product List
+---------------------------
 ![draft1](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/10/createdraftproductonshopify.webp)
 
 On admin panel ->Configuration-> Product Configuration then turn on '**CREATE PRODUCT AS DRAFT ON SHOPIFY**' configuration.
 
 By allowing this configuration, When a product is created as a draft by the admin or seller in MVM, it will automatically appear in your Shopify product list for further editing or publishing.
 
-### Product Preview button for Draft Items (Admin & Seller)
-
-![draft2
-](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/10/previewbutton.webp)
+ Product Preview button for Draft Items (Admin & Seller)
+-----------------------------
+![draft2](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/10/previewbutton.webp)
 
 Both MVM admin and seller panels now include a **Preview** **button** for draft products, enabling users to see the product detail page layout prior to making it live on thier Stores.
 
@@ -369,7 +368,7 @@ Both MVM admin and seller panels now include a **Preview** **button** for draft 
 Now, Products uploaded via CSV by both sellers and admins have option to select product status either as **Draft** status or Active Status.
 
 **Shopify Taxonomy category added to the product form**
-
+-------------------
 We've added a new option to the Product form: Shopify Taxonomy Category, making product categorization easier and more accurate.
 
 To display this field in the product form, the Admin can enable the Product taxonomy category config.
@@ -393,7 +392,7 @@ If the admin wants to sync product categories from **Shopify to Multivendor**, t
 ![Dual sync](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/10/producttaxonomydualsync.webp)
 
 **Separate filters "Filter By" & "Search By" at Product Listing**
-
+----------------------------------
 We’ve enhanced the product listing page by adding more specific filter options for admins and sellers. These new filters make it easier to manage and organize products efficiently.
 
 Admins and sellers can now filter products by status, such as Global Product, Approved, Approval Pending, and more, using the available filters.

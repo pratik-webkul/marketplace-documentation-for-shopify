@@ -140,7 +140,7 @@ Stripe: Admin End
 **Destination Charges**:
 ------------------------
 
-For selecting "Destination Charges" as the payment process method, make sure to enable the "split-cart" feature app: [Explore feature app](/zenith/featured-app/Marketplace-miscellaneous-add-ons/split-cart.html).
+For selecting "Destination Charges" as the payment process method, make sure to enable the "split-cart" feature app: [Explore feature app](/zenith/featured-app/marketplace-miscellaneous-add-ons/split-cart.html).
 
 Moreover, if you haven't enabled the split-cart feature app then the amount of order with products from multiple sellers will go to the admin and the admin needs to manually pay the seller earning.
 
@@ -159,7 +159,7 @@ Stripe: Admin End
 **Direct Charges**
 ------------------
 
-For selecting "Direct Charges" as the payment process method, make sure to enable the "split-cart" feature app: [Explore feature app](/zenith/featured-app/Marketplace-miscellaneous-add-ons/split-cart.html).
+For selecting "Direct Charges" as the payment process method, make sure to enable the "split-cart" feature app: [Explore feature app](/zenith/featured-app/marketplace-miscellaneous-add-ons/split-cart.html).
 
 Moreover, if you haven’t enabled the split-cart feature app then the amount of order with products from multiple sellers will go to the admin and the admin needs to manually pay the seller earning.
 

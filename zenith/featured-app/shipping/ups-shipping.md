@@ -22,8 +22,8 @@ THIS SHIPPING FEATURE APP IS USED FOR **BOTH RATE CALCULATION** AND **FULFILLMEN
 
 ![screenshot_1708680488354](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/02/screenshot_1708680488354.png)
 
-### How to get UPS Credentials
-
+ How to get UPS Credentials
+------------------------
 **Log in** [**developer.ups.com**](http://developer.ups.com)
 
 On your UPS website, you need to go to the **My App section** in which you will select the **Add apps**
@@ -42,8 +42,8 @@ In the **add products** section, you need to select all the permissions by click
 
 ![screenshot_1708681433027](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/02/screenshot_1708681433027.png)
 
-### How to Enable?
-
+ How to Enable?
+-----------------------
 You need to follow the below-given steps to activate the UPS feature app:-
 
 *   Go to the Multi-vendor Admin panel.
@@ -57,8 +57,8 @@ You need to follow the below-given steps to activate the UPS feature app:-
 
 ![UPS feature app](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/ups.webp)
 
-### Admin Panel
-
+ Admin Panel
+-----------------
 **Note: Kindly choose only those shipping services which you need. Don’t keep all the services selected otherwise it creates delay to retrieve shipping rates at the storefront.**
 
 As soon as you enable the UPS featured app, a new sub-menu gets added to the Configuration menu of the app i.e. **UPS** **Configuration**.
@@ -81,8 +81,8 @@ Now, Go to the **UPS Configuration** section and enter all the details from your
 
 **Note - For negotiable shipping rates, you can contact the UPS support.**
 
-### DEFAULT PICK-UP ADDRESS
-
+ DEFAULT PICK-UP ADDRESS
+---------------------------
 If there is an overseas order in UPS shipping the in case if you want both addresses i.e. "seller's address and default pick up address saved in UPS dashboard" should be sent to the customer.
 
 Then you can enable "DEFAULT PICK UP ADDRESS " from UPS configuration.
@@ -99,8 +99,8 @@ Refer:-
 
 ![Shipping address phone number](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/11/Demo-Store-Settings-Shopify-1200x597.png)
 
-### Seller Panel
-
+ Seller Panel
+--------------------
 Once the admin configures the UPS details from his end, the same will reflect at the seller end. And now the seller needs to visit the "**Shipping Configuration**" menu & enable the **UPS** feature.
 
 ![shipping](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/sellersideconfig.webp)
@@ -133,8 +133,8 @@ Once the seller enables the "UPS", he/she can now choose UPS as a shipping metho
 
 Now, the seller can ship products via UPS.
 
-### Shipping Label Generation
-
+ Shipping Label Generation
+------------------
 Moreover, once the order is fulfilled by the seller, he/she can now generate the shipping label from the order detail section of the app.
 
 Seller first needs to select the method of order fulfillment as UPS and fulfill the order.
@@ -153,8 +153,8 @@ A shipping label will be printed in the form of **gif**.
 
 This is all about the Shipping Label Generation through UPS Fulfilment.  
 
-### Select the Usage-UPS Configuration
-
+ Select the Usage-UPS Configuration
+-------------------------
 While configuring the UPS details, you can now choose to **Send To Merchant** if you want to fulfill the order and generate shipping labels on your warehouse address.
 
 OR choose Both **(Shipping+Fulfillment)**, if you want the sellers to manage the order fulfillment & generate shipping labels for customer's orders.

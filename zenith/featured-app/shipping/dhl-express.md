@@ -18,16 +18,16 @@ This feature app is available only with the Multivendor **Pro** **Plan** ($6
 
 Above all, access to Shipping requires your Shopify store to be on the plan that supports **Real-Time Carrier-Calculated Shipping**.
 
-### Installation
-
+ Installation
+----------------
 The admin needs to visit the **multi-vendor marketplace admin panel** > click on the **three dots** > click on the **feature apps**. Further, **enable** the **DHL Express** feature app.
 
 ![Feature_Apps_Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/featuredapps.webp)
 
 Furthermore, **agree** & **approve** the charges to complete the installation process.
 
-### Configuration: Admin End
-
+ Configuration: Admin End
+---------------------
 Firstly, the admin needs to enable this shipping method from the shipping configuration. So, for this, visit:
 
 **Multivendor Marketplace Admin Panel** > **Configuration** >**Shipping Configuration**. 
@@ -40,8 +40,8 @@ Moving on, the admin needs to configure the DHL Express method. So, for this, cl
 
 ![Configuration_Admin-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/configureshipping.webp)
 
-### DHL Express Configuration
-
+ DHL Express Configuration
+------------------
 On the following page, configure the following details:
 
 *   Sandbox Mode: If you want to test the functionality of this shipping method, keep the sandbox mode enabled. Remember, shipping labels won’t be generated in testing mode.
@@ -82,8 +82,8 @@ If you want your seller to add there DHL credentials then enable this configurat
 
 ![image-6](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/dhlconfigthree.webp)
 
-### Set Shipping Method For Sellers:
-
+ Set Shipping Method For Sellers:
+------------------------
 The admin can further set the shipping methods for his sellers.  
 Go to **multi vendor marketplace admin panel** > **Sellers** > **Seller Listing** > **Edit** (under **Action**). 
 
@@ -103,16 +103,16 @@ Here, clicking on the ‘Edit’ button for a particular seller will redirect yo
 
 From where you can disable the following shipping method for that seller (as shown previously in this blog).
 
-### Make **Shipping** **Address Phone Number** Mandatory
-
+ Make **Shipping** **Address Phone Number** Mandatory
+----------------------
 To use this feature add-on, the admin needs to make the **shipping** **address phone number mandatory** at the time of **checkout**.
 
 So, to do this, go to **Shopify Backend** > **Settings** > **Checkout** > Under **Form Options**, make **Shipping** **address phone number** as **Required**:
 
 ![133](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/09/demo-store-Checkout-Shopify-1200x597.png)
 
-### Configuration: Seller End
-
+ Configuration: Seller End
+------------------
 Further, the seller can configuration DHL Express from his panel.
 
 Go to **Multi-Vendor Marketplace Seller Panel** > **Configuration** > **Shipping Configuration**\> **Enable**/**Disable** the shipping:
@@ -129,8 +129,8 @@ Now, the seller needs to visit **Configuration** > **DHL Express Configuration**
 
 ![image-7](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/sellersideconfig.webp)
 
-#### Set Default Shipping Method For Products
-
+ Set Default Shipping Method For Products
+-----------------------
 *   For all products (old and new)
 *   Only for new products
 *   For products that don’t have any shipping method on
@@ -141,8 +141,8 @@ So, go to **Multi-vendor marketplace seller panel** > **Products** >**Produc
 
 ![Screenshot_from_2020_05_14_17_45_51](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/selectshippingmethod.webp)
 
-### **Global Configuration**
-
+ **Global Configuration**
+--------------------------
 Further, click on the **Global Configuration** menu:
 
 ![Shipping_Configuration_Seller_•_Multivendor_MarketPlace-2](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/05/Shipping_Configuration_Seller_%E2%80%A2_Multivendor_MarketPlace-2-1200x597.png)
@@ -161,8 +161,8 @@ Likewise, the customer will have an option to select the shipping method as per
 
 ![Shipping_Coco_Cleen_Checkout-1-3](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/05/Shipping_Coco_Cleen_Checkout-1-3-1200x597.png)
 
-### Shipping Label Generation
-
+ Shipping Label Generation
+---------------------
 Seller will have an option to generate the shipping label from their seller panel. Also, shipping labels can only be generated for **fulfilled orders**.
 
 **Fulfilling order via DHL Express**:

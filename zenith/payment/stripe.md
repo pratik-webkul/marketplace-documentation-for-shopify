@@ -46,9 +46,9 @@ Once you click on the "Enable" button, you need to agree on additional charges w
 
 Now, let's understand its workflow:-
 
-### Workflow
-
-**Configuration of the app is given in this blog:** [Stripe SCA Enabled: Multivendor Marketplace for Shopify](https://webkul.com/blog/stripe-sca-enabled-multivendor-marketplace-for-shopify/)
+ Workflow
+-------------
+**Configuration of the app is given in this blog:** [Stripe SCA Enabled: Multivendor Marketplace for Shopify](/zenith/payment/stripe-configuration)
 
 ### Stripe Account Types
 
@@ -100,8 +100,8 @@ Set it as default:
 
 ![screenshot-dashboard.stripe.com-2022.01.31-13_42_33-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/01/screenshot-dashboard.stripe.com-2022.01.31-13_42_33-1-1200x581.png)
 
-### Code Pasting
-
+ Code Pasting
+-------------
 You will find the codes under **Multivendor Admin Panel** > **Configuration** > **Instruction for Marketplace** > Under **Stripe Connect**.
 
 Connect seller Stripe account to your Stripe account by pasting these codes in the given template files.
@@ -141,8 +141,8 @@ Please note:- Name of your custom payment method should be the same as the name
 
 This way you can create the payment method which the customer will select at the checkout page once added by the admin.
 
-### Checkout extension for Stripe Payment method: Payment Option on the Thank You Page
-
+ Checkout extension for Stripe Payment method: Payment Option on the Thank You Page
+---------------------
 _Note: Shopify's Additional Script has been deprecated and will be removed at any time._
 
 To address this, we have implemented a checkout extension for Stripe.  
@@ -170,8 +170,8 @@ On the Thank You page, the popup to complete the payment will appear and save.
 
 ![thankyou page.](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/01/stripe5-1200x943.webp)
 
-### SELLER PANEL IN NEW THEME
-
+ SELLER PANEL IN NEW THEME
+--------------------
 The multivendor marketplace app now displays a "Stripe Connect Configuration" menu in the orders section of the seller panel.
 
 ![Stripe Connect121](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/pay35.webp)
@@ -194,20 +194,20 @@ Further, the account will be successfully added.
 
 ![Stripe Connect Orders](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/27-1.png)
 
-### Seller Stripe Dashboard: Express Account Type
-
+ Seller Stripe Dashboard: Express Account Type
+---------------
 If the seller has configured the express account, he will have the option to redirect to the stripe dashboard from here:
 
 ![image-166](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/07/image-166-1200x627.png)
 
-### CUSTOMER FRONTEND
-
+ CUSTOMER FRONTEND
+---------------
 At the checkout page, a customer can choose the "Stripe Connect" payment method to pay for the order.
 
 ![pay via stripe](https://cdnblog.webkul.com/blog/wp-content/uploads/2017/11/Screenshot-3.png)
 
-### Stripe Payout Payment
-
+ Stripe Payout Payment
+---------------
 **Purpose of this feature**:  
 This feature lets your sellers automatically receive their total earnings. Once they mark the order as delivered/fulfilled/pay after the refund date.
 
@@ -248,18 +248,18 @@ After fulfilling all the relevant details, the payout configuration is there **A
 
 Once you enable this configuration, you will get the three options to select
 
-### **Fulfil**l:
-
+ **Fulfill:
+---------------
 If you select the fulfill option then once the seller marks the order as fulfilled then seller earnings will be transferred to the seller account.
 
-### **Delivery**:
-
+ **Delivery**:
+----------------
 In the case of delivery, the seller's earnings will be transferred to the seller's account once the order is marked as delivered.
 
 ![Stripe Connect](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/12/spp3-1-1200x847.png)
 
-### **Pay after the return date:**
-
+ **Pay after the return date:**
+----------------------
 To enable this, the admin first needs to enable the **ENABLE CASHABLE AMOUNT FOR SELLER** configuration which allows you to set particular days after which you want your Sellers to receive the payment.
 
 These days are basically the days in which your customers can refund the purchased items.
@@ -336,8 +336,8 @@ Admin end > Payment > Seller Payments:
 
 ![spp67](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/12/spp67-1200x475.png)
 
-### Stripe Transfer
-
+ Stripe Transfer
+------------------
 #### **Purpose of this feature**:
 
 This feature lets your sellers automatically receive their total earnings once they mark the order as delivered/fulfilled/paid after the refund date.
@@ -392,8 +392,8 @@ In the case of delivery, the seller’s earnings will be transferred to the sell
 
 ![Stripe Connect](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/12/spp3-1-1200x847.png)
 
-### **Pay after the return date:**
-
+ **Pay after the return date:**
+---------------------
 To enable this, the admin first needs to enable the **ENABLE CASHABLE AMOUNT FOR SELLER** configuration which allows you to set particular days after which you want your Sellers to receive the payment.
 
 These days are basically the days in which your customers can refund the purchased items.

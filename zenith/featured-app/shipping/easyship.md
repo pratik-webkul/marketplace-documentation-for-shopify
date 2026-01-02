@@ -19,8 +19,8 @@ Considering these traits, Webkul is here with a new feature app called Easyship 
 
 *   Also, Access to Shipping requires your Shopify store to be on the plan that supports [**Real-Time Carrier-Calculated Shipping**.](https://help.shopify.com/en/manual/shipping/setting-up-and-managing-your-shipping/enabling-shipping-carriers)
 
-### How to Enable Easyship in Multivendor Marketplace App?
-
+ How to Enable Easyship in Multivendor Marketplace App?
+----------------------
 The Easyship feature app is available for both **Rate Calculation** and **Fulfillment**.
 
 To activate this feature in your app, simply navigate to the "Feature Apps" section of the [Multivendor Marketplace](/zenith/introduction/) admin panel and activate it from there.
@@ -29,7 +29,7 @@ To activate this feature in your app, simply navigate to the "Feature Apps" sect
 
 After accessing the **"Feature Apps"** section, you will see a list of available feature apps. Scroll down to find the feature,
 
-then click on the **Enable** button to activate it in your [multivendor marketplace app](https://webkul.com/blog/shopify-multivendor-marketplace-new-theme-launched/).
+then click on the **Enable** button to activate it in your [multivendor marketplace app](/zenith/introduction/).
 
 ![image-6-](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/05/image-6-.png)
 
@@ -42,10 +42,10 @@ You can easily approve the charges by simply clicking on the "Approve" button in
 ![navin-store1-·-Approve-subscription-·-Shopify](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/05/navin-store1-%C2%B7-Approve-subscription-%C2%B7-Shopify-1200x627.png)
 
   
-With the help of these steps, you can easily enable the Easyship feature within your [Multivendor Marketplace App](https://webkul.com/blog/shopify-multivendor-marketplace-new-theme-launched/).
+With the help of these steps, you can easily enable the Easyship feature within your [Multivendor Marketplace App](/zenith/introduction/).
 
-### Configuration: Admin's End
-
+ Configuration: Admin's End
+---------------------
 In order to activate this feature, the admin must follow these configuration steps:
 
 1.  Navigate to Configuration >> Shipping Methods
@@ -58,8 +58,8 @@ In this section, the admin can select Easyship as a shipping method by enabling 
 
 Once enabled, you will get the option to configure the Easyship settings.
 
-### Easyship Configuration
-
+ Easyship Configuration
+-----------------
 Now, navigate to Configuration >> Admin Easyship Configuration. You need to configure the below-mentioned details as per your requirement and save them.
 
 ![Admin-Easyship-Shipping-Configuration-Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/05/Admin-Easyship-Shipping-Configuration-Admin-1200x876.png)
@@ -116,16 +116,16 @@ Add/paste the webhook URL in the given field, i.e., Webhook Endpoint URL and cli
 
 In this way, the webhook will get added to your Easyship account.
 
-### Make **Shipping** **Address and Phone Number** Mandatory
-
+ Make **Shipping** **Address and Phone Number** Mandatory
+----------------------------
 To use this feature add-on, the admin needs to make the **Shipping** **address and phone number mandatory** at the time of **checkout**.
 
 To do this, You need to go to Shopify Backend > Settings > Checkout > Under Form Options, make the Shipping address and phone number as **Required**.
 
 ![demo-store-Checkout-Shopify-1200x597-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/05/demo-store-Checkout-Shopify-1200x597-1.png)
 
-### Configuration: Seller's End
-
+ Configuration: Seller's End
+-----------------------
 The sellers will also get the option to enable Easyship shipping from the **Shipping Configuration** menu of their seller panel.
 
 ![image-12-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/05/image-12-1-1200x458.png)
@@ -169,6 +169,6 @@ To create a pickup request for an order, follow these steps:
 
 In this way, sellers can easily create a pickup request.
 
-To check other Shipping Services integrated with the App, [**Click Here**](https://webkul.com/blog/shopify-multivendor-marketplace-shipping/#shipping-methods-in-the-app)!
+To check other Shipping Services integrated with the App, [**Click Here**](/zenith/featured-app/overview.html#marketplace-shipping-feature-apps)!
 
 Thank you for taking the time to read our blog. To stay up-to-date with our latest articles, please stay connected with us.

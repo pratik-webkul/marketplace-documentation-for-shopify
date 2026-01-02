@@ -28,8 +28,8 @@ This feature will have an additional charge of **USD 15 per month** over & abo
 
 SHIPSTATION SHIPPING FEATURE APP IS AVAILABLE **BOTH FOR RATE CALCULATION & FULFILLMENT**.
 
-### Installation
-
+ Installation
+-------------------
 The admin needs to visit the **multi-vendor marketplace admin panel** > click on the **three dots** > click on the **feature apps**. Further, **enable** the **ShipStation** feature app.
 
 ![Feature-Apps-Admin-2 ShipStation integration ](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/shpstation.webp)
@@ -38,8 +38,8 @@ Furthermore, **agree** & **approve** the charges:
 
 ![Shipstation app approve charges](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/activateshipstation.webp)
 
-### Configuration: Admin End
-
+ Configuration: Admin End
+--------------------
 Firstly, the admin needs to enable this shipping method from the shipping configuration. So, for this, visit:
 
 **Multivendor marketplace admin panel** > **configuration** > **shipping configuration**. 
@@ -58,8 +58,8 @@ Refer:
 
 ![ShipStation Configuration](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/configureshipstation.webp)
 
-### Configure ShipStation
-
+ Configure ShipStation
+---------------
 On the following page, configure the following details:
 
 *   Sandbox Mode: If you want to test the functionality of this shipping method, keep the sandbox mode enabled. Remember, shipping labels won't be generated in testing mode.
@@ -79,8 +79,8 @@ On the following page, configure the following details:
 
 ![Shipstation_Configuration_Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/generalconfigshipstation.webp)
 
-### Set Shipping Method For Sellers:
-
+ Set Shipping Method For Sellers:
+-------------------
 The admin can further set the shipping methods for his sellers.  
 Go to **multi vendor marketplace admin panel** > **Sellers** > **Seller Listing** > **Edit** (under **Action**). 
 
@@ -110,8 +110,8 @@ So, to do this, go to **Shopify Backend** > **Settings** > **Checkout** > 
 
 Shopify Backend (Admin End)
 
-### Configuration: Seller End
-
+ Configuration: Seller End
+-------------------
 Further, the seller can configuration ShipStation from his panel.
 
 Go to **multi vendor marketplace seller panel** > **configuration** > **shipping configuration**\> **enable** the shipping:
@@ -126,8 +126,8 @@ Clicking on '**Set As Default**' will give you the following dialogue box:
 
 ![Set Default Shipping Method For Products (ShipStation integration  )](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/12/Shipping-Configuration-Seller-%E2%80%A2-Multivendor-MarketPlace-2-1200x597.png)
 
-### In case the admin has allowed the sellers to add their details:
-
+ In case the admin has allowed the sellers to add their details:
+-------------------
 The seller will have this drop-down menu:
 
 ![shipstation configuration ](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/01/image-1-1200x597.png)
@@ -136,8 +136,8 @@ And further add these details:
 
 ![Shipstation-Configuration-Seller-•-Multivendor-MarketPlace-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/01/Shipstation-Configuration-Seller-%E2%80%A2-Multivendor-MarketPlace-1-1084x1024.png)
 
-### Set Default Shipping Method For Products
-
+ Set Default Shipping Method For Products
+--------------------
 *   For all products (old and new)
 *   Only for new products
 *   For products that don't have any shipping method on
@@ -148,8 +148,8 @@ So, go to **Multi-vendor marketplace seller panel** > **Products** >**Produc
 
 ![Select shipping method for individual product (ShipStation integration  )](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/12/Screenshot-from-2019-12-04-15-13-53-1200x558.png)
 
-### **Global Configuration**
-
+ **Global Configuration**
+----------------
 Further, click on the **Global Configuration** menu:
 
 ![Shipping-Configuration-Seller-•-Multivendor-MarketPlace-3 (ShipStation integration  )](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/12/Shipping-Configuration-Seller-%E2%80%A2-Multivendor-MarketPlace-3-1200x597.png)
@@ -166,8 +166,8 @@ Likewise, the customer will have an option to select the shipping method as per
 
 ![Shipping-JohnDoe2-Checkout](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/12/Shipping-JohnDoe2-Checkout-1200x955.png)
 
-### Shipping Label Generation
-
+ Shipping Label Generation
+-------------------
 Seller will have an option to generate the shipping label from their seller panel. Also, shipping labels can only be generated for **fulfilled orders**.
 
 **Fulfilling order via ShipStation**:
@@ -206,8 +206,8 @@ This new feature will create the order directly on seller’s Shipstation accoun
 
 the fulfilment status and Tracking details will sync back to Marketplace app.
 
-### **Configuration from Admin end**
-
+ **Configuration from Admin end**
+-------------------------
 To configure this feature from the admin side, follow these steps
 
 1\. Navigate to the 'Configuration' section and select 'ShipStation Configuration'.
@@ -224,8 +224,8 @@ You can select to show the **Admin shop name**, **Seller shop Name**, or **order
 
 ![shipstation-configuration](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/09/shipstation-configuration.webp)
 
-### **Configuration from seller end**
-
+ **Configuration from seller end**
+----------------------
 To configure this feature from seller end , follow these steps :
 
 1.In the ShipStation configuration settings, enable the option for 'CREATE ORDER BEFORE FULFILLMENT '.

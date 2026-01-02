@@ -22,8 +22,8 @@ THE ECOM EXPRESS SHIPPING FEATURE APP IS AVAILABLE **ONLY FOR FULFILLMENT**.
 
 Let's understand its workflow in detail.
 
-### Workflow of Ecom Express Shipping feature
-
+ Workflow of Ecom Express Shipping feature
+-----------------------------------
 To enable this Ecom Express Shipping feature of the Multivendor app, just click on the three dots present on the upper right corner of the dashboard.
 
 There, you will get "**Feature Apps**". Click on it and scroll down to get the "Ecom Express Shipping" featured app.
@@ -42,8 +42,8 @@ Once you pay for the app, two new menus will appear in the configuration section
 
 Let us understand them one by one.
 
-### Ecom Express Configuration
-
+ Ecom Express Configuration
+-------------------
 As soon as you enable the feature app, two new menus get added to the configuration menu of the app.
 
 ![admin end](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/02/Dashboard-Admin-1200x619.png)
@@ -54,8 +54,8 @@ To configure the Ecom Express Shipping, the admin will enter his own Ecom shippi
 
 **PLEASE NOTE:- To get the Ecom User ID and Password, you need to contact [Ecom Express](https://ecomexpress.in/).**
 
-### Cancel Reason Configuration
-
+ Cancel Reason Configuration
+------------------------
 Here, you can add the reason for the cancellation of the order. Now, once a seller proceeds to fulfill an order from his/her seller panel, he/she can anytime cancel the order if required. Just the seller needs to select the reason for the order cancellation.
 
 ![Order cancellation](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/cancel.webp)
@@ -70,8 +70,8 @@ Dashboard>>Configuration>>**Cancel Reason Configuration**\>>Click **Action** (in
 
 ![cancel reasons](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/editcancelreason.webp)
 
-### Seller Panel
-
+ Seller Panel
+-------------------
 Once a customer places an order, the seller can use this Ecom shipping feature to fulfill the customer order. To do so, the seller needs to visit the **order** section of the Multivendor app where he can view the order details from the action menu.
 
 ![Order-Seller-•-Multivendor-MarketPlace-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/sellerorder.webp)
@@ -95,8 +95,8 @@ Now, as the seller clicks the save button after canceling the order, the product
 
 ![cancelled](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/Screenshotff.png)
 
-#### FULFILLMENT DETAILS
-
+ FULFILLMENT DETAILS
+-------------------
 Once the seller confirms the order and fulfills it on his end (order status shows "fulfilled" and payment status is "paid"), there will be a fulfillment detail section with two buttons right (below the order detail page).
 
 "Edit Tracking" and "Enter Delivery Details".

@@ -76,6 +76,6 @@ This allows marketplace owners to scale service offerings without relying on ext
 
 Reference Documentation
 -----------------------------
-For detailed guidance on how to create and manage a **service-based marketplace** using the Booking Product featured app, refer to the official documentation below: [**Booking Product Documentation**](https://marketplace-doc.webkul.com/zenith/featured-app/Marketplace%20Product%20Add-Ons/BOOKING%20PRODUCT.html)
+For detailed guidance on how to create and manage a **service-based marketplace** using the Booking Product featured app, refer to the official documentation below: [**Booking Product Documentation**](/zenith/featured-app/marketplace-product-add-ons/booking-product)
 
 ---
