@@ -7,16 +7,16 @@ author: Chirag Tyagi
 
 Here's presenting an additional feature in our [Multivendor Marketplace](/zenith/introduction/) app for Shopify: Favorite Product/Seller through which customer gets an option to like products as well as sellers.
 
-### FEATURES
-
+ FEATURES
+----------------
 *   Admin can see the list of all the sellers liked by customers in the "sellers" section of the app.
 *   Admin can see the list of all the products liked by customers in the "Products" section of the app.
 *   Sellers can too see the list of all the customers who liked their profile page in the "Liked customer" section of their account in a multivendor marketplace app.
 *   Customers can see the list of their Favorite Products and Sellers from "My Account" section of their Shopify store
 *   Customers will also receive the email notification for their favorite seller whenever they will add any new products or make any changes in the existing products. They can also see the "number of likes" on their favorite products as well as on their favorite sellers.
 
-### ACTIVATION IN NEW THEME
-
+ ACTIVATION IN NEW THEME
+----------------------
 Firstly visit the "Feature Apps" section by clicking the (...) three dots in the main menu of your app.
 
 Now Enable the " Favorite Product/Seller" Feature.
@@ -27,8 +27,8 @@ Once you will click on the "Enable button" then you need to agree on an addition
 
 ![Favorite Product/Seller](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/favpot.webp)
 
-### FRONT END DISPLAY IN NEW THEME
-
+ FRONT END DISPLAY IN NEW THEME
+---------------
 Now To display the Favorite button on the "Seller profile page", "Products Page" and on Customer's account page,
 
 You need to copy the below-given codes and paste it in the respective .liquid files of your Shopify store.
@@ -57,8 +57,8 @@ Copy following code and paste into main-collection-product-grid.liquid template 
 ```liquid
     <div class="page-width hidden" id="wk-seller-like-block"><button class="btn button-primary" id="wk-seller-like-btn"><span class="fa fa-thumbs-up"></span><span id="wk-like-text" data-total-like="" data-total-count="" data-like=""></span><span id="wk-like-count"></span></button><input type="hidden" id="wk-like-label" data-label-like="Shop Like"><input type="hidden" id="wk-liked-label" data-label-liked="Liked"><input type="hidden" class="customerid" value="{{ customer.id}}"></div>
 ```
-### FRONT END VIEW
-
+ FRONT END VIEW
+---------------
 Customers can like the product on the seller products page and can also view the number of likes on that product.
 
 ![Favorite Product/Seller](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/5-15.png)
@@ -79,8 +79,8 @@ Customers can also see the list of his/her liked products and liked sellers from
 
 ![Favorite Product/Seller](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/e-2.png)
 
-### ADMIN END
-
+ ADMIN END
+-------------
 Admin can see the list of all the sellers liked by customers in the multivendor marketplace app.
 
 Sellers >> favorite sellers >> here you can see the list of all sellers liked by customers as well as the number of likes that sellers received from customers.
@@ -92,8 +92,8 @@ Admin can see the list of all the products liked by customers in the multivendor
 ![Favorite Product/Seller](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/favsthr.webp)
 
 
-### SELLER END
-
+ SELLER END
+-------------
 The seller can too view the number of customers who liked their profile page from their account in the Multivendor marketplace app.
 
 Profile>> Liked customer >> Here you can see the list of customers who liked your profile page

@@ -325,7 +325,7 @@ Now, the seller will select a customer tag, enter a price per quantity & **enter
 This way, you can allow your sellers to set a minimum purchase quantity per product based on the customer tags that you have created with the slot pricing feature.
 
 **Store Front Configuration**
-
+-------------------
 For this visit:  
 Multivendor Marketplace Admin Panel > Configuration > Instructions for Marketplace
 

@@ -25,13 +25,13 @@ The Easyship feature app is available for both **Rate Calculation** and **Ful
 
 To activate this feature in your app, simply navigate to the "Feature Apps" section of the [Multivendor Marketplace](/zenith/introduction/) admin panel and activate it from there.
 
-![screenshot_1683278142630](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/05/screenshot_1683278142630-1200x566.png)
+![screenshot_1683278142630](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/featuredapps.webp)
 
 After accessing the **"Feature Apps"** section, you will see a list of available feature apps. Scroll down to find the feature,
 
 then click on the **Enable** button to activate it in your [multivendor marketplace app](/zenith/introduction/).
 
-![image-6-](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/05/image-6-.png)
+![image-6-](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/esyship.webp)
 
 After clicking on Enable button, you need to click on Agree button to proceed with approving the feature app's charges.
 
@@ -50,11 +50,11 @@ In order to activate this feature, the admin must follow these configuration ste
 
 1.  Navigate to Configuration >> Shipping Methods
 
-![screenshot_1683288910350](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/05/screenshot_1683288910350-1200x560.jpeg)
+![screenshot_1683288910350](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/dashboardshippingmethods.webp)
 
 In this section, the admin can select Easyship as a shipping method by enabling it for the sellers to ship their goods.
 
-![screenshot-navin-sh-webkul-com-2023-05-05-17_51_18](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/05/screenshot-navin-sh-webkul-com-2023-05-05-17_51_18-1200x568.png)
+![screenshot-navin-sh-webkul-com-2023-05-05-17_51_18](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/easyshipone.webp)
 
 Once enabled, you will get the option to configure the Easyship settings.
 
@@ -62,7 +62,7 @@ Once enabled, you will get the option to configure the Easyship settings.
 -----------------
 Now, navigate to Configuration >> Admin Easyship Configuration. You need to configure the below-mentioned details as per your requirement and save them.
 
-![Admin-Easyship-Shipping-Configuration-Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/05/Admin-Easyship-Shipping-Configuration-Admin-1200x876.png)
+![Admin-Easyship-Shipping-Configuration-Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/easyshiptwo.webp)
 
 **USAGE AS:** Configure how you want to use the Easyship shipping for the sellers. Either it’s for Fulfillment only or for Both(Shipping and fulfillment).
 
@@ -70,13 +70,13 @@ Now, navigate to Configuration >> Admin Easyship Configuration. You need to conf
 
 **Admin's End:**
 
-![image-21](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/06/image-21.png)
+![image-21](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/easyshipthree.webp)
 
 **Seller's End:**
 
-![screenshot_from_2023_06_06_17_06_48-2-](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/06/screenshot_from_2023_06_06_17_06_48-2--1200x480.png)
+![screenshot_from_2023_06_06_17_06_48-2-](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/easyshipfour.webp)
 
-![screenshot_1686050793034](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/06/screenshot_1686050793034-1200x568.png)
+![screenshot_1686050793034](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/easyshipfive.webp)
 
 **EASYSHIP ACCESS TOKEN:** Here, you need to enter/paste the access token provided by Easyship.
 
@@ -128,15 +128,15 @@ To do this, You need to go to Shopify Backend > Settings > Checkout > Unde
 -----------------------
 The sellers will also get the option to enable Easyship shipping from the **Shipping Configuration** menu of their seller panel.
 
-![image-12-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/05/image-12-1-1200x458.png)
+![image-12-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/easyshipsix.webp)
 
 The sellers can set the Easyship shipping as default option, and also can disable the shipping.
 
-![image-13-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/05/image-13-1-1200x468.png)
+![image-13-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/easyshipsix.webp)
 
 When adding or editing products, sellers have the option to select the desired shipping method.
 
-![image-18-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/05/image-18-1.png)
+![image-18-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/easyshipseven.webp)
 
 **GLOBAL CONFIGURATION:-** In case, the sellers need to configure the shipping parcel details, this can be done from the Global Shipping Configuration.
 

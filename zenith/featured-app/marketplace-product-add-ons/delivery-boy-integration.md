@@ -6,14 +6,14 @@ author: Chirag Tyagi
 
 **[Delivery boy app by Webkul](https://webkul.com/blog/delivery-boy-app-for-shopify/)** is a simplified solution for admin to add agents as delivery boys, assign orders to them, and track orders assigned for deliveries.
 
-Now, the **[Delivery boy app by Webkul](https://webkul.com/blog/delivery-boy-app-for-shopify/)** is integrated with the very popular **[Multi-vendor Marketplace app](https://webkul.com/blog/shopify-multivendor-marketplace-new-theme-launched/)** for Shopify.
+Now, the **[Delivery boy app by Webkul](https://webkul.com/blog/delivery-boy-app-for-shopify/)** is integrated with the very popular **[Multi-vendor Marketplace app](/zenith/introduction/)** for Shopify.
 
 By enabling this featured app, the merchant can allow sellers to add warehouses and manage delivery agents and orders for sellers also.
 
 The agents will manage the deliveries via the Android/iOS mobile app.
 
-### Additional Features of this App
-
+ Additional Features of this App
+-------------
 *   Add delivery agents to manage deliveries for the orders received on your Shopify store.
 *   Agents can easily access the orders received and manage deliveries via the Android/iOS mobile app.
 *   You will have a complete order history to check past deliveries.
@@ -23,8 +23,8 @@ The agents will manage the deliveries via the Android/iOS mobile app.
 
 Let’s understand the workflow.
 
-### Installation
-
+ Installation
+----------------
 ![feature](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/07/feature.png)
 
 ![delivery-6](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/07/delivery-6-1200x627.png)
@@ -35,8 +35,8 @@ And as soon as you agree with this condition you will get the Delivery boy App i
 
 ![image7](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/07/image7-1200x465.png)
 
-### DELIVERY BOY CONFIGURATION
-
+ DELIVERY BOY CONFIGURATION
+-----------------
 After the delivery boy integration app is enabled, go to "**Delivery boy configuration**" to enable the sellers to add their warehouses.  
   
 **Go to configuration >> Delivery boy configuration**
@@ -82,8 +82,8 @@ The admin/merchant has to enable "auto assign warehouse on order line item" opti
 
 After admin enable "auto assign the warehouse on order line item" the admin will manage that seller's orders from the delivery boy app for Shopify only.
 
-### Warehouse management
-
+ Warehouse management
+---------------
 Even, you can make any warehouse as default from the warehouse list so that,
 
 By default, any ordered item will come in that warehouse only if the vendor is not found in order line item.  
@@ -92,8 +92,8 @@ Click on action in front of that warehouse and click “make default” button
 
 ![default-ware](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/07/default-ware-1200x868.png)
 
-### Email/Push Notifications
-
+ Email/Push Notifications
+----------------
 In the app, you can manage notification settings. Visit the Click **Settings>> Notifications Settings**  
 In "Select activity" dropdown, we have several options to select,
 
@@ -134,8 +134,8 @@ And same way for {{agent.contact}} and {{agent.vehicaleNumber}}
 
 Let's proceed to add agents to the app.
 
-### Add Delivery Agents
-
+ Add Delivery Agents
+----------------
 You can easily add the delivery agents to the app for managing your store deliveries.
 
 For this, you need to visit the “Delivery Agents” section of the app and click the “**Add Agent**” button to configure the agent’s account details.
@@ -157,16 +157,16 @@ Even, the admin can track the live location of their all agent. Just go to Deliv
 
 ![track2](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/06/track2-1200x820.png)
 
-### Order Listing
-
+ Order Listing
+---------------
 In the app, whenever a customer orders a product then you can see that order on the order listing page.
 
 Just click on order in your delivery boy app, you will see the order listing page and have the option to accept/reject the orders from the listing and view the order detail also.
 
 ![accept-order](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/06/accept-order-1200x722.png)
 
-### How to Assign Orders to the Delivery Agents?
-
+ How to Assign Orders to the Delivery Agents?
+------------------------
 As soon as a customer places an order, you will get it listed in the app as well.
 
 In the Orders section of the app, you can check the orders received with the “Pending Approval” state.
@@ -201,8 +201,8 @@ In a similar way, **you can assign all ordered inline items to one delivery age
 
 ![delivery-3-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/07/delivery-3-1-1200x627.png)
 
-### Delivery agent order management
-
+ Delivery agent order management
+--------------
 After assigning the order, the delivery agent can accept or reject the order, pick up the order, deliver the order and see other detail from his mobile app.
 
 ![screenshot_2022_07_01_12_03_50_924_com.shopifydeliveryboy.android](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/07/screenshot_2022_07_01_12_03_50_924_com.shopifydeliveryboy.android-473x1024.jpg)
@@ -219,7 +219,7 @@ Go to order >> click on the order which is "out for delivery" >> go to the deliv
 ![image1-3](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/07/image1-3-1200x671.png)
 
 **Product delivered**
-
+------------
 When the ordered product is delivered by the delivery agent then the admin has to "mark as delivered" and "mark commission as paid".
 
 For that particular order then the status of the delivery agent is shown as paid.  
@@ -240,8 +240,8 @@ Then accordingly, paid/ unpaid status will be shown in the delivery agent list.
 
 ![paidunpaid](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/07/paidunpaid-1200x627.png)
 
-### Membership Plans
-
+ Membership Plans
+------------
 The Delivery Boy app comes with three distinctive plans i.e. BASIC, PRO & Elite.
 
 **Basic plan** charges **$5/month**:- You can add up to **2 delivery agents** to manage orders in your store.
@@ -254,8 +254,8 @@ Also, you can allow delivery agents to manage unlimited orders using any of the 
 
 ![tr5](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/06/tr5-1200x515.png)
 
-### How to Install the Mobile App?
-
+ How to Install the Mobile App?
+------------
 In the Mobile App section, we provide QR codes to scan and install the Delivery Boy Mobile app for the agents.
 
 The mobile app is available for **Android** as well as **iOS** devices. All the necessary instructions are provided in the app.
@@ -278,8 +278,8 @@ This is all about how to allow delivery agents to manage the order process using
 
 Let’s understand the delivery agent’s interface i.e. Delivery Boy Mobile App.
 
-### **Mobile App Dashboard:**
-
+ **Mobile App Dashboard:**
+------------
 So, after installing the mobile app, the agents need to login to the app using the credentials
 
 ![Login ](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/05/Login-mock.png)
@@ -324,8 +324,9 @@ Enter the payment method detail and click SAVE button
 
 ### **How to install an IPA from the given link (iOS only)?**
 
-####   
+   
 **Instruction**  
+--------------------
 For installation in your device you can use either of the two options:
 
 Open the URL in the iOS device and **install** it by clicking on the install option. OR

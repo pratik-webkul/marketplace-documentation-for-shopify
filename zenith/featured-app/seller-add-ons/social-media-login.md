@@ -6,10 +6,10 @@ author: Chirag Tyagi
 ---
 Want to make the seller login & sign up process quick? Then here comes the featured app called **SOCIAL MEDIA LOGIN**.
 
-Through which sellers can login to their [Multivendor Marketplace](https://webkul.com/blog/shopify-multivendor-marketplace-new-theme-launched/) seller panel using Gmail and Facebook accounts.
+Through which sellers can login to their [Multivendor Marketplace](/zenith/introduction/) seller panel using Gmail and Facebook accounts.
 
 Let's understand this featured app step by step:-
-
+------------------
 Go to the multivendor admin panel >> hover on three dots >> click on feature apps.
 
 ![Dashboard-Admin-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/10/Dashboard-Admin-1-1200x608.png)

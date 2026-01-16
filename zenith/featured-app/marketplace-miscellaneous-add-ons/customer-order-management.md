@@ -15,8 +15,8 @@ Thus, customer can easily raise **RMA** (Return, Cancel or Exchange) request, *
 
 The app is **FREE** of cost but you have to pay for the integration that will cost you **$15 USD/month** over & above your current Multi-vendor App plan.
 
-### Features
-
+ Features
+----------------
 *   Customers can **raise RMA requests** from their "My Account" section.
 *   Customers can **request for order Invoice**.
 *   Moreover, customers can **reorder their previous purchase** & **get discount benefits**. 
@@ -24,8 +24,8 @@ The app is **FREE** of cost but you have to pay for the integration that will co
 
 Once your customers are happy with the service you provide, you can easily get your sales rolling.
 
-### How to Enable this Feature App?
-
+ How to Enable this Feature App?
+-------------
 To enable the Customer Order Management feature app, you need to visit the “Featured Apps” section of Multivendor admin panel.
 
 There, You can search for the Customer Order Management Feature App. Once you get this feature, you need to click on the “**Enable**” button to activate this feature in Multivendor app.
@@ -38,8 +38,8 @@ Hit the "Enable" button to activate the Feature App.
 
 Now, once you will approve the charge for this app, you will be ended up installing this feature in Multi-vendor app.  
 
-### Workflow
-
+ Workflow
+-----------
 As soon as you enable the Customer Order Management feature app, you will get a new configuration added in the app i.e. **COM Configuration**.
 
 ![customer Order Management1](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/09/COM-App-Configuration-Admin.png)
@@ -52,8 +52,8 @@ Once you add the codes, customers can see the order management options in their 
 
 Let's see how customers manage orders.
 
-### Customer End
-
+ Customer End
+-------------
 As soon as the Customer places an order, he/she will get these options to Request Return, Request Invoice and Reorder and Change Shipping Address.
 
 ![customer Order Management](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/09/Order-1172-%E2%80%93-tarang-store1.png)
@@ -62,8 +62,8 @@ Once the Customer’s order gets fulfilled, he/she can get the three options in 
 
 ![Order Management](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/09/Order-1172-%E2%80%93-tarang-store1-1.png)
 
-###  **REQUEST RETURN**
-
+  **REQUEST RETURN**
+---------------
 Soon after the order gets placed, the customer will get the Cancel Request option.
 
 ![customer Order Management](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/09/Order-Management-%E2%80%93-tarang-store1.png)
@@ -100,8 +100,8 @@ Clicking the **View Details** button, customers can view the complete request de
 
 This way, sellers can update the return request status.
 
-### RMA Listing
-
+ RMA Listing
+------------
 The sellers will have a separate section that lists all the RMA requests received from the csutomers.
 
 ![RMA](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/04/Dashboard-Seller-%E2%80%A2-Multivendor-MarketPlace-1200x528.png)
@@ -116,14 +116,14 @@ You as an admin can configure this mail from the **Mail Configuration** menu of 
 
 ![Screenshot-77](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/04/Screenshot-77-1200x519.png)
 
-### **REQUEST INVOICE**
-
+ **REQUEST INVOICE**
+----------------------
 Customers will also get an option to request an invoice for the order placed by them. They just need to click on the “**Request Invoice**” button and the admin will get notified via mail for this invoice request.
 
 ![ Invoice](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/09/Order-1172-%E2%80%93-tarang-store1-2.png)
 
-### **REORDER**
-
+ **REORDER**
+-------------
 ![Re-Order](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/07/Screenshot-23-png-1287%C3%97581-.png)
 
 Also, Customers can reorder any of their previous purchase just by clicking on the “**Reorder**” button on the order page. The admin will get notified for the same.
@@ -132,8 +132,8 @@ Also, Customers can reorder any of their previous purchase just by clicking on t
 
 Now, once the customer clicks on the “Reorder” button, you can update the product quantity if you want and redirected to the checkout page to reorder the product.
 
-### **CHANGE SHIPPING ADDRESS**
-
+ **CHANGE SHIPPING ADDRESS**
+--------------
 ![Shipping address](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/07/Screenshot-25-png-1288%C3%97579-.png)
 
 You can also provide an option to change the Shipping Address of unfulfilled orders. 
@@ -146,8 +146,8 @@ Once the customer clicks this button, a page appears where he/she can either sel
 
 In this way, the customer can change the shipping address of any unfulfilled item even after placing the order.  
 
-### Order Lookup
-
+ Order Lookup
+-----------------
 Customers who don’t have their account on your Shopify store can also manage their orders using Order Lookup functionality. It is the simplest way to manage orders.
 
 Similarly, customers with disabled accounts can also perform various actions on any of their order within the app. Admin can create a menu named “Order Lookup” on the frontend.

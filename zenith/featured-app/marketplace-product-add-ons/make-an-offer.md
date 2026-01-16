@@ -7,7 +7,7 @@ author: Chirag Tyagi
 
 We are here with another featured app "Make an offer" within the [Multivendor Marketplace for Shopify](https://store.webkul.com/Shopify-Multi-Vendor-Marketplace.html).
 
-You can create "Make an Offer" products and get the request quotes from the customers on any of those products within the [Multivendor Marketplace for Shopify](https://marketplace-doc.webkul.com/zenith/introduction/).
+You can create "Make an Offer" products and get the request quotes from the customers on any of those products within the [Multivendor Marketplace for Shopify](/zenith/introduction/).
 
 And as you have all the details of your customers to easily contact them and pursue them for the purchase.
 
@@ -19,8 +19,8 @@ This featured app will cost you **10$ per month** apart from the monthly cost of
 
 Once you enable the feature app, you will get some additional features.
 
-### Features
-
+ Features
+-----------
 *   Help to convert your store visitors to customers by providing the best offers.
 *   Admin can enable this "Make an offer" feature for the sellers.
 *   Both admin and Sellers can create "Make an Offer" products.
@@ -31,8 +31,8 @@ Once you enable the feature app, you will get some additional features.
 
 **The video tutorial is available now check below:**
 
-### How to activate the "Make an offer" App
-
+ How to activate the "Make an offer" App
+----------------
 You can enable this feature from the "featured app" menu of the Multivendor Marketplace for Shopify app.
 
 Just click on the enable button and use this feature on your store. Which will cost you 10$ USD per month in addition to the Multivendor app plan.
@@ -47,8 +47,8 @@ Which the system adds to the Multivendor Marketplace for Shopify app charges.
 
 ![Make an Offer2](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/maoagree.webp)
 
-### How to Create "Make an Offer" Products
-
+ How to Create "Make an Offer" Products
+----------------
 Both admin and Sellers can create "Make an Offer" Products from their respective panel. You can visit the "Products" section of the Multivendor Marketplace for Shopify app.
 
 Clicking on the "Add Product" button on the "Product Listing Page", choose the product type as "Make an Offer" product and fill the rest of the details to create a product.
@@ -69,8 +69,8 @@ Similarly, Your sellers too can create "Make an Offer" Products from the "Produc
 
 Once you create the 'Make an Offer' product, the system lists it on the 'Product Listing' page.
 
-### Front End Display
-
+ Front End Display
+------------
 In order to apply this “Make an offer” feature on the products, seller end and on the customer end, simply copy and paste the following codes in the respective liquid files on your Shopify store.
 
 1. To display the “Make an offer” button on the front end
@@ -91,14 +91,14 @@ In order to apply this “Make an offer” feature on the products, seller end a
 ```liquid
 <{% unless product.tags contains 'wk\_rfq' %}    {% endunless %}
 ```
-### "Make an offer" Configurations
-
+ "Make an offer" Configurations
+-------------
 Once you enable the 'Make an Offer' feature in your Multivendor Marketplace for Shopify app, you can configure it on the admin end, seller end, and customer end.
 
 Let us understand this one by one.
 
-### Admin End Configuration
-
+ Admin End Configuration
+------------
 After enabling this feature called "Make an offer", you will get three new menus in the Make an offer configuration section of the app i.e.
 
 General Configuration, Label Configuration, and Liquid File Configuration.
@@ -210,8 +210,8 @@ If admin enable the
 *   If the admin rejects the request, then the customer can again request for the offer.  
 *   If the admin enables the tab (for counter price yes/no) admin can negotiate with the customer and mark the status as pending.
 
-### Seller End Configuration
-
+ Seller End Configuration
+--------------
 After logging into the account on the app, the seller can view the customer's request from the "Make an Offer" request menu in the product section of the app.
 
 ![Make an Offer15](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/sellermoa.webp)
@@ -256,8 +256,8 @@ Navigate to **Products > Products Listing**, select the products to be converted
 
 ![Normal to Make an offer product.](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/01/makeanofferup-1200x745.webp)
 
-### Customer End
-
+ Customer End
+---------------
  Simply by clicking the "Make an Offer" button of any product on the product page, the customer can make a request for that particular product.
 
 ![make an offer product](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/Men-s-Shirt-–-multivendor-makeanoffer.png)
@@ -322,8 +322,8 @@ After that, the customer can directly proceed to checkout from the "My Account" 
 
 Now, when the customer clicks the checkout button, the customer will be straightaway redirected to enter the information before payment & checkout.
 
-### Offer Requests on Cart Page
-
+ Offer Requests on Cart Page
+-------------
 Selecting the "**Cart Page**" type from the "**Make an Offer Configuration**". You can allow the buyers to add "make an offer" products (of multiple sellers) to the cart page.
 
 So they can request quotes to each seller (whose products are added to the cart) in a go.

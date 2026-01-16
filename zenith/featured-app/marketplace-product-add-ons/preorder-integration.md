@@ -18,8 +18,8 @@ The sellers can further edit the quantity from the seller panel. Also, disable t
 
 **Note**:- This integration works only in the case of Multi-product Checkout & Automatic PreOrder. Also, the Partial Payment won't work in case of the seller's preorder products.
 
-### Features
-
+ Features
+------------
 *   With the Multi-vendor Marketplace PreOrder Integration, you can enable the "Automatic PreOrder" option for the seller's products.
 *   You can set a default pre-order quantity for products.
 *   Anytime, you can edit the default pre-order quantity that will be a global setting applicable for all the seller's products on your marketplace.
@@ -30,8 +30,8 @@ The sellers can further edit the quantity from the seller panel. Also, disable t
 
 To make this feature work, you need to install the [Pre-Order Controller app](https://apps.shopify.com/pre-order-by-webkul) to your Shopify store. Once done, you can proceed to configure the settings.
 
-### Admin Configuration
-
+ Admin Configuration
+-----------
 **AUTOMATIC PREORDER**
 
 In order to enable pre-order for the seller's products, firstly make sure you have selected the "**Automatic PreOrder**" from the Pre-order Configuration menu of the PreOrder Controller app.
@@ -66,8 +66,8 @@ Here, you can set the product quantity limit that you want to allow for your cus
 
 ![quantity limit for customer](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/11/Screenshot-2020-11-05T130711.813-1200x593.png)
 
-### Seller Configuration
-
+ Seller Configuration
+---------------
 On the seller end, the pre-order will be enabled as soon as the seller's products goes out of stock & the pre-order quantities will be default applied to products to be pre-ordered.
 
 Seller's product that goes "out of stock", will be published in your store for preorder. Later, the seller of the product can update the preorder details while editing the product.
@@ -90,8 +90,8 @@ In case the seller removes the "PreOrder" option from a product in the seller pa
 
 So, in this case, the admin needs to add a preorder manually to this product.
 
-### Restrict Vendors To Create PreOrder
-
+ Restrict Vendors To Create PreOrder
+---------------
 You can now restrict vendors from creating preorder on products in automatic preorder.
 
 To do this, you need to visit the **PreOrder Configuration** menu of the app and add vendors whom you want to restrict.
@@ -146,8 +146,8 @@ Sellers can **end a preorder campaign at any time**.
 
 That's all about the admin & the seller end configuration.
 
-### Customer End
-
+ Customer End
+--------------------
 To show the preorder details on your storefront, you need to **add the codes to the suggested liquid files**. **[CHECK THE COMPLETE GUIDE](https://webkul.com/blog/shopify-pre-order/#configure-front-end)**.
 
 This is how the PreOrder Product appears on the product page:-

@@ -4,12 +4,12 @@ description: SELLER MEMBERSHIP
 date: 2025-07-29
 author: Chirag Tyagi
 ---
-Till now you must have switched to the new theme, or some of you have just installed the [Multivendor Marketplace App](https://webkul.com/blog/shopify-multivendor-marketplace-new-theme-launched/) and want to have the "Seller Membership" feature app, then do refer to this.
+Till now you must have switched to the new theme, or some of you have just installed the [Multivendor Marketplace App](/zenith/introduction/) and want to have the "Seller Membership" feature app, then do refer to this.
 
 This feature app allows the Admin/Store Owner to make plans for the Sellers and they need to subscribe to the plan in case they need to publish the products in the Admin Shopify Store.
 
-### Features
-
+ Features
+-----------------
 * Admin can make membership plans for the Sellers.
 * Sellers can subscribe to the plan to publish their products to the admin's store.
 * Being an admin, You can enable or disable the membership for the sellers.
@@ -23,10 +23,10 @@ The featured app is a monthly costing of **$25 USD** per month apart from the M
 
 Check the below video of Seller Membership:
 
----
 
-### Activation
 
+ Activation
+-----------------
 You need to enable the App from here:
 
 **Go to Admin Panel → Feature App section → Enable the feature → Save Changes.**
@@ -35,10 +35,10 @@ You need to enable the App from here:
 
 Once you enable the featured app, you need to approve the charges for the app i.e. **$25 USD/month**.
 
----
 
-### Admin End
 
+ Admin End
+------------------
 Once the App is activated, Admin will configure the same from the **Configuration → Membership Configuration** menu:
 
 ![seller membership](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/membershipconfiguration.webp)
@@ -50,18 +50,18 @@ Once the App is activated, Admin will configure the same from the **Configuratio
 * **Allow Seller to Deactivate Membership** – Let sellers cancel membership if needed.
 * **Provide Plan Link on Seller Dashboard Header** – Show a "Plan" link on the seller panel header.
 
----
 
-### Accept Card Details Before Trial Period
 
+ Accept Card Details Before Trial Period
+----------------
 Go to **Multi-vendor Admin Panel → Configuration → Membership Configuration**, then enable the tab.
 
 ![Screenshot-4](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/updatecarddetails.webp)
 
----
 
-### Create New Plans
 
+ Create New Plans
+------------------
 **Go to Sellers → Seller Membership Plans** in the app.
 
 [![seller membership](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/createnewplans-scaled.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/createnewplans-scaled.webp)
@@ -76,10 +76,10 @@ While creating a plan:
 * Choose product limit (unlimited or fixed count).
 * Set due date, grace period.
 
----
 
-### Set Commission on Membership Plans
 
+ Set Commission on Membership Plans
+-----------------
 While creating a plan, enable **Set Commission by Membership Plan** and enter a percentage.
 
 ![Add Membership Plan Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/setcommissionbymp.webp)
@@ -87,18 +87,17 @@ While creating a plan, enable **Set Commission by Membership Plan** and enter a 
 > Commission Priority:
 > Membership > Product-wise > Category-wise > Seller-wise > Global
 
----
 
-### Restrict Sellers to Add Staff in Membership Plan
-
+ Restrict Sellers to Add Staff in Membership Plan
+----------------------
 If using the [Seller Staff App](https://webkul.com/blog/shopify-multivendor-marketplace-app-seller-staff/), restrict staff per membership plan.
 
 ![Add Membership Plan Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/restrictchanges.webp)
 
----
 
-### Set One-Time Setup Fee for Sellers
 
+ Set One-Time Setup Fee for Sellers
+----------------
 Set one-time setup fee when creating plans.
 
 ![One time setup fee](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/onetimesetupfee.webp)
@@ -108,10 +107,9 @@ Reorder plans via:
 
 ![screenshot_from_2022_09_23_19_35_15](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/reorderplan.webp)
 
----
 
-### Assign Membership Plans to Sellers
-
+ Assign Membership Plans to Sellers
+-----------------------
 #### While Adding Seller:
 
 After filling details and clicking **Save**, select a plan.
@@ -125,10 +123,9 @@ You’ll see plans appear after clicking **Save Changes**.
 View subscribed sellers here:  
 [![Membership5](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/paymentstatus.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/paymentstatus.webp)
 
----
 
-### Payment from Seller
-
+ Payment from Seller
+----------------
 More on this here:  
 👉 [Seller Membership Payment Methods](https://webkul.com/blog/seller-membership-payment-methods-multi-vendor-marketplace-for-shopify/)
 
@@ -138,10 +135,10 @@ More on this here:
 
 ![membership](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/membershippaymentdetails.webp)
 
----
 
-### Seller End
 
+ Seller End
+---------------------
 Sellers will see membership options right after signing up.
 
 ![Membership3](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/membershipplanonsellersignup.webp)
@@ -151,10 +148,10 @@ If it’s a **Prepaid Plan**, seller chooses and pays via available payment meth
 
 [![Membership2](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/choosepaymentmethod.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/choosepaymentmethod.webp)
 
----
 
-### Deactivate Plan (Admin & Seller)
 
+ Deactivate Plan (Admin & Seller)
+-----------------
 **Admin Panel:**
 
 Go to **Sellers → Membership Plan → Select Seller → Deactivate**
@@ -183,10 +180,9 @@ If card is invalid:
 
 ![Screenshot-by-Lightshot-3-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/08/Screenshot-by-Lightshot-3-1-1200x812.png)
 
----
 
-### Payment History
-
+ Payment History
+--------------------
 Admin:
 
 * Go to **Sellers → Seller Memberships → Select Seller → Payment History → View**
@@ -198,18 +194,18 @@ Seller:
 
 * Go to **Profile → Membership Plan**
 
----
 
-### Display Membership Plan Only to Selected Sellers
 
+ Display Membership Plan Only to Selected Sellers
+------------------
 Enable **Assign to Particular Seller** while creating the plan and enter seller emails.
 
 ![image](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/assigntopertiseller.webp)
 
----
 
-### EcPay Payment Method for Membership
 
+ EcPay Payment Method for Membership
+-------------------
 #### How to Enable EcPay:
 
 * Go to **Configuration → Membership Payment Details**
@@ -237,10 +233,10 @@ Enable **Assign to Particular Seller** while creating the plan and enter seller 
 
 **Note:** After payment confirmation, seller is redirected automatically.
 
----
 
-### How to Deactivate Membership
 
+ How to Deactivate Membership
+----------------------
 1. Seller Dashboard → Profile → Membership Plan
 2. Click **Deactivate**, confirm.
 

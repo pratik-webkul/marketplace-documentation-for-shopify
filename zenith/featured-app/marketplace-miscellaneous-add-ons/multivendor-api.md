@@ -37,8 +37,8 @@ Besides that, this will have additional charges of USD15 per month over and abov
 
 Click the **ENABLE** button to activate the Multi-vendor API feature app.
 
-### Features of Multi-vendor API Version 2
-
+ Features of Multi-vendor API Version 2
+-----------------
 *   Admin can **add multiple users** and **generate API credentials** to let them access Multi-vendor API for version 2.
 *   Admin can **assign permissions** to users for various resources such as Products, Orders & Account Info.
 *   From the **Seller Listing** section, admin can **generate API credentials** for the sellers.
@@ -56,8 +56,8 @@ Click the **ENABLE** button to activate the Multi-vendor API feature app.
 > 
 > 2\. The API rate limit is 2 API calls per second
 
-### API Doc
-
+ API Doc
+-------------
 API Doc includes all the URLs listed in POST, GET, PUT & DELETE method.
 
 **POST Method** of the API is where developers can interface with other API or system to get the desired outcome. It is more often utilized to create new resources.
@@ -72,8 +72,8 @@ API Doc includes all the URLs listed in POST, GET, PUT & DELETE method.
 
 **Base URL**: [https://mvmapi.webkul.com](https://mvmapi.webkul.com/)
 
-### How to Add Users?
-
+ How to Add Users?
+--------------
 As soon as you enable the Multi-vendor API feature app, the **Multi-vendor API** menu gets reflected in the side menu of the admin panel.
 
 ![AwesomeScreenshot-shopify-trunk-webkul-shopify-mp-admin-index.php-2019-07-31_2_50-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/07/31092103/AwesomeScreenshot-shopify-trunk-webkul-shopify-mp-admin-index.php-2019-07-31_2_50-1.png)
@@ -98,8 +98,8 @@ This way, you can add user & assign certain permissions to let him/her access th
 
 Now, let's see how the marketplace sellers will get access to multi-vendor APIs.
 
-### How to Allow Sellers to Get Access to APIs?
-
+ How to Allow Sellers to Get Access to APIs?
+-----------------
 #### **ADMIN PANEL**
 
 With this new API Version 2, You can allow sellers to get the API credentials & let them access Multi-vendor APIs with limited permissions.

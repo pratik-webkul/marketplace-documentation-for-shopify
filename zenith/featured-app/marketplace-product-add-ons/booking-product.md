@@ -23,8 +23,8 @@ Customers can request the admin to "**Reschedule**" or "**Cancel**" the bookings
 
 If you choose the Pro plan ($60/month) and enable the Booking App by Webkul ($18/month), your total monthly charge will be $78/month ($60 + $18).
 
-### Features
-
+ Features
+------
 *   Allow sellers to add bookings to your store products.
 *   Let the sellers create slots for the booking product and customers can choose their preferable slot at the time of booking.
 *   Additional information about your booking products can be added and displayed on the product page.
@@ -36,8 +36,8 @@ If you choose the Pro plan ($60/month) and enable the Booking App by Webkul ($18
 *   Auto-approve customer's bookings for sellers each time a new booking request arises.
 *   You can now configure labels of the seller dashboard.
 
-### Installation
-
+ Installation
+----------------
 ![Booking App](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/1featuredapp.webp)
 
 ![Feature Apps-Booking App](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/2activatebookingproduct.webp)
@@ -50,8 +50,8 @@ Now once you click on the "Enable" button you will be asked to install the "Book
 
 And as soon as you agree with this condition you will get the Booking App installed on your store.Thus, this Booking Product feature gets enabled on your marketplace.
 
-### Allow Sellers To Open Booking Dashboard Within The App (iframe)
-
+ Allow Sellers To Open Booking Dashboard Within The App (iframe)
+-------------------
 If you want to allow your sellers to open the booking dashboard with the app, then for this visit
 
 App admin panel>>Configuration>>Booking Configuration>>Enable the tab
@@ -62,8 +62,8 @@ This is how it will look on the seller's dashboard.
 
 ![screenshot_1695926946454](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/09/screenshot_1695926946454-1200x590.png)
 
-### Workflow: Admin Panel
-
+ Workflow: Admin Panel
+-----------------
 Once you enable the "Booking Product" feature app on your store, you can now select any product from the "Product Listing" section of the Multivendor app,
 
 choose it's variant and then add booking on it.
@@ -102,8 +102,8 @@ Here, you can set the dates between which your bookings will be available and al
 
 ![appointment type bookings](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/07/screencapture-multivendor-booking-demo-myshopify-admin-apps-6043cafc33a5367e6b33e0d516701a03-booking-management-web-en-app-member-booking-products-edit-booking-product-4636-2019-05-30-16_42_42-e1559222575983.png)
 
-### **Overwrite Specific Days**
-
+ **Overwrite Specific Days**
+-------------------
 In this feature, you, as an admin, can close bookings for specific days or time periods in any of his created slots.
 
 All you need to do is create slots on specific days or times that will overwrite the previous slots created for the booking product.
@@ -126,8 +126,8 @@ To make the bookings & slots visible to the customers on the front end, you need
 
 Let’s discuss the six different types of bookings in detail.
 
-### One Day Booking
-
+ One Day Booking
+-----------------
 If You want to offer any service for a day, you can choose this booking type. Thus, customers will select the slot and book the service for a day.
 
 Now, Let’s take an example: One Day Cab booking service: You as an admin can set a duration and the customers will select a slot to book for a day.
@@ -212,8 +212,8 @@ Also, you will also get an option to add day-wise booking on products simply by 
 
 **[Click Here](https://webkul.com/blog/shopify-booking-app-day-wise-booking/) to know about Day-wise booking in detail.**
 
-### Configuration
-
+ Configuration
+-----------------
 **Backend Configuration**
 
 ![b5](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/09/b5-1200x585.png)
@@ -236,8 +236,8 @@ You as an admin can configure all the labels to be displayed on the frontend.
 
 ![configure front](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/07/Screenshot-38-3.png)
 
-### Configure Seller Booking Dashboard Labels
-
+ Configure Seller Booking Dashboard Labels
+-------------------
 Now, You can configure the labels of the seller's booking dashboard.
 
 To make the changes, you need to visit the **Booking App**\>>Go to **Configurations**\>>Front Labels>>Select **Seller Side** labels>>Change the labels>>Save.
@@ -248,8 +248,8 @@ Clicking the seller side, You will have the option to configure labels of seller
 
 ![b7](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/09/b7.png)
 
-### Seller End
-
+ Seller End
+-----------------
 Similarly, sellers registered on your marketplace can also add bookings on their products using this app.
 
 Once the admin enables this feature on his/her end, sellers will get an option of "**Add Booking**" in the action menu of the product section in the seller panel of the Multivendor app.
@@ -309,8 +309,8 @@ Customer can simply select their preferred slot and book the service.
 
 This is all about the seller end.
 
-### View Booking Details
-
+ View Booking Details
+----------------
 Once the customer book any product, admin can view the complete booking details from the "**Orders**" section of the Multivendor app.
 
 Follow the procedure to view the customer's booking details:
@@ -347,8 +347,8 @@ From there, the seller can **approve**, **cancel** or **reschedule** customer's 
 
 In case the "Auto-approve" tab is enabled from the Configuration menu, the customer's booking request will get approved automatically.
 
-### Auto-approve Bookings
-
+ Auto-approve Bookings
+--------------
 You can get the booking requests auto-approved in the app for sellers. Thus, the sellers don't need to check & approve customer's booking requests each time a new request arises.
 
 All you need to do is just go to the **Configuration** menu of the Booking App and **enable** the "**Auto-Approval Booking**" tab.
@@ -361,8 +361,8 @@ The sellers can view the approved bookings from their respective seller panels.
 
 ![auto approve bookings](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/12/Bookings-1-1200x627.png)
 
-### How to Cancel Bookings?
-
+ How to Cancel Bookings?
+-------------------
 In the feature app, You can configure two settings for booking cancellation.
 
 You can either allow sellers to cancel customer's booking from their respective seller panels OR You can allow customers to cancel bookings on their own. Let's understand both of them.
@@ -413,16 +413,16 @@ This way, the customer can cancel a booking.
 
 ![booking canceled](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/12/Screenshot-86-1200x517.png)
 
-### Customer End
-
+ Customer End
+----------------
 Customer can view the booking details from their respective "**My Account**" section.
 
 ![customer bookings](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/07/Order-1004-–-multivendor-booking-demo.png)
 
 This is all about the Booking Product feature app of the [Multivendor Marketplace](https://webkul.com/blog/shopify-multivendor-marketplace-new-theme-launched/) app for Shopify.
 
-### Recent Updates
-
+ Recent Updates
+----------------
 #### **Cart Lock Feature**
 
 You can now set a duration up to which you want to lock the seller's booking products/services in the customer’s shopping carts.
@@ -486,8 +486,8 @@ Also, you can allow sellers to choose the booking type from their respective sel
 
 ![b15](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/09/b15.png)
 
-### Upload Favicon Icon for Sellers
-
+ Upload Favicon Icon for Sellers
+---------------
 You can now upload a favicon icon for your seller panel.
 
 Follow the steps to upload the Favicon Icon: Go to Configuration\>>Upload an Icon\>>Save.

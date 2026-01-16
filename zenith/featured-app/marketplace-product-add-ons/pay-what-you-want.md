@@ -4,7 +4,7 @@ description: PAY WHAT YOU WANT
 author: Chirag Tyagi
 ---
 
-We have introduced **Pay what you want** feature app within the [Multivendor Marketplace App](https://webkul.com/blog/shopify-multivendor-marketplace-new-theme-launched/) for Shopify.
+We have introduced **Pay what you want** feature app within the [Multivendor Marketplace App](/zenith/introduction/) for Shopify.
 
 **Pay what you want** (**PWYW**) also known as **Value-for-Value** model is a pricing strategy where buyers pay their desired amount for a given commodity.
 

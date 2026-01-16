@@ -6,7 +6,7 @@ author: Chirag Tyagi
 ---
 
 
-The [Multivendor Marketplace for Shopify](/zenith/introduction/overview.html) is now integrated with the **SMS Gateway tools**(SMS Alert) for sending automated messages & calls.
+The [Multivendor Marketplace for Shopify](/zenith/introduction/) is now integrated with the **SMS Gateway tools**(SMS Alert) for sending automated messages & calls.
 
 Enable the SMS Alert feature app to include this functionality in your marketplace.
 
@@ -16,11 +16,11 @@ Earlier in the multivendor marketplace, notification of a new order placed by th
 
 **Charges:** This will cost an additional **5 USD** per month over & above your current Multivendor Marketplace plan.
 
-### Enable SMS Alert Feature App
-
+ Enable SMS Alert Feature App
+---------------
 Visit the '**Feature app**' section from your multivendor marketplace admin panel. Now, click on the enable button to install the app.
 
-![Multivendor Marketplace for Shopify: Clockwork Integration](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/05/29113657/AwesomeScreenshot-Feature-Apps-Admin-2019-07-29-17-07-39.png)
+![Multivendor Marketplace for Shopify: Clockwork Integration](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/sms11.webp)
 
 Once done, you need to accept the payment. Further, you can enable the app successfully.
 
@@ -33,19 +33,19 @@ Firstly, the admin needs to set up the SMS Gateways. There are two SMS Gateways 
 
 For configuration, visit **Multivendor Marketplace Admin Panel** > **Orders** > **SMS Gateway Settings**
 
-![SMS-Gateway-Setting-Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/01/SMS-Gateway-Setting-Admin-1200x597.png)
+![SMS-Gateway-Setting-Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/sms2.webp)
 
 Here, you can activate both or any one of the SMS Gateways.
 
-### Configuring Clockwork SMS Gateway
-
+ Configuring Clockwork SMS Gateway
+---------------------
 Firstly, click on the three dots to activate the gateway. Refer:
 
-![SMS-Gateway-Setting-Admin-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/01/SMS-Gateway-Setting-Admin-1-1200x597.png)
+![SMS-Gateway-Setting-Admin-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/sms3.webp)
 
 Once you click on the activate button, you need to enter the **Clockwork API key**.
 
-![SMS-Gateway-Setting-Admin-2](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/01/SMS-Gateway-Setting-Admin-2-1200x597.png)
+![SMS-Gateway-Setting-Admin-2](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/sms4.webp)
 
 Enter the key & save the details.
 
@@ -53,15 +53,15 @@ Enter the key & save the details.
 
 To get the API key you have to create an account on **[Clockwork](https://www.clockworksms.com/)** and select the plan as per your requirement.
 
-### Configuring Twilio SMS Gateway
-
+ Configuring Twilio SMS Gateway
+-----------------
 You can activate the Twilio SMS Gateway by clicking on the three dots. Refer:
 
-![SMS-Gateway-Setting-Admin-3](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/01/SMS-Gateway-Setting-Admin-3-1200x597.png)
+![SMS-Gateway-Setting-Admin-3](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/sms5.webp)
 
 Once you'll click on the activate button, you'll be asked to enter the **Twilio SID** & **Auth Key**. Enter these details and save them to proceed.
 
-![SMS-Gateway-Setting-Admin-4](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/01/SMS-Gateway-Setting-Admin-4-1200x597.png)
+![SMS-Gateway-Setting-Admin-4](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/sms6.webp)
 
 **How to get Twilio SID & Auth Key?**
 
@@ -76,7 +76,7 @@ Furthermore, after entering these Twilio keys, you'll be able to configure Twili
 
 Now, visit **Multivendor Marketplace Admin Panel** > **Configuration** > **SMS Twilio Configuration**.
 
-![SMS-Twilio-Configuration-Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/01/SMS-Twilio-Configuration-Admin-1200x887.png)
+![SMS-Twilio-Configuration-Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/sms7.webp)
 
 Here, you need to enter the **Twilio Contact Number** (it should be in international format).
 
@@ -108,11 +108,11 @@ After setting up the SMS Gateways, now, you need to do the SMS Settings.
 
 Thus, add GEO locations to your Twilio account accordingly.
 
-### SMS Settings
-
+ SMS Settings
+--------------
 Visit **Multivendor Admin Panel** > **Orders** > **SMS Settings**.
 
-![SMS-Message-Setting-Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/01/SMS-Message-Setting-Admin-1200x860.png)
+![SMS-Message-Setting-Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/sms8.webp)
 
 Configure the following details:
 
@@ -120,14 +120,14 @@ Configure the following details:
 *   **From Name:** Enter the sender's name. Example: Demo Store Admin
 *   **Content:** Enter the content of the SMS that you want to send to your sellers with respect to the Gateway you are using.
 
-### Important Points
-
+ Important Points
+-------------
 *   In the case of Clockwork Gateway:  
     Admin needs to enter the contact number registered with the SMS Gateway by visiting **Configuration** > **General Configuration**.  
     Enter the number with country code, starting without ‘**+**’ and ‘**0**’. Moreover, the number should be in international format.  
     Refer:
 
-![Configuration-Admin-3](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/01/Configuration-Admin-3-1200x597.png)
+![Configuration-Admin-3](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/sms9.webp)
 
 *   In the case of any SMS Gateway:  
     The sellers have to enter their contact number in order to receive messages regarding new orders.  
@@ -135,7 +135,7 @@ Configure the following details:
 *   For this, sellers need to visit their **multivendor seller panel** > **Profile** > **My Account**. Further, enter the contact number & save. (Enter the number with country code, starting without '**+**' and '**0**'.)
 *   Moreover, the number should be in international format.
 
-![My-Account-Seller-•-Multivendor-MarketPlace](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/01/My-Account-Seller-%E2%80%A2-Multivendor-MarketPlace-1200x597.png)
+![My-Account-Seller-•-Multivendor-MarketPlace](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/sms10.webp)
 
 *   The number of messages will depend on the plan selected by you on your SMS Gateway account.
 *   Monthly payment to your SMS Gateway providers on the basis of their plan chosen by you will be separate. That is, it will be over and above the marketplace plan + SMS Alert feature app's monthly charges.

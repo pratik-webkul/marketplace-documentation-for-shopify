@@ -27,10 +27,8 @@ Once you enable the multi-inventory option on admin end, both you and your selle
 
 **Now, you can check the video Tutorial here as well.**
 
-beQLoQGH3ws
-
-### How to Activate this Feature?
-
+ How to Activate this Feature?
+------------------
 To make this feature work on the Multivendor App, admin first needs to add various locations from store backend.
 
 ![download-14](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/02/download-14-1200x461.png)
@@ -43,8 +41,8 @@ This way the admin can enable this feature app.
 
 NOTE:- We don’t manage the inventory tracking in case the Custom Fulfillment set on Your Store.
 
-### Workflow
-
+ Workflow
+----------------
 **ADMIN END**
 
 In order to track the inventory on multiple locations, the admin will add various locations from store backend.
@@ -73,8 +71,8 @@ In case you choose this location type, your product inventory will get transferr
 
 ![multi vendor marketplace](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/08/JohnDoe2-_-Locations-_-Shopify-1.png)
 
-### **Multi-location Inventory**
-
+ **Multi-location Inventory**
+---------------------
 Now, you can view all the added inventory locations in the **Multi-location Inventory** section of the app.
 
 ![multi vendor marketplace](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/08/Home-_-Admin.png)
@@ -113,8 +111,8 @@ Admin Panel of Multivendor App>>Products>>Product Listing>>Add Product>>Track In
 
 ![tracking](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/01/Add-Product-Admin-2.png)
 
-### Default Location for Sellers
-
+ Default Location for Sellers
+------------------
 Now, the admin can **set** the “Default Inventory Location” for the sellers from the “Edit Seller” section of the app.
 
 Go to Multivendor **Admin** Panel>>Go to **Sellers**\>>**Seller Listing**\>>Click “**Edit**” in Action menu>>Scroll down to get the **Seller Default Location section** in the bottom-right corner.
@@ -149,8 +147,8 @@ Also, Once You deactivate the Default Location from Your Store, you need to sync
 
 Admin can also select the Priority location for his/her sellers from the Action menu. 
 
-### Seller Panel
-
+ Seller Panel
+---------------
 Similarly, from their respective panels, Sellers can enable the inventory location where he/she wants to stock the products. The seller can follow the below-given procedure for this:
 
 Seller Panel of the Multivendor App>>Products>>Product Listing>>Click on “Add Product”
@@ -167,8 +165,8 @@ While adding a new product, the seller will get the option to select the invento
 
 Once the admin sets a default inventory location for the seller, the seller will get only that location to track product inventory while adding/editing any product.
 
-### Orders
-
+ Orders
+------------
 When an order is placed for the products with multiple inventory locations, sellers will get the option to update the location while fulfilling the order.
 
 ![fulfill](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/01/Order-Seller-%E2%80%A2-Multivendor-MarketPlace.png)

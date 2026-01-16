@@ -4,14 +4,15 @@ description: ADMIN STAFF
 date: 2025-07-25
 author: Chirag Tyagi
 ---
+
 We are here with another feature within [the Multivendor Marketplace App](https://store.webkul.com/Shopify-Multi-Vendor-Marketplace.html) for Shopify called "**Admin Staff**".
 
 It enables the store owner to add members and assign different permissions to them in order to manage activities on admin panel.
 
 Once the charges have been approved, an additional USD 10 per month will be added to your current multivendor plan.
 
-### Features of Admin Staff
-
+ Features of Admin Staff
+-------------
 Admin can add staff members from his panel.
 
 He can permit him/her to manage admin's account on his behalf.
@@ -24,8 +25,8 @@ He can edit, delete or disable the staff as per his requirement.
 
 Now admin can give access to the staff subcategory wise.
 
-### Activation of this Feature in Admin Staff
-
+ Activation of this Feature in Admin Staff
+----------------
 To make this feature work within the app, you need to enable it from the "Feature App" section of the admin panel.
 
 ![Feature App](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/06/Dashboard-Admin-1.png)
@@ -42,8 +43,8 @@ Once you click this enable button, you need to agree with the additional amount 
 
 In this way, you can activate this feature within your Multivendor app.
 
-### How does this feature work
-
+ How does this feature work
+----------------
 To add staff members, the admin should initially navigate to the 'Seller' section. Next, they need to click on the 'Add Staff' button within the 'My Staff' menu.
 
 Furthermore, this process enables streamlined management of staff accounts

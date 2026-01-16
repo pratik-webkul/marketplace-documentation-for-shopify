@@ -11,8 +11,8 @@ Admin can track the shipment while the seller has the choice to select who will 
 
 To get this app, you have to pay 10$ (USD) per month over and above the monthly charges of the Multivendor Marketplace App.
 
-### Features
-
+ Features
+-------------
 *   Admin can manage the product stock from his seller/vendor.
 *   Admin can accept or reject the fulfillment request from sellers.
 *   On fulfillment request acceptance by the admin, the seller will send product quantity but cannot update the product quantity on his own.
@@ -21,8 +21,8 @@ To get this app, you have to pay 10$ (USD) per month over and above the monthly 
 *   Customers can see who has fulfilled the order on the product page.
 *   Compatible with the **[Partial Fulfillment](https://webkul.com/blog/shopify-multivendor-marketplace-partial-fulfillment/)** feature.
 
-### Let's see how to Activate the stock management feature app
-
+ Let's see how to Activate the stock management feature app
+----------------
 Go to the feature app section and click on enable as shown in the screenshot below:
 
 ![Multivendor Marketplace for Shopify: Stock Management](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/29112930/AwesomeScreenshot-Feature-Apps-Admin-2019-07-29-16-07-97.png)
@@ -43,8 +43,8 @@ if exist) to display the fulfillment information on the storefront (product des
 ```
 Once the code is added, the customer can see the information if the product is fulfilled by the admin or the seller.
 
-### Admin end
-
+ Admin end
+--------------
 Once the featured app Stock Management is enabled then in configuration menu one new menu will be added:
 
 *   Fulfillment Configuration
@@ -98,8 +98,8 @@ In the fulfillment request page, the admin can see all the fulfillment requests 
 
 ![Multivendor Marketplace for Shopify: Stock Management](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/Fulfillment-Request-Admin.png)
 
-### Seller End
-
+ Seller End
+---------------
 New sub-menu 'Fulfillment configuration' will be added in the configuration menu of the seller panel:
 
 ![Multivendor Marketplace for Shopify: Stock Management](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/Dashboard-Seller-•-Multivendor-MarketPlace-1-1.png)
@@ -126,8 +126,8 @@ The seller can simply select the service and proceed to send the desired product
 
 Go to edit product page, set a product quantity and send it to admin for fulfillment.
 
-### How the seller sends products to the merchant
-
+ How the seller sends products to the merchant
+----------------
 Let's see how the seller sends the product quantity to the merchant so that he can fulfill the order for the customers.
 
 Go to the products >> product listing >> click on edit:
@@ -196,8 +196,8 @@ Here admin would be able to see the order status and other details as shown belo
 
 ![list](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/09/list-1200x406.png)
 
-### Shopify Store Front
-
+ Shopify Store Front
+-------------
 If the seller selects the product "fulfilled by the admin" then it will be shown on the product page.  
 Please refer to the screenshot below:  
 

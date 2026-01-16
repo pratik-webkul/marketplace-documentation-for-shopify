@@ -541,7 +541,7 @@ If the admin wants to sync product categories from **Shopify to Multivendor**, t
 ![Dual sync](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/dualsyncproducttax.webp)
 
 **Separate filters "Filter By" & "Search By" at Product Listing**
-
+---------------------
 We’ve enhanced the product listing page by adding more specific filter options for admins and sellers. These new filters make it easier to manage and organize products efficiently.
 
 Admins and sellers can now filter products by status, such as Global Product, Approved, Approval Pending, and more, using the available filters.
@@ -555,3 +555,22 @@ Both the filter and search functionalities also work independently.
 ![search by](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/productlistingfiltertwo-scaled.webp)
 
 However, admins and sellers can conveniently search using the “Search by” option.
+
+ Product Activity Log
+-----------------
+We have introduced a new feature in the **Multivendor app** within the **Zenith theme**. Admins can now track detailed **product-related activity logs**, including:
+
+- When products are **added**
+- When products are **deleted**
+- When products are **approved**
+- When products are **disabled**
+
+### How to View Product Activity Logs
+
+To access the product activity logs, follow the steps below:
+
+1. Go to the **Multivendor Admin Panel**
+2. Navigate to **Products**
+3. Click on **Activity Logs**
+
+![Product Activity Logs](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/listing.webp)

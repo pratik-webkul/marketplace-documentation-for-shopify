@@ -4,7 +4,7 @@ description: CROWDFUNDING
 author: Chirag Tyagi
 ---
 
-The [Multivendor Marketplace App](/zenith/introduction/overview.html) is now integrated with the [Crowd Funding App](https://store.webkul.com/Shopify-Crowdfunding.html) for Shopify. Allow sellers to add crowdfunding projects/campaigns and raise funds for the cause.
+The [Multivendor Marketplace App](/zenith/introduction/) is now integrated with the [Crowd Funding App](https://store.webkul.com/Shopify-Crowdfunding.html) for Shopify. Allow sellers to add crowdfunding projects/campaigns and raise funds for the cause.
 
 To use this feature, you need to install the **[Crowdfunding App](https://webkul.com/blog/shopify-crowd-funding-app/)** on your Shopify store from the [official Shopify app store](https://apps.shopify.com/crowd-funding).
 
@@ -18,8 +18,8 @@ The app will cost you **$15/month**. Further, you can enable this add-on on the 
 
 \[In case you need our help with the addition of codes, kindly drop an email at **support@webkul.com**\]
 
-### How to add Crowdfunding Product?
-
+ How to add Crowdfunding Product?
+-------------
 The admin as well as sellers can add the crowdfunding products from their respective panels.
 
 Visit **Multivendor Admin/Seller Panel** \> **Products** > **Product Listing** \> **Add Product** > Choose product as **Crowdfunding Product**:
@@ -28,8 +28,8 @@ Visit **Multivendor Admin/Seller Panel** \> **Products** > **Product Listing** \
 
 Next, add the following details:
 
-#### PROJECT DETAILS
-
+ PROJECT DETAILS
+-----------------
 *   **Seller Email**: Enter the seller's email ID on behalf of whom you are creating the project. Note: This field will not be present at the seller's end.
 *   **Project Title**: Enter the title of your crowdfunding project.
 *   **Image**: Upload image for your project.
@@ -39,8 +39,8 @@ Next, add the following details:
 
 ![image-7](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/08/image-7-978x1024.png)
 
-#### DONATION & REWARDS
-
+ DONATION & REWARDS
+----------------
 Fill in all the donations and rewards details that you want to create for your customers for funding the project.
 
 *   Add donation amount
@@ -73,8 +73,8 @@ The admin or the seller can add an amount to boost the campaign as shown in the 
 
 This amount will be added to the donated amount on the frontend, it will affect your targeted amount.
 
-### Crowdfunding Story Update
-
+ Crowdfunding Story Update
+-----------------
 In case the admin or seller wants to add updates about the campaign, they can upload stories to the project.
 
 Visit **Multivendor Admin/Seller Panel** > **Products** > **Product Listing** > **View the Product**:

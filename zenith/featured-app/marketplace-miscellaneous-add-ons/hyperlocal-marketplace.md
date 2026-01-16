@@ -20,8 +20,8 @@ It further scans the nearest registered service providers (vendors). Therefore, 
 
 ![hyperlocalmarketplace](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/07/hyperlocalmarketplace-1200x597.png)
 
-### Installation
-
+ Installation
+---------------------
 Enable the following app by visiting:
 
 *   Multi-Vendor **Admin Panel**
@@ -34,10 +34,8 @@ Enable the following app by visiting:
 
 The video tutorials is available now please check below:
 
-FZ\_yLTvmAyg
-
-### Configuration: Admin Panel
-
+ Configuration: Admin Panel
+---------------
 The admin needs to configure the app by visiting:
 
 *   Multi-Vendor **Admin Panel**
@@ -108,8 +106,8 @@ Lastly, you can customize the labels of the 'Nearby Service' section page.
 
 _NOTE: The number of sellers available at your location will be replaced by the #COUNT#._
 
-### Hyperlocal Global Selling
-
+ Hyperlocal Global Selling
+--------------
 The admin can choose whether he wants his sellers to sell their products without location restriction or not.
 
 For this, enable the following tab under **Hyperlocal Configuration**:
@@ -126,14 +124,14 @@ Note that those sellers who have opted this options doesn't need to enter their 
 
 Moreover, they will be listed after the sellers with defined locations.
 
-### Redirect to Seller Listing Page
-
+ Redirect to Seller Listing Page
+-------------
 The admin can choose whether he wants his customers to redirect to the seller listing page after searching results for their location or to the by-default home search result page.
 
 ![Customize_Hyperlocal_Configuration_Page_Admin-1-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/05/Customize_Hyperlocal_Configuration_Page_Admin-1-1-1200x597.png)
 
-### Code-Pasting: Admin Panel
-
+ Code-Pasting: Admin Panel
+----------------
 For displaying the app's related widgets on the storefront, the admin needs paste some codes. Find the codes by visiting:
 
 *   Multi-Vendor Admin Panel
@@ -150,8 +148,8 @@ _You can also check out the following documentation: [Instructions for Hyperloca
 
 _If you are having trouble while updating the codes, let us know by emailing at_ **_shopify@webkul.com_** _or creating a ticket for the same at_ [_**Webkul UV Desk**_](https://webkul.uvdesk.com/)_. We'll do it for you!_
 
-### Vendor Location
-
+ Vendor Location
+-------------
 The next important aspect that comes under the Hyperlocal Marketplace concept is the Vendor Location.
 
 Each vendor needs to update his location as well as the range for his delivery service.
@@ -177,8 +175,8 @@ To modify the address, click on **View On Map**. A pop-up will open where you ca
 
 ![Edit-Seller-Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/02/Edit-Seller-Admin-1200x968.png)
 
-### Vendor Location Update from Seller Panel:
-
+ Vendor Location Update from Seller Panel:
+------------------------
 Similarly, the sellers can also update their service location & Maximum delivery Distance by visiting:
 
 *   Multi-Vendor **Seller Panel**
@@ -194,8 +192,8 @@ Likewise, to modify the address, click on **View On Map**. A pop-up will open wh
 
 This was all regarding the backend settings.
 
-### Frontend: Hyperlocal Marketplace
-
+ Frontend: Hyperlocal Marketplace
+----------------
 As soon as the customer visits the storefront, he will be asked to enter the delivery location. He can also continue by using the current location Refer:
 
 ![hyperlocalmarketplace-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/07/hyperlocalmarketplace-1-1200x597.png)
@@ -228,8 +226,8 @@ The unavailable products will be highlighted in the collection section. Refer:
 
 ![Products-–-hyperlocalmarketplace](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/04/Products-%E2%80%93-hyperlocalmarketplace-1200x593.png)
 
-### Hyperlocal with Multiple Shipping
-
+ Hyperlocal with Multiple Shipping
+--------------------
 In case you are using the [**Multiple Shipping**](https://webkul.com/blog/shopify-multiple-shipping/) feature then you will have the following two options while adding shipping methods:
 
 *   **Radius Restriction**: To restrict the radius for the shipping method.
@@ -283,8 +281,8 @@ This is how the search results will look like:
 
 ![Search-results-3-results-for-image-–-harshit-store1](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/01/Search-results-3-results-for-image-%E2%80%93-harshit-store1-1200x597.png)
 
-### Want To Filter Products Instead Of Sellers?
-
+ Want To Filter Products Instead Of Sellers?
+-----------------
 As we have been receiving multiple requests from merchants for filtering products instead of sellers on the basis of geolocation of the customer.
 
 So,this most awaited feature is now live in the app.
@@ -310,12 +308,12 @@ Frontend View:
 
 Now, the customers can filter the products using various filters i.e, filter by vendor, category, product type, and product tag.
 
-Also, if you are using the "[store pickup](https://webkul.com/blog/shopify-multivendor-marketplace-store-pickup/)" or "[Seller time-slot management](https://webkul.com/blog/seller-time-slot-management/)" feature app on your marketplace, customers can filter the products as per store pickup availability and open or closed store.
+Also, if you are using the "[store pickup](/zenith/featured-app/shipping/store-pickup)" or "[Seller time-slot management](/zenith/featured-app/seller-add-ons/seller-time-slot-management)" feature app on your marketplace, customers can filter the products as per store pickup availability and open or closed store.
 
 ![screenshot-deepak-sharma-store1.myshopify.com-2022.02.11-12_30_07](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/02/screenshot-deepak-sharma-store1.myshopify.com-2022.02.11-12_30_07-1200x581.png)
 
-### DISTANCE & PRICE SORTING
-
+ DISTANCE & PRICE SORTING
+------------------
 Even, the customer can now search and sort product on the basis of distance and price.
 
 After the customer has entered his location, a page will appear in which there will be four following sorting options under dropdown named "sort by"  
@@ -334,8 +332,8 @@ then the customer will see the products list in which first higher price product
 
 ![sorting](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/04/sorting-1200x608.png)
 
-### IMPLEMENT CHANGES BY SELECTING A SPECIFIC THEME:
-
+ IMPLEMENT CHANGES BY SELECTING A SPECIFIC THEME:
+-----------------
 Now, you can implement the changes done in the hyperlocal configuration to the specific theme as earlier all the configurational changes were used to populate to the live theme only.
 
 Please note: You will only be able to see the changes if required hyperlocal codes are pasted in the selected theme.

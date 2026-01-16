@@ -14,11 +14,11 @@ Now, the [Delivery Slot Management app](https://webkul.com/blog/delivery-slot-ma
 
 Enabling this feature app, the merchant can allow sellers to add delivery method and create slots for the customers.
 
-**NOTE**:- The app is compatible with the [Split Cart feature app](https://webkul.com/blog/shopify-multivendor-marketplace-split-cart/) in case you want customers to choose cart-wise delivery slot.  
-Also, the app is compatible with [Store Pickup](https://webkul.com/blog/shopify-multivendor-marketplace-store-pickup/) & [Custom Option](https://webkul.com/blog/custom-options-multi-vendor-marketplace-for-shopify/) feature apps.
+**NOTE**:- The app is compatible with the [Split Cart feature app](/zenith/featured-app/marketplace-miscellaneous-add-ons/split-cart) in case you want customers to choose cart-wise delivery slot.  
+Also, the app is compatible with [Store Pickup](/zenith/featured-app/shipping/store-pickup) & [Custom Option](/zenith/featured-app/marketplace-product-add-ons/custom-options) feature apps.
 
-### Features
-
+ Features
+------------
 *   Sellers can add their own delivery methods and create slots for the customers.
 *   There will be two delivery options for the sellers: On-time delivery & Fixed-day delivery to create slots.
 *   Sellers can cancel or reschedule deliveries to your customers.
@@ -31,16 +31,16 @@ Also, the app is compatible with [Store Pickup](https://webkul.com/blog/shopify-
 *   Sellers can also add customer information to products.
 *   Moreover, you can assign delivery method to sellers via the Delivery Slot Management App.
 
-### How To Enable This Feature App?
-
+ How To Enable This Feature App?
+--------------
 To get this feature app firstly, you need to install the Delivery Slot Management App on your Shopify store.
 
 Once done, visit the Feature App section and install the app.
 
 ![Delivery Slot Management](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/04/Feature-Apps-Admin-1200x556.png)
 
-### Configuration
-
+ Configuration
+---------------
 #### **Shopify Admin Panel**
 
 Now, coming to the Delivery Slot Management App on Shopify admin, you need to visit the Configuration menu and enable the option.
@@ -86,8 +86,8 @@ Thus, the sellers are synced successfully as shown in the screenshot:-
 
 Let's check the configuration on seller end.
 
-### Seller Panel
-
+ Seller Panel
+---------------
 The sellers will add the delivery methods and create slots from their respective seller panels. For this, the seller needs to visit **Configuration**\>>Delivery Slot Management menu.
 
 ![Delivery Slot Management-Seller end](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/04/Dashboard-Seller-%E2%80%A2-Multivendor-MarketPlace-1-1200x505.png)
@@ -128,8 +128,8 @@ Thus, You can allow more than one Customer to book a single slot at a time.
 
 Also, from the **Availability** section, the sellers can configure either Fixed Day Delivery or On-time Delivery options for the customers.
 
-### On-time Delivery
-
+ On-time Delivery
+-------------
 On-time Delivery:- The seller needs to configure this delivery option if they want to allow customers to choose a preferred date & time to get the item delivered to the destination.
 
 ![Delivery Slot Management](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/04/Screenshot-8-1200x558.png)
@@ -142,8 +142,8 @@ Thus, the customer will get the option to choose a date & time for the order del
 
 ![Noodles_Home_Delivery_–_sunil_shop12_Chicago_-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/07/Noodles_Home_Delivery_%E2%80%93_sunil_shop12_Chicago_-1-1200x627.png)
 
-### Fixed-day Delivery
-
+ Fixed-day Delivery
+---------------
 Fixed-day Delivery:- The seller needs to configure this delivery option if they want to allow customers
 
 To choose a preferred date (irrespective of time) to get the item delivered to the destination.
@@ -166,8 +166,8 @@ Thus, the customer will get the option to choose a date for the order deliveries
 
 ![Delivery Slot Management](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/04/Screenshot-13-1200x552.png)
 
-### Customer End
-
+ Customer End
+------------
 Now, to show the delivery widget on the seller's products, you need to add the codes from the app.
 
 ### Delivery Widget on Product Page
@@ -189,8 +189,8 @@ Additionally, the customer can request the admin to reschedule the deliveries.
 
 ![reschedule](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/07/Delivery_Information_%E2%80%93_sunil_shop12_Chicago_-1200x788.png)
 
-### Delivery Widget On Cart Page
-
+ Delivery Widget On Cart Page
+-------------
 You can show seller delivery methods on the cart page of your store. For that, you need to **enable the Split Cart feature app** in the Multi-vendor Marketplace app.
 
 **[Know more about the split cart feature app](https://webkul.com/blog/shopify-multivendor-marketplace-split-cart/)**.

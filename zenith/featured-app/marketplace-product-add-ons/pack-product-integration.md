@@ -33,8 +33,8 @@ NOTE:- This integration is FREE, but to use this feature app, firstly you need t
 
 Let's see how to configure this in the app.
 
-### Installation & Workflow
-
+ Installation & Workflow
+-------------
 To enable the feature app, visit the featured apps section of the Multivendor Marketplace for Shopify.
 
 ![759ee1cb-5cbb-4a57-852c-2f9a17885d6e](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/02/759ee1cb-5cbb-4a57-852c-2f9a17885d6e-1200x584.png)
@@ -44,8 +44,8 @@ NOTE:- Make sure that you have enabled the [Pack & Combo product App](https://ap
 
 After that, accept the charges and you are ready to use the app.
 
-### Admin End Configuration
-
+ Admin End Configuration
+-----------------
 As soon as you enable the feature app, two new sub-menus get added to the Product menu in the app i.e. **Pack Product** and **Combo Product**.
 
 **How To Add Pack Products?**
@@ -90,8 +90,8 @@ Save The Changes.
 
 The same way, sellers can add the Pack & Combo products from their seller panels.
 
-### Seller Panel
-
+ Seller Panel
+------------
 The sellers will also get the new sub-menus added to the Products menu of the seller panel i.e. Pack Product & Combo products.
 
 ![66e8250e-c8e2-4e71-963c-22dbce66e511](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/01/66e8250e-c8e2-4e71-963c-22dbce66e511-1200x584.png)
@@ -108,8 +108,8 @@ This is how both admin and sellers can add pack & combo products using the app.
 
 Let's check the visibility of the Pack & Combo products on the store frontend for the customers.
 
-### Configurating Front End
-
+ Configurating Front End
+------------------
 In order to show the pack & combo product details, you as an admin need to make sure that you have added the codes to Shopify theme template.
 
 The code instructions are provided as an Important Note in the Home Page of the Pack & Combo Product App.

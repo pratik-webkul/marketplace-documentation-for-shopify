@@ -10,7 +10,7 @@ author: Chirag Tyagi
 
 And it is something that every store owner needs to rev up his/her sales in the eCommerce business.
 
-Considering these traits, Webkul has come up with the most awaited feature app named "**Product Auction for Seller**" in [**Multivendor Marketplace**](https://webkul.com/blog/shopify-multivendor-marketplace-new-theme-launched/) app.
+Considering these traits, Webkul has come up with the most awaited feature app named "**Product Auction for Seller**" in [**Multivendor Marketplace**](/zenith/introduction/) app.
 
 You might have used the [**Product Auction**](https://webkul.com/blog/shopify-product-auction/) app on your Shopify Store earlier but this time you will have this featured app available for your marketplace.
 
@@ -24,16 +24,16 @@ Suppose you opt for $60 USD per month plan, then, you will be charged $60+$30=$9
 
 Visit the Feature App section and enable this feature to allow sellers to create auctions on Products.
 
-### Product Auction Integration Features
-
+ Product Auction Integration Features
+--------------
 *   Using this Feature App, admin can enable the Sellers to create auctions on Products.
 *   Sellers can add auction on products from the Seller Panel of the Multivendor app.
 *   Admin can remove auction set on any product.
 *   Sellers can edit auction details from their end.
 *   Sellers can see the complete information related to bids and auction winners.
 
-### Upgraded features:
-
+ Upgraded features:
+---------------------
 *   Auction products are now compatible on the seller profile pages i.e, the auction related details will be visible on the auctioned products listed on seller profile pages.
 
 ![screenshot-priyanshu-store17.myshopify.com-2022.01.27-18_18_34](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/01/screenshot-priyanshu-store17.myshopify.com-2022.01.27-18_18_34-1200x581.png)
@@ -44,8 +44,8 @@ If the auction details are not appearing on your seller's profile pages, please 
 
 Also, if you have your seller pages customized, please reach us at [support@webkul.com](mailto:support@webkul.com) to make the auctioned products compatible on seller pages.
 
-### How to Enable this Feature App
-
+ How to Enable this Feature App
+----------------
 **ADMIN PANEL**
 
 ![Auction Feature App](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/auctionfeature.webp)
@@ -65,8 +65,8 @@ Once You click on the agree button, you will be ended up installing the app on y
 Workflow
 --------
 
-### Sellers Adding Auction on Products
-
+ Sellers Adding Auction on Products
+--------------
 **SELLER END**
 
 Once the admin enables the "Product Auction for Sellers" feature app, Sellers can start adding auction on products from their respective seller panels.
@@ -99,16 +99,16 @@ Clicking on the View Auction button, seller can view the complete information re
 
 In this way, the store owner can allow his/her registered sellers to [add auction on products](https://webkul.com/blog/shopify-product-auction-how-to-add-product/) and thus, Your customers can bid on the product of your store.
 
-### Front End
-
+ Front End
+--------------------
 ![Place a bid](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/11/Classic-Mug-%E2%80%93-wk-multivendor-auction-demo.png)
 
 Once your sellers add auction on products from the Seller Panel of the Multivendor app, Customers can view the auction running on that product in an auction window visible on the frontend.
 
 Now, customers can bid on the products and become the winner also.
 
-### Add Auction To Global Products
-
+ Add Auction To Global Products
+----------------
 Here comes the Integration of Product Auction & Global Product feature app:-
 
 You can now allow sellers to add auctions to global products of your store.
@@ -125,8 +125,8 @@ Similarly, you can also add auction to global products from the admin panel of t
 
 This is all about the Product Auction for Sellers feature of the Multivendor App.
 
-### RESTRICTIONS FOR SELLER
-
+ RESTRICTIONS FOR SELLER
+-----------------
 Now, if the admin wants then he can restrict the seller from using auto payment settings, proxy bidding, & popcorn bidding features.
 
 Even, the admin can restrict the seller to change the duration and price of the auction.

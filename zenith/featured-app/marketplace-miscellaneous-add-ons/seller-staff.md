@@ -7,7 +7,7 @@ author: Chirag Tyagi
 
 **Shopify Multivendor Marketplace App | Seller Staff |**
 
-We are here with an another "Feature App" of  [Multivendor Marketplace](/zenith/introduction/overview.html) on your high demand called **"Seller Staff".**
+We are here with an another "Feature App" of  [Multivendor Marketplace](/zenith/introduction/) on your high demand called **"Seller Staff".**
 
 With this feature app, the seller can add staffs and assign permission to them to manage activities on seller panel.
 
@@ -17,8 +17,8 @@ Once you approve the charges, 10 USD per month will get added over and above you
 
 **It is currently not compatible with the social media login feature app**
 
-### Additional Features of this app
-
+ Additional Features of this app
+-----------------
 *   Admin can allow his seller to add staff.
 *   Seller can add staff and permit him/her to manage seller's account on his behalf.
 *   Seller can deny the permission of any section of the seller account.
@@ -27,8 +27,8 @@ Once you approve the charges, 10 USD per month will get added over and above you
 *   Seller can edit the staff details.
 *   Seller has full right to disable or delete any staff on his end.
 
-### Activation
-
+ Activation
+-------------------
 To enable the "Seller Staff" feature in your Multivendor Marketplace app, first you need to enable it from the "Feature App" section of the admin panel.
 
 ![Feature App](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/one.webp)
@@ -47,8 +47,8 @@ Click on "Agree" button and proceed further to approve the charge.
 
 In this way, you can get this "Seller Staff" feature installed in your Multivendor app.
 
-### Admin Panel
-
+ Admin Panel
+--------------
 Firstly, admin needs to enable his seller to add staff so that they can manage the activities on seller panel. To do this, admin can follow the below suggested procedure.
 
 ![Seller staff Configuration](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/four.webp)
@@ -83,8 +83,8 @@ Now Seller can reset the password by following these steps:
 
 Admin>>Sellers>>Login as seller>>Profile>>My staff>>Three dots>>Edit Staff>>Reset Password>>Save
 
-### Seller Panel
-
+ Seller Panel
+--------------
 Once the admin allows the seller to add staff, seller can now add the staff from "My staff" section of the seller panel. In this section, the seller can view the list of all the staffs added by him.
 
 ![s6](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/ten.webp)
@@ -121,8 +121,8 @@ Visit Seller Dashboard>>Seller Profile>>click "Staff Activity">>View activities 
 
 ![s8](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/fifteen.webp)
 
-### How the Staff will manage the Seller account section
-
+ How the Staff will manage the Seller account section
+---------------
 In order to manage the activities, the staff added by the seller will need the credentials to login to the seller account page.
 
 These login details will be provided by the seller to their staffs through a mail at the time of filling staff details.
@@ -137,8 +137,8 @@ In this way, the member you added will get access of the Seller's account as a "
 
 **Please Note**:- The staff can change his password only if the seller adds permission for staff to visit the seller's profile page.
 
-### Auto Approve Staff Product
-
+ Auto Approve Staff Product
+----------------
 The Auto Approve Staff Product feature enables sellers to automatically approve products added by their staff.
 
 When the admin activates the "Auto Approve Product" option in the product configuration of the Admin Panel, the "Auto Approve Seller Staff Product" setting is automatically enabled as well.

@@ -5,7 +5,7 @@ author: Chirag Tyagi
 ---
 
 Do you want your customers to rate & review your marketplace products?  
-If yes, then we are here with another add-on for the [MultiVendor Marketplace App](https://webkul.com/blog/shopify-multivendor-marketplace-new-theme-launched/) for Shopify called **Product Review**!
+If yes, then we are here with another add-on for the [MultiVendor Marketplace App](/zenith/introduction/) for Shopify called **Product Review**!
 
 **PURPOSE**:
 
@@ -15,8 +15,8 @@ After purchasing an item, customers can rate it to share their experience. Admin
 
 This feature will have an additional charge of **USD 7 per month** over & above your current Multivendor Marketplace plan.
 
-### Enabling the featured app
-
+ Enabling the featured app
+------------------
 Enable the app by accessing the following:
 
 *   Multi-Vendor **Admin Panel**
@@ -27,8 +27,8 @@ Enable the app by accessing the following:
 
 ![Feature-Apps-Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/productreview1.webp)
 
-### Adding Codes
-
+ Adding Codes
+----------------
 To make this feature display on the front end, the admin needs to paste a few codes.
 
 The following page will provide instructions along with the codes.  
@@ -54,8 +54,8 @@ For **'product-card-grid.liquid**' template to show ratings on collection page:
 ```
 If you are having trouble while updating the codes, let us know by emailing at **shopify@webkul.com** or creating a ticket for the same at [**Webkul UV Desk**](https://webkul.uvdesk.com/). We’ll do it for you!
 
-### Configuration: Admin Panel
-
+ Configuration: Admin Panel
+----------------
 The admin needs to configure the app by visiting:
 
 *   Multi-Vendor **Admin Panel**
@@ -181,8 +181,8 @@ Only logged-in customers will be able to see the product reviews on that page, w
 
 **NOTE:** For this app, we strictly follow UTC time zone, so when a review is given, the time shown is according to UTC_._
 
-### Admin end
-
+ Admin end
+----------------
 The reviews added by the customers can be monitored by the admin by visiting:
 
 **Multivendor Admin Panel** > Hover over **Products** > Select **Product Review** from drop-down menus.
@@ -206,8 +206,8 @@ Clicking on this, you'll land on the '**Manage Reviews & Rating**' page. From he
 
 ![Admin-Manage-Reviews-Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/prodiuctreview10.webp)
 
-### Seller end
-
+ Seller end
+---------------
 Similarly, the seller will have all the reviews added to his products by the customers. For this, visit:
 
 **Multivendor Seller Panel** > Hover over **Products** > Select **Product Review** from drop-down menus.

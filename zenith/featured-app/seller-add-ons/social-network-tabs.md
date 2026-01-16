@@ -1,14 +1,22 @@
+---
+title: SOCIAL NETWORK TABS
+description: SOCIAL NETWORK TABS
+date: 2025-07-29
+author: Chirag Tyagi
+---
+
+
 
 **THIS APP IS CURRENTLY DEPRECIATED**
 
-With the help of the [**Multivendor Marketplace app for Shopify**](https://webkul.com/blog/shopify-multivendor-marketplace-new-theme-launched/)**\- Social Network tabs** feature app,
+With the help of the [**Multivendor Marketplace app for Shopify**](/zenith/introduction/)**\- Social Network tabs** feature app,
 
 Admin can enable his/her sellers to connect their seller profile page with their own social media platforms like Facebook, Instagram, Digg, Flickr, Vimeo, etc.
 
 This feature will have an additional cost of USD 5 per month which is over and above your current Multivendor Marketplace plan.
 
-### FEATURES
-
+ FEATURES
+---------------
 *   Admin can configure the social network tabs that he/she wants to display to sellers.
 *   Sellers can choose from the social network tabs that admin has made available to them.
 *   Sellers can connect their seller profile page with their own social media platforms.
@@ -16,8 +24,8 @@ This feature will have an additional cost of USD 5 per month which is over and a
 
 So, Let's understand the workflow of the Multi-vendor Marketplace Social Network Tabs:-
 
-### Multi-vendor Marketplace Social Network Tabs-ADMIN PANEL
-
+ Multi-vendor Marketplace Social Network Tabs-ADMIN PANEL
+------------------------
 Firstly visit "Feature Apps" section by clicking on (...) three dots on the top right-hand side of the main menu of the Multivendor Marketplace app:-
 
 ![Multivendor](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/10/5.png)
@@ -28,8 +36,8 @@ Now go to "Marketplace Seller Add-ons" and enable "Social Network Tabs" feature 
 
 ![23](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/10/7.png)
 
-### SOCIAL NETWORK TABS
-
+ SOCIAL NETWORK TABS
+-----------------
 Now admin needs to visit the "Social Network tabs" section from the "Sellers" menu in the app
 
 And from here choose the social media platforms that you want to display to your sellers on their respective seller panels.
@@ -38,8 +46,8 @@ And from here choose the social media platforms that you want to display to your
 
 ![34](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/10/9.png)
 
-### SOCIAL NETWORK TAB SETTINGS
-
+ SOCIAL NETWORK TAB SETTINGS
+-----------------
 From here admin can configure the display look and styling of social media tabs that will be shown on frontend on the seller profile page:-
 
 ![ Multi-vendor Social Network Tabs](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/10/10.png)
@@ -52,20 +60,20 @@ From here admin can configure the display look and styling of social media tabs 
 
 ![ Multi-vendor Social Network Tabs](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/10/12.png)
 
-### SELLER PANEL
-
+ SELLER PANEL
+------------------------
 Sellers can only be able the view those social network tabs which have made available to them by admin.
 
 Now seller needs to visit the "Social Network tabs" section in the "Profile" menu from their respective seller panel.
 
-### SOCIAL NETWORK TABS
-
+ SOCIAL NETWORK TABS
+---------------
 Here sellers can configure social network tabs to display them on their seller profile page.
 
 ![ Multi-vendor Social Network Tabs](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/10/13.png)
 
-### FRONTEND
-
+ FRONTEND
+-------------------------
 Once the configuration is done then Social network tabs will be visible on seller profile page like showing in below screenshot:-
 
 ![ Multi-vendor Social Network Tabs](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/10/seller_profile___demo_store__1_.png)

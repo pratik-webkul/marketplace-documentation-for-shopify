@@ -85,8 +85,8 @@ For this, visit Multivendor Admin Panel > Sellers > Seller Listing > Edit Seller
 
 ![Edit-Seller-Admin-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/sellerprofilepublish.webp)
 
-### Informative Seller Dashboard
-
+ Informative Seller Dashboard
+------------------------------
 Much more informative dashboard showing Total Seller, Recent Orders and their fulfillment status and details of Total sales.
 
 ![adwdwaw](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/sellerdashboard.webp)
