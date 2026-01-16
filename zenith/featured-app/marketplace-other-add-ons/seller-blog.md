@@ -8,8 +8,8 @@ The Seller Blog is a feature of our multivendor marketplace app, offering each r
 
 Sellers can use this space to publish articles, updates, and content related to their products, enhancing engagement and visibility on the platform.
 
-### Activation of this feature
-
+ Activation of this feature
+-----------------
 To enable this feature app, just turn it on in the "Feature App" section of the admin panel in the [Multivendor Marketplace App](https://apps.shopify.com/multi-vendor-marketplace).
 
 ![image](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/07/adminn-1200x546.webp)
@@ -24,8 +24,8 @@ Once you click on the enable button, you need to agree with the additional amoun
 
 After approving these charges, you can begin utilizing the seller blog feature in your Multivendor Marketplace App.
 
-### How does this feature work?
-
+ How does this feature work?
+---------------------
 ### Admin Panel
 
 To allow seller to show their blog on the seller profile page you first enable this configuration from your admin panel.
@@ -42,8 +42,8 @@ You can further choose to display blogs by seller name or Seller Shop name using
 
 ![image](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/07/sellblog11.webp)
 
-### Allow seller to add products
-
+ Allow seller to add products
+-----------------
 Sellers can include their products in their blog posts if you (admin) permit them. To enable this feature, you need to adjust the settings in the Multivendor Marketplace admin panel.
 
 Simply navigate to **Configuration** > **Seller Blog Configuration** and enable the option **"Allow Seller to Add Products."**
@@ -61,8 +61,8 @@ Navigate to **Admin panel > Sellers > Seller Blogs**
 
 ![image](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/07/ebldisbl-1200x521.webp)
 
-### Seller Panel
-
+ Seller Panel
+-------------
 #### Add Blog
 
 Sellers can add blogs through their seller panel. Click on 'Profile' and select the 'Seller blog option' from the dropdown list.  

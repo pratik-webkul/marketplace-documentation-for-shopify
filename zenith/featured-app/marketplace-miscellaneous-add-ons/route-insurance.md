@@ -23,8 +23,8 @@ This feature app comes with the pricing of **$7 USD/month** in addition to your 
 *   Sellers won't be able to select the "Insurance" option on their products individually, but the option will be enabled for all the products.
 *   "Orders with Route Insurance" will be created as draft orders in the app. So, if you charge insurance amount on order, discount coupons won't be applicable to the checkout page.
 
-### How to Route Feature App?
-
+ How to Route Feature App?
+--------------------
 To enable this feature app, first visit the Feature Apps section. Now, search for the "**Route Insurance**".
 
 ![Dashboard-Admin-2](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/10/Dashboard-Admin-2-1200x597.png)
@@ -45,8 +45,8 @@ Enter the Route Insurance Details.
 
 ![Add-Route-Configuration-Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/10/Add-Route-Configuration-Admin-1200x799.png)
 
-### How to Get Route Insurance Details?
-
+ How to Get Route Insurance Details?
+-------------------
 To use this feature app, you need to have an account on [Route](https://dashboard.route.com/). Now, to get the details, you need to follow the below steps:-
 
 *   Firstly, login to Route: [https://dashboard.route.com/login](https://dashboard.route.com/login)
@@ -66,8 +66,8 @@ Moreover, to make it work, You need to visit the Configuration>>**Order Configur
 
 Now, to show the "Insurance" option on the cart page, you need to add the codes provided in the app.
 
-### Insurance Option on Cart Page
-
+ Insurance Option on Cart Page
+---------------------
 To show the "Insurance" option on the cart page, you need to get the codes provided in Configuration>>Instruction for Marketplace menu and add the codes to the store theme liquid file.
 
 To Display Insurance Model on Cart Page, copy the below code as first line in **cart.liquid:**\-

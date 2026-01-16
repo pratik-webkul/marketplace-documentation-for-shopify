@@ -8,8 +8,6 @@ Using the Locate Your Store feature app. You as an admin can enable your sellers
 
 Now provide your Seller store location to your customers so they can easily find nearby stores & get directions via google Maps using the Seller locator feature app.
 
-  
-
 **Please Note**:- This feature app is free of cost but to use the featured app:
 
 You need to install the [Locate Your Pickup Store](https://webkul.com/blog/locate-your-pickup-store-app-for-shopify/) app on your store i.e. $7 per month over and above your current Multivendor plan.
@@ -19,8 +17,8 @@ Suppose you opt for $60 USD per month plan, then, you will be charged $60+$7=$67
 
 Now, Let's understand how we can use this app with Multivendor Marketplace
 
-### Work Flow
-
+ Work Flow
+-------------------------------
 To install this feature app you need to go to Admin Panel and select the feature app
 
 ![jkb](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/11/jkb-1200x616.png)
@@ -48,8 +46,8 @@ There are two ways in the app through sellers can add their store location.
 *   Default location
 *   Custom location
 
-### Default location
-
+ Default location
+------------------
 Seller can add their default location as their Store location by going to their Seller Panel > Profile > Myaccount. On the redirected page click on the redirected page as shown below
 
 ![image-1-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/11/image-1-1-1200x579.png)
@@ -68,11 +66,11 @@ Click on the Save location to save the location in the store locator. You can al
 
 In case seller updates their address then they can update it using this button.
 
-### Custom locations
-
+ Custom locations
+-------------------
 Seller can also add the store location on their own apart from their Seller address which they provided for their seller profile.
 
-**Please remember this option is only available when Admin have enabled [Store Pick Up](https://webkul.com/blog/shopify-multivendor-marketplace-store-pickup/) feature app.**
+**Please remember this option is only available when Admin have enabled [Store Pick Up](/zenith/featured-app/shipping/store-pickup) feature app.**
 
 To add this Seller need to go to Seller panel > Configuration > Location > Click on Add location Button
 
@@ -90,8 +88,8 @@ If Seller has already add their location using Store Pick up app then they can s
 
 Save the location.
 
-### Admin Side Store location
-
+ Admin Side Store location
+----------------------
 All the saved location will be listed at the [Locate your Pick up store](https://webkul.com/blog/locate-your-pickup-store-app-for-shopify/) Stand alone app on their Shopify end as shown in the below image
 
 ![unnamed-file](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/11/unnamed-file-1200x458.png)

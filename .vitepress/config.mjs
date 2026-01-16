@@ -78,11 +78,12 @@ export default defineConfig({
           collapsible: true,
           collapsed: true,
           items: [
-            { text: 'Seller Profile Page Settings', link: '/zenith/seller/seller-profile-page-settings' },
-            { text: 'Seller Notification', link: '/zenith/seller/seller-notification' },
-            { text: 'Advanced Seller Policy', link: '/zenith/seller/advanced-seller-policy' },
-            { text: 'Seller Navigation', link: '/zenith/seller/seller-navigation' },
-            { text: 'Seller Updates', link: '/zenith/seller/seller-updates' } 
+            { text: 'Seller profile page settings', link: '/zenith/seller/seller-profile-page-settings' },
+            { text: 'Seller notification', link: '/zenith/seller/seller-notification' },
+            { text: 'Seller policy', link: '/zenith/seller/advanced-seller-policy' },
+            { text: 'Seller navigation', link: '/zenith/seller/seller-navigation' },
+            { text: 'Seller URL customisation', link: '/zenith/seller/seller-URL-customisation' }
+            // { text: 'Seller Updates', link: '/zenith/seller/seller-updates' } 
 
           ]
         },
@@ -92,12 +93,26 @@ export default defineConfig({
           collapsed: true,
           items: [
             { text: 'Add products', link: '/zenith/products/add-products' },
+            { text: 'Add products via CSV', link: '/zenith/products/add-products-via-CSV' },
             { text: 'Import products', link: '/zenith/products/import-products' },
             { text: 'Digital products', link: '/zenith/products/digital-products' },
+            { text: 'Directory listing', link: '/zenith/products/directory-listing' },
             { text: 'Collection sync', link: '/zenith/products/collection-sync' },
             { text: 'Multilevel collection', link: '/zenith/products/multilevel-collection' },  
             { text: 'Dual sync', link: '/zenith/products/dual-sync' },                                             
-            { text: 'Products updates', link: '/zenith/products/products-updates' },
+            // { text: 'Products updates', link: '/zenith/products/products-updates' },
+          ]
+        },
+        {
+          text: 'Order',
+          collapsible: true,
+          collapsed: true,
+          items: [
+            { text: 'Order fulfillment', link: '/zenith/order/order-fulfillment' },
+            { text: 'Partial fulfillment', link: '/zenith/order/partial-fulfillment' },
+            { text: 'Order prepare status', link: '/zenith/order/order-prepare-status' },
+            { text: 'Fraud analysis', link: '/zenith/order/fraud-analysis' },            
+
           ]
         },
         {
@@ -231,6 +246,7 @@ export default defineConfig({
                 { text: 'Favorite product | seller', link: '/zenith/featured-app/marketplace-product-add-ons/favorite-product-seller' },
                 { text: 'Global product', link: '/zenith/featured-app/marketplace-product-add-ons/global-product' },
                 { text: 'Indian GST', link: '/zenith/featured-app/marketplace-product-add-ons/indian-gst' },
+                { text: 'Live commerce', link: '/zenith/featured-app/marketplace-product-add-ons/live-commerce' },
                 { text: 'Make an offer', link: '/zenith/featured-app/marketplace-product-add-ons/make-an-offer' },
                 { text: 'Pack product integration', link: '/zenith/featured-app/marketplace-product-add-ons/pack-product-integration' },
                 { text: 'Pay what you want', link: '/zenith/featured-app/marketplace-product-add-ons/pay-what-you-want' },

@@ -21,8 +21,8 @@ The merchant can now **add global products** in **bulk** via **CSV** upload.
 
 Check the below video of Global Product:
 
-### **WORKFLOW** 
-
+ **WORKFLOW** 
+------------------
 **INSTALLATION**
 
 This Global Product app will be visible in the "feature apps" section of the Multivendor app.
@@ -39,8 +39,8 @@ Once you enable this feature, you will add up USD 15 per month in the monthly ch
 
 Now, the Global Product menu will appear both on admin as well as seller panel.
 
-### Global Product Configuration
-
+ Global Product Configuration
+--------------------
 Go to Configurations\>>Visit Global Product Configuration\>>Configure the settings>>Save.
 
 ![Global product configuration](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/Home-Admin.png)
@@ -51,8 +51,8 @@ On the redirected page, Merchant will have the following configurations. Let’s
 
 ![screencapture-sp-seller-webkul-admin-index-php-2019-06-17-10_45_19](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/06/screencapture-sp-seller-webkul-admin-index-php-2019-06-17-10_45_19-813x1024.png)
 
-### **Sort By**
-
+ **Sort By**
+---------------
 Admin can choose whether he wants to display the sellers of the global product on frontend according to the ascending or descending manner depending on the prices they have set.
 
 > Different sellers selling the same global product can set different prices. In other words, sellers can edit the price of the global product once they started selling it.
@@ -65,8 +65,8 @@ Admin can choose whether he wants to display the sellers of the global product o
 
 Now, the customer will be redirected to the seller profile page after clicking on the seller's name
 
-### Toggle visibility of the 'Detail' column in the Global Product widget on the frontend.
-
+ Toggle visibility of the 'Detail' column in the Global Product widget on the frontend.
+-------------
 Admins can control the visibility of four product variant properties on the frontend: Price, Image, Description, and Quantity.
 
 These properties can be enabled or disabled using four corresponding checkboxes in the configuration settings.
@@ -79,8 +79,8 @@ On frontend, it will look like this.
 
 ![p](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/global-1.webp)
 
-### **Manage Variants For Global Product**
-
+ **Manage Variants For Global Product**
+--------------
 Using this option, the Admin can add variants to global products. Furthermore, the sellers can sell any particular variant of that global product.
 
 > Earlier, we haven’t provided the functionality to add variants to the global products or to import products with variants as global products but now we have introduced this feature also.
@@ -143,16 +143,16 @@ Multivendor Seller Panel > Global Products > Unlist
 
 > The admin can’t add more than 100 variants to a product & each product can have only 3 option. (This is according to Shopify’s limitations.)
 
-### Allow Sellers To Manage Global Product Price
-
+ Allow Sellers To Manage Global Product Price
+------------
 Enable this option if you want to grant your sellers the rights to change the global product price.
 
 Disable if you don’t want sellers to change the global product/variant price & sell on the same price as mentioned by you (admin).
 
 ![manage global product price](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/02/Screenshot-2020-02-04T153410.998-1-1200x623.png)
 
-### Allow Sellers To Manage Global Product Inventory
-
+ Allow Sellers To Manage Global Product Inventory
+---------------
 Enable this option if you want your sellers to update the global product/variant quantity else keep it disabled.
 
 ![Screenshot-2020-02-04T154031.222](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/02/Screenshot-2020-02-04T154031.222-1200x624.png)
@@ -191,8 +191,8 @@ This helps in tracking whether the product is in stock or out of stock using the
 
 ![global-product inventory track](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/01/global-product-inventory-track-1200x513.webp)
 
-### Create Seller Global Product Handle With Seller Shop Name
-
+ Create Seller Global Product Handle With Seller Shop Name
+----------------
 By enabling this option, sellers can include their shop name in the handle of any global products they sell, ensuring the shop name is automatically added to the product handle (seller's product).
 
 To enable, Admin needs to navigate to the Admin panel of marketplace>> Configurations>> Global Product configuration>> enable Create Seller Global Product Handle With Seller Shop Name >> save.
@@ -205,8 +205,8 @@ you can see the seller shop name in the URL handle.
 
 ![seller shop name in url handle](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/01/global2-1200x943.webp)
 
-### Allow Sellers to Manage Global Product SKU
-
+ Allow Sellers to Manage Global Product SKU
+----------------
 You can now allow sellers to manage SKUs while selling global products from their respective seller panel.
 
 For this, You need to visit Configurations\>>Click Global Product Configuration\>>Enable the option **Allow Sellers to Manage SKUs of Global Product**\>>Save.
@@ -237,8 +237,8 @@ In case SKU is blank or null in seller's products, the admin's global product SK
 
 ![download-25-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/03/download-25-1-1200x577.png)
 
-### Add Global Product via CSV
-
+ Add Global Product via CSV
+--------------
 You can now add global products to the app via CSV upload in a go. To do this, you need to follow the below-given steps:-
 
 *   Visit the admin panel>>**Products** menu.
@@ -259,8 +259,8 @@ This way, you can add global products via CSV. In case you need help with the CS
 
 [AVOID MISTAKES WHILE PREPARIN](https://webkul.com/blog/multi-vendor-marketplace-for-shopify-guide-to-upload-products-via-csv/)[G](https://webkul.com/blog/multi-vendor-marketplace-for-shopify-guide-to-upload-products-via-csv/) [CSV](https://webkul.com/blog/multi-vendor-marketplace-for-shopify-guide-to-upload-products-via-csv/)
 
-### Display the Global Product having the Lowest Price
-
+ Display the Global Product having the Lowest Price
+----------------
 You will now have the option to display the global product offered by the seller at the least price.
 
 For this, you need to enable an option from the "Global Product Configuration" menu of the app.
@@ -275,8 +275,8 @@ Here is the global product with the lowest price:-
 
 ![Global product with lowest price](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/02/High-Brand-Watch-%E2%80%93-multivendor-global-product-1200x564.png)
 
-### Auto Publish Global Products
-
+ Auto Publish Global Products
+---------------
 You will now have an option to choose whether you want to auto-publish the global product right after a seller sells it or not.
 
 For this, Go to the Configuration\>>Global Product Configuration\>>Enable **Auto Publish Global Products**\>>Save.
@@ -291,8 +291,8 @@ In case, this tab is disabled, the global product's variants will remain in unpu
 
 ![unpublished global product](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/02/Sell-Global-Products-Seller-%E2%80%A2-Multivendor-MarketPlace-1-1200x627.png)
 
-### Label Configuration
-
+ Label Configuration
+----------------
 On the same page, the admin can customize the frontend labels as per his requirements.
 
 ![Global-Product-Configuration-Admin-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/06/Global-Product-Configuration-Admin-1-1200x597.png)
@@ -356,9 +356,9 @@ Steps to Perform Bulk Edit:
 
 Table with listed global products will appear, Edit product's entry accordingly.
 
-### Commissions Types supported in Global Product
-
-The global product supports the following [commission types](https://webkul.com/blog/shopify-multivendor-marketplace-commission-type-new-theme/) in the Multi-vendor Marketplace app:-
+ Commissions Types supported in Global Product
+-------------
+The global product supports the following [commission types](/zenith/commission/commission-type) in the Multi-vendor Marketplace app:-
 
 *   **GLOBAL COMMISSION**
 *   **SELLER COMMISSION**
@@ -381,8 +381,8 @@ The global product supports the following [commission types](https://webkul.com/
 > 
 > **Product** commission>**category-wise** commission>**seller** commission>**global** commission.
 
-### **Let's see how it works on the seller end.**
-
+ **Let's see how it works on the seller end.**
+--------------
 Once the seller clicks the global product menu from the product section of the seller panel, he will get the same list of global products that the admin has added.
 
 ![Global Product image](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/7-6.png)
@@ -421,8 +421,8 @@ Also, admin can also enable or disable the seller who has sold the global produc
 
 **NOTE**:- A new product will be created on the admin end once a seller adds a global product
 
-### FrontEnd Display
-
+ FrontEnd Display
+----------------------
 After enabling the ‘Global Product’ feature app, the Admin needs to do some code pasting.
 
 Admin can get all the instructions and codes from the following page: Multivendor Marketplace Admin Panel > Configuration > Instructions for Marketplace:
@@ -445,22 +445,22 @@ This is how it appears on front end:
 
 ![front end look](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/01/High-Brand-Watch-%E2%80%93-multivendor-global-product-1200x627.png)
 
-### Global Product Label Translation
-
+ Global Product Label Translation
+--------------
 You can also rename the labels as per your requirement for various sections of the Global Product feature app. Go to the Translation\>>Global Product Label-Feature.
 
 ![global product label feature](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/02/Dashboard-Admin-3-1200x581.png)
 
 In this way, you can translate the labels for various sections of the Global Product feature app.
 
-### Compatible with Stock Management App
-
+ Compatible with Stock Management App
+--------------
 The Global Product app is now compatible with the [Stock Management](https://webkul.com/blog/shopify-multivendor-marketplace-stock-management-new-theme/) feature app. Thus, you can now manage the stock of the global products sold by multiple sellers.
 
 For more detail, **[REFER](https://webkul.com/blog/manage-global-product-stock-multivendor-marketplace-for-shopify/)**
 
-### Options on Disabling Global Product Feature App
-
+ Options on Disabling Global Product Feature App
+-------------------
 You can now either delete seller's products or convert the global products to normal products while disabling the feature app.
 
 Once you disable the Global Product feature, you will get two options. You will be asked either to "**Convert seller global product to normal product**" or "**Delete seller global product**".
@@ -471,8 +471,8 @@ Once you choose to "Delete seller global products", you can choose if you want t
 
 ![Screenshot-2020-10-09T134432.793](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/10/Screenshot-2020-10-09T134432.793-1200x568.png)
 
-### Allow Shopify connector sellers to sell **global product**
-
+ Allow Shopify connector sellers to sell **global product**
+---------------
 This feature enables sellers using Shopify connector to sell global products. To activate this, simply navigate to the global product configuration section.
 
 Admin needs to enable “ Map Global Product with Normal Product” 
@@ -483,8 +483,8 @@ Upon enabling this configuration, you will get the option to enable/disable the 
 
 Enabling this configuration the Admin can make it mandatory for the Shopify connector sellers to sell only global products.
 
-### Sync Seller Country to Shopify Product Metafield
-
+ Sync Seller Country to Shopify Product Metafield
+-------------------
 We’ve introduced a new configuration in the **Global Product** feature of the Multivendor Marketplace app.
 
 When "Sync Seller Country to Shopify Product Metafield" is enabled, the seller's country is automatically added to the metafield wk\_origin\_country.seller\_country whenever they list a product for sale.
@@ -503,8 +503,8 @@ To configure this Admin needs to navigate to:
 
 Once disabled, the seller profile will no longer be linked to the Global Product widget
 
-### Seller Panel
-
+ Seller Panel
+--------------
 Shopify connector sellers will import the products from their shopify store. Products imported will only be approved once they are mapped with the Admin's global product.
 
 ![image](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/04/screenshot_1712589783360-1200x604.webp)
@@ -513,8 +513,8 @@ Shopify connector sellers will import the products from their shopify store. Pro
 
 **Note: Seller global product will only be mapped with admin product if SKU and option value are the same.**
 
-### Fetch Global products sold by all the Sellers
-
+ Fetch Global products sold by all the Sellers
+----------------
 We have introduced the Global Product API, which allows you to fetch global products for any seller on our platform.
 
 This public API enables you to retrieve information about global products sold by sellers on the Multivendor Marketplace.

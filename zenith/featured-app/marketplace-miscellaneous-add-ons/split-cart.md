@@ -15,31 +15,30 @@ With this feature, the admin will have an easily manageable order process and th
 
 You can get the Split Cart feature app simply by paying an amount of $14 per month over and above your current multivendor plan.
 
-### Additional Features
-
+ Additional Features
+------------------
 *   Admin can enable/disable the Split Cart feature on his/her store.
 *   There will be separate orders for each seller's products.
 *   Moreover, the admin will have the orders in an organized manner.
 *   Easy to manage orders.
 *   Allow sellers to create discounts for their customers.
 *   Split Cart now **supports product properties**.
-*   Supports the [minimum purchase quantity feature](/zenith/configuration/minimum-purchase-quantity.html).
+*   Supports the [minimum purchase quantity feature](/zenith/configuration/minimum-purchase-quantity).
 
 ![cart page](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/12/Screenshot-85-2-1200x427.png)
 
-*   Split Cart is now compatible with the [slot pricing feature](https://webkul.com/blog/shopify-multivendor-marketplace-slot-pricing/) app.
-*   Also, the split cart feature works with the [minimum purchase amount on orders](/zenith/configuration/minimum-purchase-amount.html).
+*   Split Cart is now compatible with the [slot pricing feature](/zenith/featured-app/marketplace-product-add-ons/slot-pricing) app.
+*   Also, the split cart feature works with the [minimum purchase amount on orders](/zenith/configuration/minimum-purchase-amount).
 *   You can now use **Split Cart+Store Pickup+Minimum Purchase Amount**.
 *   We have added a limit of 500 line items per seller, allowing customers to check out with up to 499 items from a single seller per cart.
 
 Check the below video of Split Cart feature app:
 
-LGjBQ\_zluFk
 
 > Please note that this split process will not work in case of Ajax (Drawer) cart.
 
-### How to Activate this Feature App?
-
+ How to Activate this Feature App?
+-------------------
 To enable this feature app, You need to visit the "Feature Apps" section of the Multivendor admin panel. There, You can search for the Split Cart Feature App.
 
 Once you get this feature, you need to click on the "Enable" button to activate this feature in Multivendor app.
@@ -48,8 +47,8 @@ Once you get this feature, you need to click on the "Enable" button to activate 
 
 Once you approve the charge for this app, the feature will be installed in your Multivendor Marketplace app.
 
-### Admin Panel
-
+ Admin Panel
+--------------
 As soon as the admin installs this feature app, the next step is to enable the Split Cart functionality on their store.
 
 After that, they also need to add an additional script from the Shopify backend to complete the setup.
@@ -87,8 +86,8 @@ Do refer below screenshot:
 
 ![Instruction for Marketplace](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/12/Instructions-_-Admin.png)
 
-### New Checkout Process
-
+ New Checkout Process
+---------------
 If you're using the new checkout page and, as a result, want to enable the split cart functionality, then follow these simple steps below.
 
 Firstly, you need to paste this code {% include 'wk-splitcart' %} in the theme.liquid. Once you've added the code, the next step is to generate the attached file.
@@ -110,8 +109,8 @@ Paste the "**Additional Script**" and SAVE the details.
 
 Once you add the additional script from Shopify backend, buyers will see the changes in the checkout process.
 
-### Discount Feature
-
+ Discount Feature
+------------
 > **NEW FEATURE**  
 > You can now allow your sellers to create discounts on products or overall order for their customers.
 
@@ -125,8 +124,8 @@ Once enabled, the sellers will get the option to create discounts at their respe
 
 Know more about the [Split Cart Discount Feature](https://webkul.com/blog/split-cart-discount-feature-in-multi-vendor-marketplace-for-shopify/)
 
-### Buyer End
-
+ Buyer End
+-------------
 When the buyer adds multiple seller's products to the cart, the cart gets split and has each seller's products in a separate cart.
 
 Thus, the buyer will choose a cart at a time and proceed further for checkout.
@@ -150,8 +149,8 @@ Thus, customers will get discounts on products.
 
 [Explore](https://webkul.com/blog/split-cart-discount-feature-in-multi-vendor-marketplace-for-shopify/)!
 
-### Allow Store Pick Up on Cart
-
+ Allow Store Pick Up on Cart
+-----------------
 **SPLIT CART+ STORE PICKUP**
 
 You might have used the [Store Pickup](https://webkul.com/blog/shopify-multivendor-marketplace-store-pickup/) feature in the multivendor app on your store to let customers pick up their orders from the seller’s store.
@@ -188,8 +187,8 @@ In case the quantity is not available on the customer's selected location then, 
 
 This is all about the **Split Cart+ Store Pickup f**eature.
 
-### Split Cart with Minimum Purchase Quantity
-
+ Split Cart with Minimum Purchase Quantity
+---------------------------
 The split cart feature is now compatible with the minimum purchase quantity feature in the app.
 
 Thus, you can set the minimum quantity on products that a customer needs to buy/order to make the purchase successful.
@@ -204,8 +203,8 @@ After adding the codes, this will be the visibility of the cart page:-
 
 The customer will be able to proceed to checkout only if the product quantity value satisfies.
 
-### Minimum Purchase Amount with Split Cart
-
+ Minimum Purchase Amount with Split Cart
+--------------------
 The split cart feature is now compatible with the minimum purchase amount on order feature in the app.
 
 So, using the split cart feature app, you can now restrict customer’s purchases by setting up a minimum order value.

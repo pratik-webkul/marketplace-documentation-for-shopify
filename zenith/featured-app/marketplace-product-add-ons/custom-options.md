@@ -10,8 +10,8 @@ With this featured app, you can **allow sellers to add custom options to product
 
 Thus, let the customers provide additional information about the product while purchasing it.
 
-### Features
-
+ Features
+-------------
 *   Let customers add additional information about the products while purchasing it.
 *   Allow customers to make more choices while purchasing a product.
 *   Provide a better shopping experience for your customers.
@@ -21,8 +21,8 @@ Thus, let the customers provide additional information about the product while p
 
 PLEASE NOTE- Now, if you want to get the product custom options on Shopify, then you can access them through the product metafields.
 
-### Limitations
-
+ Limitations
+---------------
 There are certain limitations of this featured app:-
 
 *   Cart Type should not be “Drawer”.
@@ -36,12 +36,12 @@ There are certain limitations of this featured app:-
 
 *   You can create a **maximum of 25 custom options** for a product.
 
-### Now you can check the video tutorial on Youtube and here as well.
+ Now you can check the video tutorial on Youtube and here as well.
+-----------
 
-4nkDU5xaPi4
 
-### Enable the Feature App
-
+ Enable the Feature App
+-------------
 Visit the Feature app section and enable the **Custom** **Options** feature app.
 
 ![Dashboard](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/11/Home-Admin-1.png)
@@ -52,8 +52,8 @@ Visiting the feature App section, search for the featured app & **enable** it
 
 Click the **Enable** button to activate the **Custom Option** feature app.
 
-### Configuration
-
+ Configuration
+-------------
 To allow sellers to add custom options to the products, first you need to enable the configuration.  
 For that, go to:
 
@@ -67,8 +67,8 @@ Once enabled, both you & your sellers will be able to add multiple custom produc
 
 ![bge](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/12/screenshot-1200x555.webp)
 
-### How to Add the Custom Product Options?
-
+ How to Add the Custom Product Options?
+---------------
 **ADMIN END**
 
 *   On the Multi-vendor admin panel, go to the **Products**.
@@ -102,8 +102,8 @@ Now, to display the same with the product on the store-front, you need to add a 
 
 To get the code, please visit the "Instruction for Marketplace" section.
 
-### Custom Options At Variant Level
-
+ Custom Options At Variant Level
+--------------
 Here we’ve introduced a new add-on feature that allows you to enable this feature at the variant level.
 
 ![trw](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/12/four-1200x554.webp)
@@ -123,8 +123,8 @@ We’ve introduced a new feature with two powerful options for managing :
 
 ![select custom option](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/10/select-option-1200x595.webp)
 
-### Global Custom Options
-
+ Global Custom Options
+--------------
 We’ve introduced a new feature that allows the admin to create **global custom options** for both themselves and their sellers.
 
 This enhancement helps streamline the process of adding product options across the marketplace.  
@@ -152,9 +152,9 @@ Note :
 Once a method is selected, it cannot be changed later for that product.  
 If the seller wants to switch the option type, they will first need to delete all existing custom options on that product, and only then will they be allowed to choose the other method.**
 
-###   
+   
 Restrict Input Type for Custom Options
-
+---------------
 We’ve introduced a new enhancement in the **Custom Options** feature — **Restrict Input Type for Custom Options**.
 
 ![strct](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/12/rstrct-1.webp)
@@ -167,9 +167,9 @@ Simply tick the input types you want to allow, and only those options will appea
 
 This gives you greater flexibility and ensures sellers or admins can offer only the relevant input types for their products.
 
-###   
+   
 Make Custom Options Mandatory
-
+-----------------
 Another useful addition to the **Custom Options** settings is the **Make Custom Options Mandatory** feature.
 
 ![mndtry](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/12/mndtry-1200x614.webp)
@@ -222,8 +222,8 @@ Additionally, you’ll have the ability to edit any existing custom fields that 
 
 You can also change the input type from here and also can add the new options.
 
-### Configure Front
-
+ Configure Front
+-----------------
 To configure your store-front, you need to follow the below-given steps:
 
 *   Go to the Multi-vendor Admin Panel.
@@ -232,7 +232,7 @@ To configure your store-front, you need to follow the below-given steps:
 
 Copy the below-given code and add it to **product.liquid** template file inside the form tag:
 
-```
+```liquid
 {% render 'wk-product-custom-option' %}
 ```
 
@@ -252,8 +252,8 @@ Now, once this product is ordered, both you and your sellers can view the custom
 
 ![Order-Details-Seller-•-Multivendor-MarketPlace-6](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/12/Order-Details-Seller-%E2%80%A2-Multivendor-MarketPlace-6-1200x627.png)
 
-### Custom Option "Input Types"
-
+ Custom Option "Input Types"
+---------------
 In the **Custom Option** feature, multiple input types are available. Sellers can select one of these input types to apply to any product variant on their store.
 
 ### Text and Text Area as Input type
@@ -271,8 +271,8 @@ The **Text** and **Textarea** input types allow customers to enter their own val
     _Customer Entry:_ "Please use dark blue thread for the initials and make the collar size a bit looser."  
     This allows the customer to provide detailed customization instructions.
 
-### Toggle Checkbox as Input type
-
+ Toggle Checkbox as Input type
+-----------------
 You can now have the **Toggle Checkbox as an "input type"** for a custom option added to a product.
 
 While adding a custom option to a product, you can enter the field name and choose Toggle Checkbox.
@@ -306,8 +306,8 @@ To make this feature work with the **[split cart](https://webkul.com/blog/shopif
 
 ![Screenshot-2020-09-02T181342.267](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/09/Screenshot-2020-09-02T181342.267.png)
 
-### Drop down as Input type
-
+ Drop down as Input type
+--------------
 You can now use **Dropdown** as an "input type" for a custom option added to a product. While adding a custom option, enter the field name and choose **Dropdown** from the input type options.
 
 If you want to charge an additional amount for certain choices, enable the **price option** and enter the amount to be added to the product price.
@@ -327,8 +327,8 @@ Now, when a customer selects a print option from the dropdown, the respective am
 
 ![dropdown-example](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/10/dropdown-ex-1200x611.webp)
 
-### Multi-select as Input type
-
+ Multi-select as Input type
+---------------
 The **Multi-Select** input type allows customers to choose **multiple options** from a list of available choices.
 
 This is especially useful for products with multiple customization possibilities, where customers may want to select more than one option.
@@ -355,8 +355,8 @@ Now, the customer can select one or both print options. The total amount will be
 
 ![multi select example](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/10/multiselect-ex-1200x676.webp)
 
-### Mark Custom Options as Mandatory
-
+ Mark Custom Options as Mandatory
+--------------
 Now, you have the option to mark custom options as mandatory, ensuring that customers cannot proceed without providing input or selecting a value.
 
 To make a custom option mandatory, simply check the "Keep the field mandatory for customers" option.
@@ -365,8 +365,8 @@ To make a custom option mandatory, simply check the "Keep the field mandatory fo
 
 Once saved, the customers will not be able to proceed to the next step without input.
 
-### ALLOW SELLER TO ADD EXPIRY DATE TO CUSTOM OPTIONS.
-
+ ALLOW SELLER TO ADD EXPIRY DATE TO CUSTOM OPTIONS.
+-------------
 This new configuration allows you to enable sellers to **add an expiry date to their custom options**.
 
 To enable this feature, navigate to:  
@@ -387,8 +387,8 @@ For example, limited edition engravings, seasonal packaging options, or promotio
 
 This setting gives more control to sellers over how and until when their custom options should be visible to customers.
 
-### ALLOW SELLER TO ADD SELECT ALL OPTION TO MULTI-SELECT CUSTOM OPTION.
-
+ ALLOW SELLER TO ADD SELECT ALL OPTION TO MULTI-SELECT CUSTOM OPTION.
+--------------
 This configuration allows you to enable sellers to **add a “Select All” option** for multi-select custom options.
 
 To enable this, go to:  
@@ -401,8 +401,8 @@ Once this feature is activated, sellers can provide customers with the ability t
 
 It improves the customer experience by making selection faster and more convenient when they wish to opt for **all the choices in one go**.
 
-### ALLOW SELLER TO ADD PRE-SELECTED VALUES TO MULTI-SELECT CUSTOM OPTIONS.
-
+ ALLOW SELLER TO ADD PRE-SELECTED VALUES TO MULTI-SELECT CUSTOM OPTIONS.
+--------------
 This configuration enables sellers to **set default pre-selected values** for multi-select custom options.
 
 ![default pre-selected values](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/12/ss4-1200x562.webp)
@@ -419,8 +419,8 @@ Once enabled, sellers can choose which values should be **pre-selected by defaul
 
 Customers can still manually change the selections, but starting with recommended or popular options already selected makes the buying process **smoother and faster**.
 
-### ALLOW SELLER TO ADD PRICE TO DROPDOWN CUSTOM OPTIONS.
-
+ ALLOW SELLER TO ADD PRICE TO DROPDOWN CUSTOM OPTIONS.
+---------------
 With this configuration, sellers can now **assign prices to dropdown custom options**, enhancing the flexibility of product customization.
 
 To enable this, go to:  

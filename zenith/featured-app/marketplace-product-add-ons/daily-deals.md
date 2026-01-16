@@ -4,8 +4,8 @@ description: DAILY DEALS
 author: Chirag Tyagi
 ---
 
-### INTRODUCTION
-
+ INTRODUCTION
+-----------------
 Webkul **introduces the Daily Deals feature** for the **Multivendor Marketplace App for Shopify**.
 
 You might have already **used our Lightning Deals App** for Shopify, where the admin **creates deals** on their products.
@@ -18,15 +18,15 @@ This serves as a powerful way to **attract customers** and **boost your store’
 
 **Note:** The system now **supports deals on digital products** as well.
 
-### Features
-
+ Features
+----------------
 *   Sellers will be able to add deals to their products.
 *   Admin can set the number of days for which he wants the deals to go on.
 *   Store's Admin can also set commissions on Daily Deals products.
 *   Daily Deal products can be viewed by the Admin from the lightning deals app in their Shopify store.
 
-### INSTALLATION
-
+ INSTALLATION
+--------------
 To use this feature app, the **admin must first install the Lightning Deals App** for Shopify from the **official Shopify App Store**.
 
 After installing the app, the **admin navigates to the Featured Apps section** from the **Multivendor Marketplace admin panel**. (Refer to the image below.)
@@ -39,8 +39,8 @@ Click on Agree and you are done:
 
 ![Multivendor Marketplace for Shopify by Webkul- Daily Deals](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/02/Feature-Apps-Admin-1.png)
 
-### WORKFLOW
-
+ WORKFLOW
+--------------
 ### Admin's End:
 
 Admin can configure Multivendor Marketplace for Shopify- Daily Deals setting from the configuration section of his multivendor marketplace admin panel.
@@ -57,8 +57,8 @@ From the Product Configuration page, scroll down to the bottom and there you wil
 
 **Enter the number of days** after which the system should **automatically disable products on deal**.
 
-### **Allow Sellers to Choose Deal End Date**
-
+ **Allow Sellers to Choose Deal End Date**
+-----------
 You can now **let your sellers set a custom end date** for their deals. To enable this, simply **turn on the setting** from the **"Product Configuration"** menu in the app.
 
 Follow this path:  
@@ -82,8 +82,8 @@ Admin will be redirected to such a page:
 
 Furthermore, he needs to enter the percentage value for daily deals commission and click on 'save'.
 
-### Where will the Admin find deals created by the Sellers?
-
+ Where will the Admin find deals created by the Sellers?
+--------------
 From Lightning Deals app (Admin's Shopify Store backend):
 
 ![Multivendor Marketplace for Shopify by Webkul- Daily Deals](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/02/wk-daily-deals-Apps-Shopify-e1552039671733.png)
@@ -100,8 +100,8 @@ A list of Daily Deals of that particular Vendor will be listed below in the tab
 
 This is all from the Admin's end, let's move on to Seller's end.
 
-### Seller's End:
-
+ Seller's End:
+-------------------
 Sellers need to login to their multivendor marketplace Seller panel. Now to add deals on their products they need to go to the _Products_ >> _Product Listing_:
 
 ![Multivendor Marketplace for Shopify by Webkul- Daily Deals](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/02/Dashboard-Seller-•-Multivendor-MarketPlace.png)
@@ -128,8 +128,8 @@ On this page, Seller can see the details of the product added on the deal. Click
 
 ![Multivendor Marketplace for Shopify by Webkul- Daily Deals](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/02/Edit-Deal-Product-Seller-•-Multivendor-MarketPlace.png)
 
-### FRONTEND VIEW
-
+ FRONTEND VIEW
+------------
 To make the deals visible on the frontend, Admin needs to configure the frontend settings of the Lightning Deals app.
 
 From _Shopify store > App section > Lightning Deals app_:
@@ -144,8 +144,8 @@ Here you can either _auto inject_ the codes to the files or you can also do this
 
 For manual code pasting, copy the codes given on this page and add them to the liquid files as mentioned.
 
-#### Coming on the frontend view:
-
+ Coming on the frontend view:
+----------------
 You can view the deals created on the products by the seller under the '_Deals_' page on frontend store:
 
 ![Multivendor Marketplace for Shopify by Webkul- Daily Deals](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/02/Daily-Deals-–-wk-daily-deals.png)

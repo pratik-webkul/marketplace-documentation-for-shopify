@@ -5,7 +5,7 @@ date: 2025-07-29
 author: Chirag Tyagi
 ---
  
-[Multivendor Marketplace](https://webkul.com/blog/shopify-multivendor-marketplace-new-theme-launched/) | **Seller Vacation App** |
+[Multivendor Marketplace](/zenith/introduction/) | **Seller Vacation App** |
 
 The purpose of the **[Multi-vendor Marketplace Seller Vacation App](https://store.webkul.com/Shopify-Multi-Vendor-Marketplace.html)** for Shopify is to provide the information to the admin as well as to the buyer about the unavailability of the Seller.
 
@@ -19,10 +19,10 @@ If the seller continues to sell his products, the product will be visible to the
 
 Which makes it confirms that the seller is not available and is on Vacation for a certain time.
 
-G685xUDd7g8
 
-### Additional Features of Seller Vacation App
 
+ Additional Features of Seller Vacation App
+-----------------------
 *   The seller can inform the admin and the buyers about his vacation. He can configure his vacation details from the "My Account" section of the Seller panel.
 *   He can plan a vacation by informing the customers about his unavailability.
 *   The seller will decide whether he wants to disable his products or continue selling them.
@@ -31,8 +31,8 @@ G685xUDd7g8
 *   Admin can manage the settings selected by the seller for his products.
 *   Admin receives notifications before a seller's vacation period concludes.
 
-### How to Install the App?
-
+ How to Install the App?
+--------------------
 Since it is the add-on feature of the Multivendor Marketplace app, you need to pay an additional amount of 5 USD per month along with the App charge.
 
 Once you install this app, you can approve the charges.
@@ -43,8 +43,6 @@ Go to the "Feature App" section of the admin panel>>Select "Seller Vacation App"
 
 ![Seller Vacation1](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/04/Dashboard-_-Admin.jpg)
 
-  
-  
 
 ![Screenshot-59](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/12/Screenshot-59.png)
 
@@ -54,8 +52,8 @@ Go to the "Feature App" section of the admin panel>>Select "Seller Vacation App"
 
 Once you approve this charge, you will end up getting this feature installed in your Multivendor app.
 
-### Admin End
-
+ Admin End
+---------------------
 Admin first needs to enable the option "Seller Vacation" from the **Seller configuration section** of the admin panel.
 
 From this, the admin can allow the sellers to sell their products when he is on vacation.
@@ -84,8 +82,8 @@ In the field **"Enter the number of days before the end vacation date to trigger
 
 A notification email will be sent to the admin mentioned days before the seller's vacation concludes.
 
-### Seller End
-
+ Seller End
+----------------------------------
 The seller will configure all his vacation details from the "My Account" section of the seller panel.
 
 ![Seller Vacation8](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/04/Screenshot-4.png)
@@ -114,8 +112,8 @@ And if the seller selects the **"Continue Selling"** option, he needs to write a
 
 Once the seller confirms his vacation by filling these details, the vacation status of this seller will be visible to the admin on his end.
 
-### Front End
-
+ Front End
+------------------
 Once the seller selects "Disable all Products", you will get the product status as "Disabled". And no products will be visible to the customer on the front end.
 
 ![seller](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/12/seller4zon.webp)

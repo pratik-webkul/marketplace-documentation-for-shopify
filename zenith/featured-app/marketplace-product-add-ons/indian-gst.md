@@ -21,8 +21,8 @@ mTfdS-k4wV8
 
 Let's understand how it works.
 
-### How to Enable this feature?
-
+ How to Enable this feature?
+---------------------------
 You can enable this feature simply from the "Feature Apps" section of the multivendor app.
 
 ![GST Feature](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/Dashboard-_-Admin-5.jpg)
@@ -35,8 +35,8 @@ Once you click on the "Enable" button, you need to agree with the plan and appro
 
 Which will add up $5 per month over and above the monthly plan of your Multivendor Marketplace app.
 
-### How it works?
-
+ How it works?
+--------------
 **SELLER PANEL**
 
 ![GST Configuration](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/04/Dashboard-Seller-•-Multivendor-MarketPlace-1.png)
@@ -63,8 +63,8 @@ Dashboard>>Orders>>Invoice Configuration>>All GST component details will be visi
 
 The same reflects like this.
 
-### Configure CESS For Seller To Customer Invoice
-
+ Configure CESS For Seller To Customer Invoice
+-----------------
 You will now have an option to configure CESS in Seller To Customer order invoice. For this, you need to visit the admin panel>>**Order**\>>**Invoice Settings** and enable the tab "**Enable CESS in Invoice**".
 
 Once enabled, you will have an option to select states for which you need to enable CESS.

@@ -24,11 +24,11 @@ EASYPOST SHIPPING FEATURE APP IS AVAILABLE for both **Rate Calculation** and **F
 -----------------------------------
 To enable the feature app, all you need to do is to visit the “**Featured Apps**” section of the admin panel and enable it from there.
 
-![EasyPost Shipping](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/10/Home-Admin-1-1200x627.png)
+![EasyPost Shipping](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/featuredapps.webp)
 
 Once you click on “Feature Apps”, you will get the list of apps listing in this section. There, You will get the EasyPost feature. You just need to click the **enable** button.
 
-![EasyPost Shipping](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/05/Screenshot-19.png)
+![EasyPost Shipping](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/easypostone.webp)
 
 Click the **Enable** button to activate the feature app.
 
@@ -42,15 +42,15 @@ Once you enable this feature app, you will get a new sub-menu in the **Configura
 
 Before this, You need to visit the Configuration>>Shipping Methods and **enable the EasyPost Shipping**.
 
-![EasyPost Shipping](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/12/Dashboard-Admin-5-1200x597.png)
+![EasyPost Shipping](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/dashboardshippingmethods.webp)
 
 Enable the EasyPost Shipping:-
 
-![EasyPost Shipping](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/05/Configuration-Admin-1200x556.png)
+![EasyPost Shipping](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/easyposttwo.webp)
 
 Shipping enabled:-
 
-![EasyPost Shipping](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/05/Screenshot-17-1-1200x516.png)
+![EasyPost Shipping](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/easypostthree.webp)
 
 Moving forward to configure EasyPost details in the app:-
 
@@ -88,11 +88,11 @@ Admin Panel>> Configuration>> EasyPost Configuration. And you will find the conf
 
 Shipping Label Cost Beared by, Choose either Admin or Seller from the dropdown menu.
 
-![image](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/08/easy3-1200x540.webp)
+![image](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/easypostfour.webp)
 
 Insurance fee Cost Beared by, Choose either Admin or Seller from the dropdown menu.
 
-![image](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/08/easy2-1-1200x573.webp)
+![image](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/easypostfive.webp)
 
 USAGE AS:- Configure how you want to use the EasyPost shipping for the sellers. Either it's for fulfillment only OR for both Shipping and fulfillment.
 
@@ -100,7 +100,7 @@ SHIPPING LABEL COST BEARED BY:- Also, configure if the admin or the seller will 
 
 RECEIVE PARCEL TO YOUR ADDRESS:- In case you want to receive the parcel at your address, you need to enable the tab and enter the address for which you want to generate the shipping label.
 
-![EasyPost Shipping configuration](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/05/EasyPost-Configuration-Admin-824x1024.png)
+![EasyPost Shipping configuration](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/easypostsix.webp)
 
  Make **Shipping** **Address Phone Number** Mandatory
 -----------------------
@@ -114,11 +114,11 @@ To do this, You need to go to Shopify Backend > Settings > Checkout > Unde
 ---------------------------
 Once you configure these details, the sellers will also get the option to enable the EasyPost shipping from the **Shipping Configuration** menu of their seller panel.
 
-![EasyPost Shipping](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/05/Shipping-Configuration-Seller-%E2%80%A2-Multivendor-MarketPlace-1200x556.png)
+![EasyPost Shipping](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/easypostseven.webp)
 
 Once enabled, the seller proceeds to configure EasyPost shipping.
 
-![EasyPost Shipping](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/05/Shipping-Configuration-Seller-%E2%80%A2-Multivendor-MarketPlace-1-1200x556.png)
+![EasyPost Shipping](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/easyposteight.webp)
 
 The sellers can set the EasyPost shipping as default option, can disable the shipping.
 
@@ -132,12 +132,12 @@ Following are the fields need to be configured:-
 
 **Content Explanation** \[Human readable description of content. Required for certain carriers\] :- The seller can describe about the parcel to be delivered.
 
-![EasyPost Shipping](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/05/Shipping-Configuration-Seller-%E2%80%A2-Multivendor-MarketPlace-2-1200x556.png)
+![EasyPost Shipping](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/easypostnine.webp)
 
 **GLOBAL CONFIGURATION**:- In case, the sellers need to configure the shipping parcel details, this can be done from the Global Shipping Configuration:-  
 Configure Width, height, length, girth, and weight.
 
-![EasyPost Shipping](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/05/Shipping-Configuration-Seller-%E2%80%A2-Multivendor-MarketPlace-3-1200x556.png)
+![EasyPost Shipping](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/globalconfig.webp)
 
 Now, the seller can fulfill orders via the EasyPost shipping courier service.
 
@@ -151,7 +151,7 @@ However, the **Predefined Packages** feature is currently available **only for U
 
 To use it, the seller must ensure that the shipping method is set to **USPS** in their **EasyPost dashboard**.
 
-![Easypost-packages ](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/05/easypost-package-1200x943.webp)
+![Easypost-packages ](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/easypostten.webp)
 
  Shipping Label Generation
 ----------------------
@@ -164,7 +164,7 @@ Seller needs to follow the below-given steps to generate shipping labels for ful
 *   Visit the **Order Listing** section.
 *   Click the Proceed To Fulfill The Order button.
 
-![EasyPost Shipping](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/05/Order-Details-Seller-%E2%80%A2-Multivendor-MarketPlace-1-1200x556.png)
+![EasyPost Shipping](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/orderfullpage.webp)
 
 ![screenshot_1707911571623](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/02/screenshot_1707911571623.png)
 
@@ -172,7 +172,7 @@ Seller needs to follow the below-given steps to generate shipping labels for ful
 
 Once fulfilled, click **Print**/**Generate Shipping Label.**
 
-![EasyPost Shipping](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/05/Order-Details-Seller-%E2%80%A2-Multivendor-MarketPlace-1200x556.png)
+![EasyPost Shipping](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/generateshiipinglabel.webp)
 
 Thus, the shipping label will be generated automatically for the fulfilled orders. Thus, the seller can easily print the shipping label.
 

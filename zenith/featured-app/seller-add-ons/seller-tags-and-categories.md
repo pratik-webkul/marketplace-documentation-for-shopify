@@ -4,7 +4,7 @@ description: SELLER TAGS AND CATEGORIES
 date: 2025-07-29
 author: Chirag Tyagi
 ---
-The [Multivendor Marketplace App for Shopify](https://webkul.com/blog/shopify-multivendor-marketplace-app-new-upgraded-features/) is up with another most requested add-on by the name **Seller Tags & Categories**.
+The [Multivendor Marketplace App for Shopify](/zenith/introduction/) is up with another most requested add-on by the name **Seller Tags & Categories**.
 
 **Purpose of the app**: Using this featured app, the vendors will be able to choose tags & categories for themselves added by the admin. Further, these can be used as filters on the storefront.
 
@@ -12,8 +12,8 @@ The [Multivendor Marketplace App for Shopify](https://webkul.com/blog/shopify-mu
 
 This feature will have an additional charge of **USD 5 per month** over & above your current Multivendor Marketplace plan.
 
-### Enabling the featured app
-
+ Enabling the featured app
+--------------
 Enable the following app by visiting:
 
 *   Multi-Vendor **Admin Panel**
@@ -24,8 +24,8 @@ Enable the following app by visiting:
 
 ![image-82](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/sellertag1.webp)
 
-### Configuration
-
+ Configuration
+--------------
 The admin needs to visit **Multivendor Admin Panel** > **Configuration** > **Sellers Configuration**. Configure the following tabs as per your requirement:
 
 *   Allow seller to add tags to their account
@@ -35,8 +35,8 @@ The admin needs to visit **Multivendor Admin Panel** > **Configuration** > **Sel
 
 ![image-21](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/06/image-21-1200x597.png)
 
-### Seller Tags
-
+ Seller Tags
+-------------
 Now, to add seller tags, the admin needs to visit **Multivendor Admin Panel** > **Sellers** > **Seller Tags**:
 
 ![image-20](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/sellertag3.webp  )
@@ -49,8 +49,8 @@ The seller tag can be deleted, edited or disabled:
 
 ![image-23](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/06/image-23-1200x597.png)
 
-### Seller Category
-
+ Seller Category
+----------------
 To add seller category, the admin needs to visit **Multivendor Admin Panel** > **Sellers** > **Seller Collection**:
 
 ![image-24](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/06/image-24-1200x597.png)
@@ -67,8 +67,8 @@ The admin can add tags and categories for a seller by visiting edit seller page:
 
 ![image-33](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/06/image-33-1200x597.png)
 
-### Seller Panel
-
+ Seller Panel
+----------------------
 The sellers can choose the **seller category** & **seller tags** added by the admin by visiting **Multivendor Seller Panel** \> **Profile** > **My Account**:
 
 ![image-31](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/06/image-31-1200x597.png)
@@ -77,8 +77,8 @@ The seller will get the option to select category & add tags on the seller signu
 
 ![image-30](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/06/image-30-1200x597.png)
 
-### Frontend
-
+ Frontend
+-----------------------------
 Further, this how the sellers can be filtered based on categories & tags:
 
 ![image-34](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/06/image-34-1200x597.png)

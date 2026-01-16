@@ -26,8 +26,8 @@ You will find more details about it in this blog below.
 
 Now let's understand how you can configure and use this app for your Marketplace.
 
-### Installation and Workflow
-
+ Installation and Workflow
+--------------
 To enable the feature app, visit the featured apps section of the Multivendor Marketplace for Shopify.
 
 ![sponser-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/09/sponser-1.png)
@@ -53,8 +53,8 @@ The other configuration will also be visible to the admin by clicking on three d
 
 ![spos-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/09/spos-1-1200x622.png)
 
-### How to create packages for Sponsored products
-
+ How to create packages for Sponsored products
+-------------
 Admin can create packages for Sponsored products in the Sponsored list.
 
 Admin will be able to add sponsored products on the home page, search, product, and collection page.
@@ -73,16 +73,16 @@ Please refer to the below image to learn about the packaged details that need to
 
 ![132](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/09/132-1200x555.png)
 
-### Add Sponsored products for Sellers
-
+ Add Sponsored products for Sellers
+----------------
 Once the Admin set the packages then they can enable the Sponsorship for the products from Product Listing as shown in the image.
 
 ![123](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/09/123-1200x566.png)
 
 ![hjb](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/09/hjb-1200x682.png)
 
-### Allow Seller to Enable Sponsorship
-
+ Allow Seller to Enable Sponsorship
+-----------------
 Admin can also allow sellers to activate sponsorship for their products.
 
 They just need to go to Admin Panel >> Configuration >> Sponsored configuration
@@ -129,76 +129,76 @@ Admin can also cancel any sponsorship for the products by clicking on the three 
 
 ![vf](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/09/vf-1200x417.png)
 
-### Admin Sponsored Orders
-
+ Admin Sponsored Orders
+----------------
 Here on this page admin will get all the order listing for the Sponsored Products and can view all their details.
 
 ![5445](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/09/5445-1200x559.png)
 
 ![dfs](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/09/dfs-1200x495.png)
 
-### Sponsored Sellers
-
+ Sponsored Sellers
+------------------
 This will show all the sellers list who are using sponsored products.
 
 ![cdbjh](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/09/cdbjh-1200x508.png)
 
-### Seller Side Configuration
-
+ Seller Side Configuration
+------------------
 On the Seller Panel, there will also be a new Sponsor Configuration as shown in the below image.
 
 ![cn-d](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/09/cn-d-1200x559.png)
 
-### Enable Sponsorship on Product
-
+ Enable Sponsorship on Product
+--------------
 If the admin has enabled "Allow your seller to enable sponsorship on product" then Seller will be able to Enable Sponsorship on their product from the Product listing page.
 
 ![f32](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/09/f32-1200x543.png)
 
 ![dfd](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/09/dfd-1200x481.png)
 
-### Seller Sponsored Products
-
+ Seller Sponsored Products
+----------------
 When the seller selects **Sponsored Products** from Sponsored Configuration. They will be redirected to this page where they can check all their current sponsored products and their details.
 
 ![fdjbhd](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/09/fdjbhd-1200x473.png)
 
-### Close Sponsorship
-
+ Close Sponsorship
+----------------
 The seller can also close sponsorship from here by Clicking on "Three dots" in front of the product.
 
 ![bhebw](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/09/bhebw-1200x433.png)
 
 ![ooo](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/09/ooo-1200x260.png)
 
-### Wallet Amount
-
+ Wallet Amount
+---------------
 When the seller closes any sponsorship before its end date then the remaining day's amount will be added to their wallet amount.
 
 This wallet amount they can only use to enable other sponsorships for their products sponsorship.
 
 And only the refunded amount will be added to the wallet admin can't add any extra amount on their own.
 
-### Sponsor List
-
+ Sponsor List
+----------------
 Here seller will be able to check it overall paid amount and current wallet amount as well as all sponsorship packages along with sponsor product details.
 
 ![hbdjsb](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/09/hbdjsb-1200x526.png)
 
-### Seller Sponsored Orders
-
+ Seller Sponsored Orders
+----------------
 Here on this page, Sellers will be able to sponsor product order listing and by clicking on "Three Dot " and selecting view they will be able to view full details of the sponsorship for that order.
 
 ![43r](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/09/43r-1200x510.png)
 
 ![dsscv](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/09/dsscv-1200x433.png)
 
-### Workflow when using Stripe Usage Charge as the payment method
-
+ Workflow when using Stripe Usage Charge as the payment method
+----------------
 The workflow for the sponsorship feature when using stripe usage charge will be as follows:
 
-### Admin Panel:
-
+ Admin Panel:
+-----------------
 *   Admin has to choose “Stripe Usage Charge” as the payment method.
 *   Then he has to enter the “Stripe Publish Key” and “Stripe Secret Key”.
 *   Then he has to choose the Billing Cycle, whether it would be weekly or monthly.
@@ -219,8 +219,8 @@ If the admin sets it to Global, he can set the threshold budget there only.
 
 ![global threshold budget](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/11/adminpanelglobalbudget-1200x575.webp)
 
-### Seller Panel:
-
+ Seller Panel:
+--------------
 In the Seller Panel, the seller has to add the billing and card details under Sponsor Payment Details.
 
 ![Seller Payment Details](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/11/sellercarddetails-1200x575.webp)
@@ -239,8 +239,8 @@ For sellers to download their receipts/invoices, they can go to the "Sponsor Ord
 
 ![sponsorship invoice](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/11/invoice-1200x575.webp)
 
-### How to Configure frontend to show Sponsored Products
-
+ How to Configure frontend to show Sponsored Products
+------------
 To Show the sponsored products you need to add the sections for that particular page from the Shopify backend.
 
 So admin will need to go to Shopify Admin Panel >> Online Store >> Themes >> Current theme >> Click on the Customize button as shown in the below image.

@@ -4,7 +4,7 @@ description: SELLER TIME SLOT MANAGEMENT
 date: 2025-07-29
 author: Chirag Tyagi
 ---
-[Multi-Vendor Marketplace for Shopify](https://webkul.com/blog/shopify-multivendor-marketplace-app-new-upgraded-features/) is here with another featured app called **Seller Time Slot Management**.
+[Multi-Vendor Marketplace for Shopify](/zenith/introduction/) is here with another featured app called **Seller Time Slot Management**.
 
 **Purpose of the app**: Using this feature app seller and admin can manage opening and closing time for the seller's store. This is a great way to make your customers aware of the seller's availability.
 

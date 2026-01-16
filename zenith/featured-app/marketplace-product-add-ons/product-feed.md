@@ -17,8 +17,8 @@ This file is having products along with their information and details such as Pr
 
 Once you enable this feature app installed on your marketplace, $10/month gets added to your current Multivendor Plan.
 
-### Feature
-
+ Feature
+--------
 *   Admin can add Product Feed by uploading XML product file and assign it to any of his registered sellers.
 *   This XML file is having all the data related to the products that you are selling.
 *    All the product entities added in your XML file can be mapped with the pre-defined product entities available on your Shopify store.
@@ -26,8 +26,8 @@ Once you enable this feature app installed on your marketplace, $10/month gets a
 *   You can set a Price Rule on every feed that you add to your Marketplace.
 *   Sellers registered on your marketplace can also add Feeds by adding Feed URL.
 
-### Limitations
-
+ Limitations
+----------------
 There are certain limitations of this feature app listed below which you need to know.
 
 *   Only XML file is supported while adding products in bulk using this feature app.
@@ -35,8 +35,8 @@ There are certain limitations of this feature app listed below which you need to
 *   You can't add variant wise Feed Products.
 *    Multiple images can't be uploaded for a single Feed Product.
 
-### Installation
-
+ Installation
+--------------
 ![Feature App](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/07/Dashboard-Admin.png)
 
 To make this app work on your marketplace, first of all, you need to enable this feature from the "Featured Apps" section of the Multivendor app.
@@ -53,8 +53,8 @@ Once you click on the enable button you need to agree with the payment condition
 
 By clicking the agree button you can approve the charge for this feature and get this app installed. In this way, you can get this app installed on your Marketplace.
 
-### Product Feed Configuration
-
+ Product Feed Configuration
+-----------------
 ![Product Feed](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/07/Feature-Apps-Admin-3.png)
 
 Once you enable this app, you first need to configure the feed related settings from the Configuration section of the Multivendor app.
@@ -108,8 +108,8 @@ Once you add this feed, you can view this in the Add Feed section of the app. Al
 
 In this way admin can add Feeds on his/her end.
 
-### Adding Feed Products
-
+ Adding Feed Products
+-----------------
 ![add feed products](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/07/Dashboard-Admin-1.png)
 
 Now, You can add feed Products and assign it to your registered sellers. For this, you need to enter the following details:-
@@ -136,8 +136,8 @@ In case you want to deny the product, you can simply add a reason & unapprove th
 
 ![deny product](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/07/Screenshot-9-3.png)
 
-### Seller End
-
+ Seller End
+-----------------
 ![add feed product](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/07/Dashboard-Seller-•-Multivendor-MarketPlace.png)
 
 Once you enable the Product Feed feature app on your marketplace, your registered sellers can also add Feed Products from the Products section of the seller panel.

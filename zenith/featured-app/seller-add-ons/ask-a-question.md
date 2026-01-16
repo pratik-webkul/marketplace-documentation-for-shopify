@@ -4,7 +4,7 @@ description: ASK A QUESTION
 date: 2025-07-29
 author: Chirag Tyagi
 ---
-[Multivendor Marketplace app for Shopify](https://webkul.com/blog/shopify-multivendor-marketplace-new-theme-launched/): Ask a Question- We have introduced an additional feature in our multivendor marketplace app
+[Multivendor Marketplace app for Shopify](/zenith/introduction/): Ask a Question- We have introduced an additional feature in our multivendor marketplace app
 
 Through which, if the customer has any doubt related to any product or order, then they can directly ask questions from the sellers of the products.
 
@@ -23,8 +23,8 @@ Multivendor Marketplace: Ask a Question Features
 
 So let's understand its workflow:-
 
-### ACTIVATION
-
+ ACTIVATION
+-----------------
 Firstly, enable the "ASK A QUESTION" feature from the "Features Section" by clicking on (...) three dots of the main menu.
 
 ![Ask a Question ](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/29113304/AwesomeScreenshot-Feature-Apps-Admin-2019-07-29-17-07-27.png)
@@ -37,8 +37,8 @@ Once you agree to the additional charges, a new menu called "Ask a Question Conf
 
 ![Ask a Question ](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/r-3.png)
 
-### Ask A Question Configuration
-
+ Ask A Question Configuration
+--------------
 Options available in this menu:-
 
 #### 1. ****RESTRICT CUSTOMER TO RAISE QUERY ON SPECIFIC PRODUCT****
@@ -125,8 +125,8 @@ From here you can edit "Ask a question" label values for the front end.
 
 Also, a new menu name"ASK a question" will be added in the "Products" section of both the ADMIN Panel as well as SELLER Panel.
 
-### Ask a Question button on the seller profile page
-
+ Ask a Question button on the seller profile page
+------------------
 Visit **Multivendor Admin Panel** >> **Configuration** >> **Seller Configuration** >> **Enable this option**:
 
 ![image-21](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/08/image-21-1200x551.png)
@@ -137,10 +137,10 @@ By enabling this, customers will have the following button on the seller profile
 
 ![Seller-Profile-–-Multivendor-ask-a-question-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/08/Seller-Profile-%E2%80%93-Multivendor-ask-a-question-1.png)
 
-### ASK A QUESTION REGARDING THE PRODUCT
-
+ ASK A QUESTION REGARDING THE PRODUCT
+-------------
 **ADMIN PANEL:-**
------------------
+
 
 Admin can view the list of all asked questions asked by customers in the "ASK A QUESTION" section under the "Products " menu of the app.
 
@@ -155,7 +155,7 @@ Also, admin can see the complete history of seller and customer conversation by 
 ![5](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/l-2.png)
 
 **SELLER PANEL:-**
-------------------
+
 
 Sellers can also view the list of all asked questions asked by customers in the "ASK A QUESTION" section under the "Products" menu from their account in the app.
 
@@ -165,8 +165,8 @@ Sellers can even close the query from here once the conversation between the sel
 
 ![Ask a Question ](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/q-2.png)
 
-### FRONT END DISPLAY
-
+ FRONT END DISPLAY
+---------------
 To display the "Ask a Question" button at the product description page as well as on the customer account page, follow the below:
 
 Copy the below code and paste into 'product.liquid' template
@@ -180,8 +180,8 @@ Copy the below code and paste into 'customers/account.liquid' template
 ``` liquid
 <div id="wk-customer-queries"> <input id="wk-customer-email" type="hidden" value="{{ customer.email }}"> </div>
 ```
-### FRONT END VIEW
-
+ FRONT END VIEW
+-----------------------
 ### Ask A Question
 
 Therefore, "Ask a question" button will appear like this at the front end. Refer to the below screenshot.
@@ -200,8 +200,8 @@ You can submit your query directly through the FAQ section by writing your query
 
 ![FAQ](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/01/faqff-909x1024.webp)
 
-### View all queries
-
+ View all queries
+-------------------
 Even, the guest customer can view all queries that they have asked before. Just click on view all queries and follow the below steps.
 
 ![view-all](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/04/view-all.png)
@@ -216,12 +216,11 @@ Now, one OTP will be sent to the customer's email ID, enter that OTP for the ver
 
 ![query-list](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/04/query-list.png)
 
-### ASK A QUESTION REGARDING THE ORDERS
-
+ ASK A QUESTION REGARDING THE ORDERS
+-------------------------
 The customers will be able to ask regarding the orders that they have placed.
 
 The admin needs to display the 'Raise a Query' button.
-------------------------------------------------------
 
 For this, the admin needs to paste the following code in the '**customers/order.liquid**' template file.
 ```liquid
@@ -236,7 +235,7 @@ Refer:
 Once done with the code pasting, a '**raise a query**' button will start displaying in the account details page of the customer, i.e., the frontend.
 
 Now, the customer will raise the query.
----------------------------------------
+
 
 The customer, after placing an order, can raise a query. Note that he can only raise a query for products that he has purchased.
 
@@ -292,8 +291,8 @@ On the redirected page, the seller can **view** all the conversations, reply to 
 
 ![Ask a Question ](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/10/View-Ask-a-question-Seller-%E2%80%A2-Multivendor-MarketPlace.png)
 
-### Ask a Question As FAQ
-
+ Ask a Question As FAQ
+---------------
 With the Multi-vendor Ask a Question feature, you can get the customer's queries published as FAQ on the product page of your store.
 
 When a seller responds to the customer's query from his/her seller panel backend, the question & answer will be automatically published as a FAQ on the product page
@@ -356,8 +355,8 @@ Customer's Query Details:-
 
 This way, the customer's query can be published as FAQ on the product page automatically once the seller responded to the query.
 
-### Upload Image Files in Products
-
+ Upload Image Files in Products
+------------------------
 You can now allow customers to upload Image Files while asking questions related to products.
 
 Sellers can also upload files while replying to the customer query.
@@ -374,8 +373,8 @@ Seller uploading file:
 
 ![screenshot-prnt.sc-2021.07.09-15_01_04](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/07/screenshot-prnt.sc-2021.07.09-15_01_04-1200x417.png)
 
-### Restrict customer to raise query without login
-
+ Restrict customer to raise query without login
+------------------------------
 ![Raise query without login](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/askquescustlog-1200x965.webp)
 
 When you enable the **'Restrict customer to raise query without login'** configuration, customers must log in to raise a query.
@@ -386,8 +385,8 @@ Without logging in, they will not be able to submit a query.
 
 When this configuration is enabled, customers who try to submit a query without logging in will see a message on the product page stating, **"Please login, to raise a query."**
 
-### Custom fields in Ask a Question
-
+ Custom fields in Ask a Question
+-------------------------
 You can also add custom fields in the Ask a Question label on the product page to procure data and queries from the customers.
 
 Admin/sellers can then provide the customer with suitable reverts.
@@ -414,16 +413,16 @@ After clicking on the "save" button, the custom field for ask a question will be
 
 ![screenshot_1684393851043](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/05/screenshot_1684393851043-1200x563.png)
 
-### Frontend
-
+ Frontend
+------------------
 The customer can view and fill in the data in the Ask a Question form via custom fields on the product page.
 
 ![screenshot_1684394118912](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/05/screenshot_1684394118912.png)
 
 After submitting the query, **the admin or the seller** can reply to the query raised by the customer.
 
-### Admin can monitor the queries from the admin panel.
-
+ Admin can monitor the queries from the admin panel.
+--------------------------------
 The Admin can easily view all queries from the **"Ask a Question"** section in the **"Product"** menu through the Admin panel.
 
 To view the queries, visit the Admin panel>Products> Ask a Question>click on the respective query to view it.
@@ -452,8 +451,8 @@ The CSV file will have the following columns -
 
 **Note - The exported CSV will have the queries in the sequence in which they were created**.
 
-### Sellers can monitor the queries from their seller panel.
-
+ Sellers can monitor the queries from their seller panel.
+-------------------------------------
 Sellers can view all the queries from the "Ask a question" section in the "product" menu through their respective seller panel.
 
 The seller can visit the marketplace seller panel>Products> Ask a Question>click on the respective query to view it.
@@ -464,8 +463,8 @@ The sellers can first provide a response to the customer's query and then procee
 
 ![screenshot_1684396862830](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/05/screenshot_1684396862830.png)
 
-### Customers can manage queries from the customer account
-
+ Customers can manage queries from the customer account
+--------------------------------------
 Customers can manage all their queries from their respective Shopify customer accounts.
 
 They can simply click on the **"View All Queries"** button on the customer account page to easily access all queries they have raised.

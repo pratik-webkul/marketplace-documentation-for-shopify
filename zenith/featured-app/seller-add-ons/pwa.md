@@ -6,7 +6,7 @@ author: Chirag Tyagi
 ---
 For now, the app is not compatible with the IOS devices.
 
-[Multivendor Marketplace App](https://webkul.com/blog/shopify-multivendor-marketplace-new-theme-launched/) for Shopify is here with another feature app called **PWA** which lets you enable progressive web application functionality for your marketplace sellers.
+[Multivendor Marketplace App](/zenith/introduction/) for Shopify is here with another feature app called **PWA** which lets you enable progressive web application functionality for your marketplace sellers.
 
 Using this featured app, the admin can send different kinds of push notifications to his sellers. The notifications can be **automatic** as well as **manual**.
 
@@ -16,8 +16,8 @@ Using this featured app, the admin can send different kinds of push notification
 
 This feature will have an additional charge of **USD 10 per month** over & above your current Multivendor Marketplace plan.  
 
-### Installation
-
+ Installation
+--------------------
 Enable the following app by visiting:
 
 *   Multi-Vendor **Admin Panel**
@@ -28,8 +28,8 @@ Enable the following app by visiting:
 
 ![PWA](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/11/Screenshot-by-Lightshot-1200x535.png)
 
-### Configuration: Admin Panel
-
+ Configuration: Admin Panel
+-------------------
 The admin needs to configure the app by visiting:
 
 *   Multi-Vendor **Admin Panel**
@@ -97,8 +97,8 @@ This is how the seller will receive the push notifications once sent by the admi
 
 ![PWA](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/11/Screenshot-from-2019-11-22-15-24-23-1200x615.png)
 
-### Mobile End: PWA
-
+ Mobile End: PWA
+------------------
 This is how the **MultiVendor Marketplace PWA for Sellers** will look like:
 
 ![PWA](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/11/collage-1-1.png)

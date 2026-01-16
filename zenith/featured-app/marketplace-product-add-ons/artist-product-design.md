@@ -5,8 +5,8 @@ author: Chirag Tyagi
 ---
 
 
-### INTRODUCTION
-
+ INTRODUCTION
+--------------
 Till now, the Admin was able to create/allow Sellers on his [Multivendor Marketplace for Shopify](/zenith/introduction/), but now with the new Multivendor Marketplace feature app, **Artist Product Design**.
 
 Admin can create/add Artists on his store and let them add designs for the products to sell.
@@ -138,8 +138,8 @@ Go to: Multivendor Marketplace Admin Panel > Configuration > Product Configurati
 
 ![Configuration Admin (1)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/apdnin.webp)
 
-### Admin Adding Artists
-
+ Admin Adding Artists
+-------------------------
 Go to: Multivendor Marketplace Admin Panel > Sellers > Seller Listing > Add Seller:
 
 ![Seller Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/apdten.webp)
@@ -274,8 +274,8 @@ The added product can be viewed by the Admin from the Products > Product Listing
 
 ![Product Admin (1)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/04/Product-Admin-1.png)
 
-### Admin Reassigning Products
-
+ Admin Reassigning Products
+--------------
 Admin can reassign the products & after reassigning, the added product design is automatically removed from the product; this has two scenarios:
 
 *   If the Product with product design is reassigned to a Seller, then the product design will be removed (by default) & can't be added to this product as now the product belongs to the Seller & not to the Artist.
@@ -285,8 +285,8 @@ Go to: Multivendor Marketplace Admin Panel > Products > Product Listing > Reassi
 
 ![Product Admin (2)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/04/Product-Admin-2.png)
 
-### Artist adding Products with Product Design:
-
+ Artist adding Products with Product Design:
+-----------------
 *   If the Admin has enabled the ALLOW ARTIST TO ADD PRODUCT option from the Seller Configuration, the Artist will be able to add products.
 
 Go to: Multivendor Marketplace Artist Panel > Products > Product Listing > Add Product:
@@ -307,8 +307,8 @@ From the same page, the Artist can edit/duplicate/delete the created product:
 
 *   If the Admin has disabled the ALLOW ARTIST TO ADD PRODUCT option from the Seller Configuration, the Artist will not be able to add products, he can only view the products from the product listing page.
 
-### Commission Scenario
-
+ Commission Scenario
+------------
 There are two commission scenarios:
 
 ![Artist-Product-Design-Configuration-Admin-4-1200x692-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/01/Artist-Product-Design-Configuration-Admin-4-1200x692-1.png)
@@ -337,11 +337,11 @@ The commissions will charge on the basis of the commission set on your marketpla
 
 Furthermore, to know more about marketplace commissions:
 
-*   [Multivendor Marketplace for Shopify: Commissions](https://webkul.com/blog/shopify-multivendor-marketplace-commissions-new-theme/)
-*   [Multivendor Marketplace app for Shopify- Commission Type](https://webkul.com/blog/shopify-multivendor-marketplace-commission-type-new-theme/) 
+*   [Multivendor Marketplace for Shopify: Commissions](/zenith/commission/overview)
+*   [Multivendor Marketplace app for Shopify- Commission Type](/zenith/commission/commission-type) 
 
-### Mail Configuration
-
+ Mail Configuration
+--------------------
 The admin can configure three types of mail regarding this app.
 
 For this, visit **multivendor marketplace admin panel** > **Mail Configuration**.

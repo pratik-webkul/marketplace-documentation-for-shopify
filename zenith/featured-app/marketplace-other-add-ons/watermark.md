@@ -20,16 +20,16 @@ To enable the feature app, all you need to do is visit the â€œ**Featured Apps**â
 
 ### Workflow
 
-### ADMIN END
-
+ ADMIN END
+------------
 Once you enable the feature app, a new sub-menu named Watermark Configuration is added to the configuration menu of the app.
 
 Here, the admin needs to enable the "WaterMark For Digital Product" configuration and set up the app.
 
 ![From here, admin can setup the watermark configurations.](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/wm2.webp)
 
-### How will the watermark appear on the digital files?
-
+ How will the watermark appear on the digital files?
+------------------
 This is how the watermark appears on the PDF and images
 
 ![This is how the watermark will appear on the digital files.](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/05/screenshot1716809143631-2.webp)

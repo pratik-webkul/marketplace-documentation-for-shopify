@@ -6,12 +6,12 @@ author: Chirag Tyagi
 
 In today's fast-paced e-commerce landscape, staying ahead of the curve is essential for success.
 
-That's why our E-Signature Feature app in the [Multivendor Marketplace App](https://webkul.com/blog/shopify-multivendor-marketplace-new-theme-launched/) for Shopify is a game-changer for your online business.
+That's why our E-Signature Feature app in the [Multivendor Marketplace App](/zenith/introduction/) for Shopify is a game-changer for your online business.
 
 Unlock the potential of e-signatures, empowering you to streamline transactions, foster trust among customers, and elevate the overall shopping experience.
 
-### Introduction
-
+ Introduction
+-------------
 Using our E-Signature Feature app in the [Multivendor Marketplace App for Shopify, admins,](https://apps.shopify.com/multi-vendor-marketplace) and sellers can effortlessly create E-Signature documents.
 
 These documents can be connected to seller products, allowing customers to sign them before adding items to their cart, streamlining the shopping experience.
@@ -20,8 +20,8 @@ These documents can be connected to seller products, allowing customers to sign 
 
 The E-Signature feature app will have an additional charge of **USD 20 per month** over & above your current Multivendor Marketplace app plan.
 
-### Installation
-
+ Installation
+------------
 Enable the E-Signature feature app by following the below steps:
 
 *   Go to Multivendor **Admin Panel**
@@ -32,8 +32,8 @@ Enable the E-Signature feature app by following the below steps:
 
 ![screenshot_1698238037016](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/10/screenshot_1698238037016-1200x619.png)
 
-### Need to add code to allow customers to e-sign on pdf on the product page
-
+ Need to add code to allow customers to e-sign on pdf on the product page
+--------------------
 Copy the following code and add it into **product.json >> sections/main-product.liquid** template
 
 ```liquid
@@ -89,8 +89,8 @@ Add class to your add to cart button. Copy the code below and add it into **pro
 
 ![screenshot_1698242819211](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/10/screenshot_1698242819211-1200x619.png)
 
-### Add Document for E-Signature: Admin End
-
+ Add Document for E-Signature: Admin End
+--------------
 *   Go to Multi-Vendor **Admin Panel**
 *   Navigate to Products
 *   Click on E-Signature from the dropdown options.
@@ -155,8 +155,8 @@ You have the flexibility to edit, delete, disable, and change the uploaded docum
 
 ![screenshot_1698241856955](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/10/screenshot_1698241856955-1200x619.png)
 
-### Assign a document for E-signature in your products
-
+ Assign a document for E-signature in your products
+-------------
 When adding a new product, you'll conveniently find the option to select an existing e-signature document from a dropdown menu.
 
 This streamlined process makes it easy to apply the chosen document to the product.
@@ -167,8 +167,8 @@ Admins have the ability to review e-signed documents for any specific order by s
 
 ![screenshot_1698309173097](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/10/screenshot_1698309173097-1200x531.jpeg)
 
-### Seller End
-
+ Seller End
+----------------
 After the admin enables the 'ALLOW SELLER TO ADD E-SIGNATURE DOCUMENTS', sellers gain the ability to include E-signature documents within the Products section.
 
 This allows sellers to seamlessly integrate E-signature documents into their products according to their specific preferences.
@@ -187,8 +187,8 @@ Sellers can also edit, delete, disable, and change the uploaded document for e-s
 
 ![screenshot_1698316238744](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/10/screenshot_1698316238744-1200x618.png)
 
-### Customer End
-
+ Customer End
+--------------
 On the Product page, buyers/customers will find a 'Sign & Add To Cart' button, as illustrated in the image below:
 
 ![screenshot_1698302186060](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/10/screenshot_1698302186060-1200x619.png)

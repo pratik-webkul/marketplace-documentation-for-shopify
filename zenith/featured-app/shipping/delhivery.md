@@ -30,7 +30,7 @@ Enable the following app by visiting:
 *   Search for ‘**Delhivery**‘ & click on ‘**Enable**‘
 *   After accepting the charges, you’ll be good to configure the app!
 
-![delhivery shipping](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/06/image-41-1200x621.png)
+![delhivery shipping](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/delhiveryone.webp)
 
  Configuration: Admin End
 ----------------------
@@ -40,7 +40,7 @@ So, for this, visit **Multivendor Marketplace Admin Panel** > **Configuration
 
 Click on the **three dots** under the **Action** menu & further, click on **enable**.
 
-![delhivery shipping](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/06/image-42-1200x624.png)
+![delhivery shipping](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/enabledelhivery.webp)
 
  Delhivery Configuration
 --------------------------
@@ -53,14 +53,14 @@ On the following page, configure the following details:
     *   **Standard**
     *   **Express**
 
-![delhivery shipping](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/06/image-43-1200x624.png)
+![delhivery shipping](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/delhiveryconfig.webp)
 
 *   Enable **international shipping** if you want to ship parcels internationally.
 *   Enable the **sandbox mode** if you want to test the Delhivery shipping on your store. Remember, shipping labels won’t be generated in testing mode.
 *   **Shipping label extra charge**: Choose who will bear the shipping label extra charges, the admin, or the seller. (This is an extra cost apart from what the customer has paid.)
 *   Select **country**.
 
-![delhivery shipping](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/06/image-44-1200x550.png)
+<!-- ![delhivery shipping](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/06/image-44-1200x550.png) -->
 
  Set Shipping Method For Sellers
 --------------------------------
@@ -68,15 +68,15 @@ The admin can further set the shipping methods for his sellers. Go to **Multi v
 
 On the edit seller page, the admin will have the following block from where he can enable/disable/set as default:
 
-![delhivery shipping](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/06/image-45-1200x594.png)
+![delhivery shipping](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/delhiveryfour.webp)
 
 Further, the admin can view all the sellers which are using this shipping method by going to **Multi vendor marketplace admin panel** > **Configuration** > **Shipping** **Configuration**:
 
-![delhivery shipping](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/06/image-46-1200x620.png)
+![delhivery shipping](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/delhiveryfive.webp)
 
 The redirected page:
 
-![delhivery shipping](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/06/image-47-1200x617.png)
+![delhivery shipping](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/delhiverysix.webp)
 
 Here, clicking on the ‘Edit’ button for a particular seller will redirect you to the ‘Edit Seller’ page
 
@@ -96,13 +96,13 @@ Further, the seller can configuration shipping from his panel.
 
 Go to **Multi-Vendor Marketplace Seller Panel** > **Configuration** > **Shipping Method** > **Enable**/**Disable** the shipping:
 
-![delhivery shipping](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/06/image-48-1200x624.png)
+![delhivery shipping](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/delhiveryseven.webp)
 
 Furthermore, the seller can set the shipping method as **by default** so that every single product created by him will have **Delhivery** as the **by default shipping method**.
 
 Clicking on ‘**Set As Default**‘ will give you the following dialogue box:
 
-![delhivery shipping](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/06/image-49-1200x611.png)
+![delhivery shipping](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/delhiveryeight.webp)
 
 Set Default Shipping Method For Products:
 
@@ -114,7 +114,7 @@ If not this, the seller can set the shipping method on individual products while
 
 So, go to **Multi-vendor marketplace seller panel** > **Products** >**Product Listing** \> **Add**/**Edit** the Product:
 
-![delhivery shipping](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/06/image-50-1200x606.png)
+![delhivery shipping](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/delhiveryshippingmethod.webp)
 
  **Global Configuration**
 ---------------------
@@ -122,7 +122,7 @@ Further, click on the **Global Configuration** menu on the **Shipping method*
 
 **Note**: It is mandatory to save the global configuration atleast once.
 
-![Shipping-Configuration-Seller-•-Multivendor-MarketPlace-2](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/09/Shipping-Configuration-Seller-%E2%80%A2-Multivendor-MarketPlace-2-1200x597.png)
+![Shipping-Configuration-Seller-•-Multivendor-MarketPlace-2](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/globalconfig.webp)
 
  GENERATE PICKUP REQUEST
 ----------------------------------------
@@ -133,13 +133,13 @@ Just redirect to same page i.e.
   
 Now, click on the three dots in front of Delhivery >> pickup request
 
-![Shipping-Configuration-Seller-•-Multivendor-MarketPlace](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/01/Shipping-Configuration-Seller-%E2%80%A2-Multivendor-MarketPlace-1200x608.png)
+![Shipping-Configuration-Seller-•-Multivendor-MarketPlace](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/delhiverynine.webp)
 
 When you will click on "Pickup request" then a pop up will appear on screen. Now, enter the pick up date, pickup time and click "SAVE" button.
 
 And Your pick request will be sent to delhivery.
 
-![Screenshot9](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/01/Screenshot9-1200x480.png)
+![Screenshot9](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/delhiveryten.webp)
 
 Note:-
 
@@ -167,7 +167,7 @@ Go to **Multi-vendor marketplace seller panel** > **Orders** > **Order List
 
 Select the method of order fulfillment as **Delhivery** and fulfill the order. Further print the shipping label.
 
-![delhivery shipping](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/06/image-54-1200x562.png)
+![delhivery shipping](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/generateshiipinglabel.webp)
 
 After fulfillment, you can generate the label from here:
 

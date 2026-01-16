@@ -5,12 +5,12 @@ date: 2025-07-25
 author: Chirag Tyagi
 ---
 
-[Multivendor Marketplace app for Shopify](/zenith/introduction/overview.html)\-Weglot Translation- We have now integrated the Weglot translation tool in our multivendor marketplace app
+[Multivendor Marketplace app for Shopify](/zenith/introduction/)\-Weglot Translation- We have now integrated the Weglot translation tool in our multivendor marketplace app
 
 Through which multivendor apps can now be translated into multiple languages as per the weglot translation plans.
 
-### FEATURES
-
+ FEATURES
+------------
 *   Admin can convert his/her multivendor marketplace app to multiple languages.
 *   Admin can give the options to their sellers to select the language of their choice.
 *   Also, admin can even choose whether he/she wants to avail the options of multiple languages to only admin, to the only seller or to both.
@@ -18,8 +18,8 @@ Through which multivendor apps can now be translated into multiple languages as 
 
 So let's understand its workflow:
 
-### WORKFLOW in New Theme
-
+ WORKFLOW in New Theme
+--------------
 Firstly you need to Enable "Weglot Translation" from the 'Feature Apps' section by clicking on the (...) three dots on the top right-hand side of the main menu.
 
 ![Weglot Translation](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/10/first.webp)
@@ -36,8 +36,8 @@ After signup to "Weglot", you will get an email for verification. Further, follo
 
 Once done, you'll have the API key that will be used in the Multivendor Weglot Configuration.
 
-### ADMIN END
-
+ ADMIN END
+------------
 Now you will get a menu name "Weglot configuration" in the configuration section of your multivendor marketplace app.
 
 Here you need to Enter the "API" key.

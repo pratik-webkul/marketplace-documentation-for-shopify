@@ -10,7 +10,7 @@ It is a fact that badges keep up the zeal or motivation to work harder towards s
 
 It's good to recognize your sellers if they are working hard to uplift your online store.
 
-Hence, thinking from the same viewpoint, we came up with another most requested feature app for our [Multivendor Marketplace for Shopify](https://webkul.com/blog/shopify-multivendor-marketplace-new-theme-launched/): **Seller and Customer Badge**.
+Hence, thinking from the same viewpoint, we came up with another most requested feature app for our [Multivendor Marketplace for Shopify](/zenith/introduction/): **Seller and Customer Badge**.
 
 Customer badges on the other hand can be used to indicate various attributes of a customer, such as their level of activity, reliability, and trustworthiness.
 
@@ -29,7 +29,7 @@ Sellers can see the customer badges assigned to the customers while accepting an
 *   Create & assign unlimited seller and customer badges
 *   Enhance & motivate your marketplace sellers
 *   You can also assign badges according to their sales performance
-*   Award the [best-rated seller](https://webkul.com/blog/product-review-multi-vendor-marketplace-for-shopify/) with the badge
+*   Award the [best-rated seller](/zenith/featured-app/marketplace-product-add-ons/product-review) with the badge
 *   Badges will improve seller authenticity toward the customers
 *   Badges will indicate verified and active customers.
 
@@ -37,14 +37,14 @@ Sellers can see the customer badges assigned to the customers while accepting an
 
 Let's move to the installation & configuration process of the following feature app.
 
-### Installation
-
+ Installation
+---------------
 Visit the '**Feature Apps**' section from the Multivendor Marketplace **Admin Panel**. Search for the **Seller and Customer Badge** app & click on **Enable**.
 
 ![screenshot_1684332485356](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/sellerbadge1.webp)
 
-### Adding Badges
-
+ Adding Badges
+----------------
 To add badges, visit Multivendor Marketplace **Admin Panel** > **Sellers** > **Badge Listing** > **Add Badge**
 
 ![Seller-Badges-Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/sellerbadge2.webp)
@@ -63,8 +63,8 @@ This is how a new custom badge can be added. Coming back to the badge listing pa
 
 ![screenshot_1684324254698](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/sellerbage4.webp)
 
-### Assigning Badges to Seller
-
+ Assigning Badges to Seller
+-----------------
 For this, visit Multivendor Marketplace **Admin Panel** > **Sellers** > **Sellers Listing** > **Edit Seller**
 
 ![Seller-Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/sellerbadge5.webp)
@@ -78,16 +78,16 @@ You can assign more than one badge to a seller. Further, the admin can also remo
 
 ![Edit-Seller-Admin-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/sellerbadge7.webp)
 
-### Seller Panel
-
+ Seller Panel
+--------------
 The seller will be able to see all the assigned badges from the seller panel. Visit Multivendor Marketplace **Seller Panel** > Profile > My Account.
 
 Furthermore, under the section **Seller Badges**, all the assigned badges will be listed.
 
 ![My-Account-Seller-•-Multivendor-MarketPlace](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/sellerbadge8.webp)
 
-### Assigning badges to customers
-
+ Assigning badges to customers
+--------------
 For this, visit Multivendor **Marketplace Admin Panel > Sellers > Customer Badge> Add customer badge.**
 
 ![screenshot_1684324597737](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/sellerbadge9.webp)
@@ -110,8 +110,8 @@ The customer badges will be visible to the sellers on their respective seller pa
 
 ![seller_side_customer_badge_](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/05/seller_side_customer_badge_-1200x577.png)
 
-### Allow seller to view customer badges
-
+ Allow seller to view customer badges
+-----------------
 The Admin can decide if he wants the seller to view the badges assigned to the customers.
 
 For this, visit **Marketplace Admin panel> configuration> Badges configuration.**
