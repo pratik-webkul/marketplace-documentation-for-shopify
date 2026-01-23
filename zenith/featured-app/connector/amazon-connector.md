@@ -22,15 +22,15 @@ Features
 ----------------------
 To activate the Amazon Connector feature app, first, you need to visit the Feature Apps section of the Multivendor App.
 
-![Amazon1](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/10/Amazon1-1200x586.png)
+![Amazon1](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/ac1.webp)
 
 You will find the feature app named 'Amazon Connector' there
 
-![Amazon2](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/10/Amazon2-1200x586.png)
+![Amazon2](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/ac2.webp)
 
 Now, upon clicking on the enable button, you will need to choose the plan that suits your requirements.
 
-![Amazon3](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/10/Amazon3-1200x586.png)
+![Amazon3](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/ac3.webp)
 
 Please proceed to authorize the additional charge for this feature app. Once we approve it, we will seamlessly integrate the feature into the Multivendor app.
 
@@ -40,15 +40,15 @@ Sync the changes to the marketplace once the sellers make updates in their Amazo
 
 For this, you need to visit the marketplace Admin panel >> configuration >> connector configuration
 
-![AMAZON4](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/10/AMAZON4-1200x586.png)
+![AMAZON4](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/ac4.webp)
 
 Here, you need to select the Amazon connector in the Choose Connector feature app
 
-![AMZON-5](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/10/AMZON-5-1200x586.png)
+![AMZON-5](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/ac5.webp)
 
 You can now choose the product details you wish the seller can manually sync from their Amazon seller central
 
-![Amazon6](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/10/Amazon6-1200x586.png)
+![Amazon6](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/ac6.webp)
 
  **Charge Tax on Product**
 -------------------
@@ -58,7 +58,7 @@ You can choose to charge tax on products. You can choose whether to apply the ta
 
 Also, You can choose “not to charge taxes” on the products.
 
-![screenshot_1696849425967](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/10/screenshot_1696849425967-1200x586.png)
+![screenshot_1696849425967](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/ac7.webp)
 
  Amazon Configuration: Seller end
 -----------------------------
@@ -66,11 +66,11 @@ The vendor now needs to configure the Amazon credentials on their seller panel.
 
 They must visit the marketplace seller panel >> Configuration >> Amazon configuration for this.
 
-![image-a](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/10/image-a.png)
+![image-a](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/ac8.webp)
 
 Here, the sellers will need to enter the details in order to connect their Amazon seller central with the marketplace
 
-![imagec](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/10/imagec-1200x586.png)
+![imagec](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/ac9.webp)
 
 The seller now needs to visit Amazon Seller Central to configure the following details.
 

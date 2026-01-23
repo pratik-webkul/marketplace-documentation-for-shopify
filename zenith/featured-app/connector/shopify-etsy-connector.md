@@ -29,10 +29,10 @@ Let's Explore the Features in detail.
 *   If an order is placed on the admin's store, the same will be updated on Etsy too.
 *   If an order is placed on Etsy, the seller will have the option to import orders either by "Order status" or by "Receipt IDs".
 *   Orders can be imported in bulk using the CSV file of the order's receipt IDs.
-*   **[Slot Pricing](https://webkul.com/blog/shopify-multivendor-marketplace-slot-pricing/) is compatible** with this connector.
+*   **[Slot Pricing](/zenith/featured-app/marketplace-product-add-ons/slot-pricing) is compatible** with this connector.
 *   Both admin & seller can now sync the seller’s products in any state from the “Product Listing” section of their respective panels.
 
-![sync with seller store](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/11/Product-Admin-2-1200x597.png)
+![sync with seller store](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/etsycon1.webp)
 
 ### Limitations of the Etsy Connector app
 
@@ -46,7 +46,7 @@ Let's Explore the Features in detail.
 
 To get this feature app, the admin needs to visit the "**Feature Apps**" section of the Multivendor app and go through below mentioned steps:
 
-![S1](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/12/Dashboard-Admin-2.png)
+![S1](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/etsycon2.webp)
 
 In Feature Apps section, Search for "**Shopify-Etsy Connector** app".
 
@@ -67,7 +67,7 @@ Go to Configuration\>>Product Detail Configuration\>>Select the Connector.
 
 Now, he can enable/disable other tabs for this section:
 
-![AwesomeScreenshot-Connector-Configurations-Admin-2019-07-11-17-07-82](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/03/11122526/AwesomeScreenshot-Connector-Configurations-Admin-2019-07-11-17-07-82.png)
+![AwesomeScreenshot-Connector-Configurations-Admin-2019-07-11-17-07-82](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/etsycon3.webp)
 
 ### Charge Tax On Products
 
@@ -77,7 +77,7 @@ You can choose to charge tax on products. You can select whether the tax rates w
 
 Also, You can choose "not to charge taxes" on the products.
 
-![Connector-Configurations-Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/11/Connector-Configurations-Admin-1200x597.png)
+![Connector-Configurations-Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/etsycon4.webp)
 
 That's all about the Configuration done from the admin end. Furthermore, moving on to the Seller end
 
@@ -85,7 +85,7 @@ And let's see how the Sellers manage the configuration to connect their Etsy sto
 
 ### Etsy Configuration
 
-![S2](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/12/Dashboard-Seller-•-Multivendor-MarketPlace-2.png)
+![S2](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/etsycon5.webp)
 
 As soon as the admin installs the Shopify-Etsy Connector feature app in the Multivendor Marketplace App. Furthermore, the Configuration menu in the Seller Panel gains a new sub-menu.
 
@@ -93,7 +93,7 @@ As soon as the admin installs the Shopify-Etsy Connector feature app in the Mult
 
 To set up the **"Etsy App Configuration"**, sellers can authenticate the Etsy connector app by clicking the **"Authenticate Your App"** button.
 
-![screenshot_1691764630573](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/08/screenshot_1691764630573-1200x616.png)
+![screenshot_1691764630573](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/etsycon6.webp)
 
 This will open a new page where you should select **"Authenticate Multivendor-Etsy Connector App"**.
 
@@ -105,19 +105,19 @@ From there, log in to your Handmade Marketplace account, complete the app authen
 
 In the "Inventory Sync Timing" section of the Etsy Configuration, sellers have the ability to specify the three-time slots for synchronizing their product inventory.
 
-![screenshot_1691765022525](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/08/screenshot_1691765022525-1200x610.png)
+![screenshot_1691765022525](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/etsycon7.webp)
 
-### Bulk update product inventory from Etsy
+<!-- ### Bulk update product inventory from Etsy
 
 The sellers also have the option to manually synchronize their product inventory from Etsy in bulk.
 
-![screenshot_1697212932233](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/10/screenshot_1697212932233.png)
+![screenshot_1697212932233](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/10/screenshot_1697212932233.png) -->
 
 ### Tag Mapping
 
 Clicking on "Tag Mapping," sellers will have the option to map product tags. Sellers can also disable or delete mapped tags according to their needs.
 
-![screenshot_1691765238797](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/08/screenshot_1691765238797-1200x614.png)
+![screenshot_1691765238797](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/etsycon9.webp)
 
 ### Import Products
 
@@ -131,7 +131,7 @@ By using this method, the Seller should enter the Listing ID(s) of the products 
 
 This action will import the specified products from Etsy to the Multivendor Marketplace app.
 
-![screenshot_1691753740352](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/08/screenshot_1691753740352-1200x616.webp)
+![screenshot_1691753740352](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/etsycon10.webp)
 
 ### Method 2: By CSV
 
@@ -139,7 +139,7 @@ By using this method the sellers can add their products in bulk via CSV
 
 They can download the example product listing CSV to add their products
 
-![screenshot_1697213257254](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/10/screenshot_1697213257254.png)
+![screenshot_1697213257254](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/etsycon11.webp)
 
 ### Admin End
 
@@ -155,11 +155,11 @@ Suppose a product is added on Etsy and Seller has imported this product from Ets
 
 ![s33](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/12/Screenshot-27.png)
 
-![s22](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/12/Screenshot-28.png)
+![s22](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/etsycon12.webp)
 
 This is how the imported product appears on the Multivendor App.
 
-![s11](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/12/Product-Admin-1.png)
+![s11](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/etsycon13.webp)
 
 Admin can enable, deny or delete any imported products from his end.
 
@@ -169,7 +169,7 @@ Once the admin approves any product, the same will reflect in the Seller panel o
 
 Let the sellers create price rules to manage the product price of their PrestaShop store to the merchant’s store.
 
-![Price rule ](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/01/Dashboard-Seller-%E2%80%A2-Multivendor-MarketPlace-1.png)
+![Price rule ](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/etsycon14.webp)
 
 Sellers will have a new menu named **Connector Price Rule** in the configuration menu of the app.
 
@@ -179,7 +179,7 @@ Clicking the **Connector Price Rule**, the seller needs to enable “Price Rule
 
 The price will be changed by a fixed amount or a percentage amount, enter the amount that needs to be changed.
 
-![price rule](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/01/Price-Rule-%E2%80%A2-Multivendor-MarketPlace.png)
+![price rule](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/etsycon15.webp)
 
 Further, enable the checkbox to update the already synced product’s price at the merchant’s store as per the price rule created.
 

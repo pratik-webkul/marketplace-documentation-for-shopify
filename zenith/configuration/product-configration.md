@@ -448,6 +448,23 @@ then decimal numbers like 22.673 round off to 22.7, 23.889 round off to 23.9
 NOTE:  
 Product price round-off will be applied on product price, its compare at price, variant price, and its compare at price.
 
+ Product Price Round-Off Configuration
+------------
+The Product Price Round-Off feature helps the admin replace product prices with an approximate value by controlling how decimal values are displayed across the marketplace.
+
+![Image](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/roundoffconfig.webp)
+
+When the Product Price Round-Off feature is enabled, a dropdown appears that allows you to select the preferred decimal format for product prices. You can choose from the following options:
+
+- No Decimal  
+- Round Off to 1 Decimal  
+- Round Off to 2 Decimals  
+
+After selecting the desired round-off option, click the SAVE button to apply the changes.
+
+The selected option will be applied across the entire Multivendor Marketplace application, ensuring consistent price representation for product prices, orders, invoices, and other related areas throughout the platform.
+
+
  Product Variant Inventory Listings
 -----------------------------
 When a customer purchases a product variant, the sold variant is listed in the Variant Inventory section of both the Admin and Seller panels.

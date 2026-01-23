@@ -600,6 +600,21 @@ Below is a sample of how you can utilize this API in your code to fetch this inf
 
 ![output](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/03/output.jpeg)
 
+We have introduced a new configuration for Global Products called **“Show View in Store for Global Product.”** This configuration allows administrators to easily view global products directly at the store level.
+
+To enable this feature, follow the steps below:
+
+- Navigate to Multivendor Marketplace Admin Panel  
+- Go to Configuration  
+- Open Global Product Configuration  
+- Enable “Show View in Store for Global Product”  
+
+![Refer:](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/globalproductnewc.webp) 
+
+Once this configuration is enabled, a **“View in Store”** option will appear in the Global Product Listing. Using this option, you can directly access and verify global products in the store, making product validation faster and more convenient.
+
+![Refer:](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/globalproductnewconfig.webp)  
+
 ### Get the Demo Links
 
 Follow the below links and credentials to check the demo of the Global Product Feature app: [https://multivendor-global-product.myshopify.com/pages/demo](https://multivendor-global-product.myshopify.com/pages/demo)

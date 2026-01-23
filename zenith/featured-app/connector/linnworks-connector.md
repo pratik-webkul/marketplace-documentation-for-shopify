@@ -28,7 +28,7 @@ Admin can also decide how he wants to charge tax on the products.
 -----------------------
 Visit **Multivendor Admin Panel** > **Feature Apps** \> **Enable** the add-on:
 
-![Feature-Apps-Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/08/Feature-Apps-Admin-1200x597.png)
+![Feature-Apps-Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/lin.webp)
 
 Once enabled, you need to configure it.
 
@@ -91,7 +91,7 @@ Furthermore, add these to the Linnworks Configuration page of the Marketplace Ap
 ------------------
 Visit **Multivendor Admin Panel** \> **Configuration** > **Connector Configuration**:
 
-![Connector-Configurations-Admin-2](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/08/Connector-Configurations-Admin-2-1200x848.png)
+![Connector-Configurations-Admin-2](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/lin3.webp)
 
 Choose whether you want to auto-update the following product details on Marketplace when the seller updates them on Linnworks:
 
@@ -114,7 +114,7 @@ Next, choose how you want to charge tax on products:
 *   Customer Name
 *   Email ID
 
-![Connector-Configurations-Admin-3](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/08/Connector-Configurations-Admin-3-1200x898.png)
+![Connector-Configurations-Admin-3](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/lin4.webp)
 
  Seller Panel: Configuration
 ------------------
@@ -122,7 +122,7 @@ The sellers need to visit **Multivendor Seller Panel** > **Configuration** > **L
 
 Further, they need to download **Shopify Linnworks App**:
 
-![Linnworks-Details-Seller-•-Multivendor-MarketPlace-1200x597-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/12/Linnworks-Details-Seller-%E2%80%A2-Multivendor-MarketPlace-1200x597-1.png)
+![Linnworks-Details-Seller-•-Multivendor-MarketPlace-1200x597-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/lin5.webp)
 
 The seller will land on a page where they will need to login to their Linnworks account:
 
@@ -192,7 +192,7 @@ Enter comma-separated SKUs or CSVs to import them:
 
 Lastly, the imported products will be listing under product listing section. They can be manually synced with the store if needed:
 
-![Product-Seller-•-Multivendor-MarketPlace](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/08/Product-Seller-%E2%80%A2-Multivendor-MarketPlace-1200x597.png)
+![Product-Seller-•-Multivendor-MarketPlace](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/lin8.webp)
 
  Connector Price Rules
 ------------------
@@ -209,5 +209,5 @@ So, you need to select the price rule to be incremented or decremented. Price ch
 
 If you are setting this up after syncing products then click on the checkbox so that the price of previously added products is changed automatically as per the rule set.
 
-![Price-Rule-Seller-•-Multivendor-MarketPlace](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/08/Price-Rule-Seller-%E2%80%A2-Multivendor-MarketPlace-1130x1024.png)
+![Price-Rule-Seller-•-Multivendor-MarketPlace](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/lin9.webp)
 

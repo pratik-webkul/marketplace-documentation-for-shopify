@@ -96,3 +96,19 @@ When visitors click on the blog title, they’ll be taken to the full blog post 
 
 All sellers' blogs will be visible on the store, allowing visitors to browse and choose from them as they wish.
 
+**Set Future Publish Date**
+------------
+We have introduced a new feature in the Seller Blog that allows sellers to set a future publish date for their blog posts.  
+With this enhancement, sellers can now plan ahead by scheduling their blog posts to be published at a later date.
+
+To enable this feature, please navigate to the Multivendor Marketplace Admin Panel → Configuration → Seller Blog Configuration, and enable the option **“Allow Seller to Add Future Publish Date for Blogs.”**
+
+![image](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/slrblog.webp) 
+
+Once this configuration is enabled, sellers will be able to add a future publish date while creating their blog posts. Even if the seller’s blog is disabled, they can still add a future publish date to it.
+
+![image](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/slrblogtwo.webp)
+
+If the admin wants the seller’s blog to be automatically published on the future publish date added by the seller, then the admin needs to keep the **“Auto Approve Seller Blog”** configuration enabled from the Multivendor Marketplace Admin Panel under the Seller Blog Configuration section.
+
+![image](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/slrbloogthree.webp)

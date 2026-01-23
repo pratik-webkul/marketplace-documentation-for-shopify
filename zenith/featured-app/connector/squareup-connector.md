@@ -35,11 +35,11 @@ Let's explore the connector in detail.
 ----------------
 Go to the Feature app section and enable the Squareup connector feature app.
 
-![Dashboard](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/11/Home-Admin-1.png)
+![Dashboard](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/squareupones.webp)
 
 Visiting the feature App section, search for the **Squareup Connector** & **enable** the feature app.
 
-![Squareup](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/11/Screenshot-55.png)
+![Squareup](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/squareuptwo.webp)
 
 Click the **Enable** button.
 
@@ -51,11 +51,11 @@ After enabling the Squareup feature app, a new menu appears under the **Configur
 
 You need to configure the Squareup app details for the seller's Squareup store.
 
-![squareup](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/11/Dashboard-Admin-5-1200x597.png)
+![squareup](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/squareupthree.webp)
 
 Visiting this section, you will get the options to enter the details of the app that you have created on Squareup for your sellers.
 
-![square up configuration](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/04/Squareup-App-Configuration-Admin-1-1200x867.png)
+![square up configuration](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/sqaureupfour.webp)
 
 Now, in order to let the sellers connect their Squareup stores to your Shopify store, you need to _**Create an App**_ on Squareup.
 
@@ -169,7 +169,7 @@ With these details, you can configure the Squareup settings in the app and allow
 
 Details Saved Successfully:-
 
-![squareup details](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/11/Squareup-App-Configuration-Admin-1-1200x627.png)
+![squareup details](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/squareupfive.webp)
 
 Now, let's proceed to check the functionalities on the Seller end.
 
@@ -177,13 +177,13 @@ Now, let's proceed to check the functionalities on the Seller end.
 ---------------------------
 As soon as the admin enables the Squareup feature, a new sub-menu gets added to the **Configuration** menu of the app i.e. **Squareup Configuration**.
 
-![seller end](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/11/Dashboard-Seller-%E2%80%A2-Multivendor-MarketPlace.png)
+![seller end](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/suarefive.webp)
 
 Visting the **Squareup Configuration** menu, firstly, the seller needs to install the Squareup App (that is already developed at the time of integration of Squareup with the Multi-vendor Marketplace app).
 
 Seller will click the **Download Shopify-Squareup App**. This will redirect the seller to the [login page of the Squareup](https://squareup.com/login).
 
-![download app](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/11/Squareup-Details-Seller-%E2%80%A2-Multivendor-MarketPlace.png)
+![download app](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/squareseven.webp)
 
 Clicking the above button, the seller will be asked to log in to the Squareup store.
 
@@ -206,7 +206,7 @@ The sellers can enable this option to auto-sync the newly added products to the 
 
 Moreover, the seller will click the **import products** button to import previously added Squareup store products to the admin's Shopify store.
 
-![configuration details](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/11/Squareup-Details-Seller-%E2%80%A2-Multivendor-MarketPlace-1-2.png)
+![configuration details](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/squareeight.webp)
 
  Map Collection
 -----------------------
@@ -216,15 +216,15 @@ Before the product import, the seller needs to map the admin's store collection 
 
 For this, the seller will visit the **Map Collection** section and then, select the admin's collection to map with his/her own Squareup store's collection.
 
-![Collection mapping ](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/11/Screenshot-50-1.png)
+![Collection mapping ](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/squarenine.webp)
 
 Seller will choose the admin's store collection & map it with Squareup store's collection.
 
-![Map Collection](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/11/Map-Collections-%E2%80%A2-Multivendor-MarketPlace.png)
+![Map Collection](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/squareten.webp)
 
 Finally, all the mapped collections will be listed like this:-
 
-![collection](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/11/Squareup-Details-Seller-%E2%80%A2-Multivendor-MarketPlace-3-1200x756-png-1200%C3%97756-.png)
+![collection](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/squareelven.webp)
 
 This way, sellers can map collection.
 
@@ -236,7 +236,7 @@ Clicking the **Import Product** button, the seller will enter the **comma-separa
 
 _**Please note: You can only import**_ **"simple"** _**and "**_**variable**" _**products.**_
 
-![import](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/11/Import-Product-From-Squareup-Seller-%E2%80%A2-Multivendor-MarketPlace.png)
+![import](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/squaretwlv.webp)
 
 This way, the seller can import Squareup products to the admin's Shopify store.
 
@@ -247,29 +247,29 @@ In case the products are not synced once you import them, you can visit the sell
 
 Products>>>**Product Listing**\>>>**Action** menu>>>Click "**Sync with seller store**" button.
 
-![sync with seller's store](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/11/Product-Admin-2.png)
+![sync with seller's store](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/sqaureeighteen.webp)
 
 After that, all the imported products will be listed in the "**Approval Pending state**". Thus, the admin needs to approve them from the product listing section of the app.
 
-![enable sync ](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/11/Product-Admin-1.png)
+![enable sync ](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/sventeensquare.webp)
 
  Create Price Rule
 --------------------
 Let the sellers create price rules to manage the product price of the seller's Square up POS to the merchant’s store.
 
-![configure](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/11/Dashboard-Seller-%E2%80%A2-Multivendor-MarketPlace-2-1200x627.png)
+![configure](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/sixteensqure.webp)
 
 Sellers will have a new menu named **Connector Price Rule** in the configuration menu of the app.
 
 From here, the seller can create price rules based on which the seller’s product price will be calculated on the merchant’s store. 
 
-![square up](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/11/Screenshot5-1200x454.png)
+![square up](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/squarefifteen.webp)
 
 Clicking the **Connector Price Rule**, afterward, the seller needs to enable “Price Rule” status and select the options as increase/decrease price,
 
 the price will be changed by a fixed amount or a percentage amount, enter the amount that needs to be changed.
 
-![price rule](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/11/Price-Rule-%E2%80%A2-Multivendor-MarketPlace-1121x1024.png)
+![price rule](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/ninetehensjssqqaue.webp)
 
 Enable the checkbox to update the already synced product’s price at the merchant’s store as per the price rule created.
 
@@ -281,13 +281,13 @@ Orders can now be created in Seller’s Squareup through the Squareup Connector 
 
 You can choose if you want to create an order on the seller’s Squareup Store or not. For this, you need to visit the admin panel>>Connector Configuration>>Enable **Sync Order** tab.
 
-![sync orders](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/11/screenshot_1715166796720-1200x606.webp)
+![sync orders](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/squarefoutrene.webp)
 
 As soon as you enable this tab, you will get the option to choose if you want to sync customer data related to the order or not.
 
 Also, you can restock inventory in the seller's store when an order is refunded on the admin store.
 
-![sync](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/09/squareup-1200x568.webp)
+![sync](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/sqrethirteen.webp)
 
 This way, you can sync the customer details related to the order with the seller’s store and also restock the inventory when the order is refunded on the admin store.
 
