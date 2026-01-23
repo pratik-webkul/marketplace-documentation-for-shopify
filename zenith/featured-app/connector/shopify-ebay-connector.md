@@ -35,9 +35,9 @@ Admin End
 
 To enable the Shopify eBay Connector feature app, admins can follow these steps within the Multivendor app:
 
-![feature app Shopify eBay connector](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/07/featureapp-1200x526.webp)
+![feature app Shopify eBay connector](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/ebayconn1.webp)
 
-![shopify ebay connector](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/07/shopifyebay-1200x524.webp)
+![shopify ebay connector](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/ebayconn2.webp)
 
 1.  Navigate to the "**Feature Apps**" section.
 2.  Search for "**Shopify-Ebay Connector** app."
@@ -53,14 +53,14 @@ Now let's look at the admin configuration section:
 
 To configure the Shopify eBay Connector feature app on the admin end:
 
-![connector configuration Shopify eBay connector](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/07/1connectorconfig-1200x532.webp)
+![connector configuration Shopify eBay connector](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/ebayconn3.webp)
 
 1.  Go to your Admin Dashboard.
 2.  Navigate to Configuration.
 3.  Select Connector Configuration.
 4.  In the dropdown menu for the connector feature app, choose "Shopify eBay Connector."
 
-![connector feature app Shopify eBay connector](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/07/2connectoerfeatureapps-1200x530.webp)
+![connector feature app Shopify eBay connector](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/ebayconn4.webp)
 
 From here, you can enable or disable various tabs and settings within this section as needed. This allows you to customize and manage settings according to your preferences.
 
@@ -83,7 +83,7 @@ You can choose to:
 *   Charge Tax as on Seller's Store.
 *   Never Charge Tax on Products.
 
-![charge tax on product Shopify eBay connector](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/06/chargetaxonproduct-1200x551.webp)
+![charge tax on product Shopify eBay connector](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/ebayconn6.webp)
 
 Once you've made your selection, remember to click on "Save Changes."
 
@@ -94,9 +94,9 @@ Collection Mapping Settings
 
 In the admin panel, there is an additional setting available by navigating to Configuration > Restriction Configuration.
 
-![restriction configuration Shopify eBay connector](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/07/5restrictionconfiguration-1200x531.webp)
+![restriction configuration Shopify eBay connector](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/ebayconn7-1.webp)
 
-![restrict collection Shopify eBay connector](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/07/6restrictcollection-1200x531.webp)
+![restrict collection Shopify eBay connector](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/ebayconn8.webp)
 
 1.  Enable the "Restrict Collection Settings" option.
 2.  Click on "Save Changes."

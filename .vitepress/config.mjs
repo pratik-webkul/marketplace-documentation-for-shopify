@@ -221,6 +221,7 @@ export default defineConfig({
                 { text: 'PWA', link: '/zenith/featured-app/seller-add-ons/pwa' },
                 { text: 'Seller and customer badge', link: '/zenith/featured-app/seller-add-ons/seller-and-customer-badge' },
                 { text: 'Seller buyer chat', link: '/zenith/featured-app/seller-add-ons/seller-buyer-chat' },
+                { text: 'Seller KYC', link: '/zenith/featured-app/seller-add-ons/seller-KYC' },
                 { text: 'Seller membership', link: '/zenith/featured-app/seller-add-ons/seller-membership' },
                 { text: 'Seller tags and categories', link: '/zenith/featured-app/seller-add-ons/seller-tags-and-categories' },
                 { text: 'Seller time slot management', link: '/zenith/featured-app/seller-add-ons/seller-time-slot-management' },

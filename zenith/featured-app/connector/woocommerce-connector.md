@@ -4,7 +4,7 @@ description: WOOCOMMERCE CONNECTOR
 date: 2025-07-20
 author: Chirag Tyagi
 ---
-[**Multivendor Marketplace**](https://webkul.com/blog/shopify-multivendor-marketplace-new-theme-launched/) App is here to introduce a new Feature App named **WooCommerce Connector**.
+[**Multivendor Marketplace**](/zenith/introduction/) App is here to introduce a new Feature App named **WooCommerce Connector**.
 
 Using this feature app, you can allow your sellers to sync their WooCommerce store's Products with your Shopify Store.
 
@@ -28,11 +28,11 @@ Let's understand more about this feature:
 *   **[Slot Pricing](/zenith/featured-app/marketplace-product-add-ons/slot-pricing) is compatible** with this connector.
 *   Now, both admin & seller can sync the seller’s products in any state from the “Product Listing” section of their respective panels.
 
-![woocommerce](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/11/Product-Admin-2-1200x597.png)
+![woocommerce](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/etsycon1.webp)
 
 An email notification will be sent to the sellers for invalid variants in Import Woo commerce products. You can configure the email template from the **Mail Configuration** menu in the app.
 
-![Screenshot-3](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/04/Screenshot-3.png)
+![Screenshot-3](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/wooconn1.webp)
 
  Eligibility Criteria for Product Import
 --------------------
@@ -76,11 +76,11 @@ Now, to activate this feature, you first need to visit the Feature Apps section 
 
 **Feature Apps:**
 
-![WooCommerce2](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/09/Feature-Apps-Admin-3-1.png)
+![WooCommerce2](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/wooconn2.webp)
 
 So, once you click on the Enable button, you need to agree with the charges of USD 25 per month over and above your current Multivendor Plan.
 
-![WooCommerce3](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/09/Feature-Apps-Admin-4.png)
+![WooCommerce3](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/wooconn3.webp)
 
 Now, you need to click on the "Approve Charges" button to approve the charge for this feature app.
 
@@ -97,7 +97,7 @@ Go to **Configuration**\>>**Product Detail Configuration**\>>Select the Connecto
 
 Now, he can enable/disable other tabs for this section:
 
-![product detail configuration](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/09/12044543/AwesomeScreenshot-Connector-Configurations-Admin-2019-07-12-10-07-48.png)
+![product detail configuration](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/wooconn4.webp)
 
 Note:- Now, Auto approve product functionality will also work for products imported through the Woocommerce connector features app.
 
@@ -111,14 +111,14 @@ You can choose if you want to create an order on the seller’s WooCommerce Stor
 
 Thus, the order created in your store will get synced with the seller's store.
 
-![sync order](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/04/Connector-Configurations-Admin-1200x556.png)
+![sync order](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/wooconn5.webp)
 
 As soon as you enable this tab, you will get the option to choose if you want to sync customer data related to the order or not.
 
 Also, you can restock inventory in the seller's store when an order is refunded on admin store.
 
 ![sync orders
-](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/09/aaa-1200x561.webp)
+](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/wooconn6.webp)
 
 This way, you can sync the customer details related to the order with the seller's store and also restock the inventory when the order is refunded on admin store.
 
@@ -126,15 +126,15 @@ This way, you can sync the customer details related to the order with the seller
 
 Even, the admin will get a reference order number like below that will show order section of the seller's Woocommerce store.
 
-![screenshot_from_2022_12_27_12_51_33-6](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/02/screenshot_from_2022_12_27_12_51_33-6-1200x595.png)
+![screenshot_from_2022_12_27_12_51_33-6](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/wooconn7.webp)
 
-![screenshot_from_2022_12_27_12_51_33-5](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/02/screenshot_from_2022_12_27_12_51_33-5-1200x595.png)
+<!-- ![screenshot_from_2022_12_27_12_51_33-5](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/02/screenshot_from_2022_12_27_12_51_33-5-1200x595.png) -->
 
  WooCommerce Configuration
 -------------------
 Once you enable this feature on your marketplace, a new menu gets added in the configuration section. i.e. WooCommerce Configuration.
 
-![WooCommerce15](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/09/Dashboard-Seller-•-Multivendor-MarketPlace.png)
+![WooCommerce15](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/woocon8.webp)
 
 Here in this section, Sellers need to provide their respective WooCommerce details so that they can sync their WooCommerce store's products to admin's Shopify Store.
 
@@ -148,13 +148,13 @@ Your sellers need the following details:
 
 ##### **SELLER PANEL**
 
-![WooCommerce16](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/09/Woo-Commerce-Details-Seller-•-Multivendor-MarketPlace-1.png)
+![WooCommerce16](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/wooconn9.webp)
 
  Enter Language ISO Code
 ----------------
 If the seller has any language restriction on their respective WooCommerce store, they can add ISO code of the language in the option provided:-
 
-![Screenshot-2021-07-29T170706.760](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/07/Screenshot-2021-07-29T170706.760.png)
+![Screenshot-2021-07-29T170706.760](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/wooconn10.webp)
 
 Suppose if the seller's store is in English language, enter **ISO as "en"** else, **enter "all"** if the seller's WooCommerce store supports multi-languages.
 
@@ -172,7 +172,7 @@ Login to WordPress>>Go to WooCommerce Settings>>Advanced>>REST API>>Add Key>>Cli
 
 Now, the Seller needs to enter the following Secret & API keys in WooCommerce Configuration section of the app.
 
-![Woo Commerce Details Seller • Multivendor MarketPlace](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/09/Woo-Commerce-Details-Seller-•-Multivendor-MarketPlace-2.png)
+![Woo Commerce Details Seller • Multivendor MarketPlace](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/wooconn11.webp)
 
 On the same page, after entering the store URL & keys, the Seller will have the WooCommerce Delivery URLs.
 
@@ -190,13 +190,13 @@ From this section, Seller will map admin’s pre-defined store collections with 
 
 **MARK**:- The category mapping works only for the manual collections, not for the automated collection.
 
-![WooCommerce Collection](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/09/Screenshot-15-1.png)
+![WooCommerce Collection](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/wooconn12.webp)
 
 Now, clicking on the Map Collection button, the seller needs to select collection of admin’s store that he/she wants to map with the collections of his/her WooCommerce store.
 
 This will be a One to Many Mapping.
 
-![seller side](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/09/Screenshot-16-1.png)
+![seller side](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/wooconn13.webp)
 
 Seller will map all the Product’s Tags of admin’s store with the tags of his/her WooCommerce Store.
 
@@ -205,9 +205,9 @@ Seller will map all the Product’s Tags of admin’s store with the tags of his
 
 **Note**:- Make sure that admin has enabled the “Restrict Product Tag” tab from MV admin panel.
 
-![wooCommerce](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/09/Screenshot-18-1.png)
+![wooCommerce](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/wooconn14.webp)
 
-![WooCommerce23](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/09/Screenshot-19.png)
+![WooCommerce23](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/wooconn15.webp)
 
 Clicking on the Map Tags button, Seller will enter the product tag created by admin and the tags of his/her WooCommerce store to map them with each other.
 
@@ -250,7 +250,7 @@ The seller can click on it to import the products from WooCommerce by using 3 di
 
 **Note:-** Product Slug in WooCommerce is Product Handle in Shopify.
 
-![WooCommerce18](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/09/Import-Product-From-Woo-Commerce-Seller-•-Multivendor-MarketPlace.png)
+![WooCommerce18](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/wooconn16.webp)
 
 In this way, Sellers can import their Woo-Commerce Store's products to admin's Shopify Store.
 
@@ -258,18 +258,18 @@ Now, you can view the products in the Product Listing section of their respectiv
 
  **Admin End**
 -----------------
-![WooCommerce19](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/09/Product-Admin.png)
+![WooCommerce19](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/wooconn1718.webp)
 
-![WooCommerce10](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/09/Product-Seller-•-Multivendor-MarketPlace.png)
+<!-- ![WooCommerce10](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/09/Product-Seller-•-Multivendor-MarketPlace.png) -->
 
 This is how the products will appear:-  
 **Seller End**
 
-![WooCommerce122](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/09/Product-Seller-•-Multivendor-MarketPlace-1.png)
+![WooCommerce122](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/wooconn19.webp)
 
 Here, the products will remain in Pending State until you approve or deny the product. This will update the products on seller's side too.
 
-![WooCommerce123](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/09/Product-Admin-1.png)
+![WooCommerce123](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/wooconn20.webp)
 
 Now, once the admin denies any product, he needs to mention the reason for the same.
 
@@ -281,13 +281,13 @@ Now, the sellers will have a new menu named **Connector Price Rule** in the co
 
 From here, the seller can create price rules based on which seller’s product price will be calculated on the merchant’s store. 
 
-![Price rule ](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/01/Dashboard-Seller-%E2%80%A2-Multivendor-MarketPlace-1.png)
+![Price rule ](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/wooconn21.webp)
 
 Now, clicking the **Connector Price Rule**, the seller needs to enable “Price Rule” status. Moreover, select the options as increase/decrease price.
 
 This will change the price by a fixed amount or a percentage amount.
 
-![price rule](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/01/Price-Rule-%E2%80%A2-Multivendor-MarketPlace.png)
+![price rule](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/wooconn22.webp)
 
 Now, enable the checkbox to update the already synced product’s price at the merchant’s store as per the price rule created.
 

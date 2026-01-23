@@ -61,7 +61,7 @@ Let's understand the step-by-step process to install the Shipping feature app & 
 
 In order to get the app, first, you need to visit the **[Feature App](https://webkul.com/blog/shopify-multivendor-marketplace-feature-apps/#panel-0)** section of the multi-vendor app and search for the Shipping feature app. Now, click the **Enable** button and activate **Shipping**.
 
-![Multi-vendor-Shipping Feature](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/06/Feature-Apps-Admin-3-1200x597.png)
+![Multi-vendor-Shipping Feature](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/1mpshipping.webp)
 
 That is how you can enable the shipping feature in the multi-vendor marketplace app.
 
@@ -69,7 +69,7 @@ That is how you can enable the shipping feature in the multi-vendor marketplace 
 
 As soon as you enable the Shipping feature, a sub-menu gets added to the Configuration menu i.e **Shipping Methods**.
 
-![Dashboard-Admin-4](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/11/Dashboard-Admin-4-1200x597.png)
+![Dashboard-Admin-4](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/2shippingmethods.webp)
 
  Shipping Method
 -------------------------
@@ -80,7 +80,7 @@ As soon as you enable the Shipping feature app. By **Configure Shipping** button
 
 You can anytime enable/disable any of the Shipping methods from the list. Also, You can view the seller details of who are using these Shipping Couriers.
 
-![Configuration-Admin-25](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/11/Configuration-Admin-25-1200x597.png)
+![Configuration-Admin-25](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/3mpconfigshipping.webp)
 
 Clicking the Configure Shipping button, you will be redirected to the Global Shipping Configuration section.
 
@@ -104,7 +104,7 @@ Please note that the actual shipping and delivery times may vary based on factor
 
 In case you choose this shipping, you will get an option to add Expected shipping and Delivery days.
 
-![Configuration-Admin-18](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/11/Configuration-Admin-18-993x1024.png)
+![Configuration-Admin-18](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/4mpshippingconfig.webp)
 
   
 To configure the Expected Shipping and Delivery Days, follow these steps:
@@ -112,12 +112,12 @@ To configure the Expected Shipping and Delivery Days, follow these steps:
 *   Go to the "Configuration" section.
 *   Select "Instructions for the marketplace" from the options.
 
-![screenshot_1683727462432-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/05/screenshot_1683727462432-1-1200x563.png)
+![screenshot_1683727462432-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/instructionformarketplace.webp)
 
 *   Locate the section labeled "Expected Shipping and Delivery Days."
 *   Click on the "Regenerate" button underneath this section.
 
-![screenshot_1683727355304](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/05/screenshot_1683727355304-1200x620.jpeg)
+![screenshot_1683727355304](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/6shippingdeliverydays.webp)
 
 In order to display the expected shipping and delivery days on the front end, it is necessary to add the relevant section for that specific page through the Shopify backend configuration.
 
@@ -148,15 +148,15 @@ However, if a specific configuration has been set for the state within that coun
 To configure the Global configuration for shipping, go to MVM  
 Seller Panel, navigate to Configuration >> Shipping Methods >> Click on Global Configuration
 
-![image-38](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/05/image-38-1200x590.png)
+![image-38](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/10sellershippingmethod.webp)
 
 On Global Configuration Page, you have to set Shipping days and Delivery days as per your requirement.
 
-![screenshot-shipra-store1.sp-seller.webkul.com-2023.05.10-20_12_21](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/05/screenshot-shipra-store1.sp-seller.webkul.com-2023.05.10-20_12_21-1200x580.png)
+![screenshot-shipra-store1.sp-seller.webkul.com-2023.05.10-20_12_21](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/11shippinganddeleverydays.webp)
 
 After following these above steps, the seller will get an option to add shipping days and delivery days while adding the country for shipping.
 
-![image-39](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/05/image-39-1200x748.png)
+![image-39](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/12shippinganddeleverydaysaddcountry.webp)
 
 To access the details on the front end, customers are required to select their country and state on the product page.
 
@@ -172,13 +172,13 @@ The frontend display will resemble the image shown below.
 ---------------------------
 In case you choose **Multiple shipping**, you will have the option to add multiple shipping methods.
 
-![Configuration-Admin-26](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/11/Configuration-Admin-26-1200x597.png)
+![Configuration-Admin-26](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/15addshippingmethods.webp)
 
 You need to choose whether you want to display the shipping on the cart page or on the checkout page.
 
 ### **[Know About Multiple Shipping](https://webkul.com/blog/shopify-multiple-shipping/)**
 
-![Configuration-Admin-19](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/11/Configuration-Admin-19-911x1024.png)
+![Configuration-Admin-19](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/16createmultipleshipping.webp)
 
  **Zone-wise Shipping**
 ----------------------
@@ -188,45 +188,45 @@ For zone-wise shipping, you need to configure the zone from the Global Shipping 
 
  **SINGLE SHIPPING+ZONE WISE SHIPPING**
 -------------
-![Configuration-Admin-22](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/11/Configuration-Admin-22-690x1024.png)
+![Configuration-Admin-22](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/18zonewise.webp)
 
 ### **MULTIPLE SHIPPING+ZONE WISE SHIPPING**
 
-![Configuration-Admin-20](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/11/Configuration-Admin-20-649x1024.png)
+![Configuration-Admin-20](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/19zonewisemultipleshipp.webp)
 
 You can change the label of the shipping method also.
 
 Additionally, you can view the list of all the sellers who are using your marketplace shipping.
 
-![Configuration-Admin-23](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/11/Configuration-Admin-23-1200x597.png)
+![Configuration-Admin-23](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/20viewseller-1.webp)
 
-![View seller details](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/06/Shipping-Admin-1.png)
+![View seller details](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/21viewselleredit-1.webp)
 
  ADMIN ADDING SHIPPING ZONES
 --------------------
 If you select Zone-wise shipping which will let your sellers add zone wise shipping rates then first you need to add zones from your admin panel.
 
-![Configuration-Admin-18](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/11/Configuration-Admin-18-993x1024.png)
+![Configuration-Admin-18](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/22zonewisesingle-1.webp)
 
 As soon as You select Zone-wise shipping, you will get the option to add shipping zones in the app.
 
-![Configuration-Admin-24](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/11/Configuration-Admin-24-1200x597.png)
+<!-- ![Configuration-Admin-24](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/11/Configuration-Admin-24-1200x597.png) -->
 
 You can add shipping zones & assign countries to a particular seller.
 
-![Shipping-Zone-Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/11/Shipping-Zone-Admin-1200x597.png)
+![Shipping-Zone-Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/24addzone-1.webp)
 
 Admin Panel>> **Configuration** menu>> **Shipping Zone**\>> Click on Add Shipping zone>> Enter Zone name>> Select countries>> Click on Save button.
 
-![Add Shipping Zone Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/06/Add-Shipping-Zone-Admin.png)
+![Add Shipping Zone Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/25selectcountry-1.webp)
 
 Later on, you can edit the zones if required.
 
-![Shipping Zone-add countries](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/06/Shipping-Zone-Admin-1.png)
+![Shipping Zone-add countries](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/26editzone-1.webp)
 
 You can click the Edit button in the Action menu & edit the zones also.
 
-![Edit Shipping Zone Admin (1)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/06/Add-Shipping-Zone-Admin-1.png)
+![Edit Shipping Zone Admin (1)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/27removcountry-1.webp)
 
 These zones will be visible to your sellers and sellers can set shipping rates on this zone.
 
@@ -244,7 +244,7 @@ From the S**eller Listing** menu of the app, You can set the **marketplace shipp
 
 Multi-vendor Admin Panel>>Go to **Sellers**\>>**Seller-listing**\>>Select a seller>>Click **Edit**\>>Click **"Set As Default"** from the Action menu of Shipping Methods.
 
-![seller listing](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/06/Edit-Seller-Admin.png)
+![seller listing](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/28mpshippingdefault.webp)
 
 In the same way, sellers can also set the shipping method as the default option from their respective seller panels. 
 
@@ -257,31 +257,31 @@ Now, you can easily export seller details associated with a particular shipping 
 3.  Click on the **three dots (⋮)** next to the selected shipping method and choose **"View Sellers."**
 4.  You will now see an option to **Export Sellers**. Click it to download the seller details in a convenient format.
 
-![Shipping methods](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/06/export-seller-1200x548.webp)
+![Shipping methods](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/29viewseller.webp)
 
-![export details ](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/06/shipping-methods-1-1200x542.webp)
+![export details ](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/30sellerexport.webp)
 
 Seller Panel: Shipping Configuration
 ------------------------------------
 
 There will be two sub-menus also added to the Configuration menu in the seller panel i.e. **Shipping Configuration** and **Marketplace Shipping**.
 
-![Dashboard-Seller-•-Multivendor-MarketPlace-6](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/11/Dashboard-Seller-%E2%80%A2-Multivendor-MarketPlace-6-1200x597.png)
+![Dashboard-Seller-•-Multivendor-MarketPlace-6](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/31sellersidempshipconfigmpship.webp)
 
 Shipping methods are configured by the admin and will get listed as same as on the seller side. From here, the seller will proceed to add shipping rates on their own.
 
 This is the case with **SINGLE SHIPPING** selected from the admin end.
 
-![Shipping-Configuration-Seller-•-Multivendor-MarketPlace-5](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/11/Shipping-Configuration-Seller-%E2%80%A2-Multivendor-MarketPlace-5-1200x597.png)
+![Shipping-Configuration-Seller-•-Multivendor-MarketPlace-5](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/32sellersidempshipconfig.webp)
 
 **Note**:- Until & unless the seller will enable the shipping status from the "**Marketplace Shipping**" as shown below
 
 then the seller won't get the Marketplace shipping option in the Shipping configuration.  
 Even if you have enabled [Multiple Shipping](https://webkul.com/blog/shopify-multiple-shipping/) from the admin panel.
 
-![Shipping-Configuration-Seller-•-Multivendor-MarketPlace-4](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/11/Shipping-Configuration-Seller-%E2%80%A2-Multivendor-MarketPlace-4-1200x597.png)
+![Shipping-Configuration-Seller-•-Multivendor-MarketPlace-4](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/33mpshipdisable.webp)
 
-![Marketplace-Shipping-Seller-•-Multivendor-MarketPlace-2](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/11/Marketplace-Shipping-Seller-%E2%80%A2-Multivendor-MarketPlace-2-1200x597.png)
+![Marketplace-Shipping-Seller-•-Multivendor-MarketPlace-2](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/34mpshipnotvisible.webp)
 
  Set Shipping as Default: Seller Panel
 --------------------------
@@ -295,7 +295,7 @@ Similar to admin, sellers can also set the **marketplace shipping as the default
 
 Multi-vendor Seller Panel>>Go to **Configuration**\>>**Shipping Configuration**\>>Click (...)**Action**\>>Click **"Set As Default"** from the Action menu of Shipping Methods.
 
-![seller shipping](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/06/Shipping-Configuration-Seller-%E2%80%A2-Multivendor-MarketPlace-4-1.png)
+![seller shipping](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/35sellermpsgippingdefault.webp)
 
 That is how sellers can set **marketplace shipping as the default** shipping method from their respective seller panels of the multi-vendor app. 
 
@@ -313,13 +313,13 @@ Check the below video of country-wise shipping:
 
 ### CASE 1: COUNTRY-WISE SHIPPING+SINGLE SHIPPING
 
-![Screenshot-2020-11-18T130651.301](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/11/Screenshot-2020-11-18T130651.301-1200x587.png)
+![Screenshot-2020-11-18T130651.301](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/36singlecountrywiseship.webp)
 
 #### SELLER END
 
 Go to Configuration >> **Shipping Configuration** menu of the seller panel, the seller will have the marketplace shipping option in the listing.
 
-![Dashboard-Seller-•-Multivendor-MarketPlace-7](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/11/Dashboard-Seller-%E2%80%A2-Multivendor-MarketPlace-7-1200x597.png)
+<!-- ![Dashboard-Seller-•-Multivendor-MarketPlace-7](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/11/Dashboard-Seller-%E2%80%A2-Multivendor-MarketPlace-7-1200x597.png) -->
 
 In front of that shipping method, the seller needs to click the **view** button in the **Action** menu.
 
@@ -327,28 +327,28 @@ Clicking on the view button, the seller will see the list of added countries. Fr
 
 The seller can manage each country’s shipping rates from the **Action** menu just by clicking the **view** button. He/she can anytime disable/delete any country from the list.
 
-![Shipping Configuration Seller • Multivendor MarketPlace (5)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/06/Shipping-Configuration-Seller-%E2%80%A2-Multivendor-MarketPlace-5.png)
+![Shipping Configuration Seller • Multivendor MarketPlace (5)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/38viewshipping.webp)
 
 ### How to Manage Shipping Range?
 
 Moreover, Sellers first need to add Shipping ranges and then proceed to add countries to set different shipping rates for each country for all the states.
 
-![Shipping Details Seller • Multivendor MarketPlace (4)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/06/Shipping-Details-Seller-%E2%80%A2-Multivendor-MarketPlace-4.png)
+![Shipping Details Seller • Multivendor MarketPlace (4)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/39shippngrangessteps.webp)
 
 Seller adding Shipping ranges
 -----------------------------
 
 The seller will click the Add New Range button to set a shipping rate for zone-wise shipping. These rates can be applied to the product's price or the product's weight.
 
-![Range Details Seller • Multivendor MarketPlace](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/06/Range-Details-Seller-%E2%80%A2-Multivendor-MarketPlace.png)
+![Range Details Seller • Multivendor MarketPlace](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/40addshippingranges.webp)
 
 Moreover, the Seller can add upto 8 shipping ranges for a Shipping method.
 
-![Range Details Seller • Multivendor MarketPlace (1)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/06/Range-Details-Seller-%E2%80%A2-Multivendor-MarketPlace-1.png)
+![Range Details Seller • Multivendor MarketPlace (1)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/41addshippingrangesdetails.webp)
 
 The shipping Range is now set on the price of the product. Also, the seller can edit/delete the ranges.
 
-![Range Details Seller • Multivendor MarketPlace (2)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/06/Range-Details-Seller-%E2%80%A2-Multivendor-MarketPlace-2.png)
+![Range Details Seller • Multivendor MarketPlace (2)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/42editdeleteshiprange.webp)
 
 Allow seller to add shipping ranges on the basis of distance
 ------------------------------------------------------------
@@ -386,11 +386,11 @@ And, Seller B set the max price for the flat rate is 800$ and the shipping rate 
 
 Note: IF the condition is met for one seller then it will work as per the condition for that seller but if not then work as marketplace shipping rate for the rest of the seller.
 
-![s5](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/04/s5-e1651208943602.png)
+![s5](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/45flatrate.webp)
 
 To enable this there is a configuration that you need to enable first, **Admin Panel > configuration > Market Place Configuration > Flat Rate Shipping.**
 
-![S6](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/04/S6.png)
+![S6](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/46enableflatrate.webp)
 
 for example: if shipping ranges is set as as weight It will calculate shipping cost on the weight basis.
 
@@ -398,31 +398,31 @@ But if customer order value is more than the flat shipping condition amount then
 
 The seller can view the shipping range details from here:
 
-![Range Details Seller • Multivendor MarketPlace (3)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/06/Range-Details-Seller-%E2%80%A2-Multivendor-MarketPlace-3.png)
+![Range Details Seller • Multivendor MarketPlace (3)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/47vewshippingranges.webp)
 
 Once done, the seller will proceed accordingly to select countries & set different shipping rates for each country & their states based on the price or weight of the product.
 
-![Add Shipping Country Seller • Multivendor MarketPlace](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/06/Add-Shipping-Country-Seller-%E2%80%A2-Multivendor-MarketPlace.png)
+![Add Shipping Country Seller • Multivendor MarketPlace](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/48addcountrywiserate.webp)
 
 All the countries to which the shipping rate is set will be listed in this section (as attached in the screenshot).
 
 The seller can proceed to manage shipping ranges from there & add new countries also.
 
-![Shipping Details Seller • Multivendor MarketPlace (5)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/06/Shipping-Details-Seller-%E2%80%A2-Multivendor-MarketPlace-5.png)
+![Shipping Details Seller • Multivendor MarketPlace (5)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/49manageaddcountry.webp)
 
 In case the admin has selected Multiple Shipping and enabled the Country-wise shipping.
 
  **CASE 2:** COUNTRY-WISE SHIPPING+MULTIPLE SHIPPING
 --------------------------
-![Screenshot-2020-11-18T132459.408](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/11/Screenshot-2020-11-18T132459.408-1200x590.png)
+![Screenshot-2020-11-18T132459.408](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/50multipleshippingcontywise.webp)
 
 A new sub-menu gets added to the seller Configuration menu i.e. **Marketplace Shipping**. From here, you can update the shipping status in case you are using Multiple Shipping.
 
-![Shipping-Configuration-Seller-•-Multivendor-MarketPlace-2](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/11/Shipping-Configuration-Seller-%E2%80%A2-Multivendor-MarketPlace-2-1200x597.png)
+![Shipping-Configuration-Seller-•-Multivendor-MarketPlace-2](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/51mpshipping.webp)
 
 From here, the seller will view the Shipping Method and Shipping Type selected. Moreover, the seller can update the shipping status.
 
-![Marketplace-Shipping-Seller-•-Multivendor-MarketPlace](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/11/Marketplace-Shipping-Seller-%E2%80%A2-Multivendor-MarketPlace-1200x660.png)
+![Marketplace-Shipping-Seller-•-Multivendor-MarketPlace](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/52mpshippingview.webp)
 
 ### **[Know How To Create Multiple Shipping](https://webkul.com/blog/shopify-multiple-shipping/)**
 
@@ -440,36 +440,36 @@ Check the below video of the Zone wise shipping:
 
 ### **Case 1**: ZONE-WISE SHIPPING+SINGLE SHIPPING
 
-![Screenshot-2020-11-18T142023.498](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/11/Screenshot-2020-11-18T142023.498-1200x588.png)
+![Screenshot-2020-11-18T142023.498](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/53singlezonewise.webp)
 
 The seller will configure zone-wise shipping from the Shipping Configuration menu in the seller panel. To add the zone-wise shipping rates, Go to **Configuration**\>>**Shipping Configuration**.
 
-![Dashboard-Seller-•-Multivendor-MarketPlace-5](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/11/Dashboard-Seller-%E2%80%A2-Multivendor-MarketPlace-5-1200x597.png)
+![Dashboard-Seller-•-Multivendor-MarketPlace-5](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/54shippingmethod.webp)
 
 Here, the seller will get the option to add zone-wise shipping rates.
 
-![Shipping-Configuration-Seller-•-Multivendor-MarketPlace-3](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/11/Shipping-Configuration-Seller-%E2%80%A2-Multivendor-MarketPlace-3-1200x597.png)
+![Shipping-Configuration-Seller-•-Multivendor-MarketPlace-3](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/55mpshippingview.webp)
 
 Clicking the **View** button, the seller will get the option to add ranges & add zone-wise shipping rates.
 
-![Shipping Details Seller • Multivendor MarketPlace](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/06/Shipping-Details-Seller-%E2%80%A2-Multivendor-MarketPlace.png)
+![Shipping Details Seller • Multivendor MarketPlace](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/56shippingmethoddetails.webp)
 
 Seller adding Shipping Ranges
 -----------------------------
 
 The seller will click the Range Detail to add New Range & set a shipping range to enter zone-wise shipping rates. These rates will be applied whether on the product's price or product's weight.
 
-![Shipping Configuration Seller • Multivendor MarketPlace (4)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/06/Shipping-Configuration-Seller-%E2%80%A2-Multivendor-MarketPlace-4.png)
+![Shipping Configuration Seller • Multivendor MarketPlace (4)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/57rangedetails.webp)
 
-![Range Details Seller • Multivendor MarketPlace](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/06/Range-Details-Seller-%E2%80%A2-Multivendor-MarketPlace.png)
+![Range Details Seller • Multivendor MarketPlace](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/58addnewshippingranges.webp)
 
 And the Seller can add up to 8 shipping ranges for a Shipping method.
 
-![Range Details Seller • Multivendor MarketPlace (1)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/06/Range-Details-Seller-%E2%80%A2-Multivendor-MarketPlace-1.png)
+![Range Details Seller • Multivendor MarketPlace (1)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/59addshippingrangesdetails.webp)
 
 Here, the shipping range is set on the basis of Product Price. Similar to this, Seller can set up to 8 ranges for a shipping method. Also, the seller can edit/delete the ranges.
 
-![Range Details Seller • Multivendor MarketPlace (2)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/06/Range-Details-Seller-%E2%80%A2-Multivendor-MarketPlace-2.png)
+![Range Details Seller • Multivendor MarketPlace (2)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/60editdeleteshiprange.webp)
 
 Now, as the sellers have added the Shipping rages, they can now proceed to add zone-wise shipping rates simply by clicking here:
 
@@ -478,16 +478,16 @@ Seller adding Shipping Rates
 
 **Scenario 1:** When Range Details Tab is Enabled from Admin End. In this case, sellers can simply add zone-wise shipping rates.
 
-![Shipping Details Seller • Multivendor MarketPlace (2)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/06/Shipping-Details-Seller-%E2%80%A2-Multivendor-MarketPlace-2.png)
+![Shipping Details Seller • Multivendor MarketPlace (2)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/61addshippingzone.webp)
 
 and **Scenario 2:** And When Range Details Tab is Disabled from Admin End.  
 If the Range Details Tab is disabled from admin end, Seller can directly set a Fixed Shipping cost for the respective zone.
 
-![set a fixed shipping cost](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/06/Screenshot-20.png)
+![set a fixed shipping cost](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/62fixedshipping.webp)
 
 You can view the details, edit/delete zones later if required.
 
-![Shipping Details Seller • Multivendor MarketPlace (3)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/06/Shipping-Details-Seller-%E2%80%A2-Multivendor-MarketPlace-3.png)
+![Shipping Details Seller • Multivendor MarketPlace (3)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/63shippingmethoddetails.webp)
 
 ### **Case 2:** ZONE-WISE SHIPPING+MULTIPLE SHIPPING
 
@@ -495,9 +495,9 @@ In case you have enabled multiple shipping method, the process of setting zone-w
 
 To manage the shipping status, the seller needs to Go to the seller panel **Configuration**\>>**Marketplace Shipping** sub-menu.
 
-![Dashboard-Seller-•-Multivendor-MarketPlace-8](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/11/Dashboard-Seller-%E2%80%A2-Multivendor-MarketPlace-8-1200x597.png)
+![Dashboard-Seller-•-Multivendor-MarketPlace-8](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/64sellersidempshipconfigmpship.webp)
 
-![Marketplace-Shipping-Seller-•-Multivendor-MarketPlace-3](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/11/Marketplace-Shipping-Seller-%E2%80%A2-Multivendor-MarketPlace-3-1200x597.png)
+![Marketplace-Shipping-Seller-•-Multivendor-MarketPlace-3](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/65shippingstatus.webp)
 
 That is how sellers can add zone-wise shipping rates.
 
@@ -506,7 +506,7 @@ Choose a Shipping Method while Adding/Editing Products
 
 Once the seller configures the shipping rates, make sure to select a shipping method while adding/editing a product from the respective panels.
 
-![Screenshot34](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/01/Screenshot34-1200x593.png)
+![Screenshot34](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/66productshippingmethod.webp)
 
 Shipping At Checkout
 --------------------
@@ -521,11 +521,11 @@ You can now allow sellers to configure delivery days for zone-wise shipping. Thu
 
 For that, first you need to enable the tab from the **Shipping Method** menu of the admin panel. Go to the Configuration>>Shipping Methods>>Click **Configure Shipping**\>>Enable the Option.
 
-![Configuration-Admin-28](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/11/Configuration-Admin-28-1200x597.png)
+![Configuration-Admin-28](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/68configshipping.webp)
 
 Now, enable the tab:
 
-![Configuration-Admin-29](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/11/Configuration-Admin-29-1200x597.png)
+![Configuration-Admin-29](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/69allowdeliverydatezonewise.webp)
 
 Enabling this option will allow sellers to configure delivery days from their respective seller panels.
 
@@ -535,23 +535,23 @@ The seller will manage the shipping from the "Shipping Configuration" menu of th
 
 To configure the delivery days, the seller needs to click the **view** button of the zone-wise shipping menu.
 
-![Shipping_Configuration_Seller_•_Multivendor_MarketPlace](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/06/Shipping_Configuration_Seller_%E2%80%A2_Multivendor_MarketPlace-1200x497.png)
+![Shipping_Configuration_Seller_•_Multivendor_MarketPlace](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/70viewmpshipzone.webp)
 
 Then, the seller will get redirected to the "Shipping Method Details" section to manage Zone-wise shipping rates.
 
-![Screenshot-2020-06-03T111745.394](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/06/Screenshot-2020-06-03T111745.394-1200x619.png)
+![Screenshot-2020-06-03T111745.394](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/71shippingmethoddetails.webp)
 
 By clicking the **Edit** button (Action menu), the seller will get the option to fill in delivery days.
 
 As soon as, the no of days is entered and this will let customers to know when the products will be delivered to their shipping zones.
 
-![Delivery Days](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/06/Shipping_Details_Seller_%E2%80%A2_Multivendor_MarketPlace-1200x627.png)
+![Delivery Days](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/72deliverydate.webp)
 
 On the product page, The delivery days details will be shown to the customers.  
   
 To show the details on the product page, it is equally important to add this code to the product template.liquid file.
 
-![Instruction](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/06/Instructions_Admin-1200x627.png)
+![Instruction](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/73sellershipzonecode.webp)
 
 Finally adding the codes, this is how it appears on the product page of your store:
 
@@ -588,17 +588,17 @@ Now lets see that the configuration of product -wise fixed rate shipping. First,
   
 Login MVM admin >> Go to the configuration >> Shipping method >> enable product-wise fixed rate shipping through the action button.
 
-![product-wise](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/04/product-wise-1200x449.png)
+![product-wise](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/75productfixedship.webp)
 
-![product-wise-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/04/product-wise-1-1200x393.png)
+![product-wise-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/76enableproductfixedship.webp)
 
 Then Enable Product-wise fixed rate shipping from the seller's end also.
 
 Login Seller dashboard>> Go to the configuration >> Shipping method >> enable product-wise fixed rate shipping through the action button.
 
-![product-wise-3-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/04/product-wise-3-1-1200x370.png)
+![product-wise-3-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/77sellerproductfixedship.webp)
 
-![product-wise-4](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/04/product-wise-4-1200x324.png)
+![product-wise-4](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/78enablesellerproductfixedship.webp)
 
 While editing or adding a product, both the admin and seller have to choose product-wise fixed rate shipping as their shipping method.
 
@@ -623,7 +623,7 @@ For example :-
 
 if set product -wise fixed rate shipping cost Rs 10 on an overall basis then if we order that product the shipping cost will be Rs 10 and no matter how much quantity we have selected.
 
-![updated-product-shipping](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/05/updated-product-shipping.png)
+![updated-product-shipping](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/79productpage.webp)
 
 #####   
 **NOTE :**
@@ -642,11 +642,11 @@ And as soon as you enable the shipping calculator then few more options will app
 
 Please enter and follow the instructions to display the shipping calculator.  
 
-![shipping-cal](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/04/shipping-cal-1200x557.png)
+![shipping-cal](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/80shippingcalculator1.webp)
 
-![ship-cal-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/04/ship-cal-1-1200x535.png)
+<!-- ![ship-cal-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/04/ship-cal-1-1200x535.png) -->
 
-![ship-cal-2](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/04/ship-cal-2-1200x509.png)
+![ship-cal-2](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/81shippingcalculator2.webp)
 
 ### **Allow sellers to add an additional shipping cost:**
 
@@ -655,7 +655,7 @@ Now the Admin can allow sellers to charge an additional shipping cost per produc
 *   Make sure to Enable Product-wise fixed Shipping in the Admin PanelNavigate to **Configuration > Shipping Methods > Product-wise Fixed Shipping** and enable this setting.
 *   In the same section, enable **"Allow sellers to charge an additional shipping cost on products"** and choose one of the three available rules from the dropdown. Then, save the configuration.
 
-![image](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/12/sdfss-1200x502.webp)
+![image](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/83productfixrateconfig.webp)
 
 The three rules operate in the following manner:
 
@@ -683,7 +683,7 @@ In the Seller panel>>Shipping Methods section, the seller needs to enable "Produ
 
 Once enabled, sellers can navigate to the **Add Product** page. they will see an option to add a fixed shipping cost and an additional cost.
 
-![image](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/12/dfgfdfgdf-1200x575.webp)
+![image](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/84sellerproductpage.webp)
 
  Restrict Buyers in Zone-wise Shipping
 -------------------------
@@ -698,11 +698,11 @@ As soon as, the customer login to his account, You can ask him to select an addr
 
 For this, the admin needs to visit Configuration >> **Global Shipping Configuration** menu >> enable the **"Restrict Buyer"** option.
 
-![Screenshot-2020-11-18T161424.811](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/11/Screenshot-2020-11-18T161424.811-1200x593.png)
+![Screenshot-2020-11-18T161424.811](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/85restrictbuyer.webp)
 
 To get it working for the buyers on the front end, you need to visit the Configuration menu >>"**Instruction for Marketplace"** & add the codes.
 
-![Code Pasting](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/11/Instructions-Admin-1-1-1200x627.png)
+![Code Pasting](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/86addcode.webp)
 
 For displaying the model box, copy the following code & add it to the **product.liquid template**.
 
@@ -800,7 +800,7 @@ As soon as the orders get fulfilled, the seller will get an option to generate a
 
 Multi-vendor **Seller Panel**\>>**Orders**\>>**Order Listing**\>>Select an order & click **View** button>>Click "**Generate shipping label**" in the Action menu.
 
-![Order_Details_Seller_•_Multivendor_MarketPlace](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/05/Order_Details_Seller_%E2%80%A2_Multivendor_MarketPlace-1200x627.png)
+![Order_Details_Seller_•_Multivendor_MarketPlace](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/91generateshippinglabel.webp)
 
 By clicking on this button, the seller needs to select "**Marketplace Fulfillment**" as the fulfillment method and click the **Generate** button.
 
@@ -808,7 +808,7 @@ By clicking on this button, the seller needs to select "**Marketplace Fulfillmen
 
 #### SHIPPING LABEL GENERATED
 
-![shipping label](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/05/Shipping_Label_1019762-1200x797.png)
+![shipping label](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/93printshippinglabel.webp)
 
 This way, the sellers can easily generate shipping labels.
 
@@ -816,15 +816,15 @@ This way, the sellers can easily generate shipping labels.
 ---------------------------------
 You can configure the shipping labels from your admin panel from the **Invoice templates** menu of the app.
 
-![Invoice_Template_Admin-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/05/Invoice_Template_Admin-1-1200x627.png)
+![Invoice_Template_Admin-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/94invoicetemplate.webp)
 
 Log in to the multi-vendor admin panel>>Go to Orders>>Click **Invoice Templates**\>>Select the option>>Click the **Edit** button and configure the template.
 
-![Screenshot13-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/05/Screenshot13-1-1200x614.png)
+![Screenshot13-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/95chooseshippinglabel.webp)
 
 Now, scroll down and click the **Edit** button to configure Shipping Label:
 
-![Invoice_Template_Admin-1-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/05/Invoice_Template_Admin-1-1-1200x627.png)
+![Invoice_Template_Admin-1-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/96editshippinglabel.webp)
 
 ### Demo
 

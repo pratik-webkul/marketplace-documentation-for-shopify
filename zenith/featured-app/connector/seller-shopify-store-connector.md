@@ -40,7 +40,7 @@ Approve the charge & get the feature to your marketplace.
 
 Now, as soon as the Seller Shopify Connector feature app is Active, the sellers will get a new menu to the configuration menu of their respective Seller panels.
 
-![Dashboard-Seller-•-Multivendor-MarketPlace](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/01/Dashboard-Seller-%E2%80%A2-Multivendor-MarketPlace-1200x627.png)
+![Dashboard-Seller-•-Multivendor-MarketPlace](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/sellersyncapp-1.webp)
 
  NEW WORKFLOW
 -------------------------
@@ -117,11 +117,14 @@ Products _**(Read and write)**_
 Markets  
 # read\_markets\_home
 
+Customer Permissions(**Read and write**)
+\ `read_customers` , `write_customers`
+
 Now, copy these required permissions and paste them into the scope block altogether:-
 
 `write_assigned_fulfillment_orders,read_assigned_fulfillment_orders,read_fulfillments, write_fulfillments,read_inventory,`
 
-`write_inventory,read_locations,read_orders, write_orders,read_products, write_products,read_markets_home`
+`write_inventory,read_locations,read_orders, write_orders,read_products, write_products,read_markets_home` , `read_customers` , `write_customers`
 
 ![scope](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/02/scopes-1200x545.webp)
 
@@ -311,15 +314,15 @@ After installing the custom app on the seller's Shopify store, the seller has go
 
 Seller panel >> configuration >> seller sync app configurations
 
-![Dashboard-Seller-•-Multivendor-MarketPlace](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/01/Dashboard-Seller-%E2%80%A2-Multivendor-MarketPlace-1200x627.png)
+![Dashboard-Seller-•-Multivendor-MarketPlace](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/sellersyncapp.webp)
 
 Enter the access token, API key, and secret key >> save.
 
-![screenshot-shopify-trunk.webkul.com-2022.02.09-12_36_19](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/02/screenshot-shopify-trunk.webkul.com-2022.02.09-12_36_19-1091x1024.png)
+![screenshot-shopify-trunk.webkul.com-2022.02.09-12_36_19](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/apidetails.webp)
 
 After saving the details, the seller can now start with importing the products.
 
-![screenshot-shopify-trunk.webkul.com-2022.02.09-12_44_13](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/02/screenshot-shopify-trunk.webkul.com-2022.02.09-12_44_13-820x1024.png)
+![screenshot-shopify-trunk.webkul.com-2022.02.09-12_44_13](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/importproduct.webp)
 
  Admin Panel: Seller Supported App Configuration
 ----------------------
@@ -328,13 +331,13 @@ After saving the details, the seller can now start with importing the products.
 **SYNC ORDERS  
 **You will have a Sync Order option. So, enabling this option will let you choose whether you want to sync order with the seller's store.
 
-![Seller-Supported-App-Configuration-Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/01/Seller-Supported-App-Configuration-Admin-1200x627.png)
+![Seller-Supported-App-Configuration-Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/syncorder.webp)
 
 **SYNC ONLY PAID ORDERS**
 
 With this configuration, you can sync only paid orders with the seller's Shopify store.
 
-![download-20-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/03/download-20-1-1200x515.png)
+![download-20-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/synconlypaid.webp)
 
 ### Create Orders on Seller Store
 
@@ -342,13 +345,13 @@ You will now have an option to create orders on your seller's Shopify store.
 
 For this, Go to Orders>>Order Listing>>View Order>>More Action>>Create Order on Seller Store.
 
-![download-21-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/03/download-21-1-1200x505.png)
+![download-21-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/createorderonsellerstore.webp)
 
-![download-22-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/03/download-22-1-1200x503.png)
+![download-22-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/proceed.webp)
 
 **Note:-** Even, the admin will get a reference order number like below that will be shown order section of seller's Shopify store.
 
-![screenshot_from_2022_12_27_12_51_33](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/02/screenshot_from_2022_12_27_12_51_33-1200x595.png)
+![screenshot_from_2022_12_27_12_51_33](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/refeorder.webp)
 
  Manual Sync Orders
 ------------------------
@@ -356,7 +359,7 @@ In case an order is placed on the admin's store and is not synced with the selle
 
 To sync the order manually, the seller need to visit the Multi-vendor **Seller Panel**\>>Go to **Orders**\>>**View Order**\>>On Order Detail Page-In **More Action**\-Click **Sync Order** button.
 
-![download-15](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/02/download-15-1200x549.png)
+![download-15](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/createordersellerside.webp)
 
 This way, orders can be synced manually with the seller Shopify store connector.
 
@@ -369,7 +372,7 @@ ORDERS REFUND FROM SELLER TO ADMIN STORE:- You can choose if you want to sync th
 
 ORDER REFUND FROM ADMIN TO SELLER STORE:- You can choose if you want to sync orders from your store to the seller store.
 
-![7ed348be-4f35-48bb-b883-d741689b6432](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/01/7ed348be-4f35-48bb-b883-d741689b6432-1200x584.png)
+![7ed348be-4f35-48bb-b883-d741689b6432](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/orderrefunds.webp)
 
  Sync Customer Details
 --------------
@@ -383,7 +386,7 @@ Also, the customers will receive an email from the seller's store regarding the 
 
 NOTE:- In this case, if you don't want to send an email to the customer, you can configure a dummy email.
 
-![customer details ON](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/05/Screenshot-2020-05-08T103054.342-1200x622.png)
+![customer details ON](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/synccustomdetail.webp)
 
 CASE 2: Sync Customer Details tab is **OFF** (**disabled**):
 
@@ -391,12 +394,12 @@ In case you disable this tab, you will get multiple options to choose whether yo
 
 You can configure the settings as per the requirements.
 
-![seller app configuration](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/05/Seller_Supported_App_Configuration_Admin-1151x1024.png)
+![seller app configuration](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/customeralldetails.webp)
 
 **Product Details Configuration  
 **In the “Product Details Configuration”, you can enable/disable the options. Thus, auto-update the enable fields when the sellers make any update from their end.
 
-![Seller App Details](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/02/sellerappdetail-614x1024.webp)
+![Seller App Details](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/productdetailconfig.webp)
 
  TRACK PRODUCT INVENTORY
 --------------------
@@ -404,7 +407,7 @@ If the admin enables this option from their end, the **inventory tracking status
 
 Configuration>>Seller Support App Feature>>Product Details Configuration>>Track Product Inventory
 
-![Track product inventory](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/02/trackinventory-1-1200x575.webp)
+![Track product inventory](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/trackinv.webp)
 
  RESTRICT IMAGE COUNT ON PRODUCTS
 ----------------
@@ -412,7 +415,7 @@ Admin can enable restrict image count configuration to restrict the number of Pr
 
 So seller can only sync a certain number of images which is set by the Admin.
 
-![bdjsbhdsj](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/11/bdjsbhdsj-1200x542.png)
+![bdjsbhdsj](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/restrictimg.webp)
 
  Import Product Meta Field
 -----------------
@@ -420,7 +423,7 @@ You can now import product meta fields from the seller's Shopify store into your
 
 For this, you need to enable the below-given option from the Seller App Configuration>>**Product Details Configuration**.
 
-![Screenshot-5](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/04/Screenshot-5-1200x610.png)
+![Screenshot-5](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/productmetafield.webp)
 
 ### Update Product Video
 
@@ -428,21 +431,21 @@ A new option is available that allows you to control whether the product video i
 
 For this, you need to enable the below-given option from the Seller App Configuration >> **Product Details Configuration**.
 
-![Product video](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/02/provideo-1-1200x638.webp)
+![Product video](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/productvideo.webp)
 
- Manage Product Category
+ Manage Product Collection
 ----------------
-A new configuration option has been added to manage whether product category updates from the seller’s Shopify store are synced with the Multivendor app.
+A new configuration option has been added to manage whether product Collection updates from the seller’s Shopify store are synced with the Multivendor app.
 
 For this, you need to enable the below-given option from the Seller App Configuration >> **Product Details Configuration**.
 
-![Product category](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/02/productcatego-1200x638.webp)
+![Product category](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/productcat.webp)
 
 Please note that to enable this configuration, you must first enable the **Manage Product Taxonomy Category** setting. Then only you will be able to enable the above config Product Category.
 
 You can do this by navigating to the **Multivendor Admin Panel >> Configuration >> Product Configuration**.
 
-![Manage Product Taxonomy Category](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/02/taxonomy-1200x638.webp)
+![Manage Product Taxonomy Category](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/taxonomy.webp)
 
  Seller Updating Products
 ----------------
@@ -480,7 +483,7 @@ Sellers can add Products only for the Admin marketplace which will only be avail
 
 **Note: Once Seller enables this configuration they won't be able to disable it.**
 
-![Sales-channel](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/08/Sales-channel-1200x616.png)
+![Sales-channel](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/sales.webp)
 
 To Add the product Please make sure the Product is added to the sales channel app that the Seller created as shown below otherwise it won't be imported or synced.
 
@@ -509,11 +512,11 @@ Note:- Make sure that the admin has restricted the product type & collection fro
 
 Now, on the seller panel, here is the option to map product types & collections in the Seller Sync App Configuration menu of the app.
 
-![Map Collection](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/02/Seller-App-Configuration-Details-Seller-%E2%80%A2-Multivendor-MarketPlace-1200x619.png)
+![Map Collection](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/maping.webp)
 
 **MAP COLLECTION**
 -----------------
-![Map-Collections-•-Multivendor-MarketPlace](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/02/Map-Collections-%E2%80%A2-Multivendor-MarketPlace-1200x619.png)
+![Map-Collections-•-Multivendor-MarketPlace](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/mapcollection.webp)
 
 **MAP PRODUCT TYPE**
 -------------------
@@ -521,35 +524,35 @@ Similarly, sellers can map the product type of their respective stores with the 
 
 Thus, clicking the Map Type, the seller will have the option to choose once product type from the admin's store and map the same with the product type of his/her Shopify store.
 
-![Seller-App-Configuration-Details-Seller-•-Multivendor-MarketPlace-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/02/Seller-App-Configuration-Details-Seller-%E2%80%A2-Multivendor-MarketPlace-1-1200x619.png)
+![Seller-App-Configuration-Details-Seller-•-Multivendor-MarketPlace-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/typemapping.webp)
 
-![Map-Product-Type-•-Multivendor-MarketPlace](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/02/Map-Product-Type-%E2%80%A2-Multivendor-MarketPlace-1200x619.png)
+![Map-Product-Type-•-Multivendor-MarketPlace](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/maptype.webp)
 
  Map Product Tags
 ----------------------
 You can now allow sellers to map the product tags of their respective stores with the product tag of your Shopify store.
 
-![screenshot-ravikant-sh.webkul.com-2021.07.09-13_00_27](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/07/screenshot-ravikant-sh.webkul.com-2021.07.09-13_00_27-1200x549.png)
+![screenshot-ravikant-sh.webkul.com-2021.07.09-13_00_27](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/tagmapping.webp)
 
 Clicking Tag Mapping, the seller will get the option to map the tag.
 
-![screenshot-ravikant-sh.webkul.com-2021.07.09-13_03_34](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/07/screenshot-ravikant-sh.webkul.com-2021.07.09-13_03_34-1200x549.png)
+![screenshot-ravikant-sh.webkul.com-2021.07.09-13_03_34](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/maptag.webp)
 
 The seller can map product tag via CSV file upload.
 
-![screenshot-ravikant-sh.webkul.com-2021.07.09-13_04_32](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/07/screenshot-ravikant-sh.webkul.com-2021.07.09-13_04_32-1200x974.png)
+![screenshot-ravikant-sh.webkul.com-2021.07.09-13_04_32](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/tagmethod.webp)
 
  Seller-wise product tag restriction
 ---------------------
 Admin needs to enable this configuration from the **Admin panel > configuration > restrict configuration > enable the restrict product tags tab.**
 
-![seller shopify store connector](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/05/ab1-1200x966.png)
+![seller shopify store connector](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/restricttag.webp)
 
 Once the admin enables this configuration, then the admin can allow or restrict the products tag, **seller wise** at the edit seller section. as shown below.
 
 **Admin panel > seller > seller listing > edit seller.**
 
-![seller shopify store connector](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/05/ab2-1200x619.png)
+![seller shopify store connector](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/restricttagseller.webp )
 
 If the above configuration is enabled then the seller needs to do mapping but if the admin disables this tab,
 
@@ -565,21 +568,21 @@ Seller will have three methods to import products:-
 
 **Method 1:-** Choose a Date Range & import products.
 
-![Import-Product-From-Seller-App-Seller-•-Multivendor-MarketPlace](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/01/Import-Product-From-Seller-App-Seller-%E2%80%A2-Multivendor-MarketPlace-1200x459.png)
+![Import-Product-From-Seller-App-Seller-•-Multivendor-MarketPlace](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/method1.webp)
 
 **2nd Method:-** Import products by comma-separated product IDs.
 
-![Screenshot-98](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/01/Screenshot-98-1200x236.png)
+![Screenshot-98](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/method2.webp)
 
 **Method 3:-** Import products by product handle.
 
-![Screenshot-99](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/01/Screenshot-99-1200x252.png)
+![Screenshot-99](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/method3.webp)
 
 This way, sellers can import products to the admin’s store.
 
 Thus, all the products imported by the seller will be visible in the “Product Listing” section of his/her seller panel.
 
-![Product-Seller-•-Multivendor-MarketPlace](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/01/Product-Seller-%E2%80%A2-Multivendor-MarketPlace-1200x627.png)
+![Product-Seller-•-Multivendor-MarketPlace](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/productlisting.webp)
 
 Now, the admin can view a new menu added under the **Configuration** menu of the admin panel i.e. **Seller Supported App Configuration**.
 
@@ -609,11 +612,11 @@ both the admin and the seller can sync products manually from the **Product List
 
 **Admin End**
 
-![admin end- product ](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/02/Product-Admin-1200x619.png)
+![admin end- product ](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/syncwithsellerstore.webp)
 
 **Seller End**
 
-![seller end](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/02/Product-Seller-%E2%80%A2-Multivendor-MarketPlace-1-1200x619.png)
+![seller end](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/syncwithyourstore.webp)
 
  Third-Party App for Drop Shipping
 ------------------
@@ -627,7 +630,7 @@ To import products from Oberlo to the seller app, the seller needs to enable the
 
 Moreover, once enable, import products to the seller app.
 
-![Seller-App-Configuration-Details-Seller-•-Multivendor-MarketPlace-2](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/01/Seller-App-Configuration-Details-Seller-%E2%80%A2-Multivendor-MarketPlace-2-1200x627.png)
+![Seller-App-Configuration-Details-Seller-•-Multivendor-MarketPlace-2](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/usethirdparty.webp)
 
 Get the list of all imported products in the Products section of the seller app (sync with the admin's store).
 
@@ -637,7 +640,7 @@ This way, products will update on the admin’s marketplace.
 -------------
 Seller will select the Seller Sync App from the drop-down menu for currency conversion & price rule:
 
-![Screenshot22](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/01/Screenshot22-1200x528.png)
+![Screenshot22](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/pricerule.webp)
 
 **CURRENCY CONVERSION**
 
@@ -645,7 +648,7 @@ If the currency of your seller’s store is different from the currency you set 
 
 Accordingly, your seller’s product price calculates once a customer places an order
 
-![Price-Rule-Seller-•-Multivendor-MarketPlace-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/01/Price-Rule-Seller-%E2%80%A2-Multivendor-MarketPlace-1-1200x825.png)
+![Price-Rule-Seller-•-Multivendor-MarketPlace-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/priceconversion.webp)
 
 **PRICE RULE**
 
@@ -656,7 +659,7 @@ In the price rule menu, the seller can create a price rule to manage the price o
 *   Select the Price change, either fixed or percentage.  
     Enter the amount of how much the sellers want to increase or decrease the price.
 
-![Price-Rule-Seller-•-Multivendor-MarketPlace-2](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/01/Price-Rule-Seller-%E2%80%A2-Multivendor-MarketPlace-2-1200x627.png)
+![Price-Rule-Seller-•-Multivendor-MarketPlace-2](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/setpricerule.webp)
 
  Allow Sellers to Register Webhook
 -------------------
@@ -670,15 +673,15 @@ Using the seller store connector, the admin can now allow sellers to view/regist
 
 Seller Panel>>Seller Sync App Configuration>>Click **Shopify Webhooks**
 
-![register webhook](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/05/Seller_App_Configuration_Details_Seller_%E2%80%A2_Multivendor_MarketPlace-1-1158x1024.png)
+![register webhook](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/weebhooks.webp)
 
 List of all webhooks. The seller can anytime unregister webhooks from the listing.
 
-![unregister](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/05/Screenshot-2020-05-15T204027.688-1200x585.png)
+![unregister](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/register.webp)
 
 The seller can unregister/delete webhook and can anytime register it again.
 
-![delete webhook](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/05/Screenshot-2020-05-15T204208.729-1200x586.png)
+![delete webhook](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/unregister.webp)
 
  Map Product With Connected Stores
 ---------------------------
@@ -710,7 +713,7 @@ In case the order created in the app, not synced with the seller's Shopify store
 
 For this, the seller will visit the seller panel>>Order>>Edit Order>>Click the **"Sync Order"** button in the More Action menu.
 
-![Order-Details-Seller-•-Multivendor-MarketPlace-6](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/12/Order-Details-Seller-%E2%80%A2-Multivendor-MarketPlace-6-1200x597.png)
+![Order-Details-Seller-•-Multivendor-MarketPlace-6](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/createorderonstore.webp)
 
  Update Marketplace Shipping Labels
 -----------------
@@ -718,13 +721,13 @@ You can now allow sellers to change the marketplace shipping labels to their res
 
 For this, visit the Seller Supported App Configuration & enable the tab.
 
-![Seller-Supported-App-Configuration-Admin-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/08/Seller-Supported-App-Configuration-Admin-1-1200x516.png)
+![Seller-Supported-App-Configuration-Admin-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/updatemarketplaceshipping.webp)
 
 SELLER PANEL
 
 The seller can enable the option from the Seller Sync App Configuration menu:
 
-![Screenshot-2021-08-20T134736.976](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/08/Screenshot-2021-08-20T134736.976.png)
+![Screenshot-2021-08-20T134736.976](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/enabletoupdatempshipping.webp)
 
  Multi-location Inventory Sync
 -------------------
@@ -737,7 +740,7 @@ For this, Go to Multi-vendor **Seller Panel**\>>**Configuration**\>>**Seller Syn
 
 Now, sellers can enable the location on the seller panel and sync the product's quantity with the admin's marketplace.
 
-![Seller end](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/10/screenshot-vineet-sinha-sh.webkul.com-2021.10.08-16_07_56-1200x590.png)
+![Seller end](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/synclocation.webp)
 
  Inventory Policy Sync
 ----------------------
@@ -747,7 +750,7 @@ With this option, you can now verify the "Continue Selling Out of Stock" option 
 
 Now, to enable this tab, go to admin panel>>Configuration>>**Seller Supported App Configuration**.
 
-![Screenshot-2021-10-08T175408.237-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/10/Screenshot-2021-10-08T175408.237-1-1200x532.png)
+![Screenshot-2021-10-08T175408.237-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/policyupdate.webp)
 
 That's all about this feature app.
 

@@ -39,7 +39,7 @@ Let's Explore this Feature App in detail.
 *   Both admin & seller can now sync the seller’s products in any state from the “Product Listing” section of their respective panels.
 *   Also, this feature app is available for Magento 2.
 
-![Shopify Magento Connector](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/11/Product-Admin-2-1200x597.png)
+![Shopify Magento Connector](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/syncwithsellerstore-1.webp)
 
  Limitations
 -----------------
@@ -55,18 +55,18 @@ Let's Explore this Feature App in detail.
 ------------------
 To activate the Shopify-Magento Connector feature app, first, you need to visit the Feature Apps section of the Multivendor App.
 
-![Admin Dashboard](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/12/Dashboard-Admin-1.png)
+![Admin Dashboard](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/featuredapps.webp)
 
 There, you will get the app named “Shopify Magento Connector".
 
-![Magento Connector](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/12/Feature-Apps-Admin-1.png)
+![Magento Connector](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/shopifymagento.webp)
 
 Now, clicking on the Enable button, You can activate the Feature app.
 
 Now, Proceed further to approve the additional charge for this feature app.  
 Once you approve the charges for this feature app, You will get this feature installed in Multivendor app.
 
-![MVM](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/12/Instructions-Admin.png)
+![MVM](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/magentofirst.webp)
 
 As soon as you install this feature app, You need to share a **Delivery URL** with SID and a **Magento Module** with your sellers.
 
@@ -93,7 +93,7 @@ Go to Configuration>>Product Detail Configuration>>Select the Connector.
 
 Now, he can enable/disable other tabs for this section as well.
 
-![magento](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/09/magento-1200x580.webp)
+![magento](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/connectorconfig.webp)
 
  Sync Customer Details
 -------------------
@@ -107,7 +107,7 @@ Also, the customers will receive an email from the seller’s store regarding th
 
 NOTE:- In this case, if you don’t want to send an email to the customer, you can configure a dummy email.
 
-![on](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/09/onn-1200x572.webp)
+![on](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/magentosecond.webp)
 
 **CASE 2: Sync Customer Details tab is OFF (disabled):**
 
@@ -115,7 +115,7 @@ In case you disable this tab, you will get multiple options to choose whether yo
 
 You can configure the settings as per the requirements with Seller's Magento store or not.
 
-![off](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/09/off-1200x578.webp)
+![off](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/magentothird.webp)
 
 **Note:-** Once the order is created at the admin Shopify store for the connector product then the same order will be created on seller's magento store also.
 
@@ -128,7 +128,7 @@ Even, the admin will get a reference order number like below that will be shown 
 **SELLER END**
 --------------
 
-![A1](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/12/Dashboard-Seller-•-Multivendor-MarketPlace.png)
+![A1](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/magentofourth.webp)
 
 Once the admin enables the Shopify-Magento feature app from his/her end, there will be a new sub-menu in the Configuration menu of the Seller Panel i.e. **Magento Configuration**. 
 
@@ -145,7 +145,7 @@ From this section of the app, Seller will configure all the details related to h
 Follow below path to set Weight Unit at Magento:  
 Stores>>Configuration>>General >>Locale Options>>Set the Weight Unit.
 
-![Seller End](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/12/Magento-Store-Details-Seller-•-Multivendor-MarketPlace.png)
+![Seller End](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/magentofifth.webp)
 
 **Access Token:** Seller needs to enter the access token generated from Magento end.
 
@@ -185,7 +185,7 @@ If the Seller has enabled the "Auto Sync to seller" tab from "Magento Configurat
 
 then once the Seller creates any product at Magento the same will be created at Multivendor app with "Approval Pending State".
 
-![csv](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/12/Screenshot-11.png)
+![csv](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/magentosixth.webp)
 
 But if the seller wants to import some selected products from his/her Magento store to Shopify then you can achieve it with the "Import Product" option.
 
@@ -195,13 +195,13 @@ Seller will have two methods to import products:-
 
 **Method 1:- By Single SKU or Comma Separated SKUs**
 
-![csv1](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/12/Import-Product-From-Magento-Seller-•-Multivendor-MarketPlace.png)
+![csv1](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/magentoseven.webp)
 
 Using this method, Seller will enter his/her Magento product SKU(s) and click on "Import Product" button to import Magento store's products into Multivendor App.
 
 **Method 2:- By CSV File**
 
-![csv2](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/12/Screenshot-12.png)
+![csv2](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/magentoeight.webp)
 
 Moreover, using 2nd method, Seller can upload a CSV file of Magento product SKUs and upload the products in bulk in one go.
 
@@ -213,20 +213,20 @@ As soon as the Magento Seller's products get synced into the Multivendor app, in
 
 Furthermore, you can visit the Product Listing section of the Multivendor App to view the newly added products by Magento Sellers.
 
-![S3](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/12/Product-Admin.png)
+![S3](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/magentonine.webp)
 
 **Admin End**
 -------------
 
 The admin can anytime enable or deny the product from his/her end. He can also edit or delete the product.
 
-![S2](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/12/Screenshot-15.png)
+![S2](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/magentoten.webp)
 
 Now, if the admin denies any product added by his seller, he needs to mention the reason for the same.
 
 Moreover, once the admin enables the product, product will get approved on seller’s side too.
 
-![S1](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/12/Screenshot-16.png)
+![S1](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/magentoeleven.webp)
 
  Orders
 ------------------------
@@ -236,7 +236,7 @@ Further, manage inventory at both the ends i.e. at Magento as well as at Multive
 
 **Please Note:-** At Magento, the Order amount visible to the seller will be exclusive of the Taxes applied at Shopify end i.e. Sales Tax will not be synced.
 
-![MVO1](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/12/Order-Details-Seller-•-Multivendor-MarketPlace-1.png)
+![MVO1](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/magentotwelve.webp)
 
 **Order Placed at Multivendor App**
 -----------------------------------
@@ -255,7 +255,7 @@ Furthermore, Seller can view the complete order updates at his/her Magento Store
 ----------------------
 Moreover, you can allow sellers to create price rule to manage product price of their Magento store to the merchant’s Shopify store.
 
-![Price rule ](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/01/Dashboard-Seller-%E2%80%A2-Multivendor-MarketPlace-1.png)
+![Price rule ](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/magentothirteen.webp)
 
 Sellers will have a new menu named **Connector Price Rule** in the configuration menu of the app.
 
