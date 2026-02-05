@@ -69,7 +69,7 @@ export default defineConfig({
             { text: 'Minimum Purchase Quantity', link: '/zenith/configuration/minimum-purchase-quantity' },
             { text: 'Product configuration', link: '/zenith/configuration/product-configration' },
             { text: 'Seller configuration', link: '/zenith/configuration/seller-configuration' },
- 
+            { text: 'Shopify Custom Apps', link: '/zenith/configuration/shopify-custom-apps' },
             // Add more configuration if needed 
           ]
         },

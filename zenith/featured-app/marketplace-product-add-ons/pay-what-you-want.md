@@ -22,7 +22,7 @@ Enable the following app by visiting:
 *   Search for ‘**Pay What You Want**‘ & click on ‘**Enable**‘
 *   After accepting the charges, you’ll be good to configure the app!
 
-![Feature_Apps_Admin-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/05/Feature_Apps_Admin-1-1200x597.png)
+![Feature_Apps_Admin-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/paywhatyouwanta.webp)
 
 To make this feature display on the frontend, the admin needs to paste a few codes.
 
@@ -31,7 +31,7 @@ The instructions with the codes will be given on the following page:
 
 Here, you’ll have these codes:
 
-![Instructions_Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/05/Instructions_Admin-1200x597.png)
+![Instructions_Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/paywhatyouwantb.webp)
 
 Show Price input field in the product page: Copy the below-given code & paste it to **product-template.liquid** file.
 ```liquid
@@ -107,15 +107,15 @@ To add a product, visit **Multivendor Marketplace Admin/Seller Panel** \> **Prod
 
 Now, while adding the product, you need mark product as **Pay what you want Product**.
 
-![Mark product as "pay what you want" while adding product ](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/06/image1-1200x575.webp)
+![Mark product as "pay what you want" while adding product ](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/paywhatyouwantc.webp)
 
 Other than this, add a minimum price to the product, enter the rest of the details and save.
 
-![download](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/05/download-1200x273.png)
+![download](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/paywhatyouwantd.webp)
 
 The "minimum price" can be added in two ways i.e, fixed and percentage. You can opt this from product configurations:
 
-![Choose which type of minimum price you would like to add on "pay what you want" products](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/06/image2-1.webp)
+![Choose which type of minimum price you would like to add on "pay what you want" products](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/paywhatyouwante.webp)
 
 **Note:**
 

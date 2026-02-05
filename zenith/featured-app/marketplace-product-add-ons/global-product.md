@@ -29,9 +29,9 @@ This Global Product app will be visible in the "feature apps" section of the Mul
 
 Just click on the three dots available on the upper right corner of the admin's dashboard. There, you will get "Global Product" in the feature app section.
 
-![Dashboard-Admin-2](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/02/Dashboard-Admin-2-1200x627.png)
+![Dashboard-Admin-2](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/10/first.webp)
 
-![global product](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/02/Screenshot-2020-02-04T143953.004.png)
+![global product](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/10/globalp.webp)
 
 Click on the "**Enable"** button to activate the "Global Product" feature of the Multivendor app.
 
@@ -43,13 +43,13 @@ Now, the Global Product menu will appear both on admin as well as seller panel.
 --------------------
 Go to Configurations\>>Visit Global Product Configuration\>>Configure the settings>>Save.
 
-![Global product configuration](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/Home-Admin.png)
+![Global product configuration](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/10/globaltwo.webp)
 
 As soon as you enable the Global Product Feature app, You will get a new menu added in the "Configuration" i.e. Global Product Configuration.
 
 On the redirected page, Merchant will have the following configurations. Let’s dive into each one at a time.
 
-![screencapture-sp-seller-webkul-admin-index-php-2019-06-17-10_45_19](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/06/screencapture-sp-seller-webkul-admin-index-php-2019-06-17-10_45_19-813x1024.png)
+![screencapture-sp-seller-webkul-admin-index-php-2019-06-17-10_45_19](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/10/globalthree-scaled.webp)
 
  **Sort By**
 ---------------
@@ -91,21 +91,21 @@ So, to add variants, the admin can simply add a new global product & on the ‘a
 
 After the admin adds variants, the seller can choose whichever variant he wants to sell. Multivendor Marketplace Seller Panel > Global Products > Sell Product.
 
-![Global-Product-Seller-â¢-Multivendor-MarketPlace](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/06/Global-Product-Seller-%E2%80%A2-Multivendor-MarketPlace-1200x597.png)
+![Global-Product-Seller-â¢-Multivendor-MarketPlace](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/globalfive.webp)
 
 Now, on the following page, the seller will have the list of all the added variants which he is not selling in the **Unlisted Variants** section.
 
-![Sell-Global-Products-Seller-â¢-Multivendor-MarketPlace](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/06/Sell-Global-Products-Seller-%E2%80%A2-Multivendor-MarketPlace-1200x597.png)
+![Sell-Global-Products-Seller-â¢-Multivendor-MarketPlace](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/gsix.webp)
 
 Single Variant Selection
 
-![Sell-Global-Products-Seller-â¢-Multivendor-MarketPlace-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/06/Sell-Global-Products-Seller-%E2%80%A2-Multivendor-MarketPlace-1-1200x597.png)
+![Sell-Global-Products-Seller-â¢-Multivendor-MarketPlace-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/gseven.webp)
 
 **Multiple Variant Selection**
 
 After clicking on the ‘Sell Variant’ button, the seller will have a pop-up where he can change the price, compare at price, inventory tracking option & quantity of the variant.
 
-![Sell-Global-Products-Seller-â¢-Multivendor-MarketPlace-2](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/06/Sell-Global-Products-Seller-%E2%80%A2-Multivendor-MarketPlace-2-1200x597.png)
+![Sell-Global-Products-Seller-â¢-Multivendor-MarketPlace-2](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/geight.webp)
 
 #### **Note**
 
@@ -117,7 +117,7 @@ Next, the variants which the seller is selling will now list in the **Variants 
 
 (The seller can edit(update price/quantity) the variants he is selling anytime.)
 
-![variant details](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/06/Sell-Global-Products-Seller-%E2%80%A2-Multivendor-MarketPlace-3-1200x597.png)
+![variant details](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/gnine.webp)
 
 Moving on, if the seller doesn’t want to sell a particular variant of the product anymore then he can unlist the variants from the **Variants Details** Section anytime.
 
@@ -125,13 +125,13 @@ Moving on, if the seller doesn’t want to sell a particular variant of the prod
 
 > To unlist the variants from the **Variants Details** section, the seller needs to have at least one variant other than the one he wants to unlist.
 
-![unlist variant](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/06/Sell-Global-Products-Seller-%E2%80%A2-Multivendor-MarketPlace-4-1200x597.png)
+![unlist variant](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/gten.webp)
 
 Now, if the seller wants to stop selling that particular global product then instead of unlisted the variants, he needs to unlist the whole product from
 
 Multivendor Seller Panel > Global Products > Unlist
 
-![Global-Product-Seller-â¢-Multivendor-MarketPlace-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/06/Global-Product-Seller-%E2%80%A2-Multivendor-MarketPlace-1-1200x597.png)
+![Global-Product-Seller-â¢-Multivendor-MarketPlace-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/geleven.webp)
 
 #### Global Product Variants: Frontend View
 
@@ -149,13 +149,13 @@ Enable this option if you want to grant your sellers the rights to change the gl
 
 Disable if you don’t want sellers to change the global product/variant price & sell on the same price as mentioned by you (admin).
 
-![manage global product price](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/02/Screenshot-2020-02-04T153410.998-1-1200x623.png)
+![manage global product price](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/gtwelve.webp)
 
  Allow Sellers To Manage Global Product Inventory
 ---------------
 Enable this option if you want your sellers to update the global product/variant quantity else keep it disabled.
 
-![Screenshot-2020-02-04T154031.222](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/02/Screenshot-2020-02-04T154031.222-1200x624.png)
+![Screenshot-2020-02-04T154031.222](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/gthirteen.webp)
 
 #### **Manage Seller Global Product Via Admin Global Product Inventory**
 
@@ -163,7 +163,7 @@ In case you want to manage seller's global product inventory on the basis of pro
 
 you can disable the "Allow Sellers to Manage Global Product Inventory" tab and enable **Manage Seller Global Product Using Admin Inventory** tab.
 
-![download-23](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/03/download-23-1200x574.png)
+![download-23](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/gfourteen.webp)
 
 Once you enable this tab, seller’s global product quantity will be managed according to admin’s product inventory.
 
@@ -175,13 +175,13 @@ With this feature enabled, sellers can upload a custom image for each variant wh
 
 This allows for better product representation and helps buyers easily differentiate between variants. Please note that sellers can upload only one image per variant.
 
-![global-product-image-variant-level](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/01/global-product-1200x513.webp)
+![global-product-image-variant-level](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/gfifteen.webp)
 
 #### **Enable Sellers to Add Custom Descriptions for Variants**
 
 This feature allows sellers to add a custom description for each variant when setting up their products. It helps provide detailed information about individual variants.
 
-![global-product-description](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/01/global-product-description-1200x513.webp)
+![global-product-description](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/gsixten.webp)
 
 #### **Track Seller Inventory Status Using Meta fields**
 
@@ -189,7 +189,7 @@ Enable this feature to track seller inventory status seamlessly with the help of
 
 This helps in tracking whether the product is in stock or out of stock using the meta field (wk\_track\_inventory\_for\_gb ).
 
-![global-product inventory track](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/01/global-product-inventory-track-1200x513.webp)
+![global-product inventory track](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/gseventeen.webp)
 
  Create Seller Global Product Handle With Seller Shop Name
 ----------------
@@ -211,21 +211,21 @@ You can now allow sellers to manage SKUs while selling global products from thei
 
 For this, You need to visit Configurations\>>Click Global Product Configuration\>>Enable the option **Allow Sellers to Manage SKUs of Global Product**\>>Save.
 
-![allow sellers](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/02/Screenshot-2020-02-04T152159.599-1200x607.png)
+![allow sellers](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/geighteen.webp)
 
 Once this option is enabled, the sellers will get the option to add SKUs while selling global products from their seller panels.
 
 Seller will click the SELL PRODUCT button to sell this global product.
 
-![sell products](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/02/Screenshot-2020-02-04T145426.450-1200x528.png)
+![sell products](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/globalfive.webp)
 
 In the product form, the seller will have the option to enter the global product SKU.
 
-![SKU ](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/02/Sell-Global-Products-Seller-%E2%80%A2-Multivendor-MarketPlace-1200x627.png)
+![SKU ](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/goblproductssku.webp)
 
 Moreover, sellers can update the SKUs of global product variants.
 
-![Screenshot-2020-02-05T120148.486](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/02/Screenshot-2020-02-05T120148.486-1200x460.png)
+![Screenshot-2020-02-05T120148.486](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/gninteen.webp)
 
 #### Manage Seller Global Product SKU via Admin Product SKU
 
@@ -235,7 +235,7 @@ For this, you need to enable the option from the Global Product Configuration me
 
 In case SKU is blank or null in seller's products, the admin's global product SKUs will be updated in the seller's global products SKU field.
 
-![download-25-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/03/download-25-1-1200x577.png)
+![download-25-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/gtwenty.webp)
 
  Add Global Product via CSV
 --------------
@@ -245,7 +245,7 @@ You can now add global products to the app via CSV upload in a go. To do this, y
 *   Click the **Global Product** sub-menu.
 *   Visiting this section, you need to click the "Add Global Product by CSV" in the **Action** menu.
 
-![Global-Product-Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/08/Global-Product-Admin-1200x597.png)
+![Global-Product-Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/gtwentyone.webp)
 
   
 
@@ -253,7 +253,7 @@ You can download the instruction file in the app to know how to prepare your glo
 
 Also, **we recommend** to download the sample CSV from the app, edit the CSV file as per the requirement and then, upload the CSV file for validation in the app.
 
-![Add-Global-Product-By-CSV-Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/08/Add-Global-Product-By-CSV-Admin-1200x823.png)
+![Add-Global-Product-By-CSV-Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/gttwo.webp)
 
 This way, you can add global products via CSV. In case you need help with the CSV upload, please feel free connect via **support@webkul.com**.
 
@@ -267,7 +267,7 @@ For this, you need to enable an option from the "Global Product Configuration" m
 
 Go to Configuration>>Global Product Configuration>>Enable the option "**Display the Cheapest Global Product**">>Save.
 
-![display global product](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/02/Screenshot-2020-02-04T152115.889-1-1200x617.png)
+![display global product](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/gtthree.webp)
 
 > **Note**:- In case, two sellers are selling a global product at the same price then the product that is firstly approved by the admin will be displayed on the product page.
 
@@ -281,7 +281,7 @@ You will now have an option to choose whether you want to auto-publish the globa
 
 For this, Go to the Configuration\>>Global Product Configuration\>>Enable **Auto Publish Global Products**\>>Save.
 
-![Auto publish global product](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/02/Screenshot-2020-02-05T114741.051-1200x529.png)
+![Auto publish global product](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/gtfour.webp)
 
 After enabling this option, global products will get auto-published once the seller clicks the “Sell Product” button.
 
@@ -289,32 +289,32 @@ After enabling this option, global products will get auto-published once the sel
 
 In case, this tab is disabled, the global product's variants will remain in unpublished status till the time it is manually published by the admin.
 
-![unpublished global product](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/02/Sell-Global-Products-Seller-%E2%80%A2-Multivendor-MarketPlace-1-1200x627.png)
+![unpublished global product](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/gtfive.webp)
 
  Label Configuration
 ----------------
 On the same page, the admin can customize the frontend labels as per his requirements.
 
-![Global-Product-Configuration-Admin-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/06/Global-Product-Configuration-Admin-1-1200x597.png)
+![Global-Product-Configuration-Admin-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/gtsix.webp)
 
 The global product menu is visible in the **Products** section of the admin panel.
 
-![Global Product14](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/Dashboard-_-Admin-1-1.jpg)
+![Global Product14](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/gtseven.webp)
 
 Similarly, the Global product menu is visible in the **Products** menu of the seller panel of the Multivendor app.
 
-![Global Product16](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/Dashboard-_-Seller-•-Multivendor-MarketPlace.jpg)
+![Global Product16](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/gteight.webp)
 
 **Let's see how this feature works on the admin end.**
 ------------------------------------------------------
 
 After clicking on "Global product", a page appears to you where you will get a "**Add Global Product**" button. You can click this button to create a global product.
 
-![Global Product17](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/44-1.png)
+![Global Product17](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/gtnine.webp)
 
 In order to add global products to your store, just click the "Add Global Product" button and fill all the global product details.
 
-![Global Product18](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/5-6.png)
+![Global Product18](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/gthirty.webp)
 
 Once you fill the details, you will end up creating a new global product that is sold by various sellers.
 
@@ -326,7 +326,7 @@ from where he/she can choose any of the global product for himself/herself and s
 
 Have a look:
 
-![Global Product19](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/6-6.png)
+![Global Product19](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/gttyone.webp)
 
 **NOTE:-** If you want to assign your pre-existing Shopify store product as a Global Product then do refer the below-given procedure:
 
@@ -348,7 +348,7 @@ It is designed to help administrators efficiently update multiple product record
 
 Steps to Perform Bulk Edit:
 
-![Steps to show bulk edit in global product listing.](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/globalproductbulk-1200x815.webp)
+![Steps to show bulk edit in global product listing.](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/gttytwo.webp)
 
 \-On Admin Panel -> Products -> Global Products -> Select multiple products -> click on 'Bulk Action' -->click on Bulk Edit.
 
@@ -385,21 +385,21 @@ The global product supports the following [commission types](/zenith/commission/
 --------------
 Once the seller clicks the global product menu from the product section of the seller panel, he will get the same list of global products that the admin has added.
 
-![Global Product image](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/7-6.png)
+![Global Product image](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/gttythree.webp)
 
 Through this section of the app, the seller can view all the global products that the admin has added and he can sell any of them as per his wish.
 
 The seller just needs to click on the "Sell Product" button in the action menu of the global product section. Now, he can add the product's detail and finally click on the "Sell" button.
 
-![Seller End](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/Global-Product-Seller-•-Multivendor-MarketPlace.png)
+![Seller End](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/gttyfour.webp)
 
 Clicking on the Seller Product button, the seller will get redirected to the edit product section.
 
-![seller end](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/Add-Global-Product-Seller-•-Multivendor-MarketPlace.png)
+![seller end](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/gttyfive.webp)
 
 The seller can also edit or delete that global product that is sold by him.
 
-![Global Product122](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/88.png)
+![Global Product122](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/gttysix.webp)
 
 Talking about the admin, he can edit, delete, enable/disable the global product which he has created.
 
@@ -407,13 +407,13 @@ Also, he can view the complete details of the seller who has sold the global pro
 
 He just needs to click the "Seller Detail" button on the global product detail page of the admin panel.
 
-![Global Product177](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/9-5.png)
+![Global Product177](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/gttyseven.webp)
 
 Note:- If the admin will make any change in global product details or update any info on his end,
 
 the seller can also see all the updates excluding Global Product Image on his end.
 
-![Global Product188](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/Screenshot-69-png-1296×497-.png)
+![Global Product188](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/gttyeight.webp)
 
 Note:- The global product sold by the seller will now be visible in the product listing section.
 
@@ -427,7 +427,7 @@ After enabling the ‘Global Product’ feature app, the Admin needs to do some 
 
 Admin can get all the instructions and codes from the following page: Multivendor Marketplace Admin Panel > Configuration > Instructions for Marketplace:
 
-![Instructions-Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/06/Instructions-Admin-1200x549.png)
+![Instructions-Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/gttynine.webp)
 
 1. **Display The Global Product On Your Store’s Product Description**:
 
@@ -449,7 +449,7 @@ This is how it appears on front end:
 --------------
 You can also rename the labels as per your requirement for various sections of the Global Product feature app. Go to the Translation\>>Global Product Label-Feature.
 
-![global product label feature](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/02/Dashboard-Admin-3-1200x581.png)
+![global product label feature](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/gfourty.webp)
 
 In this way, you can translate the labels for various sections of the Global Product feature app.
 
@@ -477,7 +477,7 @@ This feature enables sellers using Shopify connector to sell global products. To
 
 Admin needs to enable “ Map Global Product with Normal Product” 
 
-![image](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/04/screenshot_1712588234482-1200x618.webp)
+![image](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/gfone.webp)
 
 Upon enabling this configuration, you will get the option to enable/disable the configuration "Seller can sell only global product"
 
@@ -489,7 +489,7 @@ We’ve introduced a new configuration in the **Global Product** feature of the 
 
 When "Sync Seller Country to Shopify Product Metafield" is enabled, the seller's country is automatically added to the metafield wk\_origin\_country.seller\_country whenever they list a product for sale.
 
-![sync seller country](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/11/countrysync-1200x445.webp)
+![sync seller country](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/gftwo.webp)
 
 ### **Unlink the seller page from the global product**
 
@@ -499,7 +499,7 @@ To configure this Admin needs to navigate to:
 
 **Admin Dashboard>>Configuration>>Global Product Configuration>>Add Seller Profile link on Global Product widget**
 
-![Unlink seller profile](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/unlinksellerprofileglobal-1200x571.webp)
+![Unlink seller profile](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/gfthree.webp)
 
 Once disabled, the seller profile will no longer be linked to the Global Product widget
 

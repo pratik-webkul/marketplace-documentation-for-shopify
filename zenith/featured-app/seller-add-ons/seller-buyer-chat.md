@@ -8,8 +8,6 @@ author: Chirag Tyagi
 
 Using this integration, you can display a live chat widget on your storefront. The customers can connect with the sellers on the runtime and get their queries resolved.
 
-
-
  ChatWhizz Registration
 ----------------
 **How to get registered on ChatWhizz(Registration Process)**  
@@ -29,11 +27,11 @@ There are different plans to choose from. You can opt for a plan that is suitabl
 -----------------------
 To install the add-on, visit **Multivendor Marketplace Admin Panel** > Hover over the **three dots** on the top right of the dashboard > **Feature Apps**. Next, enable the **Seller-Buyer Chat** add-on:
 
-![r9](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/08/r9-1200x504.png)
+![r9](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/addsellerbuyer.webp)
 
 Once enabled, visit **Configuration** > **Seller Buyer Chat**:
 
-![image-25](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/04/image-25-1200x597.png)
+![image-25](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/configurationsellerbuyer.webp)
 
 Next, you need to configure the add-on by entering the following details:
 
@@ -41,7 +39,7 @@ Next, you need to configure the add-on by entering the following details:
 *   Access Token
 *   Refresh Token
 
-![c2](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/08/c2-1200x580.png)
+![c2](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/apiseller.webp)
 
 To get the access token and refresh token, visit **ChatWhizz admin > installed add-ons > seller buyer chat > API details:**
 
@@ -53,17 +51,17 @@ Here, you will have both the keys:
 
 Once you'll save the details, you will get this success message on the screen:
 
-![c3](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/08/c3-1200x510.png)
+![c3](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/savedconfig.webp)
 
 NOTE:
 
 If the admin enables **Allow Sellers to Configure this Feature** tab, then the seller will be able to see and configure the seller-buyer chat on the seller panel.
 
-![c5](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/08/c5-1200x407.png)
+![c5](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/chatconfig.webp)
 
 But if the admin disables "**Allow Sellers to Configure this Feature**" tab, then the seller will not be able to configure.
 
-![c4](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/08/c4-1200x874.png)
+![c4](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/chatsellerend.webp)
 
  Auto-login to Seller-Buyer Chat
 -----------------
@@ -71,7 +69,7 @@ Sellers can now auto-login to the Chatwhizz panel from within their own seller p
 
 They will find the option under Seller panel>> Configuration>>Seller-Buyer Chat>> Chat login
 
-![screenshot_1696409564787](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/10/screenshot_1696409564787-1200x616.png)
+![screenshot_1696409564787](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/chatlogin.webp)
 
  Code Instructions
 ----------------
@@ -81,7 +79,7 @@ Here, you will have the code to add to the **footer.liquid** (or theme.liquid) 
 
 To show Chat History on the Storefront Customer Account page, you need to add the codes in **main-account.liquid** template
 
-![sp-seller.webkul.com_admin_index.php_pinstruction](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/01/sp-seller.webkul.com_admin_index.php_pinstruction-1200x600.png)
+![sp-seller.webkul.com_admin_index.php_pinstruction](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/codepasting.webp)
 
  Code For Online Store 2.0
 --------------------
@@ -91,11 +89,11 @@ If you are using Online Store 2.0 (Example- Dawn), the codes to show the chatb
 -------------------
 On the marketplace seller panel, a seller needs to visit **Configuration** > **Seller Buyer Chat**:
 
-![image-30](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/04/image-30-1200x597.png)
+![image-30](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/chatmenu.webp)
 
 Lastly, enable the option & save the changes:
 
-![image-31](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/04/image-31-1200x590.png)
+![image-31](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/sbchat.webp)
 
 Once done, an operator account will be created for the seller. The seller will receive an email regarding the same with login credentials.
 
@@ -125,7 +123,7 @@ Now, you can show chat history to your customers on their account page. For this
 
 Multivendor marketplace admin panel>>Configuration>>Storefront configuration>> regenerate Seller buyer chat
 
-![screenshot_1706078483020](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/01/screenshot_1706078483020-1200x575.png)
+![screenshot_1706078483020](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/regenarate.webp)
 
 A page named "Seller Buyer Chat" will be created on the Shopify pages section.
 
@@ -135,7 +133,7 @@ A page named "Seller Buyer Chat" will be created on the Shopify pages section.
 ---------------
 On the seller's end, a chat widget will appear in the dashboard like this.
 
-![screenshot_1706078731815](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/01/screenshot_1706078731815-1200x575.png)
+![screenshot_1706078731815](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/widget.webp)
 
 **NOTE- To show the chat widget on the seller dashboard make sure that seller-buyer chat is enabled for that particular seller.**
 
@@ -143,9 +141,9 @@ Seller can accept/decline the chat and can create a ticket or end chat of an ong
 
 Enable UV desk addon on chatwhizz end for ticket creation.
 
-![screenshot_1706078973827](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/01/screenshot_1706078973827-1200x575.png)
+![screenshot_1706078973827](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/chat.webp)
 
-![screenshot_1706079009778](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/01/screenshot_1706079009778-1200x575.png)
+![screenshot_1706079009778](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/chatbox.webp)
 
  On customer end
 -------------------

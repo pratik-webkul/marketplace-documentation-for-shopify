@@ -36,17 +36,17 @@ Installation:
 
 Firstly, enable the “Zoho Integration” feature from the “Features Section” by clicking on (…) three dots of the main menu.
 
-![z2-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/04/z2-1-1200x561.png)
+![z2-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/zohoone.webp)
 
 After clicking on the enable button just agree on additional charges which are over and above to your current multivendor Market Plan.
 
-![z1](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/04/z1-1200x503.png)
+![z1](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/zohotwo.webp)
 
 Once you will agree on additional charges a new menu name “Zoho Configuration” will be added to the configuration section of your multivendor marketplace app.
 
 **Admin panel > configuration > zoho zonfiguration**.
 
-![Z3](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/04/Z3-1200x566.png)
+![Z3](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/zohoconfig.webp)
 
 Options available in this menu:-
 
@@ -55,7 +55,7 @@ Options available in this menu:-
     
 2.  **Account URL:** The admin can add the account URL as per the country-wise provided in the given [link](https://www.zoho.com/crm/developer/docs/api/v2/access-refresh.html).
 
-![zt5](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/06/zt5-1200x907.png)
+![zt5](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/zohothree.webp)
 
 **Client id & client secret key:-** First, you need to create an account on the Zoho CRM and log in with the same ID to your Zoho Developer Console Account to get the details.
 

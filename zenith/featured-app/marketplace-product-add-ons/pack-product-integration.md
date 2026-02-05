@@ -37,7 +37,7 @@ Let's see how to configure this in the app.
 -------------
 To enable the feature app, visit the featured apps section of the Multivendor Marketplace for Shopify.
 
-![759ee1cb-5cbb-4a57-852c-2f9a17885d6e](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/02/759ee1cb-5cbb-4a57-852c-2f9a17885d6e-1200x584.png)
+![759ee1cb-5cbb-4a57-852c-2f9a17885d6e](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/aaaa.webp)
 
 And activate the "Pack Product Integration" feature app.  
 NOTE:- Make sure that you have enabled the [Pack & Combo product App](https://app-sp.webkul.com/pack-combo-product/index.php?p=landing_page) on your Shopify store.
@@ -53,11 +53,11 @@ As soon as you enable the feature app, two new sub-menus get added to the Produc
 
 Visit the Multi-vendor admin panel>>Products>>Click **Pack Product**.
 
-![60a9e693-19cc-466f-9f5a-3e4d349752e1](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/01/60a9e693-19cc-466f-9f5a-3e4d349752e1-1200x584.png)
+![60a9e693-19cc-466f-9f5a-3e4d349752e1](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/bbbb.webp)
 
 Now, Click the Create Pack button on the top right corner of the page.
 
-![24fd2975-6669-40b0-9763-517901b1ed60](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/01/24fd2975-6669-40b0-9763-517901b1ed60-1200x584.png)
+![24fd2975-6669-40b0-9763-517901b1ed60](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/cccc.webp)
 
 Clicking the Create Pack button, a form appears to enter the details for your new bundle product. Following are the details you need to enter:-
 
@@ -69,7 +69,7 @@ Clicking the Create Pack button, a form appears to enter the details for your ne
 *   Add bundle product description, tags, collection & Images.  
     
 
-![0f304475-18f2-472f-b755-265ab7c44270](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/01/0f304475-18f2-472f-b755-265ab7c44270-744x1024.png)
+![0f304475-18f2-472f-b755-265ab7c44270](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/dddd.webp)
 
 This is how you can add pack products and let customers purchase products in just one package.
 
@@ -80,11 +80,11 @@ How To Add Combo Products?
 
 To add combo products to the app, Visit the Multi-vendor admin panel>>Go to Products>>Click Combo Products.
 
-![4aaa3d6b-0c70-4dea-adfc-ebff7b38cd67](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/01/4aaa3d6b-0c70-4dea-adfc-ebff7b38cd67-1200x584.png)
+![4aaa3d6b-0c70-4dea-adfc-ebff7b38cd67](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/eeee.webp)
 
 Now, enter the details of your Combo product including Combo product name, product description, tags.
 
-![e0dc822e-6bc7-4e9c-8341-e72c041c5ca9](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/01/e0dc822e-6bc7-4e9c-8341-e72c041c5ca9-949x1024.png)
+![e0dc822e-6bc7-4e9c-8341-e72c041c5ca9](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/fff.webp)
 
 Save The Changes.
 
@@ -94,15 +94,15 @@ The same way, sellers can add the Pack & Combo products from their seller panels
 ------------
 The sellers will also get the new sub-menus added to the Products menu of the seller panel i.e. Pack Product & Combo products.
 
-![66e8250e-c8e2-4e71-963c-22dbce66e511](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/01/66e8250e-c8e2-4e71-963c-22dbce66e511-1200x584.png)
+![66e8250e-c8e2-4e71-963c-22dbce66e511](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/gggg.webp)
 
 Seller can add pack products and get the list of all the pack products added. Seller can anytime edit the details of the pack product as well as disable and delete them.
 
-![cc761b16-ba8b-4ef2-a702-710a96cd31e5](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/01/cc761b16-ba8b-4ef2-a702-710a96cd31e5-1200x584.png)
+![cc761b16-ba8b-4ef2-a702-710a96cd31e5](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/hhh.webp)
 
 Similarly, the sellers can add, edit, delete the combo products.
 
-![39ad406f-d4c9-449b-97cd-5b40c743b697](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/01/39ad406f-d4c9-449b-97cd-5b40c743b697-1200x584.png)
+![39ad406f-d4c9-449b-97cd-5b40c743b697](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/iiii.webp)
 
 This is how both admin and sellers can add pack & combo products using the app.
 

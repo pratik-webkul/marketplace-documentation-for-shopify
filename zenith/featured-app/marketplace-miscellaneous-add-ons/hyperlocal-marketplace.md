@@ -30,7 +30,7 @@ Enable the following app by visiting:
 *   Search for '**Hyperlocal Marketplace**' & click on '**Enable**'
 *   After accepting the charges, you'll be good to configure the app!
 
-![HYPERLOCAL MARKETPLACE ADD-ON](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/11/Feature-Apps-Admin-3.png)
+![HYPERLOCAL MARKETPLACE ADD-ON](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/hyperlocal.webp)
 
 The video tutorials is available now please check below:
 
@@ -44,7 +44,7 @@ The admin needs to configure the app by visiting:
 
 On the following page, you'll find these options:
 
-![HYPERLOCAL MARKETPLACE](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/11/Customize-Configuration-Pages-Admin-3.png)
+![HYPERLOCAL MARKETPLACE](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/confighyper.webp)
 
 You can change the following details as per your need:
 
@@ -62,7 +62,7 @@ You'll find instructions for this on the same page.
 
 Once the Hyperlocal feature app is enabled, a "Hyperlocal" column will be visible on the Sellers >> Locations page.
 
-![screenshot_1696414718494](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/10/screenshot_1696414718494.png)
+![screenshot_1696414718494](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/column.webp)
 
 Instruction to get Google Map Access Token:
 -------------------------------------------
@@ -98,11 +98,11 @@ Next, you'll have the option to upload a **Background Banner**.
 
 (_Refer to the frontend image given above to get a reference for the following Background Banner._)
 
-![HYPERLOCAL MARKETPLACE](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/11/Customize-Configuration-Pages-Admin-1.png)
+![HYPERLOCAL MARKETPLACE](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/banner.webp)
 
 Lastly, you can customize the labels of the 'Nearby Service' section page.
 
-![HYPERLOCAL MARKETPLACE](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/11/Customize-Configuration-Pages-Admin-2.png)
+![HYPERLOCAL MARKETPLACE](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/label.webp)
 
 _NOTE: The number of sellers available at your location will be replaced by the #COUNT#._
 
@@ -112,13 +112,13 @@ The admin can choose whether he wants his sellers to sell their products without
 
 For this, enable the following tab under **Hyperlocal Configuration**:
 
-![Customize_Hyperlocal_Configuration_Page_Admin-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/05/Customize_Hyperlocal_Configuration_Page_Admin-1-1200x597.png)
+![Customize_Hyperlocal_Configuration_Page_Admin-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/globalsellinghyper.webp)
 
 Once enabled, the sellers will get this option under their account configuration. Sellers can enable this and sell globally.
 
 Note that those sellers who have opted this options doesn't need to enter their location or delivery radius.
 
-![screenshot_1696416488331](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/10/screenshot_1696416488331.png)
+![screenshot_1696416488331](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/hyperconfig.webp)
 
 **Important** **Point**: The global sellers will appear on every search result on the storefront.
 
@@ -128,7 +128,7 @@ Moreover, they will be listed after the sellers with defined locations.
 -------------
 The admin can choose whether he wants his customers to redirect to the seller listing page after searching results for their location or to the by-default home search result page.
 
-![Customize_Hyperlocal_Configuration_Page_Admin-1-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/05/Customize_Hyperlocal_Configuration_Page_Admin-1-1-1200x597.png)
+![Customize_Hyperlocal_Configuration_Page_Admin-1-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/redirect.webp)
 
  Code-Pasting: Admin Panel
 ----------------
@@ -144,7 +144,7 @@ All the instructions regarding code pasting will be given on the same page.
 
 _You can also check out the following documentation: [Instructions for Hyperlocal Marketplace](https://webkul.com/blog/instructions-for-hyperlocal-marketplace-multi-vendor-marketplace-for-shopify/)_.
 
-![HYPERLOCAL MARKETPLACE](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/11/Instructions-Admin-2-1200x597.png)
+![HYPERLOCAL MARKETPLACE](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/codepastinghyper.webp)
 
 _If you are having trouble while updating the codes, let us know by emailing at_ **_shopify@webkul.com_** _or creating a ticket for the same at_ [_**Webkul UV Desk**_](https://webkul.uvdesk.com/)_. We'll do it for you!_
 
@@ -167,13 +167,13 @@ If the admin wants to update the Vendor's Location, he needs to visit:
 
 On this page, under the heading Hyperlocal Configuration, the admin can **Enable** or **Disable** the location.
 
-![screenshot_1696415540110](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/10/screenshot_1696415540110.png)
+![screenshot_1696415540110](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/configupdate.webp)
 
 To modify the address, click on **View On Map**. A pop-up will open where you can change the **Address**, **Lattitude** & **Longitudes**. Moreover, **Maximum Delivery Distance** can also be updated.
 
 (_Maximum Delivery Distance limit is **200**_ _km_)
 
-![Edit-Seller-Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/02/Edit-Seller-Admin-1200x968.png)
+![Edit-Seller-Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/editaddress.webp)
 
  Vendor Location Update from Seller Panel:
 ------------------------
@@ -188,7 +188,7 @@ Likewise, to modify the address, click on **View On Map**. A pop-up will open wh
 
 (_Maximum Delivery Distance limit is **200**_ _km_)
 
-![screenshot_1696415221659-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/10/screenshot_1696415221659-1.png)
+![screenshot_1696415221659-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/sellerconfig.webp)
 
 This was all regarding the backend settings.
 
@@ -256,11 +256,11 @@ But if you want to restrict the customer's Shopify search for products based on 
 
 To make the Shopify search bar compatible with hyperlocal, you need to use the [**Multiple Shipping**](https://webkul.com/blog/shopify-multiple-shipping/) feature. Further, under **Hyperlocal Configuration**, enable this option:
 
-![Customize-Hyperlocal-Configuration-Page-Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/01/Customize-Hyperlocal-Configuration-Page-Admin-1200x597.png)
+![Customize-Hyperlocal-Configuration-Page-Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/restrictconfig.webp)
 
 Note: You need to add a code which you will get under Instructions for Marketplace section:
 
-![Screenshot-by-Lightshot](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/01/Screenshot-by-Lightshot-1200x396.png)
+![Screenshot-by-Lightshot](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/codeaddition.webp)
 
 In case you are using Shopify **Online Store 2.0**, follow the detailed user guide & follow instructions to add the codes:
 
@@ -291,11 +291,11 @@ All you have to do is, Simply Visit the "Hyperlocal Configuration" from Admin po
 
 Refer to the below screenshots:
 
-![Dashboard-_-Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/12/Dashboard-_-Admin-1200x597.png)
+![Dashboard-_-Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/configlocal.webp)
 
 Now, Select "Product Listing" from "Select Listing Type" & Save the configuration:
 
-![Customize-Hyperlocal-Configuration-Page-_-Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/12/Customize-Hyperlocal-Configuration-Page-_-Admin-1200x539.png)
+![Customize-Hyperlocal-Configuration-Page-_-Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/producthyper.webp)
 
 After that, On frontend, The products will starts filtering instead of sellers based on customer's location.
 
@@ -338,7 +338,7 @@ Now, you can implement the changes done in the hyperlocal configuration to the s
 
 Please note: You will only be able to see the changes if required hyperlocal codes are pasted in the selected theme.
 
-![screenshot-sp-seller.webkul.com-2022.04.06-12_14_48](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/04/screenshot-sp-seller.webkul.com-2022.04.06-12_14_48-1200x581.png)
+![screenshot-sp-seller.webkul.com-2022.04.06-12_14_48](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/theme.webp)
 
 Note :-  
 As per our latest update, for [Multivendor API](https://webkul.com/blog/shopify-multivendor-marketplace-app-api/) addon, we have added three new APIs for the hyperlocal marketplace i.e.

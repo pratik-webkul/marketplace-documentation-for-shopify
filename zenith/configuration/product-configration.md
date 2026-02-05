@@ -533,6 +533,25 @@ Both MVM admin and seller panels now include a **Preview** **button** for draft 
 
 Now, Products uploaded via CSV by both sellers and admins have option to select product status either as **Draft** status or Active Status.
 
+ Future Publish for Draft Products
+---------------
+We have added a new option for draft products that allows the admin and seller to set a future publish date.
+
+![image](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/publ.webp)
+
+Once the date is set, the product status will change from Draft to Scheduled for Publish.
+
+![image](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/pblishsch.webp)
+
+Further, once the scheduled date is reached, the product will be automatically published on the frontend.
+
+Also, please note that the Publish Date field will appear for draft products only when the **“Create Product as Draft on Shopify”** setting is enabled.
+
+You can do this by navigating to the Multivendor Admin Panel >> Configuration >> Product Configuration.
+
+![image](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/draftt.webp)
+
+
 **Shopify Taxonomy category added to the product form**
 ------------------------------------------
 We've added a new option to the Product form: Shopify Taxonomy Category, making product categorization easier and more accurate.

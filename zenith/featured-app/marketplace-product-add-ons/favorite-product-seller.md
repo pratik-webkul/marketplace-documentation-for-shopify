@@ -100,6 +100,17 @@ Profile>> Liked customer >> Here you can see the list of customers who liked you
 
 ![Favorite Product/Seller](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/favsfv.webp)
 
+## Discount Code Mail for Your Favorite Product or Seller
+
+We have added a new feature that sends email notifications with discount codes based on customer favorites.
+
+If a customer has marked a seller as a favorite, they will receive an email notification whenever that seller creates any type of discount, along with the discount code.
+
+![image](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/sellerfav.webp)
+
+If a customer has marked a product as a favorite, they will receive an email notification whenever a discount is created for that specific product.
+
+![image](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/produfav.webp)
 
 ### Multivendor Marketplace App for Shopify: Favorite Product/Seller Demo
 
