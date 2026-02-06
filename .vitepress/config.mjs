@@ -205,6 +205,7 @@ export default defineConfig({
                 { text: 'Shopify Magento connector', link: '/zenith/featured-app/connector/shopify-magento-connector' },
                 { text: 'Shopify Prestashop connector', link: '/zenith/featured-app/connector/shopify-prestashop-connector' },
                 { text: 'Soopos connector', link: '/zenith/featured-app/connector/soopos-connector' },
+                { text: 'Squarespace connector', link: '/zenith/featured-app/connector/squarespace-connector' },
                 { text: 'SquareUp connector', link: '/zenith/featured-app/connector/squareup-connector' },
                 { text: 'WooCommerce connector', link: '/zenith/featured-app/connector/woocommerce-connector' }
               ]

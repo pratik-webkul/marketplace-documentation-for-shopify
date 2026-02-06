@@ -99,7 +99,7 @@ Add class to your add to cart button. Copy the code below and add it into **pro
 
 *   On the E-Signature page, you'll find a '+ Add Document' button on the right-hand side. Click it to upload the document on which you'd like to take e-signatures.
 
-![screenshot_1698238327736](hhttps://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/es4.webp)
+![screenshot_1698238327736](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/es4.webp)
 
 On the Add E-Signature Page, you'll find these options:
 
