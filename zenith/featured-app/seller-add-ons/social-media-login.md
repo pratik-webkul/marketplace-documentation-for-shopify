@@ -12,23 +12,23 @@ Let's understand this featured app step by step:-
 ------------------
 Go to the multivendor admin panel >> hover on three dots >> click on feature apps.
 
-![Dashboard-Admin-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/10/Dashboard-Admin-1-1200x608.png)
+![Dashboard-Admin-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/social1.webp)
 
 Now, scroll down and Click on enable to pay for Social media login feature app.
 
-![Screenshot1-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/10/Screenshot1-1-1200x537.png)
+![Screenshot1-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/social2.webp)
 
 Once the admin has paid for this featured app then a sub menu named "SOCIAL MEDIA CONFIGURATION is added under the configuration dropdown.
 
 i.e. Marketplace admin panel>>Configuration>>Social media configuration
 
-![Dashboard-Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/10/Dashboard-Admin-1200x608.png)
+![Dashboard-Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/social3.webp)
 
 Click on social media login configuration and the admin have to enable the LOGIN WITH FACEBOOK and fill in their Facebook API app ID and click SAVE CHANGES.
 
 Similarly, enable the LOGIN WITH GMAIL and fill in their Gmail API client ID and Gmail API secret key click SAVE CHANGES.
 
-![Screenshot-9](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/10/Screenshot-9-1200x548.png)
+![Screenshot-9](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/social4.webp)
 
 1.  Login to your developer account of Facebook through this link - [https://developers.facebook.com/](https://developers.facebook.com/)
 2.  Click on "Create app" button.

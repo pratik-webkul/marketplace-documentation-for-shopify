@@ -43,7 +43,7 @@ To enable this feature app, You need to visit the "Feature Apps" section of the 
 
 Once you get this feature, you need to click on the "Enable" button to activate this feature in Multivendor app.
 
-![Screenshot-90](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/12/Screenshot-90.png)
+![Screenshot-90](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/splitcartfappenbl.webp)
 
 Once you approve the charge for this app, the feature will be installed in your Multivendor Marketplace app.
 
@@ -53,7 +53,7 @@ As soon as the admin installs this feature app, the next step is to enable the S
 
 After that, they also need to add an additional script from the Shopify backend to complete the setup.
 
-![Split cart configuration](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/12/Dashboard-_-Admin.png)
+![Split cart configuration](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/configsplitcart.webp)
 
 Admin will get the the "Split Cart" tab in "**Split Cart Configuration**" section of Multivendor App.
 
@@ -67,13 +67,13 @@ Cart will be split in such a way that there will be "one seller's products in on
 
 Each cart will be validated separately for each seller's products.
 
-![Split cart feature ](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/12/Configuration-_-Admin.png)
+![Split cart feature ](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/enableconfiginstructwtn.webp)
 
 > **Split Cart supports product properties in the App.**
 
 In the Split Cart configuration menu of the app, you will get the option to enable the product properties configuration.
 
-![Add Product properties](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/09/Screenshot-64.png)
+![Add Product properties](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/propertiesfororder.webp)
 
 To make this functionality work for the buyers at the time of order processing, the admin needs to add an additional script from Shopify Backend.
 
@@ -84,7 +84,7 @@ Multivendor Admin Panel>>**Configuration** Menu>>Go to **Instruction for Market
 
 Do refer below screenshot:
 
-![Instruction for Marketplace](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/12/Instructions-_-Admin.png)
+![Instruction for Marketplace](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/codepaste.webp)
 
  New Checkout Process
 ---------------
@@ -92,7 +92,7 @@ If you're using the new checkout page and, as a result, want to enable the split
 
 Firstly, you need to paste this code {% include 'wk-splitcart' %} in the theme.liquid. Once you've added the code, the next step is to generate the attached file.
 
-![New Checkout Process](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/12/splitcart1zon-1200x504.webp)
+![New Checkout Process](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/liquidfile.webp)
 
 Follow the below path to add the code:
 
@@ -159,7 +159,7 @@ Now, you can use this feature with the split cart. This means that you can now d
 
 Just **enable the Store Pickup on cart** and let customers choose an address to pick up the item on the cart page.
 
-![Screenshot-88](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/12/Screenshot-88-1200x617.png)
+![Screenshot-88](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/splitcartstorepickup.webp)
 
 **MARK**:- In case you enable this option "Allow Store Pickup on Cart" for your sellers, your sellers need to configure the store pickup option for **"ALL PRODUCTS"**
 
@@ -167,7 +167,7 @@ From the Split cart configuration menu of their seller panel.
 
 As shown in the below screenshot:
 
-![all products](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/05/Screenshot-2020-05-19T145738.130-1200x482.png)
+![all products](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/configallproduct.webp)
 
 Once you enable this feature for the first time, you will be asked to back up your files to avoid any data loss (**FOR OLD USERS** **ONLY**).
 

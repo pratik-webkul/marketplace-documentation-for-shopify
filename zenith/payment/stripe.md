@@ -360,6 +360,17 @@ then as per the settings configured by the seller on their respective stripe das
 
 ![stripe-balance](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/02/stripe-balance-1200x476.png)
 
+## Description for Stripe Transfers
+
+We have introduced a new option for Stripe transfers that allows admins to add a custom description to payouts.
+
+Thus, when the admin selects Stripe Transfer, a new configuration called **“Set Description in Stripe Transfer”** will be displayed. After enabling this option, the admin can enter any custom description.
+
+This description will then be automatically attached to all Stripe payouts processed through the Multivendor app and will be visible along with the transaction details on the Stripe dashboard.
+
+![image](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/strip.webp)
+
+
 How to configure the Stripe Transfer feature?
 ---------------------------------------------
 

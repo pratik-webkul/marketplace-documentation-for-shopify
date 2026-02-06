@@ -14,7 +14,7 @@ As well for order placed, order fulfilled, order refund, order cancelled, and ma
 ----------------------
 Visit the ‘**Feature app**‘ section from your multivendor marketplace admin panel. Now, click on the enable button to install the app
 
-![screenshot_1678775013217](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/03/screenshot_1678775013217.png)
+![screenshot_1678775013217](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/whatsapp1.webp)
 
 Once done, you need to accept the payment. Further, you can enable the app successfully.
 
@@ -22,7 +22,7 @@ Once done, you need to accept the payment. Further, you can enable the app succe
 ------------------
 As a admin you need to configure the app. Navigate from admin panel **configuration >> WhatsApp Integration Configuration**
 
-![screenshot_1678775885383](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/03/screenshot_1678775885383.png)
+![screenshot_1678775885383](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/whatsapp2.webp)
 
 Now as a admin you need to add following fields in order to start using WhatsApp Notification Feature.
 
@@ -79,7 +79,7 @@ WhatsApp Business Account ID is also listed on same page where WhatsApp Phone Nu
 
 ![WhatsApp Integration](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/02/wh4-1200x525.png)
 
-![screenshot_1678775943562](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/03/screenshot_1678775943562-1200x535.png)
+![screenshot_1678775943562](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/whatsapp3.webp)
 
  How to Get " WHATSAPP ACCESS TOKEN\* "
 ---------------------
@@ -147,7 +147,7 @@ Here in Body variables are created automatically which is define below Body as s
 
 **Now you need to include both of these template in whats-app configuration setting in multivendor app.**
 
-![screenshot_1683232697465](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/05/screenshot_1683232697465-1200x525.png)
+![screenshot_1683232697465](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/whatsapp4.webp)
 
 **Note:** kindly add product template name first and then order template name separated by comma.
 
@@ -155,7 +155,7 @@ Here in Body variables are created automatically which is define below Body as s
 --------------------
 As admin you can configure among the listed notifications as per your requirement.
 
-![screenshot_1678776067635](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/03/screenshot_1678776067635.png)
+![screenshot_1678776067635](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/whatsapp5.webp)
 
 Once everything is done click on save. Now WhatsApp integration feature app will send notifications as per listed above events.
 
@@ -163,7 +163,7 @@ Once everything is done click on save. Now WhatsApp integration feature app will
 -----------------------
 Seller needs to enable Whatsapp notification feature from **configuration >> General Configuration >> Want To Receieve Order/Product Updates On Whatsapp**.
 
-![whatsapp-notification-seller](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/07/whatsapp-notification-seller-1200x616.jpeg)
+![whatsapp-notification-seller](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/whatsapp6.webp)
 
  Notifications on Whatsapp messenger
 -------------------
@@ -175,8 +175,8 @@ Like we have email notifications logs as a admin you can also check the WhatsApp
 
 You can find that under **Mail configuration >> WhatsApp Log**
 
-![screenshot_1678776119244](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/03/screenshot_1678776119244.png)
+![screenshot_1678776119244](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/whatsapp7.webp)
 
 You can find all the logs in this page.
 
-![Whatsapp logs page](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/02/screenshot_1676894281483-1200x449.png)
+![Whatsapp logs page](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/whatsapp7.webp)

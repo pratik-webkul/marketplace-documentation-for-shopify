@@ -37,7 +37,7 @@ To get this feature app firstly, you need to install the Delivery Slot Managemen
 
 Once done, visit the Feature App section and install the app.
 
-![Delivery Slot Management](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/04/Feature-Apps-Admin-1200x556.png)
+![Delivery Slot Management](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/deliveryslot.webp)
 
  Configuration
 ---------------
@@ -65,11 +65,11 @@ Moreover, you can choose if you want to show the admin's or the vendor's deliver
 
 As soon as you enable the feature app, you will have a new sub-menu added to the **Configuration** menu in the app.
 
-![Delivery Slot Management](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/04/Dashboard-Admin-1200x556.png)
+![Delivery Slot Management](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/adminconf.webp)
 
 Now, you need to enable this configuration to allow sellers to add delivery methods and create slots.
 
-![Delivery Slot Management](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/04/DSM-Configuration-Admin-1200x556.png)
+<!-- ![Delivery Slot Management](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/04/DSM-Configuration-Admin-1200x556.png) -->
 
 Sync Seller
 -----------
@@ -78,7 +78,7 @@ You can sync the sellers into the app to allow previously added sellers to creat
 
 For that, visit the Multi-vendor admin panel>>Configuration>>Delivery Slot Management Configuration>>Click **Sync Seller** button.
 
-![Delivery Slot Management](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/05/Screenshot-20-1200x508.png)
+![Delivery Slot Management](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/syncseller.webp)
 
 Thus, the sellers are synced successfully as shown in the screenshot:-
 
@@ -90,22 +90,22 @@ Let's check the configuration on seller end.
 ---------------
 The sellers will add the delivery methods and create slots from their respective seller panels. For this, the seller needs to visit **Configuration**\>>Delivery Slot Management menu.
 
-![Delivery Slot Management-Seller end](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/04/Dashboard-Seller-%E2%80%A2-Multivendor-MarketPlace-1-1200x505.png)
+![Delivery Slot Management-Seller end](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/sellerpanel.webp)
 
 How to Add Delivery Methods?
 ----------------------------
 
 Clicking the **Add Delivery Method** button, the seller can add a new delivery method. The seller can delete or edit any existing delivery methods as well.
 
-![Delivery Slot Management](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/04/Delivery-SLOT-Configuration-Seller-%E2%80%A2-Multivendor-MarketPlace-1200x556.png)
+![Delivery Slot Management](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/adddeliveryme.webp)
 
 The seller will enter the delivery method details and assign delivery slots to the method added.
 
 Moreover, allow customers to reschedule deliveries and reschedule deliveries after fulfillment.
 
-![Delivery Slot Management](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/04/Delivery-SLOT-Configuration-Seller-%E2%80%A2-Multivendor-MarketPlace-1-1200x556.png)
+![Delivery Slot Management](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/slot.webp)
 
-![Delivery Slot Management](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/04/Screenshot-7-1200x441.png)
+![Delivery Slot Management](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/slott.webp)
 
 How To Add Delivery Slots?
 --------------------------
@@ -114,7 +114,7 @@ From the Delivery Slot section, the seller can add delivery slots for the custom
 
 The seller can allow customers to choose either a fixed date or a fixed date & time for the order delivery.
 
-![Delivery Slot Management](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/04/Delivery-SLOT-Configuration-Seller-%E2%80%A2-Multivendor-MarketPlace-2-1200x556.png)
+![Delivery Slot Management](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/deliverysl.webp)
 
 While adding a slot, the needs to enter the delivery information such as title of the slot, delivery type: single or multi-user delivery.
 
@@ -124,7 +124,7 @@ While adding a slot, the needs to enter the delivery information such as title o
 
 Thus, You can allow more than one Customer to book a single slot at a time.
 
-![Delivery Slot Management](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/04/Delivery-SLOT-Configuration-Seller-%E2%80%A2-Multivendor-MarketPlace-3-1200x556.png)
+![Delivery Slot Management](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/slotinfo.webp)
 
 Also, from the **Availability** section, the sellers can configure either Fixed Day Delivery or On-time Delivery options for the customers.
 
@@ -132,11 +132,11 @@ Also, from the **Availability** section, the sellers can configure either Fix
 -------------
 On-time Delivery:- The seller needs to configure this delivery option if they want to allow customers to choose a preferred date & time to get the item delivered to the destination.
 
-![Delivery Slot Management](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/04/Screenshot-8-1200x558.png)
+![Delivery Slot Management](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/onetimedelivery.webp)
 
 Also, the seller will enable the weekdays to let customers choose a date for the order delivery.
 
-![Delivery Slot Management](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/04/Screenshot-9-1200x550.png)
+![Delivery Slot Management](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/slotday.webp)
 
 Thus, the customer will get the option to choose a date & time for the order deliveries.
 
@@ -148,7 +148,7 @@ Fixed-day Delivery:- The seller needs to configure this delivery option if they 
 
 To choose a preferred date (irrespective of time) to get the item delivered to the destination.
 
-![Delivery Slot Management](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/04/Screenshot-10-1200x554.png)
+![Delivery Slot Management](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/fixedday.webp)
 
 Thus, the customer will get the option to choose a date for the order deliveries.
 
@@ -156,15 +156,15 @@ Thus, the customer will get the option to choose a date for the order deliveries
 
 **Overwrite Specific days:-** Moreover, the seller can configure this option if they want to close deliveries on some specific days.
 
-![Delivery Slot Management](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/04/Screenshot-11-1-1200x551.png)
+![Delivery Slot Management](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/overwrite.webp)
 
 **Custom Information**:- Show additional information related to your products.
 
-![Delivery Slot Management](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/04/Screenshot-12-1200x548.png)
+![Delivery Slot Management](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/custominfo.webp)
 
 **Custom Field:-** Also, the seller can add custom fields in case you want to add additional information from the customers at the time of placing an order.
 
-![Delivery Slot Management](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/04/Screenshot-13-1200x552.png)
+![Delivery Slot Management](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/customfield.webp)
 
  Customer End
 ------------
@@ -193,7 +193,7 @@ Additionally, the customer can request the admin to reschedule the deliveries.
 -------------
 You can show seller delivery methods on the cart page of your store. For that, you need to **enable the Split Cart feature app** in the Multi-vendor Marketplace app.
 
-**[Know more about the split cart feature app](https://webkul.com/blog/shopify-multivendor-marketplace-split-cart/)**.
+**[Know more about the split cart feature app](/zenith/featured-app/marketplace-miscellaneous-add-ons/split-cart)**.
 
 Now, visit Multi-vendor admin panel>> **Configuration**\>>Split Cart Configuration>>Enable Allow Delivery Slot tab.
 
@@ -212,7 +212,7 @@ Deliveries
 
 From this section, the seller will have the list of all the order deliveries requested by the customers. Moreover, the seller can edit the delivery and approve & cancel it.
 
-![Delivery Slot Management](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/04/Delivery-SLOT-Configuration-Seller-%E2%80%A2-Multivendor-MarketPlace-4-1200x556.png)
+![Delivery Slot Management](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/deliveries.webp)
 
 So, that’s all about the Delivery Slot Management app for the seller.
 

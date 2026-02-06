@@ -42,17 +42,17 @@ Now, as soon as the Seller Shopify Connector feature app is Active, the sellers 
 
 ![Dashboard-Seller-•-Multivendor-MarketPlace](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/sellersyncapp-1.webp)
 
- NEW WORKFLOW
--------------------------
+  NEW WORKFLOW
+-------------
 To use the features of the seller Shopify connector app, the seller needs to create a custom app for their Shopify store.
 
- How to create a custom app?
-----------------
-Seller have to log in to there shopify partner store, then navigate to the dev dashboard.
+### How to create a custom app?
 
-![dev dashboard](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/02/shopifypartner1-1200x545.webp)
+Seller have to log in to their dev dashboard through [dev.shopify.com](http://dev.shopify.com/) and then log in to the store.
 
-Inside the dev dashboard, click on the create app button.
+![devlogin](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/03/devlogin-1-1200x545.webp)
+
+After logging in to the dev dashboard with your store, click on the create app button.
 
 ![create app for seller shopify store connector](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/02/createapp-1-1200x545.webp)
 
@@ -68,7 +68,7 @@ Now, scroll down and fill in the URLs section.
 
 Follow these steps to find the App URL and Preference URL:-
 
-*   You have to log in to the seller portal >> go to the **"Seller sync app configuration"** inside the Configuration menu >> copy the App URL from there >> paste it into the App URL and Preferences URL block.
+*   You have to log in to the multivendor seller portal >> go to the **"Seller sync app configuration"** inside the Configuration menu >> copy the App URL from there >> paste it into the App URL and Preferences URL block.
 
 ![capy app url seller ](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/02/copyappurl-1200x545.webp)
 
@@ -87,66 +87,50 @@ And, paste it here in the Redirect URL along with the App URL. Only use a comma 
 ![paste other url](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/02/pasteredirecturl-1200x545.webp)
 
  REQUIRED PERMISSIONS FOR CUSTOM APP (New Workflow)
----------------------
+-------------
 **Here are the required permissions for the custom seller app**:
 
 Assigned fulfilment orders _(**Read and write**)  
 _# `write_assigned_fulfillment_orders` , `read_assigned_fulfillment_orders`
 
 Fulfilment services _(**Read and write**)  
-_\# `read_fulfillments`, `write_fulfillments`
+_\# read\_fulfillments, write\_fulfillments
 
 Inventory _(**Read and write**)  
-_\# `read_inventory`, `write_inventory`
+_\# read\_inventory, write\_inventory
 
 Locations _(**Read Access**)  
-_\# `read_locations`
+_\# read\_locations
 
 Order Editing _(**Read and write**)  
-_\# `read_orders`, `write_orders`  
+_\# read\_orders, write\_orders  
 **First**, allow this permission if you want any edits made on the merchant’s store to be automatically synced with the seller’s store.
 
 **As a result**, the seller will always see the most up-to-date order details.
 
 Orders _(**Read and write**)  
-_\# `read_orders`, `write_orders`
+_\# read\_orders, write\_orders
 
 Products _**(Read and write)**_  
-\# `read_products`, `write_products`
+\# read\_products, write\_products
 
 Markets  
 # read\_markets\_home
 
-Customer Permissions(**Read and write**)
-\ `read_customers` , `write_customers`
+Customer permissions  
+#read\_customers,write\_customers
 
 Now, copy these required permissions and paste them into the scope block altogether:-
 
 `write_assigned_fulfillment_orders,read_assigned_fulfillment_orders,read_fulfillments, write_fulfillments,read_inventory,`
 
-`write_inventory,read_locations,read_orders, write_orders,read_products, write_products,read_markets_home` , `read_customers` , `write_customers`
+`write_inventory,read_locations,read_orders, write_orders,read_products, write_products,read_markets_home`,`read_customers,write_customers`
 
 ![scope](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/02/scopes-1200x545.webp)
 
 Then, click on Release. A field to enter the version name will appear. You can fill it in or leave it blank; the name will be auto-generated. Click on release.
 
 ![release version](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/02/versionname-1-1200x545.webp)
-
-Go back to your Shopify partner account >> navigate to "App distribution" >> All apps >> then click on the custom app you created.
-
-![app distribution](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/02/appdistribution-1-1200x545.webp)
-
-Go to the API access request section, scroll down, and click on the "Request access" button under the "Protected customer data access" section.
-
-![request access](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/02/requestaccess-1200x545.webp)
-
-Inside the "Protected customer data access" section, click on the select option in the "Protected customer data" section.
-
-![ click select](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/02/clickselect-1200x545.webp)
-
-Now select all the options except the "other" option and click on save.
-
-![select saccess](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/02/selectaccess-832x1024.webp)
 
 Go back to your dev dashboard, open the app you just created, and navigate to the settings and copy the client ID from the "Credential" section.
 
@@ -156,11 +140,11 @@ Paste the client ID in the "Api key" block in the **"Seller sync app configurati
 
 ![api key](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/02/apikey-1200x545.webp)
 
-Now copy the "Secret Key" from the "Credential" section.
+Now, copy the "Secret Key" from the "Credential" section.
 
 ![copy secret key](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/02/copysecreatkey-1200x545.webp)
 
-Paste it here.
+Paste it here in the "Secret Key" block.
 
 ![paste secret key](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/02/pastesecreatkey-1200x545.webp)
 
@@ -170,13 +154,32 @@ And now paste the seller's Shopify store URL here.
 
 And, click on the "save and install" button at the bottom.
 
-After clicking on the "save and install" button, you will be redirected to the seller shopify store to install the app. Click on Install.
+After clicking on the "save and install" button, you will be redirected to the seller shopify store to install the app.
+
+But, if you get an error message like shown in this image below, then follow the process given below the image.
+
+![error](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/03/error-1200x545.webp)
+
+ ### Follow this process if you get the error shown in the above image:-
+
+Go back to your Shopify partner account >> navigate to "App distribution" >> All apps >> then click on the custom app you created.
+
+![app distribution](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/02/appdistribution-1-1200x545.webp)
+
+Select the "Custom Distribution" option and click Select.
+
+![customdistribution](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/03/customdistribution-1200x545.webp)
+
+After this, you will be redirected to this page, and you have to ignore this page.
+
+![ignore](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/03/ignore-1200x545.webp)
+
+Then, go back to your **Multivendor seller panel** and navigate to the **“**Seller sync app configuration**”** section under the **Configuration** menu.
+
+After filling in all the required details, click on **“Save & Install”**.  
+Once you complete this step, the system redirects you to your Shopify store. Click on the **Install** button, and the system installs the app successfully.
 
 ![install ](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/02/installapp-1200x545.webp)
-
-After this, the system installs the custom app in the seller’s Shopify store, allowing you to access all other features of the **Seller Shopify Connector App**.
-
-![full access](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/02/fullaccess-1-1200x545.webp)
 
  LEGACY WORKFLOW (Old)
 ------------------

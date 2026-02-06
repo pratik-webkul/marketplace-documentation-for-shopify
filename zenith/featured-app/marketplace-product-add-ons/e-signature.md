@@ -30,7 +30,7 @@ Enable the E-Signature feature app by following the below steps:
 *   Search for **‘E-Signature‘** & click on ‘**Enable**‘
 *   After accepting the charges, you’ll be good to configure the app.
 
-![screenshot_1698238037016](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/10/screenshot_1698238037016-1200x619.png)
+![screenshot_1698238037016](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/es1.webp)
 
  Need to add code to allow customers to e-sign on pdf on the product page
 --------------------
@@ -87,7 +87,7 @@ Add class to your add to cart button. Copy the code below and add it into **pro
 4.  Locate/search for **"ALLOW SELLER TO ADD E-SIGNATURE DOCUMENTS"** and Enable it.
 5.  Save the changes.
 
-![screenshot_1698242819211](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/10/screenshot_1698242819211-1200x619.png)
+![screenshot_1698242819211](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/es2.webp)
 
  Add Document for E-Signature: Admin End
 --------------
@@ -95,11 +95,11 @@ Add class to your add to cart button. Copy the code below and add it into **pro
 *   Navigate to Products
 *   Click on E-Signature from the dropdown options.
 
-![screenshot_1698238252666](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/10/screenshot_1698238252666-1200x619.png)
+![screenshot_1698238252666](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/es3.webp)
 
 *   On the E-Signature page, you'll find a '+ Add Document' button on the right-hand side. Click it to upload the document on which you'd like to take e-signatures.
 
-![screenshot_1698238327736](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/10/screenshot_1698238327736-1200x619.png)
+![screenshot_1698238327736](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/es4.webp)
 
 On the Add E-Signature Page, you'll find these options:
 
@@ -107,11 +107,11 @@ On the Add E-Signature Page, you'll find these options:
 
 *   **Choose Specific Seller:** This choice allows you to pick an individual seller for whom you want to create or associate an E-Signature document. To do this, you need to enter the seller's email address, and the document will be linked to that particular seller.
 
-![ADD-E-SIGNATURE-DOCUMENT-Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/10/ADD-E-SIGNATURE-DOCUMENT-Admin-1197x1024.png)
+![ADD-E-SIGNATURE-DOCUMENT-Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/es5.webp)
 
 *   **Choose For All Sellers**: If the admin wants to add an E-Signature document that applies to all the sellers in your marketplace at once, you can select the "Choose All Sellers" option. This means the document will be available for every seller.
 
-![ADD-E-SIGNATURE-DOCUMENT-Admin-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/10/ADD-E-SIGNATURE-DOCUMENT-Admin-1-1200x939.png)
+![ADD-E-SIGNATURE-DOCUMENT-Admin-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/es6.webp)
 
 **2) DOCUMENT NAME**: The admin can name an e-signature document for easy reference.
 
@@ -135,7 +135,7 @@ After this, a new page labeled 'Edit E-Signature Document' will appear. Here, th
     
 *   Place Custom Field
 
-![ADD-E-SIGNATURE-DOCUMENT-Admin-2](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/10/ADD-E-SIGNATURE-DOCUMENT-Admin-2-1200x747.png)
+![ADD-E-SIGNATURE-DOCUMENT-Admin-2](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/es7.webp)
 
 Within the Document name section, you can easily edit or update the name of the E-signature document.
 
@@ -143,17 +143,17 @@ In the Custom Fields section, you have the flexibility to incorporate custom fie
 
 _**NOTE:** You can create a maximum of 40 custom fields for the e-signature document._
 
-![screenshot_1698240071342](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/10/screenshot_1698240071342-1200x619.png)
+![screenshot_1698240071342](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/es8-1.webp)
 
 As for the Place Custom Field section, it offers a selection of all the custom fields you've added, allowing you to place them in your uploaded document at your preferred location for e-signatures.
 
-![screenshot_1698241091950](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/10/screenshot_1698241091950-1200x614.png)
+![screenshot_1698241091950](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/es9-1.webp)
 
-![ADD-E-SIGNATURE-DOCUMENT-Admin-3](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/10/ADD-E-SIGNATURE-DOCUMENT-Admin-3-940x1024.png)
+![ADD-E-SIGNATURE-DOCUMENT-Admin-3](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/es10-1.webp)
 
 You have the flexibility to edit, delete, disable, and change the uploaded document.
 
-![screenshot_1698241856955](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/10/screenshot_1698241856955-1200x619.png)
+![screenshot_1698241856955](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/es11-1.webp)
 
  Assign a document for E-signature in your products
 -------------
@@ -161,11 +161,11 @@ When adding a new product, you'll conveniently find the option to select an exis
 
 This streamlined process makes it easy to apply the chosen document to the product.
 
-![screenshot_1698242360514](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/10/screenshot_1698242360514-1200x618.png)
+![screenshot_1698242360514](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/es12-1.webp)
 
 Admins have the ability to review e-signed documents for any specific order by simply editing that order at any time.
 
-![screenshot_1698309173097](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/10/screenshot_1698309173097-1200x531.jpeg)
+![screenshot_1698309173097](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/es13-1.webp)
 
  Seller End
 ----------------
@@ -175,17 +175,17 @@ This allows sellers to seamlessly integrate E-signature documents into their pro
 
 Sellers can also edit, delete, disable, and change the uploaded document for e-signature.
 
-![screenshot_1698243003107](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/10/screenshot_1698243003107-1200x619.jpeg)
+![screenshot_1698243003107](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/es14.webp)
 
-![ADD-E-SIGNATURE-DOCUMENT-Seller-•-Multivendor-MarketPlace](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/10/ADD-E-SIGNATURE-DOCUMENT-Seller-%E2%80%A2-Multivendor-MarketPlace-1200x918.png)
+![ADD-E-SIGNATURE-DOCUMENT-Seller-•-Multivendor-MarketPlace](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/es15.webp)
 
-![screenshot_1698315804974](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/10/screenshot_1698315804974-1200x619.png)
+![screenshot_1698315804974](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/es16.webp)
 
-![screenshot_1698316073116](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/10/screenshot_1698316073116-1200x617.png)
+![screenshot_1698316073116](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/es17.webp)
 
-![screenshot_1698316102812](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/10/screenshot_1698316102812-1200x619.png)
+![screenshot_1698316102812](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/es18.webp)
 
-![screenshot_1698316238744](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/10/screenshot_1698316238744-1200x618.png)
+![screenshot_1698316238744](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/es19.webp)
 
  Customer End
 --------------

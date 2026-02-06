@@ -24,19 +24,19 @@ In the app, admin can allow sellers to add products in bulk via CSV. For this, t
 
 Go to the **Product Configuration** menu >>Enable **Add Product by CSV** tab.
 
-![Product Configuration](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/07/19133301/AwesomeScreenshot-Configuration-Admin-2019-07-19-19-07-68.png)
+![Product Configuration](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/zsdwzwdwed.webp)
 
 Admin Panel: Product Configuration
 
 As soon as the admin configures the details, the option to add products via CSV gets reflected at the respective seller panels.
 
-![Add product by CSV](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/07/19133708/AwesomeScreenshot-Product-Seller-Multivendor-MarketPlace-2019-07-19-19-07-26.png)
+![Add product by CSV](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/zwrfwergzergz.webp)
 
 Seller Panel: Products
 
 Now, the seller will click the **Add Product by CSV** button & choose the methods using which he/she wants to upload products in bulk.
 
-![add product in bulk](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/04/Add-Product-By-CSV-Seller-%E2%80%A2-Multivendor-MarketPlace-ssssssssssss-918x1024.png)
+![add product in bulk](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/csvaddmethod.webp)
 
 The seller will get the instruction file in the app.
 
@@ -71,7 +71,7 @@ The image field must contain the URLs of the product Images if the seller is usi
 
 If the seller will use the local path images in the CSV file, it throws an error as shown in the below screenshot:
 
-![CSV file error](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/07/22090419/Screenshot-8-1.png)
+![CSV file error](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/zedqewfeferf.webp)
 
 CSV File Error
 
@@ -122,7 +122,7 @@ Adding additional columns in the product CSV results in the column mismatch issu
 
 This is the reason we suggest you download the sample CSV & make the changes in the existing file as per your requirements to avoid column mismatch issues.
 
-![Seller Panel-Product Upload](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/07/23084825/AwesomeScreenshot-Add-Product-By-CSV-Seller-Multivendor-MarketPlace-2019-07-23-14-07-34.png)
+![Seller Panel-Product Upload](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/csvfileuploadinssample.webp)
 
 Seller Panel-Upload Product in Bulk
 
@@ -154,23 +154,24 @@ Thus, the sellers will be adding only those tags, types & collections to product
 > In simple words:-  
 > If you have **restricted the product tags**, **product types** & **collections** in the app, make sure that only those restricted options are added in the CSV file.
 
-![Restriction Configuration](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/12/Configuration-Admin-2-2-1200x627.png)
+![Restriction Configuration](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/sdferdgfreg.webp)
 
-### Restrict Collection Based On Product Type
+## Restrict Collection Based On Product Type
 
-Now, the Admins can **restrict collections based on the Product Type** when products are added via CSV.
+Now, the Admins can restrict collections based on the Product Type when products are added via CSV.
 
-![Restrict collection](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/07/res-1200x717.webp)
+![image](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/ecfefercerccre.webp)
 
 If the above configuration is enabled, and a specific collection is assigned to a product type.
 
-![Edit Product type](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/07/pro-1200x717.webp)
+![image](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/csvproducttype.webp)
 
-Then, while filling in the CSV, the **seller or admin must select the correct collection for the respective product type**.
+Then, while filling in the CSV, the seller or admin must select the correct collection for the respective product type.
 
-If the correct collection is not selected, an **error will be shown during CSV validation**.
+If the correct collection is not selected, an error will be shown during CSV validation.
 
-_Note: The Admin will need to enable the **Restrict collection** in order to add collection in the multivendor app._
+Note: The Admin will need to enable the Restrict collection in order to add collection in the multivendor app.
+
 
 ### Add Product Description in One Line
 

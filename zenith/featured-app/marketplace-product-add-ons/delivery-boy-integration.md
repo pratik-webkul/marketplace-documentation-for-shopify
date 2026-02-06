@@ -25,15 +25,15 @@ Let’s understand the workflow.
 
  Installation
 ----------------
-![feature](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/07/feature.png)
+![feature](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/db1.webp)
 
-![delivery-6](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/07/delivery-6-1200x627.png)
+![delivery-6](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/db2.webp)
 
 Now once you have clicked on the “Enable” button you will be first asked to install and configure the “Delivery boy App by Webkul” app.
 
 And as soon as you agree with this condition you will get the Delivery boy App installed on your store.
 
-![image7](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/07/image7-1200x465.png)
+![image7](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/db3.webp)
 
  DELIVERY BOY CONFIGURATION
 -----------------
@@ -41,7 +41,7 @@ After the delivery boy integration app is enabled, go to "**Delivery boy configu
   
 **Go to configuration >> Delivery boy configuration**
 
-![delivery-boy-ss1-](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/07/delivery-boy-ss1--1200x619.png)
+![delivery-boy-ss1-](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/db4.webp)
 
 Now, enable the "**Allow sellers to add their warehouse details**"
 
@@ -49,16 +49,16 @@ And paste your google map access token and select a distance unit from the dropd
   
 **Note**:- Google map access token is required for enabling delivery boy integration featured app.
 
-![delivery-boy-ss2](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/07/delivery-boy-ss2-1200x772.png)
+![delivery-boy-ss2](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/db5.webp)
 
   
 After this, the seller will also enable the delivery boy integration from his/ her seller panel >> Configuration >> delivery boy configuration >> enable "delivery boy integration."
 
 And click "SAVE" button.
 
-![Screenshot-11](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/09/Screenshot-11.png)
+![Screenshot-11](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/db6.webp)
 
-![Screenshot1-8](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/09/Screenshot1-8.png)
+![Screenshot1-8](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/db7.webp)
 
 By enabling the delivery boy integration, by default, the seller's address will be added as his/her warehouse address.
 
@@ -67,11 +67,11 @@ Profile >> My Account >> Scroll down.
 
 And click on the "EDIT WAREHOUSE" button.
 
-![Screenshot4-6](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/09/Screenshot4-6.png)
+![Screenshot4-6](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/db8.webp)
 
 In warehouse detail, the seller needs to fill in his warehouse address, latitude, longitude, and proximity distance.
 
-![delivery-boy-4.2](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/07/delivery-boy-4.2-1200x968.png)
+![delivery-boy-4.2](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/db9.webp)
 
   
 After the seller has added the warehouse then in the **delivery boy app by webkul**.
