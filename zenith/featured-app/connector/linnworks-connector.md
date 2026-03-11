@@ -28,13 +28,13 @@ Admin can also decide how he wants to charge tax on the products.
 -----------------------
 Visit **Multivendor Admin Panel** > **Feature Apps** \> **Enable** the add-on:
 
-![Feature-Apps-Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/lin.webp)
+[![Feature-Apps-Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/lin.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/lin.webp)
 
 Once enabled, you need to configure it.
 
 Visit **Multivendor Admin Panel** > **Configuration** > **Linnworks** **Configuration** > Enter the required details- **Application ID**, **Application Secret**, **Installation URL** & **Channel Name**:
 
-![Linnworks-App-Configuration-Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/10/Linnworks-App-Configuration-Admin-1200x940.png)
+[![Linnworks-App-Configuration-Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/10/Linnworks-App-Configuration-Admin-1200x940.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/10/Linnworks-App-Configuration-Admin-1200x940.png)
 
 At the end of this page, you will have the Manifest that you can download. You will need them at the time you'll create an app on Linnworks.
 
@@ -42,19 +42,19 @@ At the end of this page, you will have the Manifest that you can download. You w
 ---------------------------------
 Visit [](https://developer.linnworks.com/)[developer.linnworks.com/](https://developer.linnworks.com/) and login:
 
-![Sign-In-Linnworks-Developer-Portal](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/08/Sign-In-Linnworks-Developer-Portal-1200x592.png)
+[![Sign-In-Linnworks-Developer-Portal](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/08/Sign-In-Linnworks-Developer-Portal-1200x592.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/08/Sign-In-Linnworks-Developer-Portal-1200x592.png)
 
 Click on **New App**:
 
-![Applications-www-linnworks-net](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/08/Applications-www-linnworks-net-1200x597.png)
+[![Applications-www-linnworks-net](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/08/Applications-www-linnworks-net-1200x597.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/08/Applications-www-linnworks-net-1200x597.png)
 
 Now, enter the name of the application (it could be anything) and select **Channel Integration** as application type:
 
-![Applications-www-linnworks-net-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/08/Applications-www-linnworks-net-1-1200x597.png)
+[![Applications-www-linnworks-net-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/08/Applications-www-linnworks-net-1-1200x597.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/08/Applications-www-linnworks-net-1-1200x597.png)
 
 On the redirected page, click on **App Modules** > **Switch to text editor**:
 
-![Edit-Application-www-linnworks-net](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/08/Edit-Application-www-linnworks-net-1200x597.png)
+[![Edit-Application-www-linnworks-net](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/08/Edit-Application-www-linnworks-net-1200x597.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/08/Edit-Application-www-linnworks-net-1200x597.png)
 
 Copy-paste the Manifest that you have downloaded from the Linnworks Configuration page of the Multivendor Marketplace App & save:
 
@@ -79,11 +79,11 @@ Also, these fields which will be found only once in the manifest:
 
 Maximum length is 20 characters.
 
-![Edit-Application-www-linnworks-net-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/08/Edit-Application-www-linnworks-net-1-1200x597.png)
+[![Edit-Application-www-linnworks-net-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/08/Edit-Application-www-linnworks-net-1-1200x597.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/08/Edit-Application-www-linnworks-net-1-1200x597.png)
 
 Under the General tab, you will have the Application ID, Secret & Installation URL:
 
-![Edit-Application-www-linnworks-net-2](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/08/Edit-Application-www-linnworks-net-2-1200x597.png)
+[![Edit-Application-www-linnworks-net-2](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/08/Edit-Application-www-linnworks-net-2-1200x597.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/08/Edit-Application-www-linnworks-net-2-1200x597.png)
 
 Furthermore, add these to the Linnworks Configuration page of the Marketplace App.
 
@@ -91,7 +91,7 @@ Furthermore, add these to the Linnworks Configuration page of the Marketplace Ap
 ------------------
 Visit **Multivendor Admin Panel** \> **Configuration** > **Connector Configuration**:
 
-![Connector-Configurations-Admin-2](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/lin3.webp)
+[![Connector-Configurations-Admin-2](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/lin3.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/lin3.webp)
 
 Choose whether you want to auto-update the following product details on Marketplace when the seller updates them on Linnworks:
 
@@ -114,7 +114,7 @@ Next, choose how you want to charge tax on products:
 *   Customer Name
 *   Email ID
 
-![Connector-Configurations-Admin-3](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/lin4.webp)
+[![Connector-Configurations-Admin-3](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/lin4.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/lin4.webp)
 
  Seller Panel: Configuration
 ------------------
@@ -122,65 +122,65 @@ The sellers need to visit **Multivendor Seller Panel** > **Configuration** > **L
 
 Further, they need to download **Shopify Linnworks App**:
 
-![Linnworks-Details-Seller-•-Multivendor-MarketPlace-1200x597-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/lin5.webp)
+[![Linnworks-Details-Seller-•-Multivendor-MarketPlace-1200x597-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/lin5.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/lin5.webp)
 
 The seller will land on a page where they will need to login to their Linnworks account:
 
-![Linnworks-net-Authorize-Application](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/08/Linnworks-net-Authorize-Application-1200x597.png)
+[![Linnworks-net-Authorize-Application](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/08/Linnworks-net-Authorize-Application-1200x597.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/08/Linnworks-net-Authorize-Application-1200x597.png)
 
 After login, install the app:
 
-![Linnworks-net-Authorize-Application-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/08/Linnworks-net-Authorize-Application-1-1200x597.png)
+[![Linnworks-net-Authorize-Application-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/08/Linnworks-net-Authorize-Application-1-1200x597.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/08/Linnworks-net-Authorize-Application-1-1200x597.png)
 
 Once installed, you will have this success message:
 
-![Linnworks-net-Authorize-Application-2](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/08/Linnworks-net-Authorize-Application-2-1200x597.png)
+[![Linnworks-net-Authorize-Application-2](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/08/Linnworks-net-Authorize-Application-2-1200x597.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/08/Linnworks-net-Authorize-Application-2-1200x597.png)
 
  Channel Integration
 ------------------
 Visit [linnworks.net](https://www.linnworks.net/) & go to **Settings** > **Channel Integartion**:
 
-![Homepage-www-linnworks-net](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/10/Homepage-www-linnworks-net-1200x597.png)
+[![Homepage-www-linnworks-net](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/10/Homepage-www-linnworks-net-1200x597.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/10/Homepage-www-linnworks-net-1200x597.png)
 
 Click on **Add New**:
 
-![Channel-Integration-www-linnworks-net](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/10/Channel-Integration-www-linnworks-net-1200x597.png)
+[![Channel-Integration-www-linnworks-net](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/10/Channel-Integration-www-linnworks-net-1200x597.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/10/Channel-Integration-www-linnworks-net-1200x597.png)
 
 Search for the channel & install:
 
-![Channel-Integration-www-linnworks-net-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/10/Channel-Integration-www-linnworks-net-1-1200x597.png)
+[![Channel-Integration-www-linnworks-net-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/10/Channel-Integration-www-linnworks-net-1-1200x597.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/10/Channel-Integration-www-linnworks-net-1-1200x597.png)
 
 Enter an account name for your own reference. This should be a unique name to help you to identify the integration within the system.
 
-![Channel-Integration-www-linnworks-net-3](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/10/Channel-Integration-www-linnworks-net-3-1200x597.png)
+[![Channel-Integration-www-linnworks-net-3](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/10/Channel-Integration-www-linnworks-net-3-1200x597.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/10/Channel-Integration-www-linnworks-net-3-1200x597.png)
 
 Agree to the terms & conditions and proceed:
 
-![Channel-Integration-www-linnworks-net-4](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/10/Channel-Integration-www-linnworks-net-4-1200x597.png)
+[![Channel-Integration-www-linnworks-net-4](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/10/Channel-Integration-www-linnworks-net-4-1200x597.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/10/Channel-Integration-www-linnworks-net-4-1200x597.png)
 
 Add the account name. This should be unique.
 
-![fdd9f25d0bc61254d21df23e9a8041c0](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/04/fdd9f25d0bc61254d21df23e9a8041c0-1200x603.png)
+[![fdd9f25d0bc61254d21df23e9a8041c0](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/04/fdd9f25d0bc61254d21df23e9a8041c0-1200x603.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/04/fdd9f25d0bc61254d21df23e9a8041c0-1200x603.png)
 
 Finish:
 
-![Channel-Integration-www-linnworks-net-6](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/10/Channel-Integration-www-linnworks-net-6-1200x597.png)
+[![Channel-Integration-www-linnworks-net-6](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/10/Channel-Integration-www-linnworks-net-6-1200x597.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/10/Channel-Integration-www-linnworks-net-6-1200x597.png)
 
 Now, enable the integration:
 
-![Channel-Integration-www-linnworks-net-7](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/10/Channel-Integration-www-linnworks-net-7-1200x597.png)
+[![Channel-Integration-www-linnworks-net-7](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/10/Channel-Integration-www-linnworks-net-7-1200x597.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/10/Channel-Integration-www-linnworks-net-7-1200x597.png)
 
 You can edit **channel location mapping**:
 
-![Channel-Integration-www-linnworks-net-8](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/10/Channel-Integration-www-linnworks-net-8-1200x597.png)
+[![Channel-Integration-www-linnworks-net-8](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/10/Channel-Integration-www-linnworks-net-8-1200x597.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/10/Channel-Integration-www-linnworks-net-8-1200x597.png)
 
 Product mapping can also be done:
 
-![Channel-Mapping-www-linnworks-net](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/10/Channel-Mapping-www-linnworks-net-1200x597.png)
+[![Channel-Mapping-www-linnworks-net](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/10/Channel-Mapping-www-linnworks-net-1200x597.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/10/Channel-Mapping-www-linnworks-net-1200x597.png)
 
 Now, visit **Multivendor Seller Panel** > **Configuration** > **Linnworks Configuration** (refresh the page manually):
 
-![Linnworks-Details-Seller-•-Multivendor-MarketPlace](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/12/Linnworks-Details-Seller-%E2%80%A2-Multivendor-MarketPlace-1200x859.png)
+[![Linnworks-Details-Seller-•-Multivendor-MarketPlace](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/12/Linnworks-Details-Seller-%E2%80%A2-Multivendor-MarketPlace-1200x859.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/12/Linnworks-Details-Seller-%E2%80%A2-Multivendor-MarketPlace-1200x859.png)
 
 Select the weight unit of linnworks store and the currency. Also, save the changes.
 
@@ -188,11 +188,11 @@ Click on **Import Products** to import products from Linnworks. Here, you can im
 
 Enter comma-separated SKUs or CSVs to import them:
 
-![Import-Product-From-Linnworks-Seller-•-Multivendor-MarketPlace](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/12/Import-Product-From-Linnworks-Seller-%E2%80%A2-Multivendor-MarketPlace-1200x893.png)
+[![Import-Product-From-Linnworks-Seller-•-Multivendor-MarketPlace](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/12/Import-Product-From-Linnworks-Seller-%E2%80%A2-Multivendor-MarketPlace-1200x893.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/12/Import-Product-From-Linnworks-Seller-%E2%80%A2-Multivendor-MarketPlace-1200x893.png)
 
 Lastly, the imported products will be listing under product listing section. They can be manually synced with the store if needed:
 
-![Product-Seller-•-Multivendor-MarketPlace](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/lin8.webp)
+[![Product-Seller-•-Multivendor-MarketPlace](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/lin8.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/lin8.webp)
 
  Connector Price Rules
 ------------------
@@ -209,5 +209,5 @@ So, you need to select the price rule to be incremented or decremented. Price ch
 
 If you are setting this up after syncing products then click on the checkbox so that the price of previously added products is changed automatically as per the rule set.
 
-![Price-Rule-Seller-•-Multivendor-MarketPlace](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/lin9.webp)
+[![Price-Rule-Seller-•-Multivendor-MarketPlace](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/lin9.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/lin9.webp)
 

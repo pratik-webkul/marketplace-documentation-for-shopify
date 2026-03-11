@@ -28,7 +28,7 @@ Enable the following app by visiting:
 *   Search for ‘**Bring**‘ & click on ‘**Enable**‘
 *   After accepting the charges, you’ll be good to configure the app!
 
-![image-28](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/enablebring.webp)
+[![image-28](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/enablebring.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/enablebring.webp)
 
  Configuration: Admin End
 ---------------------
@@ -38,11 +38,11 @@ Firstly, the admin needs to enable this shipping method from the shipping config
 
 Click on the **three dots** under the **Action** menu & further, click on **enable**.
 
-![image-29](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/enabletwobring.webp)
+[![image-29](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/enabletwobring.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/enabletwobring.webp)
 
 Moving on, the admin needs to configure the Bring. So, for this, click on **Configure Shipping**. Refer:
 
-![image-30](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/configureshippingbring.webp)
+[![image-30](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/configureshippingbring.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/configureshippingbring.webp)
 
  Bring Shipping Configuration
 -----------------------
@@ -56,13 +56,13 @@ On the following page, configure the following details:
 *   Parcel and Pallets: Enter PARCELS NORWAY INTERNATIONAL customer number provided by Bring.
 *   Parcels: Enter PARCELS\_NORWAY customer number provided by Bring.
 
-![image-31](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/bringconfigadmin.webp)
+[![image-31](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/bringconfigadmin.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/bringconfigadmin.webp)
 
 *   Usage as: Fulfillment or Both (Fulfillment + Shipping)
 *   Shipping label cost is borne by: Choose who will bear the shipping label charges, the admin, or the seller. (This is an extra cost apart from what the customer has paid.)
 *   Choose carrier for shipping & fulfillment
 
-![image-32](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/bringconfigadmintwo.webp)
+[![image-32](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/bringconfigadmintwo.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/bringconfigadmintwo.webp)
 
  Set Shipping Method For Sellers
 ------------------------
@@ -70,15 +70,15 @@ The admin can further set the shipping methods for his sellers. Go to **multi v
 
 On the edit seller page, the admin will have the following block from where he can enable/disable/set as default:
 
-![image-33](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/setasdefaultbring.webp)
+[![image-33](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/setasdefaultbring.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/setasdefaultbring.webp)
 
 Further, the admin can view all the sellers which are using this shipping method by going to **multi vendor marketplace admin panel** > **configuration** > **Shipping** **Configuration**:
 
-![image-34](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/viewsellersbring.webp)
+[![image-34](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/viewsellersbring.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/viewsellersbring.webp)
 
 The redirected page:
 
-![image-36](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/editsellerbring.webp)
+[![image-36](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/editsellerbring.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/editsellerbring.webp)
 
 Here, clicking on the ‘Edit’ button for a particular seller will redirect you to the ‘Edit Seller’ page
 
@@ -86,7 +86,7 @@ From where you can disable the following shipping method for that seller (as sho
 
 The admin can allow sellers to create pickup request from edit seller page:
 
-![image-46](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/bringcreatepickup.webp)
+[![image-46](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/bringcreatepickup.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/bringcreatepickup.webp)
 
  Make **Shipping** **Address Phone Number** Mandatory
 --------------------
@@ -94,7 +94,7 @@ To use this feature add-on, the admin needs to make the **shipping** **address
 
 So, to do this, go to **Shopify Backend** > **Settings** > **Checkout** > Under **Form Options**, make **Shipping** **address phone number** as **Required**:
 
-![133](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/09/demo-store-Checkout-Shopify-1200x597.png)
+[![133](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/09/demo-store-Checkout-Shopify-1200x597.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/09/demo-store-Checkout-Shopify-1200x597.png)
 
  Configuration: Seller End
 ------------------------
@@ -102,13 +102,13 @@ Further, the seller can configuration Bring from his panel.
 
 Go to **Multi-Vendor Marketplace Seller Panel** > **Configuration** > **Shipping Configuration**\> **Enable**/**Disable** the shipping:
 
-![image-37](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/sellersetasdefaultbring.webp)
+[![image-37](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/sellersetasdefaultbring.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/sellersetasdefaultbring.webp)
 
 Furthermore, the seller can set the shipping method as **by-default** so that every single product created by him will have **Bring** as the **by-default shipping method**.
 
 Clicking on ‘**Set As Default**‘ will give you the following dialogue box:
 
-![image-38](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/setasdefaultbringtwo.webp)
+[![image-38](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/setasdefaultbringtwo.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/setasdefaultbringtwo.webp)
 
 Set Default Shipping Method For Products:
 
@@ -120,17 +120,17 @@ If not this, the seller can set the shipping method on individual products while
 
 So, go to **Multi-vendor marketplace seller panel** > **Products** >**Product Listing** \> **Add**/**Edit** the Product:
 
-![image-39](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/shippingmethodbring.webp)
+[![image-39](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/shippingmethodbring.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/shippingmethodbring.webp)
 
 ### **Global Configuration**
 
 Further, click on the **Global Configuration** menu:
 
-![image-40](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/globalconfigallsellerside.webp)
+[![image-40](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/globalconfigallsellerside.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/globalconfigallsellerside.webp)
 
 So, from here, the seller can do the **SHIPPING PACKET CONFIGURATION**:
 
-![image-41](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/05/image-41-1200x597.png)
+[![image-41](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/05/image-41-1200x597.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/05/image-41-1200x597.png)
 
 **NOTE**: It is mandatory to add product weight while creating one.
 
@@ -138,7 +138,7 @@ So, from here, the seller can do the **SHIPPING PACKET CONFIGURATION**:
 
 Likewise, the customer will have an option to select the shipping method as per configured from the backend after entering the information:
 
-![image-43](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/05/image-43.png)
+[![image-43](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/05/image-43.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/05/image-43.png)
 
  Shipping Label Generation
 -----------------------
@@ -148,12 +148,12 @@ Seller will have an option to generate the shipping label from their seller pane
 
 Go to **Multi-vendor marketplace seller panel** > **Orders** > **Order Listing** > **View** (under **Action**). Select the method of order fulfillment as **Bring** and fulfill the order.
 
-![image-42](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/orderfullpage.webp)
+[![image-42](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/orderfullpage.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/orderfullpage.webp)
 
 
 Furthermore, this is how the shipping label will be downloaded in pdf form:
 
-![image-45](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/05/image-45.png)
+[![image-45](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/05/image-45.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/05/image-45.png)
 
  Create A Pickup Request
 ---------------------
@@ -161,13 +161,13 @@ The seller can generate a pickup request for the Bring services to pick the orde
 
 For this, go to ADDITIONAL ORDER DETAILS, click on **Actions** > **Create Pickup Request**:
 
-![image-49](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/generateshiipinglabel.webp)
+[![image-49](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/generateshiipinglabel.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/generateshiipinglabel.webp)
 
 This action will give you a pop-up:
 
-![image-50](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/05/image-50.png)
+[![image-50](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/05/image-50.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/05/image-50.png)
 
 Further, the seller can view the generated pickup request on the same page under PICKUP REQUEST DETAILS section:
 
-![image-51](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/05/image-51-1200x597.png)
+[![image-51](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/05/image-51-1200x597.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/05/image-51-1200x597.png)
 

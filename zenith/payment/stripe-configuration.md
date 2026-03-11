@@ -17,7 +17,7 @@ But if seller is bearing the discount, the amount will be split, i.e., the whole
 
 To use this payment gateway, the admin needs to enable the [Stripe Connect](/zenith/payment/stripe.html) from the **feature app section**:
 
-![Feature app SCA STRIPE](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/pay31.webp)
+[![Feature app SCA STRIPE](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/pay31.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/pay31.webp)
 
 Multivendor Admin Panel > 'Feature Apps'
 
@@ -39,7 +39,7 @@ To configure this, visit Multivendor Admin Panel > Orders > Checkout Payment Met
 
 Here, you'll have the following configurations:
 
-![image-8](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/03/image-8-1177x1024.png)
+[![image-8](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/stripecone.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/stripecone.webp)
 
 **SCA REGULATED ACCOUNT** **BUTTON**
 ------------------------------------
@@ -52,7 +52,7 @@ ENABLE STRIPE FOR: Stripe will work on the **checkout** page. (Merchants using t
 
 Admin can also Select **Both** Checkout and [Seller Membership](/zenith/featured-app/seller-add-ons/seller-membership.html) for Stripe payment as shown below
 
-![cxcx](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/01/cxcx.png)
+[![cxcx](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/stripectwo.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/stripectwo.webp)
 
 GET CUSTOMER CARD DETAILS ON: The customer card details will validate on the **Thank You Page**.
 
@@ -60,7 +60,7 @@ Restrict Seller To View Order: In case you don't want your sellers to view those
 
 Auto Cancel Order: Auto cancel the order if the customer has not paid for the order. Next, you need to set the hours after which the order will be automatically canceled. Maximum can be 360 hours.
 
-![image-7](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/03/image-7-1200x436.png)
+[![image-7](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/stripecthree.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/stripecthree.webp)
 
 *   PAYMENT FLOW: Choose where to enter the payment details, i.e., **Payment on the same page** or **Redirect to Stripe page**.
 
@@ -74,7 +74,7 @@ Now, once the customer completes the order process, he/she will be straightaway 
 
 Now, in case you have selected **Payment on same page**, you will have to choose from these two payment methods:
 
-![Checkout-Payment-Methods-Admin SCA STRIPE](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/04/Checkout-Payment-Methods-Admin-1200x276.png)
+[![Checkout-Payment-Methods-Admin SCA STRIPE](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/stripecfour.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/stripecfour.webp)
 
 Choose the Payment Method. [Know more](https://stripe.com/docs/payments/local-payment-methods).
 
@@ -84,7 +84,7 @@ Make sure that your store currency is Euro and the customer’s geographical loc
 
 In case you have selected **Redirect to Stripe page**, you will have the following payment methods to choose from:
 
-![SCA STRIPE](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/01/image-2-1200x597.png)
+[![SCA STRIPE](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/stripecfive.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/stripecfive.webp)
 
 Choose payment method [Know more](https://stripe.com/docs/payments/local-payment-methods).
 
@@ -102,7 +102,7 @@ Choose payment method [Know more](https://stripe.com/docs/payments/local-paymen
 
 Next, you need to enter the two-letter country code of your Stripe Account.
 
-![Check out Payment Method SCA STRIPE](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/09/Checkout-Payment-Methods-Admin-5.png)
+[![Check out Payment Method SCA STRIPE](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/09/Checkout-Payment-Methods-Admin-5.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/09/Checkout-Payment-Methods-Admin-5.png)
 
 This is the continuation of the above configuration page (Multivendor Admin Panel > Orders > Checkout Payment Method)
 
@@ -112,7 +112,7 @@ This is the continuation of the above configuration page (Multivendor Admin Pane
 
 The template can be restored by clicking on the 'Restore To Default' button as shown in the screenshot below.
 
-![Edit-Stripe-Template-Admin SCA STRIPE](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/04/Edit-Stripe-Template-Admin-1200x597.png)
+[![Edit-Stripe-Template-Admin SCA STRIPE](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/04/Edit-Stripe-Template-Admin-1200x597.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/04/Edit-Stripe-Template-Admin-1200x597.png)
 
 **Redirect to Stripe page:** In case you want to edit the template of the payment cancel page pop-up that appears on the Thank You page,
 
@@ -133,7 +133,7 @@ The checkout page branding will be the admin stripe account.
 
 **Sample Image:**
 
-![download-2- SCA STRIPE](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/02/download-2--1200x168.png)
+[![download-2- SCA STRIPE](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/02/download-2--1200x168.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/02/download-2--1200x168.png)
 
 Stripe: Admin End
 
@@ -152,7 +152,7 @@ The checkout page branding will be the seller stripe account.
 
 **Sample Image:**
 
-![download-1-2 SCA STRIPE](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/02/download-1-2-1200x223.png)
+[![download-1-2 SCA STRIPE](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/02/download-1-2-1200x223.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/02/download-1-2-1200x223.png)
 
 Stripe: Admin End
 
@@ -167,7 +167,7 @@ In other words, the direct charges will only work for the orders with the produc
 
 **Sample Image:**
 
-![download-3-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/02/download-3-1-1200x159.png)
+[![download-3-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/02/download-3-1-1200x159.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/02/download-3-1-1200x159.png)
 
 Stripe: Admin End
 
@@ -178,7 +178,7 @@ In this case, The checkout page branding will be a seller stripe account.
 *   STRIPE FEE BEAR BY: (Only in the case of **Separate Charges & transfer**) Select whether admin or seller will bear the Stripe Fees.
 *   STRIPE PAYMENT NAME: Configure the Stripe Payment name label created at Shopify Payment Page.
 
-![Checkout Payment Method SCA STRIPE](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/09/Checkout-Payment-Methods-Admin-3.png)
+[![Checkout Payment Method SCA STRIPE](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/stripecsix.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/stripecsix.webp)
 
 This is the continuation of the above configuration page (Multivendor Admin Panel > Orders > Checkout Payment Method)
 
@@ -192,7 +192,7 @@ Further, enter the details like **Secret Key, Publish Key** and **Client ID** an
 
 Admin can send reminders to customers for due payment. Moreover, the admin can set time and day intervals for sending reminders to customers.
 
-![stripe-order-payment-reminder](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/04/stripe-order-payment-reminder.png)
+[![stripe-order-payment-reminder](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/stripecseven.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/stripecseven.webp)
 
 The reminder will be send via email. For example, if admin has fill 6 hours in SET TIME FOR REMINDER EMAIL and 2 days in SET DAYS FOR REMINDER EMAIL.
 
@@ -204,31 +204,31 @@ Then, an reminder email will be send to customer for 2 days in every 6 hours.
 
 Once you'll enable SCA and update all the other details, you'll have the option to register Webhook.
 
-![image-160 SCA STRIPE](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/07/image-160-1200x597.png)
+[![image-160 SCA STRIPE](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/stripeceight.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/stripeceight.webp)
 
 After clicking on **view webhook**, you'll get the option to regsiter:
 
-![image-161](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/07/image-161-1200x597.png)
+[![image-161](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/stripecnine.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/stripecnine.webp)
 
 Once done, registeration of the webhooks is complete.
 
-![image-162 SCA STRIPE](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/07/image-162-1200x869.png)
+[![image-162 SCA STRIPE](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/stripecten.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/stripecten.webp)
 
 This is how it will look on the Stripe dashboard:
 
-![image-20](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/10/image-20.png)
+[![image-20](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/10/image-20.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/10/image-20.png)
 
 ### Delete Stripe Connected Seller
 
 Click on **View Connected Sellers** to get the list of sellers who are using Stripe.
 
-![image-163](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/07/image-163-1200x597.png)
+[![image-163](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/stripeceleven.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/stripeceleven.webp)
 
 From here, you can disconnect them from Stripe.
 
 Note: Sellers won't be deleted from the marketplace, they will just be disconnected from Stripe.
 
-![image-164](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/07/image-164-1200x597.png)
+[![image-164](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/stripectwelve.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/stripectwelve.webp)
 
 #### Mail Configuration
 
@@ -243,7 +243,7 @@ This will send a reminder mail to the customer to pay the order amount. It will 
 
 This email will only be send if the customer didn't complete the payment.
 
-![Customer Payment Reminder](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/09/Mail-Configuration-Admin.png)
+[![Customer Payment Reminder](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/stripecthirteen.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/stripecthirteen.webp)
 
 Admin Panel > Mail Configuration
 
@@ -258,7 +258,7 @@ After this, if any of the customers didn't pay the order amount, the admin needs
 
 Also, if all the orders are paid within 48 hours, the admin will not receive this email.
 
-![Stripe Payment Not Received](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/09/Mail-Configuration-Admin-1.png)
+[![Stripe Payment Not Received](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/stripecfourteen.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/stripecfourteen.webp)
 
 Admin Panel > Mail Configuration
 
@@ -266,7 +266,7 @@ Admin Panel > Mail Configuration
 
 At the checkout page, a customer will choose the “**Stripe Connect**” payment method to pay for the order.
 
-![Stripe Pay Payment Option](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/09/Payment-Demo-Store-EUR-Checkout-1.png)
+[![Stripe Pay Payment Option](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/09/Payment-Demo-Store-EUR-Checkout-1.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/09/Payment-Demo-Store-EUR-Checkout-1.png)
 
 StoreFront
 
@@ -274,26 +274,26 @@ Further, the customer will be asked for the card details.
 
 **Stripe hosted page:**
 
-![Demo-Store](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/04/Demo-Store-1200x597.png)
+[![Demo-Store](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/04/Demo-Store-1200x597.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/04/Demo-Store-1200x597.png)
 
 Card Payment Method
 
-![Demo-Store-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/04/Demo-Store-1-1200x597.png)
+[![Demo-Store-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/04/Demo-Store-1-1200x597.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/04/Demo-Store-1-1200x597.png)
 
 iDEAL Payment Method
 
 **Cancel Page:**
 
-![Stripe Frontend](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/10/Thank-you-Demo-Store-EUR-Checkout-1.png)
+[![Stripe Frontend](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/10/Thank-you-Demo-Store-EUR-Checkout-1.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/10/Thank-you-Demo-Store-EUR-Checkout-1.png)
 
 Storefront
 
 **On the same page:**
 
-![Thank-you-for-your-purchase-Demo-Store-USD-Checkout](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/04/Thank-you-for-your-purchase-Demo-Store-USD-Checkout-1200x597.png)
+[![Thank-you-for-your-purchase-Demo-Store-USD-Checkout](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/04/Thank-you-for-your-purchase-Demo-Store-USD-Checkout-1200x597.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/04/Thank-you-for-your-purchase-Demo-Store-USD-Checkout-1200x597.png)
 
 Card Payment Method
 
-![Thank-you-for-your-purchase-Demo-Store-USD-Checkout-1-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/04/Thank-you-for-your-purchase-Demo-Store-USD-Checkout-1-1-1200x597.png)
+[![Thank-you-for-your-purchase-Demo-Store-USD-Checkout-1-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/04/Thank-you-for-your-purchase-Demo-Store-USD-Checkout-1-1-1200x597.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/04/Thank-you-for-your-purchase-Demo-Store-USD-Checkout-1-1-1200x597.png)
 
 iDEAL Payment Method

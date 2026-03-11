@@ -36,29 +36,29 @@ Go to **Seller Navigation** section of the app and **Manage the Menus** of your 
 
 To add a new menu for Seller dashboard, You need to visit the configuration menu of the Multivendor App. There, You need to click on the "Seller Navigation" from drop down menu.
 
-![Configuration](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/10/snav1.webp)
+[![Configuration](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/10/snav1.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/10/snav1.webp)
 
 Clicking on Seller Navigation button, You will be landed to the page from where you will get the option to configure the menus for seller dashboard.
 
-![Configure Menu](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/10/snav2.webp)
+[![Configure Menu](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/10/snav2.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/10/snav2.webp)
 
 Once You click on the Configure Menu button, You will have the list of all existing Main Menus of Seller dashboard.
 
 At the same time, "Add Menu" button appears at the upper right corner of the page.
 
-![Add Menu](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/10/snav3.webp)
+[![Add Menu](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/10/snav3.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/10/snav3.webp)
 
 Clicking on this button, You can add menu options. All You need to do is Enter the Menu Name, enter the page URL where sellers will be redirected and click on "Add Menu Option".
 
 Note:- Menu Page URL will be like this: **http://example.com**
 
-![Add Seller Navigation](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/10/snav4.webp)
+[![Add Seller Navigation](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/10/snav4.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/10/snav4.webp)
 
 **Please Note:-** Menu Page URL will not work with Menu having Sub-menus.
 
 Similarly, You can create sub-menus for the Main Menus.
 
-![Submenu details](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/10/snav5.webp)
+[![Submenu details](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/10/snav5.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/10/snav5.webp)
 
 In this way, new menus & submenus will be created for Seller dashboard from admin end.
 
@@ -69,11 +69,11 @@ In the Action menu, You can click on the Edit button to edit the menu details su
 
 You can set any of the Menus as Landing Page.
 
-![menu details](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/10/snav6.webp)
+[![menu details](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/10/snav6.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/10/snav6.webp)
 
-![menu](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/10/snav7.webp)
+[![menu](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/10/snav7.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/10/snav7.webp)
 
-![seller Navigation](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/10/snav8.webp)
+[![seller Navigation](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/10/snav8.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/10/snav8.webp)
 
 Similarly, You can rename the labels for the submenus:Admin can rename the main menu directly from the Seller Navigation Page also.
 

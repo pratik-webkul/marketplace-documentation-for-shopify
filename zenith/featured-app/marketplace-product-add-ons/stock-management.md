@@ -25,11 +25,11 @@ To get this app, you have to pay 10$ (USD) per month over and above the monthly 
 ----------------
 Go to the feature app section and click on enable as shown in the screenshot below:
 
-![Multivendor Marketplace for Shopify: Stock Management](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/29112930/AwesomeScreenshot-Feature-Apps-Admin-2019-07-29-16-07-97.png)
+[![Multivendor Marketplace for Shopify: Stock Management](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/29112930/AwesomeScreenshot-Feature-Apps-Admin-2019-07-29-16-07-97.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/29112930/AwesomeScreenshot-Feature-Apps-Admin-2019-07-29-16-07-97.png)
 
 Once you have clicked on enable, a new box will open where you need to agree:
 
-![Multivendor Marketplace for Shopify: Stock Management](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/29113041/AwesomeScreenshot-Feature-Apps-Admin-2019-07-29-17-07-07.png)
+[![Multivendor Marketplace for Shopify: Stock Management](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/29113041/AwesomeScreenshot-Feature-Apps-Admin-2019-07-29-17-07-07.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/29113041/AwesomeScreenshot-Feature-Apps-Admin-2019-07-29-17-07-07.png)
 
 Once the charge is approved, the app is enabled and can be used.
 
@@ -49,7 +49,7 @@ Once the featured app Stock Management is enabled then in configuration menu one
 
 *   Fulfillment Configuration
 
-![Multivendor Marketplace for Shopify: Stock Management](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/Configuration-_-Admin-5.jpg)
+[![Multivendor Marketplace for Shopify: Stock Management](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/Configuration-_-Admin-5.jpg)](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/Configuration-_-Admin-5.jpg)
 
 On the Fulfilment Configuration page, the admin needs to add labels and logos to make it visible on the product description page.
 
@@ -67,23 +67,23 @@ If you choose "ALLOW SELLERS TO CHOOSE THE SPECIFIC FULFILLMENT OPTION FOR THEIR
 
 In which we can select SELF FULFILLMENT and FULFILLMENT BY ADMIN
 
-![fulfill-1-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/04/fulfill-1-1-1200x557.png)
+[![fulfill-1-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/04/fulfill-1-1-1200x557.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/04/fulfill-1-1-1200x557.png)
 
-![fulfill-2-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/04/fulfill-2-1-1200x538.png)
+[![fulfill-2-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/04/fulfill-2-1-1200x538.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/04/fulfill-2-1-1200x538.png)
 
 Now, in this case, both you & your seller will have the option to separately fulfill each product in the order from the respective panels in the **Order Details** section of the seller panel.
 
 Product To Be Fulfilled by Admin
 
-![Screenshot-2020-11-10T175429.871](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/11/Screenshot-2020-11-10T175429.871.png)
+[![Screenshot-2020-11-10T175429.871](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/11/Screenshot-2020-11-10T175429.871.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/11/Screenshot-2020-11-10T175429.871.png)
 
 Product To Be Fulfilled by the Seller:-
 
-![Screenshot-2020-11-10T173651.079](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/11/Screenshot-2020-11-10T173651.079.png)
+[![Screenshot-2020-11-10T173651.079](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/11/Screenshot-2020-11-10T173651.079.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/11/Screenshot-2020-11-10T173651.079.png)
 
 Once the Order gets fulfilled, the details will be shown like this:-
 
-![Screenshot-2020-11-10T173744.029](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/11/Screenshot-2020-11-10T173744.029.png)
+[![Screenshot-2020-11-10T173744.029](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/11/Screenshot-2020-11-10T173744.029.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/11/Screenshot-2020-11-10T173744.029.png)
 
 **Points To Be Noted:-**
 
@@ -92,21 +92,21 @@ Once the Order gets fulfilled, the details will be shown like this:-
 
 You will have the Fulfillment Request menu on sellers menu as shown in the screenshot below:
 
-![Multivendor Marketplace for Shopify: Stock Management](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/Configuration-_-Admin-6.jpg)
+[![Multivendor Marketplace for Shopify: Stock Management](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/Configuration-_-Admin-6.jpg)](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/Configuration-_-Admin-6.jpg)
 
 In the fulfillment request page, the admin can see all the fulfillment requests from the sellers.
 
-![Multivendor Marketplace for Shopify: Stock Management](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/Fulfillment-Request-Admin.png)
+[![Multivendor Marketplace for Shopify: Stock Management](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/Fulfillment-Request-Admin.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/Fulfillment-Request-Admin.png)
 
  Seller End
 ---------------
 New sub-menu 'Fulfillment configuration' will be added in the configuration menu of the seller panel:
 
-![Multivendor Marketplace for Shopify: Stock Management](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/Dashboard-Seller-•-Multivendor-MarketPlace-1-1.png)
+[![Multivendor Marketplace for Shopify: Stock Management](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/Dashboard-Seller-•-Multivendor-MarketPlace-1-1.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/Dashboard-Seller-•-Multivendor-MarketPlace-1-1.png)
 
 When you click on the Fulfilment configuration, you will get the option to choose who will fulfill the product for the customer.
 
-![Multivendor Marketplace for Shopify: Stock Management](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/Screenshot-25.png)
+[![Multivendor Marketplace for Shopify: Stock Management](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/Screenshot-25.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/Screenshot-25.png)
 
 The seller can select whether he/she wants to fulfill the products on his own or wants the admin to fulfill the products.
 
@@ -117,7 +117,7 @@ Once the seller selects the **Self-fulfillment** service, the seller needs to up
 
 Thus, the seller will fulfill the products on his own in this case.
 
-![Multivendor Marketplace for Shopify: Stock Management](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/Fulfillment-Service-Seller-•-Multivendor-MarketPlace.png)
+[![Multivendor Marketplace for Shopify: Stock Management](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/Fulfillment-Service-Seller-•-Multivendor-MarketPlace.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/Fulfillment-Service-Seller-•-Multivendor-MarketPlace.png)
 
 **In Case of Fulfillment by admin:**
 ------------------------------------
@@ -132,19 +132,19 @@ Let's see how the seller sends the product quantity to the merchant so that he c
 
 Go to the products >> product listing >> click on edit:
 
-![Multivendor Marketplace for Shopify: Stock Management](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/Product-_-Seller-•-Multivendor-MarketPlace.jpg)
+[![Multivendor Marketplace for Shopify: Stock Management](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/Product-_-Seller-•-Multivendor-MarketPlace.jpg)](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/Product-_-Seller-•-Multivendor-MarketPlace.jpg)
 
 Click on More Action >> Send It:
 
-![Multivendor Marketplace for Shopify: Stock Management](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/Edit-Product-_-Seller-•-Multivendor-MarketPlace.jpg)
+[![Multivendor Marketplace for Shopify: Stock Management](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/Edit-Product-_-Seller-•-Multivendor-MarketPlace.jpg)](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/Edit-Product-_-Seller-•-Multivendor-MarketPlace.jpg)
 
 Enter the quantity and click on send to the merchant:
 
-![Multivendor Marketplace for Shopify: Stock Management](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/Edit-Product-_-Seller-•-Multivendor-MarketPlace-1-1.jpg)
+[![Multivendor Marketplace for Shopify: Stock Management](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/Edit-Product-_-Seller-•-Multivendor-MarketPlace-1-1.jpg)](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/Edit-Product-_-Seller-•-Multivendor-MarketPlace-1-1.jpg)
 
 The seller can see the products list sent to the admin in-stock products page in the product menu.
 
-![Multivendor Marketplace for Shopify: Stock Management](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/Fulfillment-Product-_-Admin.jpg)
+[![Multivendor Marketplace for Shopify: Stock Management](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/Fulfillment-Product-_-Admin.jpg)](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/Fulfillment-Product-_-Admin.jpg)
 
 **PLEASE NOTE:-**
 -----------------
@@ -159,7 +159,7 @@ You can also enable the "Send to merchant" configuration in the case of "Fulfill
 
 This configuration will allow the seller to send the ordered product to the admin and then they can manage the fulfillment upon receiving the product from the seller.
 
-![send-to-merchant-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/09/send-to-merchant-1-1200x560.png)
+[![send-to-merchant-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/09/send-to-merchant-1-1200x560.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/09/send-to-merchant-1-1200x560.png)
 
 In the case of **Fulfilled by both** when you go to the 'Edit product page' and select 'Admin fulfillment' then there are two new options in send to merchant.
 
@@ -168,40 +168,40 @@ In the case of **Fulfilled by both** when you go to the 'Edit product page' and 
 
 "Before delivery" and "After delivery" options would also be available in case of **Fulfilled by Admin** selected in fulfillment configuration.
 
-![ss1](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/09/ss1.png)
+[![ss1](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/09/ss1.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/09/ss1.png)
 
 When an order is placed for products that have **After Delivery** selected, on admin side order will show as "Waiting for Approval".
 
-![waiting-for-approval](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/09/waiting-for-approval-1200x487.png)
+[![waiting-for-approval](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/09/waiting-for-approval-1200x487.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/09/waiting-for-approval-1200x487.png)
 
 And at the Seller side, they would get the option of **Ship to Merchant** as shown below:
 
-![ahio-to-merchant-](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/09/ahio-to-merchant--1200x581.png)
+[![ahio-to-merchant-](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/09/ahio-to-merchant--1200x581.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/09/ahio-to-merchant--1200x581.png)
 
 Clicking on button, seller can update the merchant about the Shipped product by providing the necessary details as shown below:
 
-![details](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/09/details.png)
+[![details](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/09/details.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/09/details.png)
 
 Once Seller ships product to Merchant, Admin will get an option to confirm that they received the order from Seller.
 
-![confirm-](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/09/confirm--1200x519.png)
+[![confirm-](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/09/confirm--1200x519.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/09/confirm--1200x519.png)
 
 Once the Merchant confirms it then they can fulfill the order. Please refer to the below image.
 
-![fufill](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/09/fufill-1200x505.png)
+[![fufill](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/09/fufill-1200x505.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/09/fufill-1200x505.png)
 
 Admin can also check these order lists by going to Admin Panel >> Orders >> Order Stock Management list.
 
 Here admin would be able to see the order status and other details as shown below:
 
-![list](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/09/list-1200x406.png)
+[![list](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/09/list-1200x406.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/09/list-1200x406.png)
 
  Shopify Store Front
 -------------
 If the seller selects the product "fulfilled by the admin" then it will be shown on the product page.  
 Please refer to the screenshot below:  
 
-![Multivendor Marketplace for Shopify: Stock Management](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/Designer-Shoes-–-stock-management-demo.png)
+[![Multivendor Marketplace for Shopify: Stock Management](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/Designer-Shoes-–-stock-management-demo.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/Designer-Shoes-–-stock-management-demo.png)
 
 ### Demo
 

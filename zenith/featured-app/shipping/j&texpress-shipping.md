@@ -26,7 +26,7 @@ J&T EXPRESS SHIPPING FEATURE APP IS AVAILABLE **ONLY FOR FULFILLMENT**.
 --------------------------
 To enable the feature app, all you need to do is to visit the “**Featured Apps**” section of the admin panel and enable it from there.
 
-![Feature App-shipping](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/featuredapps.webp)
+[![Feature App-shipping](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/featuredapps.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/featuredapps.webp)
 
 Once you click on “Feature Apps”, you will get the list of apps listing in this section. There, You will get the **J&T Express** feature. You just need to click the **enable** button.
 
@@ -41,7 +41,7 @@ Note:- You need to have an account on J&T Express to configure the details in th
 
 Before this, You need to visit the Shipping Configuration and **enable the J&T Express Shipping** as shown in the below screenshot:
 
-![Configuration-Admin-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/jtenable.webp)
+[![Configuration-Admin-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/jtenable.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/jtenable.webp)
 
 Once you activate the J&T Express Shipping, you can proceed to configure the J&T Express Shipping details. Go to Configuration>>**J&T Express Configuration**.
 
@@ -54,7 +54,7 @@ In case you want to manage the shipment internationally, you need to enable "Int
 
 Moreover, to allow sellers to generate the shipping labels automatically on fulfilled orders, you need to enable the tab in the configuration menu.
 
-![JTExpress-Configuration-Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/jtconfigadmin.webp)
+[![JTExpress-Configuration-Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/jtconfigadmin.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/jtconfigadmin.webp)
 
  Make **Shipping** **Address Phone Number** Mandatory
 ----------------------
@@ -62,13 +62,13 @@ To use this feature add-on, the admin needs to make the **Shipping** **address
 
 To do this, You need to go to Shopify Backend > Settings > Checkout > Under Form Options, make Shipping address phone number as **Required**.
 
-![J&T Express Shipping](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/09/demo-store-Checkout-Shopify-1200x597.png)
+[![J&T Express Shipping](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/09/demo-store-Checkout-Shopify-1200x597.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/09/demo-store-Checkout-Shopify-1200x597.png)
 
 **SELLER PANEL**
 -------------------
 Once you configure these details, the sellers will also get the option to enable the J&T Express shipping from the **Shipping Configuration** menu of their seller panel.
 
-![Shipping-Configuration-Seller-J&T Express](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/jtenableseller.webp)
+[![Shipping-Configuration-Seller-J&T Express](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/jtenableseller.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/jtenableseller.webp)
 
 Moreover, the sellers need to configure the Global Shipping Configuration details from here:
 
@@ -76,7 +76,7 @@ Domestic Delivery Method:\- The seller needs to select the delivery method such 
 
 International Delivery Method:- One default delivery method in case the seller manages to ship internationally.
 
-![Shipping-Configuration-Seller-•-Multivendor-MarketPlace-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/sellerconfigjt.webp)
+[![Shipping-Configuration-Seller-•-Multivendor-MarketPlace-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/sellerconfigjt.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/sellerconfigjt.webp)
 
 Now, the seller can fulfill orders via the J&T Express shipping courier service.
 
@@ -96,9 +96,9 @@ Clicking the Fulfill button, you need to select the **J&T Express** as the shipp
 
 Thus, the shipping label will be generated automatically for the fulfilled orders. Thus, the seller can easily print the shipping label from here:
 
-![Order-Details-Seller-•-Multivendor-MarketPlace](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/generateshiipinglabel.webp)
+[![Order-Details-Seller-•-Multivendor-MarketPlace](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/generateshiipinglabel.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/generateshiipinglabel.webp)
 
-![A6](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/08/A6.png)
+[![A6](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/08/A6.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/08/A6.png)
 
 Shipping Label via J&T Express
 

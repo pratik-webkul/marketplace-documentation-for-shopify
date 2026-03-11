@@ -21,11 +21,11 @@ Firstly visit the "Feature Apps" section by clicking the (...) three dots in the
 
 Now Enable the " Favorite Product/Seller" Feature.
 
-![Favorite Product/Seller](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/favpo.webp)
+[![Favorite Product/Seller](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/favpo.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/favpo.webp)
 
 Once you will click on the "Enable button" then you need to agree on an additional charge of USD 5 per month which are over and above your current multivendor marketplace plan.
 
-![Favorite Product/Seller](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/favpot.webp)
+[![Favorite Product/Seller](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/favpot.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/favpot.webp)
 
  FRONT END DISPLAY IN NEW THEME
 ---------------
@@ -61,7 +61,7 @@ Copy following code and paste into main-collection-product-grid.liquid template 
 ---------------
 Customers can like the product on the seller products page and can also view the number of likes on that product.
 
-![Favorite Product/Seller](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/5-15.png)
+[![Favorite Product/Seller](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/5-15.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/5-15.png)
 
 Customers can like the seller from the "seller profile page".
 
@@ -69,15 +69,15 @@ Favorite Product/Seller
 
 Customers can like the sellers' shop on the Seller's Product Page.
 
-![screenshot_1696412812784](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/10/screenshot_1696412812784.png)
+[![screenshot_1696412812784](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/10/screenshot_1696412812784.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/10/screenshot_1696412812784.png)
 
 Customers can also like the sellers' shop on the Seller's Collection Page.
 
-![screenshot_1696412954887](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/10/screenshot_1696412954887.png)
+[![screenshot_1696412954887](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/10/screenshot_1696412954887.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/10/screenshot_1696412954887.png)
 
 Customers can also see the list of his/her liked products and liked sellers from the "My Account" section of the Shopify store.
 
-![Favorite Product/Seller](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/e-2.png)
+[![Favorite Product/Seller](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/e-2.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/e-2.png)
 
  ADMIN END
 -------------
@@ -85,11 +85,11 @@ Admin can see the list of all the sellers liked by customers in the multivendor 
 
 Sellers >> favorite sellers >> here you can see the list of all sellers liked by customers as well as the number of likes that sellers received from customers.
 
-![Favorite Product/Seller](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/favsfr.webp)
+[![Favorite Product/Seller](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/favsfr.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/favsfr.webp)
 
 Admin can see the list of all the products liked by customers in the multivendor marketplace app.
 
-![Favorite Product/Seller](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/favsthr.webp)
+[![Favorite Product/Seller](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/favsthr.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/favsthr.webp)
 
 
  SELLER END
@@ -98,7 +98,7 @@ The seller can too view the number of customers who liked their profile page fro
 
 Profile>> Liked customer >> Here you can see the list of customers who liked your profile page
 
-![Favorite Product/Seller](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/favsfv.webp)
+[![Favorite Product/Seller](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/favsfv.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/favsfv.webp)
 
 ## Discount Code Mail for Your Favorite Product or Seller
 
@@ -106,11 +106,11 @@ We have added a new feature that sends email notifications with discount codes b
 
 If a customer has marked a seller as a favorite, they will receive an email notification whenever that seller creates any type of discount, along with the discount code.
 
-![image](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/sellerfav.webp)
+[![image](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/sellerfav.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/sellerfav.webp)
 
 If a customer has marked a product as a favorite, they will receive an email notification whenever a discount is created for that specific product.
 
-![image](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/produfav.webp)
+[![image](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/produfav.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/produfav.webp)
 
 ### Multivendor Marketplace App for Shopify: Favorite Product/Seller Demo
 

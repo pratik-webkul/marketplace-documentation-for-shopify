@@ -25,7 +25,7 @@ You can get the Split Cart feature app simply by paying an amount of $14 per mon
 *   Split Cart now **supports product properties**.
 *   Supports the [minimum purchase quantity feature](/zenith/configuration/minimum-purchase-quantity).
 
-![cart page](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/12/Screenshot-85-2-1200x427.png)
+[![cart page](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/12/Screenshot-85-2-1200x427.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/12/Screenshot-85-2-1200x427.png)
 
 *   Split Cart is now compatible with the [slot pricing feature](/zenith/featured-app/marketplace-product-add-ons/slot-pricing) app.
 *   Also, the split cart feature works with the [minimum purchase amount on orders](/zenith/configuration/minimum-purchase-amount).
@@ -43,7 +43,7 @@ To enable this feature app, You need to visit the "Feature Apps" section of the 
 
 Once you get this feature, you need to click on the "Enable" button to activate this feature in Multivendor app.
 
-![Screenshot-90](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/splitcartfappenbl.webp)
+[![Screenshot-90](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/splitcartfappenbl.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/splitcartfappenbl.webp)
 
 Once you approve the charge for this app, the feature will be installed in your Multivendor Marketplace app.
 
@@ -53,7 +53,7 @@ As soon as the admin installs this feature app, the next step is to enable the S
 
 After that, they also need to add an additional script from the Shopify backend to complete the setup.
 
-![Split cart configuration](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/configsplitcart.webp)
+[![Split cart configuration](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/configsplitcart.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/configsplitcart.webp)
 
 Admin will get the the "Split Cart" tab in "**Split Cart Configuration**" section of Multivendor App.
 
@@ -67,13 +67,13 @@ Cart will be split in such a way that there will be "one seller's products in on
 
 Each cart will be validated separately for each seller's products.
 
-![Split cart feature ](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/enableconfiginstructwtn.webp)
+[![Split cart feature ](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/enableconfiginstructwtn.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/enableconfiginstructwtn.webp)
 
 > **Split Cart supports product properties in the App.**
 
 In the Split Cart configuration menu of the app, you will get the option to enable the product properties configuration.
 
-![Add Product properties](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/propertiesfororder.webp)
+[![Add Product properties](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/propertiesfororder.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/propertiesfororder.webp)
 
 To make this functionality work for the buyers at the time of order processing, the admin needs to add an additional script from Shopify Backend.
 
@@ -84,7 +84,7 @@ Multivendor Admin Panel>>**Configuration** Menu>>Go to **Instruction for Market
 
 Do refer below screenshot:
 
-![Instruction for Marketplace](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/codepaste.webp)
+[![Instruction for Marketplace](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/codepaste.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/codepaste.webp)
 
  New Checkout Process
 ---------------
@@ -92,11 +92,11 @@ If you're using the new checkout page and, as a result, want to enable the split
 
 Firstly, you need to paste this code {% include 'wk-splitcart' %} in the theme.liquid. Once you've added the code, the next step is to generate the attached file.
 
-![New Checkout Process](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/liquidfile.webp)
+[![New Checkout Process](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/liquidfile.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/liquidfile.webp)
 
 Follow the below path to add the code:
 
-![Split Cart4](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/12/Demo-Store-Settings-Shopify.png)
+[![Split Cart4](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/12/Demo-Store-Settings-Shopify.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/12/Demo-Store-Settings-Shopify.png)
 
 Go to **Settings** (Shopify Backend)  
 Click on **Checkout**.
@@ -105,11 +105,11 @@ Now, Scroll down to the bottom and visit the "**Order Processing"** section.
 
 Paste the "**Additional Script**" and SAVE the details.
 
-![Split Cart 5](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/12/Demo-Store-Checkout-Shopify.png)
+[![Split Cart 5](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/12/Demo-Store-Checkout-Shopify.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/12/Demo-Store-Checkout-Shopify.png)
 
 Once you add the additional script from Shopify backend, buyers will see the changes in the checkout process.
 
- Discount Feature
+ <!-- Discount Feature
 ------------
 > **NEW FEATURE**  
 > You can now allow your sellers to create discounts on products or overall order for their customers.
@@ -118,11 +118,11 @@ As soon as you install the split cart feature tab, a discount feature tab gets e
 
 With this feature, you can allow sellers to create discounts on products or orders for their customers.
 
-![Configuration-_-Admin-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/08/Configuration-_-Admin-1.png)
+[![Configuration-_-Admin-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/08/Configuration-_-Admin-1.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/08/Configuration-_-Admin-1.png)
 
 Once enabled, the sellers will get the option to create discounts at their respective seller panel of the multi-vendor app.
 
-Know more about the [Split Cart Discount Feature](https://webkul.com/blog/split-cart-discount-feature-in-multi-vendor-marketplace-for-shopify/)
+Know more about the [Split Cart Discount Feature](https://webkul.com/blog/split-cart-discount-feature-in-multi-vendor-marketplace-for-shopify/) -->
 
  Buyer End
 -------------
@@ -136,18 +136,18 @@ Thus, the buyer will choose a cart at a time and proceed further for checkout.
 
 In case you want to change the translation of the cart page, you can do it by editing the “**wk-cart.liquid**” in your Shopify theme files.
 
-![Split Cart Buyer End](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/12/Your-Shopping-Cart-–-online-dev.png)
+[![Split Cart Buyer End](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/12/Your-Shopping-Cart-–-online-dev.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/12/Your-Shopping-Cart-–-online-dev.png)
 
 In this way, your buyers can have different carts of different seller's products at the time of checkout.  
 This is all about the Multivendor Marketplace **Split Cart** Feature app.
-
+<!-- 
 **NEW UPDATE:-** 
 
 Merchant can allow the sellers to add discounts to selected products or overall order using Multi-vendor Split Cart feature app.
 
 Thus, customers will get discounts on products.
 
-[Explore](https://webkul.com/blog/split-cart-discount-feature-in-multi-vendor-marketplace-for-shopify/)!
+[Explore](https://webkul.com/blog/split-cart-discount-feature-in-multi-vendor-marketplace-for-shopify/)! -->
 
  Allow Store Pick Up on Cart
 -----------------
@@ -159,7 +159,7 @@ Now, you can use this feature with the split cart. This means that you can now d
 
 Just **enable the Store Pickup on cart** and let customers choose an address to pick up the item on the cart page.
 
-![Screenshot-88](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/splitcartstorepickup.webp)
+[![Screenshot-88](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/splitcartstorepickup.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/splitcartstorepickup.webp)
 
 **MARK**:- In case you enable this option "Allow Store Pickup on Cart" for your sellers, your sellers need to configure the store pickup option for **"ALL PRODUCTS"**
 
@@ -167,23 +167,23 @@ From the Split cart configuration menu of their seller panel.
 
 As shown in the below screenshot:
 
-![all products](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/configallproduct.webp)
+[![all products](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/configallproduct.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/configallproduct.webp)
 
 Once you enable this feature for the first time, you will be asked to back up your files to avoid any data loss (**FOR OLD USERS** **ONLY**).
 
-![Configuration-Admin-4-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/12/Configuration-Admin-4-1-1200x627.png)
+[![Configuration-Admin-4-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/12/Configuration-Admin-4-1-1200x627.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/12/Configuration-Admin-4-1-1200x627.png)
 
 **Note**:- Make sure both the feature apps (Store Pickup & Split Cart) are enabled.
 
 **Front End: Cart Page**
 
-![Your-Shopping-Cart-–-tarang-shop2](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/12/Your-Shopping-Cart-%E2%80%93-tarang-shop2-1200x627.png)
+[![Your-Shopping-Cart-–-tarang-shop2](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/12/Your-Shopping-Cart-%E2%80%93-tarang-shop2-1200x627.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/12/Your-Shopping-Cart-%E2%80%93-tarang-shop2-1200x627.png)
 
 Thus, the inventory will be managed from the selected location.
 
 In case the quantity is not available on the customer's selected location then, he/she will not be able to proceed to checkout. And this will show an error something like this:
 
-![Screenshot-by-Lightshot](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/12/Screenshot-by-Lightshot-1200x527.png)
+[![Screenshot-by-Lightshot](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/12/Screenshot-by-Lightshot-1200x527.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/12/Screenshot-by-Lightshot-1200x527.png)
 
 This is all about the **Split Cart+ Store Pickup f**eature.
 
@@ -199,7 +199,7 @@ In order to display this, you need to add the below-given code to the **wk\_cart
 ```
 After adding the codes, this will be the visibility of the cart page:-
 
-![cart page](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/12/Screenshot-85-2-1200x427.png)
+[![cart page](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/12/Screenshot-85-2-1200x427.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/12/Screenshot-85-2-1200x427.png)
 
 The customer will be able to proceed to checkout only if the product quantity value satisfies.
 
@@ -212,12 +212,12 @@ So, using the split cart feature app, you can now restrict customer’s purchase
 **Case 1:** If the cart amount is less than the Minimum Purchase Amount even for a single seller whose products are added to the shopping cart.  
 **FAILED TO CHECK OUT**
 
-![Your-Shopping-Cart-–-Demo-Store-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/01/Your-Shopping-Cart-%E2%80%93-Demo-Store-1-1200x1010.png)
+[![Your-Shopping-Cart-–-Demo-Store-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/01/Your-Shopping-Cart-%E2%80%93-Demo-Store-1-1200x1010.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/01/Your-Shopping-Cart-%E2%80%93-Demo-Store-1-1200x1010.png)
 
 **Case 2**: If the cart amount is greater than the Minimum Purchase Amount set by all the sellers whose products are added to the shopping cart.  
 **CHECK OUT** **SUCCESSFULLY**
 
-![Your-Shopping-Cart-–-Demo-Store-2](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/01/Your-Shopping-Cart-%E2%80%93-Demo-Store-2-1200x1000.png)
+[![Your-Shopping-Cart-–-Demo-Store-2](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/01/Your-Shopping-Cart-%E2%80%93-Demo-Store-2-1200x1000.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/01/Your-Shopping-Cart-%E2%80%93-Demo-Store-2-1200x1000.png)
 
 ### Demo
 

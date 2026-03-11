@@ -14,25 +14,25 @@ Visit **Multivendor Admin Panel** > **Configuration** > **Order Configuration**
 
 **NOTE: Once you enable the partial fulfillment option, you can’t disable it further!**
 
-![Enable Partial Fulfillment](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/02/download-1-1-1200x567.png)
+[![Enable Partial Fulfillment](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/02/download-1-1-1200x567.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/02/download-1-1-1200x567.png)
 
  Steps to Partially Fulfill the Orders
 ---------------
 The seller needs to visit **MVM Seller Panel** > **Orders** > **Order Listing**\> **View** the order you want to fulfill > **Accept** the order and then proceed to fulfill:
 
-![Proceed to partial fulfill order](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/02/image-2-1200x597.png)
+[![Proceed to partial fulfill order](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/02/partialproceedtofulfill.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/02/partialproceedtofulfill.webp)
 
 Next, enter the quantity of products you want to fulfill and proceed.
 
-![image-3](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/02/image-3-1200x597.png)
+[![image-3](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/02/fulfillnowpartial.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/02/fulfillnowpartial.webp)
 
 Further, enter the fulfillment method, enter the tracking details if needed and fulfill.
 
-![image-4](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/02/image-4-1200x542.png)
+[![image-4](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/02/fulfillpopuppartial.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/02/fulfillpopuppartial.webp)
 
 On the order page, you will have the fulfilled & unfilled products listed:
 
-![image-5](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/02/image-5-1200x886.png)
+[![image-5](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/02/unfulfilledandfulfilledorderpartial.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/02/unfulfilledandfulfilledorderpartial.webp)
 
 Drop your query/suggestion at support@webkul.com or create your ticket at [Webkul UV Desk](https://webkul.uvdesk.com/).
 

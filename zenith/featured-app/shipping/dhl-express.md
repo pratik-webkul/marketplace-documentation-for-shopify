@@ -22,7 +22,7 @@ Above all, access to Shipping requires your Shopify store to be on the plan that
 ----------------
 The admin needs to visit the **multi-vendor marketplace admin panel** > click on the **three dots** > click on the **feature apps**. Further, **enable** the **DHL Express** feature app.
 
-![Feature_Apps_Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/featuredapps.webp)
+[![Feature_Apps_Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/featuredapps.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/featuredapps.webp)
 
 Furthermore, **agree** & **approve** the charges to complete the installation process.
 
@@ -34,11 +34,11 @@ Firstly, the admin needs to enable this shipping method from the shipping config
 
 Click on the **three dots** under the **Action** menu & further, click on **enable**.
 
-![Configuration_Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/enabledhl.webp)
+[![Configuration_Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/enabledhl.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/enabledhl.webp)
 
 Moving on, the admin needs to configure the DHL Express method. So, for this, click on **Configure Shipping**. Refer:
 
-![Configuration_Admin-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/configureshipping.webp)
+[![Configuration_Admin-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/configureshipping.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/configureshipping.webp)
 
  DHL Express Configuration
 ------------------
@@ -51,7 +51,7 @@ On the following page, configure the following details:
 *   Password: Enter Password value provided by DHL Express Provider.
 *   Shipper Account Number: Enter Shipper Account Number Provided by DHL Express Provider.
 
-![screencapture_shopify_trunk_webkul_shopify_mp_admin_index_php_2020_05_14_17_10_35](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/dhlconfigone.webp)
+[![screencapture_shopify_trunk_webkul_shopify_mp_admin_index_php_2020_05_14_17_10_35](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/dhlconfigone.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/dhlconfigone.webp)
 
 *   Choose Domestic Service:
     *   Same Day
@@ -76,11 +76,11 @@ On the following page, configure the following details:
 *   Pickup Days: Enter the minimum number of days within which the pickup can be done.
 *   Pickup Time: We update the time slots as per Pacific Time (PT) that is 7 hours lesser than the time you choose.
 
-![screencapture_shopify_trunk_webkul_shopify_mp_admin_index_php_2020_05_14_17_10_35-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/dhlconfigtwo.webp)
+[![screencapture_shopify_trunk_webkul_shopify_mp_admin_index_php_2020_05_14_17_10_35-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/dhlconfigtwo.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/dhlconfigtwo.webp)
 
 If you want your seller to add there DHL credentials then enable this configuration:
 
-![image-6](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/dhlconfigthree.webp)
+[![image-6](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/dhlconfigthree.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/dhlconfigthree.webp)
 
  Set Shipping Method For Sellers:
 ------------------------
@@ -89,15 +89,15 @@ Go to **multi vendor marketplace admin panel** > **Sellers** > **Seller Lis
 
 On the edit seller page, the admin will have the following block from where he can enable/disable/set as default:
 
-![Edit_Seller_Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/admineditseller.webp)
+[![Edit_Seller_Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/admineditseller.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/admineditseller.webp)
 
 Further, the admin can view all the sellers which are using this shipping method by going to **multi vendor marketplace admin panel** > **configuration** > **Shipping** **Configuration**:
 
-![Configuration_Admin-2](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/viewsellers-1.webp)
+[![Configuration_Admin-2](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/viewsellers-1.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/viewsellers-1.webp)
 
 The redirected page:
 
-![screencapture_shopify_trunk_webkul_shopify_mp_admin_index_php_2020_05_14_17_31_19](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/viewsellersedit.webp)
+[![screencapture_shopify_trunk_webkul_shopify_mp_admin_index_php_2020_05_14_17_31_19](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/viewsellersedit.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/viewsellersedit.webp)
 
 Here, clicking on the ‘Edit’ button for a particular seller will redirect you to the ‘Edit Seller’ page
 
@@ -109,7 +109,7 @@ To use this feature add-on, the admin needs to make the **shipping** **address
 
 So, to do this, go to **Shopify Backend** > **Settings** > **Checkout** > Under **Form Options**, make **Shipping** **address phone number** as **Required**:
 
-![133](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/09/demo-store-Checkout-Shopify-1200x597.png)
+[![133](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/09/demo-store-Checkout-Shopify-1200x597.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/09/demo-store-Checkout-Shopify-1200x597.png)
 
  Configuration: Seller End
 ------------------
@@ -117,17 +117,17 @@ Further, the seller can configuration DHL Express from his panel.
 
 Go to **Multi-Vendor Marketplace Seller Panel** > **Configuration** > **Shipping Configuration**\> **Enable**/**Disable** the shipping:
 
-![Shipping_Configuration_Seller_•_Multivendor_MarketPlace](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/sellerenabled.webp)
+[![Shipping_Configuration_Seller_•_Multivendor_MarketPlace](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/sellerenabled.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/sellerenabled.webp)
 
 Furthermore, the seller can set the shipping method as **by-default** so that every single product created by him will have **DHL** as the **by-default shipping method**.
 
 Clicking on ‘**Set As Default**‘ will give you the following dialogue box:
 
-![Shipping_Configuration_Seller_•_Multivendor_MarketPlace-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/sellersetasdefault.webp)
+[![Shipping_Configuration_Seller_•_Multivendor_MarketPlace-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/sellersetasdefault.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/sellersetasdefault.webp)
 
 Now, the seller needs to visit **Configuration** > **DHL Express Configuration**: Enter the required details. (This section will only appear if the admin has allowed the sellers to enter their credentials.)
 
-![image-7](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/sellersideconfig.webp)
+[![image-7](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/sellersideconfig.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/sellersideconfig.webp)
 
  Set Default Shipping Method For Products
 -----------------------
@@ -139,17 +139,17 @@ If not this, the seller can set the shipping method on individual products while
 
 So, go to **Multi-vendor marketplace seller panel** > **Products** >**Product Listing** \> **Add**/**Edit** the Product:
 
-![Screenshot_from_2020_05_14_17_45_51](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/selectshippingmethod.webp)
+[![Screenshot_from_2020_05_14_17_45_51](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/selectshippingmethod.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/selectshippingmethod.webp)
 
  **Global Configuration**
 --------------------------
 Further, click on the **Global Configuration** menu:
 
-![Shipping_Configuration_Seller_•_Multivendor_MarketPlace-2](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/05/Shipping_Configuration_Seller_%E2%80%A2_Multivendor_MarketPlace-2-1200x597.png)
+[![Shipping_Configuration_Seller_•_Multivendor_MarketPlace-2](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/05/Shipping_Configuration_Seller_%E2%80%A2_Multivendor_MarketPlace-2-1200x597.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/05/Shipping_Configuration_Seller_%E2%80%A2_Multivendor_MarketPlace-2-1200x597.png)
 
 So, from here, the seller can do the **SHIPPING PACKET CONFIGURATION**:
 
-![screencapture-shopify-trunk-webkul-shopify-mp-index-php-2020-05-14-17_40_04](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/globalconfigseller.webp)
+[![screencapture-shopify-trunk-webkul-shopify-mp-index-php-2020-05-14-17_40_04](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/globalconfigseller.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/globalconfigseller.webp)
 
 Enter the shipping packet configurations & pickup time & days for DHL Express shipping.
 
@@ -159,7 +159,7 @@ Enter the shipping packet configurations & pickup time & days for DHL Express sh
 
 Likewise, the customer will have an option to select the shipping method as per configured from the backend after entering the information:
 
-![Shipping_Coco_Cleen_Checkout-1-3](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/05/Shipping_Coco_Cleen_Checkout-1-3-1200x597.png)
+[![Shipping_Coco_Cleen_Checkout-1-3](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/05/Shipping_Coco_Cleen_Checkout-1-3-1200x597.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/05/Shipping_Coco_Cleen_Checkout-1-3-1200x597.png)
 
  Shipping Label Generation
 ---------------------
@@ -169,25 +169,25 @@ Seller will have an option to generate the shipping label from their seller pane
 
 Go to **Multi-vendor marketplace seller panel** > **Orders** > **Order Listing** > **View** (under **Action**). Select the method of order fulfillment as **DHL** and fulfill the order.
 
-![Order_Details_Seller_•_Multivendor_MarketPlace-2](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/orderfullpage.webp)
+[![Order_Details_Seller_•_Multivendor_MarketPlace-2](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/orderfullpage.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/orderfullpage.webp)
 
 As soon as the order will be fulfilled, the shipping label will be automatically downloaded.
 
-![Order_Details_Seller_•_Multivendor_MarketPlace-1-3](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/05/Order_Details_Seller_%E2%80%A2_Multivendor_MarketPlace-1-3-1200x597.png)
+[![Order_Details_Seller_•_Multivendor_MarketPlace-1-3](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/05/Order_Details_Seller_%E2%80%A2_Multivendor_MarketPlace-1-3-1200x597.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/05/Order_Details_Seller_%E2%80%A2_Multivendor_MarketPlace-1-3-1200x597.png)
 
 (i)
 
-![screencapture_mansi_store_2_sp_seller_webkul_index_php_2020_05_14_19_23_57](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/05/screencapture_mansi_store_2_sp_seller_webkul_index_php_2020_05_14_19_23_57-1200x863.png)
+[![screencapture_mansi_store_2_sp_seller_webkul_index_php_2020_05_14_19_23_57](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/05/screencapture_mansi_store_2_sp_seller_webkul_index_php_2020_05_14_19_23_57-1200x863.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/05/screencapture_mansi_store_2_sp_seller_webkul_index_php_2020_05_14_19_23_57-1200x863.png)
 
 (ii)
 
 Moreover, if you again want to download the shipping label, go to ADDITIONAL ORDER DETAILS, click on **Actions** > **Print Shipping Label**:
 
-![Order-Details-Seller-•-Multivendor-MarketPlace-4](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/generateshiipinglabel.webp)
+[![Order-Details-Seller-•-Multivendor-MarketPlace-4](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/generateshiipinglabel.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/generateshiipinglabel.webp)
 
 Furthermore, this is how the shipping label will be downloaded in pdf form:
 
-![Screenshot_from_2020_05_14_19_31_41](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/05/Screenshot_from_2020_05_14_19_31_41.png)
+[![Screenshot_from_2020_05_14_19_31_41](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/05/Screenshot_from_2020_05_14_19_31_41.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/05/Screenshot_from_2020_05_14_19_31_41.png)
 
-![Screenshot_from_2020_05_14_19_31_49](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/05/Screenshot_from_2020_05_14_19_31_49.png)
+[![Screenshot_from_2020_05_14_19_31_49](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/05/Screenshot_from_2020_05_14_19_31_49.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/05/Screenshot_from_2020_05_14_19_31_49.png)
 

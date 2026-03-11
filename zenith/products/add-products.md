@@ -25,11 +25,11 @@ You can also add products from your admin panel and assign products to any of yo
 -------------------------
 In order to add items, you need to visit the **Products** section of the app.
 
-![Products](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/adp2.webp)
+[![Products](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/adp2.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/adp2.webp)
 
 Go to the Product Listing & get the option to **Add Products**. All the added products will be listed in the same section.
 
-![Add products](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/adp3.webp)
+[![Add products](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/adp3.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/adp3.webp)
 
 *   Clicking the Add Product button, product form appears. Now, enter the details in the given fields of the product form.
 *   Choose products that you want to sell i.e. **Normal** (Physical) or [Digital product](/zenith/products/digital-products.html).
@@ -43,13 +43,13 @@ _**NOTE:** When adding a product, if you upload an image larger than 500kb, our 
 
 _However, if the image is smaller than 500kb, the original quality will be retained._
 
-![upload image](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/adp4.webp)
+[![upload image](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/adp4.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/adp4.webp)
 
 *   Shipping Details:- Enter product **weight**, choose "requires [shipping](/zenith/featured-app/shipping/marketplace-shipping)" in case of normal products & choose a **shipping method** for the product.
 *   Pricing Details:- Enter product **price** & [compare at price](https://help.shopify.com/en/manual/promoting-marketing/discount-codes/sales), if required. Choose to charge tax for the product.
 *   Inventory Details:- Enter **barcode** & product **SKU** to identify & track product inventory or stock.
 
-![product details](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/adp5.webp)
+[![product details](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/adp5.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/adp5.webp)
 
 Moreover, add a good quality image of your product, select a collection.  
 Most Importantly, mention the Meta Fields for your product i.e. **Meta Title** & **Meta Description**.
@@ -61,7 +61,7 @@ Most Importantly, mention the Meta Fields for your product i.e. **Meta Title** &
   
 The admin can use the "filter by" option in the product listing to search the product by SKU, approved, disabled, approval pending, reapproval, and global product.
 
-![Screenshot10](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/01/Screenshot10-1200x295.png)
+[![Screenshot10](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/01/Screenshot10-1200x295.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/01/Screenshot10-1200x295.png)
 
  How to Add Variants?
 -----------------------
@@ -77,11 +77,11 @@ In the app, you can add variants to the products from the product form. Firstly,
 
 Firstly, click the "Add Variant" button in the product form.
 
-![add variants](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/adp6.webp)
+[![add variants](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/adp6.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/adp6.webp)
 
 Clicking the Add Variant button, get the options to add options & related variants for the product.
 
-![add option ](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/adp7.webp)
+[![add option ](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/adp7.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/adp7.webp)
 
 Click the **Save** button.
 
@@ -91,13 +91,13 @@ You can also edit or update products once added. For that, you can visit the Pro
 
 **NOTE:** When editing or updating a product, you can edit the image by resizing, cropping, rotating, or deleting it.
 
-![edit_product](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/adp8.webp)
+[![edit_product](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/adp8.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/adp8.webp)
 
 Go to the Multi-vendor admin panel>>**Products**\>>**Product Listing**\>>Edit (Action)>>Edit the details on the Edit Product page>>**Save** Changes.
 
 Note:- You can't edit product type (normal or digital) and seller email of any product.
 
-![edit products](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/adp9.webp)
+[![edit products](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/adp9.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/adp9.webp)
 
  Bulk Edit Products
 ----------------------
@@ -105,19 +105,19 @@ You can also edit the products in bulk in the app.
 
 ### STEP 1: Visit the Product Listing page & click **Bulk Edit** button from the drop-down menu in **More Action**.
 
-![bulk edit ](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/adp10.webp)
+[![bulk edit ](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/adp10.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/adp10.webp)
 
 ### STEP 2: Export CSV
 
 Clicking the **Bulk Edit** button, you need to select the start & end date of product creation & click the **Export** button to export the product CSV file.
 
-![bulk edit](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/adp11.webp)
+[![bulk edit](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/adp11.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/adp11.webp)
 
 ### STEP 3: Import the products via CSV, once edited.
 
 Export the CSV file & make the changes in the product SKU, Quantity, Price wherever required. Once the changes are made in the product CSV, import the same in the app.
 
-![import](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/adp12.webp)
+[![import](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/adp12.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/adp12.webp)
 
 **PLEASE NOTE:**\- You can edit the following product fields in the CSV via this process:-  
 \-Variant **SKU**  
@@ -130,30 +130,30 @@ In case you want to update more fields, you can **[Update Products via CSV using
 ---------------
 Firstly, click the "**Edit Option**" button to add options for the product.
 
-![edit option](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/adp13.webp)
+[![edit option](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/adp13.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/adp13.webp)
 
   
 Once you click on the **Edit Option**, you will be redirected to the product edit page, where you can modify the option details — as shown in the image below.
 
-![edit](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/adp14.webp)
+[![edit](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/adp14.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/adp14.webp)
 
-![image](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/adp15.webp)
+[![image](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/adp15.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/adp15.webp)
 
 Now, proceed further to add more variants to the added options. For that, you need to click the "**Add Variant**" button.
 
-![Add Variant](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/adp16.webp)
+[![Add Variant](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/adp16.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/adp16.webp)
 
 Clicking the Add Variant button, you will be redirected to a new page from where you can add variants to multiple options.
 
 Additionally, you can **add different images** **to the different variants** & set up the **variant pricing**, **inventory** & **shipping** details.
 
-![variant details](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/adp17.webp)
+[![variant details](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/adp17.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/adp17.webp)
 
 This way, you can add variants to products in the app.
 
 Added variants on the product page:-
 
-![front end](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/adp18.webp)
+[![front end](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/adp18.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/adp18.webp)
 
 This way, you can edit the products
 
@@ -169,17 +169,17 @@ In the multi-vendor marketplace app, both you and your sellers can add items in 
 
 Firstly, you need to enable the option from the **Product Configuration** menu (under the **Configuration** menu) of the app.
 
-![configuration](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/adp19.webp)
+[![configuration](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/adp19.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/adp19.webp)
 
 Once enabled, you will get the option to add items via CSV in the Product Listing menu.
 
 **ADMIN END**
 
-![admin bulk upload](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/adp20.webp)
+[![admin bulk upload](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/adp20.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/adp20.webp)
 
 **SELLER END**
 
-![seller adding products](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/adp21.webp)
+[![seller adding products](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/adp21.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/adp21.webp)
 
 **For more details, do follow this guide to understand to upload Products via CSV by avoiding certain mistakes:-**
 
@@ -192,7 +192,7 @@ Once enabled, you will get the option to add items via CSV in the Product Listin
 Now, after the product is added and the product is not approved yet the admin can deny that product in bulk  
 Select that pending products >> Click on the bulk action dropdown >> click "Deny selected"
 
-![Screenshot-9](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/adp22.webp)
+[![Screenshot-9](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/adp22.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/adp22.webp)
 
 The seller will now have the flexibility to add a different weight unit to each product variant in the app.
 
@@ -206,7 +206,7 @@ In the **Shipping Details** section, the seller can manage the **weight unit** o
 
 SELLER END
 
-![Add-Variant-Seller-•-Multivendor-MarketPlace](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/adp23.webp)
+[![Add-Variant-Seller-•-Multivendor-MarketPlace](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/adp23.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/adp23.webp)
 
 As an **admin**, you can select a different **weight unit** for each product variant in your marketplace.
 
@@ -214,7 +214,7 @@ This allows you to set a different **product weight** for each variant based on 
 
 ADMIN PANEL
 
-![Edit-Variant-Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/adp24.webp)
+[![Edit-Variant-Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/adp24.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/adp24.webp)
 
 Later, you can edit the unit for any of the product variants.
 
@@ -222,7 +222,7 @@ You can now allow sellers to reorder product variants with the Multi-vendor Mark
 
 Proceed to the **Products** section and select the variant that you wish to add for reOrder.
 
-![Screenshot-2021-08-23T115921.262](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/adp25.webp)
+[![Screenshot-2021-08-23T115921.262](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/adp25.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/adp25.webp)
 
 ### Video Guide to Add Products via CSV
 

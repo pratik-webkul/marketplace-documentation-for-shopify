@@ -37,29 +37,29 @@ There are certain limitations of this feature app listed below which you need to
 
  Installation
 --------------
-![Feature App](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/07/Dashboard-Admin.png)
+[![Feature App](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/07/Dashboard-Admin.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/07/Dashboard-Admin.png)
 
 To make this app work on your marketplace, first of all, you need to enable this feature from the "Featured Apps" section of the Multivendor app.
 
-![asdvbn](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/10/Feature-Apps-Admin-1.png)
+[![asdvbn](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/10/Feature-Apps-Admin-1.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/10/Feature-Apps-Admin-1.png)
 
 Once you visit the Feature Apps section you will get this feature app. You just need to click the **Enable** button to activate this feature on your marketplace.
 
 Once you click on the enable button you need to agree with the payment condition. Once you enable this feature $10 per month gets added to your current Multivendor plan.
 
-![Agree](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/07/Feature-Apps-Admin-1.png)
+[![Agree](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/07/Feature-Apps-Admin-1.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/07/Feature-Apps-Admin-1.png)
 
-![Approve charge](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/07/Demo-Store-Approve-fees-Shopify.png)
+[![Approve charge](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/07/Demo-Store-Approve-fees-Shopify.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/07/Demo-Store-Approve-fees-Shopify.png)
 
 By clicking the agree button you can approve the charge for this feature and get this app installed. In this way, you can get this app installed on your Marketplace.
 
  Product Feed Configuration
 -----------------
-![Product Feed](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/07/Feature-Apps-Admin-3.png)
+[![Product Feed](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/07/Feature-Apps-Admin-3.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/07/Feature-Apps-Admin-3.png)
 
 Once you enable this app, you first need to configure the feed related settings from the Configuration section of the Multivendor app.
 
-![Add Feed](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/07/Product-Feed-Admin.png)
+[![Add Feed](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/07/Product-Feed-Admin.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/07/Product-Feed-Admin.png)
 
 Visiting this Product Feed section you need to click on the "**Add Product Feed**" button to add related details of the product Feed.
 
@@ -80,29 +80,29 @@ Here:-
 Start Node:- Product  
 End Node:- Product
 
-![sdfg](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/10/Screenshot5.png)
+[![sdfg](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/10/Screenshot5.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/10/Screenshot5.png)
 
 While setting up the Price Rule of the feed you can increase, decrease the Feed Product price as well as set it to Neutral.
 
 Change in the Product Feed Price can be set in percentage or a fixed amount.
 
-![Add details](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/07/Edit-Product-Feed.png)
+[![Add details](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/07/Edit-Product-Feed.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/07/Edit-Product-Feed.png)
 
 Once you are done with all these settings, just save the details and proceed to upload an XML file. Once uploaded, you need to validate the XML file.
 
-![upload Sample XML](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/07/Upload-Sample-XML.png)
+[![upload Sample XML](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/07/Upload-Sample-XML.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/07/Upload-Sample-XML.png)
 
 By clicking this **Save and Upload XML** you will be reaching a page where you can upload a sample XML file that contains all the necessary information about a single product.
 
 Once it gets uploaded you can validate the file and proceed to map the entities.
 
-![Add Mapping](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/07/Upload-Sample-XML-1.png)
+[![Add Mapping](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/07/Upload-Sample-XML-1.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/07/Upload-Sample-XML-1.png)
 
 Once you validate the XML file, you can now proceed to map all the product entities available in the Product Feed  XML file with the pre-defined Shopify store product entities.
 
 Click on the Save button to add this Product Feed.
 
-![edit feed](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/07/Product-Feed-Admin-1.png)
+[![edit feed](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/07/Product-Feed-Admin-1.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/07/Product-Feed-Admin-1.png)
 
 Once you add this feed, you can view this in the Add Feed section of the app. Also you can edit the Product feed details as well as delete the Feed from Action menu.
 
@@ -110,7 +110,7 @@ In this way admin can add Feeds on his/her end.
 
  Adding Feed Products
 -----------------
-![add feed products](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/07/Dashboard-Admin-1.png)
+[![add feed products](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/07/Dashboard-Admin-1.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/07/Dashboard-Admin-1.png)
 
 Now, You can add feed Products and assign it to your registered sellers. For this, you need to enter the following details:-
 
@@ -120,7 +120,7 @@ Now, You can add feed Products and assign it to your registered sellers. For thi
 
 **Feed URL:-** You need to mention the resource URL where the seller has added/uploaded/stored the XML file.
 
-![feed products](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/07/Add-Product-By-Feed-1.png)
+[![feed products](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/07/Add-Product-By-Feed-1.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/07/Add-Product-By-Feed-1.png)
 
 Now, once you save the details, you will get the options to map collection in your feed to the available collection.
 
@@ -130,15 +130,15 @@ Admin can edit the feed product added, he can approve the product and also deny 
 
 He can deny and delete the feed product at the same time also.
 
-![product detail](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/07/Product-Admin.png)
+[![product detail](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/07/Product-Admin.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/07/Product-Admin.png)
 
 In case you want to deny the product, you can simply add a reason & unapprove the same.
 
-![deny product](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/07/Screenshot-9-3.png)
+[![deny product](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/07/Screenshot-9-3.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/07/Screenshot-9-3.png)
 
  Seller End
 -----------------
-![add feed product](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/07/Dashboard-Seller-•-Multivendor-MarketPlace.png)
+[![add feed product](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/07/Dashboard-Seller-•-Multivendor-MarketPlace.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/07/Dashboard-Seller-•-Multivendor-MarketPlace.png)
 
 Once you enable the Product Feed feature app on your marketplace, your registered sellers can also add Feed Products from the Products section of the seller panel.
 
@@ -146,11 +146,11 @@ Here in this section sellers can add Products in bulk using XML file by adding F
 
 **Feed URL:-** The URL where the XML file of the products is uploaded.
 
-![Add feed1](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/07/Add-Product-By-Feed-Seller-•-Multivendor-MarketPlace.png)
+[![Add feed1](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/07/Add-Product-By-Feed-Seller-•-Multivendor-MarketPlace.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/07/Add-Product-By-Feed-Seller-•-Multivendor-MarketPlace.png)
 
 The seller can view the list of added fields in the Product Listing section of the app.
 
-![product details](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/07/Product-Seller-•-Multivendor-MarketPlace.png)
+[![product details](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/07/Product-Seller-•-Multivendor-MarketPlace.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/07/Product-Seller-•-Multivendor-MarketPlace.png)
 
 Once the seller adds the Feed Product, he/she can view the list of Products in the Product Listing section of the Seller Panel and can anytime edit or delete the Product from the action menu.
 

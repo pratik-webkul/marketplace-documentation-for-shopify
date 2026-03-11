@@ -30,7 +30,7 @@ The connector will work with newly added products, if the below three important 
 
 To enable this feature app, you need to visit the Feature app section and enable the SooPOS connector feature app. Click the **Enable** button to activate the feature app.
 
-![Feature-Apps-Admin-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/09/Feature-Apps-Admin-1-1200x597.png)
+[![Feature-Apps-Admin-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/09/Feature-Apps-Admin-1-1200x597.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/09/Feature-Apps-Admin-1-1200x597.png)
 
  WorkFlow
 -----------------------
@@ -41,11 +41,11 @@ After activating the feature app, the seller will get a new configuration added 
 
 The seller needs to log into their seller panel. Then, go to Configurations>>SooPOS Configurations.
 
-![Dashboard-Seller-•-Multivendor-MarketPlace](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/09/Dashboard-Seller-%E2%80%A2-Multivendor-MarketPlace-1200x597.png)
+[![Dashboard-Seller-•-Multivendor-MarketPlace](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/09/Dashboard-Seller-%E2%80%A2-Multivendor-MarketPlace-1200x597.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/09/Dashboard-Seller-%E2%80%A2-Multivendor-MarketPlace-1200x597.png)
 
 From here, Seller needs to enable the SooPOS option.
 
-![sooPOS-Details-Seller-•-Multivendor-MarketPlace](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/09/sooPOS-Details-Seller-%E2%80%A2-Multivendor-MarketPlace-1200x597.png)
+[![sooPOS-Details-Seller-•-Multivendor-MarketPlace](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/09/sooPOS-Details-Seller-%E2%80%A2-Multivendor-MarketPlace-1200x597.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/09/sooPOS-Details-Seller-%E2%80%A2-Multivendor-MarketPlace-1200x597.png)
 
 That's all required for sellers.
 
@@ -62,17 +62,17 @@ _**Please Note: It will work on newly added products only. For Old products, the
 
 Make Sure the **"SooPOS" Tag i**s available on **the products** that you are going to import to the app.
 
-![ravikant-store1-Products-Cup-Cake-Shopify](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/09/ravikant-store1-Products-Cup-Cake-Shopify-1200x597.png)
+[![ravikant-store1-Products-Cup-Cake-Shopify](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/09/ravikant-store1-Products-Cup-Cake-Shopify-1200x597.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/09/ravikant-store1-Products-Cup-Cake-Shopify-1200x597.png)
 
 Secondly, make sure that **the seller shop name in the app should match the "vendor" name** on Shopify.
 
 Below screenshot shows the seller shop name on the multi-vendor app:-
 
-![Edit-Seller-Admin-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/09/Edit-Seller-Admin-1-1200x597.png)
+[![Edit-Seller-Admin-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/09/Edit-Seller-Admin-1-1200x597.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/09/Edit-Seller-Admin-1-1200x597.png)
 
 Below screenshot shows the "Vendor" field on Shopify end:-
 
-![ravikant-store1-Products-Cup-Cake-Shopify-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/09/ravikant-store1-Products-Cup-Cake-Shopify-1-1200x597.png)
+[![ravikant-store1-Products-Cup-Cake-Shopify-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/09/ravikant-store1-Products-Cup-Cake-Shopify-1-1200x597.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/09/ravikant-store1-Products-Cup-Cake-Shopify-1-1200x597.png)
 
 That's all you need to check before importing products.
 

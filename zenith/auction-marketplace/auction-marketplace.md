@@ -43,7 +43,7 @@ _Starting an online auction marketplace will help you boost your engagement with
 
 _It will simply create an exciting online auction atmosphere!_
 
-![online auction marketplace](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/07/01062430/gavel-2492011_1920.jpg)
+[![online auction marketplace](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/07/01062430/gavel-2492011_1920.jpg)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/07/01062430/gavel-2492011_1920.jpg)
 
 Image Source: Pixabay
 
@@ -71,7 +71,7 @@ Moreover, all the auction-related details can be managed by the admin as well as
 
 ###### Demo of how your products with the auction will be displayed on the frontend using the app:
 
-![online auction website](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/07/01064333/screencapture-auction-10-myshopify-products-antique-gramophone-2019-07-01-12-11-40.png)
+[![online auction website](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/07/01064333/screencapture-auction-10-myshopify-products-antique-gramophone-2019-07-01-12-11-40.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/07/01064333/screencapture-auction-10-myshopify-products-antique-gramophone-2019-07-01-12-11-40.png)
 
 Selling Artwork on Online Auction
 ---------------------------------
@@ -86,7 +86,7 @@ Multi-Vendor Marketplace has an add-on by the name [Artist Product Design](/zeni
 
 Admin can create/add Artists on his store and let them add designs/artworks to sell. Moreover, using the **product auction for seller** add-on, he can put up those artworks on auction.
 
-![online auction website](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/07/01071144/architecture-art-art-exhibition-2372978-1.png)
+[![online auction website](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/07/01071144/architecture-art-art-exhibition-2372978-1.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/07/01071144/architecture-art-art-exhibition-2372978-1.png)
 
 Image Source: Pexels
 

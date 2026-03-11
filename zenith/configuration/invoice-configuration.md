@@ -27,11 +27,11 @@ From this section, you can enter or change the invoice details like Merchant Add
 
 Admin Panel>> Orders>> Invoice configuration >> Here add or edit the invoice details>>Save.
 
-![Multi-Vendor Marketplace Invoice](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/invoiceconfiguration.webp)
+[![Multi-Vendor Marketplace Invoice](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/invoiceconfiguration.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/invoiceconfiguration.webp)
 
 In addition to it, you can allow your sellers to generate invoices from their respective seller panels as well.
 
-![mv-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/invoiceconfigurationfullpage.webp)
+[![mv-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/invoiceconfigurationfullpage.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/invoiceconfigurationfullpage.webp)
 
  VAT on Commission
 -------------------
@@ -41,7 +41,7 @@ Simply choose whether you want to include the VAT on the commission or you want 
 
 You can visit the **Invoice Configuration** menu under the **Configuration** menu to configure the settings.
 
-![mv-2](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/vattypes.webp)
+[![mv-2](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/vattypes.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/vattypes.webp)
 
 **VAT Type:**  
 You need to choose whether you want to include or exclude the Tax on the commission.
@@ -73,13 +73,13 @@ In this case, the admin’s earnings will be $11 ($10 commission + $1 VAT) and t
 
 This VAT on commission will be visible on the order invoice that you send to your customers.
 
-![mv-3](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/04/mv-3-1200x634.png)
+[![mv-3](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/04/mv-3-1200x634.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/04/mv-3-1200x634.png)
 
-![mv-4](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/04/mv-4-1200x697.png)
+[![mv-4](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/04/mv-4-1200x697.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/04/mv-4-1200x697.png)
 
 Moreover, a new section is added to the **commission listing** section in the app.
 
-![mv-5](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/vatoncommission.webp)
+[![mv-5](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/vatoncommission.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/vatoncommission.webp)
 
  SELLER-WISE VAT ON COMMISSION
 -----------------------
@@ -87,11 +87,11 @@ Now, the admin can manage the VAT ON COMMISSION seller wise which means the admi
 
 For this, the admin can enable "ALLOW SELLER-WISE VAT ON COMMISSION" option in the invoice configuration as shown in the below image.
 
-![Edit-Invoice-Configuration-Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/sellerwisevat.webp)
+[![Edit-Invoice-Configuration-Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/sellerwisevat.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/sellerwisevat.webp)
 
 Then, the admin will see by default enabled "ELIGIBLE FOR VAT ON COMMISSION" option in seller detail which the admin can disable or enable for a particular seller.
 
-![Edit-Seller-Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/eligibleforvat.webp)
+[![Edit-Seller-Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/eligibleforvat.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/eligibleforvat.webp)
 
 Now, if the admin disable "ELIGIBLE FOR VAT ON COMMISSION" option for a particular seller
 
@@ -107,19 +107,19 @@ If this seller-wise vat on commission is set up in between then it will be appli
 ------------------------
 We have introduced a new feature that is **set** **up country-wise vat**. Once you enable the configuration you will find a green button on the top right-hand side.
 
-![mv-6](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/countrywisevat.webp)
+[![mv-6](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/countrywisevat.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/countrywisevat.webp)
 
 After clicking on the green button, you will see an option to select the country and VAT.
 
-![mv-7](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/viewvat.webp)
+[![mv-7](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/viewvat.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/viewvat.webp)
 
 Here you can select multiple countries and add VAT as per your requirement.
 
-![mv-8](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/addvat.webp)
+[![mv-8](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/addvat.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/addvat.webp)
 
 On the same page, you will get the list of added countries and the VAT, also you can edit and delete via the action button.
 
-![mv-9](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/vatlist.webp)
+[![mv-9](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/vatlist.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/vatlist.webp)
 
  ADMIN PANEL
 -----------------
@@ -133,17 +133,17 @@ To generate the invoice you need to visit the order sections of the app.
 
 Admin Panel>>Orders>> Orders Listing>>Click on the "View" button in from of Order ID>>Click"Generate Invoice">> Print.
 
-![Multi-Vendor Marketplace Invoice](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/orderlisting.webp)
+[![Multi-Vendor Marketplace Invoice](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/orderlisting.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/orderlisting.webp)
 
-![Multi-Vendor Marketplace Invoice](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/vieworder.webp)
+[![Multi-Vendor Marketplace Invoice](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/vieworder.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/vieworder.webp)
 
 Hence from here, admin can generate the admin to seller invoice as shown in the screenshot.
 
-![Multi-Vendor Marketplace Invoice](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/generateinvoice.webp)
+[![Multi-Vendor Marketplace Invoice](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/generateinvoice.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/generateinvoice.webp)
 
 So Admin to Seller invoice visible like this as showing in the screenshot.
 
-![Multi-Vendor Marketplace Invoice](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/04/f-1.png)
+[![Multi-Vendor Marketplace Invoice](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/04/f-1.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/04/f-1.png)
 
  INVOICE TEMPLATES:-
 --------------------
@@ -152,9 +152,9 @@ From this section, you can configure the template of the invoice sent from merch
 
 Additionally, you can configure the template of Shipping Label as well.
 
-![Multi-Vendor Marketplace Invoice](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/invoicetemp.webp)
+[![Multi-Vendor Marketplace Invoice](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/invoicetemp.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/invoicetemp.webp)
 
-![Multi-Vendor Marketplace Invoice](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/invoicetemptypes.webp)
+[![Multi-Vendor Marketplace Invoice](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/invoicetemptypes.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/invoicetemptypes.webp)
 
 SELLER BULK INVOICE:-
 ---------------------
@@ -165,17 +165,17 @@ Admin Panel>>Sellers>>Sellers Listing>> Click on "Edit" in front of SELLER ID>> 
 
 Refer to the below screenshots:-
 
-![Multi-Vendor Marketplace Invoice](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/sellerlisting-1.webp)
+[![Multi-Vendor Marketplace Invoice](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/sellerlisting-1.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/sellerlisting-1.webp)
 
-![Multi-Vendor Marketplace Invoice](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/sellerlistedit.webp)
+[![Multi-Vendor Marketplace Invoice](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/sellerlistedit.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/sellerlistedit.webp)
 
-![Multi-Vendor Marketplace Invoice](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/generateinvoice-1.webp)
+[![Multi-Vendor Marketplace Invoice](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/generateinvoice-1.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/generateinvoice-1.webp)
 
-![Multi-Vendor Marketplace Invoice](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/selectdate.webp)
+[![Multi-Vendor Marketplace Invoice](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/selectdate.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/selectdate.webp)
 
 So **Seller Bulk Invoice** visible like this as showing in the screenshot.
 
-![screencapture-sp-seller-webkul-admin-index-php-2020-04-29-16_50_44](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/04/screencapture-sp-seller-webkul-admin-index-php-2020-04-29-16_50_44-891x1024.png)
+[![screencapture-sp-seller-webkul-admin-index-php-2020-04-29-16_50_44](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/04/screencapture-sp-seller-webkul-admin-index-php-2020-04-29-16_50_44-891x1024.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/04/screencapture-sp-seller-webkul-admin-index-php-2020-04-29-16_50_44-891x1024.png)
 
  SELLER PANEL
 -------------------
@@ -189,30 +189,30 @@ To generate the invoice seller need to visit the order sections of their account
 
 Seller Panel>>Orders>> Orders Listing>>Click on"View" button in from of Order ID>>Click"Print Invoice">> Print.
 
-![Multi-Vendor Marketplace Invoice](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/sellerorderlisting.webp)
+[![Multi-Vendor Marketplace Invoice](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/sellerorderlisting.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/sellerorderlisting.webp)
 
-![Multi-Vendor Marketplace Invoice](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/sellerorderlistingview.webp)
+[![Multi-Vendor Marketplace Invoice](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/sellerorderlistingview.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/sellerorderlistingview.webp)
 
 Hence seller can printseller to customer invoice from here.
 
-![Multi-Vendor Marketplace Invoice](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/generateinvoicetype.webp)
+[![Multi-Vendor Marketplace Invoice](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/generateinvoicetype.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/generateinvoicetype.webp)
 
 So **Seller to Customer invoice** visible like this as showing in the screenshot.
 
-![Multi-Vendor Marketplace Invoice](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/04/26121956/Screenshot5.png)
+[![Multi-Vendor Marketplace Invoice](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/04/26121956/Screenshot5.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/04/26121956/Screenshot5.png)
 
 Seller will also get the option to print **Merchant to Seller Invoice** & the same will be shown like this:
 
-![Multi-Vendor Marketplace Invoice](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/04/26123940/Screenshot7.png)
+[![Multi-Vendor Marketplace Invoice](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/04/26123940/Screenshot7.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/04/26123940/Screenshot7.png)
 
 INVOICE CONFIGURATION OF SELLER PANEL:-
 ---------------------------------------
 
 From this section, the seller can enter or change the invoice details like seller Address, VAT Number, Fax, Date format and much more.
 
-![Multi-Vendor Marketplace Invoice](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/sellerinvoiceconfiguration.webp)
+[![Multi-Vendor Marketplace Invoice](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/sellerinvoiceconfiguration.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/sellerinvoiceconfiguration.webp)
 
-![Multi-Vendor Marketplace Invoice](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/invoicesetting.webp)
+[![Multi-Vendor Marketplace Invoice](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/invoicesetting.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/invoicesetting.webp)
 
 BULK INVOICE FOR ORDERS:-
 -------------------------
@@ -221,15 +221,15 @@ The seller can also generate the bulk invoice for orders and for this seller nee
 
 Seller panel>> Orders>>Orders Listing>> Select the orders for which you want to generate invoice >> Bulk action>> Bulk Invoice>> Print
 
-![Multi-Vendor Marketplace Invoice](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/sellerorderlisting.webp)
+[![Multi-Vendor Marketplace Invoice](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/sellerorderlisting.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/sellerorderlisting.webp)
 
 So from here, sellers can generate the bulk invoice's for multiple orders at once.
 
-![Multi-Vendor Marketplace Invoice](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/bulkinvoice.webp)
+[![Multi-Vendor Marketplace Invoice](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/bulkinvoice.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/bulkinvoice.webp)
 
 **Seller generated bulk invoice for orders:**
 
-![screencapture-mansi-store-2-sp-seller-webkul-index-php-2020-04-29-16_55_09-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/04/screencapture-mansi-store-2-sp-seller-webkul-index-php-2020-04-29-16_55_09-1-603x1024.png)
+[![screencapture-mansi-store-2-sp-seller-webkul-index-php-2020-04-29-16_55_09-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/04/screencapture-mansi-store-2-sp-seller-webkul-index-php-2020-04-29-16_55_09-1-603x1024.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/04/screencapture-mansi-store-2-sp-seller-webkul-index-php-2020-04-29-16_55_09-1-603x1024.png)
 
 ### Seller to Customer Item Fulfillment Invoice
 
@@ -237,7 +237,7 @@ You can now send the order invoice in the fulfillment reminder mails sent to the
 
 Once a seller fulfills the customer's order from the seller panel, the customer will receive a fulfillment mail with the order invoice attached to it. **[Know More](https://webkul.com/blog/shopify-multivendor-marketplace-app-new-upgraded-features/#attach-invoice-seller-to-customer-to-the-order-fulfillment-mail)**
 
-![Mail-Configuration-Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/mailtemp-1.webp)
+[![Mail-Configuration-Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/mailtemp-1.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/mailtemp-1.webp)
 
  Generate Invoice with Seller Name+Order ID as Invoice Number
 -----------------------------
@@ -245,15 +245,15 @@ In the app, you can now generate "merchant to seller" invoices with the seller n
 
 Firstly, you need to enable this tab from the "Invoice Configuration" menu of the app.
 
-![Screenshot-2020-06-11T182642.344](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/generaterinvoiceorderid.webp)
+[![Screenshot-2020-06-11T182642.344](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/generaterinvoiceorderid.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/generaterinvoiceorderid.webp)
 
 Go to the Order Detail page and generate invoices. This is how the invoice will be printed & the invoice number will be shown like this:
 
-![Screenshot14-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/06/Screenshot14-1.png)
+[![Screenshot14-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/06/Screenshot14-1.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/06/Screenshot14-1.png)
 
 Moreover, the seller can download the invoice from their respective seller panels:
 
-![seller end](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/sellerdownloadinvoice.webp)
+[![seller end](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/sellerdownloadinvoice.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/sellerdownloadinvoice.webp)
 
  Packaging Slip Invoice
 ----------------------------------
@@ -271,23 +271,23 @@ You will have the option to edit the template of the slip from the "Invoice Conf
 
 To customize the packaging slip, You need to visit the admin panel>>Go to Orders\>>**Invoice Configurations**.
 
-![Screenshot23-2](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/pstinvoicetemp.webp)
+[![Screenshot23-2](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/pstinvoicetemp.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/pstinvoicetemp.webp)
 
 Clicking the Packaging Slip, you will get the option to edit the content as per the requirement.
 
-![Invoice-Template-Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/packaginginvoicetemp.webp)
+[![Invoice-Template-Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/packaginginvoicetemp.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/packaginginvoicetemp.webp)
 
 **SELLER END**
 --------------------
 The seller can download the packaging slip from the Order Detail page of the seller panel. Go to the seller panel>>Click **Orders**\>>Order Listing>>Edit order.
 
-![Order-Details-Seller-•-Multivendor-MarketPlace-3](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/sellerpackaginginvoice-1.webp)
+[![Order-Details-Seller-•-Multivendor-MarketPlace-3](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/sellerpackaginginvoice-1.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/sellerpackaginginvoice-1.webp)
 
 Packaging Slip Invoice Generated:-
 
-![Print-Invoice-Seller-•-Multivendor-MarketPlace](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/10/Print-Invoice-Seller-%E2%80%A2-Multivendor-MarketPlace-1200x733.png)
+[![Print-Invoice-Seller-•-Multivendor-MarketPlace](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/10/Print-Invoice-Seller-%E2%80%A2-Multivendor-MarketPlace-1200x733.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/10/Print-Invoice-Seller-%E2%80%A2-Multivendor-MarketPlace-1200x733.png)
 
-![Screenshot24-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/10/Screenshot24-1.png)
+[![Screenshot24-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/10/Screenshot24-1.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/10/Screenshot24-1.png)
 
 Printed Packaging Slip
 
@@ -297,11 +297,11 @@ You can now auto-generate the order invoices in bulk by configuring the order st
 
 For this, you need to visit the Multi-vendor admin panel>>**Orders**\>>**Invoice Configuration** menu in the app.
 
-![edd14c2a-4109-458a-9226-76a1a7a93e20](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/invoiceconfiguration.webp)
+[![edd14c2a-4109-458a-9226-76a1a7a93e20](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/invoiceconfiguration.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/invoiceconfiguration.webp)
 
 Visiting this section, enable Automated Bulk Invoice tab.
 
-![download-25](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/automatedbulkinvoice.webp)
+[![download-25](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/automatedbulkinvoice.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/automatedbulkinvoice.webp)
 
 After that, select the time duration to auto-generate order invoice. You will have two options in this case:-
 
@@ -311,7 +311,7 @@ Two Invoice:- In case you choose to generate two invoices, invoice for a month w
 
 One from 1st to 15th date of the month and second will be from 16th to last date of that month.
 
-![download-26](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/selectduration.webp)
+[![download-26](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/selectduration.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/selectduration.webp)
 
 Moreover, you can select the order status if you want to auto-generate invoices for fulfilled orders or for delivered orders.
 
@@ -319,7 +319,7 @@ Now, the admin/seller can view the auto-generated invoices from the Automated Se
 
 This is how the auto-generated invoices get listed:-
 
-![download-27](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/03/download-27-1200x506.png)
+[![download-27](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/03/download-27-1200x506.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/03/download-27-1200x506.png)
 
 This section lists the invoices of the respective month. You can filter the invoices on the basis of date when the invoice is created.
 
@@ -327,7 +327,7 @@ You need to select the date range and click the **Get** button. Now, you can pri
 
 Similarly, the auto-generated invoices will appear in the **Automated Seller Invoice** menu of the seller panel. They can print invoices from this section.
 
-![download-28](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/03/download-28-1200x500.png)
+[![download-28](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/03/download-28-1200x500.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/03/download-28-1200x500.png)
 
  Edit the Automated Bulk Invoice
 --------------------------
@@ -337,7 +337,7 @@ Just Go to the Marketplace Admin dashboard >> Orders >> Invoice templates >>> ch
 
 click on Edit and rewrite the invoice template as per requirements and click SAVE button.
 
-![invoice](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/merchantsellerinvoicetemp.webp)
+[![invoice](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/merchantsellerinvoicetemp.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/merchantsellerinvoicetemp.webp)
 
 This is all about the Multi-vendor Invoice Feature.
 
@@ -352,11 +352,11 @@ Kindly navigate to Multivendor Admin panel dashboard >> Orders >> Invoice Config
 
 Refer to the screenshots below:
 
-![admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/invoiceconfiguration.webp)
+[![admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/invoiceconfiguration.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/invoiceconfiguration.webp)
 
-![invoice](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/taxbreakup.webp)
+[![invoice](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/taxbreakup.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/taxbreakup.webp)
 
-![enable](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/enabletaxbreakup.webp)
+[![enable](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/enabletaxbreakup.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/enabletaxbreakup.webp)
 
  **Admin Panel: Generate Customer Invoice**
 --------------------------
@@ -364,23 +364,23 @@ To print the customer invoce in the admin panel, kindly navigate to the the Admi
 
 Refer to the screenshots below:
 
-![order](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/orderlisting.webp)
+[![order](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/orderlisting.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/orderlisting.webp)
 
-![view](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/vieworder.webp)
+[![view](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/vieworder.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/vieworder.webp)
 
-![print](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/geneneratecustomerinvoice.webp)
+[![print](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/geneneratecustomerinvoice.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/geneneratecustomerinvoice.webp)
 
 #### **On Line Item:**
 
-![on line](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/onlineitem.webp)
+[![on line](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/onlineitem.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/onlineitem.webp)
 
-![on line](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/10/eight.webp)
+[![on line](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/10/eight.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/10/eight.webp)
 
 #### **After SubTotal:**
 
-![sub total](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/aftersubtotal.webp)
+[![sub total](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/aftersubtotal.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/aftersubtotal.webp)
 
-![subtotal](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/10/ten.webp)
+[![subtotal](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/10/ten.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/10/ten.webp)
 
 ### **Seller Panel: Print Customer Invoice :**
 
@@ -390,19 +390,19 @@ In the seller dashboard, the seller can print the tax breakup configured by the 
 
 Refer to the screenshots below:
 
-![seller](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/sellerorderlisting.webp)
+[![seller](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/sellerorderlisting.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/sellerorderlisting.webp)
 
-![view](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/sellerorderlistingview.webp)
+[![view](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/sellerorderlistingview.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/sellerorderlistingview.webp)
 
-![print](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/sellerprintinvoice.webp)
+[![print](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/sellerprintinvoice.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/sellerprintinvoice.webp)
 
 #### **On Line Item:**
 
-![one line](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/10/fourteen-1200x578.webp)
+[![one line](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/10/fourteen-1200x578.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/10/fourteen-1200x578.webp)
 
 #### **After SubTotal:**
 
-![subtotal](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/10/fifteen-1200x603.webp)
+[![subtotal](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/10/fifteen-1200x603.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/10/fifteen-1200x603.webp)
 
 ### Invoice feature DEMO
 

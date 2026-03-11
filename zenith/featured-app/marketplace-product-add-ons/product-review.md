@@ -25,7 +25,7 @@ Enable the app by accessing the following:
 *   Search for ‘**Product Review**‘ & click on ‘**Enable**‘
 *   After accepting the charges, you’ll be good to configure the app!
 
-![Feature-Apps-Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/productreview1.webp)
+[![Feature-Apps-Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/productreview1.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/productreview1.webp)
 
  Adding Codes
 ----------------
@@ -62,7 +62,7 @@ The admin needs to configure the app by visiting:
 *   From the dashboard, go to **Configuration**
 *   Click on **Product Review Configuration** from the drop-down menus.
 
-![Dashboard-Admin-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/productreview2.webp)
+[![Dashboard-Admin-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/productreview2.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/productreview2.webp)
 
 On the following page, you’ll find these options under **Product Review Configuration**:
 
@@ -70,7 +70,7 @@ On the following page, you’ll find these options under **Product Review Config
 *   **The seller can enable/disable customer reviews on the product**: By this option, the seller can approve or disapprove the review on their products.
 *   **Only Verified customers can review your product**: From this option, restrict that to leave a review, the customer must have bought that product before.
 
-![Configuration-Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/productreview3.webp)
+[![Configuration-Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/productreview3.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/productreview3.webp)
 
 *   **Review Category Structure**: Enable this option if you want to provide a review category to your customers.  
     Further, enter the review category names.
@@ -80,19 +80,19 @@ On the following page, you’ll find these options under **Product Review Config
 *   **Allow customers to upload images for review the product:** If the admin enables this option, then they can allow customers to upload images while adding a review.
 *   **Google widget for review:** By enabling this option, the admin can add a Google widget for review.
 
-![Gender](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/productreview4.webp)
+[![Gender](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/productreview4.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/productreview4.webp)
 
 **Allow Customer to select their Gender**: The “ Allow customer to select their gender” configuration is present under the product review configuration section of the multivendor marketplace panel.
 
-![image](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/productreview5.webp)
+[![image](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/productreview5.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/productreview5.webp)
 
 Allows the customer to select their gender while submitting their review for the product.
 
-![image](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/01/gender2-1200x545.webp)
+[![image](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/01/gender2-1200x545.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/01/gender2-1200x545.webp)
 
 The Admin and seller will be able to view the gender of the customer who placed this review in the product review section.
 
-![image](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/productreview6.webp)
+[![image](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/productreview6.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/productreview6.webp)
 
 *   There is no configuration from the seller's end  
     
@@ -102,37 +102,37 @@ Front end
 
 Seller Profile Page:
 
-![Seller-Profile-–-Multivendor-Marketplace](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/10/Seller-Profile-%E2%80%93-Multivendor-Marketplace-1163x1024.png)
+[![Seller-Profile-–-Multivendor-Marketplace](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/10/Seller-Profile-%E2%80%93-Multivendor-Marketplace-1163x1024.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/10/Seller-Profile-%E2%80%93-Multivendor-Marketplace-1163x1024.png)
 
 This is how the review widget will look like on your product description page:
 
-![Beige-Overcoat-–-multivendor-product-review](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/01/Beige-Overcoat-%E2%80%93-multivendor-product-review-1052x1024.png)
+[![Beige-Overcoat-–-multivendor-product-review](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/01/Beige-Overcoat-%E2%80%93-multivendor-product-review-1052x1024.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/01/Beige-Overcoat-%E2%80%93-multivendor-product-review-1052x1024.png)
 
 Customers can add an image while adding a review:
 
-![REview](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/06/image-66-1200x494.png)
+[![REview](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/06/image-66-1200x494.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/06/image-66-1200x494.png)
 
 This is how the reviews & ratings will look like:
 
-![screencapture-multivendor-product-review-myshopify-products-beige-overcoat-2020-01-09-19_36_44-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/01/screencapture-multivendor-product-review-myshopify-products-beige-overcoat-2020-01-09-19_36_44-1-1075x1024.png)
+[![screencapture-multivendor-product-review-myshopify-products-beige-overcoat-2020-01-09-19_36_44-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/01/screencapture-multivendor-product-review-myshopify-products-beige-overcoat-2020-01-09-19_36_44-1-1075x1024.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/01/screencapture-multivendor-product-review-myshopify-products-beige-overcoat-2020-01-09-19_36_44-1-1075x1024.png)
 
 Ratings on the collection page:
 
-![123](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/04/123.png)
+[![123](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/04/123.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/04/123.png)
 
 Moreover, the customer can view & edit the reviews given by him by visiting the **account** section:
 
-![Account-–-multivendor-product-review-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/01/Account-%E2%80%93-multivendor-product-review-1-1200x597.png)
+[![Account-–-multivendor-product-review-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/01/Account-%E2%80%93-multivendor-product-review-1-1200x597.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/01/Account-%E2%80%93-multivendor-product-review-1-1200x597.png)
 
 On the redirected page:  
 Clicking on the **Edit** button will give you a pop-up where you can edit & submit the review again.
 
-![product-review-–-multivendor-product-review](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/01/product-review-%E2%80%93-multivendor-product-review-1200x647.png)
+[![product-review-–-multivendor-product-review](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/01/product-review-%E2%80%93-multivendor-product-review-1200x647.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/01/product-review-%E2%80%93-multivendor-product-review-1200x647.png)
 
 Show Review Status on Shopify Customer Account Page
 ---------------------------------------------------
 
-![review status](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/01/reviewstatus-1200x543.webp)
+[![review status](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/01/reviewstatus-1200x543.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/01/reviewstatus-1200x543.webp)
 
 To enhance transparency and user experience, the app now displays the **review status** (Approved or Pending) directly on the **Shopify Customer Account Page**.
 
@@ -160,26 +160,36 @@ This feature ensures better communication between the store and the customers an
 
 Customers now have the option to specify their gender when submitting a review.
 
-![Gender](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/01/gendert.webp)
+[![Gender](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/01/gendert.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/01/gendert.webp)
 
   
 Customers can filter reviews by selecting a specific star rating bar.
 
-![Review](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/01/review.webp)
+[![Review](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/01/review.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/01/review.webp)
 
 The pagination feature for the review list allows customers to control how many reviews they view at a time.
 
-![Pagination](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/01/pagination.webp)
+[![Pagination](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/01/pagination.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/01/pagination.webp)
 
 Customers can click on the **"View all reviews"** option to see more reviews.
 
 When they select this option on a Shopify product page, they will be redirected to another page displaying all reviews for that product.  
 
-![REviews](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/01/allreviews.webp)
+[![REviews](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/01/allreviews.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/01/allreviews.webp)
 
 Only logged-in customers will be able to see the product reviews on that page, while other customers will see a blank page.
 
 **NOTE:** For this app, we strictly follow UTC time zone, so when a review is given, the time shown is according to UTC_._
+
+ Add a Buyer’s Age Group Field (Product Review)
+-------------------
+We have introduced a new configuration feature: **“Allow Customer to Select Their Age Group.”**
+
+When the admin enables this option, customers will be able to **select their age group while submitting a product review**. This information helps both the **admin and sellers analyze which age groups are purchasing and reviewing their products the most**.
+
+The **selected age group** will be displayed on the **Customer Review Detail Page** in both the **Admin Panel** and the **Seller Panel**.
+
+![Buyer Age Group in Product Review](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/02/productrev.webp)
 
  Admin end
 ----------------
@@ -191,20 +201,20 @@ If 'review auto-approve' is disabled, the admin must manually approve reviews.
   
 Moreover, the admin can also **deny** the customer reviews (no matter what the status is; approved/pending).
 
-![Admin-Product-Review-Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/productreview7.webp)
+[![Admin-Product-Review-Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/productreview7.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/productreview7.webp)
 
 To have a complete look into the customer review, the admin can also check it out by visiting individual products.
 
 **Multivendor Admin Panel** > **Products** > **Product Listing** > **Edit**:
 
-![Product-Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/productreview8.webp)
+[![Product-Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/productreview8.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/productreview8.webp)
 
 On the bottom of the **edit product** page, you'll have a **'reviews & ratings'** section. Here, you need to click on the **manage reviews** button. Refer:
 
-![Edit-Product-Admin-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/productreview9.webp)
+[![Edit-Product-Admin-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/productreview9.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/productreview9.webp)
 Clicking on this, you'll land on the '**Manage Reviews & Rating**' page. From here, the admin can again **approve** or **decline** the review.
 
-![Admin-Manage-Reviews-Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/prodiuctreview10.webp)
+[![Admin-Manage-Reviews-Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/prodiuctreview10.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/prodiuctreview10.webp)
 
  Seller end
 ---------------
@@ -214,7 +224,7 @@ Similarly, the seller will have all the reviews added to his products by the cus
 
 The seller can enable or disable reviews only if the admin has granted permission in the product review configuration section.
 
-![Product-Review-Seller-•-Multivendor-MarketPlace](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/productreview11.webp)
+[![Product-Review-Seller-•-Multivendor-MarketPlace](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/productreview11.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/productreview11.webp)
 
 Moreover, the seller can also monitor the reviews in depth by editing the product (as shown above for the admin panel).
 
@@ -223,11 +233,11 @@ The most reviewed products of your marketplace will be displayed on your marketp
 Admin Dashboard
 ---------------
 
-![Dashboard-Admin-1-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/productreview12.webp)
+[![Dashboard-Admin-1-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/productreview12.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/productreview12.webp)
 
 Seller Dashboard
 ----------------
 
-![Dashboard-Seller-•-Multivendor-MarketPlace-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/productreview13.webp)
+[![Dashboard-Seller-•-Multivendor-MarketPlace-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/productreview13.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/productreview13.webp)
 
 This was all about the **Product Review** Add-on for the **Multivendor Marketplace** for **Shopify**.

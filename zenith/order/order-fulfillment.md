@@ -19,7 +19,7 @@ The Admin can configure whether he wants his Sellers to fulfill orders or not.
 
 To configure this in the MultiVendor Marketplace app, the Admin needs to visit his MultiVendor Marketplace Admin Panel > Configuration > Seller Configuration:
 
-![Configuration Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/05/Configuration-Admin.png)
+[![Configuration Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/02/allowsellertoflfillitem.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/02/allowsellertoflfillitem.webp)
 
 CASE: I
 -------
@@ -30,27 +30,27 @@ So in this case, whenever an order gets placed, the Seller will fulfill & mark t
 
 MultiVendor Marketplace Seller Panel > Orders > Order Listing > View:
 
-![Order Details Seller • Multivendor MarketPlace (3)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/05/Order-Details-Seller-•-Multivendor-MarketPlace-3.png)
+[![Order Details Seller • Multivendor MarketPlace (3)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/02/proceedtofulfillorder-1.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/02/proceedtofulfillorder-1.webp)
 
 Clicking on the 'Fulfill' button, a pop-up will generate where the Seller needs to enter the tracking number, tracking URL & shipping method and then click on 'Fulfill items':
 
 > The tracking number & URL will be given by the shipment provider.
 
-![Order-Details-Seller-•-Multivendor-MarketPlace-5](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/12/Order-Details-Seller-%E2%80%A2-Multivendor-MarketPlace-5-1200x722.png)
+[![Order-Details-Seller-•-Multivendor-MarketPlace-5](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/02/fulfillmentmethodtrckdetails.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/02/fulfillmentmethodtrckdetails.webp)
 
 The admin can make the tracking number & shipping methods as mandatory details, i.e., the seller mandatorily has to enter these details before fulfilling the order.
 
 To configure this, Admin needs to go to MultiVendor Marketplace Admin Panel > Order Configuration:
 
-![Configuration Admin (1)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/05/Configuration-Admin-1.png)
+[![Configuration Admin (1)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/02/mandateordertrackingdeyails.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/02/mandateordertrackingdeyails.webp)
 
 After fulfilling, the Seller can either edit tracking details or enter delivery details:
 
-![Order Details Seller • Multivendor MarketPlace (5)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/05/Order-Details-Seller-•-Multivendor-MarketPlace-5.png)
+[![Order Details Seller • Multivendor MarketPlace (5)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/02/editrackingdeliverydetails.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/02/editrackingdeliverydetails.webp)
 
 Check the box in front of Delivery Status to mark the order as delivered:
 
-![Order Details Seller • Multivendor MarketPlace (7)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/05/Order-Details-Seller-•-Multivendor-MarketPlace-7.png)
+[![Order Details Seller • Multivendor MarketPlace (7)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/02/deloverystatus.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/02/deloverystatus.webp)
 
 The Seller can generate a shipping label from the **Additional Order Details** section only before he marks the order as delivered, after that he'll only be able to generate just the customer invoice.
 
@@ -117,7 +117,7 @@ Now, the seller will not get any option to fulfill the order (as shown in the im
 
 MultiVendor Marketplace Seller Panel > Orders > Order Listing > View:
 
-![Order Details Seller • Multivendor MarketPlace](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/05/Order-Details-Seller-•-Multivendor-MarketPlace.png)
+[![Order Details Seller • Multivendor MarketPlace](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/02/additionalorderdetails.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/02/additionalorderdetails.webp)
 
 The seller can only generate a customer invoice from the Order Details section.
 
@@ -125,11 +125,11 @@ Coming to the Admin end, he can fulfill the order from Shopify backend.
 
 Shopify Backend > Orders > All Orders > Click on the order ID:
 
-![multivendor marketplace 4 Orders Shopify](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/05/multivendor-marketplace-4-Orders-Shopify.png)
+[![multivendor marketplace 4 Orders Shopify](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/05/multivendor-marketplace-4-Orders-Shopify.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/05/multivendor-marketplace-4-Orders-Shopify.png)
 
 On this page, the Admin will capture the payment & mark the order as fulfilled.
 
-![multivendor marketplace 4 Orders 1038 Shopify](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/05/multivendor-marketplace-4-Orders-1038-Shopify.png)
+[![multivendor marketplace 4 Orders 1038 Shopify](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/05/multivendor-marketplace-4-Orders-1038-Shopify.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/05/multivendor-marketplace-4-Orders-1038-Shopify.png)
 
 After clicking on the 'Mark as fulfilled' button, the Admin needs to enter the tracking number & shipping carrier. These are optional fields.
 
@@ -137,7 +137,7 @@ If the Admin is using a carrier other than Shopify Shipping, then he needs to en
 
 To send the shipping information to your customers right after the fulfillment, check the 'Send shipment details to your customers now' option.
 
-![multivendor marketplace 4 Fulfillment Shopify](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/05/multivendor-marketplace-4-Fulfillment-Shopify.png)
+[![multivendor marketplace 4 Fulfillment Shopify](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/05/multivendor-marketplace-4-Fulfillment-Shopify.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/05/multivendor-marketplace-4-Fulfillment-Shopify.png)
 
 The fulfillment details will auto-update on both Admin & Seller Panel.
 
@@ -148,13 +148,13 @@ MultiVendor Marketplace Admin Panel > Orders > Order Listing > View:
 
 Furthermore, admin can only generate an invoice or raise RMA request now-
 
-![Order Details Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/05/Order-Details-Admin.png)
+[![Order Details Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/02/additionalorderdetails.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/02/additionalorderdetails.webp)
 
 Whereas, the Seller can mark the order as delivered, print customer invoice & generate shipping labels:
 
 MultiVendor Marketplace Seller Panel > Orders > Order Listing > View:
 
-![Order Details Seller • Multivendor MarketPlace (2)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/05/Order-Details-Seller-•-Multivendor-MarketPlace-2.png)
+[![Order Details Seller • Multivendor MarketPlace (2)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/02/additionalorderdetails.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/02/additionalorderdetails.webp)
 
 CASE: III
 ---------
@@ -163,7 +163,7 @@ CASE: III
 
 Then, in this case, The Admin can enable this tab, to restrict Seller to fulfillment for fraud orders whose fraud risk is high.
 
-![configuration](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/07/config-1-1200x550.webp)
+[![configuration](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/02/restrictsellerfraudorder.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/02/restrictsellerfraudorder.webp)
 
 [For more information check the below reference ](/zenith/order/fraud-analysis)
 

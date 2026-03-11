@@ -52,7 +52,7 @@ If commission is set to **10% + $20**, and the total order is $1400:
 ------------------------
 You can override the global settings for specific sellers from the **Seller Commission Settings** page in the app.
 
-![Seller Commission Settings](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/comm1.webp)
+[![Seller Commission Settings](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/comm1.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/comm1.webp)
 
 ---
 
@@ -88,9 +88,106 @@ Set the commission on individual variants as needed.
 Sellers can view commissions for each order from:  
 **Seller Panel > Orders > Commission Listing**
 
-![Seller Commission View](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/commi2.webp)
+[![Seller Commission View](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/commi2.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/commi2.webp)
 
 ---
+ Monthly Sales-Based Commission (Slab-Wise Commission)
+---------------------
+The **Monthly Sales-Based Commission** feature allows the admin to configure a **dynamic commission structure** where the commission percentage automatically changes based on the **seller’s total sales within a defined monthly cycle**.
+
+This commission structure is applied **globally to all sellers** and **resets automatically at the end of each monthly cycle**.
+
+---
+
+## 1. Enable Slab-Wise Commission
+
+1. Go to **Admin Panel → Commission → Global Commission Settings**.
+2. Locate the **Commission Type** section.
+3. Select the option **“Sales/Slab-Wise Commission”**.
+4. Click **Save**.
+
+![Enable Monthly Sales Commission](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/02/monthly-salescommission.webp)
+
+Once enabled, the admin can define **commission slabs based on monthly total sales**.
+
+---
+
+## 2. Define Commission Slabs
+
+The admin can define **up to 10 commission rules (slabs)**.
+
+For each slab, configure the following:
+
+- **Minimum Sales Amount**
+- **Maximum Sales Amount**
+- **Commission Percentage**
+
+![Set Commission Slabs](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/02/set-slabs.webp)
+
+### Example Commission Structure
+
+| Total Monthly Sales (USD) | Commission (%) |
+|---------------------------|---------------|
+| 0 – 1,000                 | 30%           |
+| 1,001 – 2,000             | 20%           |
+| Above 2,000               | 10%           |
+
+Click **Add More Range** to create additional rules *(maximum 10 slabs)*.
+
+Save the configuration after defining all slabs.
+
+---
+
+## How Commission Is Calculated
+
+During the defined **monthly cycle**, the commission is calculated based on the **seller’s total accumulated sales for that month at the time of each order**.
+
+### Example Scenario
+
+**First Order:** USD 500  
+- Total Sales = **USD 500**  
+- Commission Applied = **30%**
+
+**Second Order:** USD 600  
+- Total Sales = **USD 1,100**  
+- Commission Applied = **20%**
+
+**Third Order:** USD 500  
+- Total Sales = **USD 1,600**  
+- Commission Applied = **20%**
+
+Once total sales exceed **USD 2,000**, the commission will **automatically change to 10% for subsequent orders**.
+
+This process continues **until the monthly cycle ends**, after which the calculation **resets automatically**.
+
+---
+
+## Seller Panel Visibility
+
+Sellers can view the following details:
+
+- **Commission deducted per order**
+- **Total commission deducted**
+- **Order-wise commission details**
+
+This information is available in:
+
+**Seller Panel → Orders → Commission Listing**
+
+As the seller’s **total earnings increase during the cycle**, the commission percentage will **automatically adjust according to the defined slab structure**.
+
+---
+
+## Important Notes
+
+- A **maximum of 10 commission slabs** can be configured.
+- The commission structure is **applied globally to all sellers**.
+- It is **not possible to define separate slab structures for individual sellers**.
+- The **commission cycle automatically resets** after the defined period.
+
+---
+
+This feature enables **marketplace owners to incentivize higher seller performance** by offering **reduced commission rates as sales volume increases**.
 
 ###  Learn More
 

@@ -14,7 +14,7 @@ As well for order placed, order fulfilled, order refund, order cancelled, and ma
 ----------------------
 Visit the ‘**Feature app**‘ section from your multivendor marketplace admin panel. Now, click on the enable button to install the app
 
-![screenshot_1678775013217](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/whatsapp1.webp)
+[![screenshot_1678775013217](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/whatsapp1.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/whatsapp1.webp)
 
 Once done, you need to accept the payment. Further, you can enable the app successfully.
 
@@ -22,7 +22,7 @@ Once done, you need to accept the payment. Further, you can enable the app succe
 ------------------
 As a admin you need to configure the app. Navigate from admin panel **configuration >> WhatsApp Integration Configuration**
 
-![screenshot_1678775885383](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/whatsapp2.webp)
+[![screenshot_1678775885383](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/whatsapp2.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/whatsapp2.webp)
 
 Now as a admin you need to add following fields in order to start using WhatsApp Notification Feature.
 
@@ -37,21 +37,21 @@ In order to get **WHATSAPP PHONE NUMBER ID\*** you need to go to [developers.fac
 
 Once done you need to create an App, you can name it **as per your marketplace name.**
 
-![wh2](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/02/wh2-1200x372.png)
+[![wh2](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/02/wh2-1200x372.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/02/wh2-1200x372.png)
 
-![wh1](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/02/wh1-1200x365.png)
+[![wh1](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/02/wh1-1200x365.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/02/wh1-1200x365.png)
 
 Add app name and then create a app. Once app is created click on app.
 
-![MVM WhatsApp Integration](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/02/screenshot_1676883004928-1200x585.png)
+[![MVM WhatsApp Integration](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/02/screenshot_1676883004928-1200x585.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/02/screenshot_1676883004928-1200x585.png)
 
 Your app dashboard will open. Now navigate to ****Add products to your app**** and Add **WhatsApp**
 
-![screenshot_1676883160238](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/02/screenshot_1676883160238.png)
+[![screenshot_1676883160238](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/02/screenshot_1676883160238.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/02/screenshot_1676883160238.png)
 
 Click on WhatsApp product Settings >> Start using the API
 
-![screenshot_1676883974163](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/02/screenshot_1676883974163-1200x561.png)
+[![screenshot_1676883974163](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/02/screenshot_1676883974163-1200x561.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/02/screenshot_1676883974163-1200x561.png)
 
 Once done you need to add your Business WhatsApp Number to get started
 
@@ -61,25 +61,25 @@ Once done you need to add your Business WhatsApp Number to get started
 > 
 > After deleting the existing WhatsApp messenger account same number can be used after 15 min of deletion.
 
-![wh5](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/02/wh5-1200x464.png)
+[![wh5](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/02/wh5-1200x464.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/02/wh5-1200x464.png)
 
-![screenshot_1676886683265](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/02/screenshot_1676886683265-1200x566.png)
+[![screenshot_1676886683265](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/02/screenshot_1676886683265-1200x566.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/02/screenshot_1676886683265-1200x566.png)
 
-![screenshot_1676886730043](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/02/screenshot_1676886730043-1200x566.png)
+[![screenshot_1676886730043](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/02/screenshot_1676886730043-1200x566.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/02/screenshot_1676886730043-1200x566.png)
 
-![screenshot_1676886756309](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/02/screenshot_1676886756309-1200x556.png)
+[![screenshot_1676886756309](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/02/screenshot_1676886756309-1200x556.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/02/screenshot_1676886756309-1200x556.png)
 
 Once Phone number is added we need to copy the ****Phone number ID**** and ****WhatsApp Business Account ID**** and paste it in your multivendor WhatsApp integration configuration.
 
-![WhatsApp Integration](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/02/wh4-1200x525.png)
+[![WhatsApp Integration](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/02/wh4-1200x525.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/02/wh4-1200x525.png)
 
  How to Get " WHATSAPP BUSINESS ACCOUNT ID\* "
 -------------------
 WhatsApp Business Account ID is also listed on same page where WhatsApp Phone Number ID is listed
 
-![WhatsApp Integration](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/02/wh4-1200x525.png)
+[![WhatsApp Integration](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/02/wh4-1200x525.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/02/wh4-1200x525.png)
 
-![screenshot_1678775943562](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/whatsapp3.webp)
+[![screenshot_1678775943562](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/whatsapp3.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/whatsapp3.webp)
 
  How to Get " WHATSAPP ACCESS TOKEN\* "
 ---------------------
@@ -89,15 +89,15 @@ You can find your **temporary access token** that expires in 24 hours and your
 
 To generate the permanent token go under [Users > System users](https://business.facebook.com/settings/system-users/) in your Business Manager settings, click _Add_, name it as you want, and choose _Admin_ user role.
 
-![screenshot_1676891719972](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/02/screenshot_1676891719972-1200x497.png)
+[![screenshot_1676891719972](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/02/screenshot_1676891719972-1200x497.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/02/screenshot_1676891719972-1200x497.png)
 
 Now, click _Generate new token_ and make sure you enable the **_whatsapp\_business\_management_**_,_ **_whatsapp\_business\_messaging_** and **_business\_management_ permissions**:
 
-![Like](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/02/screenshot_1676891773972-1200x503.png)
+[![Like](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/02/screenshot_1676891773972-1200x503.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/02/screenshot_1676891773972-1200x503.png)
 
 Then, copy the generated access token:
 
-![permanent access token](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/02/screenshot_1676891863149-1200x620.png)
+[![permanent access token](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/02/screenshot_1676891863149-1200x620.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/02/screenshot_1676891863149-1200x620.png)
 
 You need to paste this token in **Multivendor app whatsApp integration configuration**
 
@@ -105,15 +105,15 @@ You need to paste this token in **Multivendor app whatsApp integration configura
 ---------------------
 You need to create two template one for all orders notification and another for all products notifications ( events ). Create a template mentioned under send messages with the API.
 
-![whatsapp-template](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/05/whatsapp-template-1200x525.jpeg)
+[![whatsapp-template](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/05/whatsapp-template-1200x525.jpeg)](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/05/whatsapp-template-1200x525.jpeg)
 
-![eng](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/05/eng.png)
+[![eng](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/05/eng.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/05/eng.png)
 
 #### Product Template
 
 Create Product Template, use following information mentioned below.
 
-![product-info-temp](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/05/product-info-temp-1200x525.jpeg)
+[![product-info-temp](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/05/product-info-temp-1200x525.jpeg)](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/05/product-info-temp-1200x525.jpeg)
 
 **Body Content:**
 
@@ -130,9 +130,9 @@ Here in Body variables are created automatically which is define below Body as s
 --------------------
 Create Another Order template, use following information mentioned below.
 
-![screenshot_1683282852173](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/05/screenshot_1683282852173-1200x498.png)
+[![screenshot_1683282852173](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/05/screenshot_1683282852173-1200x498.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/05/screenshot_1683282852173-1200x498.png)
 
-![image-10-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/05/image-10-1.png)
+[![image-10-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/05/image-10-1.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/05/image-10-1.png)
 
 **Body Content:**
 
@@ -147,7 +147,7 @@ Here in Body variables are created automatically which is define below Body as s
 
 **Now you need to include both of these template in whats-app configuration setting in multivendor app.**
 
-![screenshot_1683232697465](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/whatsapp4.webp)
+[![screenshot_1683232697465](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/whatsapp4.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/whatsapp4.webp)
 
 **Note:** kindly add product template name first and then order template name separated by comma.
 
@@ -155,7 +155,7 @@ Here in Body variables are created automatically which is define below Body as s
 --------------------
 As admin you can configure among the listed notifications as per your requirement.
 
-![screenshot_1678776067635](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/whatsapp5.webp)
+[![screenshot_1678776067635](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/whatsapp5.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/whatsapp5.webp)
 
 Once everything is done click on save. Now WhatsApp integration feature app will send notifications as per listed above events.
 
@@ -163,11 +163,11 @@ Once everything is done click on save. Now WhatsApp integration feature app will
 -----------------------
 Seller needs to enable Whatsapp notification feature from **configuration >> General Configuration >> Want To Receieve Order/Product Updates On Whatsapp**.
 
-![whatsapp-notification-seller](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/whatsapp6.webp)
+[![whatsapp-notification-seller](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/whatsapp6.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/whatsapp6.webp)
 
  Notifications on Whatsapp messenger
 -------------------
-![whatsapp-notification-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/03/whatsapp-notification-1.png)
+[![whatsapp-notification-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/03/whatsapp-notification-1.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/03/whatsapp-notification-1.png)
 
  WhatsApp Notifications Log
 ----------------------------
@@ -175,8 +175,8 @@ Like we have email notifications logs as a admin you can also check the WhatsApp
 
 You can find that under **Mail configuration >> WhatsApp Log**
 
-![screenshot_1678776119244](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/whatsapp7.webp)
+[![screenshot_1678776119244](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/whatsapp7.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/whatsapp7.webp)
 
 You can find all the logs in this page.
 
-![Whatsapp logs page](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/whatsapp7.webp)
+[![Whatsapp logs page](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/whatsapp7.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/whatsapp7.webp)

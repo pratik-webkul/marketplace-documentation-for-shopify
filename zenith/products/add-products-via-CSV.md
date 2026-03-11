@@ -24,19 +24,19 @@ In the app, admin can allow sellers to add products in bulk via CSV. For this, t
 
 Go to the **Product Configuration** menu >>Enable **Add Product by CSV** tab.
 
-![Product Configuration](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/zsdwzwdwed.webp)
+[![Product Configuration](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/zsdwzwdwed.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/zsdwzwdwed.webp)
 
 Admin Panel: Product Configuration
 
 As soon as the admin configures the details, the option to add products via CSV gets reflected at the respective seller panels.
 
-![Add product by CSV](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/zwrfwergzergz.webp)
+[![Add product by CSV](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/zwrfwergzergz.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/zwrfwergzergz.webp)
 
 Seller Panel: Products
 
 Now, the seller will click the **Add Product by CSV** button & choose the methods using which he/she wants to upload products in bulk.
 
-![add product in bulk](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/csvaddmethod.webp)
+[![add product in bulk](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/csvaddmethod.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/csvaddmethod.webp)
 
 The seller will get the instruction file in the app.
 
@@ -71,7 +71,7 @@ The image field must contain the URLs of the product Images if the seller is usi
 
 If the seller will use the local path images in the CSV file, it throws an error as shown in the below screenshot:
 
-![CSV file error](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/zedqewfeferf.webp)
+[![CSV file error](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/zedqewfeferf.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/zedqewfeferf.webp)
 
 CSV File Error
 
@@ -122,7 +122,7 @@ Adding additional columns in the product CSV results in the column mismatch issu
 
 This is the reason we suggest you download the sample CSV & make the changes in the existing file as per your requirements to avoid column mismatch issues.
 
-![Seller Panel-Product Upload](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/csvfileuploadinssample.webp)
+[![Seller Panel-Product Upload](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/csvfileuploadinssample.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/csvfileuploadinssample.webp)
 
 Seller Panel-Upload Product in Bulk
 
@@ -154,17 +154,17 @@ Thus, the sellers will be adding only those tags, types & collections to product
 > In simple words:-  
 > If you have **restricted the product tags**, **product types** & **collections** in the app, make sure that only those restricted options are added in the CSV file.
 
-![Restriction Configuration](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/sdferdgfreg.webp)
+[![Restriction Configuration](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/sdferdgfreg.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/sdferdgfreg.webp)
 
 ## Restrict Collection Based On Product Type
 
 Now, the Admins can restrict collections based on the Product Type when products are added via CSV.
 
-![image](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/ecfefercerccre.webp)
+[![image](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/ecfefercerccre.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/ecfefercerccre.webp)
 
 If the above configuration is enabled, and a specific collection is assigned to a product type.
 
-![image](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/csvproducttype.webp)
+[![image](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/csvproducttype.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/csvproducttype.webp)
 
 Then, while filling in the CSV, the seller or admin must select the correct collection for the respective product type.
 

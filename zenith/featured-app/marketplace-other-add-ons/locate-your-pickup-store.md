@@ -21,19 +21,19 @@ Now, Let's understand how we can use this app with Multivendor Marketplace
 -------------------------------
 To install this feature app you need to go to Admin Panel and select the feature app
 
-![jkb](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/featuredappsp.webp)
+[![jkb](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/featuredappsp.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/featuredappsp.webp)
 
 Now from the feature app page you will get the option to enable this feature app.
 
-![bnbn](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/2locateyourstore.webp)
+[![bnbn](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/2locateyourstore.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/2locateyourstore.webp)
 
 Click on Agree to install the app on your Marketplace.
 
-![hxc](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/3agree.webp)
+[![hxc](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/3agree.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/3agree.webp)
 
 Once you install the app then admin will be able to see Store Locator configuration
 
-![2432](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/4storelocatoreconfig.webp)
+[![2432](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/4storelocatoreconfig.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/4storelocatoreconfig.webp)
 
 By default, this configuration is enabled but admin can disable it at any time.
 
@@ -50,19 +50,19 @@ There are two ways in the app through sellers can add their store location.
 ------------------
 Seller can add their default location as their Store location by going to their Seller Panel > Profile > Myaccount. On the redirected page click on the redirected page as shown below
 
-![image-1-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/5addstorelocator.webp)
+[![image-1-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/5addstorelocator.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/5addstorelocator.webp)
 
 Once you click on the Add Store locator you will get this pop-up4
 
-![vovo-](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/6storelocationdetails.webp)
+[![vovo-](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/6storelocationdetails.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/6storelocationdetails.webp)
 
 You can also add latitude and longitude so that the map also appears in the pop up as shown below:
 
-![dasds](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/7storelocatormap.webp)
+[![dasds](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/7storelocatormap.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/7storelocatormap.webp)
 
 Click on the Save location to save the location in the store locator. You can also update the dfault location when you save it.
 
-![ncbam](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/8updatestorelocation.webp)
+[![ncbam](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/8updatestorelocation.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/8updatestorelocation.webp)
 
 In case seller updates their address then they can update it using this button.
 
@@ -74,17 +74,17 @@ Seller can also add the store location on their own apart from their Seller addr
 
 To add this Seller need to go to Seller panel > Configuration > Location > Click on Add location Button
 
-![nm-mn-nb](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/9addcustomlocation.webp)
+[![nm-mn-nb](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/9addcustomlocation.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/9addcustomlocation.webp)
 
-![sosdm](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/10addlocationdetail.webp)
+[![sosdm](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/10addlocationdetail.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/10addlocationdetail.webp)
 
 Click Save Changes. Now the seller will be able to see the location in the listing and add it to the store locator as shown in the picture.
 
 If Seller has already add their location using Store Pick up app then they can simmilarly add it on the Store location app.
 
-![nmds](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/11addonstorelocat.webp)
+[![nmds](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/11addonstorelocat.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/11addonstorelocat.webp)
 
-![dnms](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/12savelocation.webp)
+[![dnms](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/12savelocation.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/12savelocation.webp)
 
 Save the location.
 
@@ -92,10 +92,10 @@ Save the location.
 ----------------------
 All the saved location will be listed at the [Locate your Pick up store](https://webkul.com/blog/locate-your-pickup-store-app-for-shopify/) Stand alone app on their Shopify end as shown in the below image
 
-![unnamed-file](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/11/unnamed-file-1200x458.png)
+[![unnamed-file](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/11/unnamed-file-1200x458.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/11/unnamed-file-1200x458.png)
 
 Admin won't be able to Add/edit seller location from the admin panel or the stand alone app.
 
 He/She can only activate or deactivate the Seller store location by clicking on the three dots as shown below:
 
-![cdasdcs](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/11/cdasdcs-1200x451.png)
+[![cdasdcs](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/11/cdasdcs-1200x451.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/11/cdasdcs-1200x451.png)

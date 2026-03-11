@@ -16,15 +16,15 @@ This Integration allows you to sync the seller orders to the DYTEL POS in real t
 ---------------------------
 To make this app work, first of all, you need to visit the “Feature Apps” section of the multivendor app. There you will get the “DYTEL POS CONNECTOR” feature app.
 
-![dytel-pos-integration-feature-app](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/dpc1.webp)
+[![dytel-pos-integration-feature-app](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/dpc1.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/dpc1.webp)
 
-![dytel-pos-integration-enable](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/dpc2.webp)
+[![dytel-pos-integration-enable](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/dpc2.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/dpc2.webp)
 
 After that you have to approve the payments of this feature app to use this on your store.
 
-![dytel-payment ](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/dpc3.webp)
+[![dytel-payment ](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/dpc3.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/dpc3.webp)
 
-![dytel-pos-integration-payment-approve ](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/dpc4.webp)
+[![dytel-pos-integration-payment-approve ](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/dpc4.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/dpc4.webp)
 
 And as soon as you agree with this condition and approve the payment you will get the DYTEL POS CONNECTOR installed on your store.Thus, this DYTEL POS CONNECTOR gets enabled on your marketplace.
 
@@ -32,11 +32,11 @@ And as soon as you agree with this condition and approve the payment you will ge
 --------------------
 To configure the admin settings, navigate to **Configuration** and select **DYTEL POS Configuration** .
 
-![dytel-pos-integration-admin-configuration](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/dpc5-1.webp)
+[![dytel-pos-integration-admin-configuration](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/dpc5-1.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/dpc5-1.webp)
 
 To proceed, please enter the required DYTEL POS details, including the **Source ID** and **Source Password**. You can obtain these credentials from your DYTEL POS Support .
 
-![DYTEL-POS-INTEGRATION-admin-details](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/dpc6-1.webp)
+[![DYTEL-POS-INTEGRATION-admin-details](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/dpc6-1.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/dpc6-1.webp)
 
 After entering the DYTEL POS details click on **save changes** .
 
@@ -44,13 +44,13 @@ After entering the DYTEL POS details click on **save changes** .
 ------------------
 To configure the seller settings, navigate to **Configuration** and select **DYTEL POS Configuration** .
 
-![DYTEL POS INTEGRATION-configuration ](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/dpc7-1.webp)
+[![DYTEL POS INTEGRATION-configuration ](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/dpc7-1.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/dpc7-1.webp)
 
 After clicking on "DYTEL POS Configuration," you'll need to enter the outlet code and password, which can be obtained from the admin .
 
 Once you save these details, a unique token will be generated for you.
 
-![DYTEL POS INTEGRATION - unique token ](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/dpc8-1.webp)
+[![DYTEL POS INTEGRATION - unique token ](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/dpc8-1.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/dpc8-1.webp)
 
 The token is provided because fulfilment syncing is managed outside the app.
 
@@ -183,31 +183,31 @@ Creating DYTEL POS Products
 
 You can create DYTEL POS products from the seller's end by navigating to **Products** -> **Products Listing** .
 
-![dytel-pos-product-listing](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/dpc9-1.webp)
+[![dytel-pos-product-listing](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/dpc9-1.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/dpc9-1.webp)
 
 On the product listing page, you have two options: you can either add a new DYTEL POS product and you can edit an existing one.
 
-![dytel-pos-add-product](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/dpc10-1.webp)
+[![dytel-pos-add-product](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/dpc10-1.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/dpc10-1.webp)
 
 To add a new product click on add product from product listing navigation .
 
-![dytel-pos-add-product](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/dpc11-1.webp)
+[![dytel-pos-add-product](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/dpc11-1.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/dpc11-1.webp)
 
 After adding all the details of the products make sure to enable the **want to send it to dytel** option and then click on **Save Changes** .
 
 To make an existing product a DYTEL POS product, click on the three dots on the product listing page, then select the "Edit" button to modify the product.
 
-![dytel-pos-editt-product](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/dpc12-1.webp)
+[![dytel-pos-editt-product](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/dpc12-1.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/dpc12-1.webp)
 
 After that you have to enable the " Want to Send It To Dytel" option and then click on **save changes** .
 
-![edit-product](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/dpc13-1.webp)
+[![edit-product](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/dpc13-1.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/dpc13-1.webp)
 
 Once you have created a DYTEL POS Product or edited the existing product you have to click on these three dots and then edit to add the DYTEL POS ITEM CODE manually one by one .
 
-![TEM CODE](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/dpc14-1.webp)
+[![TEM CODE](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/dpc14-1.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/dpc14-1.webp)
 
-![item-code](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/dpc15-1.webp)
+[![item-code](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/dpc15-1.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/dpc15-1.webp)
 
 After adding the DYTEL POS ITEM CODE to the product click on save changes .
 
@@ -219,6 +219,6 @@ make the changes as add the item code and enter yes to mark the product as DYTEL
 
 For that you have to click on Add DYTEL POS Products .
 
-![add-products](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/dpc16-1.webp)
+[![add-products](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/dpc16-1.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/dpc16-1.webp)
 
-![export-product](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/dpc17-1.webp)
+[![export-product](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/dpc17-1.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/dpc17-1.webp)

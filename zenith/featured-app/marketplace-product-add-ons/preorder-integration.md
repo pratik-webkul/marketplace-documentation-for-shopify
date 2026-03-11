@@ -38,15 +38,15 @@ In order to enable pre-order for the seller's products, firstly make sure you ha
 
 For this, Go to the PreOrder Controller App.
 
-![preorder app](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/11/Screenshot-2020-11-05T125846.889-1200x590.png)
+[![preorder app](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/11/Screenshot-2020-11-05T125846.889-1200x590.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/11/Screenshot-2020-11-05T125846.889-1200x590.png)
 
 Visit the Configurations>>**PreOrder Configuration**.
 
-![preorder app configuration](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/11/Screenshot26-1200x581.png)
+[![preorder app configuration](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/11/Screenshot26-1200x581.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/11/Screenshot26-1200x581.png)
 
 Here, select the PreOrder Type as "**Automatic PreOrder**" from the drop-down menu and also, Checkout Type as "**Multi-product Checkout**".
 
-![multiple checkout](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/11/Screenshot27-1200x562.png)
+[![multiple checkout](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/11/Screenshot27-1200x562.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/11/Screenshot27-1200x562.png)
 
 **Please Note**:- The Multi-vendor PreOrder Integration works only in the case of **Multi-product Checkout** and **Automatic PreOrder.**
 
@@ -54,7 +54,7 @@ Here, select the PreOrder Type as "**Automatic PreOrder**" from the drop-down me
 
 As soon as you enable the "Automatic PreOrder", you will get the option to set the default preorder quantity for products that will be applied for each seller's products.
 
-![preorder type](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/11/Screenshot-2020-11-05T132359.049-1200x541.png)
+[![preorder type](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/11/Screenshot-2020-11-05T132359.049-1200x541.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/11/Screenshot-2020-11-05T132359.049-1200x541.png)
 
 Now, once the seller products get out of stock, preorder will be enabled automatically and the quantity you configure here will be allowed for preorder for each seller's products.
 
@@ -64,7 +64,7 @@ Now, you can restrict the No. of product quantities allowed to pre-order. For th
 
 Here, you can set the product quantity limit that you want to allow for your customers to preorder.
 
-![quantity limit for customer](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/11/Screenshot-2020-11-05T130711.813-1200x593.png)
+[![quantity limit for customer](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/11/Screenshot-2020-11-05T130711.813-1200x593.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/11/Screenshot-2020-11-05T130711.813-1200x593.png)
 
  Seller Configuration
 ---------------
@@ -74,15 +74,15 @@ Seller's product that goes "out of stock", will be published in your store for p
 
 The seller needs to log in to the Seller Panel>>Go to Products>>Product Listing>>Click the Edit button of the product having "0" quantity>>proceed to Edit Variant...
 
-![Product-Seller-•-Multivendor-MarketPlace](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/11/Product-Seller-%E2%80%A2-Multivendor-MarketPlace-1200x597.png)
+[![Product-Seller-•-Multivendor-MarketPlace](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/02/preb.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/02/preb.webp)
 
 Now, In the Variant Details section, the seller will get the option to edit variant.
 
-![edit product preorder](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/11/Edit-Product-Seller-%E2%80%A2-Multivendor-MarketPlace-2-3-1200x597.png)
+[![edit product preorder](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/02/prec.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/02/prec.webp)
 
 Now, the seller will go to the "PreOrder Details" section and edit quantity for preorder as well as no of products accepted for preorder.
 
-![update preorder](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/11/Screenshot-2020-11-05T141024.038-1200x588.png)
+[![update preorder](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/02/pred.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/02/pred.webp)
 
 **POINT TO BE NOTED**
 
@@ -100,11 +100,11 @@ To restrict multiple vendors, add comma-separated vendor names in the field.
 
 **NOTE**:- It work with the automatic preorder.
 
-![Screenshot-33](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/09/Screenshot-33-1200x514.png)
+[![Screenshot-33](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/09/Screenshot-33-1200x514.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/09/Screenshot-33-1200x514.png)
 
 Confirm the process that will stop all running and upcoming preorders of vendors.
 
-![Screenshot-35](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/09/Screenshot-35-1200x515.png)
+[![Screenshot-35](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/09/Screenshot-35-1200x515.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/09/Screenshot-35-1200x515.png)
 
 **Pre-order products**:-
 
@@ -112,7 +112,7 @@ Sellers can now add preorder options for their products directly from their dash
 
 **login to the account->products->product listing->three dots->add preorder**
 
-![seller](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/11/sellerpanel-1200x449.webp)
+[![seller](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/02/pree.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/02/pree.webp)
 
 After clicking on **"Add Preorder"**, you can:
 
@@ -124,25 +124,25 @@ c) **Add inventory quantities** specifically allocated for preorder sales
 
 d) **Add product description**
 
-![preorder](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/11/preorderproduct-1200x812.webp)
+[![preorder](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/preorderf.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/preorderf.webp)
 
-![publish](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/11/publish-1200x914.webp)
+[![publish](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/preorderfo.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/preorderfo.webp)
 
 Once you **save the changes**, a **"Preorder" tag** will automatically appear on the product in your product listing.
 
-![tag](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/11/tag-1200x273.webp)
+[![tag](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/preorderli.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/preorderli.webp)
 
 Sellers have the flexibility to **edit products even after enabling preorders** by
 
 **login to the account->products->product listing->three dots->edit preorder**
 
-![edit](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/11/edit-1200x341.webp)
+[![edit](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/preorderlis.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/preorderlis.webp)
 
 Sellers can **end a preorder campaign at any time**.
 
 **login to the account->products->product listing->three dots->edit preorder**\->**end preorder**
 
-![end](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/11/end-1200x897.webp)
+[![end](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/preorderl.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/preorderl.webp)
 
 That's all about the admin & the seller end configuration.
 
@@ -152,7 +152,7 @@ To show the preorder details on your storefront, you need to **add the codes to 
 
 This is how the PreOrder Product appears on the product page:-
 
-![Prorder product](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/11/Screenshot-2020-11-06T115316.893.png)
+[![Prorder product](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/11/Screenshot-2020-11-06T115316.893.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/11/Screenshot-2020-11-06T115316.893.png)
 
 Moreover, you can create a navigation menu from your Shopify end to list all your seller's preorder products on a single page.
 
@@ -160,13 +160,13 @@ Once the customer order any product, he/she can view all the details in the “M
 
 To check their preorders, the customers need to log into their accounts and click the "PreOrder" button.
 
-![customer account](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/11/Screenshot-2020-11-06T093715.877-1200x598.png)
+[![customer account](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/11/Screenshot-2020-11-06T093715.877-1200x598.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/11/Screenshot-2020-11-06T093715.877-1200x598.png)
 
 Once the customer clicks on the “Preorder” button displayed on the frontend, he/she will get the list of all the products ordered by him/her.
 
 This includes the “Pre-order Status”, “Payment Status” and “pre-order duration”.
 
-![preorder listing](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/11/Screenshot-2020-11-06T120604.534-1200x523.png)
+[![preorder listing](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/11/Screenshot-2020-11-06T120604.534-1200x523.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/11/Screenshot-2020-11-06T120604.534-1200x523.png)
 
 That's all about the Multi-vendor Marketplace PreOrder Integration.
 

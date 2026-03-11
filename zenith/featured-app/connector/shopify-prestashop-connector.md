@@ -33,7 +33,7 @@ To install this feature app, the admin needs to visit the "Feature App" section 
 *   **[Slot Pricing](/zenith/featured-app/marketplace-product-add-ons/slot-pricing) is compatible** with this connector. 
 *   Both admin & seller can now sync the seller’s products in any state from the “Product Listing” section of their respective panels.
 
-![abc](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/syncwithsellerstore-1.webp)
+[![abc](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/syncwithsellerstore-1.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/syncwithsellerstore-1.webp)
 
  Limitations
 ---------------------
@@ -54,7 +54,7 @@ Then, in this case, the order will not be placed on PrestaShop if the customer h
 
 Seller needs to enable the countries again:-
 
-![Prestashop-Locations](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/01/11091820/AwesomeScreenshot-Countries-FoodKart-2019-07-11-14-07-71.png)
+[![Prestashop-Locations](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/01/11091820/AwesomeScreenshot-Countries-FoodKart-2019-07-11-14-07-71.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/01/11091820/AwesomeScreenshot-Countries-FoodKart-2019-07-11-14-07-71.png)
 
 **Important Note:-**  
 This connector is compatible with **Prestashop 1.7.4 and Prestashop 1.7.5**
@@ -63,7 +63,7 @@ To make it work with all the supported versions, it is mandatory to add the code
 
 This procedure is the same for all the versions.
 
-![PrestaShop Code Pasting](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/01/Screenshot-15.png)
+[![PrestaShop Code Pasting](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/01/Screenshot-15.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/01/Screenshot-15.png)
 
 If You get any issue in order or product updates, please make sure that you have added the above codes.
 
@@ -95,7 +95,7 @@ orders
 order\_carriers  
 order\_histories
 
-![required permissions](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/06/screenshot-nimbusweb.me-2021.06.23-18_35_40-1200x549.png)
+[![required permissions](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/06/screenshot-nimbusweb.me-2021.06.23-18_35_40-1200x549.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/06/screenshot-nimbusweb.me-2021.06.23-18_35_40-1200x549.png)
 
  How to Install
 ----------------
@@ -103,17 +103,17 @@ Admin can follow below-given steps to install the Shopify-Prestashop Connector A
 
 **Step 1:** Visit the **Feature Apps** Section.
 
-![Shopify-Prestashop 1](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/featuredapps.webp)
+[![Shopify-Prestashop 1](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/featuredapps.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/featuredapps.webp)
 
 **2nd Step:** Filter the Category by "**Connector**" and find the **Shopify PrestaShop Connector** Feature App and Click on the **Enable** button.
 
-![Shopify-Prestashop Connector 2](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/shopifyprestashop.webp)
+[![Shopify-Prestashop Connector 2](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/shopifyprestashop.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/shopifyprestashop.webp)
 
 **Step 3:** Click on the "**Agree**" button and proceed further to **Approve** the Charge.
 
 This way, admin can install the Shopify-Prestashop Connector Feature App.
 
-![Instruction](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/prestashopone.webp)
+[![Instruction](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/prestashopone.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/prestashopone.webp)
 
 As soon as you install the Shopify-Prestashop feature app, You need to share a **Delivery URL,** **SID** and a **Prestashop Module** with your sellers.
 
@@ -128,7 +128,7 @@ Go to Configuration>>Select the Prestashop Connector>>Product Detail Configurati
 
 Now, he can enable/disable other tabs for this section as well.
 
-![Connector configuration](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/connectorconfig.webp)
+[![Connector configuration](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/connectorconfig.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/connectorconfig.webp)
 
  Image Limiter
 ----------------
@@ -136,7 +136,7 @@ The admin has the ability to enable a configuration that restricts the number of
 
 This ensures that sellers can only synchronize a specific number of images, as defined by the admin.
 
-![screenshot_1688648237530-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/prestashoptwo.webp)
+[![screenshot_1688648237530-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/prestashoptwo.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/prestashoptwo.webp)
 
 This feature allows for better control over the number of images associated with each product, providing a more streamlined and consistent experience for both sellers and customers.
 
@@ -152,7 +152,7 @@ Also, the customers will receive an email from the seller’s store regarding th
 
 NOTE:- In this case, if you don’t want to send an email to the customer, you can configure a dummy email.
 
-![on](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/magentosecond.webp)
+[![on](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/magentosecond.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/magentosecond.webp)
 
 **CASE 2: Sync Customer Details tab is OFF (disabled):**
 
@@ -160,13 +160,13 @@ In case you disable this tab, you will get three options to choose whether you w
 
 You can configure the settings as per the requirements with Seller’s PrestaShop store or not.
 
-![off](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/magentothird.webp)
+[![off](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/magentothird.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/magentothird.webp)
 
 **Note:-** Once the order is created at the admin Shopify store for the connector product then the same order will be created on seller's Prestashop store also.
 
 Even, the admin will get a reference order number like below that will be shown the order section of the seller's Prestashop store.
 
-![reference order number](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/prestashopthree.webp)
+[![reference order number](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/prestashopthree.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/prestashopthree.webp)
 
  How the Seller will install the Module on PrestaShop?
 ----------------------
@@ -178,16 +178,16 @@ Steps to Upload the Module:
 *   Go to Modules.
 *   Visit the Module Catalog and Click on "**Install a Module**".
 
-![PrestaShop11](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/01/Module-Catalog-%E2%80%A2-Shashi-store1.png)
+[![PrestaShop11](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/01/Module-Catalog-%E2%80%A2-Shashi-store1.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/01/Module-Catalog-%E2%80%A2-Shashi-store1.png)
 
 *   Upload the Module and Configure it.
 *   Go to **Module Manager** to configure the Module.
 
-![module22](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/01/Module-manager-%E2%80%A2-Shashi-store1.png)
+[![module22](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/01/Module-manager-%E2%80%A2-Shashi-store1.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/01/Module-manager-%E2%80%A2-Shashi-store1.png)
 
 *   Seller needs to enter the Source URL and SID provided by the admin.
 
-![Configure Module](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/01/Module-Manager-%E2%80%A2-Shashi-store1.png)
+[![Configure Module](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/01/Module-Manager-%E2%80%A2-Shashi-store1.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/01/Module-Manager-%E2%80%A2-Shashi-store1.png)
 
 This way, a seller can install the module on his/her PrestaShop and configure it following the given instruction.
 
@@ -201,23 +201,23 @@ To generate access token on PrestaShop, Seller needs to follow certain steps tha
 *   Search to **Configure**.
 *   Go to **Advanced Parameters**.
 
-![PrestaShop 10](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/12/Dashboard-%E2%80%A2-Shashi-store1.png)
+[![PrestaShop 10](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/12/Dashboard-%E2%80%A2-Shashi-store1.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/12/Dashboard-%E2%80%A2-Shashi-store1.png)
 
 *   Click on **Webservice**.
 
-![Webservice](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/12/Dashboard-%E2%80%A2-Shashi-store1-1.png)
+[![Webservice](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/12/Dashboard-%E2%80%A2-Shashi-store1-1.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/12/Dashboard-%E2%80%A2-Shashi-store1-1.png)
 
 *   Click on “**Add new Webservice Key**“.
 
-![Access](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/12/Screenshot-12-2.png)
+[![Access](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/12/Screenshot-12-2.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/12/Screenshot-12-2.png)
 
 *   Now, Click on “**Generate**” button & assign all the permissions.
 
-![Access 12](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/12/Webservice-Add-new-%E2%80%A2-Shashi-store1-2.png)
+[![Access 12](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/12/Webservice-Add-new-%E2%80%A2-Shashi-store1-2.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/12/Webservice-Add-new-%E2%80%A2-Shashi-store1-2.png)
 
 *   This way, you can generate the access token to make this feature work.
 
-![prestaShop webservice2](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/01/Webservice-%E2%80%A2-Shashi-store1-png-1286%C3%97657-.png)
+[![prestaShop webservice2](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/01/Webservice-%E2%80%A2-Shashi-store1-png-1286%C3%97657-.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/01/Webservice-%E2%80%A2-Shashi-store1-png-1286%C3%97657-.png)
 
 **Note:-** Once the Seller installs any module for the first time on his/her PrestaShop,
 
@@ -242,11 +242,11 @@ Once the admin installs the app, he/she will get a new sub-menu in the Configura
 \-Seller will enter the Payment Method Name and Payment Method Module of his/her PrestaShop.  
 \-Seller can enable the auto-sync for the new products.
 
-![Prestashop connector config](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/prestashopfour.webp)
+[![Prestashop connector config](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/prestashopfour.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/prestashopfour.webp)
 
 Sellers can directly download the PrestaShop Module from PrestaShop details section of their seller Panel.
 
-![Module](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/prestashopfive.webp)
+[![Module](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/prestashopfive.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/prestashopfive.webp)
 
  PrestaShop Payment Details
 ----------------------------
@@ -262,11 +262,11 @@ Sellers can get these details from the “Payment” section of his/her PrestaSh
 
 For **Payment Method Name**, do refer the below-given screenshot:
 
-![Payment Method Name](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/01/Payment-Methods-%E2%80%A2-Shashi-store1.png)
+[![Payment Method Name](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/01/Payment-Methods-%E2%80%A2-Shashi-store1.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/01/Payment-Methods-%E2%80%A2-Shashi-store1.png)
 
 For **Payment Method Module**, do refer the below-given screenshot:
 
-![Payment Method Module](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/01/Module-Manager-%E2%80%A2-Shashi-store1-1.png)
+[![Payment Method Module](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/01/Module-Manager-%E2%80%A2-Shashi-store1-1.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/01/Module-Manager-%E2%80%A2-Shashi-store1-1.png)
 
 By saving the details, Seller will move forward to map Collection, Product Type & Product Tag.
 
@@ -275,29 +275,29 @@ From this section, Seller will map admin’s pre-defined Shopify store collectio
 
 **Note**:- Make sure that admin has enabled the “Restrict Collection” tab from MV admin panel.
 
-![PrestaShop11](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/prestashopsix.webp)
+[![PrestaShop11](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/prestashopsix.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/prestashopsix.webp)
 
 Clicking on the Map Collection, the seller will get the option to select collection of admin’s store and map the same with the collections of his/her PrestaShop. This will be a One to Many Mapping. 
 
-![PrestaShop22](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/prestashopseven.webp)
+[![PrestaShop22](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/prestashopseven.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/prestashopseven.webp)
 
 **\-Tag Mapping**   
 Seller will map all the Product’s Tags of admin’s Shopify store with the tags of his/her PrestaShop.
 
 **Note**:- Make sure that admin has enabled the “Restrict Product Tag” tab from MV admin panel.
 
-![Prestashop 33](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/prestashopeight.webp)
+[![Prestashop 33](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/prestashopeight.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/prestashopeight.webp)
 
 Clicking on the Map Tags button, Seller will enter the product tag created by admin and the tags of his/her PrestaShop to map them with each other. This will be a One to Many Mapping.
 
-![PrestaShop 44](http://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/prstashopnine.webp)
+[![PrestaShop 44](http://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/prstashopnine.webp)](http://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/prstashopnine.webp)
 
 **\-Type Mapping**  
 Seller will map the product type of admin’s Shopify store with product type of his own PrestaShop store. This will be a One to One Mapping.
 
 **Note**:- Make sure that admin has enabled the “Restrict Product Type” tab from MV admin panel.
 
-![PrestaShop 44](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/prestashopten.webp)
+[![PrestaShop 44](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/prestashopten.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/prestashopten.webp)
 
 Moreover, the seller can enable/disable or delete the mapped Product Tag & Product Type.
 
@@ -316,7 +316,7 @@ Also, Seller will enter comma separated product IDs of his/her PrestaShop store 
 **Method 3:** By Selecting Range  
 Using this method, Seller will enter the range of product IDs of his/her PrestaShop and import them at a time.
 
-![PrestaShop55](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/prestashopeleven.webp)
+[![PrestaShop55](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/prestashopeleven.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/prestashopeleven.webp)
 
 This way, Seller can import their PrestaShop Products to admin’s Shopify Store.
 
@@ -326,7 +326,7 @@ As soon as the Seller imports his PrestaShop products to admin’s marketplace, 
 
 You can view the imported products in the “**Product Listing**” section of the admin panel.
 
-![Product Listing ](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/magentoten.webp)
+[![Product Listing ](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/magentoten.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/magentoten.webp)
 
 Admin can anytime enable or deny the imported product with a reason.
 
@@ -343,11 +343,11 @@ An order delivered on PrestaShop will be updated on Multivendor App.
 
 If an order is canceled or refunded on Shopify, the order state will be updated on PrestaShop.Accordingly, you can update the inventory manually on PrestaShop.
 
-![Seller End](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/magentotwelve.webp)
+[![Seller End](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/magentotwelve.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/magentotwelve.webp)
 
 Moreover, the same order is here on PrestaShop also.
 
-![PrestaShop00](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/12/Screenshot-14-1.png)
+[![PrestaShop00](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/12/Screenshot-14-1.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/12/Screenshot-14-1.png)
 
  Auto-synced tracking number
 --------------------------
@@ -355,11 +355,11 @@ Now, not only order details but also the tracking information like the tracking 
 
 Admin end of order view.
 
-![4-2](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/04/4-2-1200x569.png)
+[![4-2](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/04/4-2-1200x569.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/04/4-2-1200x569.png)
 
 Seller end of the order view.
 
-![3-2](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/04/3-2-1200x538.png)
+[![3-2](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/04/3-2-1200x538.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/04/3-2-1200x538.png)
 
  Price Rule
 ------------------------
@@ -369,13 +369,13 @@ Sellers will have a new menu named **Connector Price Rule** in the configurati
 
 From here, seller can create price rules based on which seller’s product price will be calculated on merchant’s store.
 
-![Price rule ](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/prestashoptwelve.webp)
+[![Price rule ](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/prestashoptwelve.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/prestashoptwelve.webp)
 
 Furthermore, clicking the **Connector Price Rule**, seller needs to enable “Price Rule” status and select the options as increase/decrease price,
 
 Price will be changed by a fixed amount or a percentage amount, enter the amount that needs to be changed.
 
-![price rule](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/prestashopthirteen.webp)
+[![price rule](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/prestashopthirteen.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/prestashopthirteen.webp)
 
 Enable the checkbox to update already synced product’s price at merchant’s store as per the price rule created. 
 
@@ -387,13 +387,13 @@ Now the admin can allow their sellers to sync the product's Barcodes (UPC, MPN, 
 
 To do this, first Admin needs to enable this Configuration from Admin Panel>> Configuration>> Connector Configuration>>Choose Prestashop Connector>>Enable Product Barcode Option>>Save Changes.
 
-![Admin-panel-connector-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/prestashopfourteen.webp)
+[![Admin-panel-connector-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/prestashopfourteen.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/prestashopfourteen.webp)
 
 After this is enabled, the seller can select the Barcode( MPN, GTIN, UPC, etc)
 
 That he wants to sync with the Barcode field in Admin Shopify by navigating to Seller Panel>> Prestashop Configuration>> Select Barcode>>Save.
 
-![prestashop-seller-panel](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/prestashopfifteen.webp)
+[![prestashop-seller-panel](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/prestashopfifteen.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/prestashopfifteen.webp)
 
  Option Name Mapping
 -----------------
@@ -401,11 +401,11 @@ Now admin can map the Prestashop option names with Shopify option names.
 
 Admin can do this by navigating to the product listing section in the Admin Panel>>Select the product>>Edit>>Scroll down to the variant details section>> Click on the edit(pencil) icon
 
-![Prestshop-option-name-mapping](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/prestashopsixteen.webp)
+[![Prestshop-option-name-mapping](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/prestashopsixteen.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/prestashopsixteen.webp)
 
 the option names can be then mapped with their desired Shopify option names.
 
-![option-name-mapping](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/prestashopseventeen.webp)
+[![option-name-mapping](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/prestashopseventeen.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/prestashopseventeen.webp)
 
 **The Multi-vendor Marketplace app server IP-**
 

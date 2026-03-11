@@ -26,25 +26,25 @@ Admins can choose to enable OTP authentication for sellers as well. Once this se
 
 If the checkbox is selected, this becomes a mandatory step for all sellers.
 
-![2 factor](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/11/2factor-1200x571.webp)
+[![2 factor](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/02/1twofa.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/02/1twofa.webp)
 
 **Customizable Email Templates:**
 
 Admins also have the flexibility to personalize the OTP email content. Simply click on the “Click here to edit mail template” link to customize the email according to your brand’s tone and messaging.
 
-![edit](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/11/2factorr-1200x571.webp)
+[![edit](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/02/2mailtemplateedit.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/02/2mailtemplateedit.webp)
 
 SMS Authentication
 ----------------------
-![SMS](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/11/sms-825x1024.webp)
+[![SMS](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/02/3sms.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/02/3sms.webp)
 
 Users add an extra layer of login security by enabling SMS Authentication. During login, they enter a mobile number with country code and verify it using an OTP.
 
-![sh](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/11/isms-1200x603.webp)
+[![sh](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/02/4sendotp.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/02/4sendotp.webp)
 
 Once verified, a login code is sent to verified number every time you sign in, ensuring secure access with each login.
 
-![sms](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/11/iisms-1200x603.webp)
+[![sms](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/02/5enterotp.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/02/5enterotp.webp)
 
 SMS Authentication only works when the Sms Alert feature app is configured.
 
@@ -54,12 +54,12 @@ Note – If the seller changes the Contact no., he/she needs to verify the no. a
 
 Google Authentication
 ----------------------
-![g](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/11/google-976x1024.webp)
+[![g](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/02/6googleauth.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/02/6googleauth.webp)
 
 The admin adds an extra layer of security by enabling the Google Authentication option and scanning a QR code with the Google Authenticator app during the first login.
 
-![G](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/11/igoogle-1200x603.webp)
+[![G](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/02/7scan.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/02/7scan.webp)
 
 Once linked, a new login code is generated in the app for each login, helping protect access to sensitive backend operations.
 
-![G](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/11/iigoogle-1200x603.webp)
+[![G](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/02/8verify.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/02/8verify.webp)

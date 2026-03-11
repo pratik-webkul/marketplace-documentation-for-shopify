@@ -9,7 +9,7 @@ In this section of the blog, you’ll find everything related to the admin accou
 
 From here, the admin can enter the business email, set the currency for the shop, choose the weight unit for products, and much more.
 
-![General configuration Multivendor Marketplace for Shopify by Webkul](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/general.webp)
+[![General configuration Multivendor Marketplace for Shopify by Webkul](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/general.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/general.webp)
 
 To know about the **Configuration Updates**, [Kindly refer :](/zenith/configuration/configuration-updates)
 
@@ -19,7 +19,7 @@ You can now allow sellers to set a minimum purchase amount for orders. That is, 
 
 The customer can proceed to checkout only when the cart amount is greater than or equal to the minimum purchase amount set by the seller.
 
-![MULTIVENDOR MARKETPLACE](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/minimumpurchase.webp)
+[![MULTIVENDOR MARKETPLACE](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/minimumpurchase.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/minimumpurchase.webp)
 
 All you need to do is just visit the **General Configuration** section of the app and enable the tab. 
 
@@ -27,7 +27,7 @@ So, as soon as you enable the “**Minimum Purchase Amount**” tab, the same wi
 
 That is, sellers can set a minimum amount required for the customers while purchasing products.
 
-![MULTIVENDOR MARKETPLACE](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/miniseller.webp)
+[![MULTIVENDOR MARKETPLACE](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/miniseller.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/miniseller.webp)
 
 Now, only when the cart amount reaches the “minimum purchase amount”, the customers can proceed for checkout.
 
@@ -52,7 +52,7 @@ To paste the below given, follow the below process:
 
 Once it is done, you will have to enable **C2C Marketplace** button from **General Configuration** >>> Activate this feature.
 
-![MULTIVENDOR MARKETPLACE](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/c2c.webp)
+[![MULTIVENDOR MARKETPLACE](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/c2c.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/c2c.webp)
 
 **The functionality of C2C Marketplace:-  
 **Enabling this feature, you can allow the buyers to convert into the sellers.
@@ -62,7 +62,7 @@ As soon as you enable this feature, you will have a few options to choose when y
 \-At the time of seller approval  
 \-Don’t need to create customers.
 
-![MULTIVENDOR MARKETPLACE](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/c22c.webp)
+[![MULTIVENDOR MARKETPLACE](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/c22c.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/c22c.webp)
 
 **If the 1st option “At the time of sign up” is enabled:-**  
 The sellers will be added as a customer as soon as they get registered to the marketplace.
@@ -76,15 +76,15 @@ If a seller registers on the marketplace, the 'Auto Approve Seller' tab should b
 
 On the **front end**, customers will get a button name as seller portal to become a seller.
 
-![s8](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/04/s8-1200x531.png)
+[![s8](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/04/s8-1200x531.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/04/s8-1200x531.png)
 
 After clicking on the seller portal button it will redirect you to the terms and conditions page set by the store owner.
 
-![s9](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/04/s9.png)
+[![s9](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/04/s9.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/04/s9.png)
 
 If the customer tick and click on submit tab it will redirect you to the seller portal but customer click on the cancel tab it will redirect to the previous page.
 
-![s12](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/04/s12-1200x551.png)
+[![s12](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/04/s12-1200x551.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/04/s12-1200x551.png)
 
  Minimum Purchase Amount for Orders
 --------------------------
@@ -92,7 +92,7 @@ You can now allow sellers to set a minimum purchase amount for orders. That is, 
 
 The customer can proceed to checkout only when the cart amount is greater than or equal to the minimum purchase amount set by the seller.
 
-![MULTIVENDOR MARKETPLACE](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/minimumpurchase.webp)
+[![MULTIVENDOR MARKETPLACE](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/minimumpurchase.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/minimumpurchase.webp)
 
 All you need to do is just visit the **General Configuration** section of the app and enable the tab. 
 
@@ -100,7 +100,7 @@ So, as soon as you enable the “**Minimum Purchase Amount**” tab, the same wi
 
 That is, sellers can set a minimum amount required for the customers while purchasing products.
 
-![MULTIVENDOR MARKETPLACE](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/miniseller.webp)
+[![MULTIVENDOR MARKETPLACE](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/miniseller.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/miniseller.webp)
 
 Now, only when the cart amount reaches the “minimum purchase amount”, the customers can proceed for checkout.
 
@@ -121,15 +121,15 @@ So, go to Multi-vendor Admin Panel and then
 
 Configuration >>Instruction for Marketplace >> Scroll down to get the codes for “Seller’s Minimum Purchase Amount for Orders” >> Copy the code from there & add it to the instructed liquid files.
 
-![MULTIVENDOR MARKETPLACE](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/minicode.webp)
+[![MULTIVENDOR MARKETPLACE](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/minicode.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/minicode.webp)
 
 Once you add the codes to their respective liquid files, this will be the visibility of the cart page (Refer below screenshots).
 
-![MULTIVENDOR MARKETPLACE](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/06/Your-Shopping-Cart-%E2%80%93-Demo-Shop-1135x1024.png)
+[![MULTIVENDOR MARKETPLACE](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/06/Your-Shopping-Cart-%E2%80%93-Demo-Shop-1135x1024.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/06/Your-Shopping-Cart-%E2%80%93-Demo-Shop-1135x1024.png)
 
 In short, if the cart amount is equal or greater than the minimum purchase amount, the customer can proceed for checkout.
 
-![MULTIVENDOR MARKETPLACE](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/06/Your-Shopping-Cart-%E2%80%93-Demo-Shop-1-1135x1024.png)
+[![MULTIVENDOR MARKETPLACE](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/06/Your-Shopping-Cart-%E2%80%93-Demo-Shop-1-1135x1024.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/06/Your-Shopping-Cart-%E2%80%93-Demo-Shop-1-1135x1024.png)
 
 
  Login As Seller
@@ -139,13 +139,13 @@ You as an admin will now have the access to login seller dashboards directly fro
 Firstly, you need to enable the option from the **General Configuration** menu of the app.  
 Multi-vendor admin panel>>**Configuration**\>>**General Configuration**\>>Enable Option>>**Save** Changes.
 
-![DWQd](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/loginsellerconfig.webp)
+[![DWQd](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/loginsellerconfig.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/loginsellerconfig.webp)
 
 Once enabled, visit the **Seller Listing** section and click the “**Login as Seller**” from the Action menu.
 
 Multi-vendor Admin Panel>>**Sellers**\>>**Seller Listing**\>>Click **Login as Seller** (Action menu).
 
-![DQDD](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/loginasseller.webp)
+[![DQDD](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/loginasseller.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/loginasseller.webp)
 
 Clicking this button, the seller will be redirected to the respective seller panel.
 
@@ -158,7 +158,7 @@ Now, you can change the copyright label of the app footer, for this visit-
 
 App admin panel>>Configuration>>General Configuration
 
-![screenshot_1695927184457](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/footer.webp)
+[![screenshot_1695927184457](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/footer.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/footer.webp)
 
 **NOTE**\- This feature is available only in the PRO plan of the app.
 
@@ -166,7 +166,7 @@ App admin panel>>Configuration>>General Configuration
 ------------------------
 This feature allows the admin to replace the default currency symbol displayed in the seller panel with a custom text/symbol of the admin's choice wherever the currency symbol appears.
 
-![Currency](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/customcurrency.webp)
+[![Currency](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/customcurrency.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/customcurrency.webp)
 
 To configure the default currency symbol for your sellers, the Admin needs to navigate to:  
 Admin Dashboard>General Configuration>Enable Custom Currency Symbol>Enter your Currency Symbol>Save changes.
@@ -177,13 +177,13 @@ We’ve added a new feature in our Multivendor Marketplace app that allows you t
 
 With just one configuration, you can choose whether you want to translate only the Admin panel, only the Seller panel, or both.
 
-![configuration-google-translate](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/google.webp)
+[![configuration-google-translate](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/google.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/google.webp)
 
 To enable this feature, simply navigate to **Admin Panel >> Configuration >> General Configuration** and choose your preferred option.
 
 Once enabled, a Google Translate dropdown will appear at the top-right corner of the selected panel(s).
 
-![configuration-translation-dropdown](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/translate.webp)
+[![configuration-translation-dropdown](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/translate.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/translate.webp)
 
 From there, you can choose your preferred language, and the entire panel will be translated instantly.
 

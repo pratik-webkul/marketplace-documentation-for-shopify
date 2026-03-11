@@ -28,13 +28,13 @@ So, Let's understand the workflow of the Multi-vendor Marketplace Social Network
 ------------------------
 Firstly visit "Feature Apps" section by clicking on (...) three dots on the top right-hand side of the main menu of the Multivendor Marketplace app:-
 
-![Multivendor](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/10/5.png)
+[![Multivendor](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/10/5.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/10/5.png)
 
 Now go to "Marketplace Seller Add-ons" and enable "Social Network Tabs" feature app:-
 
-![12](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/10/6.png)
+[![12](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/10/6.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/10/6.png)
 
-![23](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/10/7.png)
+[![23](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/10/7.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/10/7.png)
 
  SOCIAL NETWORK TABS
 -----------------
@@ -42,23 +42,23 @@ Now admin needs to visit the "Social Network tabs" section from the "Sellers" me
 
 And from here choose the social media platforms that you want to display to your sellers on their respective seller panels.
 
-![1](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/10/8.png)
+[![1](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/10/8.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/10/8.png)
 
-![34](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/10/9.png)
+[![34](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/10/9.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/10/9.png)
 
  SOCIAL NETWORK TAB SETTINGS
 -----------------
 From here admin can configure the display look and styling of social media tabs that will be shown on frontend on the seller profile page:-
 
-![ Multi-vendor Social Network Tabs](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/10/10.png)
+[![ Multi-vendor Social Network Tabs](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/10/10.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/10/10.png)
 
 ### **Display Setting:-**
 
-![ Multi-vendor Social Network Tabs](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/10/11.png)
+[![ Multi-vendor Social Network Tabs](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/10/11.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/10/11.png)
 
 ### **Style Setting:-**
 
-![ Multi-vendor Social Network Tabs](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/10/12.png)
+[![ Multi-vendor Social Network Tabs](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/10/12.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/10/12.png)
 
  SELLER PANEL
 ------------------------
@@ -70,17 +70,17 @@ Now seller needs to visit the "Social Network tabs" section in the "Profile" men
 ---------------
 Here sellers can configure social network tabs to display them on their seller profile page.
 
-![ Multi-vendor Social Network Tabs](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/10/13.png)
+[![ Multi-vendor Social Network Tabs](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/10/13.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/10/13.png)
 
  FRONTEND
 -------------------------
 Once the configuration is done then Social network tabs will be visible on seller profile page like showing in below screenshot:-
 
-![ Multi-vendor Social Network Tabs](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/10/seller_profile___demo_store__1_.png)
+[![ Multi-vendor Social Network Tabs](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/10/seller_profile___demo_store__1_.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/10/seller_profile___demo_store__1_.png)
 
 Clicking the **Twitter Tab**, the Twitter posts will appear like this on the seller profile page:-
 
-![seller profile page](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/10/seller_profile___demo_store.png)
+[![seller profile page](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/10/seller_profile___demo_store.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/10/seller_profile___demo_store.png)
 
 Similarly, you can click the rest of the tabs to display social media posts on the seller profile page.
 

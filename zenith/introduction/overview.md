@@ -33,13 +33,13 @@ Then you can paste your previous Shopify store URL in the Store URL field and se
 
 which settings should be the same in the newly installed multivendor marketplace app and click the next button.
 
-![chatwhizz](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/06/chatwhizz.png)
+[![chatwhizz](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/06/chatwhizz.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/06/chatwhizz.png)
 
 And after this, the admin will set the global commission and have the option set the Google Recaptcha for the seller sign up page.
 
 Then the admin will be redirected to the Multivendor admin dashboard where the admin can click on the sync symbol to the status of the migration like shown below image.
 
-![1-chat-s-](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/05/1-chat-s-.png)
+[![1-chat-s-](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/05/1-chat-s-.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/05/1-chat-s-.png)
 
 **Note:-** This migration step will appear while installing the multivendor marketplace app and once you have skipped this then it wouldn't come again
 
@@ -80,12 +80,12 @@ The Admin dashboard is much more informative now. You can now check the Best Sel
 
 With this, you can manage the Configuration of the App.
 
-![dashboard](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/08/configuration.webp)
+[![dashboard](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/08/configuration.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/08/configuration.webp)
 
 **Instruction for Marketplace**
 ---------------------------------
 
-![Details Multivendor Marketplace for Shopify by Webkul](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/08/instruction-1-scaled.webp)
+[![Details Multivendor Marketplace for Shopify by Webkul](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/08/instruction-1-scaled.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/08/instruction-1-scaled.webp)
 
 This includes all the information, which was there in the "configuration" menu before, i.e., the old theme.
 
@@ -100,7 +100,7 @@ This includes information that relate to the Admin account.
 
 From here, the admin can enter the business email, set the currency for the shop, choose the weight unit for products, and much more.
 
-![General configuration Multivendor Marketplace for Shopify by Webkul](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/08/general-configuration-scaled.webp)
+[![General configuration Multivendor Marketplace for Shopify by Webkul](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/08/general-configuration-scaled.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/08/general-configuration-scaled.webp)
 
 To know about the **Configuration Updates**, Kindly refer: [Click Here](/zenith/configuration/general-configration)
 
@@ -111,7 +111,7 @@ All the Product related configurations can be done from this menu.
 
 Here, you can provide an option to add/edit/delete the products to your sellers, you can enable the option to auto-approve your products, auto-enable the added products and much more.
 
-![product configuration Multivendor Marketplace for Shopify by Webkul](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/08/productconfig-scaled.webp)
+[![product configuration Multivendor Marketplace for Shopify by Webkul](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/08/productconfig-scaled.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/08/productconfig-scaled.webp)
 
 To know about the **Product Updates**, please refer: [Click Here](/zenith/configuration/product-configration)
 
@@ -133,7 +133,7 @@ All the configuration related to Orders can be done from here. You can make the 
 
 Also, you can enable the "Order Prepare Status" option to track the order preparation by the sellers and much more.
 
-![order configuration Multivendor Marketplace for Shopify by Webkul](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/08/orderconfig-scaled.webp)
+[![order configuration Multivendor Marketplace for Shopify by Webkul](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/08/orderconfig-scaled.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/08/orderconfig-scaled.webp)
 
 To know more about the **Order-related Updates**, Kindly refer: [https://webkul.com/blog/shopify-multivendor-marketplace-app-new-upgraded-features/](https://webkul.com/blog/shopify-multivendor-marketplace-app-new-upgraded-features/)
 
@@ -144,13 +144,13 @@ Admin will set up the Payment Methods for his sellers from here and the same pay
 
 You can also set the "Shipping cost" and "Taxes" the way you want to distribute these charges between you and your sellers.
 
-![payment ](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/08/seller-payment.webp)
+[![payment ](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/08/seller-payment.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/08/seller-payment.webp)
 
-![methods](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/08/sellerpayment-scaled.webp)
+[![methods](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/08/sellerpayment-scaled.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/08/sellerpayment-scaled.webp)
 
-![settings](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/08/sellerpaymentc-scaled.webp)
+[![settings](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/08/sellerpaymentc-scaled.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/08/sellerpaymentc-scaled.webp)
 
-![autopay](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/08/sellerpaymentconfig-scaled.webp)
+[![autopay](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/08/sellerpaymentconfig-scaled.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/08/sellerpaymentconfig-scaled.webp)
 
 Check the **Complete Payment Flow** of the Multi-vendor Marketplace App: [Click Here to know more about payment flow: ](/zenith/payment/seller-payment)
 
@@ -192,7 +192,7 @@ You can check the **Video Guide** to know how the admin can add sellers on the m
 
 This will list all the Sellers that are registered with the Multivendor App. Admin can export the Seller Details. Admin can edit/disable the seller and can also add a new seller from this menu.
 
-![Adding Sellers Multivendor Marketplace for Shopify by Webkul](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/08/sellerlisting.webp)
+[![Adding Sellers Multivendor Marketplace for Shopify by Webkul](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/08/sellerlisting.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/08/sellerlisting.webp)
  
 **Seller Form Settings**
 -------------------------
@@ -213,7 +213,7 @@ Admin can manage the labels for the sold by the link on a product page and also 
 
 Admin can manage all the fields that are to be shown on the Seller Profile Page. Custom CSS can also be written to change the view of the Seller Profile Page at the Shopify end.
 
-![Seller profile page setting Multivendor Marketplace for Shopify by Webkul](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/08/sellerprofilepage-scaled.webp)
+[![Seller profile page setting Multivendor Marketplace for Shopify by Webkul](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/08/sellerprofilepage-scaled.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/08/sellerprofilepage-scaled.webp)
 
 [To **know more**, kindly refer to this User Guide:](/zenith/seller/seller-profile-page-settings)
 
@@ -237,7 +237,7 @@ Here the admin can view the list of all the feedback's given by the customer fro
 
 From this menu, the Admin can customize the Seller Policy if & only if, he has selected the seller policy to be 'Advance Seller Policy' from the 'Seller Configuration' section.
 
-![Seller Policy Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/sellerpolicy.webp)
+[![Seller Policy Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/sellerpolicy.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/sellerpolicy.webp)
 
 [Know more about the **advanced seller policy**:](/zenith/seller/advanced-seller-policy)
 
@@ -286,7 +286,7 @@ Once done, save the changes.
 
 A new tag added to the app :
 
-![Product Tags Multivendor Marketplace for Shopify by Webkul](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/08/edittags.webp)
+[![Product Tags Multivendor Marketplace for Shopify by Webkul](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/08/edittags.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/08/edittags.webp)
 
 Please note:- The tags which are created by admin from the Shopify store cannot be synced in the multivendor marketplace app.
 
@@ -301,11 +301,11 @@ Once done then the admin can add the type to the app.
 
 By this seller cannot be able to add any new Product types while creating the product and will have to use the product types which are already created by you.
 
-![ Restrict Product Type Multivendor Marketplace for Shopify by Webkul](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/08/restricttype.webp)
+[![ Restrict Product Type Multivendor Marketplace for Shopify by Webkul](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/08/restricttype.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/08/restricttype.webp)
 
-![Add product Type Multivendor Marketplace for Shopify by Webkul](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/08/addtype.webp)
+[![Add product Type Multivendor Marketplace for Shopify by Webkul](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/08/addtype.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/08/addtype.webp)
 
-![Edit Product Type Multivendor Marketplace for Shopify by Webkul](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/08/edittype.webp)
+[![Edit Product Type Multivendor Marketplace for Shopify by Webkul](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/08/edittype.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/08/edittype.webp)
 
 **Collections** 
 ------------------
@@ -336,11 +336,11 @@ Firstly admin needs to click on "import products" section to import the products
 
 [![Import Product Multivendor Marketplace for Shopify by Webkul](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/import.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/import.webp)
 
-![Import Now Multivendor Marketplace for Shopify by Webkul](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/importproduct.webp)
+[![Import Now Multivendor Marketplace for Shopify by Webkul](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/importproduct.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/importproduct.webp)
 
 Now make sure to assign these imported products to your sellers because only then the imported products will start showing on the "Products Listing' section of the Multivendor app.
 
-![Assign Products Multivendor Marketplace for Shopify by Webkul](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/assign.webp)
+[![Assign Products Multivendor Marketplace for Shopify by Webkul](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/assign.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/assign.webp)
 
 This way you can successfully import the products from your Shopify store into a multivendor marketplace app.
 
@@ -348,11 +348,11 @@ This way you can successfully import the products from your Shopify store into a
 
 **Product Form Customization** With this Admin can manage the "Add Product Form" for normal as well as digital products in the app.
 
-![Product Form Customization Multivendor Marketplace for Shopify by Webkul](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/productform.webp)
+[![Product Form Customization Multivendor Marketplace for Shopify by Webkul](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/productform.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/productform.webp)
 
 **Batch CSVs** This section will have the list of all the CSVs you have upload on your store till now. They can be the product, seller or any other CSV file.*   It can be approved/disapproved & deleted by the Admin.
 
-![Batch CSVs Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/batchcsv.webp)
+[![Batch CSVs Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/batchcsv.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/batchcsv.webp)
 
 This way you can manage the "Product" menu in the App.
 
@@ -387,18 +387,18 @@ Admin can raise the RMA request from the "orders Listing" section of the app and
 
 and by this seller will get the information about the order in case of cancellation/exchange/return.
 
-![r2](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/raiserma.webp)
+[![r2](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/raiserma.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/raiserma.webp)
 
 Once you click on the Raise RMA Request button, a new window will open, where you can initiate the RMA request, you can also mark the comment/ reasons for the RMA.
 
-![unnamed-file](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/raiserequest.webp)
+[![unnamed-file](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/raiserequest.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/raiserequest.webp)
 
 **Invoice Configuration**
 ---------------------------
 
 Admin can configure the details of the invoice sent to the sellers from here. Also, allow the sellers to generate & print invoice once generated by the admin.
 
-![Invoice Configuration](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/invoice-scaled.webp)
+[![Invoice Configuration](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/invoice-scaled.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/invoice-scaled.webp)
 
 **Invoice template** 
 -----------------------
@@ -409,7 +409,7 @@ The menu helps in managing the invoice layout.
 
 [![invoice template](https://cdnblog.webkul.com/blog/wp-content/uploads/2017/11/15085011/Screenshot-2.png)](https://webkul.com/blog/shopify-multi-vendor-marketplace/)
 
-![Invoice Template ](https://cdnblog.webkul.com/blog/wp-content/uploads/2017/11/15085107/AwesomeScreenshot-Invoice-Template-Admin-2019-07-15-10-07-13.png)
+[![Invoice Template ](https://cdnblog.webkul.com/blog/wp-content/uploads/2017/11/15085107/AwesomeScreenshot-Invoice-Template-Admin-2019-07-15-10-07-13.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2017/11/15085107/AwesomeScreenshot-Invoice-Template-Admin-2019-07-15-10-07-13.png)
 
 
 [Know More about **Invoice**:](/zenith/configuration/invoice-configuration)
@@ -472,7 +472,7 @@ Admin can manage the payments from the menu. Admin can view all the Payment rece
 
 Four sub-menu :
 
-![payment](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/payment.webp)
+[![payment](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/payment.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/payment.webp)
 
 **Seller Payments**
 --------------------
@@ -489,27 +489,27 @@ You will now have the option to pay the sellers **the whole amount of all the o
 
 Go to the **Multivendor Marketplace app** >>**Payment** >> **Seller Payment Configuration** >> Payment Setting >> Seller Payment Type >> Select the option and save
 
-![payment](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/pay5.webp)
+[![payment](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/pay5.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/pay5.webp)
 
-![payment](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/pay6.webp)
+[![payment](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/pay6.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/pay6.webp)
 
 ### Pay the total Amount
 
-![payment](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/pay7.webp)
+[![payment](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/pay7.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/pay7.webp)
 
 Now, to pay to sellers, the admin needs to visit the “Seller Payments” section under the “payment” menu in the admin panel of the multivendor marketplace app
 
 The system will display a list of sellers on the redirected page. The admin can select the seller they wish to pay by clicking the 'View' button available under the three-dot menu.
 
-![pay 8](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/pay8.webp)
+[![pay 8](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/pay8.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/pay8.webp)
 
 After this, the admin needs to click on the ‘Pay’ button, which will redirect them to the Seller Payment Details page.
 
-![pay 9](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/pay9.webp)
+[![pay 9](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/pay9.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/pay9.webp)
 
 Here, the admin can first select the date range to fetch the seller's orders.
 
-![pay10](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/pay10.webp)
+[![pay10](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/pay10.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/pay10.webp)
 
 Then, after reviewing the list, they can manually choose the specific orders they want to pay for. Additionally, this step-by-step process ensures more control and flexibility over payments.
 
@@ -519,11 +519,11 @@ By default, the system automatically selects all transactions; **however**, the 
 
 After selecting the desired orders, the admin clicks on the ‘Pay’ button again.
 
-![pay11](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/pay11.webp)
+[![pay11](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/pay11.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/pay11.webp)
 
 A pop-up will appear, allowing the admin to choose a payment method and proceed to pay the seller.
 
-![pay12](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/pay12.webp)
+[![pay12](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/pay12.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/pay12.webp)
 
 The Payment page displays the selected orders' earnings and the unsettled amount.
 
@@ -533,7 +533,7 @@ Meanwhile, we also display the ‘Unsettled Amount’ to provide a clear breakdo
 
 This unsettled amount includes any refunded amounts or shipping label costs borne by the admin/seller. The system automatically handles these adjustments at the time of payment.
 
-![Seller Payments](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/pay13.webp)
+[![Seller Payments](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/pay13.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/pay13.webp)
 
 **Seller Payment Method**
 --------------------------
@@ -542,17 +542,17 @@ Firstly, the admin needs to set up the payment methods for payments to the selle
 
 Admin end of Multivendor Marketplace app >> Payment >> Payment Method >> Enable the payment methods from here >> Save
 
-![payment](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/payment-1.webp)
+[![payment](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/payment-1.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/payment-1.webp)
 
-![Seller Payments](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/pays.webp)
+[![Seller Payments](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/pays.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/pays.webp)
 
 Now, the same payment methods will be available at the seller's end. The seller chooses the payment methods through which they want the admin to pay them.
 
 Seller end of Multivendor Marketplace app->> Profile->> Payment details->> Here choose any payment method from drop-down menu->> Save
 
-![payment](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/payt.webp)
+[![payment](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/payt.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/payt.webp)
 
-![payment](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/payfr.webp)
+[![payment](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/payfr.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/payfr.webp)
 
 The admin can edit or change the payment methods that the sellers add from their respective panels.
 
@@ -562,13 +562,13 @@ Admin can configure all the emails sent to the Sellers/Customers from the App.
 
 Moreover, the admin can set the header and footer background color of the mail templates from here.
 
-![image](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/mailtemplate-scaled.webp)
+[![image](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/mailtemplate-scaled.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/mailtemplate-scaled.webp)
 
 This way admin can configure the emails easily.  
   
 Now, You can also edit the table content of the Order Placed Mail templates as shown below:
 
-![image](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/editordermail-scaled.webp)
+[![image](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/editordermail-scaled.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/editordermail-scaled.webp)
 
 **Mail** Settings
 -----------------
@@ -577,7 +577,7 @@ Admin can now have your own email in the “from” and “reply-to” section o
 
 Refer to the user guide given below for the same.
 
-![image](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/mailsmtp-scaled.webp)
+[![image](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/mailsmtp-scaled.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/mailsmtp-scaled.webp)
 
 [To know More, Please refer:](/zenith/mail-configuration/mail-smtp)
 
@@ -586,7 +586,7 @@ Refer to the user guide given below for the same.
 
 This section will display you the mail details as shown in the image below:
 
-![image](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/mailcounter.webp)
+[![image](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/mailcounter.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/mailcounter.webp)
 
 ### Translation
 
@@ -594,11 +594,11 @@ With the "Translation" menu, you can change the language for all the labels at t
 
 So, now you can get the labels changed as per your own requirement and in your choice of language.
 
-![Translate Labels Multivendor Marketplace for Shopify by Webkul](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/translation.webp)
+[![Translate Labels Multivendor Marketplace for Shopify by Webkul](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/translation.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/translation.webp)
 
-![Label Translation Multivendor Marketplace for Shopify by Webkul](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/edittranslation.webp)
+[![Label Translation Multivendor Marketplace for Shopify by Webkul](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/edittranslation.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/edittranslation.webp)
 
 Now, translating labels are easier with the help of CSV. Export label CSV of the particular page, edit and save the CSV and then import the same to see the changes.
 
-![Import/Export Labels Multivendor Marketplace for Shopify by Webkul](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/export-1.webp)
+[![Import/Export Labels Multivendor Marketplace for Shopify by Webkul](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/export-1.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/export-1.webp)
 

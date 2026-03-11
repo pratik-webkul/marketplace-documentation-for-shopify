@@ -41,14 +41,13 @@ Follow the procedure to install this module:
 
 Go to the "Feature App" section of the admin panel>>Select "Seller Vacation App">>Enable it>>Approve charges.
 
-![Seller Vacation1](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/04/Dashboard-_-Admin.jpg)
+[![Seller Vacation1](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/new1772775864403.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/new1772775864403.webp)
 
 
-![Screenshot-59](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/12/Screenshot-59.png)
+[![Screenshot-59](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/new1772775875005.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/new1772775875005.webp)
 
-![Seller Vacation3](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/04/2-2.png)
+[![Seller Vacation3](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/new1772775893540.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/new1772775893540.webp)
 
-![seller](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/12/seller1-1200x585.webp)
 
 Once you approve this charge, you will end up getting this feature installed in your Multivendor app.
 
@@ -60,23 +59,23 @@ From this, the admin can allow the sellers to sell their products when he is on 
 
 Dashboard>>Configuration>>Seller Configuration>>Enable the "Seller Vacation" button.
 
-![Seller Vacation5](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/04/Configuration-_-Admin.jpg)
+[![Seller Vacation5](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/new1772776243028.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/new1772776243028.webp)
 
 Now, the admin can view the vacation status from the seller listing section of the Multi-vendor app.
 
-![Seller Vacation6](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/04/Seller-_-Admin-2.jpg)
+[![Seller Vacation6](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/new1772776303948.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/new1772776303948.webp)
 
 If the seller is on vacation, the admin can view the seller's vacation details via this procedure.
 
 Admin dashboard>>Sellers>>Seller Listing>>Select the seller>>Edit seller>>View Seller Vacation Details.
 
-![Seller Vacation7](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/04/Edit-Seller-_-Admin.jpg)
+[![Seller Vacation7](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/new1772776571321.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/new1772776571321.webp)
 
 If the admin wants to receive prior notification before a seller's vacation ends, they can enable the option **"Send notification to the admin before the number of days from the end vacation date."**
 
 To enable this feature, the admin needs to navigate to **Admin Dashboard>>Configuration >> Seller Vacation Configuration**.
 
-![seller](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/12/sellervacationlast11zon-1200x571.webp)
+[![seller](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/new1772776627794.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/new1772776627794.webp)
 
 In the field **"Enter the number of days before the end vacation date to trigger the mail,"** the admin should specify the desired number of days (Which should be less than 31 days and more than 0).
 
@@ -86,15 +85,15 @@ A notification email will be sent to the admin mentioned days before the seller'
 ----------------------------------
 The seller will configure all his vacation details from the "My Account" section of the seller panel.
 
-![Seller Vacation8](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/04/Screenshot-4.png)
+[![Seller Vacation8](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/new1772776685700.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/new1772776685700.webp)
 
 In the "Shop Vacation Configuration" section, the seller can provide all his details if he is going on vacation for a specific period.
 
-![seller](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/12/screenshlast1zon-785x1024.webp)
+[![seller](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/new1772776787926.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/new1772776787926.webp)
 
 The seller needs to click on the "Set Vacation" button if he is planning to go on vacation and fill required details to inform about the same to the admin and the buyer.
 
-![seller](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/12/sellerselling-1200x525.webp)
+[![seller](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/new1772776835150.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/new1772776835150.webp)
 
 If the seller is unavailable to fulfill the orders (i.e. if the seller is on vacation), he can manage the product operation in two ways.
 
@@ -102,13 +101,13 @@ Either the seller will **disable all his products or he can continue selling** h
 
 If the seller selects "Disable all Products", all the products which he has added get disabled.
 
-![Seller Vacation13](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/04/Product-_-Seller-•-Multivendor-MarketPlace-1.jpg)
+[![Seller Vacation13](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/new1772777198907.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/new1772777198907.webp)
 
 And if the seller selects the **"Continue Selling"** option, he needs to write a message for his customers which will be visible on the product page when the seller is on vacation.
 
-![shopvacation](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/12/seller3zon-1200x568.webp)
+[![shopvacation](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/new1772777282748.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/new1772777282748.webp)
 
-![Seller Vacation15](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/04/Seller-_-Admin-1-1.jpg)
+[![Seller Vacation15](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/new1772777335147.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/new1772777335147.webp)
 
 Once the seller confirms his vacation by filling these details, the vacation status of this seller will be visible to the admin on his end.
 
@@ -116,7 +115,7 @@ Once the seller confirms his vacation by filling these details, the vacation sta
 ------------------
 Once the seller selects "Disable all Products", you will get the product status as "Disabled". And no products will be visible to the customer on the front end.
 
-![seller](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/12/seller4zon.webp)
+[![seller](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/12/seller4zon.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/12/seller4zon.webp)
 
 But if the seller selects the **"Continue Selling"** option, he can display a message for his customers which will be visible on the product page when the seller is on vacation.
 

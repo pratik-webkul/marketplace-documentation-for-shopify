@@ -78,8 +78,9 @@ export default defineConfig({
           collapsible: true,
           collapsed: true,
           items: [
+            { text: 'Seller guide', link: '/zenith/seller/seller-guide' },
             { text: 'Seller profile page settings', link: '/zenith/seller/seller-profile-page-settings' },
-            { text: 'Seller notification', link: '/zenith/seller/seller-notification' },
+            { text: 'Seller notification', link: '/zenith/seller/seller-notification' },            
             { text: 'Seller policy', link: '/zenith/seller/advanced-seller-policy' },
             { text: 'Seller navigation', link: '/zenith/seller/seller-navigation' },
             { text: 'Seller URL customisation', link: '/zenith/seller/seller-URL-customisation' }
@@ -151,6 +152,17 @@ export default defineConfig({
           ]
         },
         {
+          text: 'Upgraded Features',
+          collapsible: true,
+          collapsed: true,
+          items: [
+            {
+              text: 'Upgraded Features',
+              link: '/zenith/upgraded-features/upgraded-features'
+            }
+          ]
+        },
+        {
           text: 'Featured app',
           collapsible: true,
           collapsed: true,
@@ -174,8 +186,9 @@ export default defineConfig({
                 { text: 'Ecom express shipping', link: '/zenith/featured-app/shipping/ecom-express-shipping' },
                 { text: 'Envia shipping', link: '/zenith/featured-app/shipping/envia-shipping' },
                 { text: 'FedEx shipping', link: '/zenith/featured-app/shipping/fedex-shipping' },
+                { text: 'Japanese shipping', link: '/zenith/featured-app/shipping/japanese-shipping' },
                 { text: 'J&TExpress shipping', link: '/zenith/featured-app/shipping/j&texpress-shipping' },
-                { text: 'Marketplace shipping', link: '/zenith/featured-app/shipping/marketplace-shipping' },
+                // { text: 'Marketplace shipping', link: '/zenith/featured-app/shipping/marketplace-shipping' },
                 { text: 'PostNL', link: '/zenith/featured-app/shipping/postnl' },
                 { text: 'Sendle shipping', link: '/zenith/featured-app/shipping/sendle-shipping' },
                 { text: 'Shipmondo', link: '/zenith/featured-app/shipping/shipmondo' },
@@ -294,6 +307,16 @@ export default defineConfig({
                 { text: 'ZOHO integration', link: '/zenith/featured-app/marketplace-miscellaneous-add-ons/zoho-integration' }               
               ]
             }
+          ]
+        },
+        {
+          text:' Marketplace shipping',
+          collapsible: true,
+          collapsed: true,
+          items: [
+          {text:'Marketplace shipping',link:'/zenith/marketplace-shipping/marketplace-shipping'},
+          {text:'Multiple shipping',link:'/zenith/marketplace-shipping/multiple-shipping'},
+          {text:'Postcode Shipping',link:'/zenith/marketplace-shipping/postcode-shipping'},  
           ]
         },
         {

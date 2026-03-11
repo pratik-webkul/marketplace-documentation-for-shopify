@@ -22,7 +22,7 @@ Enable the following app by visiting:
 *   Search for ‘**Pay What You Want**‘ & click on ‘**Enable**‘
 *   After accepting the charges, you’ll be good to configure the app!
 
-![Feature_Apps_Admin-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/paywhatyouwanta.webp)
+[![Feature_Apps_Admin-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/paywhatyouwanta.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/paywhatyouwanta.webp)
 
 To make this feature display on the frontend, the admin needs to paste a few codes.
 
@@ -31,7 +31,7 @@ The instructions with the codes will be given on the following page:
 
 Here, you’ll have these codes:
 
-![Instructions_Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/paywhatyouwantb.webp)
+[![Instructions_Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/paywhatyouwantb.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/paywhatyouwantb.webp)
 
 Show Price input field in the product page: Copy the below-given code & paste it to **product-template.liquid** file.
 ```liquid
@@ -107,15 +107,15 @@ To add a product, visit **Multivendor Marketplace Admin/Seller Panel** \> **Prod
 
 Now, while adding the product, you need mark product as **Pay what you want Product**.
 
-![Mark product as "pay what you want" while adding product ](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/paywhatyouwantc.webp)
+[![Mark product as "pay what you want" while adding product ](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/paywhatyouwantc.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/paywhatyouwantc.webp)
 
 Other than this, add a minimum price to the product, enter the rest of the details and save.
 
-![download](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/paywhatyouwantd.webp)
+[![download](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/paywhatyouwantd.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/paywhatyouwantd.webp)
 
 The "minimum price" can be added in two ways i.e, fixed and percentage. You can opt this from product configurations:
 
-![Choose which type of minimum price you would like to add on "pay what you want" products](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/paywhatyouwante.webp)
+[![Choose which type of minimum price you would like to add on "pay what you want" products](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/paywhatyouwante.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/paywhatyouwante.webp)
 
 **Note:**
 
@@ -127,7 +127,7 @@ Also, on the seller profile page, the prices for PWYW products don't display. If
 ```
 Moreover, after adding all the codes, this is how the frontend will look like:
 
-![collage](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/05/collage.png)
+[![collage](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/05/collage.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/05/collage.png)
 
 If a customer tries to checkout after entering a price lesser than the minimum amount set from the backend, he will receive a message saying:  
 _"You must pay at least \*minimum amount value\*"_

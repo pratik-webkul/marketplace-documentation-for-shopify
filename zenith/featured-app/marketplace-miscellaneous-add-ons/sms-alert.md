@@ -20,7 +20,7 @@ Earlier in the multivendor marketplace, notification of a new order placed by th
 ---------------
 Visit the '**Feature app**' section from your multivendor marketplace admin panel. Now, click on the enable button to install the app.
 
-![Multivendor Marketplace for Shopify: Clockwork Integration](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/sms11.webp)
+[![Multivendor Marketplace for Shopify: Clockwork Integration](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/sms11.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/sms11.webp)
 
 Once done, you need to accept the payment. Further, you can enable the app successfully.
 
@@ -33,7 +33,7 @@ Firstly, the admin needs to set up the SMS Gateways. There are two SMS Gateways 
 
 For configuration, visit **Multivendor Marketplace Admin Panel** > **Orders** > **SMS Gateway Settings**
 
-![SMS-Gateway-Setting-Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/sms2.webp)
+[![SMS-Gateway-Setting-Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/sms2.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/sms2.webp)
 
 Here, you can activate both or any one of the SMS Gateways.
 
@@ -41,11 +41,11 @@ Here, you can activate both or any one of the SMS Gateways.
 ---------------------
 Firstly, click on the three dots to activate the gateway. Refer:
 
-![SMS-Gateway-Setting-Admin-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/sms3.webp)
+[![SMS-Gateway-Setting-Admin-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/sms3.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/sms3.webp)
 
 Once you click on the activate button, you need to enter the **Clockwork API key**.
 
-![SMS-Gateway-Setting-Admin-2](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/sms4.webp)
+[![SMS-Gateway-Setting-Admin-2](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/sms4.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/sms4.webp)
 
 Enter the key & save the details.
 
@@ -57,11 +57,11 @@ To get the API key you have to create an account on **[Clockwork](https://www.cl
 -----------------
 You can activate the Twilio SMS Gateway by clicking on the three dots. Refer:
 
-![SMS-Gateway-Setting-Admin-3](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/sms5.webp)
+[![SMS-Gateway-Setting-Admin-3](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/sms5.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/sms5.webp)
 
 Once you'll click on the activate button, you'll be asked to enter the **Twilio SID** & **Auth Key**. Enter these details and save them to proceed.
 
-![SMS-Gateway-Setting-Admin-4](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/sms6.webp)
+[![SMS-Gateway-Setting-Admin-4](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/sms6.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/sms6.webp)
 
 **How to get Twilio SID & Auth Key?**
 
@@ -70,13 +70,13 @@ Follow these steps:
 *   Login to [Twilio](https://www.twilio.com/login). Sign-up in case you don't have an account.
 *   Further login, on the **Twilio Dashboard**, you'll have the Account SID & Auth Key. Refer:
 
-![Twilio-Cloud-Communications-Web-Service-API-for-building-Voice-and-SMS-Applications](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/01/Twilio-Cloud-Communications-Web-Service-API-for-building-Voice-and-SMS-Applications-1200x551.png)
+[![Twilio-Cloud-Communications-Web-Service-API-for-building-Voice-and-SMS-Applications](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/01/Twilio-Cloud-Communications-Web-Service-API-for-building-Voice-and-SMS-Applications-1200x551.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/01/Twilio-Cloud-Communications-Web-Service-API-for-building-Voice-and-SMS-Applications-1200x551.png)
 
 Furthermore, after entering these Twilio keys, you'll be able to configure Twilio for the marketplace app.
 
 Now, visit **Multivendor Marketplace Admin Panel** > **Configuration** > **SMS Twilio Configuration**.
 
-![SMS-Twilio-Configuration-Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/sms7.webp)
+[![SMS-Twilio-Configuration-Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/sms7.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/sms7.webp)
 
 Here, you need to enter the **Twilio Contact Number** (it should be in international format).
 
@@ -94,11 +94,11 @@ The above contact number should be registered with Twilio.
 
 For this, login to your [Twilio](http://twilio.com/login) account. From the **dashboard**, click on the three dots (All Products & Services) > Further, click on **Programmable Voice**.
 
-![Twilio-Cloud-Communications-Web-Service-API-for-building-Voice-and-SMS-Applications-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/01/Twilio-Cloud-Communications-Web-Service-API-for-building-Voice-and-SMS-Applications-1-1200x597.png)
+[![Twilio-Cloud-Communications-Web-Service-API-for-building-Voice-and-SMS-Applications-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/01/Twilio-Cloud-Communications-Web-Service-API-for-building-Voice-and-SMS-Applications-1-1200x597.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/01/Twilio-Cloud-Communications-Web-Service-API-for-building-Voice-and-SMS-Applications-1-1200x597.png)
 
 On the redirected page, click on **Numbers**. Refer:
 
-![Twilio-Cloud-Communications-Web-Service-API-for-building-Voice-and-SMS-Applications-1-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/01/Twilio-Cloud-Communications-Web-Service-API-for-building-Voice-and-SMS-Applications-1-1-1200x597.png)
+[![Twilio-Cloud-Communications-Web-Service-API-for-building-Voice-and-SMS-Applications-1-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/01/Twilio-Cloud-Communications-Web-Service-API-for-building-Voice-and-SMS-Applications-1-1-1200x597.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/01/Twilio-Cloud-Communications-Web-Service-API-for-building-Voice-and-SMS-Applications-1-1-1200x597.png)
 
 Here, you can add your own number to get it registered with Twilio by clicking on **Manage Numbers**. Or, you can also get a number from Twilio as well by clicking on **Get a Number** button.
 
@@ -112,7 +112,7 @@ Thus, add GEO locations to your Twilio account accordingly.
 --------------
 Visit **Multivendor Admin Panel** > **Orders** > **SMS Settings**.
 
-![SMS-Message-Setting-Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/sms8.webp)
+[![SMS-Message-Setting-Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/sms8.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/sms8.webp)
 
 Configure the following details:
 
@@ -127,7 +127,7 @@ Configure the following details:
     Enter the number with country code, starting without ‘**+**’ and ‘**0**’. Moreover, the number should be in international format.  
     Refer:
 
-![Configuration-Admin-3](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/sms9.webp)
+[![Configuration-Admin-3](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/sms9.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/sms9.webp)
 
 *   In the case of any SMS Gateway:  
     The sellers have to enter their contact number in order to receive messages regarding new orders.  
@@ -135,7 +135,7 @@ Configure the following details:
 *   For this, sellers need to visit their **multivendor seller panel** > **Profile** > **My Account**. Further, enter the contact number & save. (Enter the number with country code, starting without '**+**' and '**0**'.)
 *   Moreover, the number should be in international format.
 
-![My-Account-Seller-•-Multivendor-MarketPlace](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/sms10.webp)
+[![My-Account-Seller-•-Multivendor-MarketPlace](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/sms10.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/sms10.webp)
 
 *   The number of messages will depend on the plan selected by you on your SMS Gateway account.
 *   Monthly payment to your SMS Gateway providers on the basis of their plan chosen by you will be separate. That is, it will be over and above the marketplace plan + SMS Alert feature app's monthly charges.

@@ -22,7 +22,7 @@ Enable the following app by visiting:
 *   Search for ‘**Seller Time Slot Management**‘ & click on ‘**Enable**‘
 *   After accepting the charges, you’ll be good to configure the app!
 
-![collage_3_-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/05/collage_3_-1.png)
+[![collage_3_-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/new1772774278198.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/new1772774278198.webp)
 
 To make this feature display on the frontend, the admin needs to paste a few codes.
 
@@ -31,7 +31,7 @@ The instructions with the codes will be given on the following page:
 
 Here, you’ll have these codes:
 
-![Instructions_Admin-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/05/Instructions_Admin-1-1200x597.png)
+[![Instructions_Admin-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/new1772774393785.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/new1772774393785.webp)
 
 **Hide add to cart button**: Copy the below-given code and paste it to **product.liquid** template inside the form tag.
 ```liquid
@@ -57,58 +57,58 @@ If you are having trouble while updating the codes, let us know by emailing at 
 
 For this, visit **Multivendor Admin Panel** \> **Configuration** > **Time Slot Configuration**.
 
-![Configuration_Admin-3](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/05/Configuration_Admin-3-1200x597.png)
+[![Configuration_Admin-3](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/new1772774555278.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/new1772774555278.webp)
 
 Enable the first tab to allow your marketplace sellers to create their store's time slots. Next, mention the maximum number of time slots that a seller can create for a day.
 
 The admin can add time slots on the behalf of the sellers by visiting:  
 **Multivendor Admin Panel** > **Sellers** > **Sellers Time Slot** > **Add Time Slot**.
 
-![image-24](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/05/image-24-1200x597.png)
+[![image-24](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/new1772775021363.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/new1772775021363.webp)
 
 On the redirected page, add the seller email and start filling the slots as per the weekdays. Each slot will have an **opening timing** & a **closing timing**.
 
-![Add_Seller_Time_Slot_Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/05/Add_Seller_Time_Slot_Admin-1200x597.png)
+[![Add_Seller_Time_Slot_Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/new1772775104829.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/new1772775104829.webp)
 
 The slot timings that you'll enter for a weekday will be auto-entered for the rest of the days. In case you want to remove for the other days simply click on the day label. Lastly, activate the time slot & save the details.
 
-![Add_Seller_Time_Slot_Admin-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/05/Add_Seller_Time_Slot_Admin-1-1200x597.png)
+[![Add_Seller_Time_Slot_Admin-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/new1772775130213.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/new1772775130213.webp)
 
 Coming back to the **Multivendor Admin Panel** > **Sellers** > **Sellers Time Slot** page. Here you can edit or delete the saved slots again:
 
-![image-25](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/05/image-25-1200x597.png)
+[![image-25](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/new1772775187578.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/new1772775187578.webp)
 
 The seller can add time slots by visiting:  
 **Multivendor Seller Panel** > **Profile** > **Time Slot**
 
-![image-26](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/05/image-26-1200x597.png)
+[![image-26](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/new1772775508137.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/new1772775508137.webp)
 
 Add the details as we did on the admin end and save the changes.
 
-![image-27](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/05/image-27-1200x597.png)
+[![image-27](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/new1772775527927.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/new1772775527927.webp)
 
 This is how the frontend will look like:
 
-![1-1-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/06/1-1-1.png)
+[![1-1-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/06/1-1-1.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/06/1-1-1.png)
 
 Store Opened
 
-![2-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/06/2-1.png)
+[![2-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/06/2-1.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/06/2-1.png)
 
 Store Closed
 
 This is how the seller listing page will look like:
 
-![3](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/06/3.png)
+[![3](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/06/3.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/06/3.png)
 
 Seller Profile Page
 
 **Note**: Customers can filter online & offline sellers on the seller listing page.
 
-![collage_5_-3](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/05/collage_5_-3.png)
+[![collage_5_-3](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/05/collage_5_-3.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/05/collage_5_-3.png)
 
 Product Description Page
 
-![image-63](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/05/image-63.png)
+[![image-63](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/05/image-63.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/05/image-63.png)
 
 **Note**: Checkout is not disabled for digital products. Moreover, if a cart includes products from 2 different vendors (one online & one offline), the checkout will be disabled with the message saying the particular store is closed.
