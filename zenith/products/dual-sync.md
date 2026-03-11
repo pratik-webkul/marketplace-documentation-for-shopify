@@ -18,17 +18,17 @@ Let us check out this feature in detail below:
 --------------------------
 Primarily, you need to enable the "DUAL SYNC PRODUCT" option from Product configuration of the Admin panel of the app:
 
-![screenshot-sp-seller.webkul.com-2022.01.31-11_15_24](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/10/dualsyncproduct.webp)
+[![screenshot-sp-seller.webkul.com-2022.01.31-11_15_24](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/10/dualsyncproduct.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/10/dualsyncproduct.webp)
 
 Now Visit, Multi-vendor admin panel >> products >>" Dual sync product" Sub-menu
 
 From here, select the product fields that you want to update automatically on the Multi-vendor marketplace.
 
-![screenshot-sp-seller.webkul.com-2022.01.31-11_31_10](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/10/dualsyncproductoption.webp)
+[![screenshot-sp-seller.webkul.com-2022.01.31-11_31_10](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/10/dualsyncproductoption.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/10/dualsyncproductoption.webp)
 
 Tick the fields which you want to update automatically from in multivendor app:
 
-![yuyu](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/10/dualsyncproducttickcheckbox.webp)
+[![yuyu](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/10/dualsyncproducttickcheckbox.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/10/dualsyncproducttickcheckbox.webp)
 
 Now, Let's edit these fields on products from the Shopify end.
 

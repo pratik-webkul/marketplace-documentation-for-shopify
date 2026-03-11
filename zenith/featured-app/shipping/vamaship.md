@@ -32,15 +32,15 @@ To enable this 'feature app':
 
 Go to **multi vendor marketplace admin panel** > click on the **three dots** > click on the '**featured apps'**. Further, **enable** the Vamaship add-on.
 
-![feature app](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/vamaship.webp)
+[![feature app](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/vamaship.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/vamaship.webp)
 
 Furthermore, agree & approve the charges:
 
-![PAYMENT](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/agreevama.webp)
+[![PAYMENT](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/agreevama.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/agreevama.webp)
 
 MultiVendor Marketplace Admin End
 
-![APPROVE CHARGES](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/09/demo-store-Approve-fees-Shopify-1.png)
+[![APPROVE CHARGES](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/09/demo-store-Approve-fees-Shopify-1.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/09/demo-store-Approve-fees-Shopify-1.png)
 
 Shopify Backend (Admin End)
 
@@ -49,7 +49,7 @@ Shopify Backend (Admin End)
 Firstly, go to:  
 **Multi-vendor marketplace admin panel** > **configuration** > **shipping** **configuration**. Now, **enable** the shipping method:
 
-![ENABLE SHIPPING](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/enablevamaship.webp)
+[![ENABLE SHIPPING](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/enablevamaship.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/enablevamaship.webp)
 
 MultiVendor Marketplace Admin End
 
@@ -59,13 +59,13 @@ So, either click on **Configure Shipping**
 OR  
 Go to **multi vendor marketplace admin panel** > **configuration** > **Vamaship Configuration**.
 
-![CONFIGURE SHIPPING](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/viewsellersvamaship.webp)
+[![CONFIGURE SHIPPING](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/viewsellersvamaship.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/viewsellersvamaship.webp)
 
 MultiVendor Marketplace Admin End
 
 Hence, this is what the configuration page will look like:
 
-![Vamaship-Post-Configuration-Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/vamashipconfig.webp)
+[![Vamaship-Post-Configuration-Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/vamashipconfig.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/vamashipconfig.webp)
 
 MultiVendor Marketplace Admin End
 
@@ -107,7 +107,7 @@ Set Shipping Method for Sellers:
 The admin can further set the shipping methods for his sellers. So, go to **multi vendor marketplace admin panel** > **Sellers** > **Seller Listing** > **Edit** (under **Action**).  
 On the edit seller page, the admin will have the following block:
 
-![SET SHIPPING AS DEFAULT](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/enableforseller.webp)
+[![SET SHIPPING AS DEFAULT](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/enableforseller.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/enableforseller.webp)
 
 MultiVendor Marketplace Admin End
 
@@ -117,7 +117,7 @@ Further, the admin can view all the sellers which are using this shipping method
 
 **Multi-vendor marketplace admin panel** > **configuration** > **shipping** **configuration**:
 
-![VIEW SELLERS](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/viewsellersvamaship.webp)
+[![VIEW SELLERS](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/viewsellersvamaship.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/viewsellersvamaship.webp)
 
 MultiVendor Marketplace Admin End
 
@@ -128,7 +128,7 @@ The admin needs to make the **Shipping** **address phone number mandatory** at t
 
 So, go to **Shopify Backend** > **Settings** > **Checkout** > Under **Form Options**, make **Shipping** **address phone number** as **Required**:
 
-![PHONE NUMBER REQUIRED](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/09/demo-store-Checkout-Shopify.png)
+[![PHONE NUMBER REQUIRED](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/09/demo-store-Checkout-Shopify.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/09/demo-store-Checkout-Shopify.png)
 
 Shopify Backend (Admin End)
 
@@ -140,13 +140,13 @@ Further, the seller can configuration Vamashipping from his panel.
 
 So, go to **multi vendor marketplace seller panel** > **configuration** > **shipping configuration** > **enable** the shipping:
 
-![ENABLE](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/sellerenablevama.webp)
+[![ENABLE](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/sellerenablevama.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/sellerenablevama.webp)
 
 MultiVendor Marketplace Seller End
 
 Further, go to **Global Configuration**:
 
-![GLOBAL CONFIGURATION](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/globalconfig.webp)
+[![GLOBAL CONFIGURATION](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/globalconfig.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/globalconfig.webp)
 
 MultiVendor Marketplace Seller End
 
@@ -155,13 +155,13 @@ Moreover, from here, the seller can do the **SHIPPING PACKET CONFIGURATION**:
 **Note:** 150 cm > **LBH** > 1 cm  
 In the case of **Vamaship Air Domestic**: 150 cm > **LBH** > 3 cm
 
-![SHIPPING PACKET CONFIGURATION](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/globalconfigseller.webp)
+[![SHIPPING PACKET CONFIGURATION](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/globalconfigseller.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/globalconfigseller.webp)
 
 MultiVendor Marketplace Seller End
 
 Further, the seller can set the shipping method as **by-default**. So that every single product created it will have **Vamaship Shipping** as the **by-default shipping method**.
 
-![SET AS DEFAULT](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/09/Shipping-Configuration-Seller-%E2%80%A2-Multivendor-MarketPlace-3.png)
+[![SET AS DEFAULT](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/09/Shipping-Configuration-Seller-%E2%80%A2-Multivendor-MarketPlace-3.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/09/Shipping-Configuration-Seller-%E2%80%A2-Multivendor-MarketPlace-3.png)
 
 MultiVendor Marketplace Seller End
 
@@ -169,7 +169,7 @@ If not this, the seller can set the shipping method on individual products while
 
 So, go to **Multi-vendor marketplace seller panel** > **Products** >**Product Listing** \> **Add**/**Edit** the Product:
 
-![REQUIRES SHIPPING](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/09/Screenshot-from-2019-09-16-14-38-02.png)
+[![REQUIRES SHIPPING](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/09/Screenshot-from-2019-09-16-14-38-02.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/09/Screenshot-from-2019-09-16-14-38-02.png)
 
 MultiVendor Marketplace Seller End
 
@@ -178,7 +178,7 @@ Shopify Store Frontend
 
 Further, the customer will have an option to select the shipping method as **Vamaship** after entering the information:
 
-![CHECKOUT PAGE](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/09/Shipping-demo-store-Checkout.png)
+[![CHECKOUT PAGE](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/09/Shipping-demo-store-Checkout.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/09/Shipping-demo-store-Checkout.png)
 
 Shopify Storefront
 
@@ -191,10 +191,10 @@ So, go to **Multi-vendor marketplace seller panel** > **Orders** > **Order Listi
 
 Moreover, this block will have the information regarding who is bearing the shipping label charges. (Refer to the screenshot below.)
 
-![PRINT SHIPPING LABEL ](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/generateshiipinglabel.webp)
+[![PRINT SHIPPING LABEL ](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/generateshiipinglabel.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/generateshiipinglabel.webp)
 
 Furthermore, this is how the shipping label will be downloaded in pdf form:
 
-![SHIPPING LABEL](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/09/Screenshot-from-2019-09-16-17-10-17.png)
+[![SHIPPING LABEL](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/09/Screenshot-from-2019-09-16-17-10-17.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/09/Screenshot-from-2019-09-16-17-10-17.png)
 
 Vamaship Shipping Label

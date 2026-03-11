@@ -41,7 +41,7 @@ You can build a [marketplace](/zenith/featured-app/marketplace-product-add-ons/c
 
 Turning their dreams into reality. A platform to bring creative minds, love & support together!
 
-![Crowdfunding Marketplace final](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/08/final-1200x803.jpg)
+[![Crowdfunding Marketplace final](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/08/final-1200x803.jpg)](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/08/final-1200x803.jpg)
 
 ### Creating a New Wave of Opportunities for Average, Ordinary People
 
@@ -105,7 +105,7 @@ What's cool is that they can also add rewards for crowdfunding donators. Moreove
 
 The admin of the marketplace can also add campaigns on behalf of the creators as well. [Check out more](https://marketplace-doc.webkul.com/zenith/Crowdfunding/CROWDFUNDING.html)!
 
-![Crowdfunding Marketplace](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/08/image-13-1200x833-1.png)
+[![Crowdfunding Marketplace](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/08/image-13-1200x833-1.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/08/image-13-1200x833-1.png)
 
 Demo Image of Crowdfunding X Multi-Vendor Marketplace
 

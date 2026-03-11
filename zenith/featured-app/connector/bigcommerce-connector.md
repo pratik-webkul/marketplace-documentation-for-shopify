@@ -24,7 +24,7 @@ Let’s dig deeper to know more about the BigCommerce Connector.
 
 Go to the **Feature App** section and enable the **BigCommerce Connector** feature app.
 
-![screenshot-sp-seller.webkul.com-2021.09.27-16_13_42-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/big.webp)
+[![screenshot-sp-seller.webkul.com-2021.09.27-16_13_42-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/big.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/big.webp)
 
 Then, approve the additional charge of $25 USD/month over and above your current Multi-vendor app plan.
 
@@ -32,17 +32,17 @@ Then, approve the additional charge of $25 USD/month over and above your current
 --------------------------------
 To configure the settings, visit the admin panel **Configurations**\>>**Connector Configuration**\>>select the connector.
 
-![connector configuration](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/bigg2.webp)
+[![connector configuration](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/bigg2.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/bigg2.webp)
 
 From here, you can configure the settings.
 
-![admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/bigg3.webp)
+[![admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/bigg3.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/bigg3.webp)
 
 **Note:-** Once the order is created at admin shopify store for connector product then same order will be created on seller's bigcommerce store also.
 
 Even, the admin will get a reference order number like below that will be shown order section of seller's Bigcommerce store.
 
-![screenshot_from_2022_12_27_12_51_33-2](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/bigg4.webp)
+[![screenshot_from_2022_12_27_12_51_33-2](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/bigg4.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/bigg4.webp)
 
 Product PreOrder Configuration
 ------------------------------
@@ -51,11 +51,11 @@ We’re excited to introduce a new feature in the **BigCommerce Connector** for 
 
 This feature allows merchants to sync product preorder data between BigCommerce and Shopify seamlessly.
 
-![product pre order admin panel ](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/bigg5.webp)
+[![product pre order admin panel ](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/bigg5.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/bigg5.webp)
 
 Once enabled, the Multivendor Marketplace App saves the preorder data and automatically syncs it through a metafield on the Shopify admin side.
 
-![perorder admin side details](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/bigg6.webp)
+[![perorder admin side details](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/bigg6.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/bigg6.webp)
 
 The storefront then displays the same preorder details to customers, ensuring they have accurate information about product availability.
 
@@ -65,23 +65,23 @@ There, users can enable the Preorder Data Sync option to begin syncing preorder 
 
 To Display this information on your store you need to add the code for this on your store in the liquid file .You will get this code in the **Instruction for Marketplace Navigation** .
 
-![bigcomm-storefront](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/01/store-front-1200x895.webp)
+[![bigcomm-storefront](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/01/store-front-1200x895.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/01/store-front-1200x895.webp)
 
 Copy following code into **product.json >> sections/main-product.liquid** (or product-template, if exist).
 
-![BigCommerce-Preorder Data Information](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/bigg7.webp)
+[![BigCommerce-Preorder Data Information](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/bigg7.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/bigg7.webp)
 
 Seller Panel Configuration
 ---------------------------
 Now, the seller needs to manage the configuration from the Multi-vendor seller panel. Go to seller panel **Configuration**\>>**BigCommerce Configuration**.
 
-![BigCommerce configure](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/bigg8.webp)
+[![BigCommerce configure](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/bigg8.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/bigg8.webp)
 
 The seller will configure the BigCommerce details such as store hash, unit weight, store currency, dimension unit, access token.
 
 Moreover, the seller can choose if he/she wants to auto-sync newly added products or not.
 
-![configuration](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/bigg9.webp)
+[![configuration](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/bigg9.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/bigg9.webp)
 
 The sellers will get all the details from their BigCommerce stores by creating API accounts.
 
@@ -91,37 +91,37 @@ To create an API account, the seller needs to login to his/her BigCommerce store
 
 Now, go to **Advanced Settings**.
 
-![advanced settings](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/09/DEMO-STORE-BigCommerce-Control-Panel-1200x549.png)
+[![advanced settings](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/09/DEMO-STORE-BigCommerce-Control-Panel-1200x549.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/09/DEMO-STORE-BigCommerce-Control-Panel-1200x549.png)
 
 Scroll down to get **API Accounts** menu. Click on it and proceed to create an API account.
 
-![API account](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/09/DEMO-STORE-BigCommerce-Control-Panel-1-1200x499.png)
+[![API account](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/09/DEMO-STORE-BigCommerce-Control-Panel-1-1200x499.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/09/DEMO-STORE-BigCommerce-Control-Panel-1-1200x499.png)
 
 Enter the following details:-
 
-![BigCommerce ](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/10/Screenshot-2021-10-05T180908.149.png)
+[![BigCommerce ](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/10/Screenshot-2021-10-05T180908.149.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/10/Screenshot-2021-10-05T180908.149.png)
 
-![BigCommerce ](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/10/Screenshot-2021-10-05T181032.376.png)
+[![BigCommerce ](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/10/Screenshot-2021-10-05T181032.376.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/10/Screenshot-2021-10-05T181032.376.png)
 
-![BigCommerce ](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/10/Screenshot-2021-10-05T181046.674.png)
+[![BigCommerce ](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/10/Screenshot-2021-10-05T181046.674.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/10/Screenshot-2021-10-05T181046.674.png)
 
 Seller Panel Configuration
 ------------------------------
 As soon as the admin enables the BigCommerce feature, a new sub-menu gets added to the **Configuration** menu of the app i.e. **BigCommerce Configuration**.
 
-![bigcommerce configuration](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/bigg8.webp)
+[![bigcommerce configuration](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/bigg8.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/bigg8.webp)
 
 Visiting the BigCommerce Connector section, the seller needs to enter the details such as store hash, weight unit, currency, dimension unit and access token.
 
 Next in this guide, we will see how to get access token.
 
-![BigCommerce](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/big1.webp)
+[![BigCommerce](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/big1.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/big1.webp)
 
  How to Get Access Token?
 -----------------------------------
 While creating an API account, enter the details and click the Save button. A pop-up appears from where you will get the access token.
 
-![Get access token](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/09/DEMO-STORE-BigCommerce-Control-Panel-3-1200x549.png)
+[![Get access token](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/09/DEMO-STORE-BigCommerce-Control-Panel-3-1200x549.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/09/DEMO-STORE-BigCommerce-Control-Panel-3-1200x549.png)
 
 Seller Importing Products - BigCommerce to Shopify
 -------------------------------------------------
@@ -132,7 +132,7 @@ Clicking the **Import Product** button, the seller will have two methods to im
 **Method 1**: the seller will enter the **comma-separated product IDs** (that the seller wants to import).  
 **Method 2:** Select a range and import products.
 
-![Import products](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/big2.webp)
+[![Import products](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/big2.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/big2.webp)
 
  Auto Approve Imported Products
 ---------------------------------
@@ -142,13 +142,13 @@ Register Webhook
 ------------------------------
 The seller can register or unregister BigCommerce webhooks from the seller panel. For this, login to seller panel>>go to BigCommerce Configuration>>BigCommerce Webhooks.
 
-![register webhook](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/big3.webp)
+[![register webhook](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/big3.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/big3.webp)
 
 Price Rule
 ----------------------
 Let the sellers create price rules to manage the product price of the seller’s Square up POS to the merchant’s store.
 
-![connector price rule](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/big4.webp)
+[![connector price rule](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/big4.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/big4.webp)
 
 Sellers will have a new menu named **Connector Price Rule** in the configuration menu of the app.
 
@@ -158,7 +158,7 @@ Now, the seller needs to enable “Price Rule” status and select the options a
 
 enter the amount that needs to be changed.
 
-![price rule](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/big5.webp)
+[![price rule](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/big5.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/big5.webp)
 
 Now, enable the checkbox to update sync product’s price at the merchant’s store as per the price rule created.
 
@@ -170,13 +170,13 @@ To do this, first Admin needs to enable this Configuration from Admin Panel>> Co
 
 Enable Product Barcode Option>>Save Changes.
 
-![Admin-panel-connector](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/big6.webp)
+[![Admin-panel-connector](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/big6.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/big6.webp)
 
 After this is enabled, the seller can select the Barcode( MPN, GTIN, UPC, etc)
 
 that he wants to sync with the Barcode field in Admin Shopify by navigating to Seller Panel>> BigCommerce Configuration>> Select Barcode>>Save.
 
-![bigcom-mpn-seller-side](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/big7.webp)
+[![bigcom-mpn-seller-side](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/big7.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/big7.webp)
 Demo Details
 ------------
 

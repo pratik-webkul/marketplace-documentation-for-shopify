@@ -36,17 +36,17 @@ Installation:
 
 Firstly, enable the “Zoho Integration” feature from the “Features Section” by clicking on (…) three dots of the main menu.
 
-![z2-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/zohoone.webp)
+[![z2-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/zohoone.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/zohoone.webp)
 
 After clicking on the enable button just agree on additional charges which are over and above to your current multivendor Market Plan.
 
-![z1](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/zohotwo.webp)
+[![z1](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/zohotwo.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/zohotwo.webp)
 
 Once you will agree on additional charges a new menu name “Zoho Configuration” will be added to the configuration section of your multivendor marketplace app.
 
 **Admin panel > configuration > zoho zonfiguration**.
 
-![Z3](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/zohoconfig.webp)
+[![Z3](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/zohoconfig.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/zohoconfig.webp)
 
 Options available in this menu:-
 
@@ -55,43 +55,43 @@ Options available in this menu:-
     
 2.  **Account URL:** The admin can add the account URL as per the country-wise provided in the given [link](https://www.zoho.com/crm/developer/docs/api/v2/access-refresh.html).
 
-![zt5](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/zohothree.webp)
+[![zt5](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/zohothree.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/zohothree.webp)
 
 **Client id & client secret key:-** First, you need to create an account on the Zoho CRM and log in with the same ID to your Zoho Developer Console Account to get the details.
 
-![z6](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/04/z6-1200x587.png)
+[![z6](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/04/z6-1200x587.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/04/z6-1200x587.png)
 
 Admin needs to go application section to get the client id and client secret key and click on add client button.
 
-![r4325](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/06/r4325.png)
+[![r4325](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/06/r4325.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/06/r4325.png)
 
 After clicking on add client button, a new window will open to choose the client type:
 
 Choose only a Server-based applications.
 
-![r456](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/06/r456-1200x601.png)
+[![r456](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/06/r456-1200x601.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/06/r456-1200x601.png)
 
 After selecting the client type, the admin needs to enter details as shown in the given image.
 
 Both the below mentioned URLs are available in the instruction of the marketplace.
 
-![54t](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/06/54t-1200x601.png)
+[![54t](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/06/54t-1200x601.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/06/54t-1200x601.png)
 
 After clicking on the create admin will get the client id and client secret key.
 
-![543-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/06/543-1.png)
+[![543-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/06/543-1.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/06/543-1.png)
 
 After adding all the relevant details to the Zoho integration configuration click on the Save button.
 
 It will redirect you to accept & reject page. As shown in the given image.
 
-![z12](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/05/z12.png)
+[![z12](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/05/z12.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/05/z12.png)
 
 But if an admin clicks on the reject tab it saves the data but will not create any lead on the Zoho account.
 
 **Reset configuration:-** Admin can reset the configuration in case of using a different Client ID.
 
-![z32](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/05/z32.png)
+[![z32](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/05/z32.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/05/z32.png)
 
 **NOTE:** For the Existing sellers Zoho CRM leads will be created when they update from the my\_account section or the admin makes any update in their edit seller section.
 

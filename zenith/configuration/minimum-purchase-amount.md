@@ -41,12 +41,12 @@ In order to make this feature work for your sellers, first, you need to enable t
 *   Visit the **Configuration** menu.
 *   Click the **General Configuration** submenu.
 
-![General Configuration-minimum purchase amount](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/generalconfig.webp)
+[![General Configuration-minimum purchase amount](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/generalconfig.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/generalconfig.webp)
 
 *   In the General Configuration, scroll down to get the "**Minimum Purchase Amount for Orders**" tab.
 *   **Enable** the tab and click the **Save Changes** button.
 
-![multi-vendor marketplace-configuration](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/miniorderconfig.webp)
+[![multi-vendor marketplace-configuration](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/miniorderconfig.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/miniorderconfig.webp)
 
 As soon as you enable this tab, the same will start getting reflected at the seller side.
 
@@ -58,19 +58,19 @@ Let's understand this in detail.
 ---------------------------------------
 Once the "Minimum Purchase Amount for Orders" tab is enabled by the merchant, the same will reflect in the **General Configuration** menu of the seller panel.
 
-![general configuration](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/generalconfigseller.webp)
+[![general configuration](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/generalconfigseller.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/generalconfigseller.webp)
 
 Clicking the General Configuration menu, the seller will get the following options:
 
 Firstly, Seller needs to enable the "**Minimum Purchase Amount for Orders**" tab.
 
-![configuration](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/enablegeneralconfigseller.webp)
+[![configuration](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/enablegeneralconfigseller.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/enablegeneralconfigseller.webp)
 
 Once the tab gets enabled, the seller will get all the options to set the purchase amount for the customers.
 
 By default, the Purchase amount will be applicable to all the customers. In this case, the seller needs to set a fixed purchase amount that will be applicable to all the customers.
 
-![minimum purchase amount-Seller Panel](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/generalconfigsellerenable.webp)
+[![minimum purchase amount-Seller Panel](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/generalconfigsellerenable.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/generalconfigsellerenable.webp)
 
 **SLOT PRICING CASE**
 ---------------------------
@@ -82,7 +82,7 @@ In this case, the seller will get the option to set different purchase amounts f
 
 Now, the purchase amount required for each customer will be different based on the tags assigned to them.
 
-![minimum purchase amount-Slot Price case](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/06/image-29-1200x832.png)
+[![minimum purchase amount-Slot Price case](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/06/image-29-1200x832.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/06/image-29-1200x832.png)
 
 That is how sellers can set a minimum purchase amount for orders from their respective seller panels of the multi-vendor app.
 
@@ -96,12 +96,12 @@ In order to display the checkout conditions on the Cart page, you need to add th
 *   Visit Configuration
 *   Click the Instruction for Marketplace menu.
 
-![Multivendor-minimum purchase amount-Add codes](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/instructioncode.webp)
+[![Multivendor-minimum purchase amount-Add codes](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/instructioncode.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/instructioncode.webp)
 
 *   Scroll down to get the codes for “Seller’s Minimum Purchase Amount for Orders”.
 *   Copy the code from there & add it to the instructed liquid files.
 
-![Instruction for Marketplace](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/codemini.webp)
+[![Instruction for Marketplace](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/codemini.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/codemini.webp)
 
 **Display checkout conditions on cart page:-**
 
@@ -126,7 +126,7 @@ To add the codes to the liquid file, please follow below-given steps:-
 *   Click the **Themes** & select the **Edit Code** Option from the drop-down menu.
 *   Get the template files & add the codes as instructed in the app.
 
-![Theme](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/02/Screenshot-2020-02-05T123409.155-1200x613.png)
+[![Theme](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/02/Screenshot-2020-02-05T123409.155-1200x613.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/02/Screenshot-2020-02-05T123409.155-1200x613.png)
 
 Once the codes are added let's see how it appears on the front end.
 
@@ -138,11 +138,11 @@ Front End View
 ------------------------------
 If the cart amount is lesser than that minimum purchase amount, the check out condition gets failed & customer will not be able to proceed to check out.
 
-![Cart Page](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/06/image-32-1126x1024.png)
+[![Cart Page](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/06/image-32-1126x1024.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/06/image-32-1126x1024.png)
 
 If the cart amount is equal or greater than the minimum purchase amount, customer can proceed for checkout.
 
-![Cart Validation-checkout condition](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/06/image-33-1126x1024.png)
+[![Cart Validation-checkout condition](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/06/image-33-1126x1024.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/06/image-33-1126x1024.png)
 
 This is all about the Minimum Purchase Amount feature of the Multi-vendor Marketplace app for Shopify.
 
@@ -152,13 +152,13 @@ In case, you are using [Theme 4](/zenith/seller/seller-profile-page-settings.htm
 
 **On the Seller Listing Page**
 
-![Seller-Profile-–-Demo-Store-AUD-](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/12/Seller-Profile-%E2%80%93-Demo-Store-AUD--1200x627.png)
+[![Seller-Profile-–-Demo-Store-AUD-](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/12/Seller-Profile-%E2%80%93-Demo-Store-AUD--1200x627.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/12/Seller-Profile-%E2%80%93-Demo-Store-AUD--1200x627.png)
 
 **On the Seller Profile Page**
 
 Similarly, on the seller profile page, you can view the minimum purchase amount set by this seller.
 
-![Seller-Profile-–-Demo-Store-AUD-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/12/Seller-Profile-%E2%80%93-Demo-Store-AUD-1-1200x627.png)
+[![Seller-Profile-–-Demo-Store-AUD-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/12/Seller-Profile-%E2%80%93-Demo-Store-AUD-1-1200x627.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/12/Seller-Profile-%E2%80%93-Demo-Store-AUD-1-1200x627.png)
 
 **NOTE**:- Currently, this feature is available in [Theme 4](/zenith/seller/seller-profile-page-settings.html#theme-4) only, but in case you want this for other seller profile page themes as well, do send us a request to **support@webkul.com**.
 
@@ -166,7 +166,7 @@ Minimum Purchase Amount on Product Page
 -----------------------------------
 You can now show the minimum purchase amount on the product description page of your store. All you need to do is just go to the "**Instruction for Marketplace**" menu under the "**Configuration**" menu and add the code to the product.liquid template file.
 
-![order amount on product page](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/codemini.webp)
+[![order amount on product page](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/codemini.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/codemini.webp)
 ```liquid
 Copy the below-given code and add it to the **product.liquid** (or **product-template.liquid**):
 
@@ -174,5 +174,5 @@ Copy the below-given code and add it to the **product.liquid** (or **product-tem
 ```
 After adding the code, that is how the minimum purchase amount will appear on the product page of your store. Have a look:
 
-![product page](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/03/Personalized-Coffee-Mug-%E2%80%93-Demo-Store-AUD-1-2-1200x597.png)
+[![product page](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/03/Personalized-Coffee-Mug-%E2%80%93-Demo-Store-AUD-1-2-1200x597.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/03/Personalized-Coffee-Mug-%E2%80%93-Demo-Store-AUD-1-2-1200x597.png)
 

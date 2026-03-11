@@ -25,21 +25,21 @@ The Easyship feature app is available for both **Rate Calculation** and **Ful
 
 To activate this feature in your app, simply navigate to the "Feature Apps" section of the [Multivendor Marketplace](/zenith/introduction/) admin panel and activate it from there.
 
-![screenshot_1683278142630](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/featuredapps.webp)
+[![screenshot_1683278142630](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/featuredapps.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/featuredapps.webp)
 
 After accessing the **"Feature Apps"** section, you will see a list of available feature apps. Scroll down to find the feature,
 
 then click on the **Enable** button to activate it in your [multivendor marketplace app](/zenith/introduction/).
 
-![image-6-](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/esyship.webp)
+[![image-6-](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/esyship.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/esyship.webp)
 
 After clicking on Enable button, you need to click on Agree button to proceed with approving the feature app's charges.
 
-![screenshot_1683281833143](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/05/screenshot_1683281833143-1200x551.png)
+[![screenshot_1683281833143](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/05/screenshot_1683281833143-1200x551.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/05/screenshot_1683281833143-1200x551.png)
 
 You can easily approve the charges by simply clicking on the "Approve" button in Shopify.
 
-![navin-store1-·-Approve-subscription-·-Shopify](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/05/navin-store1-%C2%B7-Approve-subscription-%C2%B7-Shopify-1200x627.png)
+[![navin-store1-·-Approve-subscription-·-Shopify](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/05/navin-store1-%C2%B7-Approve-subscription-%C2%B7-Shopify-1200x627.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/05/navin-store1-%C2%B7-Approve-subscription-%C2%B7-Shopify-1200x627.png)
 
   
 With the help of these steps, you can easily enable the Easyship feature within your [Multivendor Marketplace App](/zenith/introduction/).
@@ -50,11 +50,11 @@ In order to activate this feature, the admin must follow these configuration ste
 
 1.  Navigate to Configuration >> Shipping Methods
 
-![screenshot_1683288910350](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/dashboardshippingmethods.webp)
+[![screenshot_1683288910350](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/dashboardshippingmethods.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/dashboardshippingmethods.webp)
 
 In this section, the admin can select Easyship as a shipping method by enabling it for the sellers to ship their goods.
 
-![screenshot-navin-sh-webkul-com-2023-05-05-17_51_18](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/easyshipone.webp)
+[![screenshot-navin-sh-webkul-com-2023-05-05-17_51_18](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/easyshipone.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/easyshipone.webp)
 
 Once enabled, you will get the option to configure the Easyship settings.
 
@@ -62,7 +62,7 @@ Once enabled, you will get the option to configure the Easyship settings.
 -----------------
 Now, navigate to Configuration >> Admin Easyship Configuration. You need to configure the below-mentioned details as per your requirement and save them.
 
-![Admin-Easyship-Shipping-Configuration-Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/easyshiptwo.webp)
+[![Admin-Easyship-Shipping-Configuration-Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/easyshiptwo.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/easyshiptwo.webp)
 
 **USAGE AS:** Configure how you want to use the Easyship shipping for the sellers. Either it’s for Fulfillment only or for Both(Shipping and fulfillment).
 
@@ -70,13 +70,13 @@ Now, navigate to Configuration >> Admin Easyship Configuration. You need to conf
 
 **Admin's End:**
 
-![image-21](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/easyshipthree.webp)
+[![image-21](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/easyshipthree.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/easyshipthree.webp)
 
 **Seller's End:**
 
-![screenshot_from_2023_06_06_17_06_48-2-](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/easyshipfour.webp)
+[![screenshot_from_2023_06_06_17_06_48-2-](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/easyshipfour.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/easyshipfour.webp)
 
-![screenshot_1686050793034](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/easyshipfive.webp)
+[![screenshot_1686050793034](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/easyshipfive.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/easyshipfive.webp)
 
 **EASYSHIP ACCESS TOKEN:** Here, you need to enter/paste the access token provided by Easyship.
 
@@ -85,13 +85,13 @@ For getting an access token from Easyship, please follow the below steps:
 1.  Open your Easyship account, navigate to New Integration, and scroll down the page to the bottom.
 2.  Click on API Integration.
 
-![image-7-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/05/image-7-1-1200x530.png)
+[![image-7-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/05/image-7-1-1200x530.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/05/image-7-1-1200x530.png)
 
 The below page will appear, from here copy the Access Token and paste it into the Easyship configuration(EASYSHIP ACCESS TOKEN).
 
 **NOTE:** Make sure to select all the checkboxes of Scopes by editing it.
 
-![image-8-](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/05/image-8--1200x530.png)
+[![image-8-](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/05/image-8--1200x530.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/05/image-8--1200x530.png)
 
 **SHIPPING LABEL COST BEARED BY:** Configure if the admin or the seller will bear the shipping cost.
 
@@ -103,7 +103,7 @@ For doing this, follow the below steps:
 2.  Navigate to Webhooks
 3.  Click on Add new webhook
 
-![image-10-2](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/05/image-10-2-1200x574.png)
+[![image-10-2](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/05/image-10-2-1200x574.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/05/image-10-2-1200x574.png)
 
 By clicking on add new webhook, the below popup page will appear, here you need to select-
 
@@ -112,7 +112,7 @@ By clicking on add new webhook, the below popup page will appear, here you need 
 
 Add/paste the webhook URL in the given field, i.e., Webhook Endpoint URL and click on Create button.
 
-![image-9-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/05/image-9-1-1200x525.png)
+[![image-9-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/05/image-9-1-1200x525.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/05/image-9-1-1200x525.png)
 
 In this way, the webhook will get added to your Easyship account.
 
@@ -122,21 +122,21 @@ To use this feature add-on, the admin needs to make the **Shipping** **address
 
 To do this, You need to go to Shopify Backend > Settings > Checkout > Under Form Options, make the Shipping address and phone number as **Required**.
 
-![demo-store-Checkout-Shopify-1200x597-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/05/demo-store-Checkout-Shopify-1200x597-1.png)
+[![demo-store-Checkout-Shopify-1200x597-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/05/demo-store-Checkout-Shopify-1200x597-1.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/05/demo-store-Checkout-Shopify-1200x597-1.png)
 
  Configuration: Seller's End
 -----------------------
 The sellers will also get the option to enable Easyship shipping from the **Shipping Configuration** menu of their seller panel.
 
-![image-12-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/easyshipsix.webp)
+[![image-12-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/easyshipsix.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/easyshipsix.webp)
 
 The sellers can set the Easyship shipping as default option, and also can disable the shipping.
 
-![image-13-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/easyshipsix.webp)
+[![image-13-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/easyshipsix.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/easyshipsix.webp)
 
 When adding or editing products, sellers have the option to select the desired shipping method.
 
-![image-18-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/easyshipseven.webp)
+[![image-18-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/easyshipseven.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/easyshipseven.webp)
 
 **GLOBAL CONFIGURATION:-** In case, the sellers need to configure the shipping parcel details, this can be done from the Global Shipping Configuration.
 
@@ -144,15 +144,15 @@ Need to configure Width, height, length, girth, and weight.
 
 **SHOPIFY STORE FRONTEND:-** After entering their information, the customer will be able to select a shipping method that has been configured in the backend.
 
-![image-14-2](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/05/image-14-2-1200x543.png)
+[![image-14-2](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/05/image-14-2-1200x543.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/05/image-14-2-1200x543.png)
 
 **FULFILLING THE ORDER:-** During the order fulfillment process, sellers have the option to select and review the shipping services and corresponding rates.
 
-![image-31](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/05/image-31-1200x410.png)
+[![image-31](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/05/image-31-1200x410.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/05/image-31-1200x410.png)
 
 While fulfilling the order, seller can also Cancel Fulfillment and Create Pickup Request.
 
-![image-15-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/05/image-15-1-1200x426.png)
+[![image-15-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/05/image-15-1-1200x426.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/05/image-15-1-1200x426.png)
 
 To create a pickup request for an order, follow these steps:
 
@@ -163,9 +163,9 @@ To create a pickup request for an order, follow these steps:
 *   Click "Check Available Dates" and choose a suitable date and time.
 *   Finally, click "Create Pickup Request" to complete the process.
 
-![image-16-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/05/image-16-1.png)
+[![image-16-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/05/image-16-1.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/05/image-16-1.png)
 
-![image-17-2](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/05/image-17-2.png)
+[![image-17-2](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/05/image-17-2.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/05/image-17-2.png)
 
 In this way, sellers can easily create a pickup request.
 

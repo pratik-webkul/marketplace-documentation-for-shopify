@@ -35,9 +35,9 @@ Admin End
 
 To enable the Shopify eBay Connector feature app, admins can follow these steps within the Multivendor app:
 
-![feature app Shopify eBay connector](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/ebayconn1.webp)
+[![feature app Shopify eBay connector](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/ebayconn1.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/ebayconn1.webp)
 
-![shopify ebay connector](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/ebayconn2.webp)
+[![shopify ebay connector](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/ebayconn2.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/ebayconn2.webp)
 
 1.  Navigate to the "**Feature Apps**" section.
 2.  Search for "**Shopify-Ebay Connector** app."
@@ -53,20 +53,20 @@ Now let's look at the admin configuration section:
 
 To configure the Shopify eBay Connector feature app on the admin end:
 
-![connector configuration Shopify eBay connector](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/ebayconn3.webp)
+[![connector configuration Shopify eBay connector](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/ebayconn3.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/ebayconn3.webp)
 
 1.  Go to your Admin Dashboard.
 2.  Navigate to Configuration.
 3.  Select Connector Configuration.
 4.  In the dropdown menu for the connector feature app, choose "Shopify eBay Connector."
 
-![connector feature app Shopify eBay connector](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/ebayconn4.webp)
+[![connector feature app Shopify eBay connector](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/ebayconn4.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/ebayconn4.webp)
 
 From here, you can enable or disable various tabs and settings within this section as needed. This allows you to customize and manage settings according to your preferences.
 
 You can see the "Allow Seller to Choose Environment" settings.
 
-![allow seller to choose environment Shopify eBay connector](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/07/3allowsellertochoosenvi-1200x530.webp)
+[![allow seller to choose environment Shopify eBay connector](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/07/3allowsellertochoosenvi-1200x530.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/07/3allowsellertochoosenvi-1200x530.webp)
 
 Admins can enable this option to allow sellers to select between the testing environment and the production environment.
 
@@ -83,7 +83,7 @@ You can choose to:
 *   Charge Tax as on Seller's Store.
 *   Never Charge Tax on Products.
 
-![charge tax on product Shopify eBay connector](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/ebayconn6.webp)
+[![charge tax on product Shopify eBay connector](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/ebayconn6.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/ebayconn6.webp)
 
 Once you've made your selection, remember to click on "Save Changes."
 
@@ -94,9 +94,9 @@ Collection Mapping Settings
 
 In the admin panel, there is an additional setting available by navigating to Configuration > Restriction Configuration.
 
-![restriction configuration Shopify eBay connector](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/ebayconn7-1.webp)
+[![restriction configuration Shopify eBay connector](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/ebayconn7-1.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/ebayconn7-1.webp)
 
-![restrict collection Shopify eBay connector](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/ebayconn8.webp)
+[![restrict collection Shopify eBay connector](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/ebayconn8.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/ebayconn8.webp)
 
 1.  Enable the "Restrict Collection Settings" option.
 2.  Click on "Save Changes."
@@ -112,7 +112,7 @@ Once the admin installs the Shopify-Ebay Connector feature app within the Multiv
 
 Sellers can navigate this by following Configuration > eBay Configuration
 
-![ebay configuration Shopify eBay connector](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/07/4sellerebayconfiguration-1200x531.webp)
+[![ebay configuration Shopify eBay connector](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/07/4sellerebayconfiguration-1200x531.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/07/4sellerebayconfiguration-1200x531.webp)
 
 To set up the "Shopify eBay Connector App Configuration," sellers need to enter the following details:
 
@@ -126,7 +126,7 @@ To set up the "Shopify eBay Connector App Configuration," sellers need to enter 
 *   Weight unit of your eBay Store
 *   Currency
 
-![ebay store details Shopify eBay connector](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/07/ebayconfigdetails-1200x530.webp)
+[![ebay store details Shopify eBay connector](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/07/ebayconfigdetails-1200x530.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/07/ebayconfigdetails-1200x530.webp)
 
 **Auto-sync Product Configuration**
 -----------------------------------
@@ -139,13 +139,13 @@ This feature keeps your product listings consistent across both platforms and sa
 
 Navigate to **Seller panel > Configuration > eBay Configuration**, enable the **Auto Sync new products** option, and then click on the **‘Save’** button.
 
-![auto sync new products](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/07/autosyncebayconnector-1200x526.webp)
+[![auto sync new products](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/07/autosyncebayconnector-1200x526.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/07/autosyncebayconnector-1200x526.webp)
 
 Now, upon clicking the "Save" button, the seller will be redirected to the eBay store login page, where they need to sign in using their credentials.
 
 Once signed in, a pop-up notification will appear stating, "App Details Updated Successfully."
 
-![success pop up Shopify eBay connector](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/07/7successpopup-1200x538.webp)
+[![success pop up Shopify eBay connector](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/07/7successpopup-1200x538.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/07/7successpopup-1200x538.webp)
 
 How to get eBay credentials?
 ----------------------------
@@ -162,11 +162,11 @@ After logging in, you will be redirected to the "Application Page."
 
 Enter a title in the "Enter Application Title" box.
 
-![app keys](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/08/applicationpage-1200x479.webp)
+[![app keys](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/08/applicationpage-1200x479.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/08/applicationpage-1200x479.webp)
 
 **Sandbox and Production Sections**
 
-![app title](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/08/apptitle-1200x432.webp)
+[![app title](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/08/apptitle-1200x432.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/08/apptitle-1200x432.webp)
 
 Upon entering the title, you will see two sections: "Sandbox" and "Production."
 
@@ -182,11 +182,11 @@ A new section will open where you can see your App Client ID, Dev ID, and Secret
 
 If you encounter this error when clicking on "Create Keyset" in production mode:
 
-![error](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/08/productionerror.webp)
+[![error](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/08/productionerror.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/08/productionerror.webp)
 
 You will be redirected to this page upon clicking the link:
 
-![production env](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/08/redirectedpg-1200x680.webp)
+[![production env](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/08/redirectedpg-1200x680.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/08/redirectedpg-1200x680.webp)
 
 Now here,
 
@@ -198,17 +198,17 @@ iii) Enable the "Exempted from Marketplace Account Deletion" option.
 
 Now click on confirm
 
-![popup](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/08/popup.webp)
+[![popup](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/08/popup.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/08/popup.webp)
 
 **Generate User Token**
 
 Under the Client ID, click on the "User Token" link. (Refer to the screenshot below)
 
-![user tokens](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/08/usertoken.webp)
+[![user tokens](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/08/usertoken.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/08/usertoken.webp)
 
 Scroll down and click on "Add eBay Redirect URL."
 
-![add url](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/08/addurl-1200x628.webp)
+[![add url](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/08/addurl-1200x628.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/08/addurl-1200x628.webp)
 
 **Configure Redirect URL**
 
@@ -233,9 +233,9 @@ Collection Mapping
 
 Now, the seller can map collections by navigating to the Collection Mapping section.
 
-![map collection Shopify eBay connector](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/07/8collectionmapping-1200x518.webp)
+[![map collection Shopify eBay connector](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/07/8collectionmapping-1200x518.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/07/8collectionmapping-1200x518.webp)
 
-![map collection details Shopify eBay connector](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/07/9mapcollectionfieldsnames-1200x528.webp)
+[![map collection details Shopify eBay connector](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/07/9mapcollectionfieldsnames-1200x528.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/07/9mapcollectionfieldsnames-1200x528.webp)
 
 To map their collection:
 
@@ -246,7 +246,7 @@ To map their collection:
 
 In the Collection Mapping section, you will see a list of all the mapped collections.
 
-![delete mapping](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/07/10deletemapping-1200x527.webp)
+[![delete mapping](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/07/10deletemapping-1200x527.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/07/10deletemapping-1200x527.webp)
 
 To manage these mappings, you can disable or delete any mapping by clicking on the three dots under the "Action" column next to the particular mapped collection.
 
@@ -259,9 +259,9 @@ To import products from eBay store to Shopify, sellers can follow these steps:
 2.  Navigate to Configuration > eBay Configuration.
 3.  Click on "Import Products."
 
-![import products](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/07/11importproducts-1200x529.webp)
+[![import products](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/07/11importproducts-1200x529.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/07/11importproducts-1200x529.webp)
 
-![import products methods](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/07/12methodstoimportproduct-1200x524.webp)
+[![import products methods](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/07/12methodstoimportproduct-1200x524.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/07/12methodstoimportproduct-1200x524.webp)
 
 Sellers have two methods to import products:
 
@@ -281,9 +281,9 @@ Sellers have two methods to import products:
 
 After the products are imported, the seller can view them by navigating to the Products > Product Listing.
 
-![product listing](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/07/13ebayproductimported-1200x528.webp)
+[![product listing](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/07/13ebayproductimported-1200x528.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/07/13ebayproductimported-1200x528.webp)
 
-![product edit](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/07/14editebayproduct-1200x526.webp)
+[![product edit](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/07/14editebayproduct-1200x526.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/07/14editebayproduct-1200x526.webp)
 
 To edit product details, sellers need to follow these steps:
 

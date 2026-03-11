@@ -60,13 +60,13 @@ Simply follow the procedure:
 
 Visit "Mail Settings" section of admin panel>> Click on "Mail settings" >>Here, you can manage the mail details from your end.
 
-![image](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/10/mailsetting.webp)
+[![image](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/10/mailsetting.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/10/mailsetting.webp)
 
 Once you click the "Mail settings", a page appears to you where you will manage mail details.
 
 You will get all this information from the Email Engine you are using.
 
-![image](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/10/mailsmtp-scaled.webp)
+[![image](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/10/mailsmtp-scaled.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/10/mailsmtp-scaled.webp)
 
 In this way, you can manage emails to be sent to the sellers. Now, the admin will configure the “email from”, “reply-to”, “from name” sections as per his/her choice.
 

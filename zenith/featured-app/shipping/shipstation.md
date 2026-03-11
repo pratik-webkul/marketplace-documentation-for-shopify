@@ -32,11 +32,11 @@ SHIPSTATION SHIPPING FEATURE APP IS AVAILABLE **BOTH FOR RATE CALCULATION & FULF
 -------------------
 The admin needs to visit the **multi-vendor marketplace admin panel** > click on the **three dots** > click on the **feature apps**. Further, **enable** the **ShipStation** feature app.
 
-![Feature-Apps-Admin-2 ShipStation integration ](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/shpstation.webp)
+[![Feature-Apps-Admin-2 ShipStation integration ](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/shpstation.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/shpstation.webp)
 
 Furthermore, **agree** & **approve** the charges:
 
-![Shipstation app approve charges](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/activateshipstation.webp)
+[![Shipstation app approve charges](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/activateshipstation.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/activateshipstation.webp)
 
  Configuration: Admin End
 --------------------
@@ -48,7 +48,7 @@ Click on the **three dots** under the **Action** menu & further, click on *
 
 **Note**: Kindly choose only those shipping services which you need. Don't keep all the services selected otherwise it creates delay to retrieve shipping rates at the storefront.
 
-![Enable ShipStation Shipping Method](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/enableshipstation.webp)
+[![Enable ShipStation Shipping Method](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/enableshipstation.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/enableshipstation.webp)
 
 Moving on, the admin needs to configure the ShipStation shipping method. So, for this, either click on **Configure Shipping** or go to **multi vendor marketplace admin panel** >  
 
@@ -56,7 +56,7 @@ Moving on, the admin needs to configure the ShipStation shipping method. So, for
 
 Refer:
 
-![ShipStation Configuration](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/configureshipstation.webp)
+[![ShipStation Configuration](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/configureshipstation.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/configureshipstation.webp)
 
  Configure ShipStation
 ---------------
@@ -75,9 +75,9 @@ On the following page, configure the following details:
 *   Custom Dimension on fulfilment: Enabling this, you can allow sellers to add custom weight and dimensions for their order ignoring the product dimension and weight.
 *   Restrict shipping method: Enabling this, you can restrict the sellers to only use the shipping method that has been selected by customer on their order. Only useful if you are using shipstation for both "shipping and fulfilment".
 
-![Shipstation-Configuration-Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/apiconfigshipstation.webp)
+[![Shipstation-Configuration-Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/apiconfigshipstation.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/apiconfigshipstation.webp)
 
-![Shipstation_Configuration_Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/generalconfigshipstation.webp)
+[![Shipstation_Configuration_Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/generalconfigshipstation.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/generalconfigshipstation.webp)
 
  Set Shipping Method For Sellers:
 -------------------
@@ -87,15 +87,15 @@ Go to **multi vendor marketplace admin panel** > **Sellers** > **Seller Lis
   
 On the edit seller page, the admin will have the following block from where he can enable/disable/set as default:
 
-![Set Default Shipping Method For Your Sellers (ShipStation integration )](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/setdefaultshipstation.webp)
+[![Set Default Shipping Method For Your Sellers (ShipStation integration )](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/setdefaultshipstation.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/setdefaultshipstation.webp)
 
 Further, the admin can view all the sellers which are using this shipping method by going to **multi vendor marketplace admin panel** > **configuration** > **Shipping** **Configuration**:
 
-![View Sellers Using This Shipping Method (ShipStation integration )](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/viewsellersshipstation.webp)
+[![View Sellers Using This Shipping Method (ShipStation integration )](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/viewsellersshipstation.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/viewsellersshipstation.webp)
 
 The redirected page:
 
-![View Seller Shipping Methods (ShipStation integration )](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/viewshippingmethod.webp)
+[![View Seller Shipping Methods (ShipStation integration )](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/viewshippingmethod.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/viewshippingmethod.webp)
 
 Here, clicking on the 'Edit' button for a particular seller will redirect you to the 'Edit Seller' page from where you can disable the following shipping method for that seller .
 
@@ -106,7 +106,7 @@ To use this feature add-on, the admin needs to make the **Shipping** **address
 
 So, to do this, go to **Shopify Backend** > **Settings** > **Checkout** > Under **Form Options**, make **Shipping** **address phone number** as **Required**:
 
-![ShipStation integration ( making mobile no required ) ](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/09/demo-store-Checkout-Shopify-1200x597.png)
+[![ShipStation integration ( making mobile no required ) ](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/09/demo-store-Checkout-Shopify-1200x597.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/09/demo-store-Checkout-Shopify-1200x597.png)
 
 Shopify Backend (Admin End)
 
@@ -116,25 +116,25 @@ Further, the seller can configuration ShipStation from his panel.
 
 Go to **multi vendor marketplace seller panel** > **configuration** > **shipping configuration**\> **enable** the shipping:
 
-![Enable ShipStation](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/sellerenableshipstation.webp)
+[![Enable ShipStation](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/sellerenableshipstation.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/sellerenableshipstation.webp)
 
 Furthermore, the seller can set the shipping method as **by-default** so that every single product created by him will have **ShipStation** as the **by-default shipping method**.
 
-![Set ShipStation As Default Shipping Method](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/shipstationsellerconfig.webp)
+[![Set ShipStation As Default Shipping Method](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/shipstationsellerconfig.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/shipstationsellerconfig.webp)
 
 Clicking on '**Set As Default**' will give you the following dialogue box:
 
-![Set Default Shipping Method For Products (ShipStation integration  )](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/12/Shipping-Configuration-Seller-%E2%80%A2-Multivendor-MarketPlace-2-1200x597.png)
+[![Set Default Shipping Method For Products (ShipStation integration  )](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/12/Shipping-Configuration-Seller-%E2%80%A2-Multivendor-MarketPlace-2-1200x597.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/12/Shipping-Configuration-Seller-%E2%80%A2-Multivendor-MarketPlace-2-1200x597.png)
 
  In case the admin has allowed the sellers to add their details:
 -------------------
 The seller will have this drop-down menu:
 
-![shipstation configuration ](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/01/image-1-1200x597.png)
+[![shipstation configuration ](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/01/image-1-1200x597.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/01/image-1-1200x597.png)
 
 And further add these details:
 
-![Shipstation-Configuration-Seller-•-Multivendor-MarketPlace-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/01/Shipstation-Configuration-Seller-%E2%80%A2-Multivendor-MarketPlace-1-1084x1024.png)
+[![Shipstation-Configuration-Seller-•-Multivendor-MarketPlace-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/01/Shipstation-Configuration-Seller-%E2%80%A2-Multivendor-MarketPlace-1-1084x1024.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/01/Shipstation-Configuration-Seller-%E2%80%A2-Multivendor-MarketPlace-1-1084x1024.png)
 
  Set Default Shipping Method For Products
 --------------------
@@ -146,17 +146,17 @@ If not this, the seller can set the shipping method on individual products while
 
 So, go to **Multi-vendor marketplace seller panel** > **Products** >**Product Listing** \> **Add**/**Edit** the Product:
 
-![Select shipping method for individual product (ShipStation integration  )](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/12/Screenshot-from-2019-12-04-15-13-53-1200x558.png)
+[![Select shipping method for individual product (ShipStation integration  )](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/12/Screenshot-from-2019-12-04-15-13-53-1200x558.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/12/Screenshot-from-2019-12-04-15-13-53-1200x558.png)
 
  **Global Configuration**
 ----------------
 Further, click on the **Global Configuration** menu:
 
-![Shipping-Configuration-Seller-•-Multivendor-MarketPlace-3 (ShipStation integration  )](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/12/Shipping-Configuration-Seller-%E2%80%A2-Multivendor-MarketPlace-3-1200x597.png)
+[![Shipping-Configuration-Seller-•-Multivendor-MarketPlace-3 (ShipStation integration  )](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/12/Shipping-Configuration-Seller-%E2%80%A2-Multivendor-MarketPlace-3-1200x597.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/12/Shipping-Configuration-Seller-%E2%80%A2-Multivendor-MarketPlace-3-1200x597.png)
 
 So, from here, the seller can do the **SHIPPING PACKET CONFIGURATION**:
 
-![123](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/09/Shipping-Configuration-Seller-%E2%80%A2-Multivendor-MarketPlace-6.png)
+[![123](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/09/Shipping-Configuration-Seller-%E2%80%A2-Multivendor-MarketPlace-6.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/09/Shipping-Configuration-Seller-%E2%80%A2-Multivendor-MarketPlace-6.png)
 
 **NOTE**: It is mandatory to add product weight while creating one.
 
@@ -164,7 +164,7 @@ So, from here, the seller can do the **SHIPPING PACKET CONFIGURATION**:
 
 Likewise, the customer will have an option to select the shipping method as per configured from the backend after entering the information:
 
-![Shipping-JohnDoe2-Checkout](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/12/Shipping-JohnDoe2-Checkout-1200x955.png)
+[![Shipping-JohnDoe2-Checkout](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/12/Shipping-JohnDoe2-Checkout-1200x955.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/12/Shipping-JohnDoe2-Checkout-1200x955.png)
 
  Shipping Label Generation
 -------------------
@@ -176,29 +176,29 @@ Go to **Multi-vendor marketplace seller panel** > **Orders** > **Order List
 
 As soon as the order will be fulfilled, the shipping label will be automatically downloaded.
 
-![Order-Details-Seller-•-Multivendor-MarketPlace](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/12/Order-Details-Seller-%E2%80%A2-Multivendor-MarketPlace-1200x597.png)
+[![Order-Details-Seller-•-Multivendor-MarketPlace](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/12/Order-Details-Seller-%E2%80%A2-Multivendor-MarketPlace-1200x597.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/12/Order-Details-Seller-%E2%80%A2-Multivendor-MarketPlace-1200x597.png)
 
 1\. Click on Fulfill
 
-![Order-Details-Seller-•-Multivendor-MarketPlace-2](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/12/Order-Details-Seller-%E2%80%A2-Multivendor-MarketPlace-2-1200x872.png)
+[![Order-Details-Seller-•-Multivendor-MarketPlace-2](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/12/Order-Details-Seller-%E2%80%A2-Multivendor-MarketPlace-2-1200x872.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/12/Order-Details-Seller-%E2%80%A2-Multivendor-MarketPlace-2-1200x872.png)
 
 Agree & Fulfill: This block will have the information regarding who is bearing the shipping label charges.
 
 Moreover, if you again want to download the shipping label, go to ADDITIONAL ORDER DETAILS, click on **Actions** > **Print Shipping Label**:
 
-![Order-Details-Seller-•-Multivendor-MarketPlace-4](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/12/Order-Details-Seller-%E2%80%A2-Multivendor-MarketPlace-4-1200x597.png)
+[![Order-Details-Seller-•-Multivendor-MarketPlace-4](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/12/Order-Details-Seller-%E2%80%A2-Multivendor-MarketPlace-4-1200x597.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/12/Order-Details-Seller-%E2%80%A2-Multivendor-MarketPlace-4-1200x597.png)
 
 Furthermore, this is how the shipping label will be downloaded in pdf form:
 
-![5512-pdf-2](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/12/5512-pdf-2.png)
+[![5512-pdf-2](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/12/5512-pdf-2.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/12/5512-pdf-2.png)
 
 Page: 1
 
-![5512-pdf-1-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/12/5512-pdf-1-1.png)
+[![5512-pdf-1-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/12/5512-pdf-1-1.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/12/5512-pdf-1-1.png)
 
 Page: 2
 
-![Shipstation-Configuration-Seller-•-Multivendor-MarketPlace](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/01/Shipstation-Configuration-Seller-%E2%80%A2-Multivendor-MarketPlace-1084x1024.png)
+[![Shipstation-Configuration-Seller-•-Multivendor-MarketPlace](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/01/Shipstation-Configuration-Seller-%E2%80%A2-Multivendor-MarketPlace-1084x1024.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/01/Shipstation-Configuration-Seller-%E2%80%A2-Multivendor-MarketPlace-1084x1024.png)
 
 ### **Allow Sellers to fulfill orders directly from their Shipstation Dashboard.**
 
@@ -222,7 +222,7 @@ To configure this feature from the admin side, follow these steps
 
 You can select to show the **Admin shop name**, **Seller shop Name**, or **order ID Only** in this .
 
-![shipstation-configuration](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/09/shipstation-configuration.webp)
+[![shipstation-configuration](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/09/shipstation-configuration.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/09/shipstation-configuration.webp)
 
  **Configuration from seller end**
 ----------------------
@@ -230,21 +230,21 @@ To configure this feature from seller end , follow these steps :
 
 1.In the ShipStation configuration settings, enable the option for 'CREATE ORDER BEFORE FULFILLMENT '.
 
-![shipstation-configuration-step1](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/09/step-first-seller-end.webp)
+[![shipstation-configuration-step1](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/09/step-first-seller-end.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/09/step-first-seller-end.webp)
 
 2\. Copy the provided URL for 'Webhook Register for ShipStation shipping' and configure it in the ShipStation dashboard.
 
-![shipstation-step-second -seller-end](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/09/step-second-seller-end.webp)
+[![shipstation-step-second -seller-end](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/09/step-second-seller-end.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/09/step-second-seller-end.webp)
 
 3\. Once the order is created on the ShipStation dashboard, the ShipStation order ID will be displayed on the order detail page
 
-![shipstation-step-third-seller-end](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/09/step-third-seller-end.webp)
+[![shipstation-step-third-seller-end](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/09/step-third-seller-end.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/09/step-third-seller-end.webp)
 
 4\. if the order is fulfilled on shipstation dashboard then automatically it will be fulfilled on M ultivendor-market place as well.
 
 Here is how you fulfill the order from Shipstation:
 
-![shipstation-step-first-seller-end](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/09/step-fourth-seller-end.webp)
+[![shipstation-step-first-seller-end](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/09/step-fourth-seller-end.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/09/step-fourth-seller-end.webp)
 
 **Note** \-
 
@@ -284,7 +284,7 @@ Create and define custom shipping box dimensions, set a minimum and maximum temp
 Navigate to the general configuration section of the ShipStation shipping method.  
 Enable all the options you want the sellers to have access to, then click **Save** to apply the settings.
 
-![admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/12/adminend-816x1024.webp)
+[![admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/12/adminend-816x1024.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/12/adminend-816x1024.webp)
 
 Seller Configures Custom Box
 ----------------------------
@@ -297,7 +297,7 @@ Click on “Configure Custom Box”, then enable the toggle for “Create Custom
 
 Once enabled, the “Add Custom Box” option will appear.
 
-![frst](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/12/sellerfrst-1200x701.webp)
+[![frst](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/12/sellerfrst-1200x701.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/12/sellerfrst-1200x701.webp)
 
 **Select Custom Box Type  
 **Sellers can choose from two types of custom boxes:  
@@ -305,7 +305,7 @@ Once enabled, the “Add Custom Box” option will appear.
 ◦ Box Dimensions  
 ◦ Dunnage Dimensions
 
-![scnd](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/12/sellerscnd-1200x609.webp)
+[![scnd](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/12/sellerscnd-1200x609.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/12/sellerscnd-1200x609.webp)
 
 2\. **Climate Control Box** – Allows you to set:
 
@@ -313,8 +313,8 @@ Once enabled, the “Add Custom Box” option will appear.
 *   Dunnage Dimensions
 *   Minimum and Maximum Temperature
 
-![gb
-](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/12/sellerthird-1018x1024.webp)
+[![gb
+](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/12/sellerthird-1018x1024.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/12/sellerthird-1018x1024.webp)
 
 **Save Custom Box**
 
@@ -330,7 +330,7 @@ Select **ShipStation** as the shipping method. You will now see options to:
 *   Add **dunnage dimensions**
 *   Set **minimum and maximum temperature** (if using climate control)
 
-![pro](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/12/sellerfourth-1200x620.webp)
+[![pro](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/12/sellerfourth-1200x620.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/12/sellerfourth-1200x620.webp)
 
 How it appears on the Order Page
 --------------------------------
@@ -339,10 +339,10 @@ How it appears on the Order Page
 
 The Order page shows fields for box dimensions and dunnage dimensions only.
 
-![or](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/12/orderscnd-1200x413.webp)
+[![or](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/12/orderscnd-1200x413.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/12/orderscnd-1200x413.webp)
 
 **When the seller selects a Climate Control box,**
 
 The Order page displays inputs for box dimensions, dunnage dimensions, and controlled temperature range (minimum and maximum).  
 
-![ord](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/12/orderfrst-1200x385.webp)
+[![ord](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/12/orderfrst-1200x385.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/12/orderfrst-1200x385.webp)

@@ -40,17 +40,17 @@ This feature app is at the monthly charge of **$10 USD per month** in addition t
 ---------------------
 In order to make this feature app work on your Marketplace, first, you need to enable this feature from the "Featured Apps" section.
 
-![Dashboard_Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/featuredappsp.webp)
+[![Dashboard_Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/featuredappsp.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/featuredappsp.webp)
 
 Visit the Feature Apps section and scroll to the bottom to get the Store Pickup feature app.
 
-![store pickup](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/storepickup.webp)
+[![store pickup](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/storepickup.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/storepickup.webp)
 
 Click the "**Enable**" button to activate this feature app.
 
 Once you find this feature app, click on the Enable button to proceed. Now, you need to agree with the charge of $10 per month for this feature app.
 
-![Approve Charges](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/08/Demo-Store-Approve-fees-Shopify.png)
+[![Approve Charges](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/08/Demo-Store-Approve-fees-Shopify.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/08/Demo-Store-Approve-fees-Shopify.png)
 
 Once you agree with this charge proceed further to approve the charge and finally get this feature app activated on your marketplace.
 
@@ -61,13 +61,13 @@ In this way, you can enable this featured app. Let's see how to configure the ap
 Once you activate this featured app on your store, a new menu gets added to the Configuration.  
 Multi-vendor Admin panel>>Go to Configurations\>>Click "**Store Pickup Configuration**" menu.
 
-![configuration](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/storepickupconfig.webp)
+[![configuration](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/storepickupconfig.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/storepickupconfig.webp)
 
 Here, you can enable the pickup option and configure the label that will be visible to all the sellers on their respective seller panels.
 
 Also, enable the tab to show the store pickup location name to the customers.
 
-![Admin-Store-Pickup-Config-Admin-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/storepickupconfiguration-scaled.webp)
+[![Admin-Store-Pickup-Config-Admin-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/storepickupconfiguration-scaled.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/storepickupconfiguration-scaled.webp)
 
 The settings configured here will appear by default to all the registered sellers while adding the store pickup option.
 
@@ -77,11 +77,11 @@ In case you want to let customers notified via email for pickup products after t
 
 You can enable this option in the Store Pickup Configuration.
 
-![Screenshot-2020-11-26T135101.899](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/pickupmail.webp)
+[![Screenshot-2020-11-26T135101.899](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/pickupmail.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/pickupmail.webp)
 
 Once the Store Pickup feature app is enabled, a " Store Pickup" Column will be visible on the Sellers >> Locations page.
 
-![screenshot_1696415802665](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/storepickupstatus.webp)
+[![screenshot_1696415802665](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/storepickupstatus.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/storepickupstatus.webp)
 
  Seller End Configuration
 -----------------------
@@ -93,19 +93,19 @@ Take a glance at the procedure:
 
 Visit Multivendor Seller Panel>>Go to the Configuration menu>>Get the **Store Pickup Configuration** from drop-down menu>>Configure the details>>Save.
 
-![Enable store pick-up](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/storepickupenable.webp)
+[![Enable store pick-up](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/storepickupenable.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/storepickupenable.webp)
 
 The seller can create multiple store pickup locations.
 
-![Add-Location-Seller-•-Multivendor-MarketPlace](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/storepickuplocation.webp)
+[![Add-Location-Seller-•-Multivendor-MarketPlace](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/storepickuplocation.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/storepickuplocation.webp)
 
 Location created.
 
-<!-- ![Screenshot-2020-10-16T183143.132](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/10/Screenshot-2020-10-16T183143.132-1200x545.png) -->
+<!-- [![Screenshot-2020-10-16T183143.132](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/10/Screenshot-2020-10-16T183143.132-1200x545.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/10/Screenshot-2020-10-16T183143.132-1200x545.png) -->
 
 The seller can edit, disable, delete the locations added. Moreover, they can add more locations. Go to Seller End>>Configurations\>>**Locations**.
 
-![Screenshot-2020-10-16T183302.989](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/storepickupaddlocation.webp)
+[![Screenshot-2020-10-16T183302.989](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/storepickupaddlocation.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/storepickupaddlocation.webp)
 
 Now, once the seller visits the Store Pickup Configuration section, he/she can enable the Store Pickup button to make it visible for the customers on the frontend of every product page.
 
@@ -119,12 +119,12 @@ The seller can also select a default option for the customers either **Store Pic
 
 _And disable store pickup for a particular location from the Locations section, inventory management will still be applicable for that location._
 
-![Store pick up](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/storepickupconfigfill.webp)
+[![Store pick up](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/storepickupconfigfill.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/storepickupconfigfill.webp)
 
 *   In case the seller wants to enable the store pickup option for all the products, the store pickup option will be available for all the products.
 *   If the seller wants to set the store pickup option on some specific products then, he can simply choose the option as "**Specific Product**" from the drop-down menu.
 
-![store pickup-specific products](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/storepickupconfigspicificpro.webp)
+[![store pickup-specific products](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/storepickupconfigspicificpro.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/storepickupconfigspicificpro.webp)
 
 **While adding/editing products**
 ---------------------------------
@@ -133,9 +133,9 @@ Once the seller selects the "**Specific Product**" option, he/she will get the o
 
 Thus, the seller can set different options for his/her customers on each product.
 
-![choose store pickup option](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/productforstorepickup.webp)
+[![choose store pickup option](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/productforstorepickup.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/productforstorepickup.webp)
 
-![Seller Address](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/08/Store-Pickup-Config-Seller-%E2%80%A2-Multivendor-MarketPlace-2.png)![Label Configuration](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/labelconfig.webp)
+[![Seller Address](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/08/Store-Pickup-Config-Seller-%E2%80%A2-Multivendor-MarketPlace-2.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/08/Store-Pickup-Config-Seller-%E2%80%A2-Multivendor-MarketPlace-2.png)[![Label Configuration](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/labelconfig.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/labelconfig.webp)
 
 Moreover, sellers can configure the labels within the app.
 
@@ -147,11 +147,11 @@ This can be possible only when the admin will configure the settings on his/her 
 ----------------
 In order to show the store pickup option on product description page, admin needs to paste the given code into its respective template file.
 
-![Instruction](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/instructionformarketplace.webp)
+[![Instruction](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/instructionformarketplace.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/instructionformarketplace.webp)
 
 To do this, admin needs to visit the "Instruction for Marketplace" section of the multivendor app.
 
-![Code Pasting](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/08/Instructions-Admin.png)
+[![Code Pasting](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/08/Instructions-Admin.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/08/Instructions-Admin.png)
 
 Here in this section, you can scroll down to get the code and paste it into its respective template file as suggested.
 
@@ -169,9 +169,9 @@ By default, there will be two options visible to the customers on frontend if th
 
 If the customer selects the "Delivery" option, by default the same order process will be applied as per the marketplace app (i.e. Shipping is applied as per the rule).
 
-![Coffee Mug](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/09/Coffee-Mug-%E2%80%93-JohnDoe2-1-1200x627.png)
+[![Coffee Mug](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/09/Coffee-Mug-%E2%80%93-JohnDoe2-1-1200x627.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/09/Coffee-Mug-%E2%80%93-JohnDoe2-1-1200x627.png)
 
-![Front end](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/09/Coffee-Mug-%E2%80%93-JohnDoe2-1200x627.png)
+[![Front end](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/09/Coffee-Mug-%E2%80%93-JohnDoe2-1200x627.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/09/Coffee-Mug-%E2%80%93-JohnDoe2-1200x627.png)
 
 But if the customer selects the option as "Store Pick-up", there will not be any Shipping applied on that product i.e. there will be Free Shipping.
 
@@ -184,12 +184,12 @@ Now Once the order is placed by the customer and the customer has selected the o
 **Admin Panel**
 ---------------
 
-![Admin end](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/storepickuporderadmin.webp)
+[![Admin end](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/storepickuporderadmin.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/storepickuporderadmin.webp)
 
 **Seller Panel**
 ----------------
 
-![Order Listing](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/storepickuporderseller.webp)
+[![Order Listing](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/storepickuporderseller.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/storepickuporderseller.webp)
 
 In this way, you can provide the option to pickup the ordered product to your customers using this feature app.
 
@@ -205,29 +205,29 @@ You can use this feature with the split cart. This means that you can now displa
 
 Just **enable the Store Pickup on cart** and let customers choose an address to pick up the item on the cart page.
 
-![Screenshot-88](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/splitcartstorepickup.webp)
+[![Screenshot-88](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/splitcartstorepickup.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/splitcartstorepickup.webp)
 
 **MARK**:- In case you enable this option “Allow Store Pickup on Cart” for your sellers, your sellers need to configure the store pickup option for **“ALL PRODUCTS”** 
 
 from the Split cart configuration menu of their seller panel as shown in the below screenshot:
 
-![all products](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/configallproduct.webp)
+[![all products](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/configallproduct.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/configallproduct.webp)
 
 Once you enable this feature for the first time, you will be asked to back up your files to avoid any data loss.
 
-![Configuration-Admin-4-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/12/Configuration-Admin-4-1-1200x627.png)
+[![Configuration-Admin-4-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/12/Configuration-Admin-4-1-1200x627.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/12/Configuration-Admin-4-1-1200x627.png)
 
 **Note**:- Make sure both the feature apps (Store Pickup & Split Cart) are enabled.
 
 **Front End: Cart Page**
 
-![Your-Shopping-Cart-–-tarang-shop2](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/12/Your-Shopping-Cart-%E2%80%93-tarang-shop2-1200x627.png)
+[![Your-Shopping-Cart-–-tarang-shop2](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/12/Your-Shopping-Cart-%E2%80%93-tarang-shop2-1200x627.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/12/Your-Shopping-Cart-%E2%80%93-tarang-shop2-1200x627.png)
 
 Thus, the inventory will be managed from the selected location.
 
 In case the quantity is not available on the customer’s selected location then, he/she will not be able to proceed to checkout. And this will show an error something like this:
 
-![Screenshot-by-Lightshot](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/12/Screenshot-by-Lightshot-1200x527.png)
+[![Screenshot-by-Lightshot](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/12/Screenshot-by-Lightshot-1200x527.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/12/Screenshot-by-Lightshot-1200x527.png)
 
 This is all about the **Split Cart+ Store Pickup f**eature.
 
@@ -239,15 +239,15 @@ As the sellers can see the Store Pick up status & address details on their order
 
 To make this option visible for the customers, you need to visit the Instruction for Marketplace section of the app and get the codes.
 
-![Adding codes](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/storepickupcode.webp)
+[![Adding codes](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/storepickupcode.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/storepickupcode.webp)
 
 Copy the codes from their & add them to their respective template files (here: **customer/order.liquid** )
 
-![My Account](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/09/Order-1040-%E2%80%93-JohnDoe2-1200x627.png)
+[![My Account](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/09/Order-1040-%E2%80%93-JohnDoe2-1200x627.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/09/Order-1040-%E2%80%93-JohnDoe2-1200x627.png)
 
 The **Get Direction arrow** will redirect the customer to the **Google Map** to view the store pick up location.
 
-![Google Map](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/09/1733-Edwards-St-Google-Maps-1200x627.png)
+[![Google Map](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/09/1733-Edwards-St-Google-Maps-1200x627.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/09/1733-Edwards-St-Google-Maps-1200x627.png)
 
 This way, the customer can check the direction of the store pickup location.
 
@@ -267,23 +267,23 @@ The seller will add multiple store pickup addresses with a delivery radius for e
 
 The seller needs to enable the option from the "**Store Pickup Configuration**" menu of the app.
 
-![Store-Pickup-Config-Seller-•-Multivendor-MarketPlace](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/hyperlocalstorepickup.webp)
+[![Store-Pickup-Config-Seller-•-Multivendor-MarketPlace](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/hyperlocalstorepickup.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/hyperlocalstorepickup.webp)
 
 Once the seller enables this option, he/she will be able to add locations based with Google Map.
 
-![Add-Location-Seller-•-Multivendor-MarketPlace](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/addlocationhyper.webp)
+[![Add-Location-Seller-•-Multivendor-MarketPlace](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/addlocationhyper.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/addlocationhyper.webp)
 
 Now, the customers will have the option to search the location via hyperlocal to pickup the order.
 
-![front end](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/04/harshit-store1-1200x627.png)
+[![front end](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/04/harshit-store1-1200x627.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/04/harshit-store1-1200x627.png)
 
 Seller's location:
 
-![location search](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/04/harshit-store1-1-1200x627.png)
+[![location search](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/04/harshit-store1-1-1200x627.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/04/harshit-store1-1-1200x627.png)
 
 Customer will select a location for store pickup:
 
-![customer end](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/04/Screenshot9-1200x622.png)
+[![customer end](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/04/Screenshot9-1200x622.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/04/Screenshot9-1200x622.png)
 
  Filter Option on Seller Listing Page
 -----------------------------
@@ -291,7 +291,7 @@ The customers can now filter the sellers based of the store pickup service provi
 
 In the seller listing page, the customer can filter if a seller is offering store pickup+delivery of their products or only the store pickup option.
 
-![Seller_Profile_–_sanjay_store1](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/05/Seller_Profile_%E2%80%93_sanjay_store1-1200x627.png)
+[![Seller_Profile_–_sanjay_store1](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/05/Seller_Profile_%E2%80%93_sanjay_store1-1200x627.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/05/Seller_Profile_%E2%80%93_sanjay_store1-1200x627.png)
 
  Display Location Name
 --------------------------
@@ -303,15 +303,15 @@ Additionally, the same will be visible to the seller on the order detail page.
 
 To activate this feature, you need to enable this option from the "**Store Pickup Configuration**" menu of the app.
 
-![display location](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/displaylocationname.webp)
+[![display location](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/displaylocationname.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/displaylocationname.webp)
 
 This is how it appears on the cart page and is visible to the customers while placing an order.
 
-![cart page](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/06/Screenshot-2020-06-30T173555.924-1200x603.png)
+[![cart page](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/06/Screenshot-2020-06-30T173555.924-1200x603.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/06/Screenshot-2020-06-30T173555.924-1200x603.png)
 
 Both you can your sellers can view the location details from the order detail section of their respective panels.
 
-![order detail](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/locationdetails.webp)
+[![order detail](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/locationdetails.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/locationdetails.webp)
 
  Store Pick up with Multiple Shipping
 ----------------------------
@@ -319,23 +319,23 @@ In case you are using the **[Multiple Shipping](https://webkul.com/blog/shopify-
 
 Thus, the customers can choose shipping rates on the product page or cart page in case the "Delivery" option configured with the **Store Pickup** Feature App.
 
-![Screenshot21-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/multipleshipping.webp)
+[![Screenshot21-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/multipleshipping.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/multipleshipping.webp)
 
 With this option, you can add multiple shipping methods in the app and select more than one shipping method for a product.
 
-![Screenshot-2020-10-16T124347.786](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/multipleshippingmethods.webp)
+[![Screenshot-2020-10-16T124347.786](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/multipleshippingmethods.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/multipleshippingmethods.webp)
 
 Now, while selecting the delivery option on the product page, the customer will select a shipping method and choose the shipping charge that he/she is willing to pay.
 
-![Cheese-Cake-–-Sanjay-store-trunk-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/10/Cheese-Cake-%E2%80%93-Sanjay-store-trunk-1-1200x940.png)
+[![Cheese-Cake-–-Sanjay-store-trunk-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/10/Cheese-Cake-%E2%80%93-Sanjay-store-trunk-1-1200x940.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/10/Cheese-Cake-%E2%80%93-Sanjay-store-trunk-1-1200x940.png)
 
 Clicking the **Calculate** button and get the shipping charges to choose from.
 
-![Screenshot22-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/10/Screenshot22-1-1200x614.png)
+[![Screenshot22-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/10/Screenshot22-1-1200x614.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/10/Screenshot22-1-1200x614.png)
 
 Moreover, you can display the shipping methods on the checkout page as shown in the below screenshot.
 
-![Screenshot-2020-10-16T123941.723](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/10/Screenshot-2020-10-16T123941.723-1200x592.png)
+[![Screenshot-2020-10-16T123941.723](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/10/Screenshot-2020-10-16T123941.723-1200x592.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/10/Screenshot-2020-10-16T123941.723-1200x592.png)
 
  Compatibility with "Product auction app":
 -------------------------------
@@ -343,7 +343,7 @@ Now, the store pickup app is compatible with [product auction app for shopify](h
 
 This will allow customers to choose their delivery preference while placing bid if the seller has applied storepickup on their products.
 
-![screenshot_1684843718486-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/05/screenshot_1684843718486-1-1200x619.png)
+[![screenshot_1684843718486-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/05/screenshot_1684843718486-1-1200x619.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/05/screenshot_1684843718486-1-1200x619.png)
 
 Demo Details
 ------------

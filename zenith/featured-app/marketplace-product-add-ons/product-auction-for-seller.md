@@ -36,11 +36,11 @@ Visit the Feature App section and enable this feature to allow sellers to create
 ---------------------
 *   Auction products are now compatible on the seller profile pages i.e, the auction related details will be visible on the auctioned products listed on seller profile pages.
 
-![screenshot-priyanshu-store17.myshopify.com-2022.01.27-18_18_34](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/01/screenshot-priyanshu-store17.myshopify.com-2022.01.27-18_18_34-1200x581.png)
+[![screenshot-priyanshu-store17.myshopify.com-2022.01.27-18_18_34](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/01/screenshot-priyanshu-store17.myshopify.com-2022.01.27-18_18_34-1200x581.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/01/screenshot-priyanshu-store17.myshopify.com-2022.01.27-18_18_34-1200x581.png)
 
 If the auction details are not appearing on your seller's profile pages, please regenerate the seller profile page from the "storefront configuration" section on the Multi-vendor admin panel.
 
-![screenshot-sp-seller.webkul.com-2022.01.27-17_49_18](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/auction.webp)
+[![screenshot-sp-seller.webkul.com-2022.01.27-17_49_18](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/auction.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/auction.webp)
 
 Also, if you have your seller pages customized, please reach us at [support@webkul.com](mailto:support@webkul.com) to make the auctioned products compatible on seller pages.
 
@@ -48,15 +48,15 @@ Also, if you have your seller pages customized, please reach us at [support@webk
 ----------------
 **ADMIN PANEL**
 
-![Auction Feature App](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/auctionfeature.webp)
+[![Auction Feature App](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/auctionfeature.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/auctionfeature.webp)
 
 To get the **Product Auction for Seller**, You need to go to the Feature Apps section of the Multivendor app and activate this feature from there.
 
-![Feature App5](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/auctionacivate.webp)
+[![Feature App5](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/auctionacivate.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/auctionacivate.webp)
 
 Click on Enable button to activate this feature.
 
-![Agree](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/auctionagree.webp)
+[![Agree](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/auctionagree.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/auctionagree.webp)
 
 Now, You need to click on the Agree button to agree with the feature app charge.
 
@@ -73,11 +73,11 @@ Once the admin enables the "Product Auction for Sellers" feature app, Sellers ca
 
 To do so, Seller needs to visit the **Products** section of the app. Now, from the Action menu, the seller will click on the "**View Auction**" button from the drop-down menu.
 
-![Shopify Multi-vendor Marketplace-Product Auction ](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/auctioncreate.webp)
+[![Shopify Multi-vendor Marketplace-Product Auction ](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/auctioncreate.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/auctioncreate.webp)
 
 If the seller has not set auction on this product, he/she will have the **product details** and a button to **Add Auction.**
 
-![Auction list on a product](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/auctionlistonproduct.webp)
+[![Auction list on a product](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/auctionlistonproduct.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/auctionlistonproduct.webp)
 
 Clicking on the "**Add Auction**" button, You will be asked to enter auction details such as Time Duration, Base & Reserve price of the auction and so on. 
 
@@ -87,13 +87,13 @@ While adding auction on any product, Seller needs to enter the following details
 *   Add **Base Price** i.e. Price from where the bidding will start.
 *   Add **Reserve Price** i.e. Price where your product bidding should be reached.
 
-![Edit Auction](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/addauction.webp)
+[![Edit Auction](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/addauction.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/addauction.webp)
 
 Seller can also start the auction automatically from this section. Once You fill all the details, you can either click on "**Save**" or "**Save & Start**" button to immediately start auction on that product.
 
 Clicking on the View Auction button, seller can view the complete information related to bids & auction winners.
 
-![Auction details-Seller end](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/auctiondetails.webp)
+[![Auction details-Seller end](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/auctiondetails.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/auctiondetails.webp)
 
 **Admin can manually remove the auction on products from his/her end from the "Product Auction App".**
 
@@ -101,7 +101,7 @@ In this way, the store owner can allow his/her registered sellers to [add auctio
 
  Front End
 --------------------
-![Place a bid](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/11/Classic-Mug-%E2%80%93-wk-multivendor-auction-demo.png)
+[![Place a bid](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/11/Classic-Mug-%E2%80%93-wk-multivendor-auction-demo.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/11/Classic-Mug-%E2%80%93-wk-multivendor-auction-demo.png)
 
 Once your sellers add auction on products from the Seller Panel of the Multivendor app, Customers can view the auction running on that product in an auction window visible on the frontend.
 
@@ -115,13 +115,13 @@ You can now allow sellers to add auctions to global products of your store.
 
 For this, the seller needs to visit the seller panel>>Go to Global Products section>Select the product and click **Create Auction** in Action menu.
 
-![screenshot-www.qsnapnet.com-2021.07.09-16_20_33](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/createauction.webp)
+[![screenshot-www.qsnapnet.com-2021.07.09-16_20_33](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/createauction.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/createauction.webp)
 
 Further, the "Add Auction" form will remain the same as that of normal products. The seller needs to enter auction details for that global product and start auction.
 
 Similarly, you can also add auction to global products from the admin panel of the Multi-vendor app as shown below:
 
-![screenshot-sp-seller.webkul.com-2021.07.09-16_17_43](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/viewauction.webp)
+[![screenshot-sp-seller.webkul.com-2021.07.09-16_17_43](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/viewauction.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/viewauction.webp)
 
 This is all about the Product Auction for Sellers feature of the Multivendor App.
 
@@ -139,18 +139,18 @@ But if the admin wants then he can restrict the seller to use these three featur
 
 Go to product auction from Shopify store >> Click on "Configuration" >> now, click on three dots >> seller restrictions
 
-![Sameer_Auction_Main-·-Product-Auction-·-Shopify](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/12/Sameer_Auction_Main-%C2%B7-Product-Auction-%C2%B7-Shopify-1200x608.png)
+[![Sameer_Auction_Main-·-Product-Auction-·-Shopify](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/12/Sameer_Auction_Main-%C2%B7-Product-Auction-%C2%B7-Shopify-1200x608.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/12/Sameer_Auction_Main-%C2%B7-Product-Auction-%C2%B7-Shopify-1200x608.png)
 
-![Screenshot5](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/12/Screenshot5.png)
+[![Screenshot5](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/12/Screenshot5.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/12/Screenshot5.png)
 
 Now suppose, the admin has enabled the "Proxy bidding setting" from here.
 
-![Screenshot7](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/12/Screenshot7.png)
+[![Screenshot7](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/12/Screenshot7.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/12/Screenshot7.png)
 
   
 Then proxy bidding option will not be shown to the seller while creating the auction product from seller panel >> product >> product listing
 
-![Screenshot6](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/sellerauctionsetting.webp)
+[![Screenshot6](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/sellerauctionsetting.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/sellerauctionsetting.webp)
 
 **To restrict sellers to change the duration and price of the auction.**
 
@@ -160,7 +160,7 @@ But if the admin wants then he can restrict the seller to fill and update the du
 
 Then admin can find these options in the "Configuration" section >> now, click on three dots >> seller restrictions.
 
-![Screenshot11](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/01/Screenshot11.png)
+[![Screenshot11](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/01/Screenshot11.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/01/Screenshot11.png)
 
 **Auction Settings Configuration Example**
 
@@ -188,13 +188,13 @@ When a seller adds an auction on a product:
 
 This helps maintain consistency across all auctions and saves time for sellers by pre-filling the most common auction details.
 
-![Screenshot12](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/01/Screenshot12.png)
+[![Screenshot12](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/01/Screenshot12.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/01/Screenshot12.png)
 
 Then the auction product time and the price will be auto-filled while creating the auction product from seller panel >> product >> product listing.
 
 And the seller can't change this time duration and price.
 
-![Screenshot13](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/price.webp)
+[![Screenshot13](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/price.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/price.webp)
 
 [**CREATE YOUR OWN AUCTION MARKETPLACE**](https://webkul.com/blog/create-an-online-auction-marketplace-using-shopify/)
 

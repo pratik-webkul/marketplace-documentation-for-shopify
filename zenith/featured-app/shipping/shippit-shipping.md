@@ -32,11 +32,11 @@ Installation
 
 The admin needs to visit the **Multi-vendor Marketplace Admin panel** > click on the **three dots** > and click on the **feature apps**. Further, **enable** the **Shippit** feature app.
 
-![Enable Shipping](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/shippit.webp)
+[![Enable Shipping](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/shippit.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/shippit.webp)
 
 Furthermore, agree & approve the charges:
 
-![Shippit  Shipping payment](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/12/testttt-2.webp)
+[![Shippit  Shipping payment](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/12/testttt-2.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/12/testttt-2.webp)
 
 Configuration: Admin End
 ------------------------
@@ -49,13 +49,13 @@ Click on the **three dots** under the **Action** menu & further, click on 
 
 **Note**: Kindly choose only those shipping services that you need. Don’t keep all the services selected otherwise it creates a delay in retrieving shipping rates at the storefront.
 
-![Shipping method configuration](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/shippitone.webp)
+[![Shipping method configuration](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/shippitone.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/shippitone.webp)
 
 Moving on, the admin needs to configure the Shippit shipping method.
 
 So, for this, either click on **Configure Shipping** or go to **Multi vendor marketplace admin panel** > **configuration** > **Shippit Configuration**
 
-![Shippit Shipping](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/shippittwo.webp)
+[![Shippit Shipping](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/shippittwo.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/shippittwo.webp)
 
 Configure Shippit
 -----------------
@@ -74,9 +74,9 @@ On the following page, configure the following details:
 
 *   **Shipping label cost is borne by:** Choose who will bear the shipping label charges, the admin, or the seller. (This is an extra cost apart from what the customer has paid.)
 
-![Shippit Configuration](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/shippitthree.webp)
+[![Shippit Configuration](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/shippitthree.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/shippitthree.webp)
 
-<!-- ![Shippit Configuration](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/12/testabc-1.webp) -->
+<!-- [![Shippit Configuration](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/12/testabc-1.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/12/testabc-1.webp) -->
 
 Configuration: Seller End
 -------------------------
@@ -85,23 +85,23 @@ Further, the Seller can configure Shippit from his/her panel.
 
 Go to **Multi vendor Marketplace Seller panel** > **Configuration** > **Shipping Methods configuration**\> **Enable** the Shippit shipping:
 
-![Seller shipping method config](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/shippitfour.webp)
+[![Seller shipping method config](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/shippitfour.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/shippitfour.webp)
 
 Furthermore, the seller can set the shipping method as **by-default**, so that every single product created by him will have **Shippit** as the **default shipping method**.
 
-![Set as Default Shipping](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/shippitfive.webp)
+[![Set as Default Shipping](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/shippitfive.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/shippitfive.webp)
 
 ### In case the Admin has allowed the sellers to add their details:
 
 For this Admin will have to enable the "Allow Seller to Configure their own Shippit Account" from the Shippit configuration on the Admin Panel.
 
-![Seller Shippit config](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/shippitsix.webp)
+[![Seller Shippit config](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/shippitsix.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/shippitsix.webp)
 
 Once enabled the seller will have the Shippit Configuration option under the Configuration Menu on the Seller panel.
 
 Here, the seller can set up their Shippit account by entering the Shippit Api Key provided By Shippit.
 
-![Shipping API Key](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/shippitseven.webp)
+[![Shipping API Key](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/shippitseven.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/shippitseven.webp)
 
  Set Default Shipping Method For Products
 -----------------
@@ -115,7 +115,7 @@ If not this, the seller can set the shipping method on individual products while
 
 So, go to Multi-vendor Marketplace Seller panel > Products >Product Listing > Add/Edit the Product:
 
-![Shipping method on product edit page](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/shippiteight.webp)
+[![Shipping method on product edit page](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/shippiteight.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/shippiteight.webp)
 
 **Important Points to Note:**
 
@@ -123,24 +123,24 @@ Configuring the global settings is crucial, as the system automatically uses the
 
 So, for this click on the Global Configuration menu:
 
-![Global config](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/globalconfigallsellerside.webp)
+[![Global config](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/globalconfigallsellerside.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/globalconfigallsellerside.webp)
 
 So, from here, the seller can do the Global configuration:
 
-![Global config](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/12/testtr.webp)
+[![Global config](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/12/testtr.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/12/testtr.webp)
 
 **NOTE**: It is mandatory to add product weight while creating one.
 
 Additionally, kindly mark the Required Shipping mandatory for all the products, if not marked for any product then the shipping will not the applied to that specific product.
 
-![Required Shipping](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/12/tets-1200x559.webp)
+[![Required Shipping](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/12/tets-1200x559.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/12/tets-1200x559.webp)
 
 Shopify Store Frontend
 ----------------------
 
 The customers will have the option to choose a shipping method based on the configurations set in the backend after providing their information.
 
-![Checkout page](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/12/checkout-4.webp)
+[![Checkout page](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/12/checkout-4.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/12/checkout-4.webp)
 
 #### Admin End Order detail page:
 
@@ -148,7 +148,7 @@ The admin can also check his or her shipping charges commission applied above th
 
 For this, Go to Admin Panel > Orders > Order Listing > Now view the order.
 
-![Admin shipping comission](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/12/ysb.webp)
+[![Admin shipping comission](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/12/ysb.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/12/ysb.webp)
 
 Order Fulfillment:
 ------------------
@@ -157,7 +157,7 @@ Once the order is placed, the seller will be fulfilling the order on the seller 
 
 Go to **Seller panel** > **Orders** > **Order Listing** > **View** (under **Action**). Select the method of order fulfillment as **Shippit** and fulfill the order.
 
-![Order Fulfillment by SHippit](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/12/ytes.webp)
+[![Order Fulfillment by SHippit](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/12/ytes.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/12/ytes.webp)
 
 _Note: The rates shown during order fulfillment changes and appear differently in the Shippit dashboard after the order is placed._
 
@@ -167,12 +167,12 @@ Once the order is fulfilled the seller will be able to see the Tracking URL and 
 
 Also, Sellers will have the option to generate the shipping label from their seller panel. Also, shipping labels can only be generated for **fulfilled orders**.
 
-![Order detail page](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/12/rtest.webp)
+[![Order detail page](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/12/rtest.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/12/rtest.webp)
 
 Now, If the seller wants to download the Shipping label then click on Actions > Print Shipping Label:
 
-![Shipping label](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/12/oihf-1.webp)
+[![Shipping label](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/12/oihf-1.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/12/oihf-1.webp)
 
 Additionally, It is the same for the print Manifest, click on Actions > Print Manifest:
 
-![Manifest report](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/12/jkl-3.webp)
+[![Manifest report](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/12/jkl-3.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/12/jkl-3.webp)

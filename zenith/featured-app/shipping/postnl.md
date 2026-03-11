@@ -22,11 +22,11 @@ This feature app will charge you a minimal amount of **$10 per month** over and 
 ----------------------
 To enable this feature within your app, all you need to do is to visit the “**Featured Apps**” section of the admin panel and enable it from there.
 
-![Feature App-shipping](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/featuredapps.webp)
+[![Feature App-shipping](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/featuredapps.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/featuredapps.webp)
 
 Once you click on “Feature Apps”, you will get the list of apps listing in this section. Now, you can scroll down to get the **PostNL** feature and click on the **enable** button.
 
-![Screenshot-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/postn.webp)
+[![Screenshot-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/postn.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/postn.webp)
 
 Click the **Enable** button to activate the feature app.
 
@@ -42,7 +42,7 @@ Note:- You need to have an account on PostNL to configure the details in the app
 
 Before this, You need to visit the Shipping Configuration and **enable the PostNL Shipping** as shown in the below screenshot:
 
-![Screenshot-2020-07-02T131214.415](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/enablepostnl.webp)
+[![Screenshot-2020-07-02T131214.415](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/enablepostnl.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/enablepostnl.webp)
 
 As soon as you activate the PostNL Shipping, you can proceed to configure the PostNL details. Go to Configurations>>**PostNL Configuration**.
 
@@ -57,11 +57,11 @@ Holiday Sorting:\- You can enable this if you want the order to be delivered on 
 
 Select a country for the order shipment and language in which you want to show the tracking order details.
 
-![admin panel](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/postnlconfigadmin.webp)
+[![admin panel](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/postnlconfigadmin.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/postnlconfigadmin.webp)
 
 Once you configure these details, the sellers will also get the option to enable the PostNL shipping from the **Shipping Configuration** menu of their seller panel.
 
-![seller end](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/enablepostnlseller.webp)
+[![seller end](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/enablepostnlseller.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/enablepostnlseller.webp)
 
  Global Shipping Configuration
 ------------------------
@@ -72,7 +72,7 @@ The seller needs to enable this tab if he/she wants to handover the packet to th
 
 Moreover, the seller needs to configure the delivery details based on the shipment location.
 
-![Shipping_Configuration_Seller_•_Multivendor_MarketPlace-2](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/globalconfig.webp)
+[![Shipping_Configuration_Seller_•_Multivendor_MarketPlace-2](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/globalconfig.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/globalconfig.webp)
 
 Now, the shipping must be required for the products.
 
@@ -92,15 +92,15 @@ Seller needs to follow these steps to generate shipping labels:
 
 Clicking the Fulfill button, you need to select the PostNL as the shipping method.
 
-![Order_Details_Seller_•_Multivendor_MarketPlace-2](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/orderfullpage.webp)
+[![Order_Details_Seller_•_Multivendor_MarketPlace-2](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/orderfullpage.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/orderfullpage.webp)
 
 Select PostNL Shipping and choose the delivery date & time frame:
 
-![Order_Details_Seller_•_Multivendor_MarketPlace-3](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/07/Order_Details_Seller_%E2%80%A2_Multivendor_MarketPlace-3-763x1024.png)
+[![Order_Details_Seller_•_Multivendor_MarketPlace-3](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/07/Order_Details_Seller_%E2%80%A2_Multivendor_MarketPlace-3-763x1024.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/07/Order_Details_Seller_%E2%80%A2_Multivendor_MarketPlace-3-763x1024.png)
 
 Then, the seller will click "Agree and Fulfill" button.
 
-![Order_Details_Seller_•_Multivendor_MarketPlace-4](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/07/Order_Details_Seller_%E2%80%A2_Multivendor_MarketPlace-4-1200x590.png)
+[![Order_Details_Seller_•_Multivendor_MarketPlace-4](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/07/Order_Details_Seller_%E2%80%A2_Multivendor_MarketPlace-4-1200x590.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/07/Order_Details_Seller_%E2%80%A2_Multivendor_MarketPlace-4-1200x590.png)
 
  Allow Sellers to Select Delivery Method On Fulfillment
 ---------------------------
@@ -108,27 +108,27 @@ You can now allow your sellers to select a delivery method at the time of order 
 
 For this, you need to first enable the configuration from the **PostNL Configuration** menu on admin panel.
 
-![screenshot-prnt.sc-2021.04.09-11_55_19](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/04/screenshot-prnt.sc-2021.04.09-11_55_19-1200x561.png)
+[![screenshot-prnt.sc-2021.04.09-11_55_19](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/04/screenshot-prnt.sc-2021.04.09-11_55_19-1200x561.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/04/screenshot-prnt.sc-2021.04.09-11_55_19-1200x561.png)
 
 Now, once enabled, the seller will get the option to select shipping type while fulfilling an order.
 
-![Screenshot-2](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/04/Screenshot-2-1200x568.png)
+[![Screenshot-2](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/04/Screenshot-2-1200x568.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/04/Screenshot-2-1200x568.png)
 
 Items is fulfilled.
 
-![Order_Details_Seller_•_Multivendor_MarketPlace-5](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/07/Order_Details_Seller_%E2%80%A2_Multivendor_MarketPlace-5-1200x588.png)
+[![Order_Details_Seller_•_Multivendor_MarketPlace-5](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/07/Order_Details_Seller_%E2%80%A2_Multivendor_MarketPlace-5-1200x588.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/07/Order_Details_Seller_%E2%80%A2_Multivendor_MarketPlace-5-1200x588.png)
 
 Moreover, the seller will then print the Shipping Label.
 
-![Order_Details_Seller_•_Multivendor_MarketPlace-6](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/generateshiipinglabel.webp)
+[![Order_Details_Seller_•_Multivendor_MarketPlace-6](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/generateshiipinglabel.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/generateshiipinglabel.webp)
 
 **Shipping Label Generated:-**
 
-![PostNL Shipping](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/07/Screenshot-2020-07-02T194201.401.png)
+[![PostNL Shipping](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/07/Screenshot-2020-07-02T194201.401.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/07/Screenshot-2020-07-02T194201.401.png)
 
 Customers can track shipment for all the upcoming orders fulfilled via PostNL shipping.
 
-![ PostNL shipping](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/06/screenshot-prnt.sc-2021.06.22-17_18_51-1200x600.png)
+[![ PostNL shipping](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/06/screenshot-prnt.sc-2021.06.22-17_18_51-1200x600.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/06/screenshot-prnt.sc-2021.06.22-17_18_51-1200x600.png)
 
 That's all about the PostNL Shipping feature App.
 

@@ -41,11 +41,10 @@ Installation
 
 To install the **Multi-vendor Database Backup**, you need to go to admin panel >> 3dots >> feature app.
 
-![21-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/09/21-1-1200x456.png)
+[![21-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/databasefeat.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/databasefeat.webp)
 
 Now, search for it and click on the enable button to install the feature app.
 
-![screenshot_1694682819177](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/09/screenshot_1694682819177-1200x435.png)
 
 Configuration: **Multivendor Database Backup**
 ----------------------------------------------
@@ -63,13 +62,13 @@ Once the **Multi-vendor Database Backup** feature app is successfully installed,
 
 This section allows you to manage your backup settings and view available backup data.**.**
 
-![11-2](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/09/11-2-1200x507.png)
+[![11-2](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/databaseconf.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/databaseconf.webp)
 
 The process of creating the data backup here is known as the creation of instance.
 
 From this page you can create instance for the backup.
 
-![321](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/09/321-1200x514.png)
+[![321](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/databaseconfi.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/databaseconfi.webp)
 
 **Creating a Backup Instance**
 ------------------------------
@@ -92,7 +91,7 @@ The system will create a backup from the date you installed the Multivendor app 
 **Launch Title**:  
 Provide a relevant **title** for the backup instance. This will help you easily identify it later.
 
-![567](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/09/567-1200x547.png)
+[![567](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/databaseconfig.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/databaseconfig.webp)
 
 After creating an instance or the backup you will land on the **Multivendir Backup Instance** **page**
 

@@ -23,15 +23,15 @@ Visit your **Shopify backend** > **Setting** \> **Domains**.
 
 Select the Domain.
 
-![image](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/10/capture2-1200x472.webp)
+[![image](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/10/capture2-1200x472.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/10/capture2-1200x472.webp)
 
 Furthermore, you need to click on **Edit** **DNS Setting** from **Domain Setting.**
 
-![image](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/10/cap3-1200x575.webp)
+[![image](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/10/cap3-1200x575.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/10/cap3-1200x575.webp)
 
 Then select **CNAME record** from the drop-down options.
 
-![image](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/10/cna4.webp)
+[![image](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/10/cna4.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/10/cna4.webp)
 
 You need to enter the Name as something like 'seller,' 'vendor,' or 'marketplace,', etc depending on what you prefer to display.
 
@@ -42,7 +42,7 @@ If you enter '**vendor**' as the Host Name, your URL will be: **vendor.mystore.c
 
 And Point to: **sh-saas-ssl.webkul.com**
 
-![image](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/10/cnam1-1.webp)
+[![image](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/10/cnam1-1.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/10/cnam1-1.webp)
 
 Now, once this is done, the URL won’t work instantly. You need to inform us at support@webkul.com.
 
@@ -52,9 +52,9 @@ We will make the edits from our end, and then it will start working.
 
 You need to navigate to the DNS >> Records. Furthermore, Click on the Add Record. As mentioned in the image below.
 
-![image](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/10/cloud1-1200x471.webp)
+[![image](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/10/cloud1-1200x471.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/10/cloud1-1200x471.webp)
 
 Next, enter the required details, such as the **Name**, and set the **Target** to **sh-saas-ssl.webkul.com**. Make sure to **disable the proxy status**, as shown in the image below, and then click **Save**.
 
-![ssh](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/11/ssh-1200x602.webp)
+[![ssh](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/11/ssh-1200x602.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/11/ssh-1200x602.webp)
 

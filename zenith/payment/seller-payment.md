@@ -4,6 +4,7 @@ description: Seller-Payment Configuration
 date: 2025-06-27
 author: Chirag Tyagi
 ---
+
 **Shopify Multivendor Marketplace | Seller Payment Flow |**
 ---------------------------
 The [Multivendor Marketplace app for Shopify](/zenith/introduction/) is a great tool to convert your shop into a fully functioning marketplace,allowing you to manage seller payments .
@@ -44,17 +45,17 @@ Firstly, the admin needs to set up the payment methods for payments to the selle
 
 Admin end of Multivendor Marketplace app >> Payment >> Payment Method >> Enable the payment methods from here >> Save
 
-![payment](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/08/pay1-1200x498.webp)
+[![payment](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/02/sc1.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/02/sc1.webp)
 
-![Seller Payments](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/pays.webp)
+[![Seller Payments](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/pays.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/pays.webp)
 
 Now, the same payment methods will be available at the seller's end. The seller chooses the payment methods through which they want the admin to pay them.
 
 Seller end of Multivendor Marketplace app->> Profile->> Payment details->> Here choose any payment method from drop-down menu->> Save
 
-![payment](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/payt.webp)
+[![payment](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/payt.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/payt.webp)
 
-![payment](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/payfr.webp)
+[![payment](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/payfr.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/payfr.webp)
 
 The admin can edit or change the payment methods that the sellers add from their respective panels.
 
@@ -72,27 +73,27 @@ You will now have the option to pay the sellers **the whole amount of all the o
 
 Go to the **Multivendor Marketplace app** >>**Payment** >> **Seller Payment Configuration** >> Payment Setting >> Seller Payment Type >> Select the option and save
 
-![payment](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/pay5.webp)
+[![payment](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/pay5.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/pay5.webp)
 
-![payment](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/pay6.webp)
+[![payment](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/pay6.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/pay6.webp)
 
  Pay the total Amount
 ----------------------
-![payment](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/pay7.webp)
+[![payment](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/pay7.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/pay7.webp)
 
 Now, to pay to sellers, the admin needs to visit the “Seller Payments” section under the “payment” menu in the admin panel of the multivendor marketplace app
 
 The system will display a list of sellers on the redirected page. The admin can select the seller they wish to pay by clicking the 'View' button available under the three-dot menu.
 
-![pay 8](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/pay8.webp)
+[![pay 8](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/pay8.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/pay8.webp)
 
 After this, the admin needs to click on the ‘Pay’ button, which will redirect them to the Seller Payment Details page.
 
-![pay 9](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/pay9.webp)
+[![pay 9](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/pay9.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/pay9.webp)
 
 Here, the admin can first select the date range to fetch the seller's orders.
 
-![pay10](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/pay10.webp)
+[![pay10](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/pay10.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/pay10.webp)
 
 Then, after reviewing the list, they can manually choose the specific orders they want to pay for. Additionally, this step-by-step process ensures more control and flexibility over payments.
 
@@ -102,11 +103,11 @@ By default, the system automatically selects all transactions; **however**, the 
 
 After selecting the desired orders, the admin clicks on the ‘Pay’ button again.
 
-![pay11](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/pay11.webp)
+[![pay11](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/pay11.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/pay11.webp)
 
 A pop-up will appear, allowing the admin to choose a payment method and proceed to pay the seller.
 
-![pay12](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/pay12.webp)
+[![pay12](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/pay12.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/pay12.webp)
 
 The Payment page displays the selected orders' earnings and the unsettled amount.
 
@@ -116,13 +117,13 @@ Meanwhile, we also display the ‘Unsettled Amount’ to provide a clear breakdo
 
 This unsettled amount includes any refunded amounts or shipping label costs borne by the admin/seller. The system automatically handles these adjustments at the time of payment.
 
-![Seller Payments](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/pay13.webp)
+[![Seller Payments](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/pay13.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/pay13.webp)
 
 Below the ‘Unsettled Amount’, there is a ‘View’ option that allows the admin to see the detailed transactions related to the unsettled amount.
 
-![Seller Payments](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/08/unsettlement-amount-915x1024.webp)
+[![Seller Payments](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/02/sc3.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/02/sc3.webp)
 
-![Seller Payments](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/08/view-unsettle-amount-1200x569.webp)
+[![Seller Payments](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/02/sc5.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/02/sc5.webp)
 
 For example, if the seller owes $10 but a $7 refund was issued to a customer on their behalf,
 
@@ -149,11 +150,11 @@ After deducting the unsettled amount from the selected orders' earnings:
 
 *   Payouts -> This includes the payout transactions to the seller.
 
-![Seller Payments](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/pay16.webp)
+[![Seller Payments](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/pay16.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/pay16.webp)
 
 *   All Transactions -> this includes all the other transactions like order earnings added, order refunds, shipping label cost deducted, order edits, etc.
 
-![Seller Payments](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/pay17.webp)
+[![Seller Payments](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/pay17.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/pay17.webp)
 
 2\. Under the payouts transaction listing, the admin can view the details of records involved in the payout, i.e., order earnings and other unsettled amounts.
 
@@ -165,19 +166,19 @@ If you choose ‘Pay Order Wise’, it means you want to pay your sellers separa
 
 To make payments order-wise, the admin needs to navigate to the Multivendor Marketplace Admin Panel > Orders > Order Listing.
 
-![Seller Payments](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/pay18.webp)
+[![Seller Payments](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/pay18.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/pay18.webp)
 
 Next, carefully select the order you wish to pay for. Then, from the three-dot menu under the Action menu, click the ‘View’ button to proceed.
 
-![Seller Payments](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/pau19.webp)
+[![Seller Payments](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/pau19.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/pau19.webp)
 
 On the redirected page, you will find the ‘Pay to Seller’ option, through which the admin can process the payment.
 
-![Seller Payments](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/pay20.webp)
+[![Seller Payments](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/pay20.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/pay20.webp)
 
 A pop-up will appear, allowing the admin to choose a payment method and proceed to pay the seller.
 
-![Seller Payments](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/pay21.webp)
+[![Seller Payments](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/pay21.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/pay21.webp)
 
  **AUTO PAY**
 -----------------
@@ -206,21 +207,21 @@ Steps to Enable Scheduled Auto Pay:
 *   **Select Payout Transaction Type**  
     Choose the desired **Payout Transaction Type** that matches how you want to process payments to your sellers.
 
-![Seller Payments](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/pay22.webp)
+[![Seller Payments](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/pay22.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/pay22.webp)
 
 *   **Set the Payout Period**  
     You can define how frequently payments are made:
     *   **Daily** – Payments will be processed automatically **every day**.
 
-![Seller Payments](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/pay23.webp)
+[![Seller Payments](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/pay23.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/pay23.webp)
 
 *   Weekly – Once selected, you will then be prompted to specify a day (e.g., every Monday).
 
-![Seller Payments](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/pay24.webp)
+[![Seller Payments](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/pay24.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/pay24.webp)
 
 *   **Monthly** – You can **specify a date** (e.g., the 1st of each month) for payouts.
 
-![Seller Payments](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/pay25.webp)
+[![Seller Payments](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/pay25.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/pay25.webp)
 
 *   **Save the Changes**
 
@@ -245,7 +246,7 @@ To enable and use the **Add Seller Total Due Earning** setting, follow these sim
 
 *   Choose the desired condition from the drop-down menu to determine when the order amount should be considered as part of the seller’s **due earnings**.
 
-![Seller Payments](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/pay26.webp)
+[![Seller Payments](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/pay26.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/pay26.webp)
 
 **Available Options in the Drop-down Menu**:
 
@@ -280,7 +281,7 @@ To enable and use the **Enable Cashable Amount For Seller** setting, follow thes
 
 *   Scroll to find the **“**Enable Cashable Amount For Seller**”** option.
 
-![Seller Payments](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/pay27.webp)
+[![Seller Payments](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/pay27.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/pay27.webp)
 
 When the "Enable Cashable Amount For Seller" option is activated, the system will **thereafter** calculate and show **only** the earnings of those orders **for which** the refund period has expired.
 
@@ -316,9 +317,9 @@ Once the admin clicks on this button, the system displays the old pending paymen
 
 *   **Navigate to:** `Multivendor Admin Panel >> Payment >> Seller Payments` >> Three dots >> View
 
-![Seller payments](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/pay28.webp)
+[![Seller payments](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/pay28.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/pay28.webp)
 
 *   On the **right side of the screen**, click on **“View Previous Payments.”**
 
-![Seller payments](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/08/pay27-1200x497.webp)
+[![Seller payments](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/02/sc4.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/02/sc4.webp)
 

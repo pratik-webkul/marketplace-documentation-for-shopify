@@ -27,11 +27,11 @@ This feature app comes with the pricing of **$7 USD/month** in addition to your 
 --------------------
 To enable this feature app, first visit the Feature Apps section. Now, search for the "**Route Insurance**".
 
-![Dashboard-Admin-2](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/10/Dashboard-Admin-2-1200x597.png)
+[![Dashboard-Admin-2](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/10/Dashboard-Admin-2-1200x597.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/10/Dashboard-Admin-2-1200x597.png)
 
 Now, activate the Route Insurance feature app.
 
-![Screenshot-2020-10-07T105719.027](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/10/Screenshot-2020-10-07T105719.027.png)
+[![Screenshot-2020-10-07T105719.027](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/10/Screenshot-2020-10-07T105719.027.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/10/Screenshot-2020-10-07T105719.027.png)
 
 Click the “**Enable**” button.
 
@@ -39,11 +39,11 @@ Click the “**Enable**” button.
 
 As soon as you activate this feature app, you need to visit the admin panel Configuration>>**Route Insurance Configuration**\>>Enter Details>>Save.
 
-![Home-Admin-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/10/Home-Admin-1-1200x597.png)
+[![Home-Admin-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/10/Home-Admin-1-1200x597.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/10/Home-Admin-1-1200x597.png)
 
 Enter the Route Insurance Details.
 
-![Add-Route-Configuration-Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/10/Add-Route-Configuration-Admin-1200x799.png)
+[![Add-Route-Configuration-Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/10/Add-Route-Configuration-Admin-1200x799.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/10/Add-Route-Configuration-Admin-1200x799.png)
 
  How to Get Route Insurance Details?
 -------------------
@@ -51,18 +51,18 @@ To use this feature app, you need to have an account on [Route](https://dashboar
 
 *   Firstly, login to Route: [https://dashboard.route.com/login](https://dashboard.route.com/login)
 
-![Route](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/10/Route-1200x597.png)
+[![Route](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/10/Route-1200x597.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/10/Route-1200x597.png)
 
 *   Visiting the Route Dashboard, go to the **Admin** menu.
 *   In the Installation Details section, get the Public Token and Secret Token.
 
-![Route-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/10/Route-1-1200x627.png)
+[![Route-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/10/Route-1-1200x627.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/10/Route-1-1200x627.png)
 
 Get the details and configure in the app.
 
 Moreover, to make it work, You need to visit the Configuration>>**Order Configuration** menu and enable the "Mandate Order Tranking Number" tab.
 
-![Configuration-Admin-13](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/10/Configuration-Admin-13-1200x627.png)
+[![Configuration-Admin-13](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/10/Configuration-Admin-13-1200x627.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/10/Configuration-Admin-13-1200x627.png)
 
 Now, to show the "Insurance" option on the cart page, you need to add the codes provided in the app.
 
@@ -93,7 +93,7 @@ How does it work for Customers?
 
 As soon as customers will choose the "Insurance" option (a toggle checker) on the cart page, they will be able to view the price and then, will proceed for checkout.
 
-![Your-Shopping-Cart-–-JohnDoe2](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/10/Your-Shopping-Cart-%E2%80%93-JohnDoe2-1200x597.png)
+[![Your-Shopping-Cart-–-JohnDoe2](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/10/Your-Shopping-Cart-%E2%80%93-JohnDoe2-1200x597.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/10/Your-Shopping-Cart-%E2%80%93-JohnDoe2-1200x597.png)
 
 Now, once the customer enables the toggle checker on the cart page, a custom product gets added as insurance with some amount added to the total order amount.
 
@@ -101,7 +101,7 @@ Let say, Insurance amount is $5 then, a custom product with $5 gets added to the
 
 You will be able to view that custom product on the order details page in their backend and can easily recognize the insurance amount.
 
-![Information-JohnDoe2-Checkout](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/10/Information-JohnDoe2-Checkout-1200x597.png)
+[![Information-JohnDoe2-Checkout](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/10/Information-JohnDoe2-Checkout-1200x597.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/10/Information-JohnDoe2-Checkout-1200x597.png)
 
 This is how the Route Insurance Feature App works.
 

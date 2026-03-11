@@ -22,15 +22,15 @@ Features
 ----------------------
 To activate the Amazon Connector feature app, first, you need to visit the Feature Apps section of the Multivendor App.
 
-![Amazon1](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/ac1.webp)
+[![Amazon1](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/ac1.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/ac1.webp)
 
 You will find the feature app named 'Amazon Connector' there
 
-![Amazon2](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/ac2.webp)
+[![Amazon2](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/ac2.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/ac2.webp)
 
 Now, upon clicking on the enable button, you will need to choose the plan that suits your requirements.
 
-![Amazon3](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/ac3.webp)
+[![Amazon3](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/ac3.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/ac3.webp)
 
 Please proceed to authorize the additional charge for this feature app. Once we approve it, we will seamlessly integrate the feature into the Multivendor app.
 
@@ -40,15 +40,15 @@ Sync the changes to the marketplace once the sellers make updates in their Amazo
 
 For this, you need to visit the marketplace Admin panel >> configuration >> connector configuration
 
-![AMAZON4](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/ac4.webp)
+[![AMAZON4](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/ac4.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/ac4.webp)
 
 Here, you need to select the Amazon connector in the Choose Connector feature app
 
-![AMZON-5](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/ac5.webp)
+[![AMZON-5](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/ac5.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/ac5.webp)
 
 You can now choose the product details you wish the seller can manually sync from their Amazon seller central
 
-![Amazon6](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/ac6.webp)
+[![Amazon6](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/ac6.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/ac6.webp)
 
  **Charge Tax on Product**
 -------------------
@@ -58,7 +58,7 @@ You can choose to charge tax on products. You can choose whether to apply the ta
 
 Also, You can choose “not to charge taxes” on the products.
 
-![screenshot_1696849425967](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/ac7.webp)
+[![screenshot_1696849425967](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/ac7.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/ac7.webp)
 
  Amazon Configuration: Seller end
 -----------------------------
@@ -66,37 +66,37 @@ The vendor now needs to configure the Amazon credentials on their seller panel.
 
 They must visit the marketplace seller panel >> Configuration >> Amazon configuration for this.
 
-![image-a](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/ac8.webp)
+[![image-a](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/ac8.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/ac8.webp)
 
 Here, the sellers will need to enter the details in order to connect their Amazon seller central with the marketplace
 
-![imagec](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/ac9.webp)
+[![imagec](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/ac9.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/ac9.webp)
 
 The seller now needs to visit Amazon Seller Central to configure the following details.
 
 They need to go to menu >> partner network>> develop Apps
 
-![config-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/10/config-1.png)
+[![config-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/10/config-1.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/10/config-1.png)
 
 Now click on the "+add new app client" and add the new app client and provide the required permissions
 
-![screenshot_1697213927669](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/10/screenshot_1697213927669.png)
+[![screenshot_1697213927669](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/10/screenshot_1697213927669.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/10/screenshot_1697213927669.png)
 
 Once a new app client is added you will get the **App Id** and then you need to click on the Edit app
 
-![screenshot_1697214165933](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/10/screenshot_1697214165933.png)
+[![screenshot_1697214165933](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/10/screenshot_1697214165933.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/10/screenshot_1697214165933.png)
 
 Here, you will get the **Client identifier** and the **Client secret** which you need to paste into the marketplace seller panel
 
-![config3](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/10/config3.png)
+[![config3](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/10/config3.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/10/config3.png)
 
 Once the details are added, it will show like this
 
-![screenshot_1697040982033](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/10/screenshot_1697040982033-1200x586.png)
+[![screenshot_1697040982033](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/10/screenshot_1697040982033-1200x586.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/10/screenshot_1697040982033-1200x586.png)
 
 The other details that need to be configured here are -
 
-![screenshot_1697040772363](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/10/screenshot_1697040772363-1200x586.png)
+[![screenshot_1697040772363](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/10/screenshot_1697040772363-1200x586.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/10/screenshot_1697040772363-1200x586.png)
 
 **Region:** The region in which the Amazon marketplace of the seller is operational i.e Europe, North America or the Far East.
 
@@ -114,33 +114,33 @@ Amazon provides reports and on the basis of their reports we can import the prod
 
 To import reports from Amazon Seller Central, click on the Import Reports option
 
-![screenshot_1697041113905](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/10/screenshot_1697041113905-1200x586.png)
+[![screenshot_1697041113905](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/10/screenshot_1697041113905-1200x586.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/10/screenshot_1697041113905-1200x586.png)
 
 On clicking the import reports button, the seller will be redirected to the page where they can import the products on the basis of time duration.
 
-![screenshot_1697041167271](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/10/screenshot_1697041167271-1200x586.png)
+[![screenshot_1697041167271](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/10/screenshot_1697041167271-1200x586.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/10/screenshot_1697041167271-1200x586.png)
 
 Once the report is imported into the marketplace seller panel, the seller can view the reports by clicking on the "view reports" button
 
-![screenshot_1697041224199](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/10/screenshot_1697041224199-1200x586.png)
+[![screenshot_1697041224199](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/10/screenshot_1697041224199-1200x586.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/10/screenshot_1697041224199-1200x586.png)
 
 The seller will get the list of all the reports that they have imported from Amazon Seller Central here.
 
 The seller can click on the three dots "..." for the selected report and click on the "view" option in order to view the products imported into that report
 
-![screenshot_1697041472524](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/10/screenshot_1697041472524-1200x586.png)
+[![screenshot_1697041472524](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/10/screenshot_1697041472524-1200x586.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/10/screenshot_1697041472524-1200x586.png)
 
 Click on the "create product" option to create the product into the marketplace seller and Admin panel.
 
-![screenshot_1697041428611](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/10/screenshot_1697041428611-1200x586.png)
+[![screenshot_1697041428611](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/10/screenshot_1697041428611-1200x586.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/10/screenshot_1697041428611-1200x586.png)
 
 You can also create them in bulk by selecting the products and clicking on the bulk action button.
 
-![screenshot_1697041399813](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/10/screenshot_1697041399813-1200x586.png)
+[![screenshot_1697041399813](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/10/screenshot_1697041399813-1200x586.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/10/screenshot_1697041399813-1200x586.png)
 
 Now, the product will be created in the Admin panel, where the Admin can enable them.
 
-![screenshot_1697042153827](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/10/screenshot_1697042153827-1200x586.png)
+[![screenshot_1697042153827](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/10/screenshot_1697042153827-1200x586.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/10/screenshot_1697042153827-1200x586.png)
 
  Product Update
 ---------------------------------
@@ -148,13 +148,13 @@ Once the product is created in the marketplace panel, the sellers will then have
 
 Using this option the sellers can sync the changes made in the Amazon seller central to their marketplace manually.
 
-![screenshot_1697100476054](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/10/screenshot_1697100476054-1200x586.png)
+[![screenshot_1697100476054](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/10/screenshot_1697100476054-1200x586.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/10/screenshot_1697100476054-1200x586.png)
 
  Connector Price Rule & Currency Conversion
 -----------------------
 Seller will select the Seller Sync App from the drop-down menu for currency conversion & price rule:
 
-![screenshot_1697042797316](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/10/screenshot_1697042797316-1200x586.png)
+[![screenshot_1697042797316](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/10/screenshot_1697042797316-1200x586.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/10/screenshot_1697042797316-1200x586.png)
 
 **CURRENCY CONVERSION**
 
@@ -162,7 +162,7 @@ If the currency of your seller’s store is different from the currency you set 
 
 Accordingly, your seller’s product price is calculated once a customer places an order
 
-![screenshot_1697042908998](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/10/screenshot_1697042908998-1200x586.png)
+[![screenshot_1697042908998](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/10/screenshot_1697042908998-1200x586.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/10/screenshot_1697042908998-1200x586.png)
 
 **PRICE RULE**
 
@@ -173,4 +173,4 @@ In the price rule menu, the seller can create a price rule to manage the price o
 *   Select the Price change, either fixed or percentage.  
     Enter the amount of how much the sellers want to increase or decrease the price.
 
-![screenshot_1697042967585](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/10/screenshot_1697042967585-1200x586.png)
+[![screenshot_1697042967585](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/10/screenshot_1697042967585-1200x586.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/10/screenshot_1697042967585-1200x586.png)

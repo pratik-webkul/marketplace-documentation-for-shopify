@@ -28,15 +28,15 @@ To enable this Ecom Express Shipping feature of the Multivendor app, just click 
 
 There, you will get "**Feature Apps**". Click on it and scroll down to get the "Ecom Express Shipping" featured app.
 
-![feature Apps](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/featuredapps.webp)
+[![feature Apps](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/featuredapps.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/featuredapps.webp)
 
 Now, tap the enable button and proceed further to accept the payment for this feature.
 
-![Screenshot-52](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/ecomexpress.webp)
+[![Screenshot-52](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/ecomexpress.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/ecomexpress.webp)
 
 Once you click on approve charges, you will add up $10 per month additionally in your current Multivendor Marketplace plan.
 
-![agree with plan](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/activate.webp)
+[![agree with plan](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/activate.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/activate.webp)
 
 Once you pay for the app, two new menus will appear in the configuration section of the admin panel. Ecom Express Configuration and Cancel Reason Configuration.
 
@@ -46,11 +46,11 @@ Let us understand them one by one.
 -------------------
 As soon as you enable the feature app, two new menus get added to the configuration menu of the app.
 
-![admin end](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/02/Dashboard-Admin-1200x619.png)
+[![admin end](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/02/Dashboard-Admin-1200x619.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/02/Dashboard-Admin-1200x619.png)
 
 To configure the Ecom Express Shipping, the admin will enter his own Ecom shipping details such as **Ecom ID** and **Ecom password**.
 
-![ecom details](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/config.webp)
+[![ecom details](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/config.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/config.webp)
 
 **PLEASE NOTE:- To get the Ecom User ID and Password, you need to contact [Ecom Express](https://ecomexpress.in/).**
 
@@ -58,31 +58,31 @@ To configure the Ecom Express Shipping, the admin will enter his own Ecom shippi
 ------------------------
 Here, you can add the reason for the cancellation of the order. Now, once a seller proceeds to fulfill an order from his/her seller panel, he/she can anytime cancel the order if required. Just the seller needs to select the reason for the order cancellation.
 
-![Order cancellation](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/cancel.webp)
+[![Order cancellation](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/cancel.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/cancel.webp)
 
 Once you click the "Add Cancel Button", a page appears. There, you can add or edit the cancel reasons as well as enable or disable it accordingly. If you disable the order cancel reason, it will not be visible to the seller while canceling an order.
 
-![Add-Cancel-Reason-Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/cancelconfig.webp)
+[![Add-Cancel-Reason-Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/cancelconfig.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/cancelconfig.webp)
 
 Admin can also view, edit or delete the existing order cancel reason from the action menu.
 
 Dashboard>>Configuration>>**Cancel Reason Configuration**\>>Click **Action** (in order cancel reason section)>>There, you can view,edit or delete the reason for order cancellation.
 
-![cancel reasons](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/editcancelreason.webp)
+[![cancel reasons](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/editcancelreason.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/editcancelreason.webp)
 
  Seller Panel
 -------------------
 Once a customer places an order, the seller can use this Ecom shipping feature to fulfill the customer order. To do so, the seller needs to visit the **order** section of the Multivendor app where he can view the order details from the action menu.
 
-![Order-Seller-•-Multivendor-MarketPlace-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/sellerorder.webp)
+[![Order-Seller-•-Multivendor-MarketPlace-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/sellerorder.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/sellerorder.webp)
 
 Dashboard of seller panel>>**Orders**\>>Orders Listing>>Click **view** (in Action menu).
 
-![Order-Details-Seller-•-Multivendor-MarketPlace](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/orderfullpage.webp)
+[![Order-Details-Seller-•-Multivendor-MarketPlace](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/orderfullpage.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/orderfullpage.webp)
 
 Now, clicking the Fulfill/Cancel button, the seller will get the option to choose whether he/she wants to **confirm** or **cancel** the order.
 
-![order details](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/confirmcancel.webp)
+[![order details](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/confirmcancel.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/confirmcancel.webp)
 
 If the seller clicks the confirm button, the order gets confirmed.
 
@@ -93,7 +93,7 @@ The customer will get the notification for the same.
 
 Now, as the seller clicks the save button after canceling the order, the product details will appear (as shown in the screenshot).
 
-![cancelled](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/Screenshotff.png)
+[![cancelled](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/Screenshotff.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/Screenshotff.png)
 
  FULFILLMENT DETAILS
 -------------------
@@ -101,21 +101,21 @@ Once the seller confirms the order and fulfills it on his end (order status show
 
 "Edit Tracking" and "Enter Delivery Details".
 
-![edit tracking](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/Screenshotfff.png)
+[![edit tracking](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/Screenshotfff.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/Screenshotfff.png)
 
 Here, you will have the fulfillment details of the product order.
 
 Click the "Edit Tracking" button to make the change in the the tracking number or shipping method of the order.
 
-![Track](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/Screenshotsss-1.png)
+[![Track](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/Screenshotsss-1.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/Screenshotsss-1.png)
 
 Click the "Enter Delivery Details" button to view the number of fulfilled products.
 
 You can also set the delivery status to "Delivered" from this button.
 
-![delivered](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/Screenshotdd-1.png)
+[![delivered](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/Screenshotdd-1.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/Screenshotdd-1.png)
 
-![Ecom Express Shipping](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/Screenshotde.png)
+[![Ecom Express Shipping](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/Screenshotde.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/Screenshotde.png)
 
 That is how the Ecom Express Shipping feature app works to manage the order fulfillment in a more efficient way.
 

@@ -25,11 +25,11 @@ Let's understand how it works.
 ---------------------------
 You can enable this feature simply from the "Feature Apps" section of the multivendor app.
 
-![GST Feature](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/ig1.webp)
+[![GST Feature](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/ig1.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/ig1.webp)
 
 Here, you will get the Indian GST feature after clicking on "Feature Apps". Just click on the enable button to activate this feature.
 
-![Screenshot-55](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/ig2.webp)
+[![Screenshot-55](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/ig2.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/ig2.webp)
 
 Once you click on the "Enable" button, you need to agree with the plan and approve the charge
 
@@ -39,19 +39,19 @@ Which will add up $5 per month over and above the monthly plan of your Multivend
 --------------
 **SELLER PANEL**
 
-![GST Configuration](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/ig3.webp)
+[![GST Configuration](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/ig3.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/ig3.webp)
 
 Once you enable this feature, the seller will manage all its functions. Firstly, the seller will have to visit the "GST Configuration" section of the seller panel and enable the required settings.
 
 Here, the seller needs to fill the details to add GST fields on the product page. In order to configure it, he/she needs to enable GST and fill the GST identification number.
 
-![Configure GST](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/ig4.webp)
+[![Configure GST](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/ig4.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/ig4.webp)
 
-![Add Products GST](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/ig5.webp)
+[![Add Products GST](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/ig5.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/ig5.webp)
 
 Once the seller configures this, he can enter all the GST components while adding any product. These GST details include HSN, CGST, SGST values which are needed to be filled.
 
-![Multivendor App-Add GST Details](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/ig6.webp)
+[![Multivendor App-Add GST Details](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/ig6.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/ig6.webp)
 
 **INVOICE**
 
@@ -59,7 +59,7 @@ These GST details will be visible in the seller to the customer invoice configur
 
 Dashboard>>Orders>>Invoice Configuration>>All GST component details will be visible once the admin configures the invoice as "Seller to Customer".
 
-![Multivendor GST](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/ig7.webp)
+[![Multivendor GST](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/ig7.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/ig7.webp)
 
 The same reflects like this.
 
@@ -69,13 +69,13 @@ You will now have an option to configure CESS in Seller To Customer order invoic
 
 Once enabled, you will have an option to select states for which you need to enable CESS.
 
-![image](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/ig8.webp)
+[![image](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/ig8.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/ig8.webp)
 
 **ON PRODUCT PAGE**
 
 You can also configure CESS on product page while adding/editing any product.
 
-![image](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/ig9.webp)
+[![image](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/ig9.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/ig9.webp)
 
 **Note**:- To make the CESS option visible on the product page, make sure that the seller has enabled the GST feature from the seller panel.
 
@@ -83,7 +83,7 @@ Also, make sure you have enabled CESS option from the Invoice Settings.
 
 Now, this is how the CESS appears in the Seller To Customer Invoice:-
 
-![image](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/06/screenshot-prnt.sc-2021.06.09-12_55_37-1200x549.png)
+[![image](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/06/screenshot-prnt.sc-2021.06.09-12_55_37-1200x549.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/06/screenshot-prnt.sc-2021.06.09-12_55_37-1200x549.png)
 
 In this way, seller can declare his product price inclusive of GST and other taxes.
 

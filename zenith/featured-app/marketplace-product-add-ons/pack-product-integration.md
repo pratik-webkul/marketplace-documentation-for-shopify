@@ -37,7 +37,7 @@ Let's see how to configure this in the app.
 -------------
 To enable the feature app, visit the featured apps section of the Multivendor Marketplace for Shopify.
 
-![759ee1cb-5cbb-4a57-852c-2f9a17885d6e](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/aaaa.webp)
+[![759ee1cb-5cbb-4a57-852c-2f9a17885d6e](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/aaaa.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/aaaa.webp)
 
 And activate the "Pack Product Integration" feature app.  
 NOTE:- Make sure that you have enabled the [Pack & Combo product App](https://app-sp.webkul.com/pack-combo-product/index.php?p=landing_page) on your Shopify store.
@@ -53,11 +53,11 @@ As soon as you enable the feature app, two new sub-menus get added to the Produc
 
 Visit the Multi-vendor admin panel>>Products>>Click **Pack Product**.
 
-![60a9e693-19cc-466f-9f5a-3e4d349752e1](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/bbbb.webp)
+[![60a9e693-19cc-466f-9f5a-3e4d349752e1](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/bbbb.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/bbbb.webp)
 
 Now, Click the Create Pack button on the top right corner of the page.
 
-![24fd2975-6669-40b0-9763-517901b1ed60](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/cccc.webp)
+[![24fd2975-6669-40b0-9763-517901b1ed60](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/cccc.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/cccc.webp)
 
 Clicking the Create Pack button, a form appears to enter the details for your new bundle product. Following are the details you need to enter:-
 
@@ -69,7 +69,7 @@ Clicking the Create Pack button, a form appears to enter the details for your ne
 *   Add bundle product description, tags, collection & Images.  
     
 
-![0f304475-18f2-472f-b755-265ab7c44270](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/dddd.webp)
+[![0f304475-18f2-472f-b755-265ab7c44270](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/dddd.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/dddd.webp)
 
 This is how you can add pack products and let customers purchase products in just one package.
 
@@ -80,11 +80,11 @@ How To Add Combo Products?
 
 To add combo products to the app, Visit the Multi-vendor admin panel>>Go to Products>>Click Combo Products.
 
-![4aaa3d6b-0c70-4dea-adfc-ebff7b38cd67](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/eeee.webp)
+[![4aaa3d6b-0c70-4dea-adfc-ebff7b38cd67](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/eeee.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/eeee.webp)
 
 Now, enter the details of your Combo product including Combo product name, product description, tags.
 
-![e0dc822e-6bc7-4e9c-8341-e72c041c5ca9](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/fff.webp)
+[![e0dc822e-6bc7-4e9c-8341-e72c041c5ca9](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/fff.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/fff.webp)
 
 Save The Changes.
 
@@ -94,15 +94,15 @@ The same way, sellers can add the Pack & Combo products from their seller panels
 ------------
 The sellers will also get the new sub-menus added to the Products menu of the seller panel i.e. Pack Product & Combo products.
 
-![66e8250e-c8e2-4e71-963c-22dbce66e511](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/gggg.webp)
+[![66e8250e-c8e2-4e71-963c-22dbce66e511](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/gggg.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/gggg.webp)
 
 Seller can add pack products and get the list of all the pack products added. Seller can anytime edit the details of the pack product as well as disable and delete them.
 
-![cc761b16-ba8b-4ef2-a702-710a96cd31e5](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/hhh.webp)
+[![cc761b16-ba8b-4ef2-a702-710a96cd31e5](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/hhh.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/hhh.webp)
 
 Similarly, the sellers can add, edit, delete the combo products.
 
-![39ad406f-d4c9-449b-97cd-5b40c743b697](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/iiii.webp)
+[![39ad406f-d4c9-449b-97cd-5b40c743b697](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/iiii.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/iiii.webp)
 
 This is how both admin and sellers can add pack & combo products using the app.
 
@@ -114,17 +114,17 @@ In order to show the pack & combo product details, you as an admin need to make 
 
 The code instructions are provided as an Important Note in the Home Page of the Pack & Combo Product App.
 
-![2fbac3b7-1eb6-478c-801d-09a2d89b24bf](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/01/2fbac3b7-1eb6-478c-801d-09a2d89b24bf-1200x584.png)
+[![2fbac3b7-1eb6-478c-801d-09a2d89b24bf](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/01/2fbac3b7-1eb6-478c-801d-09a2d89b24bf-1200x584.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/01/2fbac3b7-1eb6-478c-801d-09a2d89b24bf-1200x584.png)
 
 After you add the codes, this is how the products appear on your store front.
 
 Pack/Bundle Product
 
-![30c51419-dde8-4fd1-86b6-81712a9bdb14](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/01/30c51419-dde8-4fd1-86b6-81712a9bdb14-1200x584.png)
+[![30c51419-dde8-4fd1-86b6-81712a9bdb14](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/01/30c51419-dde8-4fd1-86b6-81712a9bdb14-1200x584.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/01/30c51419-dde8-4fd1-86b6-81712a9bdb14-1200x584.png)
 
 Combo Products
 
-![43846a81-7418-4225-b638-d614970f3838](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/01/43846a81-7418-4225-b638-d614970f3838-1200x584.png)
+[![43846a81-7418-4225-b638-d614970f3838](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/01/43846a81-7418-4225-b638-d614970f3838-1200x584.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/01/43846a81-7418-4225-b638-d614970f3838-1200x584.png)
 
 ### DEMO DETAILS
 

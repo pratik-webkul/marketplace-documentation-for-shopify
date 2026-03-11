@@ -22,15 +22,15 @@ So let's understand its workflow:
 --------------
 Firstly you need to Enable "Weglot Translation" from the 'Feature Apps' section by clicking on the (...) three dots on the top right-hand side of the main menu.
 
-![Weglot Translation](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/10/first.webp)
+[![Weglot Translation](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/10/first.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/10/first.webp)
 
 After enabling the " Weglot Translation" you need to click on the agree button.
 
-![Weglot Translation](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/we2.webp)
+[![Weglot Translation](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/we2.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/we2.webp)
 
 Once you will click on "Agree Button" you will be redirected to the "Weglot" Sign Up page and there you need to register on Weglot and need to get an API key to have your app in multiple languages.
 
-![image-14](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/07/image-14-1200x597.png)
+[![image-14](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/07/image-14-1200x597.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/07/image-14-1200x597.png)
 
 After signup to "Weglot", you will get an email for verification. Further, follow these steps: [https://weglot.com/documentation/setup-guides/generic-setup-guide/](https://weglot.com/documentation/setup-guides/generic-setup-guide/)
 
@@ -46,13 +46,13 @@ You also need to keep the default language is English.
 
 Go to the Admin Panel>>Click the **Configuration** menu>>**Scroll down** and click the **Weglot Configuration**\>> Enter "API KEY" >>fill the rest details>> Save.
 
-![weglot](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/we3.webp)
+[![weglot](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/we3.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/we3.webp)
 
-![Weglot Translation](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/we4.webp)
+[![Weglot Translation](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/we4.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/we4.webp)
 
 Hence, a menu with the selected languages will be visible on the bottom corner in the right-hand side as shown in the below screenshot.
 
-![Weglot Translation](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/h-3.png)
+[![Weglot Translation](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/h-3.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/h-3.png)
 
 So now just change the language of your Multivendor Marketplace app at your convenience.
 

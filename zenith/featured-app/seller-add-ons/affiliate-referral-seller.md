@@ -23,7 +23,7 @@ Once activated, nonprofit organizations or affiliates will have access to a sepa
 
 To enable this app, go to the Multivendor Marketplace Admin Panel, hover over the three dots, and select "Featured Apps." From there, you can search for and activate the Affiliate/Referral Seller app.
 
-![Affiliate/Referral Seller App](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/11/refo-1200x539.webp)
+[![Affiliate/Referral Seller App](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/oneaffiliateslr.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/oneaffiliateslr.webp)
 
 Once you activate the featured app, you'll need to approve an additional charge of 10 USD per month.
 
@@ -33,13 +33,13 @@ This fee will be added to the existing Multivendor Marketplace app charges, allo
 ---------------------
 Once the app is activated, you can easily configure it by navigating to the "Configuration" menu and then selecting "Affiliate/Referral Configuration."
 
-![Affiliate/Referral Seller](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/11/reftwo-1200x536.webp)
+[![Affiliate/Referral Seller](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/twoaffiliateslr.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/twoaffiliateslr.webp)
 
 You can enable the option for sellers to sign up as affiliates or referrers within the marketplace.
 
 This feature allows sellers to promote products and earn commissions on sales generated through their referrals, increasing their earning potential and driving more traffic to the platform.
 
-![Affiliate/Referral Seller](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/11/refthree-1200x583.webp)
+[![Affiliate/Referral Seller](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/threeaffiliateslr.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/threeaffiliateslr.webp)
 
 You can share a percentage of your earnings or commission with a nonprofit organization or affiliates, based on your preferred setting.
 
@@ -47,11 +47,11 @@ You can share a percentage of your earnings or commission with a nonprofit organ
 -----------------
 Nonprofit organizations or affiliates can register through the seller signup page by selecting "Join as Affiliate Seller" from the dropdown menu.
 
-![Affiliate/Referral Seller](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/11/reffour-2-1137x1024.webp)
+[![Affiliate/Referral Seller](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/11/reffour-2-1137x1024.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/11/reffour-2-1137x1024.webp)
 
 After completing the signup, they will have access to their dedicated panel, where they can track affiliate orders, monitor commissions, and manage payment details.
 
-![Affiliate/Referral Seller](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/11/reffive-1200x570.webp)
+[![Affiliate/Referral Seller](http://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/fouraffiliateslr.webp)](http://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/fouraffiliateslr.webp)
 
 Profile
 -------
@@ -66,13 +66,13 @@ From this section, they can easily share their affiliate code with sellers who w
 
 The admin can allocate a portion of the earnings from sales made through the affiliate code used by sellers in their profiles and product listings.
 
-![Affiliate/Referral Seller](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/11/refsix-1200x574.webp)
+[![Affiliate/Referral Seller](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/fiveaffiliateslr.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/fiveaffiliateslr.webp)
 
  Payment Details
 -------------------
 Nonprofit organizations or affiliates can select and update their preferred payment details directly from their panel under the "Profile" and "Payment Details" sections.
 
-![Payment](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/11/refseven-1200x472.webp)
+[![Payment](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/sixaffiliateslr.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/sixaffiliateslr.webp)
 
 They can choose from any of the following payment methods to receive payments from the admin.
 
@@ -86,7 +86,7 @@ They can choose from any of the following payment methods to receive payments fr
 ---------------
 They can track sellers using their affiliate code in the "Affiliate Seller" section under the profile in their panel.
 
-![Affiliate](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/11/refeight-2-1200x403.webp)
+[![Affiliate](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/sevenaffiliateslr.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/sevenaffiliateslr.webp)
 
 By clicking the "View in Store" button under the Action tab, they can access all the products and profiles of the respective seller.
 
@@ -94,7 +94,7 @@ By clicking the "View in Store" button under the Action tab, they can access all
 --------------
 Sellers can add a nonprofit organization or affiliate’s referral code in the 'Affiliate Details' section under 'My Account'.
 
-![Affiliate](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/11/refnine-1200x572.webp)
+[![Affiliate](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/eightaffiliateslr.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/eightaffiliateslr.webp)
 
 They can specify the commission rate charged by the admin on their products. Based on this rate, the admin can allocate a portion to the nonprofit or affiliate organization.
 
@@ -108,7 +108,7 @@ You can view and manage seller payments by navigating to the Admin Panel.
 
 From there, they can go to **Payment > Seller Payment** to see the payment details, send payments to affiliate sellers, and update the payment status.
 
-![Affiliate Seller payment](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/11/reften-1200x574.webp)
+[![Affiliate Seller payment](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/nineaffiliateslr.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/nineaffiliateslr.webp)
 
 By clicking the "View" button, you can easily access and manage the payment details of a specific seller.
 

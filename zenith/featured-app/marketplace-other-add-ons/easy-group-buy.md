@@ -23,11 +23,11 @@ Let’s dig deeper and know the app configurations.
 --------------------
 First, the admin needs to enable the Easy Group buy feature app by navigating to the feature apps section
 
-![Enable group buy feature app](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/02/enableapp-1200x530.webp)
+[![Enable group buy feature app](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/02/enableapp-1200x530.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/02/enableapp-1200x530.webp)
 
 If you haven’t already installed the [Easy Group Buying app for Shopify](https://webkul.com/blog/shopify-group-buy-app-documentaion/) in your store, you will be asked to install it first.
 
-![enable group buy feature app](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/02/groupbuy-1200x606.webp)
+[![enable group buy feature app](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/02/groupbuy-1200x606.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/02/groupbuy-1200x606.webp)
 
  **Admin Shopify Configuration:**
 --------------------
@@ -45,13 +45,13 @@ You can add it directly to the theme. **After installing** the app on the store,
 
 **Additionally,** you can either set this as the default option for all products **or** look for the specific product applicable for buying in groups **and then** add the block accordingly.
 
-![code pasting](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/02/codepasting.webp)
+[![code pasting](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/02/codepasting.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/02/codepasting.webp)
 
 This is how the block will appear on the page, you can easily drag and adjust the block from the left-hand menu options.
 
 The effects are shown, **allowing** you to easily decide where to add the app block.
 
-![code pasting for app](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/02/codepastingblock.webp)
+[![code pasting for app](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/02/codepastingblock.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/02/codepastingblock.webp)
 
 #### **Method 2 :**
 
@@ -69,11 +69,11 @@ Code to display “Group Buy Account” include in the **account.liquid** file o
 ```
  **Group Buy Product Listing**:-
 -----------------
-![Group Buy product listing](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/02/productlisting.webp)
+[![Group Buy product listing](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/02/productlisting.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/02/productlisting.webp)
 
 On **Product Page:**–
 
-![Product page](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/02/productpage.webp)
+[![Product page](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/02/productpage.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/02/productpage.webp)
 
 On the storefront, the customers will have two options whether to create a new group or join an existing group.
 
@@ -88,11 +88,11 @@ In this case, anyone can create groups and purchase the “group buy product”.
 
 Then, click the **Create Group & Buy** button and proceed to purchase the product.
 
-![Public group](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/02/customerend.webp)
+[![Public group](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/02/customerend.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/02/customerend.webp)
 
 The customer can Join the existing groups and buy products.
 
-![customer end view](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/02/privategroup.webp)
+[![customer end view](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/02/privategroup.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/02/privategroup.webp)
 
  **CASE 2: Private Group**
 -----------------
@@ -102,7 +102,7 @@ Clicking the Create Group button, the customer will enter the group name, ente
 
 **After that,** click the **Create Group & Buy** button **and then** proceed to purchase the product.
 
-![customer end view](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/02/privategroup-1.webp)
+[![customer end view](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/02/privategroup-1.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/02/privategroup-1.webp)
 
  **Customer end**
 ---------------
@@ -112,17 +112,17 @@ For customer end-related details kindly refer to this link: [Customer End- User 
 ------------
 Sellers can add products for buying in groups by navigating to **Product>>product listing>> Add group buy**
 
-![Add group buy product](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/02/addgroupbuy-1200x575.webp)
+[![Add group buy product](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/02/addgroupbuy-1200x575.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/02/addgroupbuy-1200x575.webp)
 
 Set group buy **duration, discount**, and **member limit**.
 
-![Edit Products](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/02/addgroupbuyproduct-1012x1024.webp)
+[![Edit Products](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/02/addgroupbuyproduct-1012x1024.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/02/addgroupbuyproduct-1012x1024.webp)
 
 You can see and edit products added to the groups by navigating to Product >> Group Buy Products.
 
-![Edit Group Buy Products](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/02/groupbuyproducts-1200x575.webp)
+[![Edit Group Buy Products](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/02/groupbuyproducts-1200x575.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/02/groupbuyproducts-1200x575.webp)
 
 You can access groups by navigating to Product >> Group Buy Groups.
 
-![Groups listing page](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/02/grouplisting-1200x575.webp)
+[![Groups listing page](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/02/grouplisting-1200x575.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/02/grouplisting-1200x575.webp)
 

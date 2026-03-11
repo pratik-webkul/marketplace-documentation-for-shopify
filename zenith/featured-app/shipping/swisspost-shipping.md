@@ -26,7 +26,7 @@ SWISS POST FEATURE APP IS AVAILABLE **ONLY FOR FULFILLMENT**.
 ----------------------
 To enable the feature app, all you need to do is to visit the “**Featured Apps**” section of the admin panel and enable it from there.
 
-![Feature App-shipping](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/featuredapps.webp)
+[![Feature App-shipping](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/featuredapps.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/featuredapps.webp)
 
 Once you click on “Feature Apps”, you will get the list of apps listing in this section. There, You will get the Swiss Post feature. You just need to click the **enable** button.
 
@@ -41,15 +41,15 @@ Once you enable this feature app, a new sub-menu gets added in the Configuration
 
 Before this, You need to visit the Configuration>>Shipping Methods and **enable the Swiss Post Shipping** as shown in the below screenshot:
 
-![Dashboard-Admin-5](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/dashboardshippingmethods.webp)
+[![Dashboard-Admin-5](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/dashboardshippingmethods.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/dashboardshippingmethods.webp)
 
 Enable the Swiss Post Shipping:-
 
-![Configuration-Admin-30](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/enableswisspost.webp)
+[![Configuration-Admin-30](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/enableswisspost.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/enableswisspost.webp)
 
 Now, proceed to configure Swiss Post details
 
-![Configuration-Admin-31](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/swisspostconfigone.webp)
+[![Configuration-Admin-31](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/swisspostconfigone.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/swisspostconfigone.webp)
 
 Swiss Post Configuration
 ------------------------
@@ -60,7 +60,7 @@ Moreover, to allow sellers to generate the shipping labels automatically on fu
 
 Receive Parcel To Your Address:- In case you want to receive the parcel at your address, you need to enable the tab and enter the address for which you want to generate the shipping label.
 
-![Swisspost-Configuration-Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/swisspostconfigtwo.webp)
+[![Swisspost-Configuration-Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/swisspostconfigtwo.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/swisspostconfigtwo.webp)
 
  Automatic Fulfilment
 ---------------------
@@ -70,7 +70,7 @@ Enable **AUTOMATIC FULFILLMENT** option in the Swiss Post Configuration menu in 
 
 _Note: High risk orders will not be auto fulfilled_.
 
-![Swisspost-Configuration-Admin-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/swisspostconfigthree.webp)
+[![Swisspost-Configuration-Admin-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/swisspostconfigthree.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/swisspostconfigthree.webp)
 
 #### Make **Shipping** **Address Phone Number** Mandatory
 
@@ -78,19 +78,19 @@ To use this feature add-on, the admin needs to make the **Shipping** **address
 
 To do this, You need to go to Shopify Backend > Settings > Checkout > Under Form Options, make the Shipping address phone number as **Required**.
 
-![J&T Express Shipping](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/09/demo-store-Checkout-Shopify-1200x597.png)
+[![J&T Express Shipping](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/09/demo-store-Checkout-Shopify-1200x597.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/09/demo-store-Checkout-Shopify-1200x597.png)
 
  Seller Panel
 ------------------
 Once you configure these details, the sellers will also get the option to enable the Swiss Post shipping from the **Shipping Configuration** menu of their seller panel.
 
-![Shipping-Configuration-Seller-•-Multivendor-MarketPlace-7](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/sellerenableswisspost.webp)
+[![Shipping-Configuration-Seller-•-Multivendor-MarketPlace-7](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/sellerenableswisspost.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/sellerenableswisspost.webp)
 
 In case, the sellers need to configure the shipping parcel details, this can be done from the Global Shipping Configuration:-
 
 Configure Width, height, length, girth, and weight.
 
-![Shipping-Configuration-Seller-•-Multivendor-MarketPlace-8](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/globalconfig.webp)
+[![Shipping-Configuration-Seller-•-Multivendor-MarketPlace-8](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/globalconfig.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/globalconfig.webp)
 
 Now, the seller can fulfill orders via the Swiss Post shipping courier service.
 
@@ -108,15 +108,15 @@ Seller needs to follow the below-given steps to generate shipping labels for ful
 
 Clicking the Fulfill button, you need to select the **Swiss Post** as the shipping method.
 
-![Screenshot-2020-12-14T191434.522](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/orderfullpage.webp)
+[![Screenshot-2020-12-14T191434.522](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/orderfullpage.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/orderfullpage.webp)
 
 The sellers can check the fulfillment details from the Order Listing section.
 
-![Order-Details-Seller-•-Multivendor-MarketPlace-5](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/12/Order-Details-Seller-%E2%80%A2-Multivendor-MarketPlace-5-1200x597.png)
+[![Order-Details-Seller-•-Multivendor-MarketPlace-5](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/12/Order-Details-Seller-%E2%80%A2-Multivendor-MarketPlace-5-1200x597.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/12/Order-Details-Seller-%E2%80%A2-Multivendor-MarketPlace-5-1200x597.png)
 
 Thus, the shipping label will be generated automatically for the fulfilled orders. Thus, the seller can easily print the shipping label.
 
-![Screenshot-2020-12-14T191909.121](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/12/Screenshot-2020-12-14T191909.121.png)
+[![Screenshot-2020-12-14T191909.121](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/12/Screenshot-2020-12-14T191909.121.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/12/Screenshot-2020-12-14T191909.121.png)
 
 DEMO
 ----

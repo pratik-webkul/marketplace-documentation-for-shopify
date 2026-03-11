@@ -32,14 +32,14 @@ Multivendor Marketplace Admin Panel > Configuration > Products Configuration:
 
 Here, enable the following option: ALLOW SELLERS TO SET MINIMUM PURCHASE QUANTITY PER PRODUCT. Further, you need to choose whether you want to set minimum purchase quantity for a product or for the variant.
 
-![Minimum Purchase Quantity Configuration](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/configminiqty.webp)
+[![Minimum Purchase Quantity Configuration](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/configminiqty.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/configminiqty.webp)
 
 Once it's done, let move to code pasting.
 
 For this visit:  
 Multivendor Marketplace Admin Panel > Configuration > Instructions for Marketplace
 
-![Minimum Purchase Quantity Code Pasting](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/codeminiqty.webp)
+[![Minimum Purchase Quantity Code Pasting](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/codeminiqty.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/codeminiqty.webp)
 
 Here, you'll have a code that you need to paste in the **product-template.liquid** file.
 
@@ -52,7 +52,7 @@ Search the file name and paste this code. Refer:
 ```liquid
     <div id="min_purchase_quantity_div" data-productid="{{ product.id }}"></div>
 ```
-![Minimum Purchase Quantity Code Pasting Steps](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/12/multivendor-marketplace-5-Edit-Debut-Shopify-2-1200x597.png)
+[![Minimum Purchase Quantity Code Pasting Steps](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/12/multivendor-marketplace-5-Edit-Debut-Shopify-2-1200x597.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/12/multivendor-marketplace-5-Edit-Debut-Shopify-2-1200x597.png)
 
 **Important Note:**
 
@@ -65,12 +65,12 @@ For this feature to work, you have to enable the **Quantity Selector** for your 
 *   Open the **Product Page** from the drop-down menu (refer to the image provided below).
 *   You will see the **Product pages** tab in the theme editor, click on that.
 
-![Minimum Purchase Quantity Frontend Configuartion](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/12/multivendor-marketplace-5-Customize-Debut-Shopify-1200x597.png)
+[![Minimum Purchase Quantity Frontend Configuartion](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/12/multivendor-marketplace-5-Customize-Debut-Shopify-1200x597.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/12/multivendor-marketplace-5-Customize-Debut-Shopify-1200x597.png)
 
 *   Check the **Show quantity selector** checkbox.
 *   Click **Save**.
 
-![Minimum Purchase Quantity Frontend View](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/12/multivendor-marketplace-5-Customize-Debut-Shopify-1-1200x597.png)
+[![Minimum Purchase Quantity Frontend View](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/12/multivendor-marketplace-5-Customize-Debut-Shopify-1-1200x597.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/12/multivendor-marketplace-5-Customize-Debut-Shopify-1-1200x597.png)
 
  How to add minimum purchase quantity to a product?
 ------------------------------------
@@ -81,28 +81,28 @@ Multivendor Marketplace Admin/Seller Panel > Products > Add Product
 **In the case of minimum product purchase quantity:**  
 Under the heading **Inventory Details**, you'll have an option to set the quantity. Enter the quantity & save the changes. Refer:
 
-![Minimum Purchase Quantity Setup](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/miniqtyproduct.webp)
+[![Minimum Purchase Quantity Setup](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/miniqtyproduct.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/miniqtyproduct.webp)
 
 Next, **in the case of minimum variant purchase quantity:**  
 Multivendor Marketplace Admin/Seller Panel > Products > Under **Action**, click on **Edit** product > Under **Variant Details**, click on **Edit**.
 
-![Product-Admin-1-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/editminiqty.webp)
+[![Product-Admin-1-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/editminiqty.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/editminiqty.webp)
 
-![Edit-Product-Admin-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/clickeditvariantminiqty.webp)
+[![Edit-Product-Admin-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/clickeditvariantminiqty.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/clickeditvariantminiqty.webp)
 
 Further, under the heading **Inventory Details**, you'll have the option to edit the set minimum quantity.
 
-![Minimum Purchase Quantity Configuration Variant Wise](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/editvariantpageqty.webp)
+[![Minimum Purchase Quantity Configuration Variant Wise](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/editvariantpageqty.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/editvariantpageqty.webp)
 
  Frontend
 ---------------------------------
 On the product description page, your customers won't be able to reduce the quantity value lesser than the configured. The value can only be increased. Refer:
 
-![Black-Classy-Slingbag-with-Gold-Detailing-–-multivendor-marketplace-5](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/12/Black-Classy-Slingbag-with-Gold-Detailing-%E2%80%93-multivendor-marketplace-5-1200x597.png)
+[![Black-Classy-Slingbag-with-Gold-Detailing-–-multivendor-marketplace-5](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/12/Black-Classy-Slingbag-with-Gold-Detailing-%E2%80%93-multivendor-marketplace-5-1200x597.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/12/Black-Classy-Slingbag-with-Gold-Detailing-%E2%80%93-multivendor-marketplace-5-1200x597.png)
 
 Moreover, in any case, if the customer adds a lesser quantity than the required value, he won't be able to checkout. The following message will be thrown on the cart page:
 
-![Your-Shopping-Cart-–-multivendor-marketplace-5](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/12/Your-Shopping-Cart-%E2%80%93-multivendor-marketplace-5-1200x597.png)
+[![Your-Shopping-Cart-–-multivendor-marketplace-5](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/12/Your-Shopping-Cart-%E2%80%93-multivendor-marketplace-5-1200x597.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/12/Your-Shopping-Cart-%E2%80%93-multivendor-marketplace-5-1200x597.png)
 
 #### Also Read:
 

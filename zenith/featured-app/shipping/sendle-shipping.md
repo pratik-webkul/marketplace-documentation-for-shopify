@@ -29,11 +29,11 @@ Moreover, access to Shipping requires your Shopify store to be on the plan that 
 -------------------
 To enable the feature app, all you need to do is to visit the “**Featured Apps**” section of the admin panel and enable it from there.
 
-![Feature App-shipping](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/featuredapps.webp)
+[![Feature App-shipping](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/featuredapps.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/featuredapps.webp)
 
 Once you click on “Feature Apps”, you will get the list of apps listing in this section. There, You will get the Sendle feature.
 
-![Screenshot-2020-10-09T094754.158-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/sendle.webp)
+[![Screenshot-2020-10-09T094754.158-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/sendle.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/sendle.webp)
 
 You need to click the **"Enable**" button.
 
@@ -57,7 +57,7 @@ You will get these details from your Sendle account.
 
 Moreover, automatically generate shipping labels.  
 
-![Sendle-Configuration-Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/sendleconfigadmin.webp)
+[![Sendle-Configuration-Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/sendleconfigadmin.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/sendleconfigadmin.webp)
 
 Click the Save button.
 
@@ -66,21 +66,21 @@ Click the Save button.
 Firstly, **Login** to Sendle Shipping: [https://www.sendle.com/users/sign\_in](https://www.sendle.com/users/sign_in)  
 Note:- You need to have an account on **Sendle**.
 
-![Screenshot-2020-10-09T092858.357](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/10/Screenshot-2020-10-09T092858.357.png)
+[![Screenshot-2020-10-09T092858.357](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/10/Screenshot-2020-10-09T092858.357.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/10/Screenshot-2020-10-09T092858.357.png)
 
 Once you login to your Sendle account, you will be redirected to the Sendle [Dashboard](https://app.sendle.com/dashboard). Click the **Settings** menu.
 
-![Screenshot-2020-10-09T093108.901](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/10/Screenshot-2020-10-09T093108.901-1200x594.png)
+[![Screenshot-2020-10-09T093108.901](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/10/Screenshot-2020-10-09T093108.901-1200x594.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/10/Screenshot-2020-10-09T093108.901-1200x594.png)
 
 In the Settings section, click the "**Integration**" section and there, You will get the Sendle API key. If you don't get the API key,
 
 **Please contact the Sendle Support to provide access to API.**
 
-![Screenshot-2020-10-09T093751.482](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/10/Screenshot-2020-10-09T093751.482-1200x561.png)
+[![Screenshot-2020-10-09T093751.482](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/10/Screenshot-2020-10-09T093751.482-1200x561.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/10/Screenshot-2020-10-09T093751.482-1200x561.png)
 
 Once approved by Sendle, you will get the **API Key and Sendle ID** i.e Username to be configured in the app.
 
-![Screenshot-2020-10-09T094215.422](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/10/Screenshot-2020-10-09T094215.422-1200x549.png)
+[![Screenshot-2020-10-09T094215.422](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/10/Screenshot-2020-10-09T094215.422-1200x549.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/10/Screenshot-2020-10-09T094215.422-1200x549.png)
 
 That's how you get the details and configure the same in the app to make Sendle shipping works.
 
@@ -88,19 +88,19 @@ That's how you get the details and configure the same in the app to make Sendle 
 ----------------------
 Once you configure these details, the sellers will also get the option to enable the Sendle shipping from the **Shipping Configuration** menu of their seller panel.
 
-![Shipping-Configuration-Seller-•-Multivendor-MarketPlace-2](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/enablesendleseller.webp)
+[![Shipping-Configuration-Seller-•-Multivendor-MarketPlace-2](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/enablesendleseller.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/enablesendleseller.webp)
 
 Visiting the Global Configuration menu, the seller can configure the Shipping Packet Details.
 
-![Screenshot-2020-10-07T180133.632](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/globalconfig.webp)
+[![Screenshot-2020-10-07T180133.632](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/globalconfig.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/globalconfig.webp)
 
 Once enabled, the seller can proceed to create his/her Sendle account. (Please Note:- It is not a mandatory step for the sellers to have an account on Sendle).
 
-![Dashboard-Seller-•-Multivendor-MarketPlace-2](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/sellersendleconfig.webp)
+[![Dashboard-Seller-•-Multivendor-MarketPlace-2](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/sellersendleconfig.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/sellersendleconfig.webp)
 
 Now, the sellers can connect their Sendle accounts and configure the details.
 
-![Sendle-Configuration-Seller-•-Multivendor-MarketPlace](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/sellerconfigsendletwo.webp)
+[![Sendle-Configuration-Seller-•-Multivendor-MarketPlace](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/sellerconfigsendletwo.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/sellerconfigsendletwo.webp)
 
 Now, the seller can fulfill orders via the Sendle shipping courier service.
 
@@ -114,23 +114,23 @@ Seller needs to follow the below-given steps to generate shipping labels for ful
 *   After that, Go to **Orders**.
 *   Visit the **Order Listing** section.
 
-![Order-Seller-•-Multivendor-MarketPlace](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/viewordersendle.webp)
+[![Order-Seller-•-Multivendor-MarketPlace](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/viewordersendle.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/viewordersendle.webp)
 
 *   Now, accept the Order.
 
-![Screenshot-2020-10-07T181437.479](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/orderfullpage.webp)
+[![Screenshot-2020-10-07T181437.479](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/orderfullpage.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/orderfullpage.webp)
 
 Clicking the Fulfill button, you need to select the **Sendle** as the shipping method.
 
-![Screenshot-2020-10-07T181621.086](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/10/Screenshot-2020-10-07T181621.086-1200x516.png)
+[![Screenshot-2020-10-07T181621.086](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/10/Screenshot-2020-10-07T181621.086-1200x516.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/10/Screenshot-2020-10-07T181621.086-1200x516.png)
 
 Now, the seller will generate/print shipping label from "Additional Order Details" section.
 
-![Order-Details-Seller-•-Multivendor-MarketPlace](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/generateshiipinglabel.webp)
+[![Order-Details-Seller-•-Multivendor-MarketPlace](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/generateshiipinglabel.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/generateshiipinglabel.webp)
 
 Thus, the shipping label will be generated automatically for the fulfilled orders. Thus, the seller can easily print the shipping label from here:
 
-![Screenshot-2020-10-07T182737.403](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/10/Screenshot-2020-10-07T182737.403.png)
+[![Screenshot-2020-10-07T182737.403](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/10/Screenshot-2020-10-07T182737.403.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/10/Screenshot-2020-10-07T182737.403.png)
 
 That's all about the Sendle Shipping Feature App.
 

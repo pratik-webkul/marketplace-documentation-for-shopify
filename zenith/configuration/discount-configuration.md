@@ -26,7 +26,7 @@ To configure this feature, follow the path:
 
 Admin Dashboard>>Configuration>>Discount Configuration
 
-![Discount(Admin end)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/discount.webp)
+[![Discount(Admin end)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/discount.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/discount.webp)
 
   
 Click "Allow Seller to Create Discounts on Products" and save the settings.
@@ -39,9 +39,9 @@ The seller needs to follow these simple steps to add discounts to products:
 
 Go to the Product section>>Select Discount >>Add Discount button.
 
-![Discount](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/sellerdiscount.webp)
+[![Discount](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/sellerdiscount.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/sellerdiscount.webp)
 
-![product](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/adddiscount.webp)
+[![product](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/adddiscount.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/adddiscount.webp)
 
 Select the discount type (Percentage or Fixed), enter the discount value, and choose the product to apply it to.
 
@@ -61,7 +61,7 @@ Admin Dashboard>>Configuration>>Discount Configuration
 
 Enable “Allow Seller to Create Discounts on Overall Order” and save the settings.
 
-![Allow](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/overalldiscount.webp)
+[![Allow](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/overalldiscount.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/overalldiscount.webp)
 
 Once configured, sellers will have the option to create discounts on the overall order from their respective seller panels.
 
@@ -79,11 +79,11 @@ Select the Discount Type (Percentage or Fixed) and enter the discount value. Sel
 
 Set the start and end date of your discount as the validity period. Save changes.
 
-![Dis](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/orderdiscount.webp)
+[![Dis](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/orderdiscount.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/orderdiscount.webp)
 
 The seller will see all discount codes added to their store in the Discount section.
 
-![All sis counts](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/alldiscount.webp)
+[![All sis counts](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/alldiscount.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/alldiscount.webp)
 
 **Please note: The overall order discount works based on the seller’s smart collection, and the discount will also be applied seller-wise on the front end.**
 
@@ -103,8 +103,8 @@ So, go to the Multivendor Admin Panel and navigate to:
 
 Configuration >>Instruction for Marketplace >> Scroll down to get the codes for “Discount” >> Copy the code from there & add it to the instructed liquid files.
 
-![codes](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/discountcode.webp)
+[![codes](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/discountcode.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/discountcode.webp)
 
 In this way, the discount will be visible on the front.
 
-![Front](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/11/front-1200x535.webp)
+[![Front](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/11/front-1200x535.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/11/front-1200x535.webp)

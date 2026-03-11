@@ -26,7 +26,7 @@ Enable the following app by visiting:
 *   Search for ‘**PWA**‘ & click on ‘**Enable**‘
 *   After accepting the charges, you’ll be good to configure the app!
 
-![PWA](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/11/Screenshot-by-Lightshot-1200x535.png)
+[![PWA](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/11/Screenshot-by-Lightshot-1200x535.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/11/Screenshot-by-Lightshot-1200x535.png)
 
  Configuration: Admin Panel
 -------------------
@@ -59,7 +59,7 @@ You can get these keys from any mobile and web application development platform 
 
 Have a look at how you can get Firebase ID and keys: [Click here.](https://webkul.com/blog/progressive-web-application-for-shopify/#how-to-get-your-firebase-id-and-keys)
 
-![screencapture-tarang-kumar-shopify-webkul-shopify-mp-admin-index-php-2020-03-17-14_26_44-1-](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/03/screencapture-tarang-kumar-shopify-webkul-shopify-mp-admin-index-php-2020-03-17-14_26_44-1--1200x856.png)
+[![screencapture-tarang-kumar-shopify-webkul-shopify-mp-admin-index-php-2020-03-17-14_26_44-1-](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/03/screencapture-tarang-kumar-shopify-webkul-shopify-mp-admin-index-php-2020-03-17-14_26_44-1--1200x856.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/03/screencapture-tarang-kumar-shopify-webkul-shopify-mp-admin-index-php-2020-03-17-14_26_44-1--1200x856.png)
 
 After entering the following keys, the admin will get two more options to configure, i.e., **Manage Manifest** & **Push Notifications**.
 
@@ -69,58 +69,58 @@ Here, enter the PWA manifest name, tagline, configure the background color & las
 
 _Web manifests are a way to describe your PWA to the browser. The values are used to drive the home screen launch and install experiences._
 
-![PWA](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/11/Manifest-Configuration-Admin-1200x826.png)
+[![PWA](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/11/Manifest-Configuration-Admin-1200x826.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/11/Manifest-Configuration-Admin-1200x826.png)
 
 This is how the web manifest will look like at the seller's end:
 
-![PWA](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/11/Screenshot-from-2019-11-22-15-18-27-1200x617.png)
+[![PWA](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/11/Screenshot-from-2019-11-22-15-18-27-1200x617.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/11/Screenshot-from-2019-11-22-15-18-27-1200x617.png)
 
 Moreover, clicking on **Push Notifications** will take you to the following page:
 
 From this page, the admin can add the push notifications he wants to send to his sellers. For that, click on **+ ADD NEW MESSAGE**. Now, enter the title, description & upload icon for the same.
 
-![PWA](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/11/PWA-Configuration-Admin-2-1200x597.png)
+[![PWA](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/11/PWA-Configuration-Admin-2-1200x597.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/11/PWA-Configuration-Admin-2-1200x597.png)
 
 Coming to the notification listing section: The notifications with type **Automatic** are the once which you have check marked on the **Configure PWA** page. Here, you can edit the content by clicking on three dots under the **action** menu.
 
-![PWA-Configuration-Admin-2](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/03/PWA-Configuration-Admin-2-1200x597.png)
+[![PWA-Configuration-Admin-2](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/03/PWA-Configuration-Admin-2-1200x597.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/03/PWA-Configuration-Admin-2-1200x597.png)
 
 Moreover, the admin can send, edit or delete the manually created push notifications.
 
-![PWA-Configuration-Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/03/PWA-Configuration-Admin-1200x597.png)
+[![PWA-Configuration-Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/03/PWA-Configuration-Admin-1200x597.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/03/PWA-Configuration-Admin-1200x597.png)
 
 Furthermore, to send the notification click on **send**, select the recipients (All Sellers/Specific Seller) and then submit. Enter the seller name if you want to send it to a specific seller.
 
-![PWA-Configuration-Admin-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/03/PWA-Configuration-Admin-1-1200x597.png)
+[![PWA-Configuration-Admin-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/03/PWA-Configuration-Admin-1-1200x597.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/03/PWA-Configuration-Admin-1-1200x597.png)
 
 This is how the seller will receive the push notifications once sent by the admin:
 
-![PWA](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/11/Screenshot-from-2019-11-22-15-24-23-1200x615.png)
+[![PWA](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/11/Screenshot-from-2019-11-22-15-24-23-1200x615.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/11/Screenshot-from-2019-11-22-15-24-23-1200x615.png)
 
  Mobile End: PWA
 ------------------
 This is how the **MultiVendor Marketplace PWA for Sellers** will look like:
 
-![PWA](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/11/collage-1-1.png)
+[![PWA](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/11/collage-1-1.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/11/collage-1-1.png)
 
 PWA for Sellers: Multivendor Marketplace for Shopify
 
-![PWA](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/11/collage-3-.png)
+[![PWA](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/11/collage-3-.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/11/collage-3-.png)
 
 PWA for Sellers: Multivendor Marketplace for Shopify
 
-![PWA](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/11/collage-4-1.png)
+[![PWA](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/11/collage-4-1.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/11/collage-4-1.png)
 
 PWA for Sellers: Multivendor Marketplace for Shopify
 
-![PWA](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/11/collage-5-.png)
+[![PWA](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/11/collage-5-.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/11/collage-5-.png)
 
 PWA for Sellers: Multivendor Marketplace for Shopify
 
-![PWA](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/11/collage-6-.png)
+[![PWA](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/11/collage-6-.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/11/collage-6-.png)
 
 PWA for Sellers: Multivendor Marketplace for Shopify
 
-![PWA](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/11/collage-7-.png)
+[![PWA](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/11/collage-7-.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/11/collage-7-.png)
 
 PWA for Sellers: Multivendor Marketplace for Shopify
