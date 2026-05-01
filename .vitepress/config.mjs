@@ -12,8 +12,6 @@ export default defineConfig({
     
     ['meta', { name: 'title', content: 'Multi-Vendor Marketplace for Shopify' }],
     ['meta', { name: 'description', content: 'Powerful Multi-Vendor Marketplace solution for Shopify store owners to convert their store into a fully functioning marketplace.' }],
-
-    
     ['meta', { property: 'og:type', content: 'website' }],
     ['meta', { property: 'og:title', content: 'Multi-Vendor Marketplace for Shopify' }],
     ['meta', { property: 'og:description', content: 'Powerful Multi-Vendor Marketplace solution for Shopify store owners to convert their store into a fully functioning marketplace.' }],
@@ -36,7 +34,9 @@ export default defineConfig({
       { text: 'Zenith Theme', link: '/zenith/introduction/' },
       { text: 'Webkul', link: 'https://webkul.com/' },
       { text: 'Get App', link: 'https://apps.shopify.com/multi-vendor-marketplace' },
+      { text: 'View Demo', link: 'https://multivendor-marketplace-5.myshopify.com/' },
       { text: 'Support', link: 'https://webkul.uvdesk.com/' }
+
     ],
 
     sidebar: {
@@ -100,7 +100,8 @@ export default defineConfig({
             { text: 'Directory listing', link: '/zenith/products/directory-listing' },
             { text: 'Collection sync', link: '/zenith/products/collection-sync' },
             { text: 'Multilevel collection', link: '/zenith/products/multilevel-collection' },  
-            { text: 'Dual sync', link: '/zenith/products/dual-sync' },                                             
+            { text: 'Dual sync', link: '/zenith/products/dual-sync' },
+            { text: 'Handling & Transaction Charges', link: '/zenith/products/handling-and-transaction-charges' },                                             
             // { text: 'Products updates', link: '/zenith/products/products-updates' },
           ]
         },
@@ -132,6 +133,7 @@ export default defineConfig({
           items: [
             { text: 'Seller payment', link: '/zenith/payment/seller-payment' },
             { text: 'Stripe', link: '/zenith/payment/stripe' },
+            { text: 'Stripe Transfer', link: '/zenith/payment/stripe-transfer' },
             { text: 'Stripe configuration', link: '/zenith/payment/stripe-configuration' },
             { text: 'Paypal', link: '/zenith/payment/paypal' },
             { text: 'Razorpay-X', link: '/zenith/payment/razorpayx' },
@@ -220,6 +222,7 @@ export default defineConfig({
                 { text: 'Soopos connector', link: '/zenith/featured-app/connector/soopos-connector' },
                 { text: 'Squarespace connector', link: '/zenith/featured-app/connector/squarespace-connector' },
                 { text: 'SquareUp connector', link: '/zenith/featured-app/connector/squareup-connector' },
+                { text: 'Subscription App Connector', link: '/zenith/featured-app/connector/subscription-app-connector' },
                 { text: 'WooCommerce connector', link: '/zenith/featured-app/connector/woocommerce-connector' }
               ]
             },
@@ -282,6 +285,7 @@ export default defineConfig({
               items: [
                 { text: 'Chat GPT', link: '/zenith/featured-app/marketplace-other-add-ons/chat-gpt' },
                 { text: 'Easy group buy app', link: '/zenith/featured-app/marketplace-other-add-ons/easy-group-buy' },
+                { text: 'Influencer Marketplace', link: '/zenith/featured-app/marketplace-other-add-ons/influencer-marketplace' },
                 { text: 'Locate your pickup store', link: '/zenith/featured-app/marketplace-other-add-ons/locate-your-pickup-store' },
                 { text: 'Multivendor database backup', link: '/zenith/featured-app/marketplace-other-add-ons/multivendor-database-backup' },
                 { text: 'Seller blog', link: '/zenith/featured-app/marketplace-other-add-ons/seller-blog' },
@@ -454,6 +458,17 @@ export default defineConfig({
             {
               text: 'Print-on-Demand Marketplace',
               link: '/zenith/creator-&-print-on-demand-marketplace/print-on-demand-marketplace'
+            }
+          ]
+        },
+        {
+          text: 'Subscription Pause',
+          collapsible: true,
+          collapsed: true,
+          items: [
+            {
+              text: 'Subscription Pause',
+              link: '/zenith/subscription-plan/subscription-plan'
             }
           ]
         },

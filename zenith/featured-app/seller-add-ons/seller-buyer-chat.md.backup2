@@ -155,8 +155,8 @@ This is how it will look on the customer end
 
 [![seller-buyer-chat.myshopify.com_pages_seller-buyer-chat_clientId65b0d6fa1a4d0420fc29f108](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/01/seller-buyer-chat.myshopify.com_pages_seller-buyer-chat_clientId65b0d6fa1a4d0420fc29f108-1200x942.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/01/seller-buyer-chat.myshopify.com_pages_seller-buyer-chat_clientId65b0d6fa1a4d0420fc29f108-1200x942.png)
 
- **Auto Bot Response (Seller-Buyer Chat)**
----------------------
+### **Auto Bot Response (Seller-Buyer Chat)**
+
 We have added a new feature in your seller-buyer chat — **Auto Bot Response**.
 
  This feature allows your store to automatically reply to customer queries.
@@ -164,6 +164,7 @@ We have added a new feature in your seller-buyer chat — **Auto Bot Response**.
 Whenever a customer visits your website and opens the chat, the bot will respond to **product-related** and **order-related** questions based on your store data.
 
 **Add Your Domain**
+-------------------
 
 1.  Go to:  
     **Chatwhizz Dashboard → Domain → Add New**
@@ -174,13 +175,14 @@ Whenever a customer visits your website and opens the chat, the bot will respond
 
  After this, your domain will be successfully added to the list.
 
-[![domain](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/04/prera.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/04/prera.webp)
+![domain](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/04/prera.webp)
 
 **Enable Auto Response**
+------------------------
 
 1.  After adding the domain, click on the **Eye Icon** next to it
 
-[![image](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/04/kkkkkkk.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/04/kkkkkkk.webp)
+![image](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/04/kkkkkkk.webp)
 
 2.  Open **General Configuration**
 3.  Find the option: **Enable Auto Response**
@@ -192,7 +194,7 @@ Whenever a customer visits your website and opens the chat, the bot will respond
 
 5.  Click on **Save**
 
-[![image](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/04/saedkj.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/04/saedkj.webp)
+![image](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/04/saedkj.webp)
 
  After saving, a new section **“Auto Response”** will appear.
 
@@ -211,7 +213,7 @@ Go to the **Auto Response section** and fill all details carefully:
 
  After filling all details, click on **Save Changes**
 
-[![image](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/04/firt.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/04/firt.webp)
+![image](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/04/firt.webp)
 
 **How to Get OpenAI API Key**
 -----------------------------
@@ -230,11 +232,11 @@ This step is required for bot functionality.
  A key will be generated  
 Copy this key and paste it into Chatwhizz (API Key field)
 
-[![opem](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/04/prera-1.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/04/prera-1.webp)
+![opem](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/04/prera-1.webp)
 
-[![api](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/04/prera2.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/04/prera2.webp)
+![api](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/04/prera2.webp)
 
-[![key ](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/04/jhsjsdkljkljasdkjfksajdfs.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/04/jhsjsdkljkljasdkjfksajdfs.webp)
+![key ](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/04/jhsjsdkljkljasdkjfksajdfs.webp)
 
 **Install the Chatwhizz live chat App in Shopify**
 --------------------------------------------------
@@ -245,20 +247,21 @@ Copy this key and paste it into Chatwhizz (API Key field)
 
  This app is **free**, no extra payment required.
 
-[![install](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/04/newwww.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/04/newwww.webp)
+![install](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/04/newwww.webp)
 
 4.  After installation:
     *   You will see **Choose Your Chat Mode**
     *   Select **Seller Buyer Chat**
     *   Click **Continue**
 
-[![choose mode](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/04/prer.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/04/prer.webp)
+![choose mode](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/04/prer.webp)
 
  Once done, Auto Bot functionality will be activated.
 
-[![activated](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/04/pereir.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/04/pereir.webp)
+![activated](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/04/pereir.webp)
 
 **Frontend (What Customer Will See)**
+-------------------------------------
 
 *   A **chat icon** will appear on your website
 *   A **default welcome message** will be shown
@@ -270,10 +273,10 @@ Copy this key and paste it into Chatwhizz (API Key field)
 
  Bot will automatically respond based on your store data
 
-[![frontend](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/04/dafsdfasdf.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/04/dafsdfasdf.webp)
+![frontend](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/04/dafsdfasdf.webp)
 
 **Edit Default Welcome Message**
-
+--------------------------------
 
 If you want to change the message shown to customers:
 
@@ -284,4 +287,4 @@ If you want to change the message shown to customers:
 3.  Click on **Edit**
 4.  Update the message as per your requirement and save
 
-[![custom message](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/04/dfasdfasdfasdfasf.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/04/dfasdfasdfasdfasf.webp)
+![custom message](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/04/dfasdfasdfasdfasf.webp)

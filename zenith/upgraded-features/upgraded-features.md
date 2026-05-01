@@ -309,6 +309,22 @@ and customers from the mail configuration section.
 
 [![Marketplace19](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/02/upgradedfeaturesthirty.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/02/upgradedfeaturesthirty.webp)
 
+ Test Email Button for All Templates
+-----------------------
+We have introduced a new feature in the **Multivendor Admin Panel** that allows the admin to send a **test email for all email templates**.
+
+With this option, the admin can:
+
+- Enter the **email ID** where they want to receive the test email  
+- **Edit the content** of the test email before sending  
+- Review how the email **appears in the inbox**
+
+This helps ensure that all email templates are properly configured and displayed as expected.
+
+![Test Email Configuration](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/04/testemaill.webp)
+
+![Test Email Preview](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/04/testemail.webp)
+
  Invoice
 ---------------
 We have now introduced the feature of generating an invoice on our Multivendor Marketplace App.

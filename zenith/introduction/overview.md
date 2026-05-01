@@ -15,13 +15,13 @@ Here, multiple sellers can register who can sell their products locally or globa
 
 Firstly, let's see how to install the Multivendor App on the Shopify Store.
 
-### Video Guide: App Installation
+ ### Video Guide: App Installation
 
 You can go through the **Video Guide** to understand how you can install the Multivendor app on your Shopify Store.
 
 [Click Here to Watch The Video](https://youtu.be/b9lNPcAyZaU?si=9RFwWS0xSO_f2G5D)
 
-### Import configurations from other Shopify store
+<!--### Import configurations from other Shopify store
 
 While installing the multivendor marketplace app, you will get a store migration option in which
 
@@ -41,7 +41,7 @@ Then the admin will be redirected to the Multivendor admin dashboard where the a
 
 [![1-chat-s-](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/05/1-chat-s-.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/05/1-chat-s-.png)
 
-**Note:-** This migration step will appear while installing the multivendor marketplace app and once you have skipped this then it wouldn't come again
+**Note:-** This migration step will appear while installing the multivendor marketplace app and once you have skipped this then it wouldn't come again -->
 
 Once you install the Multivendor app on your store you will be straightaway land to the home page of the Multivendor Marketplace app.
 

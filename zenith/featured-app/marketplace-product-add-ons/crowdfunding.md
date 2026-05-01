@@ -10,11 +10,11 @@ To use this feature, you need to install the **[Crowdfunding App](https://webkul
 
 The app will cost you **$15/month**. Further, you can enable this add-on on the marketplace by visiting the **Feature App** section:
 
-[![image-15](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/08/image-15-1200x597.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/08/image-15-1200x597.png)
+[![image-15](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/esygrp1773044453508-1.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/esygrp1773044453508-1.webp)
 
 **Configure Frontend**: You need to follow the instructions given in the **Configure Frontend** section of the Crowdfunding app:
 
-[![image-4](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/08/image-4-1200x597.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/08/image-4-1200x597.png)
+[![image-4](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/esygrp1773047128887-1.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/esygrp1773047128887-1.webp)
 
 \[In case you need our help with the addition of codes, kindly drop an email at **support@webkul.com**\]
 
@@ -24,7 +24,7 @@ The admin as well as sellers can add the crowdfunding products from their respec
 
 Visit **Multivendor Admin/Seller Panel** \> **Products** > **Product Listing** \> **Add Product** > Choose product as **Crowdfunding Product**:
 
-[![image-6](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/08/image-6-1200x597.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/08/image-6-1200x597.png)
+[![image-6](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/esygrp1773047170423-1.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/esygrp1773047170423-1.webp)
 
 Next, add the following details:
 
@@ -49,11 +49,11 @@ Fill in all the donations and rewards details that you want to create for your c
 *   Fill up the description
 *   To add or update a donation amount detail, please click on the "ADD AMOUNT" button before clicking on the "SAVE" or "SAVE & PROCEED" button.
 
-[![image-8](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/08/image-8-1157x1024.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/08/image-8-1157x1024.png)
+[![image-8](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/esygrp1773047393241-1.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/esygrp1773047393241-1.webp)
 
 Once you add the amount, you can later delete/edit it:
 
-[![image-10](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/08/image-10-1200x597.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/08/image-10-1200x597.png)
+[![image-10](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/esygrp1773047688960-1.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/esygrp1773047688960-1.webp)
 
 #### ADDITIONAL DETAILS
 
@@ -63,7 +63,7 @@ Upload any related additional detail of the project here in this section for cus
 *   Project short description.
 *   Risk & challenges that you might have faced or will face.
 
-[![image-9](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/08/image-9-1200x954.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/08/image-9-1200x954.png)
+[![image-9](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/esygrp1773047735214-1.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/esygrp1773047735214-1.webp)
 
 Once the project is added, this is how it will look on the backend:
 

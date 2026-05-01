@@ -20,11 +20,11 @@ MUlX7m6ePj0
 
 Once you'll install the add-on, visit Multivendor Admin Panel > Configuration > Shipping Methods. **Edit** the **Marketplace Shiping**:
 
-[![image-37](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/02/image-37-1200x597.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/02/image-37-1200x597.png)
+[![image-37](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/02/postcode1.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/02/postcode1.webp)
 
 On the redirected page, configure the required information. Select postcode-wise as shipping type:
 
-[![image-39](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/02/image-39-1200x597.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/02/image-39-1200x597.png)
+[![image-39](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/02/postcode2.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/02/postcode2.webp)
 
 When you are choosing postcode wise shipping, it is mandatory to add postal code length. Moreover, there are label translation options here.
 
@@ -32,21 +32,21 @@ When you are choosing postcode wise shipping, it is mandatory to add postal code
 
 You can enable the country in postcode if you want. **Note**: If you want to enable or disable this option then you will loose all your previous postcode zone configurations. Also, it is not compatible with store pickup functionality.
 
-[![image-40](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/02/image-40-1200x597.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/02/image-40-1200x597.png)
+[![image-40](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/02/postcode3.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/02/postcode3.webp)
 
  Add Shipping Method
 -------------
 Next, you need to add shipping method by visiting **Configuration** > **Shipping Methods**:
 
-[![image-35](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/02/image-35-1200x597.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/02/image-35-1200x597.png)
+[![image-35](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/02/postcode4.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/02/postcode4.webp)
 
 Add the name and save:
 
-[![image-141](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/07/image-141-1200x597.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/07/image-141-1200x597.png)
+[![image-141](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/02/postcode5.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/02/postcode5.webp)
 
 Upon saving, they will be listed under shipping configuration page. From here, they can be edited/enabled/disabled.
 
-[![image-142](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/07/image-142-1200x597.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/07/image-142-1200x597.png)
+[![image-142](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/02/postcode6-1.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/02/postcode6-1.webp)
 
 Now, once you'll add the postcode shipping, you'll get an option to configure postcode. On the shipping configuration page:
 
@@ -54,53 +54,53 @@ Now, once you'll add the postcode shipping, you'll get an option to configure po
 
 Or, visit **Configuration** > **Postcode Zone**:
 
-[![image-36](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/02/image-36-1200x597.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/02/image-36-1200x597.png)
+[![image-36](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/02/postcode8.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/02/postcode8.webp)
 
 On the **Postcode Zone Details** page, click on **Add Postcode Zone**:
 
-[![image-136](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/07/image-136-1200x597.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/07/image-136-1200x597.png)
+[![image-136](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/02/postcode9.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/02/postcode9.webp)
 
 Here, you need to enter the postcode zone name, enable the status, and choose the method to add postal code. There are two ways: **Manually** or via **CSV** file.
 
 For manually, you just need to enter the postal code one by one manually:
 
-[![image-137](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/07/image-137-1200x816.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/07/image-137-1200x816.png)
+[![image-137](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/02/postcode10.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/02/postcode10.webp)
 
 Add Manually
 
 In case of CSV file, add 5000 postcodes at once:
 
-[![postal code](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/06/image-64-1200x570.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/06/image-64-1200x570.png)
+[![postal code](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/02/postcode11.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/02/postcode11.webp)
 
 Note: In one postcode zone, you can add a maximum of 100,000 postcodes.
 
 Once added, they'll be listed as such:
 
-[![image-139](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/07/image-139-1200x589.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/07/image-139-1200x589.png)
+[![image-139](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/02/postcode12.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/02/postcode12.webp)
 
 Clicking on **Edit** will take you back to the edit postcode zone page.
 
 To add shipping to a postcode zone, click on **Add Shipping**. Here, click on **Choose Shipping Method** \> Select the **Shipping Methods** & save.
 
-[![image-144](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/07/image-144-1200x597.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/07/image-144-1200x597.png)
+[![image-144](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/postcode21.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/postcode21.webp)
 
 Once done, they can also be edited or removed:
 
-[![image-145](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/07/image-145-1200x817.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/07/image-145-1200x817.png)
+[![image-145](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/postcode22.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/postcode22.webp)
 
 Clicking on View Postcode will give you add the added postcodes for that particular zone:
 
-[![image-146](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/07/image-146-1200x597.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/07/image-146-1200x597.png)
+[![image-146](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/postcode23.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/postcode23.webp)
 
 Further, these shipping methods can be enabled & disabled for the sellers from the edit seller page:
 
-[![image-147](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/07/image-147-1200x597.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/07/image-147-1200x597.png)
+[![image-147](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/postcode24.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/postcode24.webp)
 
  Configure front-end
 --------
 You need to add a few codes to the template files. The instructions are given under **Multivendor Admin Panel** > **Configuration** > **Instructions for Marketplace**:
 
-[![image-148](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/07/image-148-1200x597.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/07/image-148-1200x597.png)
+[![image-148](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/postcode25.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/postcode25.webp)
 
  Seller Panel
 ------------
@@ -108,27 +108,27 @@ Visit **Multivendor Seller Panel** > **Configuration** > **Shipping Configuratio
 
 Seller will have the list of all the shipping methods added by the admin. From this page, seller can enable/disable the postwise shipping methods.
 
-[![image-157](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/07/image-157-1200x597.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/07/image-157-1200x597.png)
+[![image-157](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/postcode26.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/postcode26.webp)
 
 Under Marketplace Shipping, seller will have three options: Enable/Disable Shipping, Postcode Zones & Range Details.
 
-[![image-150](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/07/image-150-1200x597.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/07/image-150-1200x597.png)
+[![image-150](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/postcodezone27.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/postcodezone27.webp)
 
 ### 1\. Postcode Zones
 
 Here, the seller will have the list of all the shipping postcode zones added by admin:
 
-[![image-152](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/07/image-152-1200x597.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/07/image-152-1200x597.png)
+[![image-152](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/postcodezone28.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/postcodezone28.webp)
 
 **ADD/EDIT PRICE**: Here, you can add shipping charge for different shipping methods for all kind of ranges.
 
 You can choose the shipping method and add the shipping charges based on the range. In case you don't want to charge for a particular range, keep that empty.
 
-[![image-153](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/07/image-153-1200x900.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/07/image-153-1200x900.png)
+[![image-153](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/postcodezone29.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/postcodezone29.webp)
 
 Seller can also add the shipping charges via CSV file:
 
-[![image-154](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/07/image-154-1200x760.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/07/image-154-1200x760.png)
+[![image-154](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/postcode30.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/postcode30.webp)
 
 Download the sample CSV file to know the right format. In the CSV you have to add two fields: Range ID & Shipping Courier Name.
 
@@ -150,13 +150,13 @@ Range 1 (1-10lb) - here the upper limit is 10.99lb
 Range 2 (11-20lb) - here the upper limit is 20.99lb  
 So, product A of weight 10.75lb will be covered under the range 1 (1-10lb)
 
-[![image-158](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/07/image-158-1200x828.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/07/image-158-1200x828.png)
+[![image-158](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/postcodezone31.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/postcodezone31.webp)
 
 Edit/Delete Already Added Shipping Ranges
 
 You can also add new shipping ranges:
 
-[![image-159](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/07/image-159-1200x786.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/07/image-159-1200x786.png)
+[![image-159](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/postcodezone32.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/postcodezone32.webp)
 
 ### Frontend
 

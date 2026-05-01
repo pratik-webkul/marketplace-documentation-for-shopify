@@ -23,11 +23,11 @@ Let’s dig deeper and know the app configurations.
 --------------------
 First, the admin needs to enable the Easy Group buy feature app by navigating to the feature apps section
 
-[![Enable group buy feature app](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/02/enableapp-1200x530.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/02/enableapp-1200x530.webp)
+[![Enable group buy feature app](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/esygrp1773291945371.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/esygrp1773291945371.webp)
 
 If you haven’t already installed the [Easy Group Buying app for Shopify](https://webkul.com/blog/shopify-group-buy-app-documentaion/) in your store, you will be asked to install it first.
 
-[![enable group buy feature app](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/02/groupbuy-1200x606.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/02/groupbuy-1200x606.webp)
+[![enable group buy feature app](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/esygrp1773292013840.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/esygrp1773292013840.webp)
 
  **Admin Shopify Configuration:**
 --------------------
@@ -112,17 +112,17 @@ For customer end-related details kindly refer to this link: [Customer End- User 
 ------------
 Sellers can add products for buying in groups by navigating to **Product>>product listing>> Add group buy**
 
-[![Add group buy product](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/02/addgroupbuy-1200x575.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/02/addgroupbuy-1200x575.webp)
+[![Add group buy product](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/esygrp1773292124797.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/esygrp1773292124797.webp)
 
 Set group buy **duration, discount**, and **member limit**.
 
-[![Edit Products](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/02/addgroupbuyproduct-1012x1024.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/02/addgroupbuyproduct-1012x1024.webp)
+[![Edit Products](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/esygrp1773292153730.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/esygrp1773292153730.webp)
 
 You can see and edit products added to the groups by navigating to Product >> Group Buy Products.
 
-[![Edit Group Buy Products](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/02/groupbuyproducts-1200x575.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/02/groupbuyproducts-1200x575.webp)
+[![Edit Group Buy Products](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/esygrp1773292214104.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/esygrp1773292214104.webp)
 
 You can access groups by navigating to Product >> Group Buy Groups.
 
-[![Groups listing page](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/02/grouplisting-1200x575.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/02/grouplisting-1200x575.webp)
+[![Groups listing page](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/esygrp1773293336288.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/esygrp1773293336288.webp)
 

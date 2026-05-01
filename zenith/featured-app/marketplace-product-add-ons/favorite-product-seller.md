@@ -112,6 +112,51 @@ If a customer has marked a product as a favorite, they will receive an email not
 
 [![image](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/produfav.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/produfav.webp)
 
+ Favorite Product / Seller Notification Feature
+---------------------
+We’ve added a new configuration for the **Favorite Product/Seller** feature.
+
+When enabled:
+
+- **Sellers can manually notify customers** about product updates by adding a **custom note**
+- If the configuration is **disabled**, customers will **automatically receive notifications** for all updates
+
+This gives the admin flexibility to control how notifications are handled across the marketplace.
+
+
+### Configuration Path
+
+To enable this feature, go to:
+
+**Multivendor Admin Panel → Configuration → General Configuration**
+
+![Favorite Product Configuration](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/04/favproduct.webp)
+
+
+### How It Works
+
+Once the setting is enabled:
+
+1. Sellers will see an option on the **Product Edit Page**
+2. Navigate to **More Actions → Notify to Customer**
+3. Click on this option to proceed
+4. Add a **custom note** for the notification
+5. Send the notification to customers who have marked the product as favorite
+
+![Notify Customers with Custom Note](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/04/favproductfe.webp)
+
+
+### Important Conditions
+
+The notification feature will work only if the following conditions are met:
+
+- At least **one customer has marked the product as a favorite**
+- At least **one customer has subscribed to email notifications**
+
+
+
+This feature enhances seller-customer engagement by allowing **personalized communication** and better control over product update notifications.
+
 ### Multivendor Marketplace App for Shopify: Favorite Product/Seller Demo
 
 Check out: [https://multivendor-marketplace-5.myshopify.com/](https://multivendor-marketplace-5.myshopify.com/)
