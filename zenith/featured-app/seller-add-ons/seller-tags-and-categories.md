@@ -33,7 +33,7 @@ The admin needs to visit **Multivendor Admin Panel** > **Configuration** > **Sel
 *   Allow seller to add categories to their account
 *   Restrict seller to add categories at the seller signup page
 
-[![image-21](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/06/image-21-1200x597.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/06/image-21-1200x597.png)
+[![image-21](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/sellertagndcategory7.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/sellertagndcategory7.webp)
 
  Seller Tags
 -------------
@@ -47,31 +47,31 @@ Further, clicking on **Add Tag**, the seller tags can be added.
 
 The seller tag can be deleted, edited or disabled:
 
-[![image-23](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/06/image-23-1200x597.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/06/image-23-1200x597.png)
+[![image-23](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/sellertagndcategory6.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/sellertagndcategory6.webp)
 
  Seller Category
 ----------------
 To add seller category, the admin needs to visit **Multivendor Admin Panel** > **Sellers** > **Seller Collection**:
 
-[![image-24](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/06/image-24-1200x597.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/06/image-24-1200x597.png)
+[![image-24](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/sellertagndcategory5.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/sellertagndcategory5.webp)
 
 Further, the category can be added by clicking on **Add Collection**:
 
-[![image-25](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/06/image-25-1200x597.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/06/image-25-1200x597.png)
+[![image-25](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/sellertagndcategory4.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/sellertagndcategory4.webp)
 
 Added category can now be delete or edited:
 
-[![image-26](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/06/image-26-1200x597.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/06/image-26-1200x597.png)
+[![image-26](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/sellertagndcategory3.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/sellertagndcategory3.webp)
 
 The admin can add tags and categories for a seller by visiting edit seller page:
 
-[![image-33](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/06/image-33-1200x597.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/06/image-33-1200x597.png)
+[![image-33](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/sellertagndcategory2.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/sellertagndcategory2.webp)
 
  Seller Panel
 ----------------------
 The sellers can choose the **seller category** & **seller tags** added by the admin by visiting **Multivendor Seller Panel** \> **Profile** > **My Account**:
 
-[![image-31](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/06/image-31-1200x597.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/06/image-31-1200x597.png)
+[![image-31](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/sellertagndcategory1.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/sellertagndcategory1.webp)
 
 The seller will get the option to select category & add tags on the seller signup page as well:
 

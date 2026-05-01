@@ -33,7 +33,7 @@ You have to enable this API feature from the featured app section so that you ca
 
 Besides that, this will have additional charges of USD15 per month over and above your current multivendor plan.
 
-[![Multivendor API](https://cdnblog.webkul.com/blog/wp-content/uploads/2017/08/31111725/Screenshot-23.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2017/08/31111725/Screenshot-23.png)
+[![Multivendor API](http://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/multivendorapi.webp)](http://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/multivendorapi.webp)
 
 Click the **ENABLE** button to activate the Multi-vendor API feature app.
 
@@ -76,25 +76,25 @@ API Doc includes all the URLs listed in POST, GET, PUT & DELETE method.
 --------------
 As soon as you enable the Multi-vendor API feature app, the **Multi-vendor API** menu gets reflected in the side menu of the admin panel.
 
-[![AwesomeScreenshot-shopify-trunk-webkul-shopify-mp-admin-index.php-2019-07-31_2_50-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/07/31092103/AwesomeScreenshot-shopify-trunk-webkul-shopify-mp-admin-index.php-2019-07-31_2_50-1.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/07/31092103/AwesomeScreenshot-shopify-trunk-webkul-shopify-mp-admin-index.php-2019-07-31_2_50-1.png)
+[![AwesomeScreenshot-shopify-trunk-webkul-shopify-mp-admin-index.php-2019-07-31_2_50-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/mvmapione.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/mvmapione.webp)
 
 Clicking this button, You will be redirected to the API Credentials section. Just click the "**Add User**" button & fill the details to add users & assign permissions to them.
 
-[![AwesomeScreenshot-shopify-trunk-webkul-shopify-mp-admin-index.php-2019-07-31_2_56](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/07/31092703/AwesomeScreenshot-shopify-trunk-webkul-shopify-mp-admin-index.php-2019-07-31_2_56.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/07/31092703/AwesomeScreenshot-shopify-trunk-webkul-shopify-mp-admin-index.php-2019-07-31_2_56.png)
+[![AwesomeScreenshot-shopify-trunk-webkul-shopify-mp-admin-index.php-2019-07-31_2_56](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/mvmapitwo.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/mvmapitwo.webp)
 
 Clicking the **Add User** button, you need to fill the User details such as User name, user email, and password.
 
-[![AwesomeScreenshot-shopify-trunk-webkul-shopify-mp-admin-index.php-2019-07-31_3_16](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/07/31094724/AwesomeScreenshot-shopify-trunk-webkul-shopify-mp-admin-index.php-2019-07-31_3_16.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/07/31094724/AwesomeScreenshot-shopify-trunk-webkul-shopify-mp-admin-index.php-2019-07-31_3_16.png)
+[![AwesomeScreenshot-shopify-trunk-webkul-shopify-mp-admin-index.php-2019-07-31_3_16](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/mvmapithree-1.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/mvmapithree-1.webp)
 
 Now, click the **Continue** button to set the resource permission for the API. Click the checkboxes to assign permission to the users for various resources.
 
-[![AwesomeScreenshot-shopify-trunk-webkul-shopify-mp-admin-index.php-2019-07-31_3_23](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/07/31095410/AwesomeScreenshot-shopify-trunk-webkul-shopify-mp-admin-index.php-2019-07-31_3_23.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/07/31095410/AwesomeScreenshot-shopify-trunk-webkul-shopify-mp-admin-index.php-2019-07-31_3_23.png)
+[![AwesomeScreenshot-shopify-trunk-webkul-shopify-mp-admin-index.php-2019-07-31_3_23](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/mvmapifour.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/mvmapifour.webp)
 
 Now, click the **Save** button to save the settings.
 
 This way, you can add user & assign certain permissions to let him/her access the Multi-vendor API. You can anytime **disable** or **revoke** the user as per the requirement.
 
-[![added user](https://cdnblog.webkul.com/blog/wp-content/uploads/2017/08/31115820/AwesomeScreenshot-shopify-trunk-webkul-shopify-mp-admin-index.php-2019-07-31_5_27.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2017/08/31115820/AwesomeScreenshot-shopify-trunk-webkul-shopify-mp-admin-index.php-2019-07-31_5_27.png)
+[![added user](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/mvmapifive.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/mvmapifive.webp)
 
 Now, let's see how the marketplace sellers will get access to multi-vendor APIs.
 
@@ -110,16 +110,16 @@ You need to follow the below-given steps:-
 *   Click the **Seller Listing** menu.
 *   Select the seller to which you want to permit the API access.
 
-[![select sellers](https://cdnblog.webkul.com/blog/wp-content/uploads/2017/08/31112716/AwesomeScreenshot-shopify-trunk-webkul-shopify-mp-admin-index.php-2019-07-31_4_44.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2017/08/31112716/AwesomeScreenshot-shopify-trunk-webkul-shopify-mp-admin-index.php-2019-07-31_4_44.png)
+[![select sellers](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/mvmapisix.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/mvmapisix.webp)
 
 *   Visiting the Edit Seller section of the app, scroll down to the bottom to get the option to Generate API credentials for your sellers.
 *   Click the **Generate API Credentials** button & generate the tokens to access the APIs.
 
-[![generate credentails](https://cdnblog.webkul.com/blog/wp-content/uploads/2017/08/31113157/AwesomeScreenshot-shopify-trunk-webkul-shopify-mp-admin-index.php-2019-07-31_5_01.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2017/08/31113157/AwesomeScreenshot-shopify-trunk-webkul-shopify-mp-admin-index.php-2019-07-31_5_01.png)
+[![generate credentails](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/mvmapiseven.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/mvmapiseven.webp)
 
 As soon as the admin clicks the Generate API credentials button, a pop-up appears and you will be asked to set resource permissions for your sellers. Enable the **checkbox** to assign permission.
 
-[![AwesomeScreenshot-shopify-trunk-webkul-shopify-mp-admin-index.php-2019-08-01_11_20](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/08/01055043/AwesomeScreenshot-shopify-trunk-webkul-shopify-mp-admin-index.php-2019-08-01_11_20.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/08/01055043/AwesomeScreenshot-shopify-trunk-webkul-shopify-mp-admin-index.php-2019-08-01_11_20.png)
+[![AwesomeScreenshot-shopify-trunk-webkul-shopify-mp-admin-index.php-2019-08-01_11_20](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/mvmapieight-1.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/mvmapieight-1.webp)
 
 Clicking the **Save** button, a unique access token gets generated for the seller that will reflect at the seller side too.
 
@@ -127,11 +127,11 @@ Now, once you generate the credentials & enable the checkbox "**Send Notificatio
 
 Later if required, admin can update the token. He needs to click the "**Update Permissions**" button and then, click the "**Save**" button to get a new access token.
 
-[![token](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/08/Edit-Seller-Admin-1200x597.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/08/Edit-Seller-Admin-1200x597.png)
+[![token](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/mvmapinine.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/mvmapinine.webp)
 
 Now, click the **SAVE** button.
 
-[![permission](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/08/Edit-Seller-Admin-1-1200x551.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/08/Edit-Seller-Admin-1-1200x551.png)
+[![permission](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/mvmapiten.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/mvmapiten.webp)
 
 > **POINT TO BE NOTED**
 > 
@@ -141,7 +141,7 @@ Now, click the **SAVE** button.
 
 You will have the option to configure the email from the "Mail Configuration" menu of the app.
 
-[![AwesomeScreenshot-shopify-trunk-webkul-shopify-mp-admin-index.php-2019-08-01_11_24](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/08/01055514/AwesomeScreenshot-shopify-trunk-webkul-shopify-mp-admin-index.php-2019-08-01_11_24.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/08/01055514/AwesomeScreenshot-shopify-trunk-webkul-shopify-mp-admin-index.php-2019-08-01_11_24.png)
+[![AwesomeScreenshot-shopify-trunk-webkul-shopify-mp-admin-index.php-2019-08-01_11_24](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/mvmapieleven.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/mvmapieleven.webp)
 
 This way, you can generate API credentials for the sellers.
 
@@ -150,11 +150,11 @@ This way, you can generate API credentials for the sellers.
 
 To get the API credentials, the seller needs to visit his "**My Account**" section of his/her seller panel. 
 
-[![Seller end-My Account](https://cdnblog.webkul.com/blog/wp-content/uploads/2017/08/31113646/AwesomeScreenshot-shopify-trunk-webkul-shopify-mp-index.php-2019-07-31_5_06.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2017/08/31113646/AwesomeScreenshot-shopify-trunk-webkul-shopify-mp-index.php-2019-07-31_5_06.png)
+[![Seller end-My Account](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/mvmapitwelve.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/mvmapitwelve.webp)
 
 In the **My Account** section, the seller will get the API credentials. 
 
-[![Api credential for sellers](https://cdnblog.webkul.com/blog/wp-content/uploads/2017/08/31115035/AwesomeScreenshot-shopify-trunk-webkul-shopify-mp-index.php-2019-07-31_5_19.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2017/08/31115035/AwesomeScreenshot-shopify-trunk-webkul-shopify-mp-index.php-2019-07-31_5_19.png)
+[![Api credential for sellers](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/mvmapithirteen.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/mvmapithirteen.webp)
 
 Now, the seller will get the Multi-vendor API access to check the response of certain actions. 
 

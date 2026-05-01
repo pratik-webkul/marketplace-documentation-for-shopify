@@ -46,6 +46,10 @@ Now, as soon as the Seller Shopify Connector feature app is Active, the sellers 
 -------------
 To use the features of the seller Shopify connector app, the seller needs to create a custom app for their Shopify store.
 
+Click here to watch the video ⬇️ 
+[![Watch Video](https://img.youtube.com/vi/njsZgLXqV_8/maxresdefault.jpg)](https://www.youtube.com/watch?v=njsZgLXqV_8)
+
+
 ### How to create a custom app?
 
 Seller have to log in to their dev dashboard through [dev.shopify.com](http://dev.shopify.com/) and then log in to the store.

@@ -132,3 +132,8 @@ As soon as you have pasted this client ID and secret in the social login configu
 Then your seller login page will look like the below:-
 
 [![Annotate-a-local-image22](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/10/Annotate-a-local-image22-1200x621.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/10/Annotate-a-local-image22-1200x621.png)
+
+Note--
+Sellers who sign up for their account on the Multi-Vendor Marketplace via social media login (like Gmail or Facebook) will only be able to log in using the same social media login (Gmail/Facebook).
+
+On the other hand, sellers who create their account through the regular signup form will only be able to log in using the direct signin form — they will not be able to log in using social media login (Gmail/Facebook).

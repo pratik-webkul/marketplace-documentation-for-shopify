@@ -44,11 +44,11 @@ There are certain limitations of this featured app:-
 -------------
 Visit the Feature app section and enable the **Custom** **Options** feature app.
 
-[![Dashboard](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/11/Home-Admin-1.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/11/Home-Admin-1.png)
+[![Dashboard](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/esygrp1773048626848.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/esygrp1773048626848.webp)
 
 Visiting the feature App section, search for the featured app & **enable** it.  
 
-[![Screenshot-97](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/01/Screenshot-97.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/01/Screenshot-97.png)
+[![Screenshot-97](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/esygrp1773048638558.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/esygrp1773048638558.webp)
 
 Click the **Enable** button to activate the **Custom Option** feature app.
 
@@ -59,13 +59,13 @@ For that, go to:
 
 **MVM Admin Panel > Configuration > Custom Option Configuration**
 
-[![bsbsgb](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/12/b6naux9jkjjlptiuey4d-1200x564.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/12/b6naux9jkjjlptiuey4d-1200x564.webp)
+[![bsbsgb](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/esygrp1773048804555.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/esygrp1773048804555.webp)
 
 Now, enable the tab "**Allow Sellers to Add Custom Options to Products**".
 
 Once enabled, both you & your sellers will be able to add multiple custom product options while adding or editing a product.
 
-[![bge](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/12/screenshot-1200x555.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/12/screenshot-1200x555.webp)
+[![bge](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/esygrp1773048835837.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/esygrp1773048835837.webp)
 
  How to Add the Custom Product Options?
 ---------------
@@ -75,12 +75,12 @@ Once enabled, both you & your sellers will be able to add multiple custom produc
 *   Click the **Product Listing** menu under Products.
 *   Click the **Add Product** button.
 
-[![product listing](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/12/Product-Admin-1200x627.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/12/Product-Admin-1200x627.png)
+[![product listing](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/esygrp1773048888437.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/esygrp1773048888437.webp)
 
 *   Now, scroll down to the bottom and **add the custom options**.  
     This feature app provides 4 different ways to display your seller's products with custom options i.e. Text, Text Area, Toggle checkbox, DropDown.
 
-[![Add-Product-Admin333](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/02/Add-Product-Admin333-1200x608.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/02/Add-Product-Admin333-1200x608.png)
+[![Add-Product-Admin333](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/esygrp1773048939787.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/esygrp1773048939787.webp)
 
 **SELLER END**
 
@@ -91,7 +91,7 @@ Similar to the admin, the seller can also add the custom product options to thei
 *   Clicking the "Add Product" button, the seller will get redirected to the "Add product form" and fill the required form.
 *   Scrolling-down to bottom, the seller will have the option to add multiple custom product options.
 
-[![77](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/04/77-1200x662.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/04/77-1200x662.png)
+[![77](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/esygrp1773049036009.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/esygrp1773049036009.webp)
 
 NOTE:- **Single quote('), double quote("), double colon(::), comma(,)** are not allowed in the field name.  
 Instead, you can use a vertical bar/pipe (|) as a separator.
@@ -106,7 +106,7 @@ To get the code, please visit the "Instruction for Marketplace" section.
 --------------
 Here we’ve introduced a new add-on feature that allows you to enable this feature at the variant level.
 
-[![trw](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/12/four-1200x554.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/12/four-1200x554.webp)
+[![trw](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/esygrp1773049089976.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/esygrp1773049089976.webp)
 
 This flexible enhancement ensures better product customisation, offering a seamless shopping experience tailored to individual customer needs.
 
@@ -121,7 +121,7 @@ We’ve introduced a new feature with two powerful options for managing :
 1.  **Delete Custom Option at Product Level**: This option removes all custom options applied at the product level.
 2.  **Move Custom Option to Variant Level**: Select this option to transfer all existing custom options from the product level to the variant level .
 
-[![select custom option](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/10/select-option-1200x595.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/10/select-option-1200x595.webp)
+[![select custom option](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/esygrp1773049284858.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/esygrp1773049284858.webp)
 
  Global Custom Options
 --------------
@@ -129,15 +129,15 @@ We’ve introduced a new feature that allows the admin to create **global custom
 
 This enhancement helps streamline the process of adding product options across the marketplace.  
 
-[![Gloabl-custom-option](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/12/custom-option-gloabl-config-1200x574.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/12/custom-option-gloabl-config-1200x574.webp)
+[![Gloabl-custom-option](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/esygrp1773049327542.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/esygrp1773049327542.webp)
 
 To configure this feature, navigate to **Product Navigation > Global Custom Options** in your admin panel.  
 
-[![add-global custom option](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/12/add-custom-option-1200x943.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/12/add-custom-option-1200x943.webp)
+[![add-global custom option](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/esygrp1773049494138.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/esygrp1773049494138.webp)
 
 On this page, the admin can easily create and manage predefined custom options that will be available to all sellers.
 
-[![select custom option](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/12/select-custom-options-1200x574.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/12/select-custom-options-1200x574.webp)
+[![select custom option](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/esygrp1773049516034.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/esygrp1773049516034.webp)
 
 Sellers will be provided with two choices while managing product options:
 
@@ -145,7 +145,7 @@ Sellers will be provided with two choices while managing product options:
 
 **Use Predefined Custom Options** – Sellers can select from a list of global custom options created by the admin. This ensures consistency and saves time when adding product variations.
 
-[![add-new-custom-options](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/12/add-new-custom-option-1200x573.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/12/add-new-custom-option-1200x573.webp)
+[![add-new-custom-options](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/esygrp1773049516034.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/esygrp1773049516034.webp)
 
 Note :   
 **This selection is a one-time setup per product. When a seller first adds custom options to a product, they must choose either “Use Predefined Custom Options” or “Create Custom Options Manually.”  
@@ -157,11 +157,11 @@ Restrict Input Type for Custom Options
 ---------------
 We’ve introduced a new enhancement in the **Custom Options** feature — **Restrict Input Type for Custom Options**.
 
-[![strct](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/12/rstrct-1.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/12/rstrct-1.webp)
+[![strct](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/esygrp1773049582156.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/esygrp1773049582156.webp)
 
 Previously, all input types were available in the _Add Product_ section by default. Now, with this new setting, you can control which input types should be available for selection.
 
-[![rstrctt](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/12/rstrcttoo-1200x611.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/12/rstrcttoo-1200x611.webp)
+[![rstrctt](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/esygrp1773049643537.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/esygrp1773049643537.webp)
 
 Simply tick the input types you want to allow, and only those options will appear when adding a product.
 
@@ -172,13 +172,13 @@ Make Custom Options Mandatory
 -----------------
 Another useful addition to the **Custom Options** settings is the **Make Custom Options Mandatory** feature.
 
-[![mndtry](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/12/mndtry-1200x614.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/12/mndtry-1200x614.webp)
+[![mndtry](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/esygrp1773049690810.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/esygrp1773049690810.webp)
 
 When this option is enabled, the **Keep the field mandatory for customers** setting in the _Add Product_ page will always remain enabled.
 
 This means you cannot disable it, ensuring that customers must fill in the required custom options before completing their purchase.
 
-[![mndtrytoo](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/12/mndtrytoo-1200x611.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/12/mndtrytoo-1200x611.webp)
+[![mndtrytoo](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/esygrp1773049736110.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/esygrp1773049736110.webp)
 
 This update is perfect for cases where certain product details or inputs are essential, helping you maintain consistent and accurate order information.
 
@@ -191,13 +191,13 @@ How to add custom products option at variant level ?
 *   Click the **Product Listing** menu under Products.
 *   Click the **Add Product** button.
 
-[![product listing](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/12/Product-Admin-1200x627.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/12/Product-Admin-1200x627.png)
+[![product listing](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/esygrp1773049768635.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/esygrp1773049768635.webp)
 
 Now, scroll down to the bottom and **add the custom options**.
 
 This feature app provides 4 different ways to display your seller's products with i.e. Text, Text Area, Toggle checkbox, Drop Down and Multi-select .
 
-[![custom-type](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/10/custom-option-apply-variant-1200x542.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/10/custom-option-apply-variant-1200x542.webp)
+[![custom-type](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/esygrp1773049805134.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/esygrp1773049805134.webp)
 
 You can choose from two options weather you want to apply the custom option on the first variant or you want to apply it on all the variant .
 
@@ -212,13 +212,13 @@ To add a custom option for every variant or a specific one, follow these steps:
 
 This will allow you to customise options for each variant individually .
 
-[![custom-option-edit-variant](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/10/custom-option-edit-variant-1200x593.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/10/custom-option-edit-variant-1200x593.webp)
+[![custom-option-edit-variant](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/esygrp1773049864918.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/esygrp1773049864918.webp)
 
 After making your selection, you’ll be redirected to an edit page. From there, you can add new custom options to specific variants of your choice.
 
 Additionally, you’ll have the ability to edit any existing custom fields that were previously applied to all variants, giving you complete control over customisation
 
-[![custom-option-add-details](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/10/custom-option-add-details-1200x524.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/10/custom-option-add-details-1200x524.webp)
+[![custom-option-add-details](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/esygrp1773049902904.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/esygrp1773049902904.webp)
 
 You can also change the input type from here and also can add the new options.
 
@@ -238,7 +238,7 @@ Copy the below-given code and add it to **product.liquid** template file inside 
 
 In case, you haven't found the required template file? - Click on the '**Regenerate**' button to create a new one.
 
-[![Instructions-Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/12/Instructions-Admin-1200x627.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/12/Instructions-Admin-1200x627.png)
+[![Instructions-Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/esygrp1773050020974.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/esygrp1773050020974.webp)
 
 And that is how it appears on the store-front:
 
@@ -250,7 +250,7 @@ After filling all the custom information for this product, the customer will add
 
 Now, once this product is ordered, both you and your sellers can view the custom information about the product on the order detail page.
 
-[![Order-Details-Seller-•-Multivendor-MarketPlace-6](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/12/Order-Details-Seller-%E2%80%A2-Multivendor-MarketPlace-6-1200x627.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/12/Order-Details-Seller-%E2%80%A2-Multivendor-MarketPlace-6-1200x627.png)
+[![Order-Details-Seller-•-Multivendor-MarketPlace-6](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/esygrp1773050783742.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/esygrp1773050783742.webp)
 
  Custom Option "Input Types"
 ---------------
@@ -290,11 +290,11 @@ You can add custom options while adding/editing products to your store.
 
 Go to Products\>>Add Product/Edit Product>>CUSTOM OPTIONS\>>Enter Field Name, Select TOGGLE CHECKBOX, Enable Price for Custom Option & Enter Amount you want to charge>>Save.
 
-[![Edit-Product-Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/09/Edit-Product-Admin-1200x597.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/09/Edit-Product-Admin-1200x597.png)
+[![Edit-Product-Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/esygrp1773050870307.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/esygrp1773050870307.webp)
 
 To reflect this on the front end, you need to add codes provided in the "Instruction for Marketplace" menu in the app.
 
-[![Instructions-Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/09/Instructions-Admin-1200x597.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/09/Instructions-Admin-1200x597.png)
+[![Instructions-Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/esygrp1773050907384.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/esygrp1773050907384.webp)
 
 If you don't find the files, click the **Regenerate** button. In case you need help with the codes, you can drop a mail to support@webkul.com.
 
@@ -304,7 +304,7 @@ After adding the codes, this is how it appears on the front end.
 
 To make this feature work with the **[split cart](https://webkul.com/blog/shopify-multivendor-marketplace-split-cart/)** feature app, make sure to enable the product properties in the split cart configuration.
 
-[![Screenshot-2020-09-02T181342.267](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/09/Screenshot-2020-09-02T181342.267.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/09/Screenshot-2020-09-02T181342.267.png)
+[![Screenshot-2020-09-02T181342.267](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/esygrp1773290980178.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/esygrp1773290980178.webp)
 
  Drop down as Input type
 --------------
@@ -312,7 +312,7 @@ You can now use **Dropdown** as an "input type" for a custom option added to a p
 
 If you want to charge an additional amount for certain choices, enable the **price option** and enter the amount to be added to the product price.
 
-[![dropdown](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/10/dropdown-1200x477.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/10/dropdown-1200x477.webp)
+[![dropdown](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/esygrp1773291302606.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/esygrp1773291302606.webp)
 
 Example :
 
@@ -339,7 +339,7 @@ While adding a **Multi-Select** option to a product, you can:
 2.  Add multiple **choices** (e.g., “Front Print,” “Back Print”).
 3.  Enable the **price option** for each choice to apply an additional amount based on the customer’s selection.
 
-[![multiselect](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/10/multiselect-1200x500.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/10/multiselect-1200x500.webp)
+[![multiselect](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/esygrp1773291344256.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/esygrp1773291344256.webp)
 
 Example :
 
@@ -361,7 +361,7 @@ Now, you have the option to mark custom options as mandatory, ensuring that cust
 
 To make a custom option mandatory, simply check the "Keep the field mandatory for customers" option.
 
-[![custom options mandatory](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/05/customoption-1200x606.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/05/customoption-1200x606.webp)
+[![custom options mandatory](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/esygrp1773291375371.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/esygrp1773291375371.webp)
 
 Once saved, the customers will not be able to proceed to the next step without input.
 
@@ -373,7 +373,7 @@ To enable this feature, navigate to:
 **MVM Admin Panel > Configuration > Custom Option Configuration**,  
 and turn ON the toggle for **"Allow Seller to Add Expiry Date to Custom Options."**
 
-[![Add Expiry Date to Custom Options.](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/12/ss1-1200x599.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/12/ss1-1200x599.webp)
+[![Add Expiry Date to Custom Options.](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/esygrp1773291423296.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/esygrp1773291423296.webp)
 
 Once enabled, sellers will be able to define an **expiry date for specific custom options** while creating or editing them.
 
@@ -383,7 +383,7 @@ For example, limited edition engravings, seasonal packaging options, or promotio
 
 **Please note that this configuration is applicable only for the "Multiselect Checkbox" Input Type**
 
-[![Multiselect Checkbox](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/12/ss2-1200x585.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/12/ss2-1200x585.webp)
+[![Multiselect Checkbox](http://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/esygrp1773291476775.webp)](http://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/esygrp1773291476775.webp)
 
 This setting gives more control to sellers over how and until when their custom options should be visible to customers.
 
@@ -395,7 +395,7 @@ To enable this, go to:
 **MVM Admin Panel > Configuration > Custom Option Configuration**,  
 and turn ON the toggle for **"Allow Seller to Add Select All Option to Multi-Select Custom Option."**
 
-[![ Multi-Select Custom ](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/12/ss3-1200x557.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/12/ss3-1200x557.webp)
+[![ Multi-Select Custom ](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/esygrp1773291535951.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/esygrp1773291535951.webp)
 
 Once this feature is activated, sellers can provide customers with the ability to **select all available choices at once** within a multi-select custom option.
 
@@ -405,7 +405,7 @@ It improves the customer experience by making selection faster and more convenie
 --------------
 This configuration enables sellers to **set default pre-selected values** for multi-select custom options.
 
-[![default pre-selected values](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/12/ss4-1200x562.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/12/ss4-1200x562.webp)
+[![default pre-selected values](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/esygrp1773291566186.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/esygrp1773291566186.webp)
 
 To enable this, navigate to:  
 **MVM Admin Panel > Configuration > Custom Option Configuration**,  
@@ -427,7 +427,7 @@ To enable this, go to:
 **MVM Admin Panel > Configuration > Custom Option Configuration**,  
 and turn ON the toggle for **"Allow Seller to Add Price to Dropdown Custom Options."**
 
-[![ Add Price to Dropdown Custom Options.](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/12/ss5-1200x582.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/12/ss5-1200x582.webp)
+[![ Add Price to Dropdown Custom Options.](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/esygrp1773291594672.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/esygrp1773291594672.webp)
 
 Once this is enabled, sellers will be able to **set additional pricing** for individual options within a dropdown field. This is useful in cases like:
 

@@ -35,7 +35,7 @@ To make this feature work on the Multivendor App, admin first needs to add vario
 
 Once added, go to the Feature App section of the Multivendor App and activate the feature.
 
-[![Feature App1](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/01/Feature-Apps-Admin.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/01/Feature-Apps-Admin.png)
+[![Feature App1](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/multilocationone.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/multilocationone.webp)
 
 This way the admin can enable this feature app.
 
@@ -55,11 +55,11 @@ Coming to the Multivendor App…
 
 As soon as you enable the feature apps, a new menu gets added to the **Configuration** menu of the app i.e. **Multilocation Configuration**.
 
-[![multi vendor marketplace](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/08/Dashboard-_-Admin-2.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/08/Dashboard-_-Admin-2.png)
+[![multi vendor marketplace](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/multilocationtwo.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/multilocationtwo.webp)
 
 Here, the admin will get the option to enable the Multilocation feature for the sellers so that sellers can manage product inventory as per the location preferences.
 
-[![multilocation configuration](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/01/configuration-2-1200x520.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/01/configuration-2-1200x520.webp)
+[![multilocation configuration](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/multilocationthree.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/multilocationthree.webp)
 
 Change Status:- Firstly, you need to enable the Multi-location status for the sellers. Later, if you disable this tab, all the seller’s default location will be disabled with this action.
 
@@ -75,7 +75,7 @@ In case you choose this location type, your product inventory will get transferr
 ---------------------
 Now, you can view all the added inventory locations in the **Multi-location Inventory** section of the app.
 
-[![multi vendor marketplace](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/08/Home-_-Admin.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/08/Home-_-Admin.png)
+[![multi vendor marketplace](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/multilocationfour.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/multilocationfour.webp)
 
 In the Multi-location Inventory section, you can view the list of all the added locations. You can add Multi-vendor locations. Also, you can sync the Shopify locations to the app.
 
@@ -88,14 +88,14 @@ Additionally, you will get an option to enable the inventory location feature f
 
 Your sellers will get the multi-location inventory feature on their respective panels only when you enable the tab.
 
-[![sync shopify location](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/01/synclocation-1200x575.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/01/synclocation-1200x575.webp)
+[![sync shopify location](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/multilocationfive.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/multilocationfive.webp)
 
 > **Note**:- You can’t delete the primary location.
 
 Now, while adding new products, you will get all the locations to manage product inventory.  
 Products>>Product Listing>>Add product>>Quantity>>Edit Locations.
 
-[![Add-Product-_-Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/08/Add-Product-_-Admin.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/08/Add-Product-_-Admin.png)
+[![Add-Product-_-Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/multilocationsix.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/multilocationsix.webp)
 
 But make sure that these locations vary at the admin end as it depends on the seller’s added locations.
 
@@ -109,7 +109,7 @@ This option appears when the admin adds to track the product’s inventory while
 
 Admin Panel of Multivendor App>>Products>>Product Listing>>Add Product>>Track Inventory.
 
-[![tracking](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/01/Add-Product-Admin-2.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/01/Add-Product-Admin-2.png)
+[![tracking](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/multilocationseven.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/multilocationseven.webp)
 
  Default Location for Sellers
 ------------------
@@ -117,7 +117,7 @@ Now, the admin can **set** the “Default Inventory Location” for the seller
 
 Go to Multivendor **Admin** Panel>>Go to **Sellers**\>>**Seller Listing**\>>Click “**Edit**” in Action menu>>Scroll down to get the **Seller Default Location section** in the bottom-right corner.
 
-[![edit seller](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/01/Seller-Admin.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/01/Seller-Admin.png)
+[![edit seller](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/multilocationeight.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/multilocationeight.webp)
 
 Get the **SELLER DEFAULT LOCATION** section:
 
@@ -125,7 +125,7 @@ Admin first needs to enable the Tab to make the Multilocation feature work for t
 
 Once You enable the Multilocation Tab, You need to select a default inventory location that You have added on Your Store.
 
-[![set seller's default location](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/01/Edit-Seller-Admin.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/01/Edit-Seller-Admin.png)
+[![set seller's default location](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/multilocationnine.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/multilocationnine.webp)
 
 Clicking on the “Save Location” button, You will be asked to choose an option for the confirmation.
 
@@ -143,7 +143,7 @@ Once selected, click on the Save Location button.
 
 Also, Once You deactivate the Default Location from Your Store, you need to sync the products manually in the app.
 
-[![multilocation](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/01/Multi-Location-Admin-1.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/01/Multi-Location-Admin-1.png)
+[![multilocation](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/multilocationten.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/multilocationten.webp)
 
 Admin can also select the Priority location for his/her sellers from the Action menu. 
 
@@ -153,15 +153,15 @@ Similarly, from their respective panels, Sellers can enable the inventory locati
 
 Seller Panel of the Multivendor App>>Products>>Product Listing>>Click on “Add Product”
 
-[![Multi-Inventory88](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/01/Product-Seller-%E2%80%A2-Multivendor-MarketPlace-1.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/01/Product-Seller-%E2%80%A2-Multivendor-MarketPlace-1.png)
+[![Multi-Inventory88](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/multilocationeleven.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/multilocationeleven.webp)
 
 While adding a new product, the seller will get the option to select the inventory locations where he/she wants to stock the product.
 
-[![Tracking 11](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/01/Add-Product-Seller-%E2%80%A2-Multivendor-MarketPlace-1.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/01/Add-Product-Seller-%E2%80%A2-Multivendor-MarketPlace-1.png)
+[![Tracking 11](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/multilocationtwelve.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/multilocationtwelve.webp)
 
 **In case of Seller Default Location:**
 
-[![edit product](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/01/Add-Product-Seller-%E2%80%A2-Multivendor-MarketPlace-3.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/01/Add-Product-Seller-%E2%80%A2-Multivendor-MarketPlace-3.png)
+[![edit product](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/multilocationthirteen.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/multilocationthirteen.webp)
 
 Once the admin sets a default inventory location for the seller, the seller will get only that location to track product inventory while adding/editing any product.
 
@@ -169,15 +169,15 @@ Once the admin sets a default inventory location for the seller, the seller will
 ------------
 When an order is placed for the products with multiple inventory locations, sellers will get the option to update the location while fulfilling the order.
 
-[![fulfill](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/01/Order-Seller-%E2%80%A2-Multivendor-MarketPlace.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/01/Order-Seller-%E2%80%A2-Multivendor-MarketPlace.png)
+[![fulfill](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/multilocationfourteen.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/multilocationfourteen.webp)
 
 Clicking on the fulfill button, the seller will update the location from where the fulfillment has been done.
 
-[![fulfilled 55](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/01/Order-Details-Seller-%E2%80%A2-Multivendor-MarketPlace-2.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/01/Order-Details-Seller-%E2%80%A2-Multivendor-MarketPlace-2.png)
+[![fulfilled 55](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/multilocationfifteen.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/multilocationfifteen.webp)
 
 Clicking on the View button, the seller will be reaching to the Order detail section from where he/she can update the fulfilled inventory location.
 
-[![seller order details ](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/01/Order-Details-Seller-%E2%80%A2-Multivendor-MarketPlace-3.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/01/Order-Details-Seller-%E2%80%A2-Multivendor-MarketPlace-3.png)
+[![seller order details ](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/multilocationsixteen.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/multilocationsixteen.webp)
 
 Also, Fulfillment details of the Order will be visible like this in the Order Detail section of Seller Panel:
 

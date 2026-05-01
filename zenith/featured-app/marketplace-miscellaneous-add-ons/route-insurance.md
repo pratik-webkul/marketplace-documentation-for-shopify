@@ -27,11 +27,11 @@ This feature app comes with the pricing of **$7 USD/month** in addition to your 
 --------------------
 To enable this feature app, first visit the Feature Apps section. Now, search for the "**Route Insurance**".
 
-[![Dashboard-Admin-2](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/10/Dashboard-Admin-2-1200x597.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/10/Dashboard-Admin-2-1200x597.png)
+[![Dashboard-Admin-2](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/featuredapps.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/featuredapps.webp)
 
 Now, activate the Route Insurance feature app.
 
-[![Screenshot-2020-10-07T105719.027](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/10/Screenshot-2020-10-07T105719.027.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/10/Screenshot-2020-10-07T105719.027.png)
+[![Screenshot-2020-10-07T105719.027](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/routeinsurance.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/routeinsurance.webp)
 
 Click the “**Enable**” button.
 
@@ -39,11 +39,11 @@ Click the “**Enable**” button.
 
 As soon as you activate this feature app, you need to visit the admin panel Configuration>>**Route Insurance Configuration**\>>Enter Details>>Save.
 
-[![Home-Admin-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/10/Home-Admin-1-1200x597.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/10/Home-Admin-1-1200x597.png)
+[![Home-Admin-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/routeone.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/routeone.webp)
 
 Enter the Route Insurance Details.
 
-[![Add-Route-Configuration-Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/10/Add-Route-Configuration-Admin-1200x799.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/10/Add-Route-Configuration-Admin-1200x799.png)
+[![Add-Route-Configuration-Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/routetwo.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/routetwo.webp)
 
  How to Get Route Insurance Details?
 -------------------
@@ -62,7 +62,7 @@ Get the details and configure in the app.
 
 Moreover, to make it work, You need to visit the Configuration>>**Order Configuration** menu and enable the "Mandate Order Tranking Number" tab.
 
-[![Configuration-Admin-13](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/10/Configuration-Admin-13-1200x627.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/10/Configuration-Admin-13-1200x627.png)
+[![Configuration-Admin-13](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/routethree.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/routethree.webp)
 
 Now, to show the "Insurance" option on the cart page, you need to add the codes provided in the app.
 
