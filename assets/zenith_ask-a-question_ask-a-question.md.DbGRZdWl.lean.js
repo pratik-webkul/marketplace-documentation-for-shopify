@@ -1,0 +1,9937 @@
+import{_ as l,c as a,o as s,ah as o,j as n,a as e}from"./chunks/framework.PvdZnrZd.js";const y=JSON.parse('{"title":"ASK A QUESTION","description":"ASK A QUESTION","frontmatter":{"title":"ASK A QUESTION","description":"ASK A QUESTION","date":"2025-07-29T00:00:00.000Z","author":"Chirag Tyagi"},"headers":[],"relativePath":"zenith/ask-a-question/ask-a-question.md","filePath":"zenith/ask-a-question/ask-a-question.md"}'),r={name:"zenith/ask-a-question/ask-a-question.md"};function i(c,t,m,d,g,u){return s(),a("div",null,[...t[0]||(t[0]=[o("",9),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
+          event.preventDefault();
+
+          const existing = document.getElementById('wk-image-overlay');
+          if(existing) existing.remove();
+
+          const overlay = document.createElement('div');
+          overlay.id = 'wk-image-overlay';
+
+          overlay.style.cssText = \`
+            position:fixed;
+            inset:0;
+            background:rgba(0,0,0,0.88);
+            display:flex;
+            align-items:center;
+            justify-content:center;
+            z-index:99999;
+            padding:20px;
+            cursor:zoom-out;
+            overflow:hidden;
+            backdrop-filter: blur(3px);
+          \`;
+
+          const img = document.createElement('img');
+          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/29113304/AwesomeScreenshot-Feature-Apps-Admin-2019-07-29-17-07-27.png";
+
+          img.style.cssText = \`
+            max-width:95%;
+            max-height:95%;
+            border-radius:12px;
+            transition:transform .15s ease;
+            cursor:zoom-in;
+            will-change:transform;
+            user-select:none;
+          \`;
+
+          let scale = 1;
+
+          // scroll zoom
+          overlay.onwheel = (e) => {
+            e.preventDefault();
+
+            scale += e.deltaY * -0.001;
+            scale = Math.min(Math.max(1, scale), 5);
+
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          // double click zoom
+          img.ondblclick = () => {
+            scale = scale === 1 ? 2 : 1;
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          overlay.appendChild(img);
+          document.body.appendChild(overlay);
+
+          // close overlay
+          overlay.onclick = (e) => {
+            if (e.target === overlay) {
+              overlay.remove();
+            }
+          };
+
+          // esc close
+          document.onkeydown = (e) => {
+            if (e.key === 'Escape') {
+              overlay.remove();
+            }
+          };
+        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/29113304/AwesomeScreenshot-Feature-Apps-Admin-2019-07-29-17-07-27.png",alt:"Ask a Question ",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+        const existing = document.getElementById('wk-image-overlay');
+        if(existing) existing.remove();
+
+        const overlay = document.createElement('div');
+        overlay.id = 'wk-image-overlay';
+
+        overlay.style.cssText = \`
+          position:fixed;
+          inset:0;
+          background:rgba(0,0,0,0.88);
+          display:flex;
+          align-items:center;
+          justify-content:center;
+          z-index:99999;
+          padding:20px;
+          cursor:zoom-out;
+          overflow:hidden;
+          backdrop-filter: blur(3px);
+        \`;
+
+        const img = document.createElement('img');
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/29113304/AwesomeScreenshot-Feature-Apps-Admin-2019-07-29-17-07-27.png";
+
+        img.style.cssText = \`
+          max-width:95%;
+          max-height:95%;
+          border-radius:12px;
+          transition:transform .15s ease;
+          cursor:zoom-in;
+          will-change:transform;
+          user-select:none;
+        \`;
+
+        let scale = 1;
+
+        // scroll zoom
+        overlay.onwheel = (e) => {
+          e.preventDefault();
+
+          scale += e.deltaY * -0.001;
+          scale = Math.min(Math.max(1, scale), 5);
+
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        // double click zoom
+        img.ondblclick = () => {
+          scale = scale === 1 ? 2 : 1;
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        overlay.appendChild(img);
+        document.body.appendChild(overlay);
+
+        // close overlay
+        overlay.onclick = (e) => {
+          if (e.target === overlay) {
+            overlay.remove();
+          }
+        };
+
+        // esc close
+        document.onkeydown = (e) => {
+          if (e.key === 'Escape') {
+            overlay.remove();
+          }
+        };
+      `})])],-1),n("p",null,"After clicking on the enable button, just agree to additional charges, which are over and above to your current multivendor Market Plan.",-1),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
+          event.preventDefault();
+
+          const existing = document.getElementById('wk-image-overlay');
+          if(existing) existing.remove();
+
+          const overlay = document.createElement('div');
+          overlay.id = 'wk-image-overlay';
+
+          overlay.style.cssText = \`
+            position:fixed;
+            inset:0;
+            background:rgba(0,0,0,0.88);
+            display:flex;
+            align-items:center;
+            justify-content:center;
+            z-index:99999;
+            padding:20px;
+            cursor:zoom-out;
+            overflow:hidden;
+            backdrop-filter: blur(3px);
+          \`;
+
+          const img = document.createElement('img');
+          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/k-1.png";
+
+          img.style.cssText = \`
+            max-width:95%;
+            max-height:95%;
+            border-radius:12px;
+            transition:transform .15s ease;
+            cursor:zoom-in;
+            will-change:transform;
+            user-select:none;
+          \`;
+
+          let scale = 1;
+
+          // scroll zoom
+          overlay.onwheel = (e) => {
+            e.preventDefault();
+
+            scale += e.deltaY * -0.001;
+            scale = Math.min(Math.max(1, scale), 5);
+
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          // double click zoom
+          img.ondblclick = () => {
+            scale = scale === 1 ? 2 : 1;
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          overlay.appendChild(img);
+          document.body.appendChild(overlay);
+
+          // close overlay
+          overlay.onclick = (e) => {
+            if (e.target === overlay) {
+              overlay.remove();
+            }
+          };
+
+          // esc close
+          document.onkeydown = (e) => {
+            if (e.key === 'Escape') {
+              overlay.remove();
+            }
+          };
+        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/k-1.png",alt:"Ask a Question ",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+        const existing = document.getElementById('wk-image-overlay');
+        if(existing) existing.remove();
+
+        const overlay = document.createElement('div');
+        overlay.id = 'wk-image-overlay';
+
+        overlay.style.cssText = \`
+          position:fixed;
+          inset:0;
+          background:rgba(0,0,0,0.88);
+          display:flex;
+          align-items:center;
+          justify-content:center;
+          z-index:99999;
+          padding:20px;
+          cursor:zoom-out;
+          overflow:hidden;
+          backdrop-filter: blur(3px);
+        \`;
+
+        const img = document.createElement('img');
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/k-1.png";
+
+        img.style.cssText = \`
+          max-width:95%;
+          max-height:95%;
+          border-radius:12px;
+          transition:transform .15s ease;
+          cursor:zoom-in;
+          will-change:transform;
+          user-select:none;
+        \`;
+
+        let scale = 1;
+
+        // scroll zoom
+        overlay.onwheel = (e) => {
+          e.preventDefault();
+
+          scale += e.deltaY * -0.001;
+          scale = Math.min(Math.max(1, scale), 5);
+
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        // double click zoom
+        img.ondblclick = () => {
+          scale = scale === 1 ? 2 : 1;
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        overlay.appendChild(img);
+        document.body.appendChild(overlay);
+
+        // close overlay
+        overlay.onclick = (e) => {
+          if (e.target === overlay) {
+            overlay.remove();
+          }
+        };
+
+        // esc close
+        document.onkeydown = (e) => {
+          if (e.key === 'Escape') {
+            overlay.remove();
+          }
+        };
+      `})])],-1),n("p",null,'Once you agree to the additional charges, a new menu called "Ask a Question Configuration" will be added to the configuration section of your Multivendor Marketplace app.',-1),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
+          event.preventDefault();
+
+          const existing = document.getElementById('wk-image-overlay');
+          if(existing) existing.remove();
+
+          const overlay = document.createElement('div');
+          overlay.id = 'wk-image-overlay';
+
+          overlay.style.cssText = \`
+            position:fixed;
+            inset:0;
+            background:rgba(0,0,0,0.88);
+            display:flex;
+            align-items:center;
+            justify-content:center;
+            z-index:99999;
+            padding:20px;
+            cursor:zoom-out;
+            overflow:hidden;
+            backdrop-filter: blur(3px);
+          \`;
+
+          const img = document.createElement('img');
+          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/r-3.png";
+
+          img.style.cssText = \`
+            max-width:95%;
+            max-height:95%;
+            border-radius:12px;
+            transition:transform .15s ease;
+            cursor:zoom-in;
+            will-change:transform;
+            user-select:none;
+          \`;
+
+          let scale = 1;
+
+          // scroll zoom
+          overlay.onwheel = (e) => {
+            e.preventDefault();
+
+            scale += e.deltaY * -0.001;
+            scale = Math.min(Math.max(1, scale), 5);
+
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          // double click zoom
+          img.ondblclick = () => {
+            scale = scale === 1 ? 2 : 1;
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          overlay.appendChild(img);
+          document.body.appendChild(overlay);
+
+          // close overlay
+          overlay.onclick = (e) => {
+            if (e.target === overlay) {
+              overlay.remove();
+            }
+          };
+
+          // esc close
+          document.onkeydown = (e) => {
+            if (e.key === 'Escape') {
+              overlay.remove();
+            }
+          };
+        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/r-3.png",alt:"Ask a Question ",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+        const existing = document.getElementById('wk-image-overlay');
+        if(existing) existing.remove();
+
+        const overlay = document.createElement('div');
+        overlay.id = 'wk-image-overlay';
+
+        overlay.style.cssText = \`
+          position:fixed;
+          inset:0;
+          background:rgba(0,0,0,0.88);
+          display:flex;
+          align-items:center;
+          justify-content:center;
+          z-index:99999;
+          padding:20px;
+          cursor:zoom-out;
+          overflow:hidden;
+          backdrop-filter: blur(3px);
+        \`;
+
+        const img = document.createElement('img');
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/r-3.png";
+
+        img.style.cssText = \`
+          max-width:95%;
+          max-height:95%;
+          border-radius:12px;
+          transition:transform .15s ease;
+          cursor:zoom-in;
+          will-change:transform;
+          user-select:none;
+        \`;
+
+        let scale = 1;
+
+        // scroll zoom
+        overlay.onwheel = (e) => {
+          e.preventDefault();
+
+          scale += e.deltaY * -0.001;
+          scale = Math.min(Math.max(1, scale), 5);
+
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        // double click zoom
+        img.ondblclick = () => {
+          scale = scale === 1 ? 2 : 1;
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        overlay.appendChild(img);
+        document.body.appendChild(overlay);
+
+        // close overlay
+        overlay.onclick = (e) => {
+          if (e.target === overlay) {
+            overlay.remove();
+          }
+        };
+
+        // esc close
+        document.onkeydown = (e) => {
+          if (e.key === 'Escape') {
+            overlay.remove();
+          }
+        };
+      `})])],-1),n("h3",{id:"ask-a-question-configuration",tabindex:"-1"},[e("Ask A Question Configuration "),n("a",{class:"header-anchor",href:"#ask-a-question-configuration","aria-label":'Permalink to "Ask A Question Configuration"'},"​")],-1),n("p",null,"Options available in this menu:-",-1),n("h4",{id:"_1-restrict-customer-to-raise-query-on-specific-product",tabindex:"-1"},[e("1. "),n("strong",null,[n("strong",null,"RESTRICT CUSTOMER TO RAISE QUERY ON SPECIFIC PRODUCT")]),e(),n("a",{class:"header-anchor",href:"#_1-restrict-customer-to-raise-query-on-specific-product","aria-label":'Permalink to "1. ****RESTRICT CUSTOMER TO RAISE QUERY ON SPECIFIC PRODUCT****"'},"​")],-1),n("p",null,'Enabling this tab allows customers to raise queries on specific products, restricting the "Ask a Question" option to the product page.',-1),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
+          event.preventDefault();
+
+          const existing = document.getElementById('wk-image-overlay');
+          if(existing) existing.remove();
+
+          const overlay = document.createElement('div');
+          overlay.id = 'wk-image-overlay';
+
+          overlay.style.cssText = \`
+            position:fixed;
+            inset:0;
+            background:rgba(0,0,0,0.88);
+            display:flex;
+            align-items:center;
+            justify-content:center;
+            z-index:99999;
+            padding:20px;
+            cursor:zoom-out;
+            overflow:hidden;
+            backdrop-filter: blur(3px);
+          \`;
+
+          const img = document.createElement('img');
+          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/01/rqryonspcp.webp";
+
+          img.style.cssText = \`
+            max-width:95%;
+            max-height:95%;
+            border-radius:12px;
+            transition:transform .15s ease;
+            cursor:zoom-in;
+            will-change:transform;
+            user-select:none;
+          \`;
+
+          let scale = 1;
+
+          // scroll zoom
+          overlay.onwheel = (e) => {
+            e.preventDefault();
+
+            scale += e.deltaY * -0.001;
+            scale = Math.min(Math.max(1, scale), 5);
+
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          // double click zoom
+          img.ondblclick = () => {
+            scale = scale === 1 ? 2 : 1;
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          overlay.appendChild(img);
+          document.body.appendChild(overlay);
+
+          // close overlay
+          overlay.onclick = (e) => {
+            if (e.target === overlay) {
+              overlay.remove();
+            }
+          };
+
+          // esc close
+          document.onkeydown = (e) => {
+            if (e.key === 'Escape') {
+              overlay.remove();
+            }
+          };
+        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2025/01/rqryonspcp.webp",alt:"Raise query on specific product.",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+        const existing = document.getElementById('wk-image-overlay');
+        if(existing) existing.remove();
+
+        const overlay = document.createElement('div');
+        overlay.id = 'wk-image-overlay';
+
+        overlay.style.cssText = \`
+          position:fixed;
+          inset:0;
+          background:rgba(0,0,0,0.88);
+          display:flex;
+          align-items:center;
+          justify-content:center;
+          z-index:99999;
+          padding:20px;
+          cursor:zoom-out;
+          overflow:hidden;
+          backdrop-filter: blur(3px);
+        \`;
+
+        const img = document.createElement('img');
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/01/rqryonspcp.webp";
+
+        img.style.cssText = \`
+          max-width:95%;
+          max-height:95%;
+          border-radius:12px;
+          transition:transform .15s ease;
+          cursor:zoom-in;
+          will-change:transform;
+          user-select:none;
+        \`;
+
+        let scale = 1;
+
+        // scroll zoom
+        overlay.onwheel = (e) => {
+          e.preventDefault();
+
+          scale += e.deltaY * -0.001;
+          scale = Math.min(Math.max(1, scale), 5);
+
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        // double click zoom
+        img.ondblclick = () => {
+          scale = scale === 1 ? 2 : 1;
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        overlay.appendChild(img);
+        document.body.appendChild(overlay);
+
+        // close overlay
+        overlay.onclick = (e) => {
+          if (e.target === overlay) {
+            overlay.remove();
+          }
+        };
+
+        // esc close
+        document.onkeydown = (e) => {
+          if (e.key === 'Escape') {
+            overlay.remove();
+          }
+        };
+      `})])],-1),n("p",null,[e('Once enabled, visit the "'),n("strong",null,"Edit Product"),e('" section and enable the tab to let customers raise queries on the particular product.')],-1),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
+          event.preventDefault();
+
+          const existing = document.getElementById('wk-image-overlay');
+          if(existing) existing.remove();
+
+          const overlay = document.createElement('div');
+          overlay.id = 'wk-image-overlay';
+
+          overlay.style.cssText = \`
+            position:fixed;
+            inset:0;
+            background:rgba(0,0,0,0.88);
+            display:flex;
+            align-items:center;
+            justify-content:center;
+            z-index:99999;
+            padding:20px;
+            cursor:zoom-out;
+            overflow:hidden;
+            backdrop-filter: blur(3px);
+          \`;
+
+          const img = document.createElement('img');
+          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2020/10/Edit-Product-Admin-1-1200x597.png";
+
+          img.style.cssText = \`
+            max-width:95%;
+            max-height:95%;
+            border-radius:12px;
+            transition:transform .15s ease;
+            cursor:zoom-in;
+            will-change:transform;
+            user-select:none;
+          \`;
+
+          let scale = 1;
+
+          // scroll zoom
+          overlay.onwheel = (e) => {
+            e.preventDefault();
+
+            scale += e.deltaY * -0.001;
+            scale = Math.min(Math.max(1, scale), 5);
+
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          // double click zoom
+          img.ondblclick = () => {
+            scale = scale === 1 ? 2 : 1;
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          overlay.appendChild(img);
+          document.body.appendChild(overlay);
+
+          // close overlay
+          overlay.onclick = (e) => {
+            if (e.target === overlay) {
+              overlay.remove();
+            }
+          };
+
+          // esc close
+          document.onkeydown = (e) => {
+            if (e.key === 'Escape') {
+              overlay.remove();
+            }
+          };
+        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2020/10/Edit-Product-Admin-1-1200x597.png",alt:"Edit-Product-Admin-1",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+        const existing = document.getElementById('wk-image-overlay');
+        if(existing) existing.remove();
+
+        const overlay = document.createElement('div');
+        overlay.id = 'wk-image-overlay';
+
+        overlay.style.cssText = \`
+          position:fixed;
+          inset:0;
+          background:rgba(0,0,0,0.88);
+          display:flex;
+          align-items:center;
+          justify-content:center;
+          z-index:99999;
+          padding:20px;
+          cursor:zoom-out;
+          overflow:hidden;
+          backdrop-filter: blur(3px);
+        \`;
+
+        const img = document.createElement('img');
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2020/10/Edit-Product-Admin-1-1200x597.png";
+
+        img.style.cssText = \`
+          max-width:95%;
+          max-height:95%;
+          border-radius:12px;
+          transition:transform .15s ease;
+          cursor:zoom-in;
+          will-change:transform;
+          user-select:none;
+        \`;
+
+        let scale = 1;
+
+        // scroll zoom
+        overlay.onwheel = (e) => {
+          e.preventDefault();
+
+          scale += e.deltaY * -0.001;
+          scale = Math.min(Math.max(1, scale), 5);
+
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        // double click zoom
+        img.ondblclick = () => {
+          scale = scale === 1 ? 2 : 1;
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        overlay.appendChild(img);
+        document.body.appendChild(overlay);
+
+        // close overlay
+        overlay.onclick = (e) => {
+          if (e.target === overlay) {
+            overlay.remove();
+          }
+        };
+
+        // esc close
+        document.onkeydown = (e) => {
+          if (e.key === 'Escape') {
+            overlay.remove();
+          }
+        };
+      `})])],-1),o("",4),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
+          event.preventDefault();
+
+          const existing = document.getElementById('wk-image-overlay');
+          if(existing) existing.remove();
+
+          const overlay = document.createElement('div');
+          overlay.id = 'wk-image-overlay';
+
+          overlay.style.cssText = \`
+            position:fixed;
+            inset:0;
+            background:rgba(0,0,0,0.88);
+            display:flex;
+            align-items:center;
+            justify-content:center;
+            z-index:99999;
+            padding:20px;
+            cursor:zoom-out;
+            overflow:hidden;
+            backdrop-filter: blur(3px);
+          \`;
+
+          const img = document.createElement('img');
+          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/01/rqryonordr.webp";
+
+          img.style.cssText = \`
+            max-width:95%;
+            max-height:95%;
+            border-radius:12px;
+            transition:transform .15s ease;
+            cursor:zoom-in;
+            will-change:transform;
+            user-select:none;
+          \`;
+
+          let scale = 1;
+
+          // scroll zoom
+          overlay.onwheel = (e) => {
+            e.preventDefault();
+
+            scale += e.deltaY * -0.001;
+            scale = Math.min(Math.max(1, scale), 5);
+
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          // double click zoom
+          img.ondblclick = () => {
+            scale = scale === 1 ? 2 : 1;
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          overlay.appendChild(img);
+          document.body.appendChild(overlay);
+
+          // close overlay
+          overlay.onclick = (e) => {
+            if (e.target === overlay) {
+              overlay.remove();
+            }
+          };
+
+          // esc close
+          document.onkeydown = (e) => {
+            if (e.key === 'Escape') {
+              overlay.remove();
+            }
+          };
+        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2025/01/rqryonordr.webp",alt:"Raise query on order.",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+        const existing = document.getElementById('wk-image-overlay');
+        if(existing) existing.remove();
+
+        const overlay = document.createElement('div');
+        overlay.id = 'wk-image-overlay';
+
+        overlay.style.cssText = \`
+          position:fixed;
+          inset:0;
+          background:rgba(0,0,0,0.88);
+          display:flex;
+          align-items:center;
+          justify-content:center;
+          z-index:99999;
+          padding:20px;
+          cursor:zoom-out;
+          overflow:hidden;
+          backdrop-filter: blur(3px);
+        \`;
+
+        const img = document.createElement('img');
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/01/rqryonordr.webp";
+
+        img.style.cssText = \`
+          max-width:95%;
+          max-height:95%;
+          border-radius:12px;
+          transition:transform .15s ease;
+          cursor:zoom-in;
+          will-change:transform;
+          user-select:none;
+        \`;
+
+        let scale = 1;
+
+        // scroll zoom
+        overlay.onwheel = (e) => {
+          e.preventDefault();
+
+          scale += e.deltaY * -0.001;
+          scale = Math.min(Math.max(1, scale), 5);
+
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        // double click zoom
+        img.ondblclick = () => {
+          scale = scale === 1 ? 2 : 1;
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        overlay.appendChild(img);
+        document.body.appendChild(overlay);
+
+        // close overlay
+        overlay.onclick = (e) => {
+          if (e.target === overlay) {
+            overlay.remove();
+          }
+        };
+
+        // esc close
+        document.onkeydown = (e) => {
+          if (e.key === 'Escape') {
+            overlay.remove();
+          }
+        };
+      `})])],-1),n("p",null,"Once enabled, both admin & seller will get the option to raise queries from the order detail section to their respective panels.",-1),n("p",null,[e("Seller can raise query on order by visiting Seller Panel>>Orders>>"),n("strong",null,"Order Listing"),e(">>View>>Click "),n("strong",null,"Raise Query"),e(".")],-1),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
+          event.preventDefault();
+
+          const existing = document.getElementById('wk-image-overlay');
+          if(existing) existing.remove();
+
+          const overlay = document.createElement('div');
+          overlay.id = 'wk-image-overlay';
+
+          overlay.style.cssText = \`
+            position:fixed;
+            inset:0;
+            background:rgba(0,0,0,0.88);
+            display:flex;
+            align-items:center;
+            justify-content:center;
+            z-index:99999;
+            padding:20px;
+            cursor:zoom-out;
+            overflow:hidden;
+            backdrop-filter: blur(3px);
+          \`;
+
+          const img = document.createElement('img');
+          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2020/10/Order-Details-Seller-%E2%80%A2-Multivendor-MarketPlace-1-1200x597.png";
+
+          img.style.cssText = \`
+            max-width:95%;
+            max-height:95%;
+            border-radius:12px;
+            transition:transform .15s ease;
+            cursor:zoom-in;
+            will-change:transform;
+            user-select:none;
+          \`;
+
+          let scale = 1;
+
+          // scroll zoom
+          overlay.onwheel = (e) => {
+            e.preventDefault();
+
+            scale += e.deltaY * -0.001;
+            scale = Math.min(Math.max(1, scale), 5);
+
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          // double click zoom
+          img.ondblclick = () => {
+            scale = scale === 1 ? 2 : 1;
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          overlay.appendChild(img);
+          document.body.appendChild(overlay);
+
+          // close overlay
+          overlay.onclick = (e) => {
+            if (e.target === overlay) {
+              overlay.remove();
+            }
+          };
+
+          // esc close
+          document.onkeydown = (e) => {
+            if (e.key === 'Escape') {
+              overlay.remove();
+            }
+          };
+        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2020/10/Order-Details-Seller-%E2%80%A2-Multivendor-MarketPlace-1-1200x597.png",alt:"Order-Details-Seller-•-Multivendor-MarketPlace-1",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+        const existing = document.getElementById('wk-image-overlay');
+        if(existing) existing.remove();
+
+        const overlay = document.createElement('div');
+        overlay.id = 'wk-image-overlay';
+
+        overlay.style.cssText = \`
+          position:fixed;
+          inset:0;
+          background:rgba(0,0,0,0.88);
+          display:flex;
+          align-items:center;
+          justify-content:center;
+          z-index:99999;
+          padding:20px;
+          cursor:zoom-out;
+          overflow:hidden;
+          backdrop-filter: blur(3px);
+        \`;
+
+        const img = document.createElement('img');
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2020/10/Order-Details-Seller-%E2%80%A2-Multivendor-MarketPlace-1-1200x597.png";
+
+        img.style.cssText = \`
+          max-width:95%;
+          max-height:95%;
+          border-radius:12px;
+          transition:transform .15s ease;
+          cursor:zoom-in;
+          will-change:transform;
+          user-select:none;
+        \`;
+
+        let scale = 1;
+
+        // scroll zoom
+        overlay.onwheel = (e) => {
+          e.preventDefault();
+
+          scale += e.deltaY * -0.001;
+          scale = Math.min(Math.max(1, scale), 5);
+
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        // double click zoom
+        img.ondblclick = () => {
+          scale = scale === 1 ? 2 : 1;
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        overlay.appendChild(img);
+        document.body.appendChild(overlay);
+
+        // close overlay
+        overlay.onclick = (e) => {
+          if (e.target === overlay) {
+            overlay.remove();
+          }
+        };
+
+        // esc close
+        document.onkeydown = (e) => {
+          if (e.key === 'Escape') {
+            overlay.remove();
+          }
+        };
+      `})])],-1),n("p",null,"Clicking the Raise Query button, the seller will fill the form and submit it.",-1),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
+          event.preventDefault();
+
+          const existing = document.getElementById('wk-image-overlay');
+          if(existing) existing.remove();
+
+          const overlay = document.createElement('div');
+          overlay.id = 'wk-image-overlay';
+
+          overlay.style.cssText = \`
+            position:fixed;
+            inset:0;
+            background:rgba(0,0,0,0.88);
+            display:flex;
+            align-items:center;
+            justify-content:center;
+            z-index:99999;
+            padding:20px;
+            cursor:zoom-out;
+            overflow:hidden;
+            backdrop-filter: blur(3px);
+          \`;
+
+          const img = document.createElement('img');
+          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2020/10/Order-Details-Seller-%E2%80%A2-Multivendor-MarketPlace-2-1200x597.png";
+
+          img.style.cssText = \`
+            max-width:95%;
+            max-height:95%;
+            border-radius:12px;
+            transition:transform .15s ease;
+            cursor:zoom-in;
+            will-change:transform;
+            user-select:none;
+          \`;
+
+          let scale = 1;
+
+          // scroll zoom
+          overlay.onwheel = (e) => {
+            e.preventDefault();
+
+            scale += e.deltaY * -0.001;
+            scale = Math.min(Math.max(1, scale), 5);
+
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          // double click zoom
+          img.ondblclick = () => {
+            scale = scale === 1 ? 2 : 1;
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          overlay.appendChild(img);
+          document.body.appendChild(overlay);
+
+          // close overlay
+          overlay.onclick = (e) => {
+            if (e.target === overlay) {
+              overlay.remove();
+            }
+          };
+
+          // esc close
+          document.onkeydown = (e) => {
+            if (e.key === 'Escape') {
+              overlay.remove();
+            }
+          };
+        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2020/10/Order-Details-Seller-%E2%80%A2-Multivendor-MarketPlace-2-1200x597.png",alt:"Order-Details-Seller-•-Multivendor-MarketPlace-2",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+        const existing = document.getElementById('wk-image-overlay');
+        if(existing) existing.remove();
+
+        const overlay = document.createElement('div');
+        overlay.id = 'wk-image-overlay';
+
+        overlay.style.cssText = \`
+          position:fixed;
+          inset:0;
+          background:rgba(0,0,0,0.88);
+          display:flex;
+          align-items:center;
+          justify-content:center;
+          z-index:99999;
+          padding:20px;
+          cursor:zoom-out;
+          overflow:hidden;
+          backdrop-filter: blur(3px);
+        \`;
+
+        const img = document.createElement('img');
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2020/10/Order-Details-Seller-%E2%80%A2-Multivendor-MarketPlace-2-1200x597.png";
+
+        img.style.cssText = \`
+          max-width:95%;
+          max-height:95%;
+          border-radius:12px;
+          transition:transform .15s ease;
+          cursor:zoom-in;
+          will-change:transform;
+          user-select:none;
+        \`;
+
+        let scale = 1;
+
+        // scroll zoom
+        overlay.onwheel = (e) => {
+          e.preventDefault();
+
+          scale += e.deltaY * -0.001;
+          scale = Math.min(Math.max(1, scale), 5);
+
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        // double click zoom
+        img.ondblclick = () => {
+          scale = scale === 1 ? 2 : 1;
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        overlay.appendChild(img);
+        document.body.appendChild(overlay);
+
+        // close overlay
+        overlay.onclick = (e) => {
+          if (e.target === overlay) {
+            overlay.remove();
+          }
+        };
+
+        // esc close
+        document.onkeydown = (e) => {
+          if (e.key === 'Escape') {
+            overlay.remove();
+          }
+        };
+      `})])],-1),o("",5),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
+          event.preventDefault();
+
+          const existing = document.getElementById('wk-image-overlay');
+          if(existing) existing.remove();
+
+          const overlay = document.createElement('div');
+          overlay.id = 'wk-image-overlay';
+
+          overlay.style.cssText = \`
+            position:fixed;
+            inset:0;
+            background:rgba(0,0,0,0.88);
+            display:flex;
+            align-items:center;
+            justify-content:center;
+            z-index:99999;
+            padding:20px;
+            cursor:zoom-out;
+            overflow:hidden;
+            backdrop-filter: blur(3px);
+          \`;
+
+          const img = document.createElement('img');
+          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/01/vieweditfaq.webp";
+
+          img.style.cssText = \`
+            max-width:95%;
+            max-height:95%;
+            border-radius:12px;
+            transition:transform .15s ease;
+            cursor:zoom-in;
+            will-change:transform;
+            user-select:none;
+          \`;
+
+          let scale = 1;
+
+          // scroll zoom
+          overlay.onwheel = (e) => {
+            e.preventDefault();
+
+            scale += e.deltaY * -0.001;
+            scale = Math.min(Math.max(1, scale), 5);
+
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          // double click zoom
+          img.ondblclick = () => {
+            scale = scale === 1 ? 2 : 1;
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          overlay.appendChild(img);
+          document.body.appendChild(overlay);
+
+          // close overlay
+          overlay.onclick = (e) => {
+            if (e.target === overlay) {
+              overlay.remove();
+            }
+          };
+
+          // esc close
+          document.onkeydown = (e) => {
+            if (e.key === 'Escape') {
+              overlay.remove();
+            }
+          };
+        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2025/01/vieweditfaq.webp",alt:"View & Edit FAQ.",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+        const existing = document.getElementById('wk-image-overlay');
+        if(existing) existing.remove();
+
+        const overlay = document.createElement('div');
+        overlay.id = 'wk-image-overlay';
+
+        overlay.style.cssText = \`
+          position:fixed;
+          inset:0;
+          background:rgba(0,0,0,0.88);
+          display:flex;
+          align-items:center;
+          justify-content:center;
+          z-index:99999;
+          padding:20px;
+          cursor:zoom-out;
+          overflow:hidden;
+          backdrop-filter: blur(3px);
+        \`;
+
+        const img = document.createElement('img');
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/01/vieweditfaq.webp";
+
+        img.style.cssText = \`
+          max-width:95%;
+          max-height:95%;
+          border-radius:12px;
+          transition:transform .15s ease;
+          cursor:zoom-in;
+          will-change:transform;
+          user-select:none;
+        \`;
+
+        let scale = 1;
+
+        // scroll zoom
+        overlay.onwheel = (e) => {
+          e.preventDefault();
+
+          scale += e.deltaY * -0.001;
+          scale = Math.min(Math.max(1, scale), 5);
+
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        // double click zoom
+        img.ondblclick = () => {
+          scale = scale === 1 ? 2 : 1;
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        overlay.appendChild(img);
+        document.body.appendChild(overlay);
+
+        // close overlay
+        overlay.onclick = (e) => {
+          if (e.target === overlay) {
+            overlay.remove();
+          }
+        };
+
+        // esc close
+        document.onkeydown = (e) => {
+          if (e.key === 'Escape') {
+            overlay.remove();
+          }
+        };
+      `})])],-1),n("p",null,[e("Note: This configuration will appear when you select either the "),n("strong",null,"FAQ"),e(" or "),n("strong",null,"Both"),e(" options from the "),n("strong",null,"'Select Ask a Question used for'"),e(" dropdown.")],-1),n("p",null,[e("To access and choose this option, go to the "),n("strong",null,"Multivendor Marketplace Admin Panel"),e(", then navigate to "),n("strong",null,"Configuration > Ask a Question Configuration > Product Configuration"),e(".")],-1),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
+          event.preventDefault();
+
+          const existing = document.getElementById('wk-image-overlay');
+          if(existing) existing.remove();
+
+          const overlay = document.createElement('div');
+          overlay.id = 'wk-image-overlay';
+
+          overlay.style.cssText = \`
+            position:fixed;
+            inset:0;
+            background:rgba(0,0,0,0.88);
+            display:flex;
+            align-items:center;
+            justify-content:center;
+            z-index:99999;
+            padding:20px;
+            cursor:zoom-out;
+            overflow:hidden;
+            backdrop-filter: blur(3px);
+          \`;
+
+          const img = document.createElement('img');
+          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/01/faqboth-1200x582.webp";
+
+          img.style.cssText = \`
+            max-width:95%;
+            max-height:95%;
+            border-radius:12px;
+            transition:transform .15s ease;
+            cursor:zoom-in;
+            will-change:transform;
+            user-select:none;
+          \`;
+
+          let scale = 1;
+
+          // scroll zoom
+          overlay.onwheel = (e) => {
+            e.preventDefault();
+
+            scale += e.deltaY * -0.001;
+            scale = Math.min(Math.max(1, scale), 5);
+
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          // double click zoom
+          img.ondblclick = () => {
+            scale = scale === 1 ? 2 : 1;
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          overlay.appendChild(img);
+          document.body.appendChild(overlay);
+
+          // close overlay
+          overlay.onclick = (e) => {
+            if (e.target === overlay) {
+              overlay.remove();
+            }
+          };
+
+          // esc close
+          document.onkeydown = (e) => {
+            if (e.key === 'Escape') {
+              overlay.remove();
+            }
+          };
+        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2025/01/faqboth-1200x582.webp",alt:"FAQ or Both",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+        const existing = document.getElementById('wk-image-overlay');
+        if(existing) existing.remove();
+
+        const overlay = document.createElement('div');
+        overlay.id = 'wk-image-overlay';
+
+        overlay.style.cssText = \`
+          position:fixed;
+          inset:0;
+          background:rgba(0,0,0,0.88);
+          display:flex;
+          align-items:center;
+          justify-content:center;
+          z-index:99999;
+          padding:20px;
+          cursor:zoom-out;
+          overflow:hidden;
+          backdrop-filter: blur(3px);
+        \`;
+
+        const img = document.createElement('img');
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/01/faqboth-1200x582.webp";
+
+        img.style.cssText = \`
+          max-width:95%;
+          max-height:95%;
+          border-radius:12px;
+          transition:transform .15s ease;
+          cursor:zoom-in;
+          will-change:transform;
+          user-select:none;
+        \`;
+
+        let scale = 1;
+
+        // scroll zoom
+        overlay.onwheel = (e) => {
+          e.preventDefault();
+
+          scale += e.deltaY * -0.001;
+          scale = Math.min(Math.max(1, scale), 5);
+
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        // double click zoom
+        img.ondblclick = () => {
+          scale = scale === 1 ? 2 : 1;
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        overlay.appendChild(img);
+        document.body.appendChild(overlay);
+
+        // close overlay
+        overlay.onclick = (e) => {
+          if (e.target === overlay) {
+            overlay.remove();
+          }
+        };
+
+        // esc close
+        document.onkeydown = (e) => {
+          if (e.key === 'Escape') {
+            overlay.remove();
+          }
+        };
+      `})])],-1),n("h4",{id:"_4-allow-customers-to-re-open-queries",tabindex:"-1"},[e("4**. ALLOW CUSTOMERS TO RE-OPEN QUERIES** "),n("a",{class:"header-anchor",href:"#_4-allow-customers-to-re-open-queries","aria-label":'Permalink to "4**. ALLOW CUSTOMERS TO RE-OPEN QUERIES**"'},"​")],-1),n("p",null,"By enabling this configuration, the Admin can allow customers to re-open queries.",-1),n("p",null,[e("To enable this configuration, go to the "),n("strong",null,"Multivendor Marketplace Admin Panel"),e(" and navigate to "),n("strong",null,"Configuration > Ask a Question Configuration > General Configuration"),e(".")],-1),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
+          event.preventDefault();
+
+          const existing = document.getElementById('wk-image-overlay');
+          if(existing) existing.remove();
+
+          const overlay = document.createElement('div');
+          overlay.id = 'wk-image-overlay';
+
+          overlay.style.cssText = \`
+            position:fixed;
+            inset:0;
+            background:rgba(0,0,0,0.88);
+            display:flex;
+            align-items:center;
+            justify-content:center;
+            z-index:99999;
+            padding:20px;
+            cursor:zoom-out;
+            overflow:hidden;
+            backdrop-filter: blur(3px);
+          \`;
+
+          const img = document.createElement('img');
+          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/01/reopenqry.webp";
+
+          img.style.cssText = \`
+            max-width:95%;
+            max-height:95%;
+            border-radius:12px;
+            transition:transform .15s ease;
+            cursor:zoom-in;
+            will-change:transform;
+            user-select:none;
+          \`;
+
+          let scale = 1;
+
+          // scroll zoom
+          overlay.onwheel = (e) => {
+            e.preventDefault();
+
+            scale += e.deltaY * -0.001;
+            scale = Math.min(Math.max(1, scale), 5);
+
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          // double click zoom
+          img.ondblclick = () => {
+            scale = scale === 1 ? 2 : 1;
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          overlay.appendChild(img);
+          document.body.appendChild(overlay);
+
+          // close overlay
+          overlay.onclick = (e) => {
+            if (e.target === overlay) {
+              overlay.remove();
+            }
+          };
+
+          // esc close
+          document.onkeydown = (e) => {
+            if (e.key === 'Escape') {
+              overlay.remove();
+            }
+          };
+        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2025/01/reopenqry.webp",alt:"Reopen query",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+        const existing = document.getElementById('wk-image-overlay');
+        if(existing) existing.remove();
+
+        const overlay = document.createElement('div');
+        overlay.id = 'wk-image-overlay';
+
+        overlay.style.cssText = \`
+          position:fixed;
+          inset:0;
+          background:rgba(0,0,0,0.88);
+          display:flex;
+          align-items:center;
+          justify-content:center;
+          z-index:99999;
+          padding:20px;
+          cursor:zoom-out;
+          overflow:hidden;
+          backdrop-filter: blur(3px);
+        \`;
+
+        const img = document.createElement('img');
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/01/reopenqry.webp";
+
+        img.style.cssText = \`
+          max-width:95%;
+          max-height:95%;
+          border-radius:12px;
+          transition:transform .15s ease;
+          cursor:zoom-in;
+          will-change:transform;
+          user-select:none;
+        \`;
+
+        let scale = 1;
+
+        // scroll zoom
+        overlay.onwheel = (e) => {
+          e.preventDefault();
+
+          scale += e.deltaY * -0.001;
+          scale = Math.min(Math.max(1, scale), 5);
+
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        // double click zoom
+        img.ondblclick = () => {
+          scale = scale === 1 ? 2 : 1;
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        overlay.appendChild(img);
+        document.body.appendChild(overlay);
+
+        // close overlay
+        overlay.onclick = (e) => {
+          if (e.target === overlay) {
+            overlay.remove();
+          }
+        };
+
+        // esc close
+        document.onkeydown = (e) => {
+          if (e.key === 'Escape') {
+            overlay.remove();
+          }
+        };
+      `})])],-1),n("h4",{id:"_5-allow-sellers-to-re-open-queries",tabindex:"-1"},[e("5**. "),n("strong",null,"ALLOW SELLERS TO RE-OPEN QUERIES"),e("** "),n("a",{class:"header-anchor",href:"#_5-allow-sellers-to-re-open-queries","aria-label":'Permalink to "5**. **ALLOW SELLERS TO RE-OPEN QUERIES****"'},"​")],-1),n("p",null,"By enabling this configuration, the Admin can allow sellers to re-open queries.",-1),n("p",null,[e("To enable this configuration, go to the "),n("strong",null,"Multivendor Marketplace Admin Panel"),e(" and navigate to "),n("strong",null,"Configuration > Ask a Question Configuration > General Configuration"),e(".")],-1),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
+          event.preventDefault();
+
+          const existing = document.getElementById('wk-image-overlay');
+          if(existing) existing.remove();
+
+          const overlay = document.createElement('div');
+          overlay.id = 'wk-image-overlay';
+
+          overlay.style.cssText = \`
+            position:fixed;
+            inset:0;
+            background:rgba(0,0,0,0.88);
+            display:flex;
+            align-items:center;
+            justify-content:center;
+            z-index:99999;
+            padding:20px;
+            cursor:zoom-out;
+            overflow:hidden;
+            backdrop-filter: blur(3px);
+          \`;
+
+          const img = document.createElement('img');
+          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/01/sellerreopenqry.webp";
+
+          img.style.cssText = \`
+            max-width:95%;
+            max-height:95%;
+            border-radius:12px;
+            transition:transform .15s ease;
+            cursor:zoom-in;
+            will-change:transform;
+            user-select:none;
+          \`;
+
+          let scale = 1;
+
+          // scroll zoom
+          overlay.onwheel = (e) => {
+            e.preventDefault();
+
+            scale += e.deltaY * -0.001;
+            scale = Math.min(Math.max(1, scale), 5);
+
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          // double click zoom
+          img.ondblclick = () => {
+            scale = scale === 1 ? 2 : 1;
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          overlay.appendChild(img);
+          document.body.appendChild(overlay);
+
+          // close overlay
+          overlay.onclick = (e) => {
+            if (e.target === overlay) {
+              overlay.remove();
+            }
+          };
+
+          // esc close
+          document.onkeydown = (e) => {
+            if (e.key === 'Escape') {
+              overlay.remove();
+            }
+          };
+        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2025/01/sellerreopenqry.webp",alt:"Seller reopen query",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+        const existing = document.getElementById('wk-image-overlay');
+        if(existing) existing.remove();
+
+        const overlay = document.createElement('div');
+        overlay.id = 'wk-image-overlay';
+
+        overlay.style.cssText = \`
+          position:fixed;
+          inset:0;
+          background:rgba(0,0,0,0.88);
+          display:flex;
+          align-items:center;
+          justify-content:center;
+          z-index:99999;
+          padding:20px;
+          cursor:zoom-out;
+          overflow:hidden;
+          backdrop-filter: blur(3px);
+        \`;
+
+        const img = document.createElement('img');
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/01/sellerreopenqry.webp";
+
+        img.style.cssText = \`
+          max-width:95%;
+          max-height:95%;
+          border-radius:12px;
+          transition:transform .15s ease;
+          cursor:zoom-in;
+          will-change:transform;
+          user-select:none;
+        \`;
+
+        let scale = 1;
+
+        // scroll zoom
+        overlay.onwheel = (e) => {
+          e.preventDefault();
+
+          scale += e.deltaY * -0.001;
+          scale = Math.min(Math.max(1, scale), 5);
+
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        // double click zoom
+        img.ondblclick = () => {
+          scale = scale === 1 ? 2 : 1;
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        overlay.appendChild(img);
+        document.body.appendChild(overlay);
+
+        // close overlay
+        overlay.onclick = (e) => {
+          if (e.target === overlay) {
+            overlay.remove();
+          }
+        };
+
+        // esc close
+        document.onkeydown = (e) => {
+          if (e.key === 'Escape') {
+            overlay.remove();
+          }
+        };
+      `})])],-1),n("h3",{id:"captcha-code-configuration-for-customer-verification",tabindex:"-1"},[e("Captcha Code Configuration for Customer Verification "),n("a",{class:"header-anchor",href:"#captcha-code-configuration-for-customer-verification","aria-label":'Permalink to "Captcha Code Configuration for Customer Verification"'},"​")],-1),n("p",null,"When this configuration is activated, customers will need to enter a Captcha code on the website's front end. This enhances security by preventing automated spam and unauthorized access.",-1),n("p",null,[e("To enable this configuration, go to the "),n("strong",null,"Multivendor Marketplace Admin Panel"),e(" and navigate to "),n("strong",null,"Configuration > Ask a Question Configuration > General Configuration"),e(".")],-1),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
+          event.preventDefault();
+
+          const existing = document.getElementById('wk-image-overlay');
+          if(existing) existing.remove();
+
+          const overlay = document.createElement('div');
+          overlay.id = 'wk-image-overlay';
+
+          overlay.style.cssText = \`
+            position:fixed;
+            inset:0;
+            background:rgba(0,0,0,0.88);
+            display:flex;
+            align-items:center;
+            justify-content:center;
+            z-index:99999;
+            padding:20px;
+            cursor:zoom-out;
+            overflow:hidden;
+            backdrop-filter: blur(3px);
+          \`;
+
+          const img = document.createElement('img');
+          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/01/captchafaq.webp";
+
+          img.style.cssText = \`
+            max-width:95%;
+            max-height:95%;
+            border-radius:12px;
+            transition:transform .15s ease;
+            cursor:zoom-in;
+            will-change:transform;
+            user-select:none;
+          \`;
+
+          let scale = 1;
+
+          // scroll zoom
+          overlay.onwheel = (e) => {
+            e.preventDefault();
+
+            scale += e.deltaY * -0.001;
+            scale = Math.min(Math.max(1, scale), 5);
+
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          // double click zoom
+          img.ondblclick = () => {
+            scale = scale === 1 ? 2 : 1;
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          overlay.appendChild(img);
+          document.body.appendChild(overlay);
+
+          // close overlay
+          overlay.onclick = (e) => {
+            if (e.target === overlay) {
+              overlay.remove();
+            }
+          };
+
+          // esc close
+          document.onkeydown = (e) => {
+            if (e.key === 'Escape') {
+              overlay.remove();
+            }
+          };
+        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2025/01/captchafaq.webp",alt:"reCaptcha",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+        const existing = document.getElementById('wk-image-overlay');
+        if(existing) existing.remove();
+
+        const overlay = document.createElement('div');
+        overlay.id = 'wk-image-overlay';
+
+        overlay.style.cssText = \`
+          position:fixed;
+          inset:0;
+          background:rgba(0,0,0,0.88);
+          display:flex;
+          align-items:center;
+          justify-content:center;
+          z-index:99999;
+          padding:20px;
+          cursor:zoom-out;
+          overflow:hidden;
+          backdrop-filter: blur(3px);
+        \`;
+
+        const img = document.createElement('img');
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/01/captchafaq.webp";
+
+        img.style.cssText = \`
+          max-width:95%;
+          max-height:95%;
+          border-radius:12px;
+          transition:transform .15s ease;
+          cursor:zoom-in;
+          will-change:transform;
+          user-select:none;
+        \`;
+
+        let scale = 1;
+
+        // scroll zoom
+        overlay.onwheel = (e) => {
+          e.preventDefault();
+
+          scale += e.deltaY * -0.001;
+          scale = Math.min(Math.max(1, scale), 5);
+
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        // double click zoom
+        img.ondblclick = () => {
+          scale = scale === 1 ? 2 : 1;
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        overlay.appendChild(img);
+        document.body.appendChild(overlay);
+
+        // close overlay
+        overlay.onclick = (e) => {
+          if (e.target === overlay) {
+            overlay.remove();
+          }
+        };
+
+        // esc close
+        document.onkeydown = (e) => {
+          if (e.key === 'Escape') {
+            overlay.remove();
+          }
+        };
+      `})])],-1),n("p",null,"On the frontend, the Captcha code configuration will display as shown in the below image:",-1),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
+          event.preventDefault();
+
+          const existing = document.getElementById('wk-image-overlay');
+          if(existing) existing.remove();
+
+          const overlay = document.createElement('div');
+          overlay.id = 'wk-image-overlay';
+
+          overlay.style.cssText = \`
+            position:fixed;
+            inset:0;
+            background:rgba(0,0,0,0.88);
+            display:flex;
+            align-items:center;
+            justify-content:center;
+            z-index:99999;
+            padding:20px;
+            cursor:zoom-out;
+            overflow:hidden;
+            backdrop-filter: blur(3px);
+          \`;
+
+          const img = document.createElement('img');
+          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2023/07/screenshot_1688651215860.jpeg";
+
+          img.style.cssText = \`
+            max-width:95%;
+            max-height:95%;
+            border-radius:12px;
+            transition:transform .15s ease;
+            cursor:zoom-in;
+            will-change:transform;
+            user-select:none;
+          \`;
+
+          let scale = 1;
+
+          // scroll zoom
+          overlay.onwheel = (e) => {
+            e.preventDefault();
+
+            scale += e.deltaY * -0.001;
+            scale = Math.min(Math.max(1, scale), 5);
+
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          // double click zoom
+          img.ondblclick = () => {
+            scale = scale === 1 ? 2 : 1;
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          overlay.appendChild(img);
+          document.body.appendChild(overlay);
+
+          // close overlay
+          overlay.onclick = (e) => {
+            if (e.target === overlay) {
+              overlay.remove();
+            }
+          };
+
+          // esc close
+          document.onkeydown = (e) => {
+            if (e.key === 'Escape') {
+              overlay.remove();
+            }
+          };
+        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2023/07/screenshot_1688651215860.jpeg",alt:"screenshot_1688651215860",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+        const existing = document.getElementById('wk-image-overlay');
+        if(existing) existing.remove();
+
+        const overlay = document.createElement('div');
+        overlay.id = 'wk-image-overlay';
+
+        overlay.style.cssText = \`
+          position:fixed;
+          inset:0;
+          background:rgba(0,0,0,0.88);
+          display:flex;
+          align-items:center;
+          justify-content:center;
+          z-index:99999;
+          padding:20px;
+          cursor:zoom-out;
+          overflow:hidden;
+          backdrop-filter: blur(3px);
+        \`;
+
+        const img = document.createElement('img');
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2023/07/screenshot_1688651215860.jpeg";
+
+        img.style.cssText = \`
+          max-width:95%;
+          max-height:95%;
+          border-radius:12px;
+          transition:transform .15s ease;
+          cursor:zoom-in;
+          will-change:transform;
+          user-select:none;
+        \`;
+
+        let scale = 1;
+
+        // scroll zoom
+        overlay.onwheel = (e) => {
+          e.preventDefault();
+
+          scale += e.deltaY * -0.001;
+          scale = Math.min(Math.max(1, scale), 5);
+
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        // double click zoom
+        img.ondblclick = () => {
+          scale = scale === 1 ? 2 : 1;
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        overlay.appendChild(img);
+        document.body.appendChild(overlay);
+
+        // close overlay
+        overlay.onclick = (e) => {
+          if (e.target === overlay) {
+            overlay.remove();
+          }
+        };
+
+        // esc close
+        document.onkeydown = (e) => {
+          if (e.key === 'Escape') {
+            overlay.remove();
+          }
+        };
+      `})])],-1),n("p",null,'From here you can edit "Ask a question" label values for the front end.',-1),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
+          event.preventDefault();
+
+          const existing = document.getElementById('wk-image-overlay');
+          if(existing) existing.remove();
+
+          const overlay = document.createElement('div');
+          overlay.id = 'wk-image-overlay';
+
+          overlay.style.cssText = \`
+            position:fixed;
+            inset:0;
+            background:rgba(0,0,0,0.88);
+            display:flex;
+            align-items:center;
+            justify-content:center;
+            z-index:99999;
+            padding:20px;
+            cursor:zoom-out;
+            overflow:hidden;
+            backdrop-filter: blur(3px);
+          \`;
+
+          const img = document.createElement('img');
+          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/Ask-a-question-configuration-_-Admin.jpg";
+
+          img.style.cssText = \`
+            max-width:95%;
+            max-height:95%;
+            border-radius:12px;
+            transition:transform .15s ease;
+            cursor:zoom-in;
+            will-change:transform;
+            user-select:none;
+          \`;
+
+          let scale = 1;
+
+          // scroll zoom
+          overlay.onwheel = (e) => {
+            e.preventDefault();
+
+            scale += e.deltaY * -0.001;
+            scale = Math.min(Math.max(1, scale), 5);
+
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          // double click zoom
+          img.ondblclick = () => {
+            scale = scale === 1 ? 2 : 1;
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          overlay.appendChild(img);
+          document.body.appendChild(overlay);
+
+          // close overlay
+          overlay.onclick = (e) => {
+            if (e.target === overlay) {
+              overlay.remove();
+            }
+          };
+
+          // esc close
+          document.onkeydown = (e) => {
+            if (e.key === 'Escape') {
+              overlay.remove();
+            }
+          };
+        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/Ask-a-question-configuration-_-Admin.jpg",alt:"Ask a Question ",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+        const existing = document.getElementById('wk-image-overlay');
+        if(existing) existing.remove();
+
+        const overlay = document.createElement('div');
+        overlay.id = 'wk-image-overlay';
+
+        overlay.style.cssText = \`
+          position:fixed;
+          inset:0;
+          background:rgba(0,0,0,0.88);
+          display:flex;
+          align-items:center;
+          justify-content:center;
+          z-index:99999;
+          padding:20px;
+          cursor:zoom-out;
+          overflow:hidden;
+          backdrop-filter: blur(3px);
+        \`;
+
+        const img = document.createElement('img');
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/Ask-a-question-configuration-_-Admin.jpg";
+
+        img.style.cssText = \`
+          max-width:95%;
+          max-height:95%;
+          border-radius:12px;
+          transition:transform .15s ease;
+          cursor:zoom-in;
+          will-change:transform;
+          user-select:none;
+        \`;
+
+        let scale = 1;
+
+        // scroll zoom
+        overlay.onwheel = (e) => {
+          e.preventDefault();
+
+          scale += e.deltaY * -0.001;
+          scale = Math.min(Math.max(1, scale), 5);
+
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        // double click zoom
+        img.ondblclick = () => {
+          scale = scale === 1 ? 2 : 1;
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        overlay.appendChild(img);
+        document.body.appendChild(overlay);
+
+        // close overlay
+        overlay.onclick = (e) => {
+          if (e.target === overlay) {
+            overlay.remove();
+          }
+        };
+
+        // esc close
+        document.onkeydown = (e) => {
+          if (e.key === 'Escape') {
+            overlay.remove();
+          }
+        };
+      `})])],-1),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
+          event.preventDefault();
+
+          const existing = document.getElementById('wk-image-overlay');
+          if(existing) existing.remove();
+
+          const overlay = document.createElement('div');
+          overlay.id = 'wk-image-overlay';
+
+          overlay.style.cssText = \`
+            position:fixed;
+            inset:0;
+            background:rgba(0,0,0,0.88);
+            display:flex;
+            align-items:center;
+            justify-content:center;
+            z-index:99999;
+            padding:20px;
+            cursor:zoom-out;
+            overflow:hidden;
+            backdrop-filter: blur(3px);
+          \`;
+
+          const img = document.createElement('img');
+          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2022/07/label2-913x1024.png";
+
+          img.style.cssText = \`
+            max-width:95%;
+            max-height:95%;
+            border-radius:12px;
+            transition:transform .15s ease;
+            cursor:zoom-in;
+            will-change:transform;
+            user-select:none;
+          \`;
+
+          let scale = 1;
+
+          // scroll zoom
+          overlay.onwheel = (e) => {
+            e.preventDefault();
+
+            scale += e.deltaY * -0.001;
+            scale = Math.min(Math.max(1, scale), 5);
+
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          // double click zoom
+          img.ondblclick = () => {
+            scale = scale === 1 ? 2 : 1;
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          overlay.appendChild(img);
+          document.body.appendChild(overlay);
+
+          // close overlay
+          overlay.onclick = (e) => {
+            if (e.target === overlay) {
+              overlay.remove();
+            }
+          };
+
+          // esc close
+          document.onkeydown = (e) => {
+            if (e.key === 'Escape') {
+              overlay.remove();
+            }
+          };
+        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2022/07/label2-913x1024.png",alt:"label2",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+        const existing = document.getElementById('wk-image-overlay');
+        if(existing) existing.remove();
+
+        const overlay = document.createElement('div');
+        overlay.id = 'wk-image-overlay';
+
+        overlay.style.cssText = \`
+          position:fixed;
+          inset:0;
+          background:rgba(0,0,0,0.88);
+          display:flex;
+          align-items:center;
+          justify-content:center;
+          z-index:99999;
+          padding:20px;
+          cursor:zoom-out;
+          overflow:hidden;
+          backdrop-filter: blur(3px);
+        \`;
+
+        const img = document.createElement('img');
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2022/07/label2-913x1024.png";
+
+        img.style.cssText = \`
+          max-width:95%;
+          max-height:95%;
+          border-radius:12px;
+          transition:transform .15s ease;
+          cursor:zoom-in;
+          will-change:transform;
+          user-select:none;
+        \`;
+
+        let scale = 1;
+
+        // scroll zoom
+        overlay.onwheel = (e) => {
+          e.preventDefault();
+
+          scale += e.deltaY * -0.001;
+          scale = Math.min(Math.max(1, scale), 5);
+
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        // double click zoom
+        img.ondblclick = () => {
+          scale = scale === 1 ? 2 : 1;
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        overlay.appendChild(img);
+        document.body.appendChild(overlay);
+
+        // close overlay
+        overlay.onclick = (e) => {
+          if (e.target === overlay) {
+            overlay.remove();
+          }
+        };
+
+        // esc close
+        document.onkeydown = (e) => {
+          if (e.key === 'Escape') {
+            overlay.remove();
+          }
+        };
+      `})])],-1),o("",3),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
+          event.preventDefault();
+
+          const existing = document.getElementById('wk-image-overlay');
+          if(existing) existing.remove();
+
+          const overlay = document.createElement('div');
+          overlay.id = 'wk-image-overlay';
+
+          overlay.style.cssText = \`
+            position:fixed;
+            inset:0;
+            background:rgba(0,0,0,0.88);
+            display:flex;
+            align-items:center;
+            justify-content:center;
+            z-index:99999;
+            padding:20px;
+            cursor:zoom-out;
+            overflow:hidden;
+            backdrop-filter: blur(3px);
+          \`;
+
+          const img = document.createElement('img');
+          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2020/08/image-21-1200x551.png";
+
+          img.style.cssText = \`
+            max-width:95%;
+            max-height:95%;
+            border-radius:12px;
+            transition:transform .15s ease;
+            cursor:zoom-in;
+            will-change:transform;
+            user-select:none;
+          \`;
+
+          let scale = 1;
+
+          // scroll zoom
+          overlay.onwheel = (e) => {
+            e.preventDefault();
+
+            scale += e.deltaY * -0.001;
+            scale = Math.min(Math.max(1, scale), 5);
+
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          // double click zoom
+          img.ondblclick = () => {
+            scale = scale === 1 ? 2 : 1;
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          overlay.appendChild(img);
+          document.body.appendChild(overlay);
+
+          // close overlay
+          overlay.onclick = (e) => {
+            if (e.target === overlay) {
+              overlay.remove();
+            }
+          };
+
+          // esc close
+          document.onkeydown = (e) => {
+            if (e.key === 'Escape') {
+              overlay.remove();
+            }
+          };
+        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2020/08/image-21-1200x551.png",alt:"image-21",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+        const existing = document.getElementById('wk-image-overlay');
+        if(existing) existing.remove();
+
+        const overlay = document.createElement('div');
+        overlay.id = 'wk-image-overlay';
+
+        overlay.style.cssText = \`
+          position:fixed;
+          inset:0;
+          background:rgba(0,0,0,0.88);
+          display:flex;
+          align-items:center;
+          justify-content:center;
+          z-index:99999;
+          padding:20px;
+          cursor:zoom-out;
+          overflow:hidden;
+          backdrop-filter: blur(3px);
+        \`;
+
+        const img = document.createElement('img');
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2020/08/image-21-1200x551.png";
+
+        img.style.cssText = \`
+          max-width:95%;
+          max-height:95%;
+          border-radius:12px;
+          transition:transform .15s ease;
+          cursor:zoom-in;
+          will-change:transform;
+          user-select:none;
+        \`;
+
+        let scale = 1;
+
+        // scroll zoom
+        overlay.onwheel = (e) => {
+          e.preventDefault();
+
+          scale += e.deltaY * -0.001;
+          scale = Math.min(Math.max(1, scale), 5);
+
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        // double click zoom
+        img.ondblclick = () => {
+          scale = scale === 1 ? 2 : 1;
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        overlay.appendChild(img);
+        document.body.appendChild(overlay);
+
+        // close overlay
+        overlay.onclick = (e) => {
+          if (e.target === overlay) {
+            overlay.remove();
+          }
+        };
+
+        // esc close
+        document.onkeydown = (e) => {
+          if (e.key === 'Escape') {
+            overlay.remove();
+          }
+        };
+      `})])],-1),n("p",null,"By enabling this, customers will have the following button on the seller profile page:",-1),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
+          event.preventDefault();
+
+          const existing = document.getElementById('wk-image-overlay');
+          if(existing) existing.remove();
+
+          const overlay = document.createElement('div');
+          overlay.id = 'wk-image-overlay';
+
+          overlay.style.cssText = \`
+            position:fixed;
+            inset:0;
+            background:rgba(0,0,0,0.88);
+            display:flex;
+            align-items:center;
+            justify-content:center;
+            z-index:99999;
+            padding:20px;
+            cursor:zoom-out;
+            overflow:hidden;
+            backdrop-filter: blur(3px);
+          \`;
+
+          const img = document.createElement('img');
+          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2020/08/Seller-Profile-%E2%80%93-Multivendor-ask-a-question-1.png";
+
+          img.style.cssText = \`
+            max-width:95%;
+            max-height:95%;
+            border-radius:12px;
+            transition:transform .15s ease;
+            cursor:zoom-in;
+            will-change:transform;
+            user-select:none;
+          \`;
+
+          let scale = 1;
+
+          // scroll zoom
+          overlay.onwheel = (e) => {
+            e.preventDefault();
+
+            scale += e.deltaY * -0.001;
+            scale = Math.min(Math.max(1, scale), 5);
+
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          // double click zoom
+          img.ondblclick = () => {
+            scale = scale === 1 ? 2 : 1;
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          overlay.appendChild(img);
+          document.body.appendChild(overlay);
+
+          // close overlay
+          overlay.onclick = (e) => {
+            if (e.target === overlay) {
+              overlay.remove();
+            }
+          };
+
+          // esc close
+          document.onkeydown = (e) => {
+            if (e.key === 'Escape') {
+              overlay.remove();
+            }
+          };
+        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2020/08/Seller-Profile-%E2%80%93-Multivendor-ask-a-question-1.png",alt:"Seller-Profile-–-Multivendor-ask-a-question-1",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+        const existing = document.getElementById('wk-image-overlay');
+        if(existing) existing.remove();
+
+        const overlay = document.createElement('div');
+        overlay.id = 'wk-image-overlay';
+
+        overlay.style.cssText = \`
+          position:fixed;
+          inset:0;
+          background:rgba(0,0,0,0.88);
+          display:flex;
+          align-items:center;
+          justify-content:center;
+          z-index:99999;
+          padding:20px;
+          cursor:zoom-out;
+          overflow:hidden;
+          backdrop-filter: blur(3px);
+        \`;
+
+        const img = document.createElement('img');
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2020/08/Seller-Profile-%E2%80%93-Multivendor-ask-a-question-1.png";
+
+        img.style.cssText = \`
+          max-width:95%;
+          max-height:95%;
+          border-radius:12px;
+          transition:transform .15s ease;
+          cursor:zoom-in;
+          will-change:transform;
+          user-select:none;
+        \`;
+
+        let scale = 1;
+
+        // scroll zoom
+        overlay.onwheel = (e) => {
+          e.preventDefault();
+
+          scale += e.deltaY * -0.001;
+          scale = Math.min(Math.max(1, scale), 5);
+
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        // double click zoom
+        img.ondblclick = () => {
+          scale = scale === 1 ? 2 : 1;
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        overlay.appendChild(img);
+        document.body.appendChild(overlay);
+
+        // close overlay
+        overlay.onclick = (e) => {
+          if (e.target === overlay) {
+            overlay.remove();
+          }
+        };
+
+        // esc close
+        document.onkeydown = (e) => {
+          if (e.key === 'Escape') {
+            overlay.remove();
+          }
+        };
+      `})])],-1),n("h3",{id:"ask-a-question-regarding-the-product",tabindex:"-1"},[e("ASK A QUESTION REGARDING THE PRODUCT "),n("a",{class:"header-anchor",href:"#ask-a-question-regarding-the-product","aria-label":'Permalink to "ASK A QUESTION REGARDING THE PRODUCT"'},"​")],-1),n("h2",{id:"admin-panel",tabindex:"-1"},[n("strong",null,"ADMIN PANEL:-"),e(),n("a",{class:"header-anchor",href:"#admin-panel","aria-label":'Permalink to "**ADMIN PANEL:-**"'},"​")],-1),n("p",null,'Admin can view the list of all asked questions asked by customers in the "ASK A QUESTION" section under the "Products " menu of the app.',-1),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
+          event.preventDefault();
+
+          const existing = document.getElementById('wk-image-overlay');
+          if(existing) existing.remove();
+
+          const overlay = document.createElement('div');
+          overlay.id = 'wk-image-overlay';
+
+          overlay.style.cssText = \`
+            position:fixed;
+            inset:0;
+            background:rgba(0,0,0,0.88);
+            display:flex;
+            align-items:center;
+            justify-content:center;
+            z-index:99999;
+            padding:20px;
+            cursor:zoom-out;
+            overflow:hidden;
+            backdrop-filter: blur(3px);
+          \`;
+
+          const img = document.createElement('img');
+          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/n-2.png";
+
+          img.style.cssText = \`
+            max-width:95%;
+            max-height:95%;
+            border-radius:12px;
+            transition:transform .15s ease;
+            cursor:zoom-in;
+            will-change:transform;
+            user-select:none;
+          \`;
+
+          let scale = 1;
+
+          // scroll zoom
+          overlay.onwheel = (e) => {
+            e.preventDefault();
+
+            scale += e.deltaY * -0.001;
+            scale = Math.min(Math.max(1, scale), 5);
+
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          // double click zoom
+          img.ondblclick = () => {
+            scale = scale === 1 ? 2 : 1;
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          overlay.appendChild(img);
+          document.body.appendChild(overlay);
+
+          // close overlay
+          overlay.onclick = (e) => {
+            if (e.target === overlay) {
+              overlay.remove();
+            }
+          };
+
+          // esc close
+          document.onkeydown = (e) => {
+            if (e.key === 'Escape') {
+              overlay.remove();
+            }
+          };
+        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/n-2.png",alt:"Ask a Question ",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+        const existing = document.getElementById('wk-image-overlay');
+        if(existing) existing.remove();
+
+        const overlay = document.createElement('div');
+        overlay.id = 'wk-image-overlay';
+
+        overlay.style.cssText = \`
+          position:fixed;
+          inset:0;
+          background:rgba(0,0,0,0.88);
+          display:flex;
+          align-items:center;
+          justify-content:center;
+          z-index:99999;
+          padding:20px;
+          cursor:zoom-out;
+          overflow:hidden;
+          backdrop-filter: blur(3px);
+        \`;
+
+        const img = document.createElement('img');
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/n-2.png";
+
+        img.style.cssText = \`
+          max-width:95%;
+          max-height:95%;
+          border-radius:12px;
+          transition:transform .15s ease;
+          cursor:zoom-in;
+          will-change:transform;
+          user-select:none;
+        \`;
+
+        let scale = 1;
+
+        // scroll zoom
+        overlay.onwheel = (e) => {
+          e.preventDefault();
+
+          scale += e.deltaY * -0.001;
+          scale = Math.min(Math.max(1, scale), 5);
+
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        // double click zoom
+        img.ondblclick = () => {
+          scale = scale === 1 ? 2 : 1;
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        overlay.appendChild(img);
+        document.body.appendChild(overlay);
+
+        // close overlay
+        overlay.onclick = (e) => {
+          if (e.target === overlay) {
+            overlay.remove();
+          }
+        };
+
+        // esc close
+        document.onkeydown = (e) => {
+          if (e.key === 'Escape') {
+            overlay.remove();
+          }
+        };
+      `})])],-1),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
+          event.preventDefault();
+
+          const existing = document.getElementById('wk-image-overlay');
+          if(existing) existing.remove();
+
+          const overlay = document.createElement('div');
+          overlay.id = 'wk-image-overlay';
+
+          overlay.style.cssText = \`
+            position:fixed;
+            inset:0;
+            background:rgba(0,0,0,0.88);
+            display:flex;
+            align-items:center;
+            justify-content:center;
+            z-index:99999;
+            padding:20px;
+            cursor:zoom-out;
+            overflow:hidden;
+            backdrop-filter: blur(3px);
+          \`;
+
+          const img = document.createElement('img');
+          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/k-2.png";
+
+          img.style.cssText = \`
+            max-width:95%;
+            max-height:95%;
+            border-radius:12px;
+            transition:transform .15s ease;
+            cursor:zoom-in;
+            will-change:transform;
+            user-select:none;
+          \`;
+
+          let scale = 1;
+
+          // scroll zoom
+          overlay.onwheel = (e) => {
+            e.preventDefault();
+
+            scale += e.deltaY * -0.001;
+            scale = Math.min(Math.max(1, scale), 5);
+
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          // double click zoom
+          img.ondblclick = () => {
+            scale = scale === 1 ? 2 : 1;
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          overlay.appendChild(img);
+          document.body.appendChild(overlay);
+
+          // close overlay
+          overlay.onclick = (e) => {
+            if (e.target === overlay) {
+              overlay.remove();
+            }
+          };
+
+          // esc close
+          document.onkeydown = (e) => {
+            if (e.key === 'Escape') {
+              overlay.remove();
+            }
+          };
+        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/k-2.png",alt:"Ask a Question ",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+        const existing = document.getElementById('wk-image-overlay');
+        if(existing) existing.remove();
+
+        const overlay = document.createElement('div');
+        overlay.id = 'wk-image-overlay';
+
+        overlay.style.cssText = \`
+          position:fixed;
+          inset:0;
+          background:rgba(0,0,0,0.88);
+          display:flex;
+          align-items:center;
+          justify-content:center;
+          z-index:99999;
+          padding:20px;
+          cursor:zoom-out;
+          overflow:hidden;
+          backdrop-filter: blur(3px);
+        \`;
+
+        const img = document.createElement('img');
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/k-2.png";
+
+        img.style.cssText = \`
+          max-width:95%;
+          max-height:95%;
+          border-radius:12px;
+          transition:transform .15s ease;
+          cursor:zoom-in;
+          will-change:transform;
+          user-select:none;
+        \`;
+
+        let scale = 1;
+
+        // scroll zoom
+        overlay.onwheel = (e) => {
+          e.preventDefault();
+
+          scale += e.deltaY * -0.001;
+          scale = Math.min(Math.max(1, scale), 5);
+
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        // double click zoom
+        img.ondblclick = () => {
+          scale = scale === 1 ? 2 : 1;
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        overlay.appendChild(img);
+        document.body.appendChild(overlay);
+
+        // close overlay
+        overlay.onclick = (e) => {
+          if (e.target === overlay) {
+            overlay.remove();
+          }
+        };
+
+        // esc close
+        document.onkeydown = (e) => {
+          if (e.key === 'Escape') {
+            overlay.remove();
+          }
+        };
+      `})])],-1),n("p",null,'Also, admin can see the complete history of seller and customer conversation by clicking on the "Open" section under the "Status button" in front of the customer name.',-1),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
+          event.preventDefault();
+
+          const existing = document.getElementById('wk-image-overlay');
+          if(existing) existing.remove();
+
+          const overlay = document.createElement('div');
+          overlay.id = 'wk-image-overlay';
+
+          overlay.style.cssText = \`
+            position:fixed;
+            inset:0;
+            background:rgba(0,0,0,0.88);
+            display:flex;
+            align-items:center;
+            justify-content:center;
+            z-index:99999;
+            padding:20px;
+            cursor:zoom-out;
+            overflow:hidden;
+            backdrop-filter: blur(3px);
+          \`;
+
+          const img = document.createElement('img');
+          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/m-2.png";
+
+          img.style.cssText = \`
+            max-width:95%;
+            max-height:95%;
+            border-radius:12px;
+            transition:transform .15s ease;
+            cursor:zoom-in;
+            will-change:transform;
+            user-select:none;
+          \`;
+
+          let scale = 1;
+
+          // scroll zoom
+          overlay.onwheel = (e) => {
+            e.preventDefault();
+
+            scale += e.deltaY * -0.001;
+            scale = Math.min(Math.max(1, scale), 5);
+
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          // double click zoom
+          img.ondblclick = () => {
+            scale = scale === 1 ? 2 : 1;
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          overlay.appendChild(img);
+          document.body.appendChild(overlay);
+
+          // close overlay
+          overlay.onclick = (e) => {
+            if (e.target === overlay) {
+              overlay.remove();
+            }
+          };
+
+          // esc close
+          document.onkeydown = (e) => {
+            if (e.key === 'Escape') {
+              overlay.remove();
+            }
+          };
+        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/m-2.png",alt:"Ask a Question ",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+        const existing = document.getElementById('wk-image-overlay');
+        if(existing) existing.remove();
+
+        const overlay = document.createElement('div');
+        overlay.id = 'wk-image-overlay';
+
+        overlay.style.cssText = \`
+          position:fixed;
+          inset:0;
+          background:rgba(0,0,0,0.88);
+          display:flex;
+          align-items:center;
+          justify-content:center;
+          z-index:99999;
+          padding:20px;
+          cursor:zoom-out;
+          overflow:hidden;
+          backdrop-filter: blur(3px);
+        \`;
+
+        const img = document.createElement('img');
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/m-2.png";
+
+        img.style.cssText = \`
+          max-width:95%;
+          max-height:95%;
+          border-radius:12px;
+          transition:transform .15s ease;
+          cursor:zoom-in;
+          will-change:transform;
+          user-select:none;
+        \`;
+
+        let scale = 1;
+
+        // scroll zoom
+        overlay.onwheel = (e) => {
+          e.preventDefault();
+
+          scale += e.deltaY * -0.001;
+          scale = Math.min(Math.max(1, scale), 5);
+
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        // double click zoom
+        img.ondblclick = () => {
+          scale = scale === 1 ? 2 : 1;
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        overlay.appendChild(img);
+        document.body.appendChild(overlay);
+
+        // close overlay
+        overlay.onclick = (e) => {
+          if (e.target === overlay) {
+            overlay.remove();
+          }
+        };
+
+        // esc close
+        document.onkeydown = (e) => {
+          if (e.key === 'Escape') {
+            overlay.remove();
+          }
+        };
+      `})])],-1),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
+          event.preventDefault();
+
+          const existing = document.getElementById('wk-image-overlay');
+          if(existing) existing.remove();
+
+          const overlay = document.createElement('div');
+          overlay.id = 'wk-image-overlay';
+
+          overlay.style.cssText = \`
+            position:fixed;
+            inset:0;
+            background:rgba(0,0,0,0.88);
+            display:flex;
+            align-items:center;
+            justify-content:center;
+            z-index:99999;
+            padding:20px;
+            cursor:zoom-out;
+            overflow:hidden;
+            backdrop-filter: blur(3px);
+          \`;
+
+          const img = document.createElement('img');
+          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/l-2.png";
+
+          img.style.cssText = \`
+            max-width:95%;
+            max-height:95%;
+            border-radius:12px;
+            transition:transform .15s ease;
+            cursor:zoom-in;
+            will-change:transform;
+            user-select:none;
+          \`;
+
+          let scale = 1;
+
+          // scroll zoom
+          overlay.onwheel = (e) => {
+            e.preventDefault();
+
+            scale += e.deltaY * -0.001;
+            scale = Math.min(Math.max(1, scale), 5);
+
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          // double click zoom
+          img.ondblclick = () => {
+            scale = scale === 1 ? 2 : 1;
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          overlay.appendChild(img);
+          document.body.appendChild(overlay);
+
+          // close overlay
+          overlay.onclick = (e) => {
+            if (e.target === overlay) {
+              overlay.remove();
+            }
+          };
+
+          // esc close
+          document.onkeydown = (e) => {
+            if (e.key === 'Escape') {
+              overlay.remove();
+            }
+          };
+        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/l-2.png",alt:"5",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+        const existing = document.getElementById('wk-image-overlay');
+        if(existing) existing.remove();
+
+        const overlay = document.createElement('div');
+        overlay.id = 'wk-image-overlay';
+
+        overlay.style.cssText = \`
+          position:fixed;
+          inset:0;
+          background:rgba(0,0,0,0.88);
+          display:flex;
+          align-items:center;
+          justify-content:center;
+          z-index:99999;
+          padding:20px;
+          cursor:zoom-out;
+          overflow:hidden;
+          backdrop-filter: blur(3px);
+        \`;
+
+        const img = document.createElement('img');
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/l-2.png";
+
+        img.style.cssText = \`
+          max-width:95%;
+          max-height:95%;
+          border-radius:12px;
+          transition:transform .15s ease;
+          cursor:zoom-in;
+          will-change:transform;
+          user-select:none;
+        \`;
+
+        let scale = 1;
+
+        // scroll zoom
+        overlay.onwheel = (e) => {
+          e.preventDefault();
+
+          scale += e.deltaY * -0.001;
+          scale = Math.min(Math.max(1, scale), 5);
+
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        // double click zoom
+        img.ondblclick = () => {
+          scale = scale === 1 ? 2 : 1;
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        overlay.appendChild(img);
+        document.body.appendChild(overlay);
+
+        // close overlay
+        overlay.onclick = (e) => {
+          if (e.target === overlay) {
+            overlay.remove();
+          }
+        };
+
+        // esc close
+        document.onkeydown = (e) => {
+          if (e.key === 'Escape') {
+            overlay.remove();
+          }
+        };
+      `})])],-1),n("h2",{id:"seller-panel",tabindex:"-1"},[n("strong",null,"SELLER PANEL:-"),e(),n("a",{class:"header-anchor",href:"#seller-panel","aria-label":'Permalink to "**SELLER PANEL:-**"'},"​")],-1),n("p",null,'Sellers can also view the list of all asked questions asked by customers in the "ASK A QUESTION" section under the "Products" menu from their account in the app.',-1),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
+          event.preventDefault();
+
+          const existing = document.getElementById('wk-image-overlay');
+          if(existing) existing.remove();
+
+          const overlay = document.createElement('div');
+          overlay.id = 'wk-image-overlay';
+
+          overlay.style.cssText = \`
+            position:fixed;
+            inset:0;
+            background:rgba(0,0,0,0.88);
+            display:flex;
+            align-items:center;
+            justify-content:center;
+            z-index:99999;
+            padding:20px;
+            cursor:zoom-out;
+            overflow:hidden;
+            backdrop-filter: blur(3px);
+          \`;
+
+          const img = document.createElement('img');
+          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/p-2.png";
+
+          img.style.cssText = \`
+            max-width:95%;
+            max-height:95%;
+            border-radius:12px;
+            transition:transform .15s ease;
+            cursor:zoom-in;
+            will-change:transform;
+            user-select:none;
+          \`;
+
+          let scale = 1;
+
+          // scroll zoom
+          overlay.onwheel = (e) => {
+            e.preventDefault();
+
+            scale += e.deltaY * -0.001;
+            scale = Math.min(Math.max(1, scale), 5);
+
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          // double click zoom
+          img.ondblclick = () => {
+            scale = scale === 1 ? 2 : 1;
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          overlay.appendChild(img);
+          document.body.appendChild(overlay);
+
+          // close overlay
+          overlay.onclick = (e) => {
+            if (e.target === overlay) {
+              overlay.remove();
+            }
+          };
+
+          // esc close
+          document.onkeydown = (e) => {
+            if (e.key === 'Escape') {
+              overlay.remove();
+            }
+          };
+        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/p-2.png",alt:"Ask a Question ",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+        const existing = document.getElementById('wk-image-overlay');
+        if(existing) existing.remove();
+
+        const overlay = document.createElement('div');
+        overlay.id = 'wk-image-overlay';
+
+        overlay.style.cssText = \`
+          position:fixed;
+          inset:0;
+          background:rgba(0,0,0,0.88);
+          display:flex;
+          align-items:center;
+          justify-content:center;
+          z-index:99999;
+          padding:20px;
+          cursor:zoom-out;
+          overflow:hidden;
+          backdrop-filter: blur(3px);
+        \`;
+
+        const img = document.createElement('img');
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/p-2.png";
+
+        img.style.cssText = \`
+          max-width:95%;
+          max-height:95%;
+          border-radius:12px;
+          transition:transform .15s ease;
+          cursor:zoom-in;
+          will-change:transform;
+          user-select:none;
+        \`;
+
+        let scale = 1;
+
+        // scroll zoom
+        overlay.onwheel = (e) => {
+          e.preventDefault();
+
+          scale += e.deltaY * -0.001;
+          scale = Math.min(Math.max(1, scale), 5);
+
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        // double click zoom
+        img.ondblclick = () => {
+          scale = scale === 1 ? 2 : 1;
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        overlay.appendChild(img);
+        document.body.appendChild(overlay);
+
+        // close overlay
+        overlay.onclick = (e) => {
+          if (e.target === overlay) {
+            overlay.remove();
+          }
+        };
+
+        // esc close
+        document.onkeydown = (e) => {
+          if (e.key === 'Escape') {
+            overlay.remove();
+          }
+        };
+      `})])],-1),n("p",null,"Sellers can even close the query from here once the conversation between the seller and the customer has ended.",-1),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
+          event.preventDefault();
+
+          const existing = document.getElementById('wk-image-overlay');
+          if(existing) existing.remove();
+
+          const overlay = document.createElement('div');
+          overlay.id = 'wk-image-overlay';
+
+          overlay.style.cssText = \`
+            position:fixed;
+            inset:0;
+            background:rgba(0,0,0,0.88);
+            display:flex;
+            align-items:center;
+            justify-content:center;
+            z-index:99999;
+            padding:20px;
+            cursor:zoom-out;
+            overflow:hidden;
+            backdrop-filter: blur(3px);
+          \`;
+
+          const img = document.createElement('img');
+          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/q-2.png";
+
+          img.style.cssText = \`
+            max-width:95%;
+            max-height:95%;
+            border-radius:12px;
+            transition:transform .15s ease;
+            cursor:zoom-in;
+            will-change:transform;
+            user-select:none;
+          \`;
+
+          let scale = 1;
+
+          // scroll zoom
+          overlay.onwheel = (e) => {
+            e.preventDefault();
+
+            scale += e.deltaY * -0.001;
+            scale = Math.min(Math.max(1, scale), 5);
+
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          // double click zoom
+          img.ondblclick = () => {
+            scale = scale === 1 ? 2 : 1;
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          overlay.appendChild(img);
+          document.body.appendChild(overlay);
+
+          // close overlay
+          overlay.onclick = (e) => {
+            if (e.target === overlay) {
+              overlay.remove();
+            }
+          };
+
+          // esc close
+          document.onkeydown = (e) => {
+            if (e.key === 'Escape') {
+              overlay.remove();
+            }
+          };
+        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/q-2.png",alt:"Ask a Question ",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+        const existing = document.getElementById('wk-image-overlay');
+        if(existing) existing.remove();
+
+        const overlay = document.createElement('div');
+        overlay.id = 'wk-image-overlay';
+
+        overlay.style.cssText = \`
+          position:fixed;
+          inset:0;
+          background:rgba(0,0,0,0.88);
+          display:flex;
+          align-items:center;
+          justify-content:center;
+          z-index:99999;
+          padding:20px;
+          cursor:zoom-out;
+          overflow:hidden;
+          backdrop-filter: blur(3px);
+        \`;
+
+        const img = document.createElement('img');
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/q-2.png";
+
+        img.style.cssText = \`
+          max-width:95%;
+          max-height:95%;
+          border-radius:12px;
+          transition:transform .15s ease;
+          cursor:zoom-in;
+          will-change:transform;
+          user-select:none;
+        \`;
+
+        let scale = 1;
+
+        // scroll zoom
+        overlay.onwheel = (e) => {
+          e.preventDefault();
+
+          scale += e.deltaY * -0.001;
+          scale = Math.min(Math.max(1, scale), 5);
+
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        // double click zoom
+        img.ondblclick = () => {
+          scale = scale === 1 ? 2 : 1;
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        overlay.appendChild(img);
+        document.body.appendChild(overlay);
+
+        // close overlay
+        overlay.onclick = (e) => {
+          if (e.target === overlay) {
+            overlay.remove();
+          }
+        };
+
+        // esc close
+        document.onkeydown = (e) => {
+          if (e.key === 'Escape') {
+            overlay.remove();
+          }
+        };
+      `})])],-1),o("",10),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
+          event.preventDefault();
+
+          const existing = document.getElementById('wk-image-overlay');
+          if(existing) existing.remove();
+
+          const overlay = document.createElement('div');
+          overlay.id = 'wk-image-overlay';
+
+          overlay.style.cssText = \`
+            position:fixed;
+            inset:0;
+            background:rgba(0,0,0,0.88);
+            display:flex;
+            align-items:center;
+            justify-content:center;
+            z-index:99999;
+            padding:20px;
+            cursor:zoom-out;
+            overflow:hidden;
+            backdrop-filter: blur(3px);
+          \`;
+
+          const img = document.createElement('img');
+          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/01/askff-730x1024.webp";
+
+          img.style.cssText = \`
+            max-width:95%;
+            max-height:95%;
+            border-radius:12px;
+            transition:transform .15s ease;
+            cursor:zoom-in;
+            will-change:transform;
+            user-select:none;
+          \`;
+
+          let scale = 1;
+
+          // scroll zoom
+          overlay.onwheel = (e) => {
+            e.preventDefault();
+
+            scale += e.deltaY * -0.001;
+            scale = Math.min(Math.max(1, scale), 5);
+
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          // double click zoom
+          img.ondblclick = () => {
+            scale = scale === 1 ? 2 : 1;
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          overlay.appendChild(img);
+          document.body.appendChild(overlay);
+
+          // close overlay
+          overlay.onclick = (e) => {
+            if (e.target === overlay) {
+              overlay.remove();
+            }
+          };
+
+          // esc close
+          document.onkeydown = (e) => {
+            if (e.key === 'Escape') {
+              overlay.remove();
+            }
+          };
+        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2025/01/askff-730x1024.webp",alt:"Ask",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+        const existing = document.getElementById('wk-image-overlay');
+        if(existing) existing.remove();
+
+        const overlay = document.createElement('div');
+        overlay.id = 'wk-image-overlay';
+
+        overlay.style.cssText = \`
+          position:fixed;
+          inset:0;
+          background:rgba(0,0,0,0.88);
+          display:flex;
+          align-items:center;
+          justify-content:center;
+          z-index:99999;
+          padding:20px;
+          cursor:zoom-out;
+          overflow:hidden;
+          backdrop-filter: blur(3px);
+        \`;
+
+        const img = document.createElement('img');
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/01/askff-730x1024.webp";
+
+        img.style.cssText = \`
+          max-width:95%;
+          max-height:95%;
+          border-radius:12px;
+          transition:transform .15s ease;
+          cursor:zoom-in;
+          will-change:transform;
+          user-select:none;
+        \`;
+
+        let scale = 1;
+
+        // scroll zoom
+        overlay.onwheel = (e) => {
+          e.preventDefault();
+
+          scale += e.deltaY * -0.001;
+          scale = Math.min(Math.max(1, scale), 5);
+
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        // double click zoom
+        img.ondblclick = () => {
+          scale = scale === 1 ? 2 : 1;
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        overlay.appendChild(img);
+        document.body.appendChild(overlay);
+
+        // close overlay
+        overlay.onclick = (e) => {
+          if (e.target === overlay) {
+            overlay.remove();
+          }
+        };
+
+        // esc close
+        document.onkeydown = (e) => {
+          if (e.key === 'Escape') {
+            overlay.remove();
+          }
+        };
+      `})])],-1),n("p",null,'Clicking the "Ask a Question" button will display several text fields to fill out:',-1),n("p",null,"Name (Enter your name), Email (Enter your email ID), Title (specify the title of your query), and Description (write the details of your query).",-1),n("p",null,'Once completed, click the "Submit" button to send your query. To view all your submitted queries, click the "View All Your Queries" button.',-1),n("h3",{id:"faq",tabindex:"-1"},[e("FAQ "),n("a",{class:"header-anchor",href:"#faq","aria-label":'Permalink to "FAQ"'},"​")],-1),n("p",null,"You can submit your query directly through the FAQ section by writing your query in the provided field and clicking the submit button. To view recently asked queries, simply click the arrow button.",-1),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
+          event.preventDefault();
+
+          const existing = document.getElementById('wk-image-overlay');
+          if(existing) existing.remove();
+
+          const overlay = document.createElement('div');
+          overlay.id = 'wk-image-overlay';
+
+          overlay.style.cssText = \`
+            position:fixed;
+            inset:0;
+            background:rgba(0,0,0,0.88);
+            display:flex;
+            align-items:center;
+            justify-content:center;
+            z-index:99999;
+            padding:20px;
+            cursor:zoom-out;
+            overflow:hidden;
+            backdrop-filter: blur(3px);
+          \`;
+
+          const img = document.createElement('img');
+          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/01/faqff-909x1024.webp";
+
+          img.style.cssText = \`
+            max-width:95%;
+            max-height:95%;
+            border-radius:12px;
+            transition:transform .15s ease;
+            cursor:zoom-in;
+            will-change:transform;
+            user-select:none;
+          \`;
+
+          let scale = 1;
+
+          // scroll zoom
+          overlay.onwheel = (e) => {
+            e.preventDefault();
+
+            scale += e.deltaY * -0.001;
+            scale = Math.min(Math.max(1, scale), 5);
+
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          // double click zoom
+          img.ondblclick = () => {
+            scale = scale === 1 ? 2 : 1;
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          overlay.appendChild(img);
+          document.body.appendChild(overlay);
+
+          // close overlay
+          overlay.onclick = (e) => {
+            if (e.target === overlay) {
+              overlay.remove();
+            }
+          };
+
+          // esc close
+          document.onkeydown = (e) => {
+            if (e.key === 'Escape') {
+              overlay.remove();
+            }
+          };
+        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2025/01/faqff-909x1024.webp",alt:"FAQ",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+        const existing = document.getElementById('wk-image-overlay');
+        if(existing) existing.remove();
+
+        const overlay = document.createElement('div');
+        overlay.id = 'wk-image-overlay';
+
+        overlay.style.cssText = \`
+          position:fixed;
+          inset:0;
+          background:rgba(0,0,0,0.88);
+          display:flex;
+          align-items:center;
+          justify-content:center;
+          z-index:99999;
+          padding:20px;
+          cursor:zoom-out;
+          overflow:hidden;
+          backdrop-filter: blur(3px);
+        \`;
+
+        const img = document.createElement('img');
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/01/faqff-909x1024.webp";
+
+        img.style.cssText = \`
+          max-width:95%;
+          max-height:95%;
+          border-radius:12px;
+          transition:transform .15s ease;
+          cursor:zoom-in;
+          will-change:transform;
+          user-select:none;
+        \`;
+
+        let scale = 1;
+
+        // scroll zoom
+        overlay.onwheel = (e) => {
+          e.preventDefault();
+
+          scale += e.deltaY * -0.001;
+          scale = Math.min(Math.max(1, scale), 5);
+
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        // double click zoom
+        img.ondblclick = () => {
+          scale = scale === 1 ? 2 : 1;
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        overlay.appendChild(img);
+        document.body.appendChild(overlay);
+
+        // close overlay
+        overlay.onclick = (e) => {
+          if (e.target === overlay) {
+            overlay.remove();
+          }
+        };
+
+        // esc close
+        document.onkeydown = (e) => {
+          if (e.key === 'Escape') {
+            overlay.remove();
+          }
+        };
+      `})])],-1),n("h3",{id:"view-all-queries",tabindex:"-1"},[e("View all queries "),n("a",{class:"header-anchor",href:"#view-all-queries","aria-label":'Permalink to "View all queries"'},"​")],-1),n("p",null,"Even, the guest customer can view all queries that they have asked before. Just click on view all queries and follow the below steps.",-1),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
+          event.preventDefault();
+
+          const existing = document.getElementById('wk-image-overlay');
+          if(existing) existing.remove();
+
+          const overlay = document.createElement('div');
+          overlay.id = 'wk-image-overlay';
+
+          overlay.style.cssText = \`
+            position:fixed;
+            inset:0;
+            background:rgba(0,0,0,0.88);
+            display:flex;
+            align-items:center;
+            justify-content:center;
+            z-index:99999;
+            padding:20px;
+            cursor:zoom-out;
+            overflow:hidden;
+            backdrop-filter: blur(3px);
+          \`;
+
+          const img = document.createElement('img');
+          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2022/04/view-all.png";
+
+          img.style.cssText = \`
+            max-width:95%;
+            max-height:95%;
+            border-radius:12px;
+            transition:transform .15s ease;
+            cursor:zoom-in;
+            will-change:transform;
+            user-select:none;
+          \`;
+
+          let scale = 1;
+
+          // scroll zoom
+          overlay.onwheel = (e) => {
+            e.preventDefault();
+
+            scale += e.deltaY * -0.001;
+            scale = Math.min(Math.max(1, scale), 5);
+
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          // double click zoom
+          img.ondblclick = () => {
+            scale = scale === 1 ? 2 : 1;
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          overlay.appendChild(img);
+          document.body.appendChild(overlay);
+
+          // close overlay
+          overlay.onclick = (e) => {
+            if (e.target === overlay) {
+              overlay.remove();
+            }
+          };
+
+          // esc close
+          document.onkeydown = (e) => {
+            if (e.key === 'Escape') {
+              overlay.remove();
+            }
+          };
+        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2022/04/view-all.png",alt:"view-all",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+        const existing = document.getElementById('wk-image-overlay');
+        if(existing) existing.remove();
+
+        const overlay = document.createElement('div');
+        overlay.id = 'wk-image-overlay';
+
+        overlay.style.cssText = \`
+          position:fixed;
+          inset:0;
+          background:rgba(0,0,0,0.88);
+          display:flex;
+          align-items:center;
+          justify-content:center;
+          z-index:99999;
+          padding:20px;
+          cursor:zoom-out;
+          overflow:hidden;
+          backdrop-filter: blur(3px);
+        \`;
+
+        const img = document.createElement('img');
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2022/04/view-all.png";
+
+        img.style.cssText = \`
+          max-width:95%;
+          max-height:95%;
+          border-radius:12px;
+          transition:transform .15s ease;
+          cursor:zoom-in;
+          will-change:transform;
+          user-select:none;
+        \`;
+
+        let scale = 1;
+
+        // scroll zoom
+        overlay.onwheel = (e) => {
+          e.preventDefault();
+
+          scale += e.deltaY * -0.001;
+          scale = Math.min(Math.max(1, scale), 5);
+
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        // double click zoom
+        img.ondblclick = () => {
+          scale = scale === 1 ? 2 : 1;
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        overlay.appendChild(img);
+        document.body.appendChild(overlay);
+
+        // close overlay
+        overlay.onclick = (e) => {
+          if (e.target === overlay) {
+            overlay.remove();
+          }
+        };
+
+        // esc close
+        document.onkeydown = (e) => {
+          if (e.key === 'Escape') {
+            overlay.remove();
+          }
+        };
+      `})])],-1),n("p",null,"After clicking on view all your queries, the email text field will appear, enter your email ID and click on the submit button.",-1),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
+          event.preventDefault();
+
+          const existing = document.getElementById('wk-image-overlay');
+          if(existing) existing.remove();
+
+          const overlay = document.createElement('div');
+          overlay.id = 'wk-image-overlay';
+
+          overlay.style.cssText = \`
+            position:fixed;
+            inset:0;
+            background:rgba(0,0,0,0.88);
+            display:flex;
+            align-items:center;
+            justify-content:center;
+            z-index:99999;
+            padding:20px;
+            cursor:zoom-out;
+            overflow:hidden;
+            backdrop-filter: blur(3px);
+          \`;
+
+          const img = document.createElement('img');
+          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2022/04/inout-email.png";
+
+          img.style.cssText = \`
+            max-width:95%;
+            max-height:95%;
+            border-radius:12px;
+            transition:transform .15s ease;
+            cursor:zoom-in;
+            will-change:transform;
+            user-select:none;
+          \`;
+
+          let scale = 1;
+
+          // scroll zoom
+          overlay.onwheel = (e) => {
+            e.preventDefault();
+
+            scale += e.deltaY * -0.001;
+            scale = Math.min(Math.max(1, scale), 5);
+
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          // double click zoom
+          img.ondblclick = () => {
+            scale = scale === 1 ? 2 : 1;
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          overlay.appendChild(img);
+          document.body.appendChild(overlay);
+
+          // close overlay
+          overlay.onclick = (e) => {
+            if (e.target === overlay) {
+              overlay.remove();
+            }
+          };
+
+          // esc close
+          document.onkeydown = (e) => {
+            if (e.key === 'Escape') {
+              overlay.remove();
+            }
+          };
+        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2022/04/inout-email.png",alt:"inout-email",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+        const existing = document.getElementById('wk-image-overlay');
+        if(existing) existing.remove();
+
+        const overlay = document.createElement('div');
+        overlay.id = 'wk-image-overlay';
+
+        overlay.style.cssText = \`
+          position:fixed;
+          inset:0;
+          background:rgba(0,0,0,0.88);
+          display:flex;
+          align-items:center;
+          justify-content:center;
+          z-index:99999;
+          padding:20px;
+          cursor:zoom-out;
+          overflow:hidden;
+          backdrop-filter: blur(3px);
+        \`;
+
+        const img = document.createElement('img');
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2022/04/inout-email.png";
+
+        img.style.cssText = \`
+          max-width:95%;
+          max-height:95%;
+          border-radius:12px;
+          transition:transform .15s ease;
+          cursor:zoom-in;
+          will-change:transform;
+          user-select:none;
+        \`;
+
+        let scale = 1;
+
+        // scroll zoom
+        overlay.onwheel = (e) => {
+          e.preventDefault();
+
+          scale += e.deltaY * -0.001;
+          scale = Math.min(Math.max(1, scale), 5);
+
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        // double click zoom
+        img.ondblclick = () => {
+          scale = scale === 1 ? 2 : 1;
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        overlay.appendChild(img);
+        document.body.appendChild(overlay);
+
+        // close overlay
+        overlay.onclick = (e) => {
+          if (e.target === overlay) {
+            overlay.remove();
+          }
+        };
+
+        // esc close
+        document.onkeydown = (e) => {
+          if (e.key === 'Escape') {
+            overlay.remove();
+          }
+        };
+      `})])],-1),n("p",null,"Now, one OTP will be sent to the customer's email ID, enter that OTP for the verification and the customer can see all his queries asked before.",-1),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
+          event.preventDefault();
+
+          const existing = document.getElementById('wk-image-overlay');
+          if(existing) existing.remove();
+
+          const overlay = document.createElement('div');
+          overlay.id = 'wk-image-overlay';
+
+          overlay.style.cssText = \`
+            position:fixed;
+            inset:0;
+            background:rgba(0,0,0,0.88);
+            display:flex;
+            align-items:center;
+            justify-content:center;
+            z-index:99999;
+            padding:20px;
+            cursor:zoom-out;
+            overflow:hidden;
+            backdrop-filter: blur(3px);
+          \`;
+
+          const img = document.createElement('img');
+          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2022/04/otp-1.png";
+
+          img.style.cssText = \`
+            max-width:95%;
+            max-height:95%;
+            border-radius:12px;
+            transition:transform .15s ease;
+            cursor:zoom-in;
+            will-change:transform;
+            user-select:none;
+          \`;
+
+          let scale = 1;
+
+          // scroll zoom
+          overlay.onwheel = (e) => {
+            e.preventDefault();
+
+            scale += e.deltaY * -0.001;
+            scale = Math.min(Math.max(1, scale), 5);
+
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          // double click zoom
+          img.ondblclick = () => {
+            scale = scale === 1 ? 2 : 1;
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          overlay.appendChild(img);
+          document.body.appendChild(overlay);
+
+          // close overlay
+          overlay.onclick = (e) => {
+            if (e.target === overlay) {
+              overlay.remove();
+            }
+          };
+
+          // esc close
+          document.onkeydown = (e) => {
+            if (e.key === 'Escape') {
+              overlay.remove();
+            }
+          };
+        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2022/04/otp-1.png",alt:"otp-1",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+        const existing = document.getElementById('wk-image-overlay');
+        if(existing) existing.remove();
+
+        const overlay = document.createElement('div');
+        overlay.id = 'wk-image-overlay';
+
+        overlay.style.cssText = \`
+          position:fixed;
+          inset:0;
+          background:rgba(0,0,0,0.88);
+          display:flex;
+          align-items:center;
+          justify-content:center;
+          z-index:99999;
+          padding:20px;
+          cursor:zoom-out;
+          overflow:hidden;
+          backdrop-filter: blur(3px);
+        \`;
+
+        const img = document.createElement('img');
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2022/04/otp-1.png";
+
+        img.style.cssText = \`
+          max-width:95%;
+          max-height:95%;
+          border-radius:12px;
+          transition:transform .15s ease;
+          cursor:zoom-in;
+          will-change:transform;
+          user-select:none;
+        \`;
+
+        let scale = 1;
+
+        // scroll zoom
+        overlay.onwheel = (e) => {
+          e.preventDefault();
+
+          scale += e.deltaY * -0.001;
+          scale = Math.min(Math.max(1, scale), 5);
+
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        // double click zoom
+        img.ondblclick = () => {
+          scale = scale === 1 ? 2 : 1;
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        overlay.appendChild(img);
+        document.body.appendChild(overlay);
+
+        // close overlay
+        overlay.onclick = (e) => {
+          if (e.target === overlay) {
+            overlay.remove();
+          }
+        };
+
+        // esc close
+        document.onkeydown = (e) => {
+          if (e.key === 'Escape') {
+            overlay.remove();
+          }
+        };
+      `})])],-1),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
+          event.preventDefault();
+
+          const existing = document.getElementById('wk-image-overlay');
+          if(existing) existing.remove();
+
+          const overlay = document.createElement('div');
+          overlay.id = 'wk-image-overlay';
+
+          overlay.style.cssText = \`
+            position:fixed;
+            inset:0;
+            background:rgba(0,0,0,0.88);
+            display:flex;
+            align-items:center;
+            justify-content:center;
+            z-index:99999;
+            padding:20px;
+            cursor:zoom-out;
+            overflow:hidden;
+            backdrop-filter: blur(3px);
+          \`;
+
+          const img = document.createElement('img');
+          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2022/04/query-list.png";
+
+          img.style.cssText = \`
+            max-width:95%;
+            max-height:95%;
+            border-radius:12px;
+            transition:transform .15s ease;
+            cursor:zoom-in;
+            will-change:transform;
+            user-select:none;
+          \`;
+
+          let scale = 1;
+
+          // scroll zoom
+          overlay.onwheel = (e) => {
+            e.preventDefault();
+
+            scale += e.deltaY * -0.001;
+            scale = Math.min(Math.max(1, scale), 5);
+
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          // double click zoom
+          img.ondblclick = () => {
+            scale = scale === 1 ? 2 : 1;
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          overlay.appendChild(img);
+          document.body.appendChild(overlay);
+
+          // close overlay
+          overlay.onclick = (e) => {
+            if (e.target === overlay) {
+              overlay.remove();
+            }
+          };
+
+          // esc close
+          document.onkeydown = (e) => {
+            if (e.key === 'Escape') {
+              overlay.remove();
+            }
+          };
+        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2022/04/query-list.png",alt:"query-list",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+        const existing = document.getElementById('wk-image-overlay');
+        if(existing) existing.remove();
+
+        const overlay = document.createElement('div');
+        overlay.id = 'wk-image-overlay';
+
+        overlay.style.cssText = \`
+          position:fixed;
+          inset:0;
+          background:rgba(0,0,0,0.88);
+          display:flex;
+          align-items:center;
+          justify-content:center;
+          z-index:99999;
+          padding:20px;
+          cursor:zoom-out;
+          overflow:hidden;
+          backdrop-filter: blur(3px);
+        \`;
+
+        const img = document.createElement('img');
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2022/04/query-list.png";
+
+        img.style.cssText = \`
+          max-width:95%;
+          max-height:95%;
+          border-radius:12px;
+          transition:transform .15s ease;
+          cursor:zoom-in;
+          will-change:transform;
+          user-select:none;
+        \`;
+
+        let scale = 1;
+
+        // scroll zoom
+        overlay.onwheel = (e) => {
+          e.preventDefault();
+
+          scale += e.deltaY * -0.001;
+          scale = Math.min(Math.max(1, scale), 5);
+
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        // double click zoom
+        img.ondblclick = () => {
+          scale = scale === 1 ? 2 : 1;
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        overlay.appendChild(img);
+        document.body.appendChild(overlay);
+
+        // close overlay
+        overlay.onclick = (e) => {
+          if (e.target === overlay) {
+            overlay.remove();
+          }
+        };
+
+        // esc close
+        document.onkeydown = (e) => {
+          if (e.key === 'Escape') {
+            overlay.remove();
+          }
+        };
+      `})])],-1),o("",7),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
+          event.preventDefault();
+
+          const existing = document.getElementById('wk-image-overlay');
+          if(existing) existing.remove();
+
+          const overlay = document.createElement('div');
+          overlay.id = 'wk-image-overlay';
+
+          overlay.style.cssText = \`
+            position:fixed;
+            inset:0;
+            background:rgba(0,0,0,0.88);
+            display:flex;
+            align-items:center;
+            justify-content:center;
+            z-index:99999;
+            padding:20px;
+            cursor:zoom-out;
+            overflow:hidden;
+            backdrop-filter: blur(3px);
+          \`;
+
+          const img = document.createElement('img');
+          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2019/10/Instructions-Admin.png";
+
+          img.style.cssText = \`
+            max-width:95%;
+            max-height:95%;
+            border-radius:12px;
+            transition:transform .15s ease;
+            cursor:zoom-in;
+            will-change:transform;
+            user-select:none;
+          \`;
+
+          let scale = 1;
+
+          // scroll zoom
+          overlay.onwheel = (e) => {
+            e.preventDefault();
+
+            scale += e.deltaY * -0.001;
+            scale = Math.min(Math.max(1, scale), 5);
+
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          // double click zoom
+          img.ondblclick = () => {
+            scale = scale === 1 ? 2 : 1;
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          overlay.appendChild(img);
+          document.body.appendChild(overlay);
+
+          // close overlay
+          overlay.onclick = (e) => {
+            if (e.target === overlay) {
+              overlay.remove();
+            }
+          };
+
+          // esc close
+          document.onkeydown = (e) => {
+            if (e.key === 'Escape') {
+              overlay.remove();
+            }
+          };
+        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2019/10/Instructions-Admin.png",alt:"Ask a Question ",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+        const existing = document.getElementById('wk-image-overlay');
+        if(existing) existing.remove();
+
+        const overlay = document.createElement('div');
+        overlay.id = 'wk-image-overlay';
+
+        overlay.style.cssText = \`
+          position:fixed;
+          inset:0;
+          background:rgba(0,0,0,0.88);
+          display:flex;
+          align-items:center;
+          justify-content:center;
+          z-index:99999;
+          padding:20px;
+          cursor:zoom-out;
+          overflow:hidden;
+          backdrop-filter: blur(3px);
+        \`;
+
+        const img = document.createElement('img');
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2019/10/Instructions-Admin.png";
+
+        img.style.cssText = \`
+          max-width:95%;
+          max-height:95%;
+          border-radius:12px;
+          transition:transform .15s ease;
+          cursor:zoom-in;
+          will-change:transform;
+          user-select:none;
+        \`;
+
+        let scale = 1;
+
+        // scroll zoom
+        overlay.onwheel = (e) => {
+          e.preventDefault();
+
+          scale += e.deltaY * -0.001;
+          scale = Math.min(Math.max(1, scale), 5);
+
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        // double click zoom
+        img.ondblclick = () => {
+          scale = scale === 1 ? 2 : 1;
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        overlay.appendChild(img);
+        document.body.appendChild(overlay);
+
+        // close overlay
+        overlay.onclick = (e) => {
+          if (e.target === overlay) {
+            overlay.remove();
+          }
+        };
+
+        // esc close
+        document.onkeydown = (e) => {
+          if (e.key === 'Escape') {
+            overlay.remove();
+          }
+        };
+      `})])],-1),o("",5),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
+          event.preventDefault();
+
+          const existing = document.getElementById('wk-image-overlay');
+          if(existing) existing.remove();
+
+          const overlay = document.createElement('div');
+          overlay.id = 'wk-image-overlay';
+
+          overlay.style.cssText = \`
+            position:fixed;
+            inset:0;
+            background:rgba(0,0,0,0.88);
+            display:flex;
+            align-items:center;
+            justify-content:center;
+            z-index:99999;
+            padding:20px;
+            cursor:zoom-out;
+            overflow:hidden;
+            backdrop-filter: blur(3px);
+          \`;
+
+          const img = document.createElement('img');
+          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2019/10/Account-%E2%80%93-Multivendor-ask-a-question.png";
+
+          img.style.cssText = \`
+            max-width:95%;
+            max-height:95%;
+            border-radius:12px;
+            transition:transform .15s ease;
+            cursor:zoom-in;
+            will-change:transform;
+            user-select:none;
+          \`;
+
+          let scale = 1;
+
+          // scroll zoom
+          overlay.onwheel = (e) => {
+            e.preventDefault();
+
+            scale += e.deltaY * -0.001;
+            scale = Math.min(Math.max(1, scale), 5);
+
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          // double click zoom
+          img.ondblclick = () => {
+            scale = scale === 1 ? 2 : 1;
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          overlay.appendChild(img);
+          document.body.appendChild(overlay);
+
+          // close overlay
+          overlay.onclick = (e) => {
+            if (e.target === overlay) {
+              overlay.remove();
+            }
+          };
+
+          // esc close
+          document.onkeydown = (e) => {
+            if (e.key === 'Escape') {
+              overlay.remove();
+            }
+          };
+        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2019/10/Account-%E2%80%93-Multivendor-ask-a-question.png",alt:"Ask a Question ",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+        const existing = document.getElementById('wk-image-overlay');
+        if(existing) existing.remove();
+
+        const overlay = document.createElement('div');
+        overlay.id = 'wk-image-overlay';
+
+        overlay.style.cssText = \`
+          position:fixed;
+          inset:0;
+          background:rgba(0,0,0,0.88);
+          display:flex;
+          align-items:center;
+          justify-content:center;
+          z-index:99999;
+          padding:20px;
+          cursor:zoom-out;
+          overflow:hidden;
+          backdrop-filter: blur(3px);
+        \`;
+
+        const img = document.createElement('img');
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2019/10/Account-%E2%80%93-Multivendor-ask-a-question.png";
+
+        img.style.cssText = \`
+          max-width:95%;
+          max-height:95%;
+          border-radius:12px;
+          transition:transform .15s ease;
+          cursor:zoom-in;
+          will-change:transform;
+          user-select:none;
+        \`;
+
+        let scale = 1;
+
+        // scroll zoom
+        overlay.onwheel = (e) => {
+          e.preventDefault();
+
+          scale += e.deltaY * -0.001;
+          scale = Math.min(Math.max(1, scale), 5);
+
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        // double click zoom
+        img.ondblclick = () => {
+          scale = scale === 1 ? 2 : 1;
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        overlay.appendChild(img);
+        document.body.appendChild(overlay);
+
+        // close overlay
+        overlay.onclick = (e) => {
+          if (e.target === overlay) {
+            overlay.remove();
+          }
+        };
+
+        // esc close
+        document.onkeydown = (e) => {
+          if (e.key === 'Escape') {
+            overlay.remove();
+          }
+        };
+      `})])],-1),n("p",null,[e("On the redirected page, click on the '"),n("strong",null,"raise a query"),e("' button. Refer:")],-1),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
+          event.preventDefault();
+
+          const existing = document.getElementById('wk-image-overlay');
+          if(existing) existing.remove();
+
+          const overlay = document.createElement('div');
+          overlay.id = 'wk-image-overlay';
+
+          overlay.style.cssText = \`
+            position:fixed;
+            inset:0;
+            background:rgba(0,0,0,0.88);
+            display:flex;
+            align-items:center;
+            justify-content:center;
+            z-index:99999;
+            padding:20px;
+            cursor:zoom-out;
+            overflow:hidden;
+            backdrop-filter: blur(3px);
+          \`;
+
+          const img = document.createElement('img');
+          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2019/10/Order-1002-%E2%80%93-Multivendor-ask-a-question.png";
+
+          img.style.cssText = \`
+            max-width:95%;
+            max-height:95%;
+            border-radius:12px;
+            transition:transform .15s ease;
+            cursor:zoom-in;
+            will-change:transform;
+            user-select:none;
+          \`;
+
+          let scale = 1;
+
+          // scroll zoom
+          overlay.onwheel = (e) => {
+            e.preventDefault();
+
+            scale += e.deltaY * -0.001;
+            scale = Math.min(Math.max(1, scale), 5);
+
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          // double click zoom
+          img.ondblclick = () => {
+            scale = scale === 1 ? 2 : 1;
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          overlay.appendChild(img);
+          document.body.appendChild(overlay);
+
+          // close overlay
+          overlay.onclick = (e) => {
+            if (e.target === overlay) {
+              overlay.remove();
+            }
+          };
+
+          // esc close
+          document.onkeydown = (e) => {
+            if (e.key === 'Escape') {
+              overlay.remove();
+            }
+          };
+        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2019/10/Order-1002-%E2%80%93-Multivendor-ask-a-question.png",alt:"Ask a Question ",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+        const existing = document.getElementById('wk-image-overlay');
+        if(existing) existing.remove();
+
+        const overlay = document.createElement('div');
+        overlay.id = 'wk-image-overlay';
+
+        overlay.style.cssText = \`
+          position:fixed;
+          inset:0;
+          background:rgba(0,0,0,0.88);
+          display:flex;
+          align-items:center;
+          justify-content:center;
+          z-index:99999;
+          padding:20px;
+          cursor:zoom-out;
+          overflow:hidden;
+          backdrop-filter: blur(3px);
+        \`;
+
+        const img = document.createElement('img');
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2019/10/Order-1002-%E2%80%93-Multivendor-ask-a-question.png";
+
+        img.style.cssText = \`
+          max-width:95%;
+          max-height:95%;
+          border-radius:12px;
+          transition:transform .15s ease;
+          cursor:zoom-in;
+          will-change:transform;
+          user-select:none;
+        \`;
+
+        let scale = 1;
+
+        // scroll zoom
+        overlay.onwheel = (e) => {
+          e.preventDefault();
+
+          scale += e.deltaY * -0.001;
+          scale = Math.min(Math.max(1, scale), 5);
+
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        // double click zoom
+        img.ondblclick = () => {
+          scale = scale === 1 ? 2 : 1;
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        overlay.appendChild(img);
+        document.body.appendChild(overlay);
+
+        // close overlay
+        overlay.onclick = (e) => {
+          if (e.target === overlay) {
+            overlay.remove();
+          }
+        };
+
+        // esc close
+        document.onkeydown = (e) => {
+          if (e.key === 'Escape') {
+            overlay.remove();
+          }
+        };
+      `})])],-1),n("p",null,"Now, choose the product for which the query is. The drop-down list of products will only include the products for which the customers have placed the orders.",-1),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
+          event.preventDefault();
+
+          const existing = document.getElementById('wk-image-overlay');
+          if(existing) existing.remove();
+
+          const overlay = document.createElement('div');
+          overlay.id = 'wk-image-overlay';
+
+          overlay.style.cssText = \`
+            position:fixed;
+            inset:0;
+            background:rgba(0,0,0,0.88);
+            display:flex;
+            align-items:center;
+            justify-content:center;
+            z-index:99999;
+            padding:20px;
+            cursor:zoom-out;
+            overflow:hidden;
+            backdrop-filter: blur(3px);
+          \`;
+
+          const img = document.createElement('img');
+          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2019/10/Order-1002-%E2%80%93-Multivendor-ask-a-question-1.png";
+
+          img.style.cssText = \`
+            max-width:95%;
+            max-height:95%;
+            border-radius:12px;
+            transition:transform .15s ease;
+            cursor:zoom-in;
+            will-change:transform;
+            user-select:none;
+          \`;
+
+          let scale = 1;
+
+          // scroll zoom
+          overlay.onwheel = (e) => {
+            e.preventDefault();
+
+            scale += e.deltaY * -0.001;
+            scale = Math.min(Math.max(1, scale), 5);
+
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          // double click zoom
+          img.ondblclick = () => {
+            scale = scale === 1 ? 2 : 1;
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          overlay.appendChild(img);
+          document.body.appendChild(overlay);
+
+          // close overlay
+          overlay.onclick = (e) => {
+            if (e.target === overlay) {
+              overlay.remove();
+            }
+          };
+
+          // esc close
+          document.onkeydown = (e) => {
+            if (e.key === 'Escape') {
+              overlay.remove();
+            }
+          };
+        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2019/10/Order-1002-%E2%80%93-Multivendor-ask-a-question-1.png",alt:"Ask a Question ",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+        const existing = document.getElementById('wk-image-overlay');
+        if(existing) existing.remove();
+
+        const overlay = document.createElement('div');
+        overlay.id = 'wk-image-overlay';
+
+        overlay.style.cssText = \`
+          position:fixed;
+          inset:0;
+          background:rgba(0,0,0,0.88);
+          display:flex;
+          align-items:center;
+          justify-content:center;
+          z-index:99999;
+          padding:20px;
+          cursor:zoom-out;
+          overflow:hidden;
+          backdrop-filter: blur(3px);
+        \`;
+
+        const img = document.createElement('img');
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2019/10/Order-1002-%E2%80%93-Multivendor-ask-a-question-1.png";
+
+        img.style.cssText = \`
+          max-width:95%;
+          max-height:95%;
+          border-radius:12px;
+          transition:transform .15s ease;
+          cursor:zoom-in;
+          will-change:transform;
+          user-select:none;
+        \`;
+
+        let scale = 1;
+
+        // scroll zoom
+        overlay.onwheel = (e) => {
+          e.preventDefault();
+
+          scale += e.deltaY * -0.001;
+          scale = Math.min(Math.max(1, scale), 5);
+
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        // double click zoom
+        img.ondblclick = () => {
+          scale = scale === 1 ? 2 : 1;
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        overlay.appendChild(img);
+        document.body.appendChild(overlay);
+
+        // close overlay
+        overlay.onclick = (e) => {
+          if (e.target === overlay) {
+            overlay.remove();
+          }
+        };
+
+        // esc close
+        document.onkeydown = (e) => {
+          if (e.key === 'Escape') {
+            overlay.remove();
+          }
+        };
+      `})])],-1),n("p",null,"The customer will get a form to enter his query like so:",-1),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
+          event.preventDefault();
+
+          const existing = document.getElementById('wk-image-overlay');
+          if(existing) existing.remove();
+
+          const overlay = document.createElement('div');
+          overlay.id = 'wk-image-overlay';
+
+          overlay.style.cssText = \`
+            position:fixed;
+            inset:0;
+            background:rgba(0,0,0,0.88);
+            display:flex;
+            align-items:center;
+            justify-content:center;
+            z-index:99999;
+            padding:20px;
+            cursor:zoom-out;
+            overflow:hidden;
+            backdrop-filter: blur(3px);
+          \`;
+
+          const img = document.createElement('img');
+          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2019/10/Order-1002-%E2%80%93-Multivendor-ask-a-question-2.png";
+
+          img.style.cssText = \`
+            max-width:95%;
+            max-height:95%;
+            border-radius:12px;
+            transition:transform .15s ease;
+            cursor:zoom-in;
+            will-change:transform;
+            user-select:none;
+          \`;
+
+          let scale = 1;
+
+          // scroll zoom
+          overlay.onwheel = (e) => {
+            e.preventDefault();
+
+            scale += e.deltaY * -0.001;
+            scale = Math.min(Math.max(1, scale), 5);
+
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          // double click zoom
+          img.ondblclick = () => {
+            scale = scale === 1 ? 2 : 1;
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          overlay.appendChild(img);
+          document.body.appendChild(overlay);
+
+          // close overlay
+          overlay.onclick = (e) => {
+            if (e.target === overlay) {
+              overlay.remove();
+            }
+          };
+
+          // esc close
+          document.onkeydown = (e) => {
+            if (e.key === 'Escape') {
+              overlay.remove();
+            }
+          };
+        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2019/10/Order-1002-%E2%80%93-Multivendor-ask-a-question-2.png",alt:"Ask a Question ",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+        const existing = document.getElementById('wk-image-overlay');
+        if(existing) existing.remove();
+
+        const overlay = document.createElement('div');
+        overlay.id = 'wk-image-overlay';
+
+        overlay.style.cssText = \`
+          position:fixed;
+          inset:0;
+          background:rgba(0,0,0,0.88);
+          display:flex;
+          align-items:center;
+          justify-content:center;
+          z-index:99999;
+          padding:20px;
+          cursor:zoom-out;
+          overflow:hidden;
+          backdrop-filter: blur(3px);
+        \`;
+
+        const img = document.createElement('img');
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2019/10/Order-1002-%E2%80%93-Multivendor-ask-a-question-2.png";
+
+        img.style.cssText = \`
+          max-width:95%;
+          max-height:95%;
+          border-radius:12px;
+          transition:transform .15s ease;
+          cursor:zoom-in;
+          will-change:transform;
+          user-select:none;
+        \`;
+
+        let scale = 1;
+
+        // scroll zoom
+        overlay.onwheel = (e) => {
+          e.preventDefault();
+
+          scale += e.deltaY * -0.001;
+          scale = Math.min(Math.max(1, scale), 5);
+
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        // double click zoom
+        img.ondblclick = () => {
+          scale = scale === 1 ? 2 : 1;
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        overlay.appendChild(img);
+        document.body.appendChild(overlay);
+
+        // close overlay
+        overlay.onclick = (e) => {
+          if (e.target === overlay) {
+            overlay.remove();
+          }
+        };
+
+        // esc close
+        document.onkeydown = (e) => {
+          if (e.key === 'Escape') {
+            overlay.remove();
+          }
+        };
+      `})])],-1),n("p",null,[e("The customer can further view his queries and the conversation going on a query by clicking on the '"),n("strong",null,"View Your Queries"),e("' button, which will take him to this page:")],-1),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
+          event.preventDefault();
+
+          const existing = document.getElementById('wk-image-overlay');
+          if(existing) existing.remove();
+
+          const overlay = document.createElement('div');
+          overlay.id = 'wk-image-overlay';
+
+          overlay.style.cssText = \`
+            position:fixed;
+            inset:0;
+            background:rgba(0,0,0,0.88);
+            display:flex;
+            align-items:center;
+            justify-content:center;
+            z-index:99999;
+            padding:20px;
+            cursor:zoom-out;
+            overflow:hidden;
+            backdrop-filter: blur(3px);
+          \`;
+
+          const img = document.createElement('img');
+          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2019/10/ask-a-question-%E2%80%93-Multivendor-ask-a-question.png";
+
+          img.style.cssText = \`
+            max-width:95%;
+            max-height:95%;
+            border-radius:12px;
+            transition:transform .15s ease;
+            cursor:zoom-in;
+            will-change:transform;
+            user-select:none;
+          \`;
+
+          let scale = 1;
+
+          // scroll zoom
+          overlay.onwheel = (e) => {
+            e.preventDefault();
+
+            scale += e.deltaY * -0.001;
+            scale = Math.min(Math.max(1, scale), 5);
+
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          // double click zoom
+          img.ondblclick = () => {
+            scale = scale === 1 ? 2 : 1;
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          overlay.appendChild(img);
+          document.body.appendChild(overlay);
+
+          // close overlay
+          overlay.onclick = (e) => {
+            if (e.target === overlay) {
+              overlay.remove();
+            }
+          };
+
+          // esc close
+          document.onkeydown = (e) => {
+            if (e.key === 'Escape') {
+              overlay.remove();
+            }
+          };
+        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2019/10/ask-a-question-%E2%80%93-Multivendor-ask-a-question.png",alt:"Ask a Question ",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+        const existing = document.getElementById('wk-image-overlay');
+        if(existing) existing.remove();
+
+        const overlay = document.createElement('div');
+        overlay.id = 'wk-image-overlay';
+
+        overlay.style.cssText = \`
+          position:fixed;
+          inset:0;
+          background:rgba(0,0,0,0.88);
+          display:flex;
+          align-items:center;
+          justify-content:center;
+          z-index:99999;
+          padding:20px;
+          cursor:zoom-out;
+          overflow:hidden;
+          backdrop-filter: blur(3px);
+        \`;
+
+        const img = document.createElement('img');
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2019/10/ask-a-question-%E2%80%93-Multivendor-ask-a-question.png";
+
+        img.style.cssText = \`
+          max-width:95%;
+          max-height:95%;
+          border-radius:12px;
+          transition:transform .15s ease;
+          cursor:zoom-in;
+          will-change:transform;
+          user-select:none;
+        \`;
+
+        let scale = 1;
+
+        // scroll zoom
+        overlay.onwheel = (e) => {
+          e.preventDefault();
+
+          scale += e.deltaY * -0.001;
+          scale = Math.min(Math.max(1, scale), 5);
+
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        // double click zoom
+        img.ondblclick = () => {
+          scale = scale === 1 ? 2 : 1;
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        overlay.appendChild(img);
+        document.body.appendChild(overlay);
+
+        // close overlay
+        overlay.onclick = (e) => {
+          if (e.target === overlay) {
+            overlay.remove();
+          }
+        };
+
+        // esc close
+        document.onkeydown = (e) => {
+          if (e.key === 'Escape') {
+            overlay.remove();
+          }
+        };
+      `})])],-1),n("p",null,[e("Further, clicking on the "),n("strong",null,"view"),e(" button, the customer can view all the conversations going over the created query and reply there. Refer:")],-1),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
+          event.preventDefault();
+
+          const existing = document.getElementById('wk-image-overlay');
+          if(existing) existing.remove();
+
+          const overlay = document.createElement('div');
+          overlay.id = 'wk-image-overlay';
+
+          overlay.style.cssText = \`
+            position:fixed;
+            inset:0;
+            background:rgba(0,0,0,0.88);
+            display:flex;
+            align-items:center;
+            justify-content:center;
+            z-index:99999;
+            padding:20px;
+            cursor:zoom-out;
+            overflow:hidden;
+            backdrop-filter: blur(3px);
+          \`;
+
+          const img = document.createElement('img');
+          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/ask-a-question-%E2%80%93-Multivendor-ask-a-question-3.png";
+
+          img.style.cssText = \`
+            max-width:95%;
+            max-height:95%;
+            border-radius:12px;
+            transition:transform .15s ease;
+            cursor:zoom-in;
+            will-change:transform;
+            user-select:none;
+          \`;
+
+          let scale = 1;
+
+          // scroll zoom
+          overlay.onwheel = (e) => {
+            e.preventDefault();
+
+            scale += e.deltaY * -0.001;
+            scale = Math.min(Math.max(1, scale), 5);
+
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          // double click zoom
+          img.ondblclick = () => {
+            scale = scale === 1 ? 2 : 1;
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          overlay.appendChild(img);
+          document.body.appendChild(overlay);
+
+          // close overlay
+          overlay.onclick = (e) => {
+            if (e.target === overlay) {
+              overlay.remove();
+            }
+          };
+
+          // esc close
+          document.onkeydown = (e) => {
+            if (e.key === 'Escape') {
+              overlay.remove();
+            }
+          };
+        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/ask-a-question-%E2%80%93-Multivendor-ask-a-question-3.png",alt:"Ask a Question ",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+        const existing = document.getElementById('wk-image-overlay');
+        if(existing) existing.remove();
+
+        const overlay = document.createElement('div');
+        overlay.id = 'wk-image-overlay';
+
+        overlay.style.cssText = \`
+          position:fixed;
+          inset:0;
+          background:rgba(0,0,0,0.88);
+          display:flex;
+          align-items:center;
+          justify-content:center;
+          z-index:99999;
+          padding:20px;
+          cursor:zoom-out;
+          overflow:hidden;
+          backdrop-filter: blur(3px);
+        \`;
+
+        const img = document.createElement('img');
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/ask-a-question-%E2%80%93-Multivendor-ask-a-question-3.png";
+
+        img.style.cssText = \`
+          max-width:95%;
+          max-height:95%;
+          border-radius:12px;
+          transition:transform .15s ease;
+          cursor:zoom-in;
+          will-change:transform;
+          user-select:none;
+        \`;
+
+        let scale = 1;
+
+        // scroll zoom
+        overlay.onwheel = (e) => {
+          e.preventDefault();
+
+          scale += e.deltaY * -0.001;
+          scale = Math.min(Math.max(1, scale), 5);
+
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        // double click zoom
+        img.ondblclick = () => {
+          scale = scale === 1 ? 2 : 1;
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        overlay.appendChild(img);
+        document.body.appendChild(overlay);
+
+        // close overlay
+        overlay.onclick = (e) => {
+          if (e.target === overlay) {
+            overlay.remove();
+          }
+        };
+
+        // esc close
+        document.onkeydown = (e) => {
+          if (e.key === 'Escape') {
+            overlay.remove();
+          }
+        };
+      `})])],-1),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
+          event.preventDefault();
+
+          const existing = document.getElementById('wk-image-overlay');
+          if(existing) existing.remove();
+
+          const overlay = document.createElement('div');
+          overlay.id = 'wk-image-overlay';
+
+          overlay.style.cssText = \`
+            position:fixed;
+            inset:0;
+            background:rgba(0,0,0,0.88);
+            display:flex;
+            align-items:center;
+            justify-content:center;
+            z-index:99999;
+            padding:20px;
+            cursor:zoom-out;
+            overflow:hidden;
+            backdrop-filter: blur(3px);
+          \`;
+
+          const img = document.createElement('img');
+          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2019/10/ask-a-question-%E2%80%93-Multivendor-ask-a-question-2.png";
+
+          img.style.cssText = \`
+            max-width:95%;
+            max-height:95%;
+            border-radius:12px;
+            transition:transform .15s ease;
+            cursor:zoom-in;
+            will-change:transform;
+            user-select:none;
+          \`;
+
+          let scale = 1;
+
+          // scroll zoom
+          overlay.onwheel = (e) => {
+            e.preventDefault();
+
+            scale += e.deltaY * -0.001;
+            scale = Math.min(Math.max(1, scale), 5);
+
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          // double click zoom
+          img.ondblclick = () => {
+            scale = scale === 1 ? 2 : 1;
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          overlay.appendChild(img);
+          document.body.appendChild(overlay);
+
+          // close overlay
+          overlay.onclick = (e) => {
+            if (e.target === overlay) {
+              overlay.remove();
+            }
+          };
+
+          // esc close
+          document.onkeydown = (e) => {
+            if (e.key === 'Escape') {
+              overlay.remove();
+            }
+          };
+        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2019/10/ask-a-question-%E2%80%93-Multivendor-ask-a-question-2.png",alt:"Ask a Question ",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+        const existing = document.getElementById('wk-image-overlay');
+        if(existing) existing.remove();
+
+        const overlay = document.createElement('div');
+        overlay.id = 'wk-image-overlay';
+
+        overlay.style.cssText = \`
+          position:fixed;
+          inset:0;
+          background:rgba(0,0,0,0.88);
+          display:flex;
+          align-items:center;
+          justify-content:center;
+          z-index:99999;
+          padding:20px;
+          cursor:zoom-out;
+          overflow:hidden;
+          backdrop-filter: blur(3px);
+        \`;
+
+        const img = document.createElement('img');
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2019/10/ask-a-question-%E2%80%93-Multivendor-ask-a-question-2.png";
+
+        img.style.cssText = \`
+          max-width:95%;
+          max-height:95%;
+          border-radius:12px;
+          transition:transform .15s ease;
+          cursor:zoom-in;
+          will-change:transform;
+          user-select:none;
+        \`;
+
+        let scale = 1;
+
+        // scroll zoom
+        overlay.onwheel = (e) => {
+          e.preventDefault();
+
+          scale += e.deltaY * -0.001;
+          scale = Math.min(Math.max(1, scale), 5);
+
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        // double click zoom
+        img.ondblclick = () => {
+          scale = scale === 1 ? 2 : 1;
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        overlay.appendChild(img);
+        document.body.appendChild(overlay);
+
+        // close overlay
+        overlay.onclick = (e) => {
+          if (e.target === overlay) {
+            overlay.remove();
+          }
+        };
+
+        // esc close
+        document.onkeydown = (e) => {
+          if (e.key === 'Escape') {
+            overlay.remove();
+          }
+        };
+      `})])],-1),n("h2",{id:"admin-can-monitor-the-queries-from-the-admin-panel",tabindex:"-1"},[e("Admin can monitor the queries from the admin panel. "),n("a",{class:"header-anchor",href:"#admin-can-monitor-the-queries-from-the-admin-panel","aria-label":'Permalink to "Admin can monitor the queries from the admin panel."'},"​")],-1),n("p",null,[e("Admin can view & reply to the queries by visiting the multivendor "),n("strong",null,"admin panel >"),e(),n("strong",null,"Orders"),e(),n("strong",null,"> Order queries:")],-1),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
+          event.preventDefault();
+
+          const existing = document.getElementById('wk-image-overlay');
+          if(existing) existing.remove();
+
+          const overlay = document.createElement('div');
+          overlay.id = 'wk-image-overlay';
+
+          overlay.style.cssText = \`
+            position:fixed;
+            inset:0;
+            background:rgba(0,0,0,0.88);
+            display:flex;
+            align-items:center;
+            justify-content:center;
+            z-index:99999;
+            padding:20px;
+            cursor:zoom-out;
+            overflow:hidden;
+            backdrop-filter: blur(3px);
+          \`;
+
+          const img = document.createElement('img');
+          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/orderasaqns-1200x538.webp";
+
+          img.style.cssText = \`
+            max-width:95%;
+            max-height:95%;
+            border-radius:12px;
+            transition:transform .15s ease;
+            cursor:zoom-in;
+            will-change:transform;
+            user-select:none;
+          \`;
+
+          let scale = 1;
+
+          // scroll zoom
+          overlay.onwheel = (e) => {
+            e.preventDefault();
+
+            scale += e.deltaY * -0.001;
+            scale = Math.min(Math.max(1, scale), 5);
+
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          // double click zoom
+          img.ondblclick = () => {
+            scale = scale === 1 ? 2 : 1;
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          overlay.appendChild(img);
+          document.body.appendChild(overlay);
+
+          // close overlay
+          overlay.onclick = (e) => {
+            if (e.target === overlay) {
+              overlay.remove();
+            }
+          };
+
+          // esc close
+          document.onkeydown = (e) => {
+            if (e.key === 'Escape') {
+              overlay.remove();
+            }
+          };
+        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/orderasaqns-1200x538.webp",alt:"Order queries",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+        const existing = document.getElementById('wk-image-overlay');
+        if(existing) existing.remove();
+
+        const overlay = document.createElement('div');
+        overlay.id = 'wk-image-overlay';
+
+        overlay.style.cssText = \`
+          position:fixed;
+          inset:0;
+          background:rgba(0,0,0,0.88);
+          display:flex;
+          align-items:center;
+          justify-content:center;
+          z-index:99999;
+          padding:20px;
+          cursor:zoom-out;
+          overflow:hidden;
+          backdrop-filter: blur(3px);
+        \`;
+
+        const img = document.createElement('img');
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/orderasaqns-1200x538.webp";
+
+        img.style.cssText = \`
+          max-width:95%;
+          max-height:95%;
+          border-radius:12px;
+          transition:transform .15s ease;
+          cursor:zoom-in;
+          will-change:transform;
+          user-select:none;
+        \`;
+
+        let scale = 1;
+
+        // scroll zoom
+        overlay.onwheel = (e) => {
+          e.preventDefault();
+
+          scale += e.deltaY * -0.001;
+          scale = Math.min(Math.max(1, scale), 5);
+
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        // double click zoom
+        img.ondblclick = () => {
+          scale = scale === 1 ? 2 : 1;
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        overlay.appendChild(img);
+        document.body.appendChild(overlay);
+
+        // close overlay
+        overlay.onclick = (e) => {
+          if (e.target === overlay) {
+            overlay.remove();
+          }
+        };
+
+        // esc close
+        document.onkeydown = (e) => {
+          if (e.key === 'Escape') {
+            overlay.remove();
+          }
+        };
+      `})])],-1),n("p",null,"The admin can view the Store Order ID in the order queries list.",-1),n("p",null,[e("Clicking on a particular query will take the admin to a query detail page. Here, the admin can "),n("strong",null,"view"),e(" all the conversations, reply to the query, and can also "),n("strong",null,"close"),e(" the query. Refer:")],-1),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
+          event.preventDefault();
+
+          const existing = document.getElementById('wk-image-overlay');
+          if(existing) existing.remove();
+
+          const overlay = document.createElement('div');
+          overlay.id = 'wk-image-overlay';
+
+          overlay.style.cssText = \`
+            position:fixed;
+            inset:0;
+            background:rgba(0,0,0,0.88);
+            display:flex;
+            align-items:center;
+            justify-content:center;
+            z-index:99999;
+            padding:20px;
+            cursor:zoom-out;
+            overflow:hidden;
+            backdrop-filter: blur(3px);
+          \`;
+
+          const img = document.createElement('img');
+          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2019/10/Ask-a-question-View-Admin.png";
+
+          img.style.cssText = \`
+            max-width:95%;
+            max-height:95%;
+            border-radius:12px;
+            transition:transform .15s ease;
+            cursor:zoom-in;
+            will-change:transform;
+            user-select:none;
+          \`;
+
+          let scale = 1;
+
+          // scroll zoom
+          overlay.onwheel = (e) => {
+            e.preventDefault();
+
+            scale += e.deltaY * -0.001;
+            scale = Math.min(Math.max(1, scale), 5);
+
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          // double click zoom
+          img.ondblclick = () => {
+            scale = scale === 1 ? 2 : 1;
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          overlay.appendChild(img);
+          document.body.appendChild(overlay);
+
+          // close overlay
+          overlay.onclick = (e) => {
+            if (e.target === overlay) {
+              overlay.remove();
+            }
+          };
+
+          // esc close
+          document.onkeydown = (e) => {
+            if (e.key === 'Escape') {
+              overlay.remove();
+            }
+          };
+        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2019/10/Ask-a-question-View-Admin.png",alt:"Ask a Question ",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+        const existing = document.getElementById('wk-image-overlay');
+        if(existing) existing.remove();
+
+        const overlay = document.createElement('div');
+        overlay.id = 'wk-image-overlay';
+
+        overlay.style.cssText = \`
+          position:fixed;
+          inset:0;
+          background:rgba(0,0,0,0.88);
+          display:flex;
+          align-items:center;
+          justify-content:center;
+          z-index:99999;
+          padding:20px;
+          cursor:zoom-out;
+          overflow:hidden;
+          backdrop-filter: blur(3px);
+        \`;
+
+        const img = document.createElement('img');
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2019/10/Ask-a-question-View-Admin.png";
+
+        img.style.cssText = \`
+          max-width:95%;
+          max-height:95%;
+          border-radius:12px;
+          transition:transform .15s ease;
+          cursor:zoom-in;
+          will-change:transform;
+          user-select:none;
+        \`;
+
+        let scale = 1;
+
+        // scroll zoom
+        overlay.onwheel = (e) => {
+          e.preventDefault();
+
+          scale += e.deltaY * -0.001;
+          scale = Math.min(Math.max(1, scale), 5);
+
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        // double click zoom
+        img.ondblclick = () => {
+          scale = scale === 1 ? 2 : 1;
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        overlay.appendChild(img);
+        document.body.appendChild(overlay);
+
+        // close overlay
+        overlay.onclick = (e) => {
+          if (e.target === overlay) {
+            overlay.remove();
+          }
+        };
+
+        // esc close
+        document.onkeydown = (e) => {
+          if (e.key === 'Escape') {
+            overlay.remove();
+          }
+        };
+      `})])],-1),n("h2",{id:"the-seller-can-monitor-queries-from-the-seller-panel",tabindex:"-1"},[e("The seller can monitor queries from the seller panel. "),n("a",{class:"header-anchor",href:"#the-seller-can-monitor-queries-from-the-seller-panel","aria-label":'Permalink to "The seller can monitor queries from the seller panel."'},"​")],-1),n("p",null,[e("The seller can view & reply to the queries by visiting multivendor "),n("strong",null,"seller panel"),e(" > "),n("strong",null,"Orders"),e(" > "),n("strong",null,"Ask a Question"),e(":")],-1),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
+          event.preventDefault();
+
+          const existing = document.getElementById('wk-image-overlay');
+          if(existing) existing.remove();
+
+          const overlay = document.createElement('div');
+          overlay.id = 'wk-image-overlay';
+
+          overlay.style.cssText = \`
+            position:fixed;
+            inset:0;
+            background:rgba(0,0,0,0.88);
+            display:flex;
+            align-items:center;
+            justify-content:center;
+            z-index:99999;
+            padding:20px;
+            cursor:zoom-out;
+            overflow:hidden;
+            backdrop-filter: blur(3px);
+          \`;
+
+          const img = document.createElement('img');
+          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2019/10/Ask-a-question-Seller-%E2%80%A2-Multivendor-MarketPlace.png";
+
+          img.style.cssText = \`
+            max-width:95%;
+            max-height:95%;
+            border-radius:12px;
+            transition:transform .15s ease;
+            cursor:zoom-in;
+            will-change:transform;
+            user-select:none;
+          \`;
+
+          let scale = 1;
+
+          // scroll zoom
+          overlay.onwheel = (e) => {
+            e.preventDefault();
+
+            scale += e.deltaY * -0.001;
+            scale = Math.min(Math.max(1, scale), 5);
+
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          // double click zoom
+          img.ondblclick = () => {
+            scale = scale === 1 ? 2 : 1;
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          overlay.appendChild(img);
+          document.body.appendChild(overlay);
+
+          // close overlay
+          overlay.onclick = (e) => {
+            if (e.target === overlay) {
+              overlay.remove();
+            }
+          };
+
+          // esc close
+          document.onkeydown = (e) => {
+            if (e.key === 'Escape') {
+              overlay.remove();
+            }
+          };
+        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2019/10/Ask-a-question-Seller-%E2%80%A2-Multivendor-MarketPlace.png",alt:"Ask a Question ",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+        const existing = document.getElementById('wk-image-overlay');
+        if(existing) existing.remove();
+
+        const overlay = document.createElement('div');
+        overlay.id = 'wk-image-overlay';
+
+        overlay.style.cssText = \`
+          position:fixed;
+          inset:0;
+          background:rgba(0,0,0,0.88);
+          display:flex;
+          align-items:center;
+          justify-content:center;
+          z-index:99999;
+          padding:20px;
+          cursor:zoom-out;
+          overflow:hidden;
+          backdrop-filter: blur(3px);
+        \`;
+
+        const img = document.createElement('img');
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2019/10/Ask-a-question-Seller-%E2%80%A2-Multivendor-MarketPlace.png";
+
+        img.style.cssText = \`
+          max-width:95%;
+          max-height:95%;
+          border-radius:12px;
+          transition:transform .15s ease;
+          cursor:zoom-in;
+          will-change:transform;
+          user-select:none;
+        \`;
+
+        let scale = 1;
+
+        // scroll zoom
+        overlay.onwheel = (e) => {
+          e.preventDefault();
+
+          scale += e.deltaY * -0.001;
+          scale = Math.min(Math.max(1, scale), 5);
+
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        // double click zoom
+        img.ondblclick = () => {
+          scale = scale === 1 ? 2 : 1;
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        overlay.appendChild(img);
+        document.body.appendChild(overlay);
+
+        // close overlay
+        overlay.onclick = (e) => {
+          if (e.target === overlay) {
+            overlay.remove();
+          }
+        };
+
+        // esc close
+        document.onkeydown = (e) => {
+          if (e.key === 'Escape') {
+            overlay.remove();
+          }
+        };
+      `})])],-1),n("p",null,[e("On the redirected page, the seller can "),n("strong",null,"view"),e(" all the conversations, reply to the query, and can also "),n("strong",null,"close"),e(" the query. Refer:")],-1),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
+          event.preventDefault();
+
+          const existing = document.getElementById('wk-image-overlay');
+          if(existing) existing.remove();
+
+          const overlay = document.createElement('div');
+          overlay.id = 'wk-image-overlay';
+
+          overlay.style.cssText = \`
+            position:fixed;
+            inset:0;
+            background:rgba(0,0,0,0.88);
+            display:flex;
+            align-items:center;
+            justify-content:center;
+            z-index:99999;
+            padding:20px;
+            cursor:zoom-out;
+            overflow:hidden;
+            backdrop-filter: blur(3px);
+          \`;
+
+          const img = document.createElement('img');
+          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2019/10/View-Ask-a-question-Seller-%E2%80%A2-Multivendor-MarketPlace.png";
+
+          img.style.cssText = \`
+            max-width:95%;
+            max-height:95%;
+            border-radius:12px;
+            transition:transform .15s ease;
+            cursor:zoom-in;
+            will-change:transform;
+            user-select:none;
+          \`;
+
+          let scale = 1;
+
+          // scroll zoom
+          overlay.onwheel = (e) => {
+            e.preventDefault();
+
+            scale += e.deltaY * -0.001;
+            scale = Math.min(Math.max(1, scale), 5);
+
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          // double click zoom
+          img.ondblclick = () => {
+            scale = scale === 1 ? 2 : 1;
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          overlay.appendChild(img);
+          document.body.appendChild(overlay);
+
+          // close overlay
+          overlay.onclick = (e) => {
+            if (e.target === overlay) {
+              overlay.remove();
+            }
+          };
+
+          // esc close
+          document.onkeydown = (e) => {
+            if (e.key === 'Escape') {
+              overlay.remove();
+            }
+          };
+        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2019/10/View-Ask-a-question-Seller-%E2%80%A2-Multivendor-MarketPlace.png",alt:"Ask a Question ",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+        const existing = document.getElementById('wk-image-overlay');
+        if(existing) existing.remove();
+
+        const overlay = document.createElement('div');
+        overlay.id = 'wk-image-overlay';
+
+        overlay.style.cssText = \`
+          position:fixed;
+          inset:0;
+          background:rgba(0,0,0,0.88);
+          display:flex;
+          align-items:center;
+          justify-content:center;
+          z-index:99999;
+          padding:20px;
+          cursor:zoom-out;
+          overflow:hidden;
+          backdrop-filter: blur(3px);
+        \`;
+
+        const img = document.createElement('img');
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2019/10/View-Ask-a-question-Seller-%E2%80%A2-Multivendor-MarketPlace.png";
+
+        img.style.cssText = \`
+          max-width:95%;
+          max-height:95%;
+          border-radius:12px;
+          transition:transform .15s ease;
+          cursor:zoom-in;
+          will-change:transform;
+          user-select:none;
+        \`;
+
+        let scale = 1;
+
+        // scroll zoom
+        overlay.onwheel = (e) => {
+          e.preventDefault();
+
+          scale += e.deltaY * -0.001;
+          scale = Math.min(Math.max(1, scale), 5);
+
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        // double click zoom
+        img.ondblclick = () => {
+          scale = scale === 1 ? 2 : 1;
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        overlay.appendChild(img);
+        document.body.appendChild(overlay);
+
+        // close overlay
+        overlay.onclick = (e) => {
+          if (e.target === overlay) {
+            overlay.remove();
+          }
+        };
+
+        // esc close
+        document.onkeydown = (e) => {
+          if (e.key === 'Escape') {
+            overlay.remove();
+          }
+        };
+      `})])],-1),n("h3",{id:"ask-a-question-as-faq",tabindex:"-1"},[e("Ask a Question As FAQ "),n("a",{class:"header-anchor",href:"#ask-a-question-as-faq","aria-label":'Permalink to "Ask a Question As FAQ"'},"​")],-1),n("p",null,"With the Multi-vendor Ask a Question feature, you can get the customer's queries published as FAQ on the product page of your store.",-1),n("p",null,"When a seller responds to the customer's query from his/her seller panel backend, the question & answer will be automatically published as a FAQ on the product page",-1),n("p",null,"And the Q/A thread will be closed.",-1),n("p",null,[e("To enable this feature in the app, please visit the Multi-vendor admin panel>>"),n("strong",null,"Configuration"),e(">>Ask a Question Configuration.")],-1),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
+          event.preventDefault();
+
+          const existing = document.getElementById('wk-image-overlay');
+          if(existing) existing.remove();
+
+          const overlay = document.createElement('div');
+          overlay.id = 'wk-image-overlay';
+
+          overlay.style.cssText = \`
+            position:fixed;
+            inset:0;
+            background:rgba(0,0,0,0.88);
+            display:flex;
+            align-items:center;
+            justify-content:center;
+            z-index:99999;
+            padding:20px;
+            cursor:zoom-out;
+            overflow:hidden;
+            backdrop-filter: blur(3px);
+          \`;
+
+          const img = document.createElement('img');
+          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2020/09/Screenshot-2020-09-03T171324.200-1200x553.png";
+
+          img.style.cssText = \`
+            max-width:95%;
+            max-height:95%;
+            border-radius:12px;
+            transition:transform .15s ease;
+            cursor:zoom-in;
+            will-change:transform;
+            user-select:none;
+          \`;
+
+          let scale = 1;
+
+          // scroll zoom
+          overlay.onwheel = (e) => {
+            e.preventDefault();
+
+            scale += e.deltaY * -0.001;
+            scale = Math.min(Math.max(1, scale), 5);
+
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          // double click zoom
+          img.ondblclick = () => {
+            scale = scale === 1 ? 2 : 1;
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          overlay.appendChild(img);
+          document.body.appendChild(overlay);
+
+          // close overlay
+          overlay.onclick = (e) => {
+            if (e.target === overlay) {
+              overlay.remove();
+            }
+          };
+
+          // esc close
+          document.onkeydown = (e) => {
+            if (e.key === 'Escape') {
+              overlay.remove();
+            }
+          };
+        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2020/09/Screenshot-2020-09-03T171324.200-1200x553.png",alt:"Screenshot-2020-09-03T171324.200",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+        const existing = document.getElementById('wk-image-overlay');
+        if(existing) existing.remove();
+
+        const overlay = document.createElement('div');
+        overlay.id = 'wk-image-overlay';
+
+        overlay.style.cssText = \`
+          position:fixed;
+          inset:0;
+          background:rgba(0,0,0,0.88);
+          display:flex;
+          align-items:center;
+          justify-content:center;
+          z-index:99999;
+          padding:20px;
+          cursor:zoom-out;
+          overflow:hidden;
+          backdrop-filter: blur(3px);
+        \`;
+
+        const img = document.createElement('img');
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2020/09/Screenshot-2020-09-03T171324.200-1200x553.png";
+
+        img.style.cssText = \`
+          max-width:95%;
+          max-height:95%;
+          border-radius:12px;
+          transition:transform .15s ease;
+          cursor:zoom-in;
+          will-change:transform;
+          user-select:none;
+        \`;
+
+        let scale = 1;
+
+        // scroll zoom
+        overlay.onwheel = (e) => {
+          e.preventDefault();
+
+          scale += e.deltaY * -0.001;
+          scale = Math.min(Math.max(1, scale), 5);
+
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        // double click zoom
+        img.ondblclick = () => {
+          scale = scale === 1 ? 2 : 1;
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        overlay.appendChild(img);
+        document.body.appendChild(overlay);
+
+        // close overlay
+        overlay.onclick = (e) => {
+          if (e.target === overlay) {
+            overlay.remove();
+          }
+        };
+
+        // esc close
+        document.onkeydown = (e) => {
+          if (e.key === 'Escape') {
+            overlay.remove();
+          }
+        };
+      `})])],-1),n("p",null,`To access and select the "FAQ" option from the dropdown list under 'Select Ask a Question Used for,' navigate to the Multivendor Marketplace Admin Panel.`,-1),n("p",null,[e("Then, go to "),n("strong",null,"Configuration"),e(" > "),n("strong",null,"Ask a Question Configuration"),e(" > "),n("strong",null,"Product Configuration"),e(".")],-1),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
+          event.preventDefault();
+
+          const existing = document.getElementById('wk-image-overlay');
+          if(existing) existing.remove();
+
+          const overlay = document.createElement('div');
+          overlay.id = 'wk-image-overlay';
+
+          overlay.style.cssText = \`
+            position:fixed;
+            inset:0;
+            background:rgba(0,0,0,0.88);
+            display:flex;
+            align-items:center;
+            justify-content:center;
+            z-index:99999;
+            padding:20px;
+            cursor:zoom-out;
+            overflow:hidden;
+            backdrop-filter: blur(3px);
+          \`;
+
+          const img = document.createElement('img');
+          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/01/faqonly-1200x587.webp";
+
+          img.style.cssText = \`
+            max-width:95%;
+            max-height:95%;
+            border-radius:12px;
+            transition:transform .15s ease;
+            cursor:zoom-in;
+            will-change:transform;
+            user-select:none;
+          \`;
+
+          let scale = 1;
+
+          // scroll zoom
+          overlay.onwheel = (e) => {
+            e.preventDefault();
+
+            scale += e.deltaY * -0.001;
+            scale = Math.min(Math.max(1, scale), 5);
+
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          // double click zoom
+          img.ondblclick = () => {
+            scale = scale === 1 ? 2 : 1;
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          overlay.appendChild(img);
+          document.body.appendChild(overlay);
+
+          // close overlay
+          overlay.onclick = (e) => {
+            if (e.target === overlay) {
+              overlay.remove();
+            }
+          };
+
+          // esc close
+          document.onkeydown = (e) => {
+            if (e.key === 'Escape') {
+              overlay.remove();
+            }
+          };
+        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2025/01/faqonly-1200x587.webp",alt:"faq",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+        const existing = document.getElementById('wk-image-overlay');
+        if(existing) existing.remove();
+
+        const overlay = document.createElement('div');
+        overlay.id = 'wk-image-overlay';
+
+        overlay.style.cssText = \`
+          position:fixed;
+          inset:0;
+          background:rgba(0,0,0,0.88);
+          display:flex;
+          align-items:center;
+          justify-content:center;
+          z-index:99999;
+          padding:20px;
+          cursor:zoom-out;
+          overflow:hidden;
+          backdrop-filter: blur(3px);
+        \`;
+
+        const img = document.createElement('img');
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/01/faqonly-1200x587.webp";
+
+        img.style.cssText = \`
+          max-width:95%;
+          max-height:95%;
+          border-radius:12px;
+          transition:transform .15s ease;
+          cursor:zoom-in;
+          will-change:transform;
+          user-select:none;
+        \`;
+
+        let scale = 1;
+
+        // scroll zoom
+        overlay.onwheel = (e) => {
+          e.preventDefault();
+
+          scale += e.deltaY * -0.001;
+          scale = Math.min(Math.max(1, scale), 5);
+
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        // double click zoom
+        img.ondblclick = () => {
+          scale = scale === 1 ? 2 : 1;
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        overlay.appendChild(img);
+        document.body.appendChild(overlay);
+
+        // close overlay
+        overlay.onclick = (e) => {
+          if (e.target === overlay) {
+            overlay.remove();
+          }
+        };
+
+        // esc close
+        document.onkeydown = (e) => {
+          if (e.key === 'Escape') {
+            overlay.remove();
+          }
+        };
+      `})])],-1),n("p",null,[e("To make the FAQ option visible on the front end, you need to add the codes "),n("strong",null,[n("a",{href:"https://webkul.com/blog/shopify-multivendor-marketplace-ask-question-new-theme/#front-end-display",target:"_blank",rel:"noreferrer"},"suggested above"),e(".")])],-1),n("p",null,"This is how the FAQ button appears on the front end:-",-1),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
+          event.preventDefault();
+
+          const existing = document.getElementById('wk-image-overlay');
+          if(existing) existing.remove();
+
+          const overlay = document.createElement('div');
+          overlay.id = 'wk-image-overlay';
+
+          overlay.style.cssText = \`
+            position:fixed;
+            inset:0;
+            background:rgba(0,0,0,0.88);
+            display:flex;
+            align-items:center;
+            justify-content:center;
+            z-index:99999;
+            padding:20px;
+            cursor:zoom-out;
+            overflow:hidden;
+            backdrop-filter: blur(3px);
+          \`;
+
+          const img = document.createElement('img');
+          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/01/faqoff-1200x900.webp";
+
+          img.style.cssText = \`
+            max-width:95%;
+            max-height:95%;
+            border-radius:12px;
+            transition:transform .15s ease;
+            cursor:zoom-in;
+            will-change:transform;
+            user-select:none;
+          \`;
+
+          let scale = 1;
+
+          // scroll zoom
+          overlay.onwheel = (e) => {
+            e.preventDefault();
+
+            scale += e.deltaY * -0.001;
+            scale = Math.min(Math.max(1, scale), 5);
+
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          // double click zoom
+          img.ondblclick = () => {
+            scale = scale === 1 ? 2 : 1;
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          overlay.appendChild(img);
+          document.body.appendChild(overlay);
+
+          // close overlay
+          overlay.onclick = (e) => {
+            if (e.target === overlay) {
+              overlay.remove();
+            }
+          };
+
+          // esc close
+          document.onkeydown = (e) => {
+            if (e.key === 'Escape') {
+              overlay.remove();
+            }
+          };
+        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2025/01/faqoff-1200x900.webp",alt:"faq",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+        const existing = document.getElementById('wk-image-overlay');
+        if(existing) existing.remove();
+
+        const overlay = document.createElement('div');
+        overlay.id = 'wk-image-overlay';
+
+        overlay.style.cssText = \`
+          position:fixed;
+          inset:0;
+          background:rgba(0,0,0,0.88);
+          display:flex;
+          align-items:center;
+          justify-content:center;
+          z-index:99999;
+          padding:20px;
+          cursor:zoom-out;
+          overflow:hidden;
+          backdrop-filter: blur(3px);
+        \`;
+
+        const img = document.createElement('img');
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/01/faqoff-1200x900.webp";
+
+        img.style.cssText = \`
+          max-width:95%;
+          max-height:95%;
+          border-radius:12px;
+          transition:transform .15s ease;
+          cursor:zoom-in;
+          will-change:transform;
+          user-select:none;
+        \`;
+
+        let scale = 1;
+
+        // scroll zoom
+        overlay.onwheel = (e) => {
+          e.preventDefault();
+
+          scale += e.deltaY * -0.001;
+          scale = Math.min(Math.max(1, scale), 5);
+
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        // double click zoom
+        img.ondblclick = () => {
+          scale = scale === 1 ? 2 : 1;
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        overlay.appendChild(img);
+        document.body.appendChild(overlay);
+
+        // close overlay
+        overlay.onclick = (e) => {
+          if (e.target === overlay) {
+            overlay.remove();
+          }
+        };
+
+        // esc close
+        document.onkeydown = (e) => {
+          if (e.key === 'Escape') {
+            overlay.remove();
+          }
+        };
+      `})])],-1),n("p",null,[n("strong",null,"NOTE"),e(": The customers need to have an account on the admin's store to ask a question to be published as FAQ.")],-1),n("p",null,"Clicking the FAQ button, the customers log in to their Shopify account and ask a question to the seller of this product.",-1),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
+          event.preventDefault();
+
+          const existing = document.getElementById('wk-image-overlay');
+          if(existing) existing.remove();
+
+          const overlay = document.createElement('div');
+          overlay.id = 'wk-image-overlay';
+
+          overlay.style.cssText = \`
+            position:fixed;
+            inset:0;
+            background:rgba(0,0,0,0.88);
+            display:flex;
+            align-items:center;
+            justify-content:center;
+            z-index:99999;
+            padding:20px;
+            cursor:zoom-out;
+            overflow:hidden;
+            backdrop-filter: blur(3px);
+          \`;
+
+          const img = document.createElement('img');
+          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/01/faqqryff-957x1024.webp";
+
+          img.style.cssText = \`
+            max-width:95%;
+            max-height:95%;
+            border-radius:12px;
+            transition:transform .15s ease;
+            cursor:zoom-in;
+            will-change:transform;
+            user-select:none;
+          \`;
+
+          let scale = 1;
+
+          // scroll zoom
+          overlay.onwheel = (e) => {
+            e.preventDefault();
+
+            scale += e.deltaY * -0.001;
+            scale = Math.min(Math.max(1, scale), 5);
+
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          // double click zoom
+          img.ondblclick = () => {
+            scale = scale === 1 ? 2 : 1;
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          overlay.appendChild(img);
+          document.body.appendChild(overlay);
+
+          // close overlay
+          overlay.onclick = (e) => {
+            if (e.target === overlay) {
+              overlay.remove();
+            }
+          };
+
+          // esc close
+          document.onkeydown = (e) => {
+            if (e.key === 'Escape') {
+              overlay.remove();
+            }
+          };
+        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2025/01/faqqryff-957x1024.webp",alt:"faq",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+        const existing = document.getElementById('wk-image-overlay');
+        if(existing) existing.remove();
+
+        const overlay = document.createElement('div');
+        overlay.id = 'wk-image-overlay';
+
+        overlay.style.cssText = \`
+          position:fixed;
+          inset:0;
+          background:rgba(0,0,0,0.88);
+          display:flex;
+          align-items:center;
+          justify-content:center;
+          z-index:99999;
+          padding:20px;
+          cursor:zoom-out;
+          overflow:hidden;
+          backdrop-filter: blur(3px);
+        \`;
+
+        const img = document.createElement('img');
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/01/faqqryff-957x1024.webp";
+
+        img.style.cssText = \`
+          max-width:95%;
+          max-height:95%;
+          border-radius:12px;
+          transition:transform .15s ease;
+          cursor:zoom-in;
+          will-change:transform;
+          user-select:none;
+        \`;
+
+        let scale = 1;
+
+        // scroll zoom
+        overlay.onwheel = (e) => {
+          e.preventDefault();
+
+          scale += e.deltaY * -0.001;
+          scale = Math.min(Math.max(1, scale), 5);
+
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        // double click zoom
+        img.ondblclick = () => {
+          scale = scale === 1 ? 2 : 1;
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        overlay.appendChild(img);
+        document.body.appendChild(overlay);
+
+        // close overlay
+        overlay.onclick = (e) => {
+          if (e.target === overlay) {
+            overlay.remove();
+          }
+        };
+
+        // esc close
+        document.onkeydown = (e) => {
+          if (e.key === 'Escape') {
+            overlay.remove();
+          }
+        };
+      `})])],-1),n("p",null,"And after that as a question to the seller of that product.",-1),n("p",null,"Immediately, the seller will receive an email regarding this. Now, the seller will check the query from his/her seller panel.",-1),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
+          event.preventDefault();
+
+          const existing = document.getElementById('wk-image-overlay');
+          if(existing) existing.remove();
+
+          const overlay = document.createElement('div');
+          overlay.id = 'wk-image-overlay';
+
+          overlay.style.cssText = \`
+            position:fixed;
+            inset:0;
+            background:rgba(0,0,0,0.88);
+            display:flex;
+            align-items:center;
+            justify-content:center;
+            z-index:99999;
+            padding:20px;
+            cursor:zoom-out;
+            overflow:hidden;
+            backdrop-filter: blur(3px);
+          \`;
+
+          const img = document.createElement('img');
+          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2020/09/Ask-a-question-Seller-%E2%80%A2-Multivendor-MarketPlace-1200x597.png";
+
+          img.style.cssText = \`
+            max-width:95%;
+            max-height:95%;
+            border-radius:12px;
+            transition:transform .15s ease;
+            cursor:zoom-in;
+            will-change:transform;
+            user-select:none;
+          \`;
+
+          let scale = 1;
+
+          // scroll zoom
+          overlay.onwheel = (e) => {
+            e.preventDefault();
+
+            scale += e.deltaY * -0.001;
+            scale = Math.min(Math.max(1, scale), 5);
+
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          // double click zoom
+          img.ondblclick = () => {
+            scale = scale === 1 ? 2 : 1;
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          overlay.appendChild(img);
+          document.body.appendChild(overlay);
+
+          // close overlay
+          overlay.onclick = (e) => {
+            if (e.target === overlay) {
+              overlay.remove();
+            }
+          };
+
+          // esc close
+          document.onkeydown = (e) => {
+            if (e.key === 'Escape') {
+              overlay.remove();
+            }
+          };
+        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2020/09/Ask-a-question-Seller-%E2%80%A2-Multivendor-MarketPlace-1200x597.png",alt:"Ask-a-question-Seller-•-Multivendor-MarketPlace",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+        const existing = document.getElementById('wk-image-overlay');
+        if(existing) existing.remove();
+
+        const overlay = document.createElement('div');
+        overlay.id = 'wk-image-overlay';
+
+        overlay.style.cssText = \`
+          position:fixed;
+          inset:0;
+          background:rgba(0,0,0,0.88);
+          display:flex;
+          align-items:center;
+          justify-content:center;
+          z-index:99999;
+          padding:20px;
+          cursor:zoom-out;
+          overflow:hidden;
+          backdrop-filter: blur(3px);
+        \`;
+
+        const img = document.createElement('img');
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2020/09/Ask-a-question-Seller-%E2%80%A2-Multivendor-MarketPlace-1200x597.png";
+
+        img.style.cssText = \`
+          max-width:95%;
+          max-height:95%;
+          border-radius:12px;
+          transition:transform .15s ease;
+          cursor:zoom-in;
+          will-change:transform;
+          user-select:none;
+        \`;
+
+        let scale = 1;
+
+        // scroll zoom
+        overlay.onwheel = (e) => {
+          e.preventDefault();
+
+          scale += e.deltaY * -0.001;
+          scale = Math.min(Math.max(1, scale), 5);
+
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        // double click zoom
+        img.ondblclick = () => {
+          scale = scale === 1 ? 2 : 1;
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        overlay.appendChild(img);
+        document.body.appendChild(overlay);
+
+        // close overlay
+        overlay.onclick = (e) => {
+          if (e.target === overlay) {
+            overlay.remove();
+          }
+        };
+
+        // esc close
+        document.onkeydown = (e) => {
+          if (e.key === 'Escape') {
+            overlay.remove();
+          }
+        };
+      `})])],-1),n("p",null,"Clicking over the query, the seller will get the option to respond to the customer's query.",-1),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
+          event.preventDefault();
+
+          const existing = document.getElementById('wk-image-overlay');
+          if(existing) existing.remove();
+
+          const overlay = document.createElement('div');
+          overlay.id = 'wk-image-overlay';
+
+          overlay.style.cssText = \`
+            position:fixed;
+            inset:0;
+            background:rgba(0,0,0,0.88);
+            display:flex;
+            align-items:center;
+            justify-content:center;
+            z-index:99999;
+            padding:20px;
+            cursor:zoom-out;
+            overflow:hidden;
+            backdrop-filter: blur(3px);
+          \`;
+
+          const img = document.createElement('img');
+          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2020/09/View-Ask-a-question-Seller-%E2%80%A2-Multivendor-MarketPlace-1200x597.png";
+
+          img.style.cssText = \`
+            max-width:95%;
+            max-height:95%;
+            border-radius:12px;
+            transition:transform .15s ease;
+            cursor:zoom-in;
+            will-change:transform;
+            user-select:none;
+          \`;
+
+          let scale = 1;
+
+          // scroll zoom
+          overlay.onwheel = (e) => {
+            e.preventDefault();
+
+            scale += e.deltaY * -0.001;
+            scale = Math.min(Math.max(1, scale), 5);
+
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          // double click zoom
+          img.ondblclick = () => {
+            scale = scale === 1 ? 2 : 1;
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          overlay.appendChild(img);
+          document.body.appendChild(overlay);
+
+          // close overlay
+          overlay.onclick = (e) => {
+            if (e.target === overlay) {
+              overlay.remove();
+            }
+          };
+
+          // esc close
+          document.onkeydown = (e) => {
+            if (e.key === 'Escape') {
+              overlay.remove();
+            }
+          };
+        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2020/09/View-Ask-a-question-Seller-%E2%80%A2-Multivendor-MarketPlace-1200x597.png",alt:"View-Ask-a-question-Seller-•-Multivendor-MarketPlace",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+        const existing = document.getElementById('wk-image-overlay');
+        if(existing) existing.remove();
+
+        const overlay = document.createElement('div');
+        overlay.id = 'wk-image-overlay';
+
+        overlay.style.cssText = \`
+          position:fixed;
+          inset:0;
+          background:rgba(0,0,0,0.88);
+          display:flex;
+          align-items:center;
+          justify-content:center;
+          z-index:99999;
+          padding:20px;
+          cursor:zoom-out;
+          overflow:hidden;
+          backdrop-filter: blur(3px);
+        \`;
+
+        const img = document.createElement('img');
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2020/09/View-Ask-a-question-Seller-%E2%80%A2-Multivendor-MarketPlace-1200x597.png";
+
+        img.style.cssText = \`
+          max-width:95%;
+          max-height:95%;
+          border-radius:12px;
+          transition:transform .15s ease;
+          cursor:zoom-in;
+          will-change:transform;
+          user-select:none;
+        \`;
+
+        let scale = 1;
+
+        // scroll zoom
+        overlay.onwheel = (e) => {
+          e.preventDefault();
+
+          scale += e.deltaY * -0.001;
+          scale = Math.min(Math.max(1, scale), 5);
+
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        // double click zoom
+        img.ondblclick = () => {
+          scale = scale === 1 ? 2 : 1;
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        overlay.appendChild(img);
+        document.body.appendChild(overlay);
+
+        // close overlay
+        overlay.onclick = (e) => {
+          if (e.target === overlay) {
+            overlay.remove();
+          }
+        };
+
+        // esc close
+        document.onkeydown = (e) => {
+          if (e.key === 'Escape') {
+            overlay.remove();
+          }
+        };
+      `})])],-1),n("p",null,"As soon as the seller responds to the customer query, it will get published automatically as FAQ on the product page.",-1),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
+          event.preventDefault();
+
+          const existing = document.getElementById('wk-image-overlay');
+          if(existing) existing.remove();
+
+          const overlay = document.createElement('div');
+          overlay.id = 'wk-image-overlay';
+
+          overlay.style.cssText = \`
+            position:fixed;
+            inset:0;
+            background:rgba(0,0,0,0.88);
+            display:flex;
+            align-items:center;
+            justify-content:center;
+            z-index:99999;
+            padding:20px;
+            cursor:zoom-out;
+            overflow:hidden;
+            backdrop-filter: blur(3px);
+          \`;
+
+          const img = document.createElement('img');
+          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2020/09/View-Ask-a-question-Seller-%E2%80%A2-Multivendor-MarketPlace-1-2-1200x597.png";
+
+          img.style.cssText = \`
+            max-width:95%;
+            max-height:95%;
+            border-radius:12px;
+            transition:transform .15s ease;
+            cursor:zoom-in;
+            will-change:transform;
+            user-select:none;
+          \`;
+
+          let scale = 1;
+
+          // scroll zoom
+          overlay.onwheel = (e) => {
+            e.preventDefault();
+
+            scale += e.deltaY * -0.001;
+            scale = Math.min(Math.max(1, scale), 5);
+
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          // double click zoom
+          img.ondblclick = () => {
+            scale = scale === 1 ? 2 : 1;
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          overlay.appendChild(img);
+          document.body.appendChild(overlay);
+
+          // close overlay
+          overlay.onclick = (e) => {
+            if (e.target === overlay) {
+              overlay.remove();
+            }
+          };
+
+          // esc close
+          document.onkeydown = (e) => {
+            if (e.key === 'Escape') {
+              overlay.remove();
+            }
+          };
+        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2020/09/View-Ask-a-question-Seller-%E2%80%A2-Multivendor-MarketPlace-1-2-1200x597.png",alt:"View-Ask-a-question-Seller-•-Multivendor-MarketPlace-1-2",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+        const existing = document.getElementById('wk-image-overlay');
+        if(existing) existing.remove();
+
+        const overlay = document.createElement('div');
+        overlay.id = 'wk-image-overlay';
+
+        overlay.style.cssText = \`
+          position:fixed;
+          inset:0;
+          background:rgba(0,0,0,0.88);
+          display:flex;
+          align-items:center;
+          justify-content:center;
+          z-index:99999;
+          padding:20px;
+          cursor:zoom-out;
+          overflow:hidden;
+          backdrop-filter: blur(3px);
+        \`;
+
+        const img = document.createElement('img');
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2020/09/View-Ask-a-question-Seller-%E2%80%A2-Multivendor-MarketPlace-1-2-1200x597.png";
+
+        img.style.cssText = \`
+          max-width:95%;
+          max-height:95%;
+          border-radius:12px;
+          transition:transform .15s ease;
+          cursor:zoom-in;
+          will-change:transform;
+          user-select:none;
+        \`;
+
+        let scale = 1;
+
+        // scroll zoom
+        overlay.onwheel = (e) => {
+          e.preventDefault();
+
+          scale += e.deltaY * -0.001;
+          scale = Math.min(Math.max(1, scale), 5);
+
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        // double click zoom
+        img.ondblclick = () => {
+          scale = scale === 1 ? 2 : 1;
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        overlay.appendChild(img);
+        document.body.appendChild(overlay);
+
+        // close overlay
+        overlay.onclick = (e) => {
+          if (e.target === overlay) {
+            overlay.remove();
+          }
+        };
+
+        // esc close
+        document.onkeydown = (e) => {
+          if (e.key === 'Escape') {
+            overlay.remove();
+          }
+        };
+      `})])],-1),n("p",null,"Once the query is published as FAQ, the query status will be closed on the seller panel.",-1),n("p",null,"This is how the recently asked query will appear on the product page.",-1),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
+          event.preventDefault();
+
+          const existing = document.getElementById('wk-image-overlay');
+          if(existing) existing.remove();
+
+          const overlay = document.createElement('div');
+          overlay.id = 'wk-image-overlay';
+
+          overlay.style.cssText = \`
+            position:fixed;
+            inset:0;
+            background:rgba(0,0,0,0.88);
+            display:flex;
+            align-items:center;
+            justify-content:center;
+            z-index:99999;
+            padding:20px;
+            cursor:zoom-out;
+            overflow:hidden;
+            backdrop-filter: blur(3px);
+          \`;
+
+          const img = document.createElement('img');
+          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2020/09/Customized-Coffee-Mug-%E2%80%93-rohit-jha-store15-2-1200x597.png";
+
+          img.style.cssText = \`
+            max-width:95%;
+            max-height:95%;
+            border-radius:12px;
+            transition:transform .15s ease;
+            cursor:zoom-in;
+            will-change:transform;
+            user-select:none;
+          \`;
+
+          let scale = 1;
+
+          // scroll zoom
+          overlay.onwheel = (e) => {
+            e.preventDefault();
+
+            scale += e.deltaY * -0.001;
+            scale = Math.min(Math.max(1, scale), 5);
+
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          // double click zoom
+          img.ondblclick = () => {
+            scale = scale === 1 ? 2 : 1;
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          overlay.appendChild(img);
+          document.body.appendChild(overlay);
+
+          // close overlay
+          overlay.onclick = (e) => {
+            if (e.target === overlay) {
+              overlay.remove();
+            }
+          };
+
+          // esc close
+          document.onkeydown = (e) => {
+            if (e.key === 'Escape') {
+              overlay.remove();
+            }
+          };
+        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2020/09/Customized-Coffee-Mug-%E2%80%93-rohit-jha-store15-2-1200x597.png",alt:"Customized-Coffee-Mug-–-rohit-jha-store15-2",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+        const existing = document.getElementById('wk-image-overlay');
+        if(existing) existing.remove();
+
+        const overlay = document.createElement('div');
+        overlay.id = 'wk-image-overlay';
+
+        overlay.style.cssText = \`
+          position:fixed;
+          inset:0;
+          background:rgba(0,0,0,0.88);
+          display:flex;
+          align-items:center;
+          justify-content:center;
+          z-index:99999;
+          padding:20px;
+          cursor:zoom-out;
+          overflow:hidden;
+          backdrop-filter: blur(3px);
+        \`;
+
+        const img = document.createElement('img');
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2020/09/Customized-Coffee-Mug-%E2%80%93-rohit-jha-store15-2-1200x597.png";
+
+        img.style.cssText = \`
+          max-width:95%;
+          max-height:95%;
+          border-radius:12px;
+          transition:transform .15s ease;
+          cursor:zoom-in;
+          will-change:transform;
+          user-select:none;
+        \`;
+
+        let scale = 1;
+
+        // scroll zoom
+        overlay.onwheel = (e) => {
+          e.preventDefault();
+
+          scale += e.deltaY * -0.001;
+          scale = Math.min(Math.max(1, scale), 5);
+
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        // double click zoom
+        img.ondblclick = () => {
+          scale = scale === 1 ? 2 : 1;
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        overlay.appendChild(img);
+        document.body.appendChild(overlay);
+
+        // close overlay
+        overlay.onclick = (e) => {
+          if (e.target === overlay) {
+            overlay.remove();
+          }
+        };
+
+        // esc close
+        document.onkeydown = (e) => {
+          if (e.key === 'Escape') {
+            overlay.remove();
+          }
+        };
+      `})])],-1),n("p",null,'The customers can check and edit their queries from their respective "My Account" section.',-1),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
+          event.preventDefault();
+
+          const existing = document.getElementById('wk-image-overlay');
+          if(existing) existing.remove();
+
+          const overlay = document.createElement('div');
+          overlay.id = 'wk-image-overlay';
+
+          overlay.style.cssText = \`
+            position:fixed;
+            inset:0;
+            background:rgba(0,0,0,0.88);
+            display:flex;
+            align-items:center;
+            justify-content:center;
+            z-index:99999;
+            padding:20px;
+            cursor:zoom-out;
+            overflow:hidden;
+            backdrop-filter: blur(3px);
+          \`;
+
+          const img = document.createElement('img');
+          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2020/09/Account-%E2%80%93-rohit-jha-store15-1200x597.png";
+
+          img.style.cssText = \`
+            max-width:95%;
+            max-height:95%;
+            border-radius:12px;
+            transition:transform .15s ease;
+            cursor:zoom-in;
+            will-change:transform;
+            user-select:none;
+          \`;
+
+          let scale = 1;
+
+          // scroll zoom
+          overlay.onwheel = (e) => {
+            e.preventDefault();
+
+            scale += e.deltaY * -0.001;
+            scale = Math.min(Math.max(1, scale), 5);
+
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          // double click zoom
+          img.ondblclick = () => {
+            scale = scale === 1 ? 2 : 1;
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          overlay.appendChild(img);
+          document.body.appendChild(overlay);
+
+          // close overlay
+          overlay.onclick = (e) => {
+            if (e.target === overlay) {
+              overlay.remove();
+            }
+          };
+
+          // esc close
+          document.onkeydown = (e) => {
+            if (e.key === 'Escape') {
+              overlay.remove();
+            }
+          };
+        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2020/09/Account-%E2%80%93-rohit-jha-store15-1200x597.png",alt:"Account-–-rohit-jha-store15",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+        const existing = document.getElementById('wk-image-overlay');
+        if(existing) existing.remove();
+
+        const overlay = document.createElement('div');
+        overlay.id = 'wk-image-overlay';
+
+        overlay.style.cssText = \`
+          position:fixed;
+          inset:0;
+          background:rgba(0,0,0,0.88);
+          display:flex;
+          align-items:center;
+          justify-content:center;
+          z-index:99999;
+          padding:20px;
+          cursor:zoom-out;
+          overflow:hidden;
+          backdrop-filter: blur(3px);
+        \`;
+
+        const img = document.createElement('img');
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2020/09/Account-%E2%80%93-rohit-jha-store15-1200x597.png";
+
+        img.style.cssText = \`
+          max-width:95%;
+          max-height:95%;
+          border-radius:12px;
+          transition:transform .15s ease;
+          cursor:zoom-in;
+          will-change:transform;
+          user-select:none;
+        \`;
+
+        let scale = 1;
+
+        // scroll zoom
+        overlay.onwheel = (e) => {
+          e.preventDefault();
+
+          scale += e.deltaY * -0.001;
+          scale = Math.min(Math.max(1, scale), 5);
+
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        // double click zoom
+        img.ondblclick = () => {
+          scale = scale === 1 ? 2 : 1;
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        overlay.appendChild(img);
+        document.body.appendChild(overlay);
+
+        // close overlay
+        overlay.onclick = (e) => {
+          if (e.target === overlay) {
+            overlay.remove();
+          }
+        };
+
+        // esc close
+        document.onkeydown = (e) => {
+          if (e.key === 'Escape') {
+            overlay.remove();
+          }
+        };
+      `})])],-1),n("p",null,"The customer can click the View button to check the query details.",-1),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
+          event.preventDefault();
+
+          const existing = document.getElementById('wk-image-overlay');
+          if(existing) existing.remove();
+
+          const overlay = document.createElement('div');
+          overlay.id = 'wk-image-overlay';
+
+          overlay.style.cssText = \`
+            position:fixed;
+            inset:0;
+            background:rgba(0,0,0,0.88);
+            display:flex;
+            align-items:center;
+            justify-content:center;
+            z-index:99999;
+            padding:20px;
+            cursor:zoom-out;
+            overflow:hidden;
+            backdrop-filter: blur(3px);
+          \`;
+
+          const img = document.createElement('img');
+          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2020/09/ask-a-question-%E2%80%93-rohit-jha-store15-1200x597.png";
+
+          img.style.cssText = \`
+            max-width:95%;
+            max-height:95%;
+            border-radius:12px;
+            transition:transform .15s ease;
+            cursor:zoom-in;
+            will-change:transform;
+            user-select:none;
+          \`;
+
+          let scale = 1;
+
+          // scroll zoom
+          overlay.onwheel = (e) => {
+            e.preventDefault();
+
+            scale += e.deltaY * -0.001;
+            scale = Math.min(Math.max(1, scale), 5);
+
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          // double click zoom
+          img.ondblclick = () => {
+            scale = scale === 1 ? 2 : 1;
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          overlay.appendChild(img);
+          document.body.appendChild(overlay);
+
+          // close overlay
+          overlay.onclick = (e) => {
+            if (e.target === overlay) {
+              overlay.remove();
+            }
+          };
+
+          // esc close
+          document.onkeydown = (e) => {
+            if (e.key === 'Escape') {
+              overlay.remove();
+            }
+          };
+        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2020/09/ask-a-question-%E2%80%93-rohit-jha-store15-1200x597.png",alt:"ask-a-question-–-rohit-jha-store15",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+        const existing = document.getElementById('wk-image-overlay');
+        if(existing) existing.remove();
+
+        const overlay = document.createElement('div');
+        overlay.id = 'wk-image-overlay';
+
+        overlay.style.cssText = \`
+          position:fixed;
+          inset:0;
+          background:rgba(0,0,0,0.88);
+          display:flex;
+          align-items:center;
+          justify-content:center;
+          z-index:99999;
+          padding:20px;
+          cursor:zoom-out;
+          overflow:hidden;
+          backdrop-filter: blur(3px);
+        \`;
+
+        const img = document.createElement('img');
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2020/09/ask-a-question-%E2%80%93-rohit-jha-store15-1200x597.png";
+
+        img.style.cssText = \`
+          max-width:95%;
+          max-height:95%;
+          border-radius:12px;
+          transition:transform .15s ease;
+          cursor:zoom-in;
+          will-change:transform;
+          user-select:none;
+        \`;
+
+        let scale = 1;
+
+        // scroll zoom
+        overlay.onwheel = (e) => {
+          e.preventDefault();
+
+          scale += e.deltaY * -0.001;
+          scale = Math.min(Math.max(1, scale), 5);
+
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        // double click zoom
+        img.ondblclick = () => {
+          scale = scale === 1 ? 2 : 1;
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        overlay.appendChild(img);
+        document.body.appendChild(overlay);
+
+        // close overlay
+        overlay.onclick = (e) => {
+          if (e.target === overlay) {
+            overlay.remove();
+          }
+        };
+
+        // esc close
+        document.onkeydown = (e) => {
+          if (e.key === 'Escape') {
+            overlay.remove();
+          }
+        };
+      `})])],-1),n("p",null,"Customer's Query Details:-",-1),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
+          event.preventDefault();
+
+          const existing = document.getElementById('wk-image-overlay');
+          if(existing) existing.remove();
+
+          const overlay = document.createElement('div');
+          overlay.id = 'wk-image-overlay';
+
+          overlay.style.cssText = \`
+            position:fixed;
+            inset:0;
+            background:rgba(0,0,0,0.88);
+            display:flex;
+            align-items:center;
+            justify-content:center;
+            z-index:99999;
+            padding:20px;
+            cursor:zoom-out;
+            overflow:hidden;
+            backdrop-filter: blur(3px);
+          \`;
+
+          const img = document.createElement('img');
+          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2020/09/ask-a-question-%E2%80%93-rohit-jha-store15-1-1200x597.png";
+
+          img.style.cssText = \`
+            max-width:95%;
+            max-height:95%;
+            border-radius:12px;
+            transition:transform .15s ease;
+            cursor:zoom-in;
+            will-change:transform;
+            user-select:none;
+          \`;
+
+          let scale = 1;
+
+          // scroll zoom
+          overlay.onwheel = (e) => {
+            e.preventDefault();
+
+            scale += e.deltaY * -0.001;
+            scale = Math.min(Math.max(1, scale), 5);
+
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          // double click zoom
+          img.ondblclick = () => {
+            scale = scale === 1 ? 2 : 1;
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          overlay.appendChild(img);
+          document.body.appendChild(overlay);
+
+          // close overlay
+          overlay.onclick = (e) => {
+            if (e.target === overlay) {
+              overlay.remove();
+            }
+          };
+
+          // esc close
+          document.onkeydown = (e) => {
+            if (e.key === 'Escape') {
+              overlay.remove();
+            }
+          };
+        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2020/09/ask-a-question-%E2%80%93-rohit-jha-store15-1-1200x597.png",alt:"ask-a-question-–-rohit-jha-store15-1",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+        const existing = document.getElementById('wk-image-overlay');
+        if(existing) existing.remove();
+
+        const overlay = document.createElement('div');
+        overlay.id = 'wk-image-overlay';
+
+        overlay.style.cssText = \`
+          position:fixed;
+          inset:0;
+          background:rgba(0,0,0,0.88);
+          display:flex;
+          align-items:center;
+          justify-content:center;
+          z-index:99999;
+          padding:20px;
+          cursor:zoom-out;
+          overflow:hidden;
+          backdrop-filter: blur(3px);
+        \`;
+
+        const img = document.createElement('img');
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2020/09/ask-a-question-%E2%80%93-rohit-jha-store15-1-1200x597.png";
+
+        img.style.cssText = \`
+          max-width:95%;
+          max-height:95%;
+          border-radius:12px;
+          transition:transform .15s ease;
+          cursor:zoom-in;
+          will-change:transform;
+          user-select:none;
+        \`;
+
+        let scale = 1;
+
+        // scroll zoom
+        overlay.onwheel = (e) => {
+          e.preventDefault();
+
+          scale += e.deltaY * -0.001;
+          scale = Math.min(Math.max(1, scale), 5);
+
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        // double click zoom
+        img.ondblclick = () => {
+          scale = scale === 1 ? 2 : 1;
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        overlay.appendChild(img);
+        document.body.appendChild(overlay);
+
+        // close overlay
+        overlay.onclick = (e) => {
+          if (e.target === overlay) {
+            overlay.remove();
+          }
+        };
+
+        // esc close
+        document.onkeydown = (e) => {
+          if (e.key === 'Escape') {
+            overlay.remove();
+          }
+        };
+      `})])],-1),o("",5),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
+          event.preventDefault();
+
+          const existing = document.getElementById('wk-image-overlay');
+          if(existing) existing.remove();
+
+          const overlay = document.createElement('div');
+          overlay.id = 'wk-image-overlay';
+
+          overlay.style.cssText = \`
+            position:fixed;
+            inset:0;
+            background:rgba(0,0,0,0.88);
+            display:flex;
+            align-items:center;
+            justify-content:center;
+            z-index:99999;
+            padding:20px;
+            cursor:zoom-out;
+            overflow:hidden;
+            backdrop-filter: blur(3px);
+          \`;
+
+          const img = document.createElement('img');
+          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/01/uploadfaq-1077x1024.webp";
+
+          img.style.cssText = \`
+            max-width:95%;
+            max-height:95%;
+            border-radius:12px;
+            transition:transform .15s ease;
+            cursor:zoom-in;
+            will-change:transform;
+            user-select:none;
+          \`;
+
+          let scale = 1;
+
+          // scroll zoom
+          overlay.onwheel = (e) => {
+            e.preventDefault();
+
+            scale += e.deltaY * -0.001;
+            scale = Math.min(Math.max(1, scale), 5);
+
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          // double click zoom
+          img.ondblclick = () => {
+            scale = scale === 1 ? 2 : 1;
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          overlay.appendChild(img);
+          document.body.appendChild(overlay);
+
+          // close overlay
+          overlay.onclick = (e) => {
+            if (e.target === overlay) {
+              overlay.remove();
+            }
+          };
+
+          // esc close
+          document.onkeydown = (e) => {
+            if (e.key === 'Escape') {
+              overlay.remove();
+            }
+          };
+        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2025/01/uploadfaq-1077x1024.webp",alt:"FAQ",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+        const existing = document.getElementById('wk-image-overlay');
+        if(existing) existing.remove();
+
+        const overlay = document.createElement('div');
+        overlay.id = 'wk-image-overlay';
+
+        overlay.style.cssText = \`
+          position:fixed;
+          inset:0;
+          background:rgba(0,0,0,0.88);
+          display:flex;
+          align-items:center;
+          justify-content:center;
+          z-index:99999;
+          padding:20px;
+          cursor:zoom-out;
+          overflow:hidden;
+          backdrop-filter: blur(3px);
+        \`;
+
+        const img = document.createElement('img');
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/01/uploadfaq-1077x1024.webp";
+
+        img.style.cssText = \`
+          max-width:95%;
+          max-height:95%;
+          border-radius:12px;
+          transition:transform .15s ease;
+          cursor:zoom-in;
+          will-change:transform;
+          user-select:none;
+        \`;
+
+        let scale = 1;
+
+        // scroll zoom
+        overlay.onwheel = (e) => {
+          e.preventDefault();
+
+          scale += e.deltaY * -0.001;
+          scale = Math.min(Math.max(1, scale), 5);
+
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        // double click zoom
+        img.ondblclick = () => {
+          scale = scale === 1 ? 2 : 1;
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        overlay.appendChild(img);
+        document.body.appendChild(overlay);
+
+        // close overlay
+        overlay.onclick = (e) => {
+          if (e.target === overlay) {
+            overlay.remove();
+          }
+        };
+
+        // esc close
+        document.onkeydown = (e) => {
+          if (e.key === 'Escape') {
+            overlay.remove();
+          }
+        };
+      `})])],-1),n("p",null,"Once enabled, the customer can upload the file while asking questions about the product.",-1),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
+          event.preventDefault();
+
+          const existing = document.getElementById('wk-image-overlay');
+          if(existing) existing.remove();
+
+          const overlay = document.createElement('div');
+          overlay.id = 'wk-image-overlay';
+
+          overlay.style.cssText = \`
+            position:fixed;
+            inset:0;
+            background:rgba(0,0,0,0.88);
+            display:flex;
+            align-items:center;
+            justify-content:center;
+            z-index:99999;
+            padding:20px;
+            cursor:zoom-out;
+            overflow:hidden;
+            backdrop-filter: blur(3px);
+          \`;
+
+          const img = document.createElement('img');
+          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2021/07/screenshot-prnt.sc-2021.07.09-14_37_53-1200x468.png";
+
+          img.style.cssText = \`
+            max-width:95%;
+            max-height:95%;
+            border-radius:12px;
+            transition:transform .15s ease;
+            cursor:zoom-in;
+            will-change:transform;
+            user-select:none;
+          \`;
+
+          let scale = 1;
+
+          // scroll zoom
+          overlay.onwheel = (e) => {
+            e.preventDefault();
+
+            scale += e.deltaY * -0.001;
+            scale = Math.min(Math.max(1, scale), 5);
+
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          // double click zoom
+          img.ondblclick = () => {
+            scale = scale === 1 ? 2 : 1;
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          overlay.appendChild(img);
+          document.body.appendChild(overlay);
+
+          // close overlay
+          overlay.onclick = (e) => {
+            if (e.target === overlay) {
+              overlay.remove();
+            }
+          };
+
+          // esc close
+          document.onkeydown = (e) => {
+            if (e.key === 'Escape') {
+              overlay.remove();
+            }
+          };
+        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2021/07/screenshot-prnt.sc-2021.07.09-14_37_53-1200x468.png",alt:"screenshot-prnt.sc-2021.07.09-14_37_53",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+        const existing = document.getElementById('wk-image-overlay');
+        if(existing) existing.remove();
+
+        const overlay = document.createElement('div');
+        overlay.id = 'wk-image-overlay';
+
+        overlay.style.cssText = \`
+          position:fixed;
+          inset:0;
+          background:rgba(0,0,0,0.88);
+          display:flex;
+          align-items:center;
+          justify-content:center;
+          z-index:99999;
+          padding:20px;
+          cursor:zoom-out;
+          overflow:hidden;
+          backdrop-filter: blur(3px);
+        \`;
+
+        const img = document.createElement('img');
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2021/07/screenshot-prnt.sc-2021.07.09-14_37_53-1200x468.png";
+
+        img.style.cssText = \`
+          max-width:95%;
+          max-height:95%;
+          border-radius:12px;
+          transition:transform .15s ease;
+          cursor:zoom-in;
+          will-change:transform;
+          user-select:none;
+        \`;
+
+        let scale = 1;
+
+        // scroll zoom
+        overlay.onwheel = (e) => {
+          e.preventDefault();
+
+          scale += e.deltaY * -0.001;
+          scale = Math.min(Math.max(1, scale), 5);
+
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        // double click zoom
+        img.ondblclick = () => {
+          scale = scale === 1 ? 2 : 1;
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        overlay.appendChild(img);
+        document.body.appendChild(overlay);
+
+        // close overlay
+        overlay.onclick = (e) => {
+          if (e.target === overlay) {
+            overlay.remove();
+          }
+        };
+
+        // esc close
+        document.onkeydown = (e) => {
+          if (e.key === 'Escape') {
+            overlay.remove();
+          }
+        };
+      `})])],-1),n("p",null,"Seller uploading file:",-1),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
+          event.preventDefault();
+
+          const existing = document.getElementById('wk-image-overlay');
+          if(existing) existing.remove();
+
+          const overlay = document.createElement('div');
+          overlay.id = 'wk-image-overlay';
+
+          overlay.style.cssText = \`
+            position:fixed;
+            inset:0;
+            background:rgba(0,0,0,0.88);
+            display:flex;
+            align-items:center;
+            justify-content:center;
+            z-index:99999;
+            padding:20px;
+            cursor:zoom-out;
+            overflow:hidden;
+            backdrop-filter: blur(3px);
+          \`;
+
+          const img = document.createElement('img');
+          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2021/07/screenshot-prnt.sc-2021.07.09-15_01_04-1200x417.png";
+
+          img.style.cssText = \`
+            max-width:95%;
+            max-height:95%;
+            border-radius:12px;
+            transition:transform .15s ease;
+            cursor:zoom-in;
+            will-change:transform;
+            user-select:none;
+          \`;
+
+          let scale = 1;
+
+          // scroll zoom
+          overlay.onwheel = (e) => {
+            e.preventDefault();
+
+            scale += e.deltaY * -0.001;
+            scale = Math.min(Math.max(1, scale), 5);
+
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          // double click zoom
+          img.ondblclick = () => {
+            scale = scale === 1 ? 2 : 1;
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          overlay.appendChild(img);
+          document.body.appendChild(overlay);
+
+          // close overlay
+          overlay.onclick = (e) => {
+            if (e.target === overlay) {
+              overlay.remove();
+            }
+          };
+
+          // esc close
+          document.onkeydown = (e) => {
+            if (e.key === 'Escape') {
+              overlay.remove();
+            }
+          };
+        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2021/07/screenshot-prnt.sc-2021.07.09-15_01_04-1200x417.png",alt:"screenshot-prnt.sc-2021.07.09-15_01_04",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+        const existing = document.getElementById('wk-image-overlay');
+        if(existing) existing.remove();
+
+        const overlay = document.createElement('div');
+        overlay.id = 'wk-image-overlay';
+
+        overlay.style.cssText = \`
+          position:fixed;
+          inset:0;
+          background:rgba(0,0,0,0.88);
+          display:flex;
+          align-items:center;
+          justify-content:center;
+          z-index:99999;
+          padding:20px;
+          cursor:zoom-out;
+          overflow:hidden;
+          backdrop-filter: blur(3px);
+        \`;
+
+        const img = document.createElement('img');
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2021/07/screenshot-prnt.sc-2021.07.09-15_01_04-1200x417.png";
+
+        img.style.cssText = \`
+          max-width:95%;
+          max-height:95%;
+          border-radius:12px;
+          transition:transform .15s ease;
+          cursor:zoom-in;
+          will-change:transform;
+          user-select:none;
+        \`;
+
+        let scale = 1;
+
+        // scroll zoom
+        overlay.onwheel = (e) => {
+          e.preventDefault();
+
+          scale += e.deltaY * -0.001;
+          scale = Math.min(Math.max(1, scale), 5);
+
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        // double click zoom
+        img.ondblclick = () => {
+          scale = scale === 1 ? 2 : 1;
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        overlay.appendChild(img);
+        document.body.appendChild(overlay);
+
+        // close overlay
+        overlay.onclick = (e) => {
+          if (e.target === overlay) {
+            overlay.remove();
+          }
+        };
+
+        // esc close
+        document.onkeydown = (e) => {
+          if (e.key === 'Escape') {
+            overlay.remove();
+          }
+        };
+      `})])],-1),n("h3",{id:"restrict-customer-to-raise-query-without-login",tabindex:"-1"},[e("Restrict customer to raise query without login "),n("a",{class:"header-anchor",href:"#restrict-customer-to-raise-query-without-login","aria-label":'Permalink to "Restrict customer to raise query without login"'},"​")],-1),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
+          event.preventDefault();
+
+          const existing = document.getElementById('wk-image-overlay');
+          if(existing) existing.remove();
+
+          const overlay = document.createElement('div');
+          overlay.id = 'wk-image-overlay';
+
+          overlay.style.cssText = \`
+            position:fixed;
+            inset:0;
+            background:rgba(0,0,0,0.88);
+            display:flex;
+            align-items:center;
+            justify-content:center;
+            z-index:99999;
+            padding:20px;
+            cursor:zoom-out;
+            overflow:hidden;
+            backdrop-filter: blur(3px);
+          \`;
+
+          const img = document.createElement('img');
+          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/askquescustlog-1200x965.webp";
+
+          img.style.cssText = \`
+            max-width:95%;
+            max-height:95%;
+            border-radius:12px;
+            transition:transform .15s ease;
+            cursor:zoom-in;
+            will-change:transform;
+            user-select:none;
+          \`;
+
+          let scale = 1;
+
+          // scroll zoom
+          overlay.onwheel = (e) => {
+            e.preventDefault();
+
+            scale += e.deltaY * -0.001;
+            scale = Math.min(Math.max(1, scale), 5);
+
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          // double click zoom
+          img.ondblclick = () => {
+            scale = scale === 1 ? 2 : 1;
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          overlay.appendChild(img);
+          document.body.appendChild(overlay);
+
+          // close overlay
+          overlay.onclick = (e) => {
+            if (e.target === overlay) {
+              overlay.remove();
+            }
+          };
+
+          // esc close
+          document.onkeydown = (e) => {
+            if (e.key === 'Escape') {
+              overlay.remove();
+            }
+          };
+        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/askquescustlog-1200x965.webp",alt:"Raise query without login",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+        const existing = document.getElementById('wk-image-overlay');
+        if(existing) existing.remove();
+
+        const overlay = document.createElement('div');
+        overlay.id = 'wk-image-overlay';
+
+        overlay.style.cssText = \`
+          position:fixed;
+          inset:0;
+          background:rgba(0,0,0,0.88);
+          display:flex;
+          align-items:center;
+          justify-content:center;
+          z-index:99999;
+          padding:20px;
+          cursor:zoom-out;
+          overflow:hidden;
+          backdrop-filter: blur(3px);
+        \`;
+
+        const img = document.createElement('img');
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/askquescustlog-1200x965.webp";
+
+        img.style.cssText = \`
+          max-width:95%;
+          max-height:95%;
+          border-radius:12px;
+          transition:transform .15s ease;
+          cursor:zoom-in;
+          will-change:transform;
+          user-select:none;
+        \`;
+
+        let scale = 1;
+
+        // scroll zoom
+        overlay.onwheel = (e) => {
+          e.preventDefault();
+
+          scale += e.deltaY * -0.001;
+          scale = Math.min(Math.max(1, scale), 5);
+
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        // double click zoom
+        img.ondblclick = () => {
+          scale = scale === 1 ? 2 : 1;
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        overlay.appendChild(img);
+        document.body.appendChild(overlay);
+
+        // close overlay
+        overlay.onclick = (e) => {
+          if (e.target === overlay) {
+            overlay.remove();
+          }
+        };
+
+        // esc close
+        document.onkeydown = (e) => {
+          if (e.key === 'Escape') {
+            overlay.remove();
+          }
+        };
+      `})])],-1),n("p",null,[e("When you enable the "),n("strong",null,"'Restrict customer to raise query without login'"),e(" configuration, customers must log in to raise a query.")],-1),n("p",null,"Without logging in, they will not be able to submit a query.",-1),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
+          event.preventDefault();
+
+          const existing = document.getElementById('wk-image-overlay');
+          if(existing) existing.remove();
+
+          const overlay = document.createElement('div');
+          overlay.id = 'wk-image-overlay';
+
+          overlay.style.cssText = \`
+            position:fixed;
+            inset:0;
+            background:rgba(0,0,0,0.88);
+            display:flex;
+            align-items:center;
+            justify-content:center;
+            z-index:99999;
+            padding:20px;
+            cursor:zoom-out;
+            overflow:hidden;
+            backdrop-filter: blur(3px);
+          \`;
+
+          const img = document.createElement('img');
+          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/frntaskq-1200x740.webp";
+
+          img.style.cssText = \`
+            max-width:95%;
+            max-height:95%;
+            border-radius:12px;
+            transition:transform .15s ease;
+            cursor:zoom-in;
+            will-change:transform;
+            user-select:none;
+          \`;
+
+          let scale = 1;
+
+          // scroll zoom
+          overlay.onwheel = (e) => {
+            e.preventDefault();
+
+            scale += e.deltaY * -0.001;
+            scale = Math.min(Math.max(1, scale), 5);
+
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          // double click zoom
+          img.ondblclick = () => {
+            scale = scale === 1 ? 2 : 1;
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          overlay.appendChild(img);
+          document.body.appendChild(overlay);
+
+          // close overlay
+          overlay.onclick = (e) => {
+            if (e.target === overlay) {
+              overlay.remove();
+            }
+          };
+
+          // esc close
+          document.onkeydown = (e) => {
+            if (e.key === 'Escape') {
+              overlay.remove();
+            }
+          };
+        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/frntaskq-1200x740.webp",alt:"login to raise query",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+        const existing = document.getElementById('wk-image-overlay');
+        if(existing) existing.remove();
+
+        const overlay = document.createElement('div');
+        overlay.id = 'wk-image-overlay';
+
+        overlay.style.cssText = \`
+          position:fixed;
+          inset:0;
+          background:rgba(0,0,0,0.88);
+          display:flex;
+          align-items:center;
+          justify-content:center;
+          z-index:99999;
+          padding:20px;
+          cursor:zoom-out;
+          overflow:hidden;
+          backdrop-filter: blur(3px);
+        \`;
+
+        const img = document.createElement('img');
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/frntaskq-1200x740.webp";
+
+        img.style.cssText = \`
+          max-width:95%;
+          max-height:95%;
+          border-radius:12px;
+          transition:transform .15s ease;
+          cursor:zoom-in;
+          will-change:transform;
+          user-select:none;
+        \`;
+
+        let scale = 1;
+
+        // scroll zoom
+        overlay.onwheel = (e) => {
+          e.preventDefault();
+
+          scale += e.deltaY * -0.001;
+          scale = Math.min(Math.max(1, scale), 5);
+
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        // double click zoom
+        img.ondblclick = () => {
+          scale = scale === 1 ? 2 : 1;
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        overlay.appendChild(img);
+        document.body.appendChild(overlay);
+
+        // close overlay
+        overlay.onclick = (e) => {
+          if (e.target === overlay) {
+            overlay.remove();
+          }
+        };
+
+        // esc close
+        document.onkeydown = (e) => {
+          if (e.key === 'Escape') {
+            overlay.remove();
+          }
+        };
+      `})])],-1),n("p",null,[e("When this configuration is enabled, customers who try to submit a query without logging in will see a message on the product page stating, "),n("strong",null,'"Please login, to raise a query."')],-1),n("h3",{id:"custom-fields-in-ask-a-question",tabindex:"-1"},[e("Custom fields in Ask a Question "),n("a",{class:"header-anchor",href:"#custom-fields-in-ask-a-question","aria-label":'Permalink to "Custom fields in Ask a Question"'},"​")],-1),n("p",null,"You can also add custom fields in the Ask a Question label on the product page to procure data and queries from the customers.",-1),n("p",null,"Admin/sellers can then provide the customer with suitable reverts.",-1),n("p",null,"To create a custom field, the admin needs to go to the admin panel > configuration >custom fields > Add custom field.",-1),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
+          event.preventDefault();
+
+          const existing = document.getElementById('wk-image-overlay');
+          if(existing) existing.remove();
+
+          const overlay = document.createElement('div');
+          overlay.id = 'wk-image-overlay';
+
+          overlay.style.cssText = \`
+            position:fixed;
+            inset:0;
+            background:rgba(0,0,0,0.88);
+            display:flex;
+            align-items:center;
+            justify-content:center;
+            z-index:99999;
+            padding:20px;
+            cursor:zoom-out;
+            overflow:hidden;
+            backdrop-filter: blur(3px);
+          \`;
+
+          const img = document.createElement('img');
+          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2023/05/screenshot_1684393000088-1200x619.png";
+
+          img.style.cssText = \`
+            max-width:95%;
+            max-height:95%;
+            border-radius:12px;
+            transition:transform .15s ease;
+            cursor:zoom-in;
+            will-change:transform;
+            user-select:none;
+          \`;
+
+          let scale = 1;
+
+          // scroll zoom
+          overlay.onwheel = (e) => {
+            e.preventDefault();
+
+            scale += e.deltaY * -0.001;
+            scale = Math.min(Math.max(1, scale), 5);
+
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          // double click zoom
+          img.ondblclick = () => {
+            scale = scale === 1 ? 2 : 1;
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          overlay.appendChild(img);
+          document.body.appendChild(overlay);
+
+          // close overlay
+          overlay.onclick = (e) => {
+            if (e.target === overlay) {
+              overlay.remove();
+            }
+          };
+
+          // esc close
+          document.onkeydown = (e) => {
+            if (e.key === 'Escape') {
+              overlay.remove();
+            }
+          };
+        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2023/05/screenshot_1684393000088-1200x619.png",alt:"screenshot_1684393000088",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+        const existing = document.getElementById('wk-image-overlay');
+        if(existing) existing.remove();
+
+        const overlay = document.createElement('div');
+        overlay.id = 'wk-image-overlay';
+
+        overlay.style.cssText = \`
+          position:fixed;
+          inset:0;
+          background:rgba(0,0,0,0.88);
+          display:flex;
+          align-items:center;
+          justify-content:center;
+          z-index:99999;
+          padding:20px;
+          cursor:zoom-out;
+          overflow:hidden;
+          backdrop-filter: blur(3px);
+        \`;
+
+        const img = document.createElement('img');
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2023/05/screenshot_1684393000088-1200x619.png";
+
+        img.style.cssText = \`
+          max-width:95%;
+          max-height:95%;
+          border-radius:12px;
+          transition:transform .15s ease;
+          cursor:zoom-in;
+          will-change:transform;
+          user-select:none;
+        \`;
+
+        let scale = 1;
+
+        // scroll zoom
+        overlay.onwheel = (e) => {
+          e.preventDefault();
+
+          scale += e.deltaY * -0.001;
+          scale = Math.min(Math.max(1, scale), 5);
+
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        // double click zoom
+        img.ondblclick = () => {
+          scale = scale === 1 ? 2 : 1;
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        overlay.appendChild(img);
+        document.body.appendChild(overlay);
+
+        // close overlay
+        overlay.onclick = (e) => {
+          if (e.target === overlay) {
+            overlay.remove();
+          }
+        };
+
+        // esc close
+        document.onkeydown = (e) => {
+          if (e.key === 'Escape') {
+            overlay.remove();
+          }
+        };
+      `})])],-1),n("p",null,'Once you click on the "add custom field" button, the custom field page will open and you need to select Ask a Question in "FIELD FOR*"',-1),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
+          event.preventDefault();
+
+          const existing = document.getElementById('wk-image-overlay');
+          if(existing) existing.remove();
+
+          const overlay = document.createElement('div');
+          overlay.id = 'wk-image-overlay';
+
+          overlay.style.cssText = \`
+            position:fixed;
+            inset:0;
+            background:rgba(0,0,0,0.88);
+            display:flex;
+            align-items:center;
+            justify-content:center;
+            z-index:99999;
+            padding:20px;
+            cursor:zoom-out;
+            overflow:hidden;
+            backdrop-filter: blur(3px);
+          \`;
+
+          const img = document.createElement('img');
+          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2023/05/screenshot_1684393174801-1200x563.png";
+
+          img.style.cssText = \`
+            max-width:95%;
+            max-height:95%;
+            border-radius:12px;
+            transition:transform .15s ease;
+            cursor:zoom-in;
+            will-change:transform;
+            user-select:none;
+          \`;
+
+          let scale = 1;
+
+          // scroll zoom
+          overlay.onwheel = (e) => {
+            e.preventDefault();
+
+            scale += e.deltaY * -0.001;
+            scale = Math.min(Math.max(1, scale), 5);
+
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          // double click zoom
+          img.ondblclick = () => {
+            scale = scale === 1 ? 2 : 1;
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          overlay.appendChild(img);
+          document.body.appendChild(overlay);
+
+          // close overlay
+          overlay.onclick = (e) => {
+            if (e.target === overlay) {
+              overlay.remove();
+            }
+          };
+
+          // esc close
+          document.onkeydown = (e) => {
+            if (e.key === 'Escape') {
+              overlay.remove();
+            }
+          };
+        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2023/05/screenshot_1684393174801-1200x563.png",alt:"screenshot_1684393174801",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+        const existing = document.getElementById('wk-image-overlay');
+        if(existing) existing.remove();
+
+        const overlay = document.createElement('div');
+        overlay.id = 'wk-image-overlay';
+
+        overlay.style.cssText = \`
+          position:fixed;
+          inset:0;
+          background:rgba(0,0,0,0.88);
+          display:flex;
+          align-items:center;
+          justify-content:center;
+          z-index:99999;
+          padding:20px;
+          cursor:zoom-out;
+          overflow:hidden;
+          backdrop-filter: blur(3px);
+        \`;
+
+        const img = document.createElement('img');
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2023/05/screenshot_1684393174801-1200x563.png";
+
+        img.style.cssText = \`
+          max-width:95%;
+          max-height:95%;
+          border-radius:12px;
+          transition:transform .15s ease;
+          cursor:zoom-in;
+          will-change:transform;
+          user-select:none;
+        \`;
+
+        let scale = 1;
+
+        // scroll zoom
+        overlay.onwheel = (e) => {
+          e.preventDefault();
+
+          scale += e.deltaY * -0.001;
+          scale = Math.min(Math.max(1, scale), 5);
+
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        // double click zoom
+        img.ondblclick = () => {
+          scale = scale === 1 ? 2 : 1;
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        overlay.appendChild(img);
+        document.body.appendChild(overlay);
+
+        // close overlay
+        overlay.onclick = (e) => {
+          if (e.target === overlay) {
+            overlay.remove();
+          }
+        };
+
+        // esc close
+        document.onkeydown = (e) => {
+          if (e.key === 'Escape') {
+            overlay.remove();
+          }
+        };
+      `})])],-1),n("p",null,"Now, you need to fill in the data in the given fields.",-1),n("p",null,[n("strong",null,"FIELD NAME:"),e(" Here you need to enter the custom field name.")],-1),n("p",null,[n("strong",null,"INPUT TYPE:"),e(" You can select in what input you want the data from the customer (text or number)")],-1),n("p",null,[n("strong",null,"SEQUENCE:"),e(" Here you need to select the sequence for the custom field")],-1),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
+          event.preventDefault();
+
+          const existing = document.getElementById('wk-image-overlay');
+          if(existing) existing.remove();
+
+          const overlay = document.createElement('div');
+          overlay.id = 'wk-image-overlay';
+
+          overlay.style.cssText = \`
+            position:fixed;
+            inset:0;
+            background:rgba(0,0,0,0.88);
+            display:flex;
+            align-items:center;
+            justify-content:center;
+            z-index:99999;
+            padding:20px;
+            cursor:zoom-out;
+            overflow:hidden;
+            backdrop-filter: blur(3px);
+          \`;
+
+          const img = document.createElement('img');
+          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2023/05/screenshot_1684393499849-1200x619.png";
+
+          img.style.cssText = \`
+            max-width:95%;
+            max-height:95%;
+            border-radius:12px;
+            transition:transform .15s ease;
+            cursor:zoom-in;
+            will-change:transform;
+            user-select:none;
+          \`;
+
+          let scale = 1;
+
+          // scroll zoom
+          overlay.onwheel = (e) => {
+            e.preventDefault();
+
+            scale += e.deltaY * -0.001;
+            scale = Math.min(Math.max(1, scale), 5);
+
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          // double click zoom
+          img.ondblclick = () => {
+            scale = scale === 1 ? 2 : 1;
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          overlay.appendChild(img);
+          document.body.appendChild(overlay);
+
+          // close overlay
+          overlay.onclick = (e) => {
+            if (e.target === overlay) {
+              overlay.remove();
+            }
+          };
+
+          // esc close
+          document.onkeydown = (e) => {
+            if (e.key === 'Escape') {
+              overlay.remove();
+            }
+          };
+        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2023/05/screenshot_1684393499849-1200x619.png",alt:"screenshot_1684393499849",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+        const existing = document.getElementById('wk-image-overlay');
+        if(existing) existing.remove();
+
+        const overlay = document.createElement('div');
+        overlay.id = 'wk-image-overlay';
+
+        overlay.style.cssText = \`
+          position:fixed;
+          inset:0;
+          background:rgba(0,0,0,0.88);
+          display:flex;
+          align-items:center;
+          justify-content:center;
+          z-index:99999;
+          padding:20px;
+          cursor:zoom-out;
+          overflow:hidden;
+          backdrop-filter: blur(3px);
+        \`;
+
+        const img = document.createElement('img');
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2023/05/screenshot_1684393499849-1200x619.png";
+
+        img.style.cssText = \`
+          max-width:95%;
+          max-height:95%;
+          border-radius:12px;
+          transition:transform .15s ease;
+          cursor:zoom-in;
+          will-change:transform;
+          user-select:none;
+        \`;
+
+        let scale = 1;
+
+        // scroll zoom
+        overlay.onwheel = (e) => {
+          e.preventDefault();
+
+          scale += e.deltaY * -0.001;
+          scale = Math.min(Math.max(1, scale), 5);
+
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        // double click zoom
+        img.ondblclick = () => {
+          scale = scale === 1 ? 2 : 1;
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        overlay.appendChild(img);
+        document.body.appendChild(overlay);
+
+        // close overlay
+        overlay.onclick = (e) => {
+          if (e.target === overlay) {
+            overlay.remove();
+          }
+        };
+
+        // esc close
+        document.onkeydown = (e) => {
+          if (e.key === 'Escape') {
+            overlay.remove();
+          }
+        };
+      `})])],-1),n("p",null,'After clicking on the "save" button, the custom field for ask a question will be created and can be viewed from the custom field list.',-1),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
+          event.preventDefault();
+
+          const existing = document.getElementById('wk-image-overlay');
+          if(existing) existing.remove();
+
+          const overlay = document.createElement('div');
+          overlay.id = 'wk-image-overlay';
+
+          overlay.style.cssText = \`
+            position:fixed;
+            inset:0;
+            background:rgba(0,0,0,0.88);
+            display:flex;
+            align-items:center;
+            justify-content:center;
+            z-index:99999;
+            padding:20px;
+            cursor:zoom-out;
+            overflow:hidden;
+            backdrop-filter: blur(3px);
+          \`;
+
+          const img = document.createElement('img');
+          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2023/05/screenshot_1684393851043-1200x563.png";
+
+          img.style.cssText = \`
+            max-width:95%;
+            max-height:95%;
+            border-radius:12px;
+            transition:transform .15s ease;
+            cursor:zoom-in;
+            will-change:transform;
+            user-select:none;
+          \`;
+
+          let scale = 1;
+
+          // scroll zoom
+          overlay.onwheel = (e) => {
+            e.preventDefault();
+
+            scale += e.deltaY * -0.001;
+            scale = Math.min(Math.max(1, scale), 5);
+
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          // double click zoom
+          img.ondblclick = () => {
+            scale = scale === 1 ? 2 : 1;
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          overlay.appendChild(img);
+          document.body.appendChild(overlay);
+
+          // close overlay
+          overlay.onclick = (e) => {
+            if (e.target === overlay) {
+              overlay.remove();
+            }
+          };
+
+          // esc close
+          document.onkeydown = (e) => {
+            if (e.key === 'Escape') {
+              overlay.remove();
+            }
+          };
+        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2023/05/screenshot_1684393851043-1200x563.png",alt:"screenshot_1684393851043",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+        const existing = document.getElementById('wk-image-overlay');
+        if(existing) existing.remove();
+
+        const overlay = document.createElement('div');
+        overlay.id = 'wk-image-overlay';
+
+        overlay.style.cssText = \`
+          position:fixed;
+          inset:0;
+          background:rgba(0,0,0,0.88);
+          display:flex;
+          align-items:center;
+          justify-content:center;
+          z-index:99999;
+          padding:20px;
+          cursor:zoom-out;
+          overflow:hidden;
+          backdrop-filter: blur(3px);
+        \`;
+
+        const img = document.createElement('img');
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2023/05/screenshot_1684393851043-1200x563.png";
+
+        img.style.cssText = \`
+          max-width:95%;
+          max-height:95%;
+          border-radius:12px;
+          transition:transform .15s ease;
+          cursor:zoom-in;
+          will-change:transform;
+          user-select:none;
+        \`;
+
+        let scale = 1;
+
+        // scroll zoom
+        overlay.onwheel = (e) => {
+          e.preventDefault();
+
+          scale += e.deltaY * -0.001;
+          scale = Math.min(Math.max(1, scale), 5);
+
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        // double click zoom
+        img.ondblclick = () => {
+          scale = scale === 1 ? 2 : 1;
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        overlay.appendChild(img);
+        document.body.appendChild(overlay);
+
+        // close overlay
+        overlay.onclick = (e) => {
+          if (e.target === overlay) {
+            overlay.remove();
+          }
+        };
+
+        // esc close
+        document.onkeydown = (e) => {
+          if (e.key === 'Escape') {
+            overlay.remove();
+          }
+        };
+      `})])],-1),n("h3",{id:"frontend",tabindex:"-1"},[e("Frontend "),n("a",{class:"header-anchor",href:"#frontend","aria-label":'Permalink to "Frontend"'},"​")],-1),n("p",null,"The customer can view and fill in the data in the Ask a Question form via custom fields on the product page.",-1),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
+          event.preventDefault();
+
+          const existing = document.getElementById('wk-image-overlay');
+          if(existing) existing.remove();
+
+          const overlay = document.createElement('div');
+          overlay.id = 'wk-image-overlay';
+
+          overlay.style.cssText = \`
+            position:fixed;
+            inset:0;
+            background:rgba(0,0,0,0.88);
+            display:flex;
+            align-items:center;
+            justify-content:center;
+            z-index:99999;
+            padding:20px;
+            cursor:zoom-out;
+            overflow:hidden;
+            backdrop-filter: blur(3px);
+          \`;
+
+          const img = document.createElement('img');
+          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2023/05/screenshot_1684394118912.png";
+
+          img.style.cssText = \`
+            max-width:95%;
+            max-height:95%;
+            border-radius:12px;
+            transition:transform .15s ease;
+            cursor:zoom-in;
+            will-change:transform;
+            user-select:none;
+          \`;
+
+          let scale = 1;
+
+          // scroll zoom
+          overlay.onwheel = (e) => {
+            e.preventDefault();
+
+            scale += e.deltaY * -0.001;
+            scale = Math.min(Math.max(1, scale), 5);
+
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          // double click zoom
+          img.ondblclick = () => {
+            scale = scale === 1 ? 2 : 1;
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          overlay.appendChild(img);
+          document.body.appendChild(overlay);
+
+          // close overlay
+          overlay.onclick = (e) => {
+            if (e.target === overlay) {
+              overlay.remove();
+            }
+          };
+
+          // esc close
+          document.onkeydown = (e) => {
+            if (e.key === 'Escape') {
+              overlay.remove();
+            }
+          };
+        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2023/05/screenshot_1684394118912.png",alt:"screenshot_1684394118912",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+        const existing = document.getElementById('wk-image-overlay');
+        if(existing) existing.remove();
+
+        const overlay = document.createElement('div');
+        overlay.id = 'wk-image-overlay';
+
+        overlay.style.cssText = \`
+          position:fixed;
+          inset:0;
+          background:rgba(0,0,0,0.88);
+          display:flex;
+          align-items:center;
+          justify-content:center;
+          z-index:99999;
+          padding:20px;
+          cursor:zoom-out;
+          overflow:hidden;
+          backdrop-filter: blur(3px);
+        \`;
+
+        const img = document.createElement('img');
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2023/05/screenshot_1684394118912.png";
+
+        img.style.cssText = \`
+          max-width:95%;
+          max-height:95%;
+          border-radius:12px;
+          transition:transform .15s ease;
+          cursor:zoom-in;
+          will-change:transform;
+          user-select:none;
+        \`;
+
+        let scale = 1;
+
+        // scroll zoom
+        overlay.onwheel = (e) => {
+          e.preventDefault();
+
+          scale += e.deltaY * -0.001;
+          scale = Math.min(Math.max(1, scale), 5);
+
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        // double click zoom
+        img.ondblclick = () => {
+          scale = scale === 1 ? 2 : 1;
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        overlay.appendChild(img);
+        document.body.appendChild(overlay);
+
+        // close overlay
+        overlay.onclick = (e) => {
+          if (e.target === overlay) {
+            overlay.remove();
+          }
+        };
+
+        // esc close
+        document.onkeydown = (e) => {
+          if (e.key === 'Escape') {
+            overlay.remove();
+          }
+        };
+      `})])],-1),n("p",null,[e("After submitting the query, "),n("strong",null,"the admin or the seller"),e(" can reply to the query raised by the customer.")],-1),n("h3",{id:"admin-can-monitor-the-queries-from-the-admin-panel-1",tabindex:"-1"},[e("Admin can monitor the queries from the admin panel. "),n("a",{class:"header-anchor",href:"#admin-can-monitor-the-queries-from-the-admin-panel-1","aria-label":'Permalink to "Admin can monitor the queries from the admin panel."'},"​")],-1),n("p",null,[e("The Admin can easily view all queries from the "),n("strong",null,'"Ask a Question"'),e(" section in the "),n("strong",null,'"Product"'),e(" menu through the Admin panel.")],-1),n("p",null,"To view the queries, visit the Admin panel>Products> Ask a Question>click on the respective query to view it.",-1),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
+          event.preventDefault();
+
+          const existing = document.getElementById('wk-image-overlay');
+          if(existing) existing.remove();
+
+          const overlay = document.createElement('div');
+          overlay.id = 'wk-image-overlay';
+
+          overlay.style.cssText = \`
+            position:fixed;
+            inset:0;
+            background:rgba(0,0,0,0.88);
+            display:flex;
+            align-items:center;
+            justify-content:center;
+            z-index:99999;
+            padding:20px;
+            cursor:zoom-out;
+            overflow:hidden;
+            backdrop-filter: blur(3px);
+          \`;
+
+          const img = document.createElement('img');
+          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2023/05/screenshot_1684395460615-1200x563.png";
+
+          img.style.cssText = \`
+            max-width:95%;
+            max-height:95%;
+            border-radius:12px;
+            transition:transform .15s ease;
+            cursor:zoom-in;
+            will-change:transform;
+            user-select:none;
+          \`;
+
+          let scale = 1;
+
+          // scroll zoom
+          overlay.onwheel = (e) => {
+            e.preventDefault();
+
+            scale += e.deltaY * -0.001;
+            scale = Math.min(Math.max(1, scale), 5);
+
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          // double click zoom
+          img.ondblclick = () => {
+            scale = scale === 1 ? 2 : 1;
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          overlay.appendChild(img);
+          document.body.appendChild(overlay);
+
+          // close overlay
+          overlay.onclick = (e) => {
+            if (e.target === overlay) {
+              overlay.remove();
+            }
+          };
+
+          // esc close
+          document.onkeydown = (e) => {
+            if (e.key === 'Escape') {
+              overlay.remove();
+            }
+          };
+        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2023/05/screenshot_1684395460615-1200x563.png",alt:"screenshot_1684395460615",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+        const existing = document.getElementById('wk-image-overlay');
+        if(existing) existing.remove();
+
+        const overlay = document.createElement('div');
+        overlay.id = 'wk-image-overlay';
+
+        overlay.style.cssText = \`
+          position:fixed;
+          inset:0;
+          background:rgba(0,0,0,0.88);
+          display:flex;
+          align-items:center;
+          justify-content:center;
+          z-index:99999;
+          padding:20px;
+          cursor:zoom-out;
+          overflow:hidden;
+          backdrop-filter: blur(3px);
+        \`;
+
+        const img = document.createElement('img');
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2023/05/screenshot_1684395460615-1200x563.png";
+
+        img.style.cssText = \`
+          max-width:95%;
+          max-height:95%;
+          border-radius:12px;
+          transition:transform .15s ease;
+          cursor:zoom-in;
+          will-change:transform;
+          user-select:none;
+        \`;
+
+        let scale = 1;
+
+        // scroll zoom
+        overlay.onwheel = (e) => {
+          e.preventDefault();
+
+          scale += e.deltaY * -0.001;
+          scale = Math.min(Math.max(1, scale), 5);
+
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        // double click zoom
+        img.ondblclick = () => {
+          scale = scale === 1 ? 2 : 1;
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        overlay.appendChild(img);
+        document.body.appendChild(overlay);
+
+        // close overlay
+        overlay.onclick = (e) => {
+          if (e.target === overlay) {
+            overlay.remove();
+          }
+        };
+
+        // esc close
+        document.onkeydown = (e) => {
+          if (e.key === 'Escape') {
+            overlay.remove();
+          }
+        };
+      `})])],-1),n("p",null,`The Admin can provide a response to the customer's query and then click on the "Reply" button to submit it.`,-1),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
+          event.preventDefault();
+
+          const existing = document.getElementById('wk-image-overlay');
+          if(existing) existing.remove();
+
+          const overlay = document.createElement('div');
+          overlay.id = 'wk-image-overlay';
+
+          overlay.style.cssText = \`
+            position:fixed;
+            inset:0;
+            background:rgba(0,0,0,0.88);
+            display:flex;
+            align-items:center;
+            justify-content:center;
+            z-index:99999;
+            padding:20px;
+            cursor:zoom-out;
+            overflow:hidden;
+            backdrop-filter: blur(3px);
+          \`;
+
+          const img = document.createElement('img');
+          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2023/05/screenshot_1684396428636.png";
+
+          img.style.cssText = \`
+            max-width:95%;
+            max-height:95%;
+            border-radius:12px;
+            transition:transform .15s ease;
+            cursor:zoom-in;
+            will-change:transform;
+            user-select:none;
+          \`;
+
+          let scale = 1;
+
+          // scroll zoom
+          overlay.onwheel = (e) => {
+            e.preventDefault();
+
+            scale += e.deltaY * -0.001;
+            scale = Math.min(Math.max(1, scale), 5);
+
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          // double click zoom
+          img.ondblclick = () => {
+            scale = scale === 1 ? 2 : 1;
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          overlay.appendChild(img);
+          document.body.appendChild(overlay);
+
+          // close overlay
+          overlay.onclick = (e) => {
+            if (e.target === overlay) {
+              overlay.remove();
+            }
+          };
+
+          // esc close
+          document.onkeydown = (e) => {
+            if (e.key === 'Escape') {
+              overlay.remove();
+            }
+          };
+        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2023/05/screenshot_1684396428636.png",alt:"screenshot_1684396428636",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+        const existing = document.getElementById('wk-image-overlay');
+        if(existing) existing.remove();
+
+        const overlay = document.createElement('div');
+        overlay.id = 'wk-image-overlay';
+
+        overlay.style.cssText = \`
+          position:fixed;
+          inset:0;
+          background:rgba(0,0,0,0.88);
+          display:flex;
+          align-items:center;
+          justify-content:center;
+          z-index:99999;
+          padding:20px;
+          cursor:zoom-out;
+          overflow:hidden;
+          backdrop-filter: blur(3px);
+        \`;
+
+        const img = document.createElement('img');
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2023/05/screenshot_1684396428636.png";
+
+        img.style.cssText = \`
+          max-width:95%;
+          max-height:95%;
+          border-radius:12px;
+          transition:transform .15s ease;
+          cursor:zoom-in;
+          will-change:transform;
+          user-select:none;
+        \`;
+
+        let scale = 1;
+
+        // scroll zoom
+        overlay.onwheel = (e) => {
+          e.preventDefault();
+
+          scale += e.deltaY * -0.001;
+          scale = Math.min(Math.max(1, scale), 5);
+
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        // double click zoom
+        img.ondblclick = () => {
+          scale = scale === 1 ? 2 : 1;
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        overlay.appendChild(img);
+        document.body.appendChild(overlay);
+
+        // close overlay
+        overlay.onclick = (e) => {
+          if (e.target === overlay) {
+            overlay.remove();
+          }
+        };
+
+        // esc close
+        document.onkeydown = (e) => {
+          if (e.key === 'Escape') {
+            overlay.remove();
+          }
+        };
+      `})])],-1),n("p",null,"Additionally, the Admin has the option to export the details of all queries based on their preferred time duration.",-1),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
+          event.preventDefault();
+
+          const existing = document.getElementById('wk-image-overlay');
+          if(existing) existing.remove();
+
+          const overlay = document.createElement('div');
+          overlay.id = 'wk-image-overlay';
+
+          overlay.style.cssText = \`
+            position:fixed;
+            inset:0;
+            background:rgba(0,0,0,0.88);
+            display:flex;
+            align-items:center;
+            justify-content:center;
+            z-index:99999;
+            padding:20px;
+            cursor:zoom-out;
+            overflow:hidden;
+            backdrop-filter: blur(3px);
+          \`;
+
+          const img = document.createElement('img');
+          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2023/05/screenshot_1684395783568-1200x563.png";
+
+          img.style.cssText = \`
+            max-width:95%;
+            max-height:95%;
+            border-radius:12px;
+            transition:transform .15s ease;
+            cursor:zoom-in;
+            will-change:transform;
+            user-select:none;
+          \`;
+
+          let scale = 1;
+
+          // scroll zoom
+          overlay.onwheel = (e) => {
+            e.preventDefault();
+
+            scale += e.deltaY * -0.001;
+            scale = Math.min(Math.max(1, scale), 5);
+
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          // double click zoom
+          img.ondblclick = () => {
+            scale = scale === 1 ? 2 : 1;
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          overlay.appendChild(img);
+          document.body.appendChild(overlay);
+
+          // close overlay
+          overlay.onclick = (e) => {
+            if (e.target === overlay) {
+              overlay.remove();
+            }
+          };
+
+          // esc close
+          document.onkeydown = (e) => {
+            if (e.key === 'Escape') {
+              overlay.remove();
+            }
+          };
+        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2023/05/screenshot_1684395783568-1200x563.png",alt:"screenshot_1684395783568",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+        const existing = document.getElementById('wk-image-overlay');
+        if(existing) existing.remove();
+
+        const overlay = document.createElement('div');
+        overlay.id = 'wk-image-overlay';
+
+        overlay.style.cssText = \`
+          position:fixed;
+          inset:0;
+          background:rgba(0,0,0,0.88);
+          display:flex;
+          align-items:center;
+          justify-content:center;
+          z-index:99999;
+          padding:20px;
+          cursor:zoom-out;
+          overflow:hidden;
+          backdrop-filter: blur(3px);
+        \`;
+
+        const img = document.createElement('img');
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2023/05/screenshot_1684395783568-1200x563.png";
+
+        img.style.cssText = \`
+          max-width:95%;
+          max-height:95%;
+          border-radius:12px;
+          transition:transform .15s ease;
+          cursor:zoom-in;
+          will-change:transform;
+          user-select:none;
+        \`;
+
+        let scale = 1;
+
+        // scroll zoom
+        overlay.onwheel = (e) => {
+          e.preventDefault();
+
+          scale += e.deltaY * -0.001;
+          scale = Math.min(Math.max(1, scale), 5);
+
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        // double click zoom
+        img.ondblclick = () => {
+          scale = scale === 1 ? 2 : 1;
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        overlay.appendChild(img);
+        document.body.appendChild(overlay);
+
+        // close overlay
+        overlay.onclick = (e) => {
+          if (e.target === overlay) {
+            overlay.remove();
+          }
+        };
+
+        // esc close
+        document.onkeydown = (e) => {
+          if (e.key === 'Escape') {
+            overlay.remove();
+          }
+        };
+      `})])],-1),n("p",null,"The exported CSV file will be visible as",-1),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
+          event.preventDefault();
+
+          const existing = document.getElementById('wk-image-overlay');
+          if(existing) existing.remove();
+
+          const overlay = document.createElement('div');
+          overlay.id = 'wk-image-overlay';
+
+          overlay.style.cssText = \`
+            position:fixed;
+            inset:0;
+            background:rgba(0,0,0,0.88);
+            display:flex;
+            align-items:center;
+            justify-content:center;
+            z-index:99999;
+            padding:20px;
+            cursor:zoom-out;
+            overflow:hidden;
+            backdrop-filter: blur(3px);
+          \`;
+
+          const img = document.createElement('img');
+          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2023/05/screenshot_1684396193894.png";
+
+          img.style.cssText = \`
+            max-width:95%;
+            max-height:95%;
+            border-radius:12px;
+            transition:transform .15s ease;
+            cursor:zoom-in;
+            will-change:transform;
+            user-select:none;
+          \`;
+
+          let scale = 1;
+
+          // scroll zoom
+          overlay.onwheel = (e) => {
+            e.preventDefault();
+
+            scale += e.deltaY * -0.001;
+            scale = Math.min(Math.max(1, scale), 5);
+
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          // double click zoom
+          img.ondblclick = () => {
+            scale = scale === 1 ? 2 : 1;
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          overlay.appendChild(img);
+          document.body.appendChild(overlay);
+
+          // close overlay
+          overlay.onclick = (e) => {
+            if (e.target === overlay) {
+              overlay.remove();
+            }
+          };
+
+          // esc close
+          document.onkeydown = (e) => {
+            if (e.key === 'Escape') {
+              overlay.remove();
+            }
+          };
+        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2023/05/screenshot_1684396193894.png",alt:"screenshot_1684396193894",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+        const existing = document.getElementById('wk-image-overlay');
+        if(existing) existing.remove();
+
+        const overlay = document.createElement('div');
+        overlay.id = 'wk-image-overlay';
+
+        overlay.style.cssText = \`
+          position:fixed;
+          inset:0;
+          background:rgba(0,0,0,0.88);
+          display:flex;
+          align-items:center;
+          justify-content:center;
+          z-index:99999;
+          padding:20px;
+          cursor:zoom-out;
+          overflow:hidden;
+          backdrop-filter: blur(3px);
+        \`;
+
+        const img = document.createElement('img');
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2023/05/screenshot_1684396193894.png";
+
+        img.style.cssText = \`
+          max-width:95%;
+          max-height:95%;
+          border-radius:12px;
+          transition:transform .15s ease;
+          cursor:zoom-in;
+          will-change:transform;
+          user-select:none;
+        \`;
+
+        let scale = 1;
+
+        // scroll zoom
+        overlay.onwheel = (e) => {
+          e.preventDefault();
+
+          scale += e.deltaY * -0.001;
+          scale = Math.min(Math.max(1, scale), 5);
+
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        // double click zoom
+        img.ondblclick = () => {
+          scale = scale === 1 ? 2 : 1;
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        overlay.appendChild(img);
+        document.body.appendChild(overlay);
+
+        // close overlay
+        overlay.onclick = (e) => {
+          if (e.target === overlay) {
+            overlay.remove();
+          }
+        };
+
+        // esc close
+        document.onkeydown = (e) => {
+          if (e.key === 'Escape') {
+            overlay.remove();
+          }
+        };
+      `})])],-1),o("",8),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
+          event.preventDefault();
+
+          const existing = document.getElementById('wk-image-overlay');
+          if(existing) existing.remove();
+
+          const overlay = document.createElement('div');
+          overlay.id = 'wk-image-overlay';
+
+          overlay.style.cssText = \`
+            position:fixed;
+            inset:0;
+            background:rgba(0,0,0,0.88);
+            display:flex;
+            align-items:center;
+            justify-content:center;
+            z-index:99999;
+            padding:20px;
+            cursor:zoom-out;
+            overflow:hidden;
+            backdrop-filter: blur(3px);
+          \`;
+
+          const img = document.createElement('img');
+          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2023/05/screenshot_1684396769320.png";
+
+          img.style.cssText = \`
+            max-width:95%;
+            max-height:95%;
+            border-radius:12px;
+            transition:transform .15s ease;
+            cursor:zoom-in;
+            will-change:transform;
+            user-select:none;
+          \`;
+
+          let scale = 1;
+
+          // scroll zoom
+          overlay.onwheel = (e) => {
+            e.preventDefault();
+
+            scale += e.deltaY * -0.001;
+            scale = Math.min(Math.max(1, scale), 5);
+
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          // double click zoom
+          img.ondblclick = () => {
+            scale = scale === 1 ? 2 : 1;
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          overlay.appendChild(img);
+          document.body.appendChild(overlay);
+
+          // close overlay
+          overlay.onclick = (e) => {
+            if (e.target === overlay) {
+              overlay.remove();
+            }
+          };
+
+          // esc close
+          document.onkeydown = (e) => {
+            if (e.key === 'Escape') {
+              overlay.remove();
+            }
+          };
+        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2023/05/screenshot_1684396769320.png",alt:"screenshot_1684396769320",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+        const existing = document.getElementById('wk-image-overlay');
+        if(existing) existing.remove();
+
+        const overlay = document.createElement('div');
+        overlay.id = 'wk-image-overlay';
+
+        overlay.style.cssText = \`
+          position:fixed;
+          inset:0;
+          background:rgba(0,0,0,0.88);
+          display:flex;
+          align-items:center;
+          justify-content:center;
+          z-index:99999;
+          padding:20px;
+          cursor:zoom-out;
+          overflow:hidden;
+          backdrop-filter: blur(3px);
+        \`;
+
+        const img = document.createElement('img');
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2023/05/screenshot_1684396769320.png";
+
+        img.style.cssText = \`
+          max-width:95%;
+          max-height:95%;
+          border-radius:12px;
+          transition:transform .15s ease;
+          cursor:zoom-in;
+          will-change:transform;
+          user-select:none;
+        \`;
+
+        let scale = 1;
+
+        // scroll zoom
+        overlay.onwheel = (e) => {
+          e.preventDefault();
+
+          scale += e.deltaY * -0.001;
+          scale = Math.min(Math.max(1, scale), 5);
+
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        // double click zoom
+        img.ondblclick = () => {
+          scale = scale === 1 ? 2 : 1;
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        overlay.appendChild(img);
+        document.body.appendChild(overlay);
+
+        // close overlay
+        overlay.onclick = (e) => {
+          if (e.target === overlay) {
+            overlay.remove();
+          }
+        };
+
+        // esc close
+        document.onkeydown = (e) => {
+          if (e.key === 'Escape') {
+            overlay.remove();
+          }
+        };
+      `})])],-1),n("p",null,[e("The sellers can first provide a response to the customer's query and then proceed by clicking on the "),n("strong",null,'"Reply"'),e(" button.")],-1),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
+          event.preventDefault();
+
+          const existing = document.getElementById('wk-image-overlay');
+          if(existing) existing.remove();
+
+          const overlay = document.createElement('div');
+          overlay.id = 'wk-image-overlay';
+
+          overlay.style.cssText = \`
+            position:fixed;
+            inset:0;
+            background:rgba(0,0,0,0.88);
+            display:flex;
+            align-items:center;
+            justify-content:center;
+            z-index:99999;
+            padding:20px;
+            cursor:zoom-out;
+            overflow:hidden;
+            backdrop-filter: blur(3px);
+          \`;
+
+          const img = document.createElement('img');
+          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2023/05/screenshot_1684396862830.png";
+
+          img.style.cssText = \`
+            max-width:95%;
+            max-height:95%;
+            border-radius:12px;
+            transition:transform .15s ease;
+            cursor:zoom-in;
+            will-change:transform;
+            user-select:none;
+          \`;
+
+          let scale = 1;
+
+          // scroll zoom
+          overlay.onwheel = (e) => {
+            e.preventDefault();
+
+            scale += e.deltaY * -0.001;
+            scale = Math.min(Math.max(1, scale), 5);
+
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          // double click zoom
+          img.ondblclick = () => {
+            scale = scale === 1 ? 2 : 1;
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          overlay.appendChild(img);
+          document.body.appendChild(overlay);
+
+          // close overlay
+          overlay.onclick = (e) => {
+            if (e.target === overlay) {
+              overlay.remove();
+            }
+          };
+
+          // esc close
+          document.onkeydown = (e) => {
+            if (e.key === 'Escape') {
+              overlay.remove();
+            }
+          };
+        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2023/05/screenshot_1684396862830.png",alt:"screenshot_1684396862830",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+        const existing = document.getElementById('wk-image-overlay');
+        if(existing) existing.remove();
+
+        const overlay = document.createElement('div');
+        overlay.id = 'wk-image-overlay';
+
+        overlay.style.cssText = \`
+          position:fixed;
+          inset:0;
+          background:rgba(0,0,0,0.88);
+          display:flex;
+          align-items:center;
+          justify-content:center;
+          z-index:99999;
+          padding:20px;
+          cursor:zoom-out;
+          overflow:hidden;
+          backdrop-filter: blur(3px);
+        \`;
+
+        const img = document.createElement('img');
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2023/05/screenshot_1684396862830.png";
+
+        img.style.cssText = \`
+          max-width:95%;
+          max-height:95%;
+          border-radius:12px;
+          transition:transform .15s ease;
+          cursor:zoom-in;
+          will-change:transform;
+          user-select:none;
+        \`;
+
+        let scale = 1;
+
+        // scroll zoom
+        overlay.onwheel = (e) => {
+          e.preventDefault();
+
+          scale += e.deltaY * -0.001;
+          scale = Math.min(Math.max(1, scale), 5);
+
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        // double click zoom
+        img.ondblclick = () => {
+          scale = scale === 1 ? 2 : 1;
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        overlay.appendChild(img);
+        document.body.appendChild(overlay);
+
+        // close overlay
+        overlay.onclick = (e) => {
+          if (e.target === overlay) {
+            overlay.remove();
+          }
+        };
+
+        // esc close
+        document.onkeydown = (e) => {
+          if (e.key === 'Escape') {
+            overlay.remove();
+          }
+        };
+      `})])],-1),n("h3",{id:"customers-can-manage-queries-from-the-customer-account",tabindex:"-1"},[e("Customers can manage queries from the customer account "),n("a",{class:"header-anchor",href:"#customers-can-manage-queries-from-the-customer-account","aria-label":'Permalink to "Customers can manage queries from the customer account"'},"​")],-1),n("p",null,"Customers can manage all their queries from their respective Shopify customer accounts.",-1),n("p",null,[e("They can simply click on the "),n("strong",null,'"View All Queries"'),e(" button on the customer account page to easily access all queries they have raised.")],-1),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
+          event.preventDefault();
+
+          const existing = document.getElementById('wk-image-overlay');
+          if(existing) existing.remove();
+
+          const overlay = document.createElement('div');
+          overlay.id = 'wk-image-overlay';
+
+          overlay.style.cssText = \`
+            position:fixed;
+            inset:0;
+            background:rgba(0,0,0,0.88);
+            display:flex;
+            align-items:center;
+            justify-content:center;
+            z-index:99999;
+            padding:20px;
+            cursor:zoom-out;
+            overflow:hidden;
+            backdrop-filter: blur(3px);
+          \`;
+
+          const img = document.createElement('img');
+          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2023/05/screenshot_1684400890000-1200x563.png";
+
+          img.style.cssText = \`
+            max-width:95%;
+            max-height:95%;
+            border-radius:12px;
+            transition:transform .15s ease;
+            cursor:zoom-in;
+            will-change:transform;
+            user-select:none;
+          \`;
+
+          let scale = 1;
+
+          // scroll zoom
+          overlay.onwheel = (e) => {
+            e.preventDefault();
+
+            scale += e.deltaY * -0.001;
+            scale = Math.min(Math.max(1, scale), 5);
+
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          // double click zoom
+          img.ondblclick = () => {
+            scale = scale === 1 ? 2 : 1;
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          overlay.appendChild(img);
+          document.body.appendChild(overlay);
+
+          // close overlay
+          overlay.onclick = (e) => {
+            if (e.target === overlay) {
+              overlay.remove();
+            }
+          };
+
+          // esc close
+          document.onkeydown = (e) => {
+            if (e.key === 'Escape') {
+              overlay.remove();
+            }
+          };
+        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2023/05/screenshot_1684400890000-1200x563.png",alt:"screenshot_1684400890000",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+        const existing = document.getElementById('wk-image-overlay');
+        if(existing) existing.remove();
+
+        const overlay = document.createElement('div');
+        overlay.id = 'wk-image-overlay';
+
+        overlay.style.cssText = \`
+          position:fixed;
+          inset:0;
+          background:rgba(0,0,0,0.88);
+          display:flex;
+          align-items:center;
+          justify-content:center;
+          z-index:99999;
+          padding:20px;
+          cursor:zoom-out;
+          overflow:hidden;
+          backdrop-filter: blur(3px);
+        \`;
+
+        const img = document.createElement('img');
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2023/05/screenshot_1684400890000-1200x563.png";
+
+        img.style.cssText = \`
+          max-width:95%;
+          max-height:95%;
+          border-radius:12px;
+          transition:transform .15s ease;
+          cursor:zoom-in;
+          will-change:transform;
+          user-select:none;
+        \`;
+
+        let scale = 1;
+
+        // scroll zoom
+        overlay.onwheel = (e) => {
+          e.preventDefault();
+
+          scale += e.deltaY * -0.001;
+          scale = Math.min(Math.max(1, scale), 5);
+
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        // double click zoom
+        img.ondblclick = () => {
+          scale = scale === 1 ? 2 : 1;
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        overlay.appendChild(img);
+        document.body.appendChild(overlay);
+
+        // close overlay
+        overlay.onclick = (e) => {
+          if (e.target === overlay) {
+            overlay.remove();
+          }
+        };
+
+        // esc close
+        document.onkeydown = (e) => {
+          if (e.key === 'Escape') {
+            overlay.remove();
+          }
+        };
+      `})])],-1),n("p",null,"Now, they will have the list of the queries here.",-1),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
+          event.preventDefault();
+
+          const existing = document.getElementById('wk-image-overlay');
+          if(existing) existing.remove();
+
+          const overlay = document.createElement('div');
+          overlay.id = 'wk-image-overlay';
+
+          overlay.style.cssText = \`
+            position:fixed;
+            inset:0;
+            background:rgba(0,0,0,0.88);
+            display:flex;
+            align-items:center;
+            justify-content:center;
+            z-index:99999;
+            padding:20px;
+            cursor:zoom-out;
+            overflow:hidden;
+            backdrop-filter: blur(3px);
+          \`;
+
+          const img = document.createElement('img');
+          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2023/05/screenshot_1684397258554.png";
+
+          img.style.cssText = \`
+            max-width:95%;
+            max-height:95%;
+            border-radius:12px;
+            transition:transform .15s ease;
+            cursor:zoom-in;
+            will-change:transform;
+            user-select:none;
+          \`;
+
+          let scale = 1;
+
+          // scroll zoom
+          overlay.onwheel = (e) => {
+            e.preventDefault();
+
+            scale += e.deltaY * -0.001;
+            scale = Math.min(Math.max(1, scale), 5);
+
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          // double click zoom
+          img.ondblclick = () => {
+            scale = scale === 1 ? 2 : 1;
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          overlay.appendChild(img);
+          document.body.appendChild(overlay);
+
+          // close overlay
+          overlay.onclick = (e) => {
+            if (e.target === overlay) {
+              overlay.remove();
+            }
+          };
+
+          // esc close
+          document.onkeydown = (e) => {
+            if (e.key === 'Escape') {
+              overlay.remove();
+            }
+          };
+        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2023/05/screenshot_1684397258554.png",alt:"screenshot_1684397258554",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+        const existing = document.getElementById('wk-image-overlay');
+        if(existing) existing.remove();
+
+        const overlay = document.createElement('div');
+        overlay.id = 'wk-image-overlay';
+
+        overlay.style.cssText = \`
+          position:fixed;
+          inset:0;
+          background:rgba(0,0,0,0.88);
+          display:flex;
+          align-items:center;
+          justify-content:center;
+          z-index:99999;
+          padding:20px;
+          cursor:zoom-out;
+          overflow:hidden;
+          backdrop-filter: blur(3px);
+        \`;
+
+        const img = document.createElement('img');
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2023/05/screenshot_1684397258554.png";
+
+        img.style.cssText = \`
+          max-width:95%;
+          max-height:95%;
+          border-radius:12px;
+          transition:transform .15s ease;
+          cursor:zoom-in;
+          will-change:transform;
+          user-select:none;
+        \`;
+
+        let scale = 1;
+
+        // scroll zoom
+        overlay.onwheel = (e) => {
+          e.preventDefault();
+
+          scale += e.deltaY * -0.001;
+          scale = Math.min(Math.max(1, scale), 5);
+
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        // double click zoom
+        img.ondblclick = () => {
+          scale = scale === 1 ? 2 : 1;
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        overlay.appendChild(img);
+        document.body.appendChild(overlay);
+
+        // close overlay
+        overlay.onclick = (e) => {
+          if (e.target === overlay) {
+            overlay.remove();
+          }
+        };
+
+        // esc close
+        document.onkeydown = (e) => {
+          if (e.key === 'Escape') {
+            overlay.remove();
+          }
+        };
+      `})])],-1),n("p",null,'Customers can click on the "view" button to view the complete conversation.',-1),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
+          event.preventDefault();
+
+          const existing = document.getElementById('wk-image-overlay');
+          if(existing) existing.remove();
+
+          const overlay = document.createElement('div');
+          overlay.id = 'wk-image-overlay';
+
+          overlay.style.cssText = \`
+            position:fixed;
+            inset:0;
+            background:rgba(0,0,0,0.88);
+            display:flex;
+            align-items:center;
+            justify-content:center;
+            z-index:99999;
+            padding:20px;
+            cursor:zoom-out;
+            overflow:hidden;
+            backdrop-filter: blur(3px);
+          \`;
+
+          const img = document.createElement('img');
+          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2023/05/screenshot_1684397210706.png";
+
+          img.style.cssText = \`
+            max-width:95%;
+            max-height:95%;
+            border-radius:12px;
+            transition:transform .15s ease;
+            cursor:zoom-in;
+            will-change:transform;
+            user-select:none;
+          \`;
+
+          let scale = 1;
+
+          // scroll zoom
+          overlay.onwheel = (e) => {
+            e.preventDefault();
+
+            scale += e.deltaY * -0.001;
+            scale = Math.min(Math.max(1, scale), 5);
+
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          // double click zoom
+          img.ondblclick = () => {
+            scale = scale === 1 ? 2 : 1;
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          overlay.appendChild(img);
+          document.body.appendChild(overlay);
+
+          // close overlay
+          overlay.onclick = (e) => {
+            if (e.target === overlay) {
+              overlay.remove();
+            }
+          };
+
+          // esc close
+          document.onkeydown = (e) => {
+            if (e.key === 'Escape') {
+              overlay.remove();
+            }
+          };
+        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2023/05/screenshot_1684397210706.png",alt:"screenshot_1684397210706",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+        const existing = document.getElementById('wk-image-overlay');
+        if(existing) existing.remove();
+
+        const overlay = document.createElement('div');
+        overlay.id = 'wk-image-overlay';
+
+        overlay.style.cssText = \`
+          position:fixed;
+          inset:0;
+          background:rgba(0,0,0,0.88);
+          display:flex;
+          align-items:center;
+          justify-content:center;
+          z-index:99999;
+          padding:20px;
+          cursor:zoom-out;
+          overflow:hidden;
+          backdrop-filter: blur(3px);
+        \`;
+
+        const img = document.createElement('img');
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2023/05/screenshot_1684397210706.png";
+
+        img.style.cssText = \`
+          max-width:95%;
+          max-height:95%;
+          border-radius:12px;
+          transition:transform .15s ease;
+          cursor:zoom-in;
+          will-change:transform;
+          user-select:none;
+        \`;
+
+        let scale = 1;
+
+        // scroll zoom
+        overlay.onwheel = (e) => {
+          e.preventDefault();
+
+          scale += e.deltaY * -0.001;
+          scale = Math.min(Math.max(1, scale), 5);
+
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        // double click zoom
+        img.ondblclick = () => {
+          scale = scale === 1 ? 2 : 1;
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        overlay.appendChild(img);
+        document.body.appendChild(overlay);
+
+        // close overlay
+        overlay.onclick = (e) => {
+          if (e.target === overlay) {
+            overlay.remove();
+          }
+        };
+
+        // esc close
+        document.onkeydown = (e) => {
+          if (e.key === 'Escape') {
+            overlay.remove();
+          }
+        };
+      `})])],-1),n("p",null,[e("This was all about the "),n("strong",null,"Ask a Question app"),e(".")],-1),n("h3",{id:"shopify-multivendor-marketplace-ask-a-question-demo-details",tabindex:"-1"},[e("Shopify Multivendor Marketplace: Ask a Question DEMO DETAILS "),n("a",{class:"header-anchor",href:"#shopify-multivendor-marketplace-ask-a-question-demo-details","aria-label":'Permalink to "Shopify Multivendor Marketplace: Ask a Question DEMO DETAILS"'},"​")],-1),n("p",null,[e("Go to the below link to use the demo: "),n("a",{href:"https://multivendor-ask-a-question.myshopify.com/pages/demo",target:"_blank",rel:"noreferrer"},"https://multivendor-ask-a-question.myshopify.com/pages/demo")],-1)])])}const v=l(r,[["render",i]]);export{y as __pageData,v as default};
