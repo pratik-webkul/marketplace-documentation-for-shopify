@@ -4,3 +4,5 @@ git-local/*
 git-main/*
 #.github/*
 .vitepress/dist/*
+.kilo/*
+.kilocode/*
