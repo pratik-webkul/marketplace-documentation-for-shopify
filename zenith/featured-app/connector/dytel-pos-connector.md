@@ -4,6 +4,9 @@ description: DYTEL POS CONNECTOR
 date: 2025-07-25
 author: Chirag Tyagi
 ---
+
+# User Guide for Dytel Pos Connector
+
 DYTEL POS offers a seamless, centralized system for managing orders, payments, and inventory in one place.
 
 If you have a restaurant marketplace and use DYTEL POS, you can streamline operations by integrating it with [Shopify Multivendor Marketplace](https://apps.shopify.com/multi-vendor-marketplace) for efficient vendor and transaction management .

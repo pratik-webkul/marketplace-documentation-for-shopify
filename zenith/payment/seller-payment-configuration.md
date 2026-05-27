@@ -5,10 +5,14 @@ date: 2025-07-10
 author: Chirag Tyagi
 ---
 
+# User Guide for Seller Payment Configuration
 
 
-# Seller Payment Configuration in Shopify Multivendor Marketplace
 
+
+
+ Seller Payment Configuration in Shopify Multivendor Marketplace
+--------------------
 Managing payments efficiently is a critical part of any online marketplace. As an admin using the [Shopify Multivendor Marketplace app by Webkul](/zenith/introduction/), it’s essential to have full control over seller earnings, deductions (like transaction and handling charges), and how discounts affect those calculations.
 
 In this guide, we’ll walk you through all key aspects of Seller Payment Configuration, including how to manage:

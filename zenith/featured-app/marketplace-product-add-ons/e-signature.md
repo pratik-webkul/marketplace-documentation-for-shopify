@@ -4,6 +4,8 @@ description: E-SIGNATURE
 author: Chirag Tyagi
 ---
 
+# User Guide for E-signature
+
 In today's fast-paced e-commerce landscape, staying ahead of the curve is essential for success.
 
 That's why our E-Signature Feature app in the [Multivendor Marketplace App](/zenith/introduction/) for Shopify is a game-changer for your online business.

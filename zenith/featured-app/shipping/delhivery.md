@@ -4,6 +4,9 @@ description: DELHIVERY
 date: 2025-07-18
 author: Chirag Tyagi
 ---
+
+# User Guide for Delhivery
+
 [Multi-Vendor Marketplace for Shopify](/zenith/introduction/) is here with another marketplace shipping feature add-on, i.e., **Delhivery**.
 
 **Delhivery**: Delhivery Private Limited is India's largest B2B & C2C Logistic Courier Service Provider in India.

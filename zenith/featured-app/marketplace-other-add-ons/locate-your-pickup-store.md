@@ -4,6 +4,8 @@ description: Locate Your Pickup Store
 author: Chirag Tyagi
 ---
 
+# User Guide for Locate Your Pickup Store
+
 Using the Locate Your Store feature app. You as an admin can enable your sellers to add their Store location so the customer can locate their store using google Maps.
 
 Now provide your Seller store location to your customers so they can easily find nearby stores & get directions via google Maps using the Seller locator feature app.

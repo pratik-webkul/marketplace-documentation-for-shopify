@@ -4,6 +4,8 @@ description: CROWDFUNDING
 author: Chirag Tyagi
 ---
 
+# User Guide for Crowdfunding
+
 The [Multivendor Marketplace App](/zenith/introduction/) is now integrated with the [Crowd Funding App](https://store.webkul.com/Shopify-Crowdfunding.html) for Shopify. Allow sellers to add crowdfunding projects/campaigns and raise funds for the cause.
 
 To use this feature, you need to install the **[Crowdfunding App](https://webkul.com/blog/shopify-crowd-funding-app/)** on your Shopify store from the [official Shopify app store](https://apps.shopify.com/crowd-funding).

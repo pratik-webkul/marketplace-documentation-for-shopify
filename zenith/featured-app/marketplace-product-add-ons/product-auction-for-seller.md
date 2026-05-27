@@ -5,6 +5,8 @@ date: 2025-08-04
 author: Chirag Tyagi
 ---
 
+# User Guide for Product Auction For Seller
+
 **Product Auction Integration with Multi-vendor Marketplace App for Shopify  
 **Keeping product up for auction entices a large number of customers towards that product.
 

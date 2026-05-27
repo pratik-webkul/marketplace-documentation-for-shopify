@@ -5,6 +5,8 @@ date: 2025-07-25
 author: Chirag Tyagi
 ---
 
+# User Guide for Chat Gpt
+
  AI-Generated Product Descriptions Generator using Chat GPT Feature App
 --------------------
 **Introduction** : We have launched Chat GPT integration with [Multivendor app](/zenith/introduction/) which allows admin and seller to generate unique descriptions of products using OpenAI API ( which is used in Chat GPT )

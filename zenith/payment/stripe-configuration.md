@@ -5,6 +5,9 @@ date: 2025-06-27
 author: Chirag Tyagi
 ---
 
+# User Guide for Stripe
+
+
 [Multivendor Marketplace for Shopify](/zenith/introduction/) has got the Stripe Connect Payment Gateway.
 
 Using this, the order amount directly goes to the respective Seller & Admin account as per the share configured on the basis of commission.

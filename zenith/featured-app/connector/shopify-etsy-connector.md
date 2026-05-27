@@ -5,6 +5,8 @@ date: 2025-07-20
 author: Chirag Tyagi
 ---
 
+# User Guide for Shopify Etsy Connector
+
 With [Multivendor Marketplace](/zenith/introduction/) App, You can convert your store into a marketplace where multiple sellers can register and sell their products all over the globe.
 
 You might know about [Etsy](https://www.etsy.com/), a well-known online global marketplace that focuses on selling handmade goods and vintage items.
@@ -192,5 +194,5 @@ Demo Details
 
 Moreover, follow the below links and credentials to use the demo of the Multivendor Marketplace app:
 
-[https://multivendor-marketplace-5.myshopify.com/pages/seller-profile](https://multivendor-marketplace-5.myshopify.com/pages/seller-profile)
+[https://egsma.io/shopify-multivendor-marketplace/pages/seller-profile](https://egsma.io/shopify-multivendor-marketplace/pages/seller-profile)
 

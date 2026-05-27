@@ -4,6 +4,9 @@ description: Seller Guide
 author: Chirag Tyagi
 ---
 
+# User Guide for Seller Guide
+
+
 
 Let's have a look at the Seller Guide for this app.
 
@@ -119,4 +122,4 @@ The feedback submenu will show all the feedback received by the seller from the 
 
 ### Multivendor Marketplace: Seller Guide Demo
 
-Further, check out: [https://multivendor-marketplace-5.myshopify.com/](https://multivendor-marketplace-5.myshopify.com/)
+Further, check out: [https://egsma.io/shopify-multivendor-marketplace/](https://egsma.io/shopify-multivendor-marketplace/)

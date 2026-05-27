@@ -4,9 +4,12 @@ description: CROWDFUNDING MARKETPLACE
 author: Chirag Tyagi
 ---
 
-In days gone by, [Crowdfunding](https://apps.shopify.com/crowd-funding) was seen as a niche segment in the eCommerce industry. However, a recent research report flipped this by stating:
+# User Guide for Crowdfunding Marketplace
 
-In 2018, the Global Crowdfunding market was valued at 10.2 billion USD and is projected to grow at a CAGR of 16%, reaching 28.8 billion USD by 2025.. [View full report](https://reports.valuates.com/sreport/QYRE-Auto-1598/Global_Crowdfunding_Market_Size_Status_and_Forecast_2019_2025).
+
+In days gone by, [Crowdfunding](https://apps.shopify.com/crowd-funding)considered a niche segment within the eCommerce industry. Today, it has evolved into a widely adopted business model that helps entrepreneurs, startups, creators, and businesses bring their ideas to life by connecting directly with supporters and potential customers.
+
+With the growing demand for community-driven funding and pre-launch product validation, crowdfunding has become an effective way for businesses to raise capital, build brand awareness, and engage customers even before a product officially launches.
 
 ### Crowdfunding Business & Its Types
 
@@ -103,7 +106,7 @@ They can also add additional details like videos related to their campaign as we
 
 What's cool is that they can also add rewards for crowdfunding donators. Moreover, creators can also add an amount for boosting the campaign.
 
-The admin of the marketplace can also add campaigns on behalf of the creators as well. [Check out more](https://marketplace-doc.webkul.com/zenith/Crowdfunding/CROWDFUNDING.html)!
+The admin of the marketplace can also add campaigns on behalf of the creators as well. [Check out more](/zenith/featured-app/marketplace-product-add-ons/crowdfunding.md)!
 
 [![Crowdfunding Marketplace](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/08/image-13-1200x833-1.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/08/image-13-1200x833-1.png)
 

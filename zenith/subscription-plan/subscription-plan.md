@@ -4,6 +4,9 @@ description: Subscription Pause
 author: Chirag Tyagi
 ---
 
+# User Guide for Subscription Pause
+
+
 Do you ever feel the need to pause the subscription of an application for the time being?  
 Well, [Multivendor Marketplace App](/zenith/introduction/) for Shopify is now up with the same feature.
 
@@ -99,4 +102,4 @@ Related FAQs
 Need Help?
 ----------
 
-Furthermore, if you have any issues, please drop an email at support@webkul.com. You can also create a ticket at  [Webkul UV Desk](https://webkul.uvdesk.com/).
+Furthermore, if you have any issues, please drop an email at support@webkul.com. You can also create a ticket at  [Webkul UV Desk](https://webkul.uvdesk.com/en/customer/create-ticket/).

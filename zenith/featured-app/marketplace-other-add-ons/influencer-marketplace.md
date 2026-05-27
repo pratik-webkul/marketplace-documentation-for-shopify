@@ -4,8 +4,11 @@ description: Influencer Marketplace
 author: Chirag Tyagi
 ---
 
-# Influencer Marketplace: A Powerful Add-on for Multivendor Marketplace
+# User Guide for Influencer Marketplace
 
+
+ Influencer Marketplace: A Powerful Add-on for Multivendor Marketplace
+-------------------
 The **Influencer Marketplace** is an advanced feature app designed to connect sellers with influencers, enabling collaboration to boost product sales through influencer marketing.
 
 This guide covers the complete workflow, including **installation, configuration, and usage** from **Admin, Seller, and Influencer perspectives**.

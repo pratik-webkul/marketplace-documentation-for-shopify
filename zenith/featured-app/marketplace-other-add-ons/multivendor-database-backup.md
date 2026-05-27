@@ -4,6 +4,7 @@ description: MULTIVENDOR DATABASE BACKUP
 author: Chirag Tyagi
 ---
 
+# User Guide for Multivendor Database Backup
 
 In the below-mention user guide, we will show you and guide you on how to install and set up Multi-vendor Database Backup.
 

@@ -4,6 +4,8 @@ description: DELIVERY BOY INTEGRATION
 author: Chirag Tyagi
 ---
 
+# User Guide for Delivery Boy Integration
+
 **[Delivery boy app by Webkul](https://webkul.com/blog/delivery-boy-app-for-shopify/)** is a simplified solution for admin to add agents as delivery boys, assign orders to them, and track orders assigned for deliveries.
 
 Now, the **[Delivery boy app by Webkul](https://webkul.com/blog/delivery-boy-app-for-shopify/)** is integrated with the very popular **[Multi-vendor Marketplace app](/zenith/introduction/)** for Shopify.

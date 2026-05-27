@@ -4,6 +4,9 @@ description: BRING SHIPPING
 date: 2025-07-18
 author: Chirag Tyagi
 ---
+
+# User Guide for Bring Shipping
+
 [Multi-Vendor Marketplace for Shopify](/zenith/introduction/) is here with another marketplace shipping feature app, i.e., **Bring**.
 
 Using this featured app, the merchants can allow sellers to ship goods through the Bring shipping method and then print **Shipping Label**. Moreover, create a **pickup request**.

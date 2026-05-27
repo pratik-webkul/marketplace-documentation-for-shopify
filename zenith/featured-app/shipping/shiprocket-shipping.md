@@ -4,6 +4,9 @@ description: SHIPROCKET SHIPPING
 date: 2025-07-18
 author: Chirag Tyagi
 ---
+
+# User Guide for Shiprocket Shipping
+
 The [**Multi-vendor Marketplace**](/zenith/introduction/) has introduced another shipping feature app for order fulfillment named [**Shiprocket**](https://www.shiprocket.in/).
 
 It is a Delhi-based BigFoot Retail solution that is India's first automated shipping software that aims to reduce eCommerce shipping to its bare bones.
@@ -168,4 +171,4 @@ That’s all about the Shiprocket Shipping Feature App.
 ### Demo
 
 Link to check the demo of Multi-vendor Marketplace app for Shopify:   
-[https://multivendor-marketplace-5.myshopify.com](https://multivendor-marketplace-5.myshopify.com/)
+[https://egsma.io/shopify-multivendor-marketplace/](https://egsma.io/shopify-multivendor-marketplace/)

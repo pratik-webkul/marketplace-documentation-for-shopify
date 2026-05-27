@@ -5,6 +5,9 @@ date: 2025-07-02
 author: Chirag Tyagi
 ---
 
+# User Guide for Import Products
+
+
 Admin can import products added on his Shopify Store to [Multivendor Marketplace for Shopify](https://marketplace-doc.webkul.com/zenith/introduction/), after this, the admin needs to assign those products to the sellers.
 
 Now, to make the products appear in the Product menu, you need to assign the imported products to the sellers. Then only, the orders will be created in the Multi-vendor App.
@@ -50,4 +53,4 @@ If the product has variants then admin can't change the product type to Global/D
 
 ### Demo Details
 
-Check out: [https://multivendor-marketplace-5.myshopify.com/pages/demo](https://multivendor-marketplace-5.myshopify.com/pages/seller-profile)
+Check out: [https://egsma.io/shopify-multivendor-marketplace/pages/demo](https://egsma.io/shopify-multivendor-marketplace/pages/seller-profile)

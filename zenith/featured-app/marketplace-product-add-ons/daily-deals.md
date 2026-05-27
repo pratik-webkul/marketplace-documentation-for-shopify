@@ -4,6 +4,8 @@ description: DAILY DEALS
 author: Chirag Tyagi
 ---
 
+# User Guide for Daily Deals
+
  INTRODUCTION
 -----------------
 Webkul **introduces the Daily Deals feature** for the **Multivendor Marketplace App for Shopify**.

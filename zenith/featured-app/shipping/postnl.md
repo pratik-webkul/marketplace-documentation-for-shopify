@@ -4,6 +4,9 @@ description: POSTNL SHIPPING
 date: 2025-07-18
 author: Chirag Tyagi
 ---
+
+# User Guide for Postnl Shipping
+
 The [Multi-vendor Marketplace](/zenith/introduction/) has come up with another shipping feature app here namely **PostNL Shipping**.
 
 With this featured app, the admin can allow sellers to manage the order fulfillment via PostNL and automatically generate shipping labels of the orders.
@@ -135,5 +138,5 @@ That's all about the PostNL Shipping feature App.
 DEMO
 ----
 
-Link to check the demo of Multi-vendor Marketplace app for Shopify: [https://multivendor-marketplace-5.myshopify.com](https://multivendor-marketplace-5.myshopify.com/)
+Link to check the demo of Multi-vendor Marketplace app for Shopify: [https://egsma.io/shopify-multivendor-marketplace/](https://egsma.io/shopify-multivendor-marketplace/)
 

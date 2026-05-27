@@ -1,0 +1,14 @@
+{
+  "name": "zenith-updater",
+  "description": "Automatically updates URLs and adds titles to zenith documentation files",
+  "version": "1.0.0",
+  "author": "Kilo Assistant",
+  "scripts": {
+    "update": "./.kilocode/skills/zenith-updater/update_docs.sh"
+  },
+  "triggers": {
+    "file_watch": [
+      "zenith/**/*.md"
+    ]
+  }
+}

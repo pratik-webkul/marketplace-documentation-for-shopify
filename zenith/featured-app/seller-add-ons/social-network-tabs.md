@@ -5,7 +5,7 @@ date: 2025-07-29
 author: Chirag Tyagi
 ---
 
-
+# User Guide for Social Network Tabs
 
 **THIS APP IS CURRENTLY DEPRECIATED**
 
@@ -86,4 +86,4 @@ Similarly, you can click the rest of the tabs to display social media posts on t
 
 ### Social Network Tabs DEMO 
 
-Check out Multi-vendor Marketplace Social Network Tabs Demo: [https://multivendor-marketplace-5.myshopify.com](https://multivendor-marketplace-5.myshopify.com)
+Check out Multi-vendor Marketplace Social Network Tabs Demo: [https://egsma.io/shopify-multivendor-marketplace/](https://egsma.io/shopify-multivendor-marketplace/)

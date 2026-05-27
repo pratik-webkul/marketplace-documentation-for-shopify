@@ -4,6 +4,9 @@ description: ASK A QUESTION
 date: 2025-07-29
 author: Chirag Tyagi
 ---
+
+# User Guide for Ask A Question
+
 [Multivendor Marketplace app for Shopify](https://webkul.com/blog/shopify-multivendor-marketplace-new-theme-launched/): Ask a Question- We have introduced an additional feature in our multivendor marketplace app
 
 Through which, if the customer has any doubt related to any product or order, then they can directly ask questions from the sellers of the products.

@@ -4,6 +4,8 @@ description: PAY WHAT YOU WANT
 author: Chirag Tyagi
 ---
 
+# User Guide for Pay What You Want
+
 We have introduced **Pay what you want** feature app within the [Multivendor Marketplace App](/zenith/introduction/) for Shopify.
 
 **Pay what you want** (**PWYW**) also known as **Value-for-Value** model is a pricing strategy where buyers pay their desired amount for a given commodity.
@@ -101,7 +103,7 @@ To update Sub Total price: Add class to your checkout button on cart page **car
 ```liquid
      wk_checkout_btn         
 ```
-If you are having trouble while updating the codes, let us know by emailing at **shopify@webkul.com** or creating a ticket for the same at [**Webkul UV Desk**](https://webkul.uvdesk.com/). We’ll do it for you!
+If you are having trouble while updating the codes, let us know by emailing at **shopify@webkul.com** or creating a ticket for the same at [**Webkul UV Desk**](https://webkul.uvdesk.com/en/customer/create-ticket/). We’ll do it for you!
 
 To add a product, visit **Multivendor Marketplace Admin/Seller Panel** \> **Products** > **Product Listing** > **Add Product**.
 

@@ -5,6 +5,9 @@ date: 2025-07-10
 author: Chirag Tyagi
 ---
 
+# User Guide for Minimum Purchase Quantity
+
+
 
 **Minimum Purchase Quantity**: We have introduced this new feature in our [MultiVendor Marketplace App](/zenith/introduction/) for Shopify.
 

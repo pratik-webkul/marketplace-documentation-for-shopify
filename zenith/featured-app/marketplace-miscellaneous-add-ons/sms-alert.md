@@ -5,6 +5,7 @@ date: 2025-07-25
 author: Chirag Tyagi
 ---
 
+# User Guide for Sms Alert
 
 The [Multivendor Marketplace for Shopify](/zenith/introduction/) is now integrated with the **SMS Gateway tools**(SMS Alert) for sending automated messages & calls.
 

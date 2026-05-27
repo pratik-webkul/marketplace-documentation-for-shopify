@@ -4,6 +4,9 @@ description: LINNWORKS CONNECTOR
 date: 2025-07-25
 author: Chirag Tyagi
 ---
+
+# User Guide for Linnworks Connector
+
 Connect **[Linnworks](https://www.linnworks.com/)**, an order management software, with **[Multivendor Marketplace App](/zenith/introduction/overview.html)** for **Shopify** using this connector add-on.
 
 **What is Linnworks?**  

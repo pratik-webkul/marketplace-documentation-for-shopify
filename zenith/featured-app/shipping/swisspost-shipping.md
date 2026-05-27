@@ -4,6 +4,9 @@ description: SWISSPOST SHIPPING
 date: 2025-07-18
 author: Chirag Tyagi
 ---
+
+# User Guide for Swisspost Shipping
+
 The [Multi-vendor Marketplace](/zenith/introduction/) has introduced another shipping feature app for order fulfillment named [**Swiss Post**](https://www.post.ch/en/) i.e **the national postal service of Switzerland.**
 
 By enabling the Swiss Post shipping featured app, the admin can allow sellers to manage the order fulfillment via Swiss Post shipping.
@@ -121,5 +124,5 @@ Thus, the shipping label will be generated automatically for the fulfilled order
 DEMO
 ----
 
-Link to check the demo of Multi-vendor Marketplace app for Shopify: [https://multivendor-marketplace-5.myshopify.com](https://multivendor-marketplace-5.myshopify.com/)
+Link to check the demo of Multi-vendor Marketplace app for Shopify: [https://egsma.io/shopify-multivendor-marketplace/](https://egsma.io/shopify-multivendor-marketplace/)
 

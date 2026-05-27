@@ -5,6 +5,8 @@ date: 2025-07-29
 author: Chirag Tyagi
 ---
 
+# User Guide for Affiliate-referral Seller
+
 E-commerce companies can partner with nonprofit organizations or affiliates, such as NGOs and churches, by donating a percentage of earnings through the Affiliate/Referral Seller feature App.
 
 This can be done via fixed profit percentages, donations per product sold, or special campaigns.

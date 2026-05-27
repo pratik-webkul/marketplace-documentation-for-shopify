@@ -4,6 +4,9 @@ description: Fraud Analysis
 author: Chirag Tyagi
 ---
 
+# User Guide for Fraud Analysis
+
+
 In a [Multivendor Marketplace App](/zenith/introduction/), the fraud analysis system operates in the backend to evaluate the risk associated with each customer order.
 
 Utilizing data such as billing details, shipping addresses, IP geolocation, and transaction history, Shopify's algorithms swiftly assess the likelihood of fraud.

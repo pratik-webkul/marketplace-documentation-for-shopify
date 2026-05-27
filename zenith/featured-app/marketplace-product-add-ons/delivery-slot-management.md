@@ -4,6 +4,8 @@ description: DELIVERY SLOT MANAGEMENT
 author: Chirag Tyagi
 ---
 
+# User Guide for Delivery Slot Management
+
 [Delivery Slot Management app](https://apps.shopify.com/delivery-slot-management) is a simplified solution to offer scheduled deliveries on Shopify store products.
 
 The app allows the merchants to add delivery method to the app, create slots for the customers for on-time deliveries and fixed-day deliveries.

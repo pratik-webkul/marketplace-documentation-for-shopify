@@ -4,6 +4,9 @@ description: Commission Overview
 author: Chirag Tyagi
 ---
 
+# User Guide for Commission Overview
+
+
 
  Commission Overview – Shopify Multivendor Marketplace App
 -------------------------------------------------
@@ -196,6 +199,6 @@ This feature enables **marketplace owners to incentivize higher seller performan
 ###  Demo
 
 Explore a live demo of the Multivendor Marketplace:  
-[https://multivendor-marketplace-5.myshopify.com/](https://multivendor-marketplace-5.myshopify.com/)
+[https://egsma.io/shopify-multivendor-marketplace/](https://egsma.io/shopify-multivendor-marketplace/)
 
 ---

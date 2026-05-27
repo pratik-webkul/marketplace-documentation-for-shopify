@@ -4,6 +4,9 @@ description: Print-on-Demand Marketplace
 author: Chirag Tyagi
 ---
 
+# User Guide for Print-on-demand Marketplace
+
+
 Print-on-Demand Marketplace
 ------------------------------
 A **Print-on-Demand Marketplace** is a marketplace model where products are created and printed only after an order is placed. This eliminates the need for inventory and allows sellers to offer customizable products.

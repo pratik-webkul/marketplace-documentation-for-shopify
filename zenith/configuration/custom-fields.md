@@ -5,6 +5,9 @@ date: 2025-10-07
 author: Chirag Tyagi
 ---
 
+# User Guide for Custom Fields
+
+
 
  What is a custom field?
 -----------------------------
@@ -332,7 +335,7 @@ If you are having any trouble regarding the code-pasting or any other configurat
 
 Restrict Custom Field by Product Type
 --------------------------------
-You can now restrict custom fields for your marketplace products based on product type. This feature depends on [restrict product type](https://webkul.uvdesk.com/da/blog/shopify-multivendor-marketplace-restrict-product-type) feature.
+You can now restrict custom fields for your marketplace products based on product type. This feature depends on [restrict product type](https://webkul.uvdesk.com/en/blog/shopify-multivendor-marketplace-restrict-product-type) feature.
 
 So, to enable this feature, visit **Marketplace Admin Panel** > **Configuration** > **Restriction Configuration** \> **Enable** the option shown in the image below:
 

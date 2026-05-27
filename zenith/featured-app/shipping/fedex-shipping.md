@@ -4,6 +4,9 @@ description: FEDEX SHIPPING
 date: 2025-07-18
 author: Chirag Tyagi
 ---
+
+# User Guide for Fedex Shipping
+
 [Multi-Vendor Marketplace for Shopify](/zenith/introduction/) is here with another marketplace shipping feature app, i.e., **FedEx**.
 
 FedEx

@@ -4,6 +4,9 @@ description: SOCIAL MEDIA LOGIN
 date: 2025-07-29
 author: Chirag Tyagi
 ---
+
+# User Guide for Social Media Login
+
 Want to make the seller login & sign up process quick? Then here comes the featured app called **SOCIAL MEDIA LOGIN**.
 
 Through which sellers can login to their [Multivendor Marketplace](/zenith/introduction/) seller panel using Gmail and Facebook accounts.

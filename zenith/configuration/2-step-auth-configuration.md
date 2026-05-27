@@ -5,6 +5,9 @@ date: 2025-10-07
 author: Chirag Tyagi
 ---
 
+# User Guide for 2-step Auth Configuration
+
+
 
 **2-Step Authentication for seller and staff logins**
 ----------------------------------------

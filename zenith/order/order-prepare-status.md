@@ -4,6 +4,9 @@ description: Order Prepare Status
 author: Chirag Tyagi
 ---
 
+# User Guide for Order Prepare Status
+
+
 **[Multivendor Marketplace for Shopify](/zenith/introduction/) | Order Prepare Status Feature**  
 With this feature, the seller can intimate admin about the status of the order step by step.
 
@@ -45,5 +48,5 @@ NOTE:  In case, the seller is unable to collect the order in the mentioned tim
 
 ### Multivendor Marketplace for Shopify | Order prepare status feature: Demo
 
-Check out: [https://multivendor-marketplace-5.myshopify.com/](https://multivendor-marketplace-5.myshopify.com/)
+Check out: [https://egsma.io/shopify-multivendor-marketplace/](https://egsma.io/shopify-multivendor-marketplace/)
 

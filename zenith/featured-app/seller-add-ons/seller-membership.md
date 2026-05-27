@@ -4,6 +4,9 @@ description: SELLER MEMBERSHIP
 date: 2025-07-29
 author: Chirag Tyagi
 ---
+
+# User Guide for Seller Membership
+
 Till now you must have switched to the new theme, or some of you have just installed the [Multivendor Marketplace App](/zenith/introduction/) and want to have the "Seller Membership" feature app, then do refer to this.
 
 This feature app allows the Admin/Store Owner to make plans for the Sellers and they need to subscribe to the plan in case they need to publish the products in the Admin Shopify Store.

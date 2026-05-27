@@ -4,6 +4,9 @@ description: MARKETPLACE SHIPPING
 date: 2025-07-18
 author: Chirag Tyagi
 ---
+
+# User Guide for Marketplace Shipping
+
  **Introduction**
 ---------------------
 **[Multi-vendor Marketplace](/zenith/introduction/)** app now comes with a new simplified way to understand marketplace shipping in the app.

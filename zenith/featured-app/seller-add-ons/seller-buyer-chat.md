@@ -4,6 +4,9 @@ description: SELLER BUYER CHAT
 date: 2025-07-29
 author: Chirag Tyagi
 ---
+
+# User Guide for Seller Buyer Chat
+
 [ChatWhizz](https://webkul.com/blog/chatwhizz-communication-solution-for-your-organization/) is now integrated with the [Seller-Buyer Chat](https://webkul.com/blog/shopify-multivendor-marketplace-seller-buyer-chat-new-theme/) add-on of the [Multivendor Marketplace App](https://apps.shopify.com/multi-vendor-marketplace) for Shopify.
 
 Using this integration, you can display a live chat widget on your storefront. The customers can connect with the sellers on the runtime and get their queries resolved.

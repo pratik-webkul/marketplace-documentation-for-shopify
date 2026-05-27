@@ -4,6 +4,9 @@ description: BLUEDART SHIPPING
 date: 2025-07-18
 author: Chirag Tyagi
 ---
+
+# User Guide for Bluedart Shipping
+
 Blue Dart
 ---------
 
@@ -113,4 +116,4 @@ Once generated, the seller can view the fulfillment details from the Order detai
 DEMO
 ----
 
-Link to check the demo of Multi-vendor Marketplace app for Shopify: [https://multivendor-marketplace-5.myshopify.com](https://multivendor-marketplace-5.myshopify.com)
+Link to check the demo of Multi-vendor Marketplace app for Shopify: [https://egsma.io/shopify-multivendor-marketplace/](https://egsma.io/shopify-multivendor-marketplace/)

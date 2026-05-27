@@ -4,6 +4,9 @@ description: AIR SPEED SHIPPING
 date: 2025-07-18
 author: Chirag Tyagi
 ---
+
+# User Guide for Air Speed Shipping
+
 With **[Multivendor Marketplace](/zenith/introduction/)** App, You might have used , [Canada Post](/zenith/featured-app/shipping/canada-post-shipping) or [Ecom Express Shipping](/zenith/featured-app/shipping/ecom-express-shipping) Feature Apps on your marketplace to manage fulfillment and generate shipping labels.
 
 Now, We came up with a new feature app named "AirSpeed Shipping" to manage fulfillment on a priority basis.
@@ -137,5 +140,5 @@ Demo
 
 Further, check out the demo
 
-[https://multivendor-marketplace-5.myshopify.com/pages/seller-profile](https://multivendor-marketplace-5.myshopify.com/pages/seller-profile)
+[https://egsma.io/shopify-multivendor-marketplace/pages/seller-profile](https://egsma.io/shopify-multivendor-marketplace/pages/seller-profile)
 

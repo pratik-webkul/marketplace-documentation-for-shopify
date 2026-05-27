@@ -5,6 +5,8 @@ date: 2025-07-25
 author: Chirag Tyagi
 ---
 
+# User Guide for Zoho Integration
+
 **Zoho Integration For Shopify Multi-vendor** is an efficient tool that sets up a connection between your Shopify Store and Zoho.
 
 This module facilitates the store admin to synchronize their store’s data

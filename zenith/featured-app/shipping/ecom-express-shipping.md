@@ -4,6 +4,9 @@ description: ECOM EXPRESS SHIPPING
 date: 2025-07-18
 author: Chirag Tyagi
 ---
+
+# User Guide for Ecom Express Shipping
+
 [Ecom Express](https://ecomexpress.in/) is one of the leading end-to-end logistics solutions for the express delivery services to eCommerce Industries.
 
 We are here with another [Multivendor Marketplace](/zenith/introduction/) App for Shopify called **Ecom Express Shipping** for the order fulfillment service. This feature will help both the admin and the seller to manage the fulfillment in the simplest possible way.
@@ -121,4 +124,4 @@ That is how the Ecom Express Shipping feature app works to manage the order fulf
 
 ### Demo
 
-Please check the Demo here: [https://multivendor-marketplace-5.myshopify.com](https://multivendor-marketplace-5.myshopify.com/)
+Please check the Demo here: [https://egsma.io/shopify-multivendor-marketplace/](https://egsma.io/shopify-multivendor-marketplace/)

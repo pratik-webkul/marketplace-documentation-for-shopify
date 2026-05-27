@@ -4,6 +4,9 @@ description: EMAIL MARKETING
 date: 2025-07-29
 author: Chirag Tyagi
 ---
+
+# User Guide for Email Marketing
+
 ### Introduction
 
 If you are planning to send bulk emails to sellers manually, and want to create an email campaign for your sellers then this marketplace featured app is for you.

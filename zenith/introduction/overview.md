@@ -5,6 +5,9 @@ date: 2025-06-02
 author: Webkul Team
 ---
 
+# User Guide for Multivendor Marketplace Documentation
+
+
 [Multivendor Marketplace App for Shopify](https://store.webkul.com/Shopify-Multi-Vendor-Marketplace.html) is here with a new theme now and it would be really exciting to learn about its functions for the Admin and the Seller.
 
 This guide will help you to understand the new theme and its functionalities.
@@ -19,7 +22,7 @@ Firstly, let's see how to install the Multivendor App on the Shopify Store.
 
 You can go through the **Video Guide** to understand how you can install the Multivendor app on your Shopify Store.
 
-[Click Here to Watch The Video](https://youtu.be/b9lNPcAyZaU?si=9RFwWS0xSO_f2G5D)
+[![Watch the video]](https://youtu.be/dqQ5sjM7Iqw?si=KtJf7reXqXplfLpb)
 
 <!--### Import configurations from other Shopify store
 
@@ -135,7 +138,7 @@ Also, you can enable the "Order Prepare Status" option to track the order prepar
 
 [![order configuration Multivendor Marketplace for Shopify by Webkul](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/08/orderconfig-scaled.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/08/orderconfig-scaled.webp)
 
-To know more about the **Order-related Updates**, Kindly refer: [https://webkul.com/blog/shopify-multivendor-marketplace-app-new-upgraded-features/](https://webkul.com/blog/shopify-multivendor-marketplace-app-new-upgraded-features/)
+To know more about the **Order-related Updates**, Kindly refer: [Click Here:](/zenith/upgraded-features/upgraded-features.html)
 
  **Seller Payment Configuration**
 ---------------------------------
@@ -185,7 +188,7 @@ All the information related to the Sellers can be managed from this menu. It has
 
 You can check the **Video Guide** to know how the admin can add sellers on the marketplace.
 
-[![Watch the video](https://img.youtube.com/vi/vdvnhMSFX7s/0.jpg)](https://www.youtube.com/watch?v=vdvnhMSFX7s)
+[![Watch the video]](https://www.youtube.com/watch?v=vdvnhMSFX7s)
 
 **Seller Listing**
 -------------------
@@ -260,7 +263,7 @@ Screenshot lists the submenu:
 
 Admin Adding Products Here is the **Video Guide** to know how the admin adds products on his end.
 
-[Click Here To Watch The Video](https://youtu.be/FRBkcFDXHnc?si=aeur2eYoDvTwCeC5)
+[Click Here To Watch The Video](https://www.youtube.com/watch?v=ftMuliv-1tU)
 
 **Product Listing** 
 ---------------------
@@ -374,7 +377,7 @@ Admin can export order details in the CSV file from the Multi-vendor app.
 
 You can go through the **Video Guide** to know the complete order process on the admin side.
 
-[Click Here to watch the video](https://youtu.be/F8HdGwXsejw?si=DCZX6Lv6FlU_kAKM)
+[Click Here to watch the video](https://youtu.be/HZdiQWclnwA?si=FjmPsVJ-JuiQ50ik)
 
 **RMA Configuration**
 -----------------------
@@ -464,7 +467,7 @@ You can also refer to the user manual of the commission to know about commission
 
 Here is the **video guide** to know how to set commissions in a much better way. 
 
-[Click Here To Know More About Commission](https://youtu.be/TjXDS7dG3jA?si=yueFblkV5lCmrmv6)
+[Click Here To Know More About Commission](https://youtu.be/5tk5tlFRprw?si=llGFhSCB3B6eXcvU)
 
 ### Payments
 

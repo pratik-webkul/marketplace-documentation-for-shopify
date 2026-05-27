@@ -4,6 +4,9 @@ description: Artist Marketplace
 author: Chirag Tyagi
 ---
 
+# User Guide for Artist Marketplace
+
+
 Artist Marketplace
 ---------------------------
 An **Artist Marketplace** is a creator-focused marketplace where artists can upload their designs or artworks and sell them as products through a multivendor platform.

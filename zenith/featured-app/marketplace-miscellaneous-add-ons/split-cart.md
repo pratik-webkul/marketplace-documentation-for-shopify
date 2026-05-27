@@ -4,7 +4,9 @@ description: SPLIT CART
 date: 2025-07-25
 author: Chirag Tyagi
 ---
- 
+
+# User Guide for Split Cart
+
 Multivendor Marketplace module has come up with a feature app named **Split Cart.** It helps your buyers to have split carts during the checkout process.
 
 This means that when the buyers will add multiple seller's products to their cart, their cart will get split vendor-wise i.e. each cart will have a separate seller's products.

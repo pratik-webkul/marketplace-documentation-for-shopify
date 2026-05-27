@@ -4,6 +4,9 @@ description: VAMASHIP SHIPPING
 date: 2025-07-18
 author: Chirag Tyagi
 ---
+
+# User Guide for Vamaship Shipping
+
 [Multi-Vendor Marketplace for Shopify](/zenith/introduction/) has come up with another marketplace shipping feature app for **Indian Merchants**, i.e., **Vamaship**.
 
 Vamaship

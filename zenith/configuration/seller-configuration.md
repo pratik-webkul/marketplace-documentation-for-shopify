@@ -4,6 +4,9 @@ description: Learn about Seller configuration.
 date: 2025-06-25
 author: Chirag Tyagi
 ---
+
+# User Guide for Multivendor Marketplace Seller Configuration
+
 In this section of the blog, you’ll find everything related to seller configurations. Manage all your seller settings seamlessly from this dedicated menu section
 
 From here, you can allow your sellers to fulfill items, enable the option to auto-approve the added sellers, allow sellers to view customers' details and much more.

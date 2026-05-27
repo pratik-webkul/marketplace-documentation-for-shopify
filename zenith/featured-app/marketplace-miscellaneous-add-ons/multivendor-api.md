@@ -5,6 +5,8 @@ date: 2025-07-25
 author: Chirag Tyagi
 ---
 
+# User Guide for Multivendor Api
+
 Here we are with the [Multivendor Marketplace](/zenith/introduction/overview.html) app for Shopify: Multi-vendor API.
 
 **API** stands for Application programming interface which is a set of tools and protocols that will help you building sync and much more.

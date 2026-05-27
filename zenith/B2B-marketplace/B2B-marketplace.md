@@ -5,6 +5,9 @@ date: 2025-08-04
 author: Chirag Tyagi
 ---
 
+# User Guide for B2b Marketplace
+
+
 ## B2B Marketplace
 
 A **B2B (Business-to-Business) Marketplace** is a platform where businesses sell products to other businesses. Unlike B2C marketplaces, B2B marketplaces usually require more controlled and flexible pricing structures to support wholesale and business-oriented selling models.

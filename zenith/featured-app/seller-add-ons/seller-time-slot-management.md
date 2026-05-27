@@ -4,6 +4,9 @@ description: SELLER TIME SLOT MANAGEMENT
 date: 2025-07-29
 author: Chirag Tyagi
 ---
+
+# User Guide for Seller Time Slot Management
+
 [Multi-Vendor Marketplace for Shopify](/zenith/introduction/) is here with another featured app called **Seller Time Slot Management**.
 
 **Purpose of the app**: Using this feature app seller and admin can manage opening and closing time for the seller's store. This is a great way to make your customers aware of the seller's availability.
@@ -53,7 +56,7 @@ Copy the below-given code and paste it to **product-template.liquid** template
 ```liquid
     <span id="wk_cart_error_{{vendor | replace: ' ', '_'}}"  style="display:none" >Store Closed, Try after some time</span>
 ```
-If you are having trouble while updating the codes, let us know by emailing at **shopify@webkul.com** or creating a ticket for the same at [**Webkul UV Desk**](https://webkul.uvdesk.com/). We’ll do it for you!
+If you are having trouble while updating the codes, let us know by emailing at **shopify@webkul.com** or creating a ticket for the same at [**Webkul UV Desk**](https://webkul.uvdesk.com/en/customer/create-ticket/). We’ll do it for you!
 
 For this, visit **Multivendor Admin Panel** \> **Configuration** > **Time Slot Configuration**.
 

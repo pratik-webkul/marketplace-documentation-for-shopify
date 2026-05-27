@@ -5,6 +5,8 @@ date: 2025-08-04
 author: Chirag Tyagi
 ---
 
+# User Guide for Favorite Product|seller
+
 Here's presenting an additional feature in our [Multivendor Marketplace](/zenith/introduction/) app for Shopify: Favorite Product/Seller through which customer gets an option to like products as well as sellers.
 
  FEATURES
@@ -159,5 +161,5 @@ This feature enhances seller-customer engagement by allowing **personalized comm
 
 ### Multivendor Marketplace App for Shopify: Favorite Product/Seller Demo
 
-Check out: [https://multivendor-marketplace-5.myshopify.com/](https://multivendor-marketplace-5.myshopify.com/)
+Check out: [https://egsma.io/shopify-multivendor-marketplace/](https://egsma.io/shopify-multivendor-marketplace/)
 

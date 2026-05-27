@@ -4,6 +4,9 @@ description: SHOPIFY PRESTASHOP CONNECTOR
 date: 2025-07-20
 author: Chirag Tyagi
 ---
+
+# User Guide for Shopify Prestashop Connector
+
 [Multivendor Marketplace](/zenith/introduction/overview.html) App for Shopify is here with yet another connector. This time it's for the sellers having stores on Prestashop!
 
 If the sellers register on admin's marketplace have their stores on Prestashop and they want to connect their stores with admin's store then,

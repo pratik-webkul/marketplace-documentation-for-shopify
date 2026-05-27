@@ -4,6 +4,9 @@ description: Postcode Shipping
 author: Chirag Tyagi
 ---
 
+# User Guide for Postcode Shipping
+
+
 **Postcode Shipping**: You can provide your customers shipping rates based on postcode ranges by enabling the free [**Shipping Add-on**](https://webkul.com/blog/shopify-multivendor-marketplace-shipping/) within the **Multivendor Marketplace App** for **Shopify**.
 
 **Before You Install**: It is mandatory to have **[real-time carrier calculated shipping](https://help.shopify.com/en/manual/shipping/setting-up-and-managing-your-shipping/enabling-shipping-carriers)** within your Shopify store. This is a requirement defined by Shopify for your store to retrieve shipping rates from third-party sources, such as this shipping app.

@@ -4,7 +4,7 @@ description: Featured App Overview
 author: Chirag Tyagi
 ---
 
-
+# User Guide for Featured App Overview
 
 **Shopify Multivendor Marketplace- Feature Apps Upgraded**
 
@@ -1316,7 +1316,7 @@ Shopify Multivendor Marketplace Admin Staff feature app enables the store owner
 Admin will provide a public URL to his staff from where the staff can log in to the admin’s account to manage permitted activities. The staff will get all the login credentials via mail.
 
 This feature has an additional monthly charge of USD 10 over and above your current multivendor plan.  
-To get the details about this app, refer to the [User Guide](https://webkul.com/blog/shopify-multivendor-marketplace-feature-admin-staff/).
+To get the details about this app, refer to the [User Guide](/zenith/featured-app/marketplace-miscellaneous-add-ons/admin-staff).
 
 Multi Location Inventory
 ------------------------

@@ -4,6 +4,8 @@ description: WATERMARK
 author: Chirag Tyagi
 ---
 
+# User Guide for Watermark
+
 In the [**Multivendor M**](/zenith/introduction/)[**arketplace App**](/zenith/introduction/), we have introduced a feature named "Watermark," using which you can add watermarks to digital files (PDFs and images).
 
 Using the Multivendor Marketplace app, you can convert your store into a fully functioning marketplace.

@@ -4,6 +4,8 @@ description: CUSTOM OPTIONS
 author: Chirag Tyagi
 ---
 
+# User Guide for Custom Options
+
 The [Multi-vendor Marketplace for Shopify](https://store.webkul.com/Shopify-Multi-Vendor-Marketplace.html) app has now come up with the custom product options feature.
 
 With this featured app, you can **allow sellers to add custom options to products** that they sell on your marketplace.
@@ -439,4 +441,4 @@ This feature ensures that sellers can **monetize customizations** directly throu
 
 ### Demo
 
-Check the demo of the Multi-vendor Marketplace App: [https://multivendor-marketplace-5.myshopify.com/](https://multivendor-marketplace-5.myshopify.com/)
+Check the demo of the Multi-vendor Marketplace App: [https://egsma.io/shopify-multivendor-marketplace/](https://egsma.io/shopify-multivendor-marketplace/)

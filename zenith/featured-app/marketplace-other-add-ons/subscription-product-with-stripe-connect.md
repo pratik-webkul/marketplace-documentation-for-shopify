@@ -4,6 +4,8 @@ description: SUBSCRIPTION PRODUCT WITH STRIPE CONNECT
 author: Chirag Tyagi
 ---
 
+# User Guide for Subscription Product With Stripe Connect
+
 Now allow your Sellers to add subscription for their products and provide maximum customer retention on your store.
 
 Allow your sellers to create their own Subscription on a weekly, monthly, or yearly basis.

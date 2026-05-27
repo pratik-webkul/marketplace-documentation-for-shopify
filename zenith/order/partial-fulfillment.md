@@ -4,6 +4,9 @@ description: Order Fulfillment
 author: Chirag Tyagi
 ---
 
+# User Guide for Order Fulfillment
+
+
 Till now, [Multi-Vendor Marketplace App](/zenith/introduction/) facilitates admin as well as the seller to [fulfill orders](/zenith/order/order-fulfillment) from their respective panels. Now, we have introduced a **partial fulfillment** feature as well.
 
 You can fulfill a part of an order by fulfilling some line items. Let's learn how you can activate this feature within the marketplace app.
@@ -34,7 +37,7 @@ On the order page, you will have the fulfilled & unfilled products listed:
 
 [![image-5](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/02/unfulfilledandfulfilledorderpartial.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/02/unfulfilledandfulfilledorderpartial.webp)
 
-Drop your query/suggestion at support@webkul.com or create your ticket at [Webkul UV Desk](https://webkul.uvdesk.com/).
+Drop your query/suggestion at support@webkul.com or create your ticket at [Webkul UV Desk](https://webkul.uvdesk.com/en/customer/create-ticket/).
 
  Read more: Order fulfillment in Multivendor Marketplace for Shopify
 --------------------

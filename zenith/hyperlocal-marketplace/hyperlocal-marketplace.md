@@ -5,6 +5,9 @@ date: 2025-07-25
 author: Chirag Tyagi
 ---
 
+# User Guide for Hyperlocal Marketplace
+
+
 ## Hyperlocal Marketplace for Multivendor Platforms
 
 A **Hyperlocal Marketplace** is a location-based marketplace model that enables customers to discover and purchase products or services from sellers operating within their nearby area. Instead of displaying all sellers across the marketplace, the system filters sellers and products based on the customer’s selected location, ensuring faster delivery, better order accuracy, and improved customer satisfaction.

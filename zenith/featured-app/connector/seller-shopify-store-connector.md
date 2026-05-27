@@ -5,6 +5,8 @@ date: 2025-07-20
 author: Chirag Tyagi
 ---
 
+# User Guide for Seller Shopify Store Connector
+
 Here is the solution to allow them to sync their Shopify store products with your Shopify store. "Create an app for your sellers" by enabling the Seller Shopify store Connector feature app.
 
 If your sellers also have Shopify stores, and they want to add products from their respective stores to the Admin Shopify Store
@@ -47,7 +49,7 @@ Now, as soon as the Seller Shopify Connector feature app is Active, the sellers 
 To use the features of the seller Shopify connector app, the seller needs to create a custom app for their Shopify store.
 
 Click here to watch the video ⬇️ 
-[![Watch Video](https://img.youtube.com/vi/njsZgLXqV_8/maxresdefault.jpg)](https://www.youtube.com/watch?v=njsZgLXqV_8)
+[![Watch Video to know the process of connecting the seller store]](https://youtu.be/njsZgLXqV_8)
 
 
 ### How to create a custom app?
@@ -760,6 +762,6 @@ Now, to enable this tab, go to admin panel>>Configuration>>**Seller Supported Ap
 
 That's all about this feature app.
 
-Furthermore, if you need any kind of support/Consultancy, then please raise a ticket at [http://webkul.uvdesk.com/](http://webkul.uvdesk.com/) or drop an email at **support@webkul.com**.
+Furthermore, if you need any kind of support/Consultancy, then please raise a ticket at [https://webkul.uvdesk.com/en/customer/create-ticket/](https://webkul.uvdesk.com/en/customer/create-ticket/) or drop an email at **support@webkul.com**.
 
 Thanks for reading this blog!!!

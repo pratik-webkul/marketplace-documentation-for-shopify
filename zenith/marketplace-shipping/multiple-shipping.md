@@ -4,6 +4,9 @@ description: Multiple Shipping
 author: Chirag Tyagi
 ---
 
+# User Guide for Multiple Shipping
+
+
 If you are using [Multivendor Marketplace Shipping App](/zenith/marketplace-shipping/marketplace-shipping) then now you will be able to **create multiple shipping** for your sellers.
 
 In this documentation, we will only discuss how the admin can create multiple shipping and further, how the sellers can configure them.

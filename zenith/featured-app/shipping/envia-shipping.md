@@ -4,6 +4,9 @@ description: ENVIA SHIPPING
 date: 2025-07-18
 author: Chirag Tyagi
 ---
+
+# User Guide for Envia Shipping
+
 [Multi-Vendor Marketplace for Shopify](/zenith/introduction/) is here with another marketplace shipping feature app, i.e., **Envia Shipping**.
 
 Using this featured app, the merchants can enable shipment through **Envia**. Moreover, he can allow sellers to automatically generate shipping labels.

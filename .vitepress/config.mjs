@@ -6,6 +6,199 @@ export default defineConfig({
   lang: 'en',
   title: 'Multivendor Marketplace For Shopify',
   description: 'This is the documentation regading webkul multivendor marketplace for shopify',
+markdown: {
+  config(md) {
+
+    // 🔹 NORMAL IMAGE SUPPORT ![img](url)
+    const defaultImage =
+      md.renderer.rules.image ||
+      function (tokens, idx, options, env, self) {
+        return self.renderToken(tokens, idx, options)
+      }
+
+    md.renderer.rules.image = function (tokens, idx, options, env, self) {
+      const token = tokens[idx]
+      const src = token.attrGet('src')
+
+      token.attrSet(
+        'style',
+        'cursor: zoom-in; max-width:100%;'
+      )
+
+      token.attrSet(
+        'onclick',
+        `
+        const existing = document.getElementById('wk-image-overlay');
+        if(existing) existing.remove();
+
+        const overlay = document.createElement('div');
+        overlay.id = 'wk-image-overlay';
+
+        overlay.style.cssText = \`
+          position:fixed;
+          inset:0;
+          background:rgba(0,0,0,0.88);
+          display:flex;
+          align-items:center;
+          justify-content:center;
+          z-index:99999;
+          padding:20px;
+          cursor:zoom-out;
+          overflow:hidden;
+          backdrop-filter: blur(3px);
+        \`;
+
+        const img = document.createElement('img');
+        img.src = "${src}";
+
+        img.style.cssText = \`
+          max-width:95%;
+          max-height:95%;
+          border-radius:12px;
+          transition:transform .15s ease;
+          cursor:zoom-in;
+          will-change:transform;
+          user-select:none;
+        \`;
+
+        let scale = 1;
+
+        // scroll zoom
+        overlay.onwheel = (e) => {
+          e.preventDefault();
+
+          scale += e.deltaY * -0.001;
+          scale = Math.min(Math.max(1, scale), 5);
+
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        // double click zoom
+        img.ondblclick = () => {
+          scale = scale === 1 ? 2 : 1;
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        overlay.appendChild(img);
+        document.body.appendChild(overlay);
+
+        // close overlay
+        overlay.onclick = (e) => {
+          if (e.target === overlay) {
+            overlay.remove();
+          }
+        };
+
+        // esc close
+        document.onkeydown = (e) => {
+          if (e.key === 'Escape') {
+            overlay.remove();
+          }
+        };
+      `
+      )
+
+      return defaultImage(tokens, idx, options, env, self)
+    }
+
+    // 🔹 CLICKABLE IMAGE SUPPORT [![img](url)](url)
+    const defaultLink =
+      md.renderer.rules.link_open ||
+      function (tokens, idx, options, env, self) {
+        return self.renderToken(tokens, idx, options)
+      }
+
+    md.renderer.rules.link_open = function (tokens, idx, options, env, self) {
+
+      const token = tokens[idx]
+      const nextToken = tokens[idx + 1]
+
+      if (nextToken && nextToken.type === 'image') {
+
+        const src = nextToken.attrGet('src')
+
+        token.attrSet('href', 'javascript:void(0)')
+
+        token.attrSet(
+          'onclick',
+          `
+          event.preventDefault();
+
+          const existing = document.getElementById('wk-image-overlay');
+          if(existing) existing.remove();
+
+          const overlay = document.createElement('div');
+          overlay.id = 'wk-image-overlay';
+
+          overlay.style.cssText = \`
+            position:fixed;
+            inset:0;
+            background:rgba(0,0,0,0.88);
+            display:flex;
+            align-items:center;
+            justify-content:center;
+            z-index:99999;
+            padding:20px;
+            cursor:zoom-out;
+            overflow:hidden;
+            backdrop-filter: blur(3px);
+          \`;
+
+          const img = document.createElement('img');
+          img.src = "${src}";
+
+          img.style.cssText = \`
+            max-width:95%;
+            max-height:95%;
+            border-radius:12px;
+            transition:transform .15s ease;
+            cursor:zoom-in;
+            will-change:transform;
+            user-select:none;
+          \`;
+
+          let scale = 1;
+
+          // scroll zoom
+          overlay.onwheel = (e) => {
+            e.preventDefault();
+
+            scale += e.deltaY * -0.001;
+            scale = Math.min(Math.max(1, scale), 5);
+
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          // double click zoom
+          img.ondblclick = () => {
+            scale = scale === 1 ? 2 : 1;
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          overlay.appendChild(img);
+          document.body.appendChild(overlay);
+
+          // close overlay
+          overlay.onclick = (e) => {
+            if (e.target === overlay) {
+              overlay.remove();
+            }
+          };
+
+          // esc close
+          document.onkeydown = (e) => {
+            if (e.key === 'Escape') {
+              overlay.remove();
+            }
+          };
+        `
+        )
+      }
+
+      return defaultLink(tokens, idx, options, env, self)
+    }
+  }
+},
   head: [
     ['link', { rel: 'icon', href: '/image/favicon.png' }],
     // ['script', { src: '/js/toggle-sidebar.js' }],
@@ -31,11 +224,11 @@ export default defineConfig({
     siteTitle: false,
     // https://vitepress.dev/reference/default-theme-config
     nav: [
-      { text: 'Zenith Theme', link: '/zenith/introduction/' },
+      // { text: 'Zenith Theme', link: '/zenith/introduction/' },
       { text: 'Webkul', link: 'https://webkul.com/' },
       { text: 'Get App', link: 'https://apps.shopify.com/multi-vendor-marketplace' },
-      { text: 'View Demo', link: 'https://multivendor-marketplace-5.myshopify.com/' },
-      { text: 'Support', link: 'https://webkul.uvdesk.com/' }
+      { text: 'Book a Demo', link: 'https://egsma.io/shopify-multivendor-marketplace/' },
+      { text: 'Support', link: 'https://webkul.uvdesk.com/en/customer/create-ticket/' }
 
     ],
 
@@ -287,6 +480,7 @@ export default defineConfig({
                 { text: 'Easy group buy app', link: '/zenith/featured-app/marketplace-other-add-ons/easy-group-buy' },
                 { text: 'Influencer Marketplace', link: '/zenith/featured-app/marketplace-other-add-ons/influencer-marketplace' },
                 { text: 'Locate your pickup store', link: '/zenith/featured-app/marketplace-other-add-ons/locate-your-pickup-store' },
+                { text: 'Marketplace UGC', link: '/zenith/featured-app/marketplace-other-add-ons/marketplace-ugc' },
                 { text: 'Multivendor database backup', link: '/zenith/featured-app/marketplace-other-add-ons/multivendor-database-backup' },
                 { text: 'Seller blog', link: '/zenith/featured-app/marketplace-other-add-ons/seller-blog' },
                 { text: 'Subscription product with Stripe Connect', link: '/zenith/featured-app/marketplace-other-add-ons/subscription-product-with-stripe-connect' },

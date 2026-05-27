@@ -5,6 +5,8 @@ date: 2025-07-25
 author: Chirag Tyagi
 ---
 
+# User Guide for Admin Staff
+
 We are here with another feature within [the Multivendor Marketplace App](https://store.webkul.com/Shopify-Multi-Vendor-Marketplace.html) for Shopify called "**Admin Staff**".
 
 It enables the store owner to add members and assign different permissions to them in order to manage activities on admin panel.
@@ -118,5 +120,5 @@ That is how, an added staff can manage the admin's account.
 
 ### Demo Link
 
-[https://multivendor-marketplace-5.myshopify.com](https://multivendor-marketplace-5.myshopify.com)
+[https://egsma.io/shopify-multivendor-marketplace/](https://egsma.io/shopify-multivendor-marketplace/)
 

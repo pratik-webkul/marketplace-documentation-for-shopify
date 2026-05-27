@@ -4,6 +4,9 @@ description: How to add Products
 date: 2025-07-02
 author: Chirag Tyagi
 ---
+
+# User Guide for How To Add Products
+
 The [**Multi-vendor Marketplace app**](https://marketplace-doc.webkul.com/zenith/introduction/) is dedicated to convert your [Shopify store](https://shopify.com/free-trial?ref=webkul) into a fully-functional marketplace.
 
 It is a feature-rich eCommerce solution for every merchant to grow-up their online stores.
@@ -16,7 +19,7 @@ As soon as the sellers get registered to your marketplace, they will have separa
 
 Click here to watch the video ⬇️ 
 
-[![Watch the video](https://img.youtube.com/vi/ftMuliv-1tU/0.jpg)](https://www.youtube.com/watch?v=ftMuliv-1tU)
+[![Watch the video]](https://www.youtube.com/watch?v=ftMuliv-1tU)
   
 
 You can also add products from your admin panel and assign products to any of your registered sellers.

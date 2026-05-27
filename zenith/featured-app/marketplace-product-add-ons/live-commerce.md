@@ -4,7 +4,7 @@ description: Live Commerce
 author: Chirag Tyagi
 ---
 
-
+# User Guide for Live Commerce
 
 **[Live](https://apps.shopify.com/webkul-live-commerce)** [**Commerce**](https://apps.shopify.com/webkul-live-commerce) turns shopping into an engaging, real-time experience, allowing sellers and customers to interact instantly within a Live Commerce multi-vendor marketplace.
 

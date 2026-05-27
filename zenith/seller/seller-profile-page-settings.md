@@ -5,6 +5,9 @@ date: 2025-07-10
 author: Chirag Tyagi
 ---
 
+# User Guide for Seller Profile Page Settings
+
+
 We have updated the [Multivendor Marketplace app](/zenith/introduction/overview.html) for Shopify and is now available with a new feature of Seller Profile Page.
 
 Each seller will have their respective seller profile page on the admin's Marketplace where all the products of that seller will be displayed itself.

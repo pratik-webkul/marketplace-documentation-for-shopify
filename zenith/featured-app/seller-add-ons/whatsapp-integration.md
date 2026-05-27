@@ -4,6 +4,9 @@ description: WHATSAPP INTEGRATION
 date: 2025-07-29
 author: Chirag Tyagi
 ---
+
+# User Guide for Whatsapp Integration
+
 We have come with another feature app for our Multivendor Marketplace that is **WhatsApp Integration**. Now admin can send Automated WhatsApp Notification to sellers and customers.
 
 As well for order placed, order fulfilled, order refund, order cancelled, and many more.

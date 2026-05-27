@@ -4,6 +4,9 @@ description: WOOCOMMERCE CONNECTOR
 date: 2025-07-20
 author: Chirag Tyagi
 ---
+
+# User Guide for Woocommerce Connector
+
 [**Multivendor Marketplace**](/zenith/introduction/) App is here to introduce a new Feature App named **WooCommerce Connector**.
 
 Using this feature app, you can allow your sellers to sync their WooCommerce store's Products with your Shopify Store.

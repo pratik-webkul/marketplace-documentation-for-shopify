@@ -4,6 +4,9 @@ description: Appointment & Booking Marketplace
 author: Chirag Tyagi
 ---
 
+# User Guide for Appointment & Booking Marketplace
+
+
 Appointment & Booking Marketplace
 --------------------------------
 An **Appointment & Booking Marketplace** is a service-based marketplace model where sellers offer **time-based services** such as consultations, sessions, or scheduled appointments. Customers can book these services by selecting an available date and time directly from the marketplace.

@@ -5,6 +5,8 @@ date: 2025-08-04
 author: Chirag Tyagi
 ---
 
+# User Guide for Product Feed
+
 A Product Feed includes all the information related to products that are available on the marketplace for sale.
 
 [Multivendor Marketplace](/zenith/introduction/) for Shopify has now come up with a new feature app called **Product Feed**.
@@ -158,5 +160,5 @@ This way you and your sellers can add Product Feeds using this feature app.
 
 ### Demo
 
-Check the Demo: [https://multivendor-marketplace-5.myshopify.com/pages/seller-profile](https://multivendor-marketplace-5.myshopify.com/pages/seller-profile)
+Check the Demo: [https://egsma.io/shopify-multivendor-marketplace/pages/seller-profile](https://egsma.io/shopify-multivendor-marketplace/pages/seller-profile)
 !
