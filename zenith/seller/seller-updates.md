@@ -5,6 +5,9 @@ date: 2025-10-07
 author: Chirag Tyagi
 ---
 
+# User Guide for Seller Updates
+
+
 
 
 This Guide is dedicated to letting you aware of all the new updates of the Seller menu of the [Multi-Vendor Marketplace App](/zenith/introduction/) for Shopify. 

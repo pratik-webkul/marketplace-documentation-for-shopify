@@ -4,6 +4,9 @@ description: SELLER TAGS AND CATEGORIES
 date: 2025-07-29
 author: Chirag Tyagi
 ---
+
+# User Guide for Seller Tags And Categories
+
 The [Multivendor Marketplace App for Shopify](/zenith/introduction/) is up with another most requested add-on by the name **Seller Tags & Categories**.
 
 **Purpose of the app**: Using this featured app, the vendors will be able to choose tags & categories for themselves added by the admin. Further, these can be used as filters on the storefront.

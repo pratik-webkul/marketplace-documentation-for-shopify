@@ -4,6 +4,9 @@ description: J&TEXPRESS SHIPPING
 date: 2025-07-18
 author: Chirag Tyagi
 ---
+
+# User Guide for J&texpress Shipping
+
 The [Multi-vendor Marketplace](/zenith/introduction/) has come up with yet another shipping feature app named **J&T Express.**
 
 [J&T Express](https://www.jtexpress.my/track.php) is known to be an integrated logistics service that allows sellers to ship the package(s) using their own packaging and deliver the items to the customers.
@@ -105,4 +108,4 @@ Shipping Label via J&T Express
 DEMO
 ----
 
-Link to check the demo of Multi-vendor Marketplace app for Shopify: [https://multivendor-marketplace-5.myshopify.com](https://multivendor-marketplace-5.myshopify.com/)
+Link to check the demo of Multi-vendor Marketplace app for Shopify: [https://egsma.io/shopify-multivendor-marketplace/](https://egsma.io/shopify-multivendor-marketplace/)

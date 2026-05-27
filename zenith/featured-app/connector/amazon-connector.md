@@ -4,6 +4,9 @@ description: AMAZON CONNECTOR
 date: 2025-07-25
 author: Chirag Tyagi
 ---
+
+# User Guide for Amazon Connector
+
 Do your sellers also have their Amazon stores? If so, here is the solution to enable them to sync their Amazon store products with your Shopify store.
 
 Enable the Seller Amazon Store Connector feature app.

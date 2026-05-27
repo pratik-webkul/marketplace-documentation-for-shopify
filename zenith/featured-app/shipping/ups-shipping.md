@@ -4,6 +4,9 @@ description: UPS SHIPPING
 date: 2025-07-18
 author: Chirag Tyagi
 ---
+
+# User Guide for Ups Shipping
+
 [**Multi-vendor Marketplace**](/zenith/introduction/) app has come up with the **UPS** feature app to manage product shipping, track the packages & print shipping labels through the **United Parcel Service (UPS)**.
 
 You can now visit the feature app section and enable the "UPS" feature app to let the sellers ship their products through UPS.
@@ -201,4 +204,4 @@ This way, the order gets fulfilled and the product quantity will get updated at 
 
 ### Demo
 
-Check the Demo of the Multi-vendor App: [https://multivendor-marketplace-5.myshopify.com/pages/seller-profile](https://multivendor-marketplace-5.myshopify.com/pages/seller-profile)
+Check the Demo of the Multi-vendor App: [https://egsma.io/shopify-multivendor-marketplace/pages/seller-profile](https://egsma.io/shopify-multivendor-marketplace/pages/seller-profile)

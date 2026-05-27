@@ -4,6 +4,8 @@ description: SELLER BLOG
 author: Chirag Tyagi
 ---
 
+# User Guide for Seller Blog
+
 The Seller Blog is a feature of our multivendor marketplace app, offering each registered seller their own blog.
 
 Sellers can use this space to publish articles, updates, and content related to their products, enhancing engagement and visibility on the platform.

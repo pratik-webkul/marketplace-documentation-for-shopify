@@ -5,6 +5,8 @@ date: 2025-08-04
 author: Chirag Tyagi
 ---
 
+# User Guide for Stock Management
+
 In the [Multivendor Marketplace](/zenith/introduction/) app for Shopify: Stock Management feature app, the Admin can manage the product stock from his sellers.
 
 Admin can track the shipment while the seller has the choice to select who will fulfill the order, the admin or the seller.

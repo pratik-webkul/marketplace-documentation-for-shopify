@@ -4,6 +4,9 @@ description: USPS SHIPPING
 date: 2025-07-18
 author: Chirag Tyagi
 ---
+
+# User Guide for Usps Shipping
+
 Currently, the **USPS App** is not available (****depreciated****).
 
 [Multivendor Marketplace App](https://webkul.com/blog/shopify-multivendor-marketplace-new-theme-launched/) for Shopify has now come up with the updated USPS Shipping feature with **Stamps.com Integration.**
@@ -176,4 +179,4 @@ DEMO
 
 Follow the below links and credentials to use the demo of the Multi-vendor Marketplace app for Shopify:
 
-[https://multivendor-marketplace-5.myshopify.com](https://multivendor-marketplace-5.myshopify.com)
+[https://egsma.io/shopify-multivendor-marketplace/](https://egsma.io/shopify-multivendor-marketplace/)

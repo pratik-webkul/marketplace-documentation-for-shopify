@@ -5,6 +5,8 @@ date: 2025-08-07
 author: Chirag Tyagi
 ---
 
+# User Guide for Product Expiry
+
 [Multivendor Marketplace app for Shopify](/zenith/introduction/)\- Product Expiry App:- We have introduced a new feature in our Multivendor Marketplace app for Shopify name "Expiry App"
 
 Which enables both admins as well as sellers to set an expiry date for the product while adding any new product or editing the existing product.
@@ -45,5 +47,5 @@ Configuration-> Products -> Products listing -> Click on "Edit button" of "Actio
 
 ### DEMO
 
-Check out: [https://multivendor-marketplace-5.myshopify.com/](https://multivendor-marketplace-5.myshopify.com/)
+Check out: [https://egsma.io/shopify-multivendor-marketplace/](https://egsma.io/shopify-multivendor-marketplace/)
 

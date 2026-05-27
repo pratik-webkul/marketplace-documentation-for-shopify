@@ -4,6 +4,9 @@ description: Stripe-connect Configuration
 date: 2025-06-27
 author: Chirag Tyagi
 ---
+
+# User Guide for Stripe-connect
+
 We have launched Stripe Connect payment gateway in the [Multivendor Marketplace](/zenith/introduction/) app for Shopify.
 
 Where now after the customer pays the amount for the order, the amount will go to the respective Seller and Admin account directly as per the share configured based on commission.

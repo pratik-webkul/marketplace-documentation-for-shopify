@@ -5,6 +5,8 @@ date: 2025-08-04
 author: Chirag Tyagi
 ---
 
+# User Guide for Make An Offer
+
 We are here with another featured app "Make an offer" within the [Multivendor Marketplace for Shopify](https://store.webkul.com/Shopify-Multi-Vendor-Marketplace.html).
 
 You can create "Make an Offer" products and get the request quotes from the customers on any of those products within the [Multivendor Marketplace for Shopify](/zenith/introduction/).

@@ -5,6 +5,9 @@ date: 2025-08-04
 author: Chirag Tyagi
 ---
 
+# User Guide for Booking Product
+
+
 **Multivendor Marketplace- Booking App Integration**
 
 [Multivendor Marketplace](/zenith/introduction/) App has come up with a new feature app called "**Booking Product**" which is now integrated with the "**[Booking App by Webkul](https://webkul.com/blog/shopify-booking-app/)**".

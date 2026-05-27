@@ -5,6 +5,9 @@ date: 2025-07-02
 author: Chirag Tyagi
 ---
 
+# User Guide for Digital Products
+
+
 If you are looking to build a marketplace with no restriction of shop type then [Multi-Vendor Marketplace for Shopify](/zenith/introduction/) is the solution.
 
 Selling physical as well as digital products on this Multi-Vendor Marketplace is really flexible & easy.
@@ -210,5 +213,5 @@ This all about Multivendor Marketplace digital products!
 
 ### Demo Details
 
-[https://multivendor-marketplace-5.myshopify.com/pages/demo](https://multivendor-marketplace-5.myshopify.com/pages/seller-profile)
+[https://egsma.io/shopify-multivendor-marketplace/pages/demo](https://egsma.io/shopify-multivendor-marketplace/pages/seller-profile)
 

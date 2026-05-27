@@ -5,9 +5,19 @@ date: 2025-09-24
 author: Chirag Tyagi
 ---
 
+# User Guide for Dual Sync
+
+
 Are you using Multivendor Marketplace app & would like to edit the products from shopify products? If yes then "Dual Sync" feature is for you:
 
 We are here with this much awaited feature in our [Multivendor Marketplace App](/zenith/introduction/) .
+
+
+ ### Video Guide: App Installation
+
+You can go through the **Video Guide** to understand how Dual Sync Process works in Multivendor app on your Shopify Store.
+
+[![Video Guide for Dual Sync]](https://youtu.be/IztOiMwYHkA?si=Dm9s1Qo1XS2VCO43)
 
 With the help of this feature, Admin can edit the product details from the Shopify end and the updated changes reflect automatically on the Marketplace.
 

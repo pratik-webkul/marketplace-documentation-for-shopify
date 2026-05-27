@@ -4,6 +4,9 @@ description: Directory listing
 author: Chirag Tyagi
 ---
 
+# User Guide for Directory Listing
+
+
 
 We have added a new **Directory Listing** feature to the [Multivendor Marketplace](/zenith/introduction/) App for Shopify.
 
@@ -53,7 +56,7 @@ Refer:
 
 [![multivendor-marketplace-4-Edit-Debut-Shopify](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/02/multivendor-marketplace-4-Edit-Debut-Shopify-1200x597.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/02/multivendor-marketplace-4-Edit-Debut-Shopify-1200x597.png)
 
-If you are having trouble while updating the codes, let us know by emailing at **shopify@webkul.com** or creating a ticket for the same at [**Webkul UV Desk**](https://webkul.uvdesk.com/). We’ll do it for you!
+If you are having trouble while updating the codes, let us know by emailing at **shopify@webkul.com** or creating a ticket for the same at [**Webkul UV Desk**](https://webkul.uvdesk.com/en/customer/create-ticket/). We’ll do it for you!
 
 Adding Directory Listing Product
 --------------------

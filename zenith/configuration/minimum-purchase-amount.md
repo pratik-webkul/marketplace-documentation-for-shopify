@@ -5,6 +5,9 @@ date: 2025-07-10
 author: Chirag Tyagi
 ---
 
+# User Guide for Minimum Purchase Amount For Orders
+
+
 [Multi-vendor Marketplace App](/zenith/introduction/) helps you to convert your store into a multi-functional marketplace. You can register multiple sellers & allow them to publish their products on your store. The app is loaded with tons of features and recently introduced a new one "**Minimum Purchase Amount for Orders**".
 
 With this feature, You can allow your sellers to set a Minimum Purchase Amount for Orders. Thus, sellers can restrict the purchase of the customers by setting up a minimum order value.

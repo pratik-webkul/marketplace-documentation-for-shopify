@@ -5,6 +5,9 @@ date: 2025-08-12
 author: Chirag Tyagi
 ---
 
+# User Guide for Invoice Configuration
+
+
 In [Multivendor Marketplace](/zenith/introduction/) App for Shopify, we have introduced Invoice feature which enables both admin and seller to generate an invoice from their respective ends.
 
 **NOTE:** It is mandatory to have a **Multi-Vendor Marketplace PRO plan** to have the invoice feature.
@@ -406,5 +409,5 @@ Refer to the screenshots below:
 
 ### Invoice feature DEMO
 
-Use below link to use the demo of Multivendor marketplace App for Shopify:- [https://multivendor-marketplace-5.myshopify.com/pages/demo](https://multivendor-marketplace-5.myshopify.com/pages/demo)
+Use below link to use the demo of Multivendor marketplace App for Shopify:- [https://egsma.io/shopify-multivendor-marketplace/pages/demo](https://egsma.io/shopify-multivendor-marketplace/pages/demo)
 

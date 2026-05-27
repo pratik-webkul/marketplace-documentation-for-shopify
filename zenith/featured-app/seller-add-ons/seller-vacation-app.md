@@ -4,7 +4,9 @@ description: SELLER VACATION APP
 date: 2025-07-29
 author: Chirag Tyagi
 ---
- 
+
+# User Guide for Seller Vacation App
+
 [Multivendor Marketplace](/zenith/introduction/) | **Seller Vacation App** |
 
 The purpose of the **[Multi-vendor Marketplace Seller Vacation App](https://store.webkul.com/Shopify-Multi-Vendor-Marketplace.html)** for Shopify is to provide the information to the admin as well as to the buyer about the unavailability of the Seller.
@@ -126,5 +128,5 @@ Multivendor Marketplace Seller Vacation Demo Details
 
 Follow the below links and credentials to use the demo of  Multi-vendor Marketplace app:
 
-[https://multivendor-marketplace-5.myshopify.com](https://multivendor-marketplace-5.myshopify.com)
+[https://egsma.io/shopify-multivendor-marketplace/](https://egsma.io/shopify-multivendor-marketplace/)
 

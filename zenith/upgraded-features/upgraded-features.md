@@ -4,6 +4,9 @@ description: Upgraded Features
 author: Chirag Tyagi
 ---
 
+# User Guide for Upgraded Features
+
+
 
 [Shopify Multivendor Marketplace](https://store.webkul.com/Shopify-Multi-Vendor-Marketplace.html) App New & Upgraded Features: Yes, we are updating and introducing new features to our best featured Multivendor Marketplace app for Shopify. 
 
@@ -798,6 +801,6 @@ Once the filter is applied, only the orders related to the selected seller's pro
 
 You can refer the below-given link to check the demo of multivendor marketplace App for Shopify:-
 
-[https://multivendor-marketplace-5.myshopify.com/pages/demo](https://multivendor-marketplace-5.myshopify.com/pages/seller-profile)
+[https://egsma.io/shopify-multivendor-marketplace/pages/demo](https://egsma.io/shopify-multivendor-marketplace/pages/seller-profile)
 
 Keep following this blog of ours to know about all the recent updates.

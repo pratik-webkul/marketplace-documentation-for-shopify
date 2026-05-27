@@ -4,6 +4,9 @@ description: Seller URL customisation
 author: Chirag Tyagi
 ---
 
+# User Guide for Seller Url Customisation
+
+
 In this documentation, we'll find out how the admin can customize the seller login URL/seller subdomain for [Multi-Vendor Marketplace App](/zenith/introduction/) for Shopify.
 
 Note: During the app Installation and onboarding process. You can now modify the part of your existing(default) Seller URL that appears before ".sp-seller.webkul.com" once

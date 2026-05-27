@@ -4,6 +4,9 @@ description: SHIPSTATION SHIPPING
 date: 2025-07-18
 author: Chirag Tyagi
 ---
+
+# User Guide for Shipstation Shipping
+
 [Multi-Vendor Marketplace for Shopify](/zenith/introduction/) is now Integrated with another shipping add-on: **ShipStation** .
 
 What is ShipStation?

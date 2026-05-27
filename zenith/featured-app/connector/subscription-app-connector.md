@@ -5,6 +5,8 @@ date: 2025-08-04
 author: Chirag Tyagi
 ---
 
+# User Guide for Subscription App Connector
+
 Subscription App Connector: We have introduced an additional feature app in our [multivendor marketplace app](https://store.webkul.com/Shopify-Multi-Vendor-Marketplace.html) through which your seller can also allow their products on subscription.
 
 Allow your sellers to create their own Subscription on a weekly, monthly basis.

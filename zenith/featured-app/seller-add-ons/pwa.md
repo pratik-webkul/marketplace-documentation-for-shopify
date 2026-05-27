@@ -4,6 +4,9 @@ description: PWA
 date: 2025-07-29
 author: Chirag Tyagi
 ---
+
+# User Guide for Pwa
+
 For now, the app is not compatible with the IOS devices.
 
 [Multivendor Marketplace App](/zenith/introduction/) for Shopify is here with another feature app called **PWA** which lets you enable progressive web application functionality for your marketplace sellers.

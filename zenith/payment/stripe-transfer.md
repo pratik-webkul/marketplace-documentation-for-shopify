@@ -4,6 +4,9 @@ description: Stripe Transfer
 author: Chirag Tyagi
 ---
 
+# User Guide for Stripe Transfer
+
+
 Stripe Transfer
 ------------------
 #### **Purpose of this feature**:

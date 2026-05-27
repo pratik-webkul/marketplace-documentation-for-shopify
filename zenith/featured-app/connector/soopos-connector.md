@@ -4,6 +4,9 @@ description: SOOPOS CONNECTOR
 date: 2025-07-25
 author: Chirag Tyagi
 ---
+
+# User Guide for Soopos Connector
+
 The [Multi-vendor Marketplace](https://webkul.com/blog/shopify-multivendor-marketplace-new-theme-launched/) app has come up with yet another connector add-on i.e. **SooPOS Connector**.
 
 SooPOS \[Shopify+POS\] is a perfect Shopify POS inventory order management solution for online stores. **[Learn](https://soopos.com/)**

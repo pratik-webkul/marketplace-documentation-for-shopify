@@ -4,6 +4,9 @@ description: Commission Types
 author: Chirag Tyagi
 ---
 
+# User Guide for Commission Types
+
+
 
 **Commission Types**:-  In [Multivendor Marketplace app for Shopify](/zenith/introduction/) commission is the admin/merchant share from the seller/vendor's total earnings.
 
@@ -87,4 +90,4 @@ To know more about commissions please also refer the user guide of [commissions]
 
 ### Commission Types Demo Details
 
-Check out: [https://multivendor-marketplace-5.myshopify.com/](https://multivendor-marketplace-5.myshopify.com/)
+Check out: [https://egsma.io/shopify-multivendor-marketplace/](https://egsma.io/shopify-multivendor-marketplace/)

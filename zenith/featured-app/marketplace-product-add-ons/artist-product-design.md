@@ -4,6 +4,7 @@ description: ARTIST PRODUCT DESIGN
 author: Chirag Tyagi
 ---
 
+# User Guide for Artist Product Design
 
  INTRODUCTION
 --------------
@@ -186,7 +187,7 @@ The Admin will receive this created product design in an approval pending state.
 
 Go to: Multivendor Marketplace Admin Panel > Products > Product Design > Enable the design:
 
-[![ALL ARTIST DESIGNS](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/04/Product-Design-Admin-2.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/04/Product-Design-Admin-2.png)
+[![ALL ARTIST DESIGNS](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/artstdesapprov.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/artstdesapprov.webp)
 
 When enabled by the Admin, the Artist will have the product design on the Products > Product Design page in an approved state:
 
@@ -196,34 +197,34 @@ And once the created product design is used or added to a product, it can't be d
 
 Multivendor Marketplace Artist Panel > Products > Product Design
 
-[![EDIT PRODUCT DESIGN](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/04/Products-Design-Seller-%E2%80%A2-Multivendor-MarketPlace-1-1.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/04/Products-Design-Seller-%E2%80%A2-Multivendor-MarketPlace-1-1.png)
+[![EDIT PRODUCT DESIGN](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/artstprodapprvslr.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/artstprodapprvslr.webp)
 
 Send design for physical verification
 -------------------------------------
 
 Now, the artist needs to send the design for physical verification. To do so, he needs to 'edit' the design:
 
-[![ARTIST PRODUCT DESIGN: SEND DESIGN](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/10/Edit-Product-Design-Seller-%E2%80%A2-Multivendor-MarketPlace.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/10/Edit-Product-Design-Seller-%E2%80%A2-Multivendor-MarketPlace.png)
+[![ARTIST PRODUCT DESIGN: SEND DESIGN](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/artstpkgslip.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/artstpkgslip.webp)
 
 The artist can also view the packaging slip by clicking on the '**packing slip**'.
 
 Furthermore, to send the design, click on '**Send Design**', enter the following details & save.
 
-[![PACKAGE DETAILS](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/10/Edit-Product-Design-Seller-%E2%80%A2-Multivendor-MarketPlace-1.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/10/Edit-Product-Design-Seller-%E2%80%A2-Multivendor-MarketPlace-1.png)
+[![PACKAGE DETAILS](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/artstpackgdets.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/artstpackgdets.webp)
 
 Now, the admin needs to verify the design by visiting Multivendor Marketplace Admin Panel > Products > Product Design:
 
-[![ARTIST PRODUCT DESIGN](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/10/Product-Design-Admin-1.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/10/Product-Design-Admin-1.png)
+[![ARTIST PRODUCT DESIGN](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/hfgcngfxgxf.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/hfgcngfxgxf.webp)
 
 _Once verified, this procedure is irreversible._
 
 Admin can further view the design by visiting Multivendor Marketplace Admin Panel > Products > Product Design:
 
-[![ARTIST PRODUCT DESIGN](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/04/Product-Design-Admin-2-1.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/04/Product-Design-Admin-2-1.png)
+[![ARTIST PRODUCT DESIGN](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/ghcngfxyhfhn.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/ghcngfxyhfhn.webp)
 
 Admin can now download the product design image, can change initial replacement value and also set a final initial value.
 
-[![ARTIST PRODUCT DESIGN](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/04/Download-Design-Admin-1.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/04/Download-Design-Admin-1.png)
+[![ARTIST PRODUCT DESIGN](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/hfdgzngfxhfc.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/hfdgzngfxhfc.webp)
 
 #### Request For Change Initial Replacement Value
 
@@ -233,11 +234,11 @@ Once the admin sends a request to change the initial replacement value, an email
 
 That is, there is no such function given in the marketplace for further conversation.
 
-[![ARTIST PRODUCT DESIGN](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/10/Download-Design-Admin.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/10/Download-Design-Admin.png)
+[![ARTIST PRODUCT DESIGN](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/qweyuhhh.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/qweyuhhh.webp)
 
 Once a mutual replacement value is decided by the consent of both admin & artist, the admin can go ahead and set the final replacement value.
 
-[![FINAL REPLACEMENT VALUE](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/10/Download-Design-Admin-1.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/10/Download-Design-Admin-1.png)
+[![FINAL REPLACEMENT VALUE](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/jbjytfytfljb.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/jbjytfytfljb.webp)
 
 Note that, the admin needs to attach proof that shows the approval of the seller regarding the final replacement value.
 
@@ -245,20 +246,20 @@ It can be a file (JPEG, JPG or PDF format). Remember, the maximum size allowed i
 
 The artist can view the replacement value by visiting marketplace seller panel > Products > Product Design > Edit:
 
-[![CONFIGURATION](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/10/Edit-Product-Design-Seller-%E2%80%A2-Multivendor-MarketPlace-2.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/10/Edit-Product-Design-Seller-%E2%80%A2-Multivendor-MarketPlace-2.png)
+[![CONFIGURATION](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/mghctyhxhydc.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/mghctyhxhydc.webp)
 
 Admin adding Products with Product Design:
 ------------------------------------------
 
 Multivendor Marketplace Admin Panel > Products > Product Listing > Add Products:
 
-[![Product Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/04/Product-Admin.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/04/Product-Admin.png)
+[![Product Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/sdcsdferferf.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/sdcsdferferf.webp)
 
 To add design to a Product, the Admin needs to choose the product type as 'Normal' only
 
 And the Seller email should be of the Artist whose product design needs to be added (only after entering the Artist's email ID, the Admin will get an option to choose the product design):
 
-[![Add Product Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/04/Add-Product-Admin.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/04/Add-Product-Admin.png)
+[![Add Product Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/fvrgfrfgded.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/fvrgfrfgded.webp)
 
 Now, to add the product design, click on the 'Select Design' button, a pop-up will arrive,
 
@@ -268,11 +269,11 @@ Fill all the required fields in the 'add product form' & save the product:
 
 _Mark that the product price is greater than or equal to the product design price._
 
-[![Add Product Admin (1)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/04/Add-Product-Admin-1.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/04/Add-Product-Admin-1.png)
+[![Add Product Admin (1)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/regrththrth.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/regrththrth.webp)
 
 The added product can be viewed by the Admin from the Products > Product Listing page. Further, the Admin can edit, disable, delete & reassign the product created:
 
-[![Product Admin (1)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/04/Product-Admin-1.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/04/Product-Admin-1.png)
+[![Product Admin (1)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/dfvfdvdfbfbd.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/dfvfdvdfbfbd.webp)
 
  Admin Reassigning Products
 --------------
@@ -283,7 +284,7 @@ Admin can reassign the products & after reassigning, the added product design is
 
 Go to: Multivendor Marketplace Admin Panel > Products > Product Listing > Reassign (as shown in the image above) > Enter the email ID of other Seller/Artist in the pop-up > Reassign:
 
-[![Product Admin (2)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/04/Product-Admin-2.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/04/Product-Admin-2.png)
+[![Product Admin (2)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/jhfjyfujyhh.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/jhfjyfujyhh.webp)
 
  Artist adding Products with Product Design:
 -----------------
@@ -291,19 +292,19 @@ Go to: Multivendor Marketplace Admin Panel > Products > Product Listing > Reassi
 
 Go to: Multivendor Marketplace Artist Panel > Products > Product Listing > Add Product:
 
-[![Product Seller • Multivendor MarketPlace](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/04/Product-Seller-•-Multivendor-MarketPlace.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/04/Product-Seller-•-Multivendor-MarketPlace.png)
+[![Product Seller • Multivendor MarketPlace](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/dvdfsdfvdfv.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/dvdfsdfvdfv.webp)
 
 Similarly, the Artist needs to fill the 'add product form', where he needs to select the product type as normal and he will get the 'choose artist design' option by default in the form:
 
 _Mark that the product price is greater than or equal to the product design price:_
 
-[![Add Product Seller • Multivendor MarketPlace](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/04/Add-Product-Seller-•-Multivendor-MarketPlace.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/04/Add-Product-Seller-•-Multivendor-MarketPlace.png)
+[![Add Product Seller • Multivendor MarketPlace](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/zxcsdvdvrdg.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/zxcsdvdvrdg.webp)
 
 The created product will be listed in the Products > Product Listing page.
 
 From the same page, the Artist can edit/duplicate/delete the created product:
 
-[![Product Seller • Multivendor MarketPlace (1)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/04/Product-Seller-•-Multivendor-MarketPlace-1.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/04/Product-Seller-•-Multivendor-MarketPlace-1.png)
+[![Product Seller • Multivendor MarketPlace (1)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/fdvfsdvsdvsfd.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/fdvfsdvsdvsfd.webp)
 
 *   If the Admin has disabled the ALLOW ARTIST TO ADD PRODUCT option from the Seller Configuration, the Artist will not be able to add products, he can only view the products from the product listing page.
 
@@ -311,7 +312,7 @@ From the same page, the Artist can edit/duplicate/delete the created product:
 ------------
 There are two commission scenarios:
 
-[![Artist-Product-Design-Configuration-Admin-4-1200x692-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/01/Artist-Product-Design-Configuration-Admin-4-1200x692-1.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/01/Artist-Product-Design-Configuration-Admin-4-1200x692-1.png)
+[![Artist-Product-Design-Configuration-Admin-4-1200x692-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/sdfsevfefs.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/sdfsevfefs.webp)
 
 Path: Multivendor Marketplace Admin Panel > Configuration > Artist Design Configuration
 
@@ -350,15 +351,15 @@ Here, admin can configure the following emails:
 
 #### Change Initial Replacement Value
 
-[![MAIL CONFIGURATION](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/10/Mail-Configuration-Admin.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/10/Mail-Configuration-Admin.png)
+[![MAIL CONFIGURATION](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/ccdgcegercrew.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/ccdgcegercrew.webp)
 
 #### Final Initial Replacement Value
 
-[![FINAL INITIAL REPLACEMENT VALUE](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/10/Mail-Configuration-Admin-1.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/10/Mail-Configuration-Admin-1.png)
+[![FINAL INITIAL REPLACEMENT VALUE](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/cgcrwecesrxfr.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/cgcrwecesrxfr.webp)
 
 #### Send Design for Verification
 
-[![SEND DESIGN FOR VERIFICATION](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/10/Mail-Configuration-Admin-2.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/10/Mail-Configuration-Admin-2.png)
+[![SEND DESIGN FOR VERIFICATION](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/fxewaefewxf.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/fxewaefewxf.webp)
 
 Introducing **Print On Demand** feature in the Artist Product Design feature app of the Multi-vendor app. [Custom Cat](https://customcat.com/) is integrated with the app.
 
@@ -368,27 +369,27 @@ This feature enables you to add the Print On Demand category and let sellers cho
 
 To configure this, visit the admin panel configuration>> Artist Product Design Configuration and select the Artist Configuration as "**print\_on\_demand**"
 
-[![Artist-Product-Design-Configuration-Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/08/Artist-Product-Design-Configuration-Admin-1200x705.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/08/Artist-Product-Design-Configuration-Admin-1200x705.png)
+[![Artist-Product-Design-Configuration-Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/fgdsrgdger.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/fgdsrgdger.webp)
 
 Now, enable the Print On Demand tab and enter the custom cat details.
 
-[![Artist-Product-Design-Configuration-Admin-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/08/Artist-Product-Design-Configuration-Admin-1-1138x1024.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/08/Artist-Product-Design-Configuration-Admin-1-1138x1024.png)
+[![Artist-Product-Design-Configuration-Admin-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/rgewgergreg.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/rgewgergreg.webp)
 
 Moreover, you need to select the country and shipping method to fulfill the Print On Demand products.
 
-[![Screenshot-2021-08-20T093921.311](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/08/Screenshot-2021-08-20T093921.311-1200x600.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/08/Screenshot-2021-08-20T093921.311-1200x600.png)
+[![Screenshot-2021-08-20T093921.311](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/ergrsegfthrt.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/ergrsegfthrt.webp)
 
 Now, proceed to add categories. Go to Producta and choose **Print On Demand Category** sub-menu.
 
-[![screenshot-shopify-trunk.webkul.com-2021.08.20-09_42_05](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/08/screenshot-shopify-trunk.webkul.com-2021.08.20-09_42_05-1200x590.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/08/screenshot-shopify-trunk.webkul.com-2021.08.20-09_42_05-1200x590.png)
+[![screenshot-shopify-trunk.webkul.com-2021.08.20-09_42_05](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/wfxerfcercggrre.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/wfxerfcercggrre.webp)
 
 Click **Add Category** button and add Print On Demand product category.
 
-[![POD-Category-Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/08/POD-Category-Admin-1200x597.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/08/POD-Category-Admin-1200x597.png)
+[![POD-Category-Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/aewfzfxergrec.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/aewfzfxergrec.webp)
 
 Choose the custom cat catalog from the drop-down menu and enter the price.
 
-[![Add-POD-Category-ADMIN](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/08/Add-POD-Category-ADMIN-1200x607.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/08/Add-POD-Category-ADMIN-1200x607.png)
+[![Add-POD-Category-ADMIN](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/sxreferfercfx.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/sxreferfercfx.webp)
 
 Categories are created this way. Let's move on to the seller panel.
 
@@ -396,11 +397,11 @@ Categories are created this way. Let's move on to the seller panel.
 
 The seller will now have the option to add Print On Demand products. For this, the seller needs to visit the Products section >> Click Add Product >> Choose **Admin Catalog Product**.
 
-[![Product-Seller-•-Multivendor-MarketPlace](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/08/Product-Seller-%E2%80%A2-Multivendor-MarketPlace-1200x535.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/08/Product-Seller-%E2%80%A2-Multivendor-MarketPlace-1200x535.png)
+[![Product-Seller-•-Multivendor-MarketPlace](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/cfrrgrwcrcgwc.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/cfrrgrwcrcgwc.webp)
 
 Enter the details related to the Print On Demand product.
 
-[![Catalog-Product-Seller-•-Multivendor-MarketPlace](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/08/Catalog-Product-Seller-%E2%80%A2-Multivendor-MarketPlace-1130x1024.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/08/Catalog-Product-Seller-%E2%80%A2-Multivendor-MarketPlace-1130x1024.png)
+[![Catalog-Product-Seller-•-Multivendor-MarketPlace](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/srfrvgcdfsc.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/srfrvgcdfsc.webp)
 
 That's all.
 

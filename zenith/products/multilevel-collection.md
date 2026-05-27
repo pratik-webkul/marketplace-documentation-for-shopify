@@ -5,6 +5,9 @@ date: 2025-09-10
 author: Chirag Tyagi
 ---
 
+# User Guide for Multilevel Collection
+
+
 
 In our [Multivendor Marketplace app for Shopify](https://store.webkul.com/Shopify-Multi-Vendor-Marketplace.html), we have introduced an additional feature name "Multilevel collection"
 
@@ -66,4 +69,4 @@ So this way admin, as well as seller, can use Multilevel Collection at the produ
 
 ### DEMO DETAILS
 
-Check out: [https://multivendor-marketplace-5.myshopify.com/](https://multivendor-marketplace-5.myshopify.com/)
+Check out: [https://egsma.io/shopify-multivendor-marketplace/](https://egsma.io/shopify-multivendor-marketplace/)

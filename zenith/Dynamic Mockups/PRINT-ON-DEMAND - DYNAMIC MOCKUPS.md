@@ -5,6 +5,9 @@ date: 2025-05-11
 author: Chirag Tyagi
 ---
 
+# User Guide for Print-on-demand - Dynamic Mockups
+
+
 In today’s e-commerce world, **print-on-demand products** are gaining significant popularity as customers increasingly seek personalized and unique items.
 
 The ability to create and sell custom-designed products helps vendors meet customer needs and stand out in the market.

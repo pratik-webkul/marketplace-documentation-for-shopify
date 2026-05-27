@@ -4,6 +4,9 @@ description: Rental Marketplace
 author: Chirag Tyagi
 ---
 
+# User Guide for Rental Marketplace
+
+
 ## Rental Marketplace
 
 A **Rental Marketplace** is a service-based marketplace model where sellers offer products or assets on rent for a specific duration instead of selling them permanently. Customers can book rental items by selecting the required dates directly from the marketplace.

@@ -4,6 +4,9 @@ description: C2C Marketplace
 author: Chirag Tyagi
 ---
 
+# User Guide for C2c Marketplace
+
+
 ## C2C Marketplace
 
 A **C2C (Customer-to-Customer) Marketplace** is a marketplace model where **customers can become sellers** and list products for sale to other customers. Instead of only vendors selling on the platform, this model allows registered customers to easily convert into sellers and start selling products directly.

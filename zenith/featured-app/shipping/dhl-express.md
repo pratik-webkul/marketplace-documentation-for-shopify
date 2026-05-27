@@ -4,6 +4,9 @@ description: DHL EXPRESS SHIPPING
 date: 2025-07-18
 author: Chirag Tyagi
 ---
+
+# User Guide for Dhl Express Shipping
+
 [Multi-Vendor Marketplace for Shopify](/zenith/introduction/) is here with another marketplace shipping feature app, i.e., **DHL Express**.
 
 Using this featured app, the merchants can allow sellers to ship your goods through **DHL** using multiple carrier shipping methods and then print **Shipping Label**.

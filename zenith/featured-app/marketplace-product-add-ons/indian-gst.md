@@ -5,6 +5,8 @@ date: 2025-08-07
 author: Chirag Tyagi
 ---
 
+# User Guide for Indian Gst
+
 We are here to introduce the basic version of the Indian GST module in [Multivendor Marketplace App](/zenith/introduction/   ) for Shopify
 
 Which enables the seller to declare the product price inclusive of GST along with other taxes.
@@ -92,5 +94,5 @@ Demo Details
 
 Follow the below links and credentials to use the demo of the Multivendor Marketplace app:
 
-[https://multivendor-marketplace-5.myshopify.com](https://multivendor-marketplace-5.myshopify.com)
+[https://egsma.io/shopify-multivendor-marketplace/](https://egsma.io/shopify-multivendor-marketplace/)
 

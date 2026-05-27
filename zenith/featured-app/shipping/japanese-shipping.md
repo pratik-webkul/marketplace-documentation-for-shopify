@@ -4,6 +4,8 @@ description: Japanese shipping
 author: Chirag Tyagi
 ---
 
+# User Guide for Japanese Shipping
+
  Japanese Shipping: Multi-vendor Marketplace for Shopify
 ----------------
 We are delighted to announce a new Japanese Shipping feature in our Multivendor Marketplace App .

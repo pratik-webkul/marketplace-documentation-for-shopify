@@ -4,6 +4,9 @@ description: SHOPIFY EBAY CONNECTOR
 date: 2025-07-25
 author: Chirag Tyagi
 ---
+
+# User Guide for Shopify Ebay Connector
+
 The Shopify eBay Connector allows sellers to integrate their eBay products into your marketplace, simplifying inventory management across both platforms.
 
 You're likely familiar with [eBay](https://www.ebay.com/), a prominent global e-commerce platform where individuals and businesses trade a wide range of goods and services.

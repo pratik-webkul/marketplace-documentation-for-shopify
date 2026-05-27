@@ -5,6 +5,8 @@ date: 2025-07-25
 author: Chirag Tyagi
 ---
 
+# User Guide for Multi-location Inventory
+
 Recently, we have launched the [Multi-location Inventory](https://help.shopify.com/en/api/guides/inventory-migration-guide) feature. Thus, we came up with the same thought of developing a similar feature app named **Multi-inventory Location**.
 
 If You have multiple Warehouses at different locations then, this feature app is for You!

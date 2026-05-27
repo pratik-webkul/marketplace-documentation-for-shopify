@@ -4,6 +4,9 @@ description: RazorPayX Configuration
 date: 2025-06-27
 author: Chirag Tyagi
 ---
+
+# User Guide for Razorpayx
+
 Want to pay your Seller through your Razor PayX account. Then you can enable this feature in Multivendor Marketplace.
 
 **Purpose of this feature**:

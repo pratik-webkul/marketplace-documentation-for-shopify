@@ -5,6 +5,8 @@ date: 2025-07-25
 author: Chirag Tyagi
 ---
 
+# User Guide for Seller Staff
+
 **Shopify Multivendor Marketplace App | Seller Staff |**
 
 We are here with an another "Feature App" of  [Multivendor Marketplace](/zenith/introduction/) on your high demand called **"Seller Staff".**
@@ -155,5 +157,5 @@ From there, you can disable the "Auto Approve Staff Product" option as per your 
 
 Follow the below links to use the demo of Multivendor Marketplace app for Shopify:
 
-[https://multivendor-marketplace-5.myshopify.com](https://multivendor-marketplace-5.myshopify.com)
+[https://egsma.io/shopify-multivendor-marketplace/](https://egsma.io/shopify-multivendor-marketplace/)
 

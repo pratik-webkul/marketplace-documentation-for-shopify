@@ -4,6 +4,9 @@ description: EASYPOST SHIPPING
 date: 2025-07-18
 author: Chirag Tyagi
 ---
+
+# User Guide for Easypost Shipping
+
 [EasyPost](https://www.easypost.com/) is known to be one of the most powerful shipping solutions to manage shipments. The **EasyPost API** is now integrated with the [Multi-vendor Marketplace app](/zenith/introduction/) for Shopify.
 
 Merchants can visit the Multi-vendor admin panel and enable the **EasyPost shipping featured app**. Thus, allow sellers to manage the order fulfillment via EasyPost API.
@@ -188,6 +191,6 @@ That's all about the EasyPost Shipping feature app of the Multi-vendor Marketpla
 
 ### DEMO
 
-Link to check the demo of Multi-vendor Marketplace app for Shopify: [https://multivendor-marketplace-5.myshopify.com](https://multivendor-marketplace-5.myshopify.com/)
+Link to check the demo of Multi-vendor Marketplace app for Shopify: [https://egsma.io/shopify-multivendor-marketplace/](https://egsma.io/shopify-multivendor-marketplace/)
 
 

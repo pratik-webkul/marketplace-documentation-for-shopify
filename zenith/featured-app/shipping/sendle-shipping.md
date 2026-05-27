@@ -4,6 +4,9 @@ description: SENDLE SHIPPING
 date: 2025-07-18
 author: Chirag Tyagi
 ---
+
+# User Guide for Sendle Shipping
+
 **[Sendle](https://www.sendle.com/):-** An Australian-based shipping company that provides courier services locally within the country.
 
 The Sendle shipping is now integrated with the [Multi-vendor Marketplace App](/zenith/introduction/) for Shopify to let sellers fulfill their orders via Sendle shipment service and generate shipping labels.
@@ -138,4 +141,4 @@ That's all about the Sendle Shipping Feature App.
 DEMO
 ----
 
-Link to check the demo of Multi-vendor Marketplace app for Shopify: [https://multivendor-marketplace-5.myshopify.com](https://multivendor-marketplace-5.myshopify.com/)
+Link to check the demo of Multi-vendor Marketplace app for Shopify: [https://egsma.io/shopify-multivendor-marketplace/](https://egsma.io/shopify-multivendor-marketplace/)

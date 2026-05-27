@@ -4,6 +4,9 @@ description: SELLER AND CUSTOMER BADGE
 date: 2025-07-29
 author: Chirag Tyagi
 ---
+
+# User Guide for Seller And Customer Badge
+
 **Seller and customer badge** is an effective way to boost the productivity & engagement of your marketplace sellers.
 
 It is a fact that badges keep up the zeal or motivation to work harder towards success.

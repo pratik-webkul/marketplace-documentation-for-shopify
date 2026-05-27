@@ -4,6 +4,9 @@ description: Handling & Transaction Charges
 author: Chirag Tyagi
 ---
 
+# User Guide for Handling & Transaction Charges
+
+
 **[Multivendor Marketplace for Shopify](/zenith/introduction/): Handling & Transaction Charges**
 
 In many marketplace scenarios, the admin has to bear the handling and transaction charges applied to each transaction or transfer. As a result, these charges directly impact overall profitability.
@@ -12,8 +15,8 @@ To address this, we have introduced a feature in the app that allows these charg
 
 Now, let’s understand the complete workflow in detail.
 
-### The workflow of the Multivendor Marketplace: Handling & Transaction Charges
-
+ The workflow of the Multivendor Marketplace: Handling & Transaction Charges
+---------------------
 Before using this feature, make sure that the Sales Price option is enabled from the Product Configuration settings. Otherwise, the handling and transaction charges will not reflect properly.
 
 To enable it, follow the steps below:
@@ -25,8 +28,8 @@ To enable it, follow the steps below:
 
 ![sales price](https://cdnblog.webkul.com/blog/wp-content/uploads/2017/05/salesprice-1200x629.webp)
 
-### 1\. Handling Charges
-
+ 1\. Handling Charges
+-----------------
 Handling charges allow the admin to add an additional fixed cost to the product price. **As a result,** this cost is automatically included in the final price displayed to the customer.
 
 **Step 1: Enable Handling Charges**
@@ -58,7 +61,7 @@ Then, enter the required **Handling Charge** value for the respective product.
 ![edit](https://cdnblog.webkul.com/blog/wp-content/uploads/2017/05/edit-1-1200x627.webp)
 
 **How Handling Charge Works**
-
+-------------------
 The handling charge is added to the product’s base price. As a result, the final price increases accordingly.
 
 Moreover, this charge is applied per quantity. Therefore, if a customer purchases multiple units of the same product, the handling charge will be multiplied based on the ordered quantity.
@@ -72,8 +75,8 @@ Orderd Quantity = 3
 **Final calculation:**  
 ($100 + $10) × 3 = $330
 
-### 2\. Transaction Charges
-
+ 2\. Transaction Charges
+-------------------
 Transaction charges represent the payment processing fee applied to marketplace orders. In other words, this fee reflects the cost associated with processing payments through a gateway.
 
 Therefore, the configured transaction charge will be added to the product’s base price, depending on the selected settings.
@@ -306,6 +309,6 @@ Transaction Fee = 10% + 5$
 
 Moreover, use below link to use the demo of the multivendor marketplace App for Shopify:-
 
-[https://multivendor-marketplace-5.myshopify.com/admin](https://multivendor-marketplace-5.myshopify.com/admin)
+[https://egsma.io/shopify-multivendor-marketplace/admin](https://egsma.io/shopify-multivendor-marketplace/admin)
 
 

@@ -4,6 +4,9 @@ description: Shopify Custom Apps
 author: Chirag Tyagi
 ---
 
+# User Guide for Shopify Custom Apps
+
+
 
 If you are using [Multi vendor Marketplace app for Shopify](https://store.webkul.com/Shopify-Multi-Vendor-Marketplace.html), you can now add a maximum of 5 Custom apps to the Multi-vendor app.
 

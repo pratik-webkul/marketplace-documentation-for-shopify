@@ -5,6 +5,8 @@ date: 2025-07-25
 author: Chirag Tyagi
 ---
 
+# User Guide for Customer Order Management
+
 You might be using the [Multi-vendor Marketplace app](/zenith/introduction/overview.html) on your Shopify store. Till now, your customers had no option to manage orders on their own once they purchase any seller's products. Keeping this in mind, we have integrated the [Customer Order Management App](https://webkul.com/blog/shopify-customer-order-management/) in the Multi-vendor Marketplace App.
 
 Now, you can allow sellers to let their customer's manage orders. Sellers, on the other hand, update the order status from their respective seller panels.
@@ -169,5 +171,5 @@ Demo
 
 Check the Multi-vendor Marketplace App Demo:-
 
-[https://multivendor-marketplace-5.myshopify.com](https://multivendor-marketplace-5.myshopify.com)
+[https://egsma.io/shopify-multivendor-marketplace/](https://egsma.io/shopify-multivendor-marketplace/)
 

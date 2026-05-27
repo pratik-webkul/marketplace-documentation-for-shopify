@@ -5,6 +5,9 @@ date: 2025-07-29
 author: Chirag Tyagi
 ---
 
+# User Guide for Music Marketplace
+
+
 Music Marketplace
 --------------
 In today’s digital era, music is no longer limited to physical CDs or streaming platforms. A **digital music marketplace** allows users to buy, sell, and download music files such as songs, vocals, beats, and audio tracks instantly.

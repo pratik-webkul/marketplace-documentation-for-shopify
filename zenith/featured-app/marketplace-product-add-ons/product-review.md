@@ -4,6 +4,8 @@ description: PRODUCT REVIEW
 author: Chirag Tyagi
 ---
 
+# User Guide for Product Review
+
 Do you want your customers to rate & review your marketplace products?  
 If yes, then we are here with another add-on for the [MultiVendor Marketplace App](/zenith/introduction/) for Shopify called **Product Review**!
 
@@ -52,7 +54,7 @@ For **'product-card-grid.liquid**' template to show ratings on collection page:
 ```liquid
     {% include "mvm-product-collection-review" %}
 ```
-If you are having trouble while updating the codes, let us know by emailing at **shopify@webkul.com** or creating a ticket for the same at [**Webkul UV Desk**](https://webkul.uvdesk.com/). We’ll do it for you!
+If you are having trouble while updating the codes, let us know by emailing at **shopify@webkul.com** or creating a ticket for the same at [**Webkul UV Desk**](https://webkul.uvdesk.com/en/customer/create-ticket/). We’ll do it for you!
 
  Configuration: Admin Panel
 ----------------

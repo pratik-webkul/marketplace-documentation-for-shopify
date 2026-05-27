@@ -5,6 +5,9 @@ date: 2025-06-27
 author: Chirag Tyagi
 ---
 
+# User Guide for Paypal
+
+
 
 Want to auto-pay your Sellers once they mark the order as delivered/fulfilled?  
 For this, configure **PayPal Payout Payment** in your [Multivendor Marketplace for Shopify](/zenith/introduction/).

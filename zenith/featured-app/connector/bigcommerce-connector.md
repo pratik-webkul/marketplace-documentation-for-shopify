@@ -4,6 +4,9 @@ description: BIGCOMMERCE CONNECTOR
 date: 2025-07-25
 author: Chirag Tyagi
 ---
+
+# User Guide for Bigcommerce Connector
+
 [BigCommerce](https://www.bigcommerce.com/), an eCommerce platform that provides software as a service to retailers is now integrated with the Multi-vendor Marketplace app for Shopify.
 
 This integration will help the marketplace sellers to connect their BigCommerce stores with the admin’s Shopify store.
@@ -180,6 +183,6 @@ that he wants to sync with the Barcode field in Admin Shopify by navigating to S
 Demo Details
 ------------
 
-Follow the below link to use the demo of Multi-vendor Marketplace app: [https://multivendor-marketplace-5.myshopify.com/](https://multivendor-marketplace-5.myshopify.com/)
+Follow the below link to use the demo of Multi-vendor Marketplace app: [https://egsma.io/shopify-multivendor-marketplace/](https://egsma.io/shopify-multivendor-marketplace/)
 
 Thanks for reading !!

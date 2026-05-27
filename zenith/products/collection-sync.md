@@ -5,6 +5,9 @@ date: 2025-07-02
 author: Chirag Tyagi
 ---
 
+# User Guide for Collection Sync
+
+
 By this time, you might have started using the  [Multivendor Marketplace App for Shopify](/zenith/introduction/) and you would want to have your Collections from the Shopify Store to be synced to the App.
 
 This manual will help you understand how you can create Collections in the App.
@@ -54,5 +57,5 @@ The seller can view the smart collection either as shown in the above screenshot
 
 ### Shopify Multivendor Marketplace Demo
 
-Check out: [https://multivendor-marketplace-5.myshopify.com/](https://multivendor-marketplace-5.myshopify.com/)
+Check out: [https://egsma.io/shopify-multivendor-marketplace/](https://egsma.io/shopify-multivendor-marketplace/)
 

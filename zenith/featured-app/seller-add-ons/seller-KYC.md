@@ -4,6 +4,7 @@ description: Seller KYC
 author: Chirag Tyagi
 ---
 
+# User Guide for Seller Kyc
 
 In today’s digital marketplace, trust and compliance are essential.
 

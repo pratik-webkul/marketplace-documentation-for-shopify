@@ -4,6 +4,9 @@ description: SBEEDY SHIPPING
 date: 2025-07-18
 author: Chirag Tyagi
 ---
+
+# User Guide for Sbeedy Shipping
+
 [Multi-Vendor Marketplace for Shopify](https://store.webkul.com/Shopify-Multi-Vendor-Marketplace.html) is here with another marketplace feature add-on, i.e., **Sbeedy.**
 
 This is now integrated with the [Multi-vendor Marketplace App](/zenith/introduction/) for Shopify to let sellers fulfill their orders via the Sbeedy shipment service.

@@ -5,6 +5,9 @@ date: 2025-10-08
 author: Chirag Tyagi
 ---
 
+# User Guide for Google OAuth Smtp
+
+
 In this guide, we have explained the step by step directions to setup **Google OAuth SMTP Configuration** in [Multivendor Marketplace App For shopify](/zenith/introduction/) .
 
 This feature allows you to set up your own SMTP to send emails directly from your mail server, giving you full control over the communication process with your customers.

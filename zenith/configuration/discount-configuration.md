@@ -5,6 +5,9 @@ date: 2025-09-10
 author: Chirag Tyagi
 ---
 
+# User Guide for Discount Configuration
+
+
 Discount
 --------------------
 The Webkul Multivendor app now makes it easier for admins to empower sellers with discount management.

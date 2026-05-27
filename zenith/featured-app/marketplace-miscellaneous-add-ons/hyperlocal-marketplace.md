@@ -5,6 +5,8 @@ date: 2025-07-25
 author: Chirag Tyagi
 ---
 
+# User Guide for Hyperlocal Marketplace
+
 [Multi-Vendor Marketplace for Shopify](/zenith/introduction/overview.html) is here with another feature app called **Hyperlocal Marketplace.**
 
 Defining Hyperlocal Marketplace:
@@ -146,7 +148,7 @@ _You can also check out the following documentation: [Instructions for Hyperloca
 
 [![HYPERLOCAL MARKETPLACE](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/codepastinghyper.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/codepastinghyper.webp)
 
-_If you are having trouble while updating the codes, let us know by emailing at_ **_shopify@webkul.com_** _or creating a ticket for the same at_ [_**Webkul UV Desk**_](https://webkul.uvdesk.com/)_. We'll do it for you!_
+_If you are having trouble while updating the codes, let us know by emailing at_ **_shopify@webkul.com_** _or creating a ticket for the same at_ [_**Webkul UV Desk**_](https://webkul.uvdesk.com/en/customer/create-ticket/)_. We'll do it for you!_
 
  Vendor Location
 -------------

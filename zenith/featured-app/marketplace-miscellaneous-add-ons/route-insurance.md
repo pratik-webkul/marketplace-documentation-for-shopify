@@ -5,6 +5,7 @@ date: 2025-07-25
 author: Chirag Tyagi
 ---
 
+# User Guide for Route Insurance
 
 **[Route](https://route.com/)**:- An android/iOS app that allows to virtually track the orders i.e. packages to be delivered. It enables package protection and one-click refunds and reorders.
 
@@ -108,5 +109,5 @@ This is how the Route Insurance Feature App works.
 Demo Details
 ------------
 
-You can check the demo of the Multivendor Marketplace App for Shopify: [https://multivendor-marketplace-5.myshopify.com/pages/seller-profile](https://multivendor-marketplace-5.myshopify.com/pages/seller-profile)
+You can check the demo of the Multivendor Marketplace App for Shopify: [https://egsma.io/shopify-multivendor-marketplace/pages/seller-profile](https://egsma.io/shopify-multivendor-marketplace/pages/seller-profile)
 

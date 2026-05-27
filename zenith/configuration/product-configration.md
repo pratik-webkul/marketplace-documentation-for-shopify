@@ -5,6 +5,9 @@ date: 2025-06-25
 author: Chirag Tyagi
 ---
 
+# User Guide for Multivendor Marketplace Product Configuration
+
+
 In this section of the blog, you’ll find everything related to product configurations. Manage all your product settings seamlessly from this dedicated menu section
 
 Here, you can provide an option to add/edit/delete the products to your sellers, you can enable the option to auto-approve your products, auto-enable the added products and much more.

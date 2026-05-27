@@ -5,6 +5,7 @@ date: 2025-08-04
 author: Chirag Tyagi
 ---
 
+# User Guide for Slot Pricing
 
 Isn’t it a great idea to **set different product prices for different customers** on your eCommerce store?
 

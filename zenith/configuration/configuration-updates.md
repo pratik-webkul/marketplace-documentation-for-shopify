@@ -5,7 +5,43 @@ date: 2025-09-10
 author: Chirag Tyagi
 ---
 
+# User Guide for Multivendor Marketplace configuration Updates
+
+
 We keep on updating the [Multivendor Marketplace app for Shopify](https://store.webkul.com/Shopify-Multi-Vendor-Marketplace.html) to make it even more desirable. Bookmark this blog to check the configuration updates for the app!
+
+Product Status Management from Edit Product Page
+-----------------
+We’re pleased to introduce a new enhancement that allows sellers to manage the product status directly from the **Edit Product Page**.
+
+> **Note:** This functionality will work only if the **“Allow Seller to Disable Product”** configuration is enabled.
+
+![Allow Seller to Disable Product Configuration](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/05/config-1.webp)
+
+With this update, users can now conveniently update the product status directly from the **Edit Product Page**, improving usability and saving time.
+
+![Product Status Option on Edit Product Page](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/05/disable.webp)
+
+Enable Manual Searching of Collections on Add/Edit Product Page (Vendor Panel)
+-------------------------
+To improve usability while assigning collections to a product, a manual search option has been introduced in the **Collections** section on the **Add/Edit Product** page.
+
+![Manual Collection Search](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/05/collectionsearch.webp)
+
+### Steps to Use
+
+1. Go to **Seller Panel / Admin Panel → Add Product or Edit Product**
+2. Navigate to the **Collections** section
+3. Enter the desired keyword in the **Search** field
+4. The system will display matching collections based on the entered keyword
+5. Select the required collection(s) from the filtered results
+6. Save the product
+
+### Benefits
+
+- Helps in quickly locating collections, especially when there are a large number of collections available
+- Search results are dynamically filtered based on the entered keyword
+- Reduces manual scrolling and improves overall efficiency
 
 Auto Fulfillment Reminder For Seller
 --------------------------

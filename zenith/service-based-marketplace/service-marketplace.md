@@ -4,6 +4,9 @@ description: Service-Based Marketplace
 author: Chirag Tyagi
 ---
 
+# User Guide for Service-based Marketplace
+
+
 Service-Based Marketplace
 ----------------------
 A **Service-Based Marketplace** is a platform where sellers offer services instead of physical products. Customers can book these services for a specific date and time directly from the marketplace.

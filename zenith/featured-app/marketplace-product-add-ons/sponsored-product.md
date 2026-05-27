@@ -5,6 +5,8 @@ date: 2025-08-07
 author: Chirag Tyagi
 ---
 
+# User Guide for Sponsored Product
+
 Now promote your seller products on your Shopify store using the **Sponsored Product feature app** in the [Multivendor Marketplace App](/zenith/introduction/)
 
 Purpose

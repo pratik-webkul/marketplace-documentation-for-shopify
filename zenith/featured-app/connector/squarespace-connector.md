@@ -4,6 +4,8 @@ description: Squarespace connector
 author: Chirag Tyagi
 ---
 
+# User Guide for Squarespace Connector
+
 The **[Multi-vendor Marketplace](/zenith/introduction/)** app for Shopify has come up with yet another connector add-on namely **Squarespace Connector**.
 
 The sellers who sell products on [Squarespace](https://www.squarespace.com/ecommerce-website) can effortlessly import their products into the Multi-vendor seller panel.
@@ -143,6 +145,6 @@ So, that's all about the Squarespace Connector feature app.
 
 ### Demo **Details**
 
-Follow the below link to use the demo of the Multi-vendor Marketplace app: [https://multivendor-marketplace-5.myshopify.com/](https://multivendor-marketplace-5.myshopify.com/)
+Follow the below link to use the demo of the Multi-vendor Marketplace app: [https://egsma.io/shopify-multivendor-marketplace/](https://egsma.io/shopify-multivendor-marketplace/)
 
 Thanks for reading !!

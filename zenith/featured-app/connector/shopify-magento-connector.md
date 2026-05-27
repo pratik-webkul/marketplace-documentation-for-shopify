@@ -4,6 +4,9 @@ description: SHOPIFY MAGENTO CONNECTOR
 date: 2025-07-20
 author: Chirag Tyagi
 ---
+
+# User Guide for Shopify Magento Connector
+
 We have now introduced the most awaited feature app i.e. **Shopify-Magento Connector** in [Multivendor Marketplace](/zenith/introduction/) app for Shopify.
 
 The feature app is available for Magento 2.

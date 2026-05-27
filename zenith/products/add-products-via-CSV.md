@@ -4,6 +4,9 @@ description: Add products via CSV
 author: Chirag Tyagi
 ---
 
+# User Guide for Add Products Via Csv
+
+
 
 [Multi-vendor Marketplace app for Shopify](https://store.webkul.com/Shopify-Multi-Vendor-Marketplace.html) provides an ultimate solution for the e-Commerce merchants to convert their stores into fully-fledged marketplaces.
 

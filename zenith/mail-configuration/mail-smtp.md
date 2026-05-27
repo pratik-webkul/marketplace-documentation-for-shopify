@@ -5,6 +5,9 @@ date: 2025-10-08
 author: Chirag Tyagi
 ---
 
+# User Guide for Mail Smtp
+
+
 
 In this guide, we will explain how to configure mail using the Multi-vendor Marketplace App for Shopify: Mail Settings
 
@@ -146,5 +149,5 @@ TLS is the upgraded version of SSL as it uses stronger encryption algorithms as 
 DEMO
 ----
 
-[https://multivendor-marketplace-5.myshopify.com](https://multivendor-marketplace-5.myshopify.com)
+[https://egsma.io/shopify-multivendor-marketplace/](https://egsma.io/shopify-multivendor-marketplace/)
 

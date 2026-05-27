@@ -4,6 +4,8 @@ description: PREORDER INTEGRATION
 author: Chirag Tyagi
 ---
 
+# User Guide for Preorder Integration
+
 [PreOrder](https://webkul.com/blog/preorder-strategy-2020-rev-up-your-shopify-store-sales/) is a great approach to determine the product in high demand. You can allow pre-order on your marketplace products and earn even before the product release.
 
 The [Multi-vendor Marketplace app](/zenith/introduction/) for Shopify is now integrated with the Pre-order Controller App.

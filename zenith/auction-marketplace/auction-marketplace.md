@@ -5,6 +5,9 @@ date: 2025-08-04
 author: Chirag Tyagi
 ---
 
+# User Guide for Auction Marketplace
+
+
 The standard method of buying and selling is, a buyer visits a store, search for his desired product, look for the price tag & pays to the seller.
 
 In some cases, the buyer can also go for negotiation which is completely optional. But this is where the idea of the auction is triggered.

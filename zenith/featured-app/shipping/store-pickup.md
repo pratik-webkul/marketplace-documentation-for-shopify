@@ -4,6 +4,9 @@ description: STORE PICKUP
 date: 2025-07-18
 author: Chirag Tyagi
 ---
+
+# User Guide for Store Pickup
+
 If you are running an online store, isn't it a great idea to provide a streamlined pick up process to your customers so that they can pick up their orders on their own and avoid shipping rates.
 
 Also, the Store Owner will steer clear of trouble in managing Returns & Exchanges.

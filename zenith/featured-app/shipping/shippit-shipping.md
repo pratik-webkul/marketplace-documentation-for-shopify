@@ -4,6 +4,9 @@ description: SHIPPIT SHIPPING
 date: 2025-07-18
 author: Chirag Tyagi
 ---
+
+# User Guide for Shippit Shipping
+
 [Multi-Vendor Marketplace for Shopify](/zenith/introduction/) is now Integrated with another shipping add-on: **Shippit**
 
 What is Shippit Shipping?

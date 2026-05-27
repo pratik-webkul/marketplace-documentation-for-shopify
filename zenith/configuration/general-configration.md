@@ -5,6 +5,9 @@ date: 2025-06-25
 author: Chirag Tyagi
 ---
 
+# User Guide for Multivendor Marketplace General Configuration
+
+
 In this section of the blog, you’ll find everything related to the admin account. This includes all the essential settings and information specific to the admin’s configuration and control.
 
 From here, the admin can enter the business email, set the currency for the shop, choose the weight unit for products, and much more.
