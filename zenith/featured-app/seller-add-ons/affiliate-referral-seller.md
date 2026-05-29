@@ -115,3 +115,7 @@ From there, they can go to **Payment > Seller Payment** to see the payment detai
 By clicking the "View" button, you can easily access and manage the payment details of a specific seller.
 
 Afterward, you can select the enabled payment method to process the payment to the seller. Additionally, you also have the option to export the transaction details for record-keeping.
+### SCHEDULE DEMO
+
+[Click here to Schedule the demo of Multivendor marketplace App for Shopify ](https://egsma.io/shopify-multivendor-marketplace/)
+

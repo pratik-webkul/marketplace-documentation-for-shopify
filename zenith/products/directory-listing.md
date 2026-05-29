@@ -79,3 +79,7 @@ The product will have a **directory listing button** instead of a normal **Add t
 Example: For the product below, we have added the Webkul Blog link to the Buy Now button. [Try it yourself!](https://multivendor-marketplace-4.myshopify.com/products/bright-red-purse-with-gold-detailing)
 
 [![collage-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/02/collage-1.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/02/collage-1.png)
+### SCHEDULE DEMO
+
+[Click here to Schedule the demo of Multivendor marketplace App for Shopify ](https://egsma.io/shopify-multivendor-marketplace/)
+

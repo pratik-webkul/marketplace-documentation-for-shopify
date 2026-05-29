@@ -75,3 +75,7 @@ Even, the admin ans seller can see the klaviyo seller profile ID in the seller d
 
 [![screenshot_1691062134881](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/emailmarketingfive.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/emailmarketingfive.webp)
 
+### SCHEDULE DEMO
+
+[Click here to Schedule the demo of Multivendor marketplace App for Shopify ](https://egsma.io/shopify-multivendor-marketplace/)
+

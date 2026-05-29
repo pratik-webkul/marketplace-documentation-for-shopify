@@ -19,7 +19,17 @@ By default, Admin receives the complete amount of the order paid by the buyer/cu
 
 Click here to watch the video ⬇️ 
 
-[![Watch the video]](https://www.youtube.com/watch?v=Jk6C7CpX_I8)
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; border-radius: 12px;">
+  <iframe
+    src="https://www.youtube.com/embed/Jk6C7CpX_I8"
+    title="YouTube video player"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+    allowfullscreen
+    style="position: absolute; top:0; left:0; width:100%; height:100%; border-radius:12px;"
+  >
+  </iframe>
+</div>
 
 Admin can pay sellers/vendors by five payment methods in the multivendor app, in which three payment methods are online and two payment methods are offline.
 
@@ -326,3 +336,8 @@ Once the admin clicks on this button, the system displays the old pending paymen
 
 [![Seller payments](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/02/sc4.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/02/sc4.webp)
 
+
+
+### SCHEDULE DEMO
+
+[Click here to Schedule the demo of Multivendor marketplace App for Shopify ](https://egsma.io/shopify-multivendor-marketplace/)

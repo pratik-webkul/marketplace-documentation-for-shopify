@@ -4,7 +4,7 @@ description: Shopify Custom Apps
 author: Chirag Tyagi
 ---
 
-# User Guide for Shopify Custom Apps
+# User Guide for  Custom Apps
 
 
 
@@ -14,7 +14,7 @@ You can create Shopify Custom Apps and configure them in the app to resolve the 
 
 ### Why would you as a Merchant Need this
 
-The [Shopify API](https://webkul.com/blog/product-auction-api-documentation-for-shopify/) call limit only allows for two requests per second. So, we get 2 API calls per second from the Shopify end. Sometimes, this API gets exhausted when you deal with larger data.
+The Shopify API call limit only allows for two requests per second. So, we get 2 API calls per second from the Shopify end. Sometimes, this API gets exhausted when you deal with larger data.
 
 Suppose, in case you sync products in bulk, there might be some possibilities that the API gets exhausted, and the complete data won’t get synced properly.
 
@@ -189,3 +189,7 @@ Go to Multivendor Admin Panel>> Configuration>>Shopify private apps>> Click on "
 **Please Remember** :- In case you want to delete the Custom app on Shopify, firstly you need to delete/disable the same in the app.
 
 Otherwise, the access token will get expired and no API call gets hit from the Multi-vendor app.
+### SCHEDULE DEMO
+
+[Click here to Schedule the demo of Multivendor marketplace App for Shopify ](https://egsma.io/shopify-multivendor-marketplace/)
+

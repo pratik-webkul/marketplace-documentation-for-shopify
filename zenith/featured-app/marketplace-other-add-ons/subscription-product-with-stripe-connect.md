@@ -88,3 +88,7 @@ Once you add the code it will like the below image on your front end.
 
 This was all about the **Subscription Product** Add-on for the **Multivendor Marketplace** for **Shopify**.
 
+### SCHEDULE DEMO
+
+[Click here to Schedule the demo of Multivendor marketplace App for Shopify ](https://egsma.io/shopify-multivendor-marketplace/)
+

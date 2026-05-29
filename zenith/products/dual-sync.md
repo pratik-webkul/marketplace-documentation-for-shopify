@@ -17,7 +17,17 @@ We are here with this much awaited feature in our [Multivendor Marketplace App](
 
 You can go through the **Video Guide** to understand how Dual Sync Process works in Multivendor app on your Shopify Store.
 
-[![Video Guide for Dual Sync]](https://youtu.be/IztOiMwYHkA?si=Dm9s1Qo1XS2VCO43)
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; border-radius: 12px;">
+  <iframe
+    src="https://www.youtube.com/embed/IztOiMwYHkA"
+    title="YouTube video player"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+    allowfullscreen
+    style="position: absolute; top:0; left:0; width:100%; height:100%; border-radius:12px;"
+  >
+  </iframe>
+</div>
 
 With the help of this feature, Admin can edit the product details from the Shopify end and the updated changes reflect automatically on the Marketplace.
 
@@ -49,3 +59,7 @@ Then the updated changes will reflect automatically on the Multi-vendor Marketpl
 When you'll update the data from shopify then wait for some time to see the updated changes in Multivendor app.
 
 Because the products are added to the queue in the backend for processing.
+### SCHEDULE DEMO
+
+[Click here to Schedule the demo of Multivendor marketplace App for Shopify ](https://egsma.io/shopify-multivendor-marketplace/)
+

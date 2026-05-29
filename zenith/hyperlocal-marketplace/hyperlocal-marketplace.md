@@ -88,3 +88,7 @@ The documentation explains the complete setup process, feature usage, and best p
 ## Conclusion
 
 A hyperlocal marketplace empowers multivendor platforms to deliver faster, location-based shopping experiences while supporting local sellers and reducing operational complexity. By implementing hyperlocal functionality, marketplace owners can build scalable, efficient, and customer-focused marketplaces tailored to modern eCommerce demands.
+### SCHEDULE DEMO
+
+[Click here to Schedule the demo of Multivendor marketplace App for Shopify ](https://egsma.io/shopify-multivendor-marketplace/)
+

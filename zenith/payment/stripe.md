@@ -340,3 +340,7 @@ Admin end > Payment > Seller Payments:
 [![spp67](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/stripethirteen.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/stripethirteen.webp)
 
  
+### SCHEDULE DEMO
+
+[Click here to Schedule the demo of Multivendor marketplace App for Shopify ](https://egsma.io/shopify-multivendor-marketplace/)
+

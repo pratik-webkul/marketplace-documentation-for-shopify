@@ -179,3 +179,7 @@ Now, If the seller wants to download the Shipping label then click on Actions > 
 Additionally, It is the same for the print Manifest, click on Actions > Print Manifest:
 
 [![Manifest report](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/12/jkl-3.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/12/jkl-3.webp)
+### SCHEDULE DEMO
+
+[Click here to Schedule the demo of Multivendor marketplace App for Shopify ](https://egsma.io/shopify-multivendor-marketplace/)
+

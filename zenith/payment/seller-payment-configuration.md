@@ -221,3 +221,8 @@ Admin Panel >> Configuration >> Seller Configuration >> Enable “ALLOW SELLER T
 We hope this guide helped you understand the complete flow of seller payment configuration in the Shopify Multivendor Marketplace App by Webkul.
 
 [Explore the app](/zenith/introduction/)
+
+
+### SCHEDULE DEMO
+
+[Click here to Schedule the demo of Multivendor marketplace App for Shopify ](https://egsma.io/shopify-multivendor-marketplace/)

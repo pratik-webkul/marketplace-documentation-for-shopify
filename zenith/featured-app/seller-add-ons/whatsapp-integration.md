@@ -183,3 +183,7 @@ You can find that under **Mail configuration >> WhatsApp Log**
 You can find all the logs in this page.
 
 [![Whatsapp logs page](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/whatsapp7.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/whatsapp7.webp)
+### SCHEDULE DEMO
+
+[Click here to Schedule the demo of Multivendor marketplace App for Shopify ](https://egsma.io/shopify-multivendor-marketplace/)
+

@@ -140,3 +140,7 @@ Configure the following details:
 
 *   The number of messages will depend on the plan selected by you on your SMS Gateway account.
 *   Monthly payment to your SMS Gateway providers on the basis of their plan chosen by you will be separate. That is, it will be over and above the marketplace plan + SMS Alert feature app's monthly charges.
+### SCHEDULE DEMO
+
+[Click here to Schedule the demo of Multivendor marketplace App for Shopify ](https://egsma.io/shopify-multivendor-marketplace/)
+

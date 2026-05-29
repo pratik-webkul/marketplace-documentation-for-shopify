@@ -172,6 +172,6 @@ Then, in this case, The Admin can enable this tab, to restrict Seller to fulfill
 
 This was all about the Order Fulfillment in MultiVendor Marketplace App.
 
-### Demo Details
+### SCHEDULE DEMO
 
-Check out: [https://egsma.io/shopify-multivendor-marketplace/pages/demo](https://egsma.io/shopify-multivendor-marketplace/pages/seller-profile)
+[Click here to Schedule the demo of Multivendor marketplace App for Shopify ](https://egsma.io/shopify-multivendor-marketplace/)

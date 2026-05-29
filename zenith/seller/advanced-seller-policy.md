@@ -82,3 +82,7 @@ If the admin wishes to customize the specific content and fields for the advance
 The final saved values will be visible on the seller’s public profile:
 
 [![View Screenshot](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/asp10.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/asp10.webp)
+### SCHEDULE DEMO
+
+[Click here to Schedule the demo of Multivendor marketplace App for Shopify ](https://egsma.io/shopify-multivendor-marketplace/)
+

@@ -613,3 +613,7 @@ To access the product activity logs, follow the steps below:
 3. Click on **Activity Logs**
 
 [![Product Activity Logs](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/listing.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/listing.webp)
+### SCHEDULE DEMO
+
+[Click here to Schedule the demo of Multivendor marketplace App for Shopify ](https://egsma.io/shopify-multivendor-marketplace/)
+

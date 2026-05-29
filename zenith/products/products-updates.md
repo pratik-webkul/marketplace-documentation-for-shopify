@@ -409,3 +409,7 @@ Both the filter and search functionalities also work independently.
 [![search by](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/10/searchby.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/10/searchby.webp)
 
 However, admins and sellers can conveniently search using the “Search by” option.
+### SCHEDULE DEMO
+
+[Click here to Schedule the demo of Multivendor marketplace App for Shopify ](https://egsma.io/shopify-multivendor-marketplace/)
+

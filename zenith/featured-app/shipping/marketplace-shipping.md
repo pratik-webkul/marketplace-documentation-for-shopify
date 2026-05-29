@@ -834,3 +834,7 @@ Now, scroll down and click the **Edit** button to configure Shipping Label:
 **You can refer to** below link to check the demo of the **Shipping Calculator Feature:-**
 
 [https://multivendor-shipping-calculator.myshopify.com/pages/demo-details](https://multivendor-shipping-calculator.myshopify.com/pages/demo-details)
+### SCHEDULE DEMO
+
+[Click here to Schedule the demo of Multivendor marketplace App for Shopify ](https://egsma.io/shopify-multivendor-marketplace/)
+

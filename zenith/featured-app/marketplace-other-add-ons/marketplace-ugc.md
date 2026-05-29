@@ -154,3 +154,7 @@ UGC will also be displayed on the seller’s collection page.
 
 
 This feature enhances your marketplace by leveraging **authentic user-generated content**, helping improve **customer trust, engagement, and overall sales performance**.
+### SCHEDULE DEMO
+
+[Click here to Schedule the demo of Multivendor marketplace App for Shopify ](https://egsma.io/shopify-multivendor-marketplace/)
+

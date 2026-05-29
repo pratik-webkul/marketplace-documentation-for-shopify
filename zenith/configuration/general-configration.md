@@ -194,3 +194,7 @@ This makes it easier for admins and sellers from different regions to use the ap
 
 **Note** : **This feature is not compatible with the Weglot Translation featured app. If Weglot is enabled, this feature will not function as expected.**
 
+### SCHEDULE DEMO
+
+[Click here to Schedule the demo of Multivendor marketplace App for Shopify ](https://egsma.io/shopify-multivendor-marketplace/)
+

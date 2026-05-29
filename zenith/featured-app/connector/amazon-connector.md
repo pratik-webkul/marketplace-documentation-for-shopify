@@ -177,3 +177,7 @@ In the price rule menu, the seller can create a price rule to manage the price o
     Enter the amount of how much the sellers want to increase or decrease the price.
 
 [![screenshot_1697042967585](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/10/screenshot_1697042967585-1200x586.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/10/screenshot_1697042967585-1200x586.png)
+### SCHEDULE DEMO
+
+[Click here to Schedule the demo of Multivendor marketplace App for Shopify ](https://egsma.io/shopify-multivendor-marketplace/)
+

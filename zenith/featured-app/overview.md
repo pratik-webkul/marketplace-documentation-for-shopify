@@ -179,7 +179,7 @@ Moreover, you need to enable the **[Shipping](/zenith/featured-app/shipping/mar
 
 Also, Access to Shipping requires your Shopify store to be on the plan that supports [**Real-Time Carrier-Calculated Shipping**.](https://help.shopify.com/en/manual/shipping/setting-up-and-managing-your-shipping/enabling-shipping-carriers)
 
-The Swiss post Shipping feature is compatible with the **[Partial Fulfillment](https://webkul.com/blog/shopify-multivendor-marketplace-partial-fulfillment/)** feature.
+The Swiss post Shipping feature is compatible with the **[Partial Fulfillment](/zenith/order/partial-fulfillment)** feature.
 
 SWISS POST FEATURE APP IS AVAILABLE **ONLY FOR FULFILLMENT**.
 
@@ -1443,3 +1443,7 @@ This feature app comes with the pricing of **$7 USD/month** in addition to you
 To know more about this feature app, do refer to the [**user guide.**](/zenith/featured-app/marketplace-miscellaneous-add-ons/route-insurance)
 
 In case of any query regarding any of the feature apps, email at support@webkul.com
+### SCHEDULE DEMO
+
+[Click here to Schedule the demo of Multivendor marketplace App for Shopify ](https://egsma.io/shopify-multivendor-marketplace/)
+

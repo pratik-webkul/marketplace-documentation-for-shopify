@@ -343,3 +343,7 @@ After syncing, the admin can view seller data by navigating to:
 **Shopify dashboard>>Content>>Metaobject>>Seller**
 
 [![Seller data](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/11/sellerdata2-1200x569.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/11/sellerdata2-1200x569.webp)
+### SCHEDULE DEMO
+
+[Click here to Schedule the demo of Multivendor marketplace App for Shopify ](https://egsma.io/shopify-multivendor-marketplace/)
+

@@ -46,7 +46,6 @@ Now the admin collects the product, to notify the seller he clicks the collectin
 
 NOTE:  In case, the seller is unable to collect the order in the mentioned time interval, then the order gets expired, then, in this case, the order gets refunded.
 
-### Multivendor Marketplace for Shopify | Order prepare status feature: Demo
+### SCHEDULE DEMO
 
-Check out: [https://egsma.io/shopify-multivendor-marketplace/](https://egsma.io/shopify-multivendor-marketplace/)
-
+[Click here to Schedule the demo of Multivendor marketplace App for Shopify ](https://egsma.io/shopify-multivendor-marketplace/)

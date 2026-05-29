@@ -97,3 +97,7 @@ But if an admin clicks on the reject tab it saves the data but will not create a
 
 **NOTE:** For the Existing sellers Zoho CRM leads will be created when they update from the my\_account section or the admin makes any update in their edit seller section.
 
+### SCHEDULE DEMO
+
+[Click here to Schedule the demo of Multivendor marketplace App for Shopify ](https://egsma.io/shopify-multivendor-marketplace/)
+

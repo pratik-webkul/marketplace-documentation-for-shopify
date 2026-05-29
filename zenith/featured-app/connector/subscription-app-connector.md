@@ -154,3 +154,7 @@ From their account page, customers can view all their active subscription produc
 If they want to see more details about a specific subscription, they can click on 'View' to access the full information.
 
 [![Product Subscription feature -view-order](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/04/subscription-view-order-1200x626.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/04/subscription-view-order-1200x626.webp)
+### SCHEDULE DEMO
+
+[Click here to Schedule the demo of Multivendor marketplace App for Shopify ](https://egsma.io/shopify-multivendor-marketplace/)
+

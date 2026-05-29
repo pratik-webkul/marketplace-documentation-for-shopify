@@ -479,3 +479,7 @@ DEMO
 
 Follow the below links to Check the demo of Slot Pricing Feature app: [https://multivendor-slot-pricing.myshopify.com/pages/multivendor-slot-pricing](https://multivendor-slot-pricing.myshopify.com/pages/multivendor-slot-pricing)
 
+### SCHEDULE DEMO
+
+[Click here to Schedule the demo of Multivendor marketplace App for Shopify ](https://egsma.io/shopify-multivendor-marketplace/)
+

@@ -162,3 +162,7 @@ Go to **Multi-vendor marketplace seller panel** > **Orders** > **Order List
 Furthermore, this is how the shipping label will be downloaded in pdf form:
 
 [![pdk](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/09/pdk.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/09/pdk.png)
+### SCHEDULE DEMO
+
+[Click here to Schedule the demo of Multivendor marketplace App for Shopify ](https://egsma.io/shopify-multivendor-marketplace/)
+

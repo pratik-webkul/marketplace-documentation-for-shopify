@@ -184,3 +184,7 @@ Furthermore, this is how the shipping label will be downloaded in pdf form:
 And now, this delhivery shipping label is editable from the admin panel >> order >> invoice configuration.
 
 [![Invoice-Template-Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/01/Invoice-Template-Admin-1153x1024.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/01/Invoice-Template-Admin-1153x1024.png)
+### SCHEDULE DEMO
+
+[Click here to Schedule the demo of Multivendor marketplace App for Shopify ](https://egsma.io/shopify-multivendor-marketplace/)
+

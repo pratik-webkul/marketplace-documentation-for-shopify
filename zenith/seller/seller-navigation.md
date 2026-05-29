@@ -53,7 +53,7 @@ At the same time, "Add Menu" button appears at the upper right corner of the pag
 
 Clicking on this button, You can add menu options. All You need to do is Enter the Menu Name, enter the page URL where sellers will be redirected and click on "Add Menu Option".
 
-Note:- Menu Page URL will be like this: **http://example.com**
+Note:- Menu Page URL will be like this: "http://example.com"
 
 [![Add Seller Navigation](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/10/snav4.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/10/snav4.webp)
 
@@ -84,7 +84,7 @@ This is how, admin can edit the existing menus & submenus of Seller Panel.
 
 This is the way, admin can manage the Menus & Submenus for Seller dashboard in the Multivendor App.
 
-### Demo
+### SCHEDULE DEMO
 
-[https://multivendor-marketplace-4.myshopify.com/](https://multivendor-marketplace-4.myshopify.com/)
+[Click here to Schedule the demo of Multivendor marketplace App for Shopify ](https://egsma.io/shopify-multivendor-marketplace/)
 

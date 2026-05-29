@@ -80,3 +80,7 @@ Below screenshot shows the "Vendor" field on Shopify end:-
 That's all you need to check before importing products.
 
 Now, proceed to import products and the "SooPOS" products auto-assigned to the sellers in the app.
+### SCHEDULE DEMO
+
+[Click here to Schedule the demo of Multivendor marketplace App for Shopify ](https://egsma.io/shopify-multivendor-marketplace/)
+

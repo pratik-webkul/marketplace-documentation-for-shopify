@@ -107,3 +107,7 @@ If you have suggestions to make something better, do let us know.
 In case of any issue or suggestion, create a ticket at [Webkul UV desk](https://webkul.uvdesk.com/en/).
 
 _⠀⠀⠀⠀⠀⠀⠀⠀_
+### SCHEDULE DEMO
+
+[Click here to Schedule the demo of Multivendor marketplace App for Shopify ](https://egsma.io/shopify-multivendor-marketplace/)
+

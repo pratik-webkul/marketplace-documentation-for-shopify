@@ -271,6 +271,6 @@ Now, when you use the 'schedule payout' feature, the system will trigger the sum
 
 This was all regarding the PayPal Payout Payment Method!
 
-### Demo Details
+### SCHEDULE DEMO
 
-Furthermore, check out: [https://paypal-payout.myshopify.com/pages/demo-details](https://paypal-payout.myshopify.com/pages/demo-details)
+[Click here to Schedule the demo of Multivendor marketplace App for Shopify ](https://egsma.io/shopify-multivendor-marketplace/)

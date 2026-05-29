@@ -288,3 +288,7 @@ If you want to change the message shown to customers:
 4.  Update the message as per your requirement and save
 
 [![custom message](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/04/dfasdfasdfasdfasf.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/04/dfasdfasdfasdfasf.webp)
+### SCHEDULE DEMO
+
+[Click here to Schedule the demo of Multivendor marketplace App for Shopify ](https://egsma.io/shopify-multivendor-marketplace/)
+

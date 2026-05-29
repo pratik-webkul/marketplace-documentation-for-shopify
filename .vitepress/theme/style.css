@@ -1,0 +1,39 @@
+#google_translate_element {
+  display: flex;
+  align-items: center;
+  margin-left: 12px;
+}
+
+.goog-te-gadget {
+  font-size: 0 !important;
+  color: transparent !important;
+}
+
+.goog-te-gadget .goog-te-combo {
+  background: #111827;
+  color: #ffffff;
+  border: 1px solid #374151;
+  border-radius: 8px;
+  padding: 6px 12px;
+  font-size: 14px !important;
+  cursor: pointer;
+  outline: none;
+  min-width: 160px;
+}
+
+.goog-te-gadget .goog-te-combo option {
+  color: black;
+}
+
+.goog-logo-link,
+.goog-te-gadget span {
+  display: none !important;
+}
+
+.goog-te-banner-frame.skiptranslate {
+  display: none !important;
+}
+
+body {
+  top: 0px !important;
+}

@@ -74,3 +74,7 @@ The C2C feature benefits multiple marketplace scenarios, including:
 A C2C marketplace expands the traditional multivendor model by enabling customers to sell products directly. With the **C2C configuration feature available in the Marketplace app**, you can quickly convert customers into sellers, diversify your product offerings, and boost overall engagement and revenue.
 
 For detailed setup and usage, refer to the configuration link above.
+### SCHEDULE DEMO
+
+[Click here to Schedule the demo of Multivendor marketplace App for Shopify ](https://egsma.io/shopify-multivendor-marketplace/)
+

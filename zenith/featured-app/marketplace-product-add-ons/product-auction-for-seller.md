@@ -210,3 +210,7 @@ Check out the live demo of the **Multi-vendor Marketplace: Product Auction Integ
 
 * * *
 
+### SCHEDULE DEMO
+
+[Click here to Schedule the demo of Multivendor marketplace App for Shopify ](https://egsma.io/shopify-multivendor-marketplace/)
+

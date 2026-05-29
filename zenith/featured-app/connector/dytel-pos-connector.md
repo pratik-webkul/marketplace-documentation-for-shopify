@@ -225,3 +225,7 @@ For that you have to click on Add DYTEL POS Products .
 [![add-products](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/dpc16-1.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/dpc16-1.webp)
 
 [![export-product](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/dpc17-1.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/dpc17-1.webp)
+### SCHEDULE DEMO
+
+[Click here to Schedule the demo of Multivendor marketplace App for Shopify ](https://egsma.io/shopify-multivendor-marketplace/)
+

@@ -620,3 +620,7 @@ Once this configuration is enabled, a **“View in Store”** option will appear
 ### Get the Demo Links
 
 Follow the below links and credentials to check the demo of the Global Product Feature app: [https://multivendor-global-product.myshopify.com/pages/demo](https://multivendor-global-product.myshopify.com/pages/demo)
+### SCHEDULE DEMO
+
+[Click here to Schedule the demo of Multivendor marketplace App for Shopify ](https://egsma.io/shopify-multivendor-marketplace/)
+

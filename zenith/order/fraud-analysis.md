@@ -70,3 +70,8 @@ Now if a seller tries to fulfill the order the alert popup on the screen 
 After Marked by the admin as safe the seller can fulfill the order.
 
 [![After mark safe by admin ](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/07/sellersideafter-1200x558.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/07/sellersideafter-1200x558.webp)
+
+
+### SCHEDULE DEMO
+
+[Click here to Schedule the demo of Multivendor marketplace App for Shopify ](https://egsma.io/shopify-multivendor-marketplace/)

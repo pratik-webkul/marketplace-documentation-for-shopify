@@ -174,3 +174,7 @@ Further, the seller can view the generated pickup request on the same page under
 
 [![image-51](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/05/image-51-1200x597.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/05/image-51-1200x597.png)
 
+### SCHEDULE DEMO
+
+[Click here to Schedule the demo of Multivendor marketplace App for Shopify ](https://egsma.io/shopify-multivendor-marketplace/)
+

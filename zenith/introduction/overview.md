@@ -20,9 +20,17 @@ Firstly, let's see how to install the Multivendor App on the Shopify Store.
 
  ### Video Guide: App Installation
 
-You can go through the **Video Guide** to understand how you can install the Multivendor app on your Shopify Store.
-
-[![Watch the video]](https://youtu.be/dqQ5sjM7Iqw?si=KtJf7reXqXplfLpb)
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; border-radius: 12px;">
+  <iframe
+    src="https://www.youtube.com/embed/dqQ5sjM7Iqw"
+    title="YouTube video player"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+    allowfullscreen
+    style="position: absolute; top:0; left:0; width:100%; height:100%; border-radius:12px;"
+  >
+  </iframe>
+</div>
 
 <!--### Import configurations from other Shopify store
 
@@ -188,7 +196,17 @@ All the information related to the Sellers can be managed from this menu. It has
 
 You can check the **Video Guide** to know how the admin can add sellers on the marketplace.
 
-[![Watch the video]](https://www.youtube.com/watch?v=vdvnhMSFX7s)
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; border-radius: 12px;">
+  <iframe
+    src="https://www.youtube.com/embed/vdvnhMSFX7s"
+    title="YouTube video player"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+    allowfullscreen
+    style="position: absolute; top:0; left:0; width:100%; height:100%; border-radius:12px;"
+  >
+  </iframe>
+</div>
 
 **Seller Listing**
 -------------------
@@ -260,10 +278,19 @@ Screenshot lists the submenu:
 
 ### Video Guide:Products
 
-
 Admin Adding Products Here is the **Video Guide** to know how the admin adds products on his end.
 
-[Click Here To Watch The Video](https://www.youtube.com/watch?v=ftMuliv-1tU)
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; border-radius: 12px;">
+  <iframe
+    src="https://www.youtube.com/embed/ftMuliv-1tU"
+    title="YouTube video player"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+    allowfullscreen
+    style="position: absolute; top:0; left:0; width:100%; height:100%; border-radius:12px;"
+  >
+  </iframe>
+</div>
 
 **Product Listing** 
 ---------------------
@@ -377,7 +404,17 @@ Admin can export order details in the CSV file from the Multi-vendor app.
 
 You can go through the **Video Guide** to know the complete order process on the admin side.
 
-[Click Here to watch the video](https://youtu.be/HZdiQWclnwA?si=FjmPsVJ-JuiQ50ik)
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; border-radius: 12px;">
+  <iframe
+    src="https://www.youtube.com/embed/HZdiQWclnwA"
+    title="YouTube video player"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+    allowfullscreen
+    style="position: absolute; top:0; left:0; width:100%; height:100%; border-radius:12px;"
+  >
+  </iframe>
+</div>
 
 **RMA Configuration**
 -----------------------
@@ -467,7 +504,17 @@ You can also refer to the user manual of the commission to know about commission
 
 Here is the **video guide** to know how to set commissions in a much better way. 
 
-[Click Here To Know More About Commission](https://youtu.be/5tk5tlFRprw?si=llGFhSCB3B6eXcvU)
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; border-radius: 12px;">
+  <iframe
+    src="https://www.youtube.com/embed/5tk5tlFRprw"
+    title="YouTube video player"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+    allowfullscreen
+    style="position: absolute; top:0; left:0; width:100%; height:100%; border-radius:12px;"
+  >
+  </iframe>
+</div>
 
 ### Payments
 

@@ -136,3 +136,7 @@ Combo Product: [https://pack-combo-demo.myshopify.com/collections/combo-product
 
 Pack Product: [https://pack-combo-demo.myshopify.com/collections/pack-product](https://pack-combo-demo.myshopify.com/collections/pack-product)
 
+### SCHEDULE DEMO
+
+[Click here to Schedule the demo of Multivendor marketplace App for Shopify ](https://egsma.io/shopify-multivendor-marketplace/)
+

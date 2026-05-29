@@ -111,3 +111,7 @@ Configuration >>Instruction for Marketplace >> Scroll down to get the codes for 
 In this way, the discount will be visible on the front.
 
 [![Front](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/11/front-1200x535.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/11/front-1200x535.webp)
+### SCHEDULE DEMO
+
+[Click here to Schedule the demo of Multivendor marketplace App for Shopify ](https://egsma.io/shopify-multivendor-marketplace/)
+

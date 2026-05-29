@@ -335,7 +335,7 @@ If you are having any trouble regarding the code-pasting or any other configurat
 
 Restrict Custom Field by Product Type
 --------------------------------
-You can now restrict custom fields for your marketplace products based on product type. This feature depends on [restrict product type](https://webkul.uvdesk.com/en/blog/shopify-multivendor-marketplace-restrict-product-type) feature.
+You can now restrict custom fields for your marketplace products based on product type. This feature depends on restrict product type feature.
 
 So, to enable this feature, visit **Marketplace Admin Panel** > **Configuration** > **Restriction Configuration** \> **Enable** the option shown in the image below:
 
@@ -395,15 +395,11 @@ Once enabled, sellers will be able to update the default values of their custom 
 
 *   Log in to the **Seller Panel**.
 *   Go to **Configuration >>** **Custom Fields**.
-*   Click on the **three-dot menu** next to a custom field.
-
-[![seller panel custom field ](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/07/sellerpanelcustomfield-edited.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/07/sellerpanelcustomfield-edited.webp)
-
 *   Select **"Edit Default Value"** to update the value.
 
-[![edit custom field default value ](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/07/editdefaultvalue-edited.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/07/editdefaultvalue-edited.webp)
+[![edit custom field default value ](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/05/1customfield.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/05/1customfield.webp)
 
-[![edit custom field ](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/07/editvalue-edited.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/07/editvalue-edited.webp)
+[![edit custom field ](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/05/2editvalue.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/05/2editvalue.webp)
 
 Now if you want to update multiple custom fields at once?
 
@@ -417,3 +413,8 @@ Now if you want to update multiple custom fields at once?
 
 Don't have a marketplace but want to build one?  
 Get the app: [Multi-Vendor Marketplace for Shopify](https://apps.shopify.com/multi-vendor-marketplace).
+
+
+### SCHEDULE DEMO
+
+[Click here to Schedule the demo of Multivendor marketplace App for Shopify ](https://egsma.io/shopify-multivendor-marketplace/)

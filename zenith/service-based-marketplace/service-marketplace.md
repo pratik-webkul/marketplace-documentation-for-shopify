@@ -82,3 +82,7 @@ Reference Documentation
 For detailed guidance on how to create and manage a **service-based marketplace** using the Booking Product featured app, refer to the official documentation below: [**Booking Product Documentation**](/zenith/featured-app/marketplace-product-add-ons/booking-product)
 
 ---
+### SCHEDULE DEMO
+
+[Click here to Schedule the demo of Multivendor marketplace App for Shopify ](https://egsma.io/shopify-multivendor-marketplace/)
+

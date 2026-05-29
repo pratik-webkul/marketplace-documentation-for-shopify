@@ -49,7 +49,17 @@ Now, as soon as the Seller Shopify Connector feature app is Active, the sellers 
 To use the features of the seller Shopify connector app, the seller needs to create a custom app for their Shopify store.
 
 Click here to watch the video ⬇️ 
-[![Watch Video to know the process of connecting the seller store]](https://youtu.be/njsZgLXqV_8)
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; border-radius: 12px;">
+  <iframe
+    src="https://www.youtube.com/embed/njsZgLXqV_8"
+    title="YouTube video player"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+    allowfullscreen
+    style="position: absolute; top:0; left:0; width:100%; height:100%; border-radius:12px;"
+  >
+  </iframe>
+</div>
 
 
 ### How to create a custom app?
@@ -765,3 +775,7 @@ That's all about this feature app.
 Furthermore, if you need any kind of support/Consultancy, then please raise a ticket at [https://webkul.uvdesk.com/en/customer/create-ticket/](https://webkul.uvdesk.com/en/customer/create-ticket/) or drop an email at **support@webkul.com**.
 
 Thanks for reading this blog!!!
+### SCHEDULE DEMO
+
+[Click here to Schedule the demo of Multivendor marketplace App for Shopify ](https://egsma.io/shopify-multivendor-marketplace/)
+

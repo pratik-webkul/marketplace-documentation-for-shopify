@@ -298,3 +298,7 @@ To edit product details, sellers need to follow these steps:
 6.  Click on "Save."
 
 That’s all about the Shopify eBay Connector Feature App, which allows admins to easily enable their sellers to connect their eBay stores with the admin’s Shopify store.
+### SCHEDULE DEMO
+
+[Click here to Schedule the demo of Multivendor marketplace App for Shopify ](https://egsma.io/shopify-multivendor-marketplace/)
+

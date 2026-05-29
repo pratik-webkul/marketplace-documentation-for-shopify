@@ -22,7 +22,17 @@ Percent + Fixed Commission: In this type of commission firstly a percent amount 
 
 Check the below video of Commission setup:
 
-So let's understand its workflow:-
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; border-radius: 12px;">
+  <iframe
+    src="https://www.youtube.com/embed/5tk5tlFRprw?si=EkcT-gRpr4QBBEXW" 
+    title="YouTube video player"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+    allowfullscreen
+    style="position: absolute; top:0; left:0; width:100%; height:100%; border-radius:12px;"
+  >
+  </iframe>
+</div>
 
 SETTING UP GLOBAL COMMISSION
 ----------------------------

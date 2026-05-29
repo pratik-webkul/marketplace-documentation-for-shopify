@@ -229,3 +229,7 @@ If you face any issues:
 
 - Email: **support@webkul.com**  
 - Or create a ticket at **Webkul UV Desk**
+### SCHEDULE DEMO
+
+[Click here to Schedule the demo of Multivendor marketplace App for Shopify ](https://egsma.io/shopify-multivendor-marketplace/)
+

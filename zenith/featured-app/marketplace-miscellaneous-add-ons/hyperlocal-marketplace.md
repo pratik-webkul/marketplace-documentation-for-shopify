@@ -350,3 +350,7 @@ As per our latest update, for [Multivendor API](https://webkul.com/blog/shopify-
 **location detail API** \- Get hyperlocal location details by location id .
 
 You can find this API detail in our [Multivendor API listing](https://mvmapi.webkul.com/)
+### SCHEDULE DEMO
+
+[Click here to Schedule the demo of Multivendor marketplace App for Shopify ](https://egsma.io/shopify-multivendor-marketplace/)
+

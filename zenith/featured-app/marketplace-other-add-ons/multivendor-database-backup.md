@@ -113,3 +113,7 @@ We do not charge for the first 2 hours of active instance but after the 2 hours,
 The admin created an instance and instance is in active status for 2 hours then the admin will not be charged for it.
 
 But in case the instance is in active state for more than 2 hours then you will be charged 5$ per hour.
+### SCHEDULE DEMO
+
+[Click here to Schedule the demo of Multivendor marketplace App for Shopify ](https://egsma.io/shopify-multivendor-marketplace/)
+

@@ -66,3 +66,7 @@ The admin adds an extra layer of security by enabling the Google Authentication 
 Once linked, a new login code is generated in the app for each login, helping protect access to sensitive backend operations.
 
 [![G](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/02/8verify.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/02/8verify.webp)
+### SCHEDULE DEMO
+
+[Click here to Schedule the demo of Multivendor marketplace App for Shopify ](https://egsma.io/shopify-multivendor-marketplace/)
+

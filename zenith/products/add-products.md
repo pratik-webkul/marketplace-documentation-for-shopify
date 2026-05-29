@@ -19,7 +19,17 @@ As soon as the sellers get registered to your marketplace, they will have separa
 
 Click here to watch the video ⬇️ 
 
-[![Watch the video]](https://www.youtube.com/watch?v=ftMuliv-1tU)
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; border-radius: 12px;">
+  <iframe
+    src="https://www.youtube.com/embed/ftMuliv-1tU"
+    title="YouTube video player"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+    allowfullscreen
+    style="position: absolute; top:0; left:0; width:100%; height:100%; border-radius:12px;"
+  >
+  </iframe>
+</div>
   
 
 You can also add products from your admin panel and assign products to any of your registered sellers.
@@ -38,7 +48,7 @@ Go to the Product Listing & get the option to **Add Products**. All the added pr
 *   Choose products that you want to sell i.e. **Normal** (Physical) or [Digital product](/zenith/products/digital-products.html).
 *   Enter seller **email** ID i.e. the seller to whom you want to assign the product.
 *   Write an appropriate **title** of the product.
-*   Enter product **type**, **description**, product **tags**, [policies](https://webkul.com/blog/multi-vendor-marketplace-for-shopify-product-policy/).
+*   Enter product **type**, **description**, product **tags**, [policies](/zenith/products/product-policy.html).
 *   Upload upto 10 images at a time for your product.
 *   You can easily replace the product name with the product ID in the **Product Title** and **Product Handle** from the **Product Configuration** section under the **Configuration** menu.
 
@@ -162,7 +172,18 @@ This way, you can edit the products
 
  Video Guide to Add Products within the App
 ----------------
-[![Watch the video](https://img.youtube.com/vi/FRBkcFDXHnc/0.jpg)](https://www.youtube.com/watch?v=FRBkcFDXHnc)
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; border-radius: 12px;">
+  <iframe
+    src="https://www.youtube.com/embed/FRBkcFDXHnc"
+    title="YouTube video player"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+    allowfullscreen
+    style="position: absolute; top:0; left:0; width:100%; height:100%; border-radius:12px;"
+  >
+  </iframe>
+</div>
 
 
 
@@ -184,9 +205,7 @@ Once enabled, you will get the option to add items via CSV in the Product Listin
 
 [![seller adding products](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/adp21.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/adp21.webp)
 
-**For more details, do follow this guide to understand to upload Products via CSV by avoiding certain mistakes:-**
-
-**[https://webkul.com/blog/multi-vendor-marketplace-for-shopify-guide-to-upload-products-via-csv/](https://webkul.com/blog/multi-vendor-marketplace-for-shopify-guide-to-upload-products-via-csv/)**
+[**For more details, do follow this guide to understand to upload Products via CSV by avoiding certain mistakes:-**](/zenith/products/add-products-via-CSV.html)
 
 [**Learn**](https://webkul.com/blog/use-of-csv-files-for-bulk-upload/) to make the use of CSV files for Bulk Upload
 
@@ -229,4 +248,19 @@ Proceed to the **Products** section and select the variant that you wish to add 
 
 ### Video Guide to Add Products via CSV
 
-[![Watch the video](https://img.youtube.com/vi/kzct74e3dL4/0.jpg)](https://www.youtube.com/watch?v=kzct74e3dL4)
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; border-radius: 12px;">
+  <iframe
+    src="https://www.youtube.com/embed/kzct74e3dL4"
+    title="YouTube video player"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+    allowfullscreen
+    style="position: absolute; top:0; left:0; width:100%; height:100%; border-radius:12px;"
+  >
+  </iframe>
+</div>
+
+### SCHEDULE DEMO
+
+[Click here to Schedule the demo of Multivendor marketplace App for Shopify ](https://egsma.io/shopify-multivendor-marketplace/)
+

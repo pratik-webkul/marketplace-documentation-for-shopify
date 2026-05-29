@@ -127,3 +127,7 @@ PWA for Sellers: Multivendor Marketplace for Shopify
 [![PWA](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/11/collage-7-.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/11/collage-7-.png)
 
 PWA for Sellers: Multivendor Marketplace for Shopify
+### SCHEDULE DEMO
+
+[Click here to Schedule the demo of Multivendor marketplace App for Shopify ](https://egsma.io/shopify-multivendor-marketplace/)
+

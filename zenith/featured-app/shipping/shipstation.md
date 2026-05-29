@@ -349,3 +349,7 @@ The Order page shows fields for box dimensions and dunnage dimensions only.
 The Order page displays inputs for box dimensions, dunnage dimensions, and controlled temperature range (minimum and maximum).  
 
 [![ord](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/12/orderfrst-1200x385.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/12/orderfrst-1200x385.webp)
+### SCHEDULE DEMO
+
+[Click here to Schedule the demo of Multivendor marketplace App for Shopify ](https://egsma.io/shopify-multivendor-marketplace/)
+

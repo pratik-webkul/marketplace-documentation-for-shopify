@@ -288,12 +288,15 @@ markdown: {
           items: [
             { text: 'Add products', link: '/zenith/products/add-products' },
             { text: 'Add products via CSV', link: '/zenith/products/add-products-via-CSV' },
+            { text: 'Amazon S3 Setup', link: '/zenith/products/amazon-s3-setup' },
             { text: 'Import products', link: '/zenith/products/import-products' },
             { text: 'Digital products', link: '/zenith/products/digital-products' },
             { text: 'Directory listing', link: '/zenith/products/directory-listing' },
             { text: 'Collection sync', link: '/zenith/products/collection-sync' },
-            { text: 'Multilevel collection', link: '/zenith/products/multilevel-collection' },  
+            { text: 'Multilevel collection', link: '/zenith/products/multilevel-collection' },
+            { text: 'Product policy', link: '/zenith/products/product-policy' },  
             { text: 'Dual sync', link: '/zenith/products/dual-sync' },
+            { text: 'Transaction Charges', link: '/zenith/products/transaction-charges' },
             { text: 'Handling & Transaction Charges', link: '/zenith/products/handling-and-transaction-charges' },                                             
             // { text: 'Products updates', link: '/zenith/products/products-updates' },
           ]
@@ -652,6 +655,17 @@ markdown: {
             {
               text: 'Print-on-Demand Marketplace',
               link: '/zenith/creator-&-print-on-demand-marketplace/print-on-demand-marketplace'
+            }
+          ]
+        },
+        {
+          text: 'Digital Storage',
+          collapsible: true,
+          collapsed: true,
+          items: [
+            {
+              text: 'Digital Storage',
+              link: '/zenith/digital-storage/digital-storage'
             }
           ]
         },

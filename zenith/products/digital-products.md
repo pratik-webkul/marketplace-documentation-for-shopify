@@ -171,7 +171,7 @@ Moreover, the admin can check this storage by going to Multi vendor Marketplace 
 
 In case if the admin wants to increase this digital storage, then, he can go for either way:
 
-*   **Upgrade Digital Storage Plan:** [Multi-Vendor Marketplace for Shopify: Digital Storage](https://webkul.com/blog/multi-vendor-marketplace-for-shopify-digital-storage/)
+*   **Upgrade Digital Storage Plan:** [Multi-Vendor Marketplace for Shopify: Digital Storage](/zenith/digital-storage/digital-storage)
 *   **Configure Amazon S3/Box:** If you want to upload digital products using your own Amazon S3 or Box, then, follow the given steps:
 
 Go to Multi vendor Marketplace Admin Panel > Configuration > Products Configuration:
@@ -179,16 +179,16 @@ Go to Multi vendor Marketplace Admin Panel > Configuration > Products Configurat
 [![bnb](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/dg18.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/dg18.webp)
 
 *   App S3 if you don't want to have extra digital storage and you are good with the provided amount.
-*   [Merchant S3 for Amazon S3 configuration.](https://webkul.com/blog/merchant-amazon-s3-setup-multivendor-marketplace-for-shopify/)
+*   [Merchant S3 for Amazon S3 configuration.](/zenith/products/amazon-s3-setup)
 *   Box for Box configuration.
 
 After selecting Merchant S3/Box, go to Multivendor Marketplace Admin Panel > Configuration > Amazon S3/Box Details > Fill the required details & save.
 
-In the case of [Amazon S3](https://webkul.com/blog/merchant-amazon-s3-setup-multivendor-marketplace-for-shopify/):
+In the case of [Amazon S3](/zenith/products/amazon-s3-setup):
 
 [![Amazon S3 Details Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/dg19.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/dg19.webp)
 
-For more details on how to get the AWS details, refer: [Merchant Amazon S3 Setup](https://webkul.com/blog/merchant-amazon-s3-setup-multivendor-marketplace-for-shopify/)
+For more details on how to get the AWS details, refer: [Merchant Amazon S3 Setup](/zenith/products/amazon-s3-setup)
 
 In the case of Box:
 
@@ -211,7 +211,7 @@ Your checkout page feature will now be added to your store!
 
 This all about Multivendor Marketplace digital products!
 
-### Demo Details
+### SCHEDULE DEMO
 
-[https://egsma.io/shopify-multivendor-marketplace/pages/demo](https://egsma.io/shopify-multivendor-marketplace/pages/seller-profile)
+[Click here to Schedule the demo of Multivendor marketplace App for Shopify ](https://egsma.io/shopify-multivendor-marketplace/)
 

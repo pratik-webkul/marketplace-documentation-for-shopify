@@ -115,3 +115,7 @@ Product Description Page
 [![image-63](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/05/image-63.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/05/image-63.png)
 
 **Note**: Checkout is not disabled for digital products. Moreover, if a cart includes products from 2 different vendors (one online & one offline), the checkout will be disabled with the message saying the particular store is closed.
+### SCHEDULE DEMO
+
+[Click here to Schedule the demo of Multivendor marketplace App for Shopify ](https://egsma.io/shopify-multivendor-marketplace/)
+

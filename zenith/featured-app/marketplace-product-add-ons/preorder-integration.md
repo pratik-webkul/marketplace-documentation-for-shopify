@@ -172,3 +172,7 @@ This includes the “Pre-order Status”, “Payment Status” and “pre-order 
 
 That's all about the Multi-vendor Marketplace PreOrder Integration.
 
+### SCHEDULE DEMO
+
+[Click here to Schedule the demo of Multivendor marketplace App for Shopify ](https://egsma.io/shopify-multivendor-marketplace/)
+

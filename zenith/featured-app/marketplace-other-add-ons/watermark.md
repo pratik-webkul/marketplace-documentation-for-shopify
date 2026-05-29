@@ -38,3 +38,7 @@ This is how the watermark appears on the PDF and images
 
 In this way, you can add watermarks to digital files.%MCEPASTEBIN%
 
+### SCHEDULE DEMO
+
+[Click here to Schedule the demo of Multivendor marketplace App for Shopify ](https://egsma.io/shopify-multivendor-marketplace/)
+

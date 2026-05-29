@@ -300,3 +300,8 @@ Card Payment Method
 [![Thank-you-for-your-purchase-Demo-Store-USD-Checkout-1-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/04/Thank-you-for-your-purchase-Demo-Store-USD-Checkout-1-1-1200x597.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/04/Thank-you-for-your-purchase-Demo-Store-USD-Checkout-1-1-1200x597.png)
 
 iDEAL Payment Method
+
+
+### SCHEDULE DEMO
+
+[Click here to Schedule the demo of Multivendor marketplace App for Shopify ](https://egsma.io/shopify-multivendor-marketplace/)

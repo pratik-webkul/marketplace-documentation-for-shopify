@@ -90,3 +90,7 @@ Click on **project updates** and add the details:
 ### Storefront
 
 [![image-13](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/08/image-13-1200x833.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/08/image-13-1200x833.png)
+### SCHEDULE DEMO
+
+[Click here to Schedule the demo of Multivendor marketplace App for Shopify ](https://egsma.io/shopify-multivendor-marketplace/)
+

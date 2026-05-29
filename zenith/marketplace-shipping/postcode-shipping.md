@@ -19,7 +19,17 @@ In this documentation, we'll learn how to setup Postcode-wise Shipping. In case 
 
 Check the below video of Postcode Shipping:
 
-MUlX7m6ePj0
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; border-radius: 12px;">
+  <iframe
+    src="https://www.youtube.com/embed/EPTy7WC7YVM?si=pjCsk45BD6UuCoFq" 
+    title="YouTube video player"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+    allowfullscreen
+    style="position: absolute; top:0; left:0; width:100%; height:100%; border-radius:12px;"
+  >
+  </iframe>
+</div>
 
 Once you'll install the add-on, visit Multivendor Admin Panel > Configuration > Shipping Methods. **Edit** the **Marketplace Shiping**:
 
@@ -287,3 +297,7 @@ Then at checkout page customer will get
     
          Note: If different seller products are added in the cart in that case only those shipping which is common to both the seller are available at the time of checkout.
                 If no shipping is common between both sellers than the customer will not be able to checkout out(in that case the customer has to check out each product individually).
+### SCHEDULE DEMO
+
+[Click here to Schedule the demo of Multivendor marketplace App for Shopify ](https://egsma.io/shopify-multivendor-marketplace/)
+

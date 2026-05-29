@@ -516,3 +516,7 @@ Demo
 Follow the below link to use the demo of Multivendor Marketplace-Booking app for Shopify:
 
 [https://multivendor-booking-demo.myshopify.com/pages/demo](https://multivendor-booking-demo.myshopify.com/pages/demo)
+### SCHEDULE DEMO
+
+[Click here to Schedule the demo of Multivendor marketplace App for Shopify ](https://egsma.io/shopify-multivendor-marketplace/)
+

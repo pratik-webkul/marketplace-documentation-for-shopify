@@ -407,7 +407,7 @@ Refer to the screenshots below:
 
 [![subtotal](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/10/fifteen-1200x603.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/10/fifteen-1200x603.webp)
 
-### Invoice feature DEMO
+### SCHEDULE DEMO
 
-Use below link to use the demo of Multivendor marketplace App for Shopify:- [https://egsma.io/shopify-multivendor-marketplace/pages/demo](https://egsma.io/shopify-multivendor-marketplace/pages/demo)
+[Click here to Schedule the demo of Multivendor marketplace App for Shopify ](https://egsma.io/shopify-multivendor-marketplace/)
 

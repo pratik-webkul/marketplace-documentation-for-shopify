@@ -114,3 +114,7 @@ Once this configuration is enabled, sellers will be able to add a future publish
 If the admin wants the seller’s blog to be automatically published on the future publish date added by the seller, then the admin needs to keep the **“Auto Approve Seller Blog”** configuration enabled from the Multivendor Marketplace Admin Panel under the Seller Blog Configuration section.
 
 [![image](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/slrbloogthree.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/slrbloogthree.webp)
+### SCHEDULE DEMO
+
+[Click here to Schedule the demo of Multivendor marketplace App for Shopify ](https://egsma.io/shopify-multivendor-marketplace/)
+

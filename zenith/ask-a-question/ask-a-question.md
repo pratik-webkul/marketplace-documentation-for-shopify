@@ -488,3 +488,7 @@ This was all about the **Ask a Question app**.
 ### Shopify Multivendor Marketplace: Ask a Question DEMO DETAILS
 
 Go to the below link to use the demo: [https://multivendor-ask-a-question.myshopify.com/pages/demo](https://multivendor-ask-a-question.myshopify.com/pages/demo)
+### SCHEDULE DEMO
+
+[Click here to Schedule the demo of Multivendor marketplace App for Shopify ](https://egsma.io/shopify-multivendor-marketplace/)
+

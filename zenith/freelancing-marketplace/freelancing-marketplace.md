@@ -110,3 +110,7 @@ To set up a **freelancing marketplace** using these features, refer to the offic
 - [**Make an Offer**](/zenith/featured-app/marketplace-product-add-ons/make-an-offer)  
 
 
+### SCHEDULE DEMO
+
+[Click here to Schedule the demo of Multivendor marketplace App for Shopify ](https://egsma.io/shopify-multivendor-marketplace/)
+

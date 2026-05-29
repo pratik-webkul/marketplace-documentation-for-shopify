@@ -48,3 +48,8 @@ But, we do give the Admin an option to restrict his Sellers from fulfilling the 
 In other words, if the admin doesn’t want his sellers to fulfill the orders & instead he wants to fulfill the order then he can do so in the Multivendor Marketplace.
 
 Check the two cases in depth by visiting this [link](/zenith/order/order-fulfillment).
+
+
+### SCHEDULE DEMO
+
+[Click here to Schedule the demo of Multivendor marketplace App for Shopify ](https://egsma.io/shopify-multivendor-marketplace/)

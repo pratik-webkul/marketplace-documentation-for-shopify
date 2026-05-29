@@ -213,3 +213,7 @@ Also, the customers can log in to their account and preview and download the doc
 
 [![screenshot_1698309062337](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/10/screenshot_1698309062337-1200x537.jpeg)](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/10/screenshot_1698309062337-1200x537.jpeg)
 
+### SCHEDULE DEMO
+
+[Click here to Schedule the demo of Multivendor marketplace App for Shopify ](https://egsma.io/shopify-multivendor-marketplace/)
+

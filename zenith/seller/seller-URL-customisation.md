@@ -61,3 +61,7 @@ Next, enter the required details, such as the **Name**, and set the **Target** t
 
 [![ssh](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/11/ssh-1200x602.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/11/ssh-1200x602.webp)
 
+### SCHEDULE DEMO
+
+[Click here to Schedule the demo of Multivendor marketplace App for Shopify ](https://egsma.io/shopify-multivendor-marketplace/)
+

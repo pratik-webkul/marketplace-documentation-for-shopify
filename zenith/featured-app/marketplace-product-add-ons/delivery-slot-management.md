@@ -221,3 +221,7 @@ So, that’s all about the Delivery Slot Management app for the seller.
 ### Demo
 
 Please check the **Demo** here: [https://delivery-slot-management-demo.myshopify.com/pages/demo](https://delivery-slot-management-demo.myshopify.com/pages/demo)
+### SCHEDULE DEMO
+
+[Click here to Schedule the demo of Multivendor marketplace App for Shopify ](https://egsma.io/shopify-multivendor-marketplace/)
+

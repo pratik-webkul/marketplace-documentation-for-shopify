@@ -179,3 +179,7 @@ After adding the code, that is how the minimum purchase amount will appear on th
 
 [![product page](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/03/Personalized-Coffee-Mug-%E2%80%93-Demo-Store-AUD-1-2-1200x597.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/03/Personalized-Coffee-Mug-%E2%80%93-Demo-Store-AUD-1-2-1200x597.png)
 
+### SCHEDULE DEMO
+
+[Click here to Schedule the demo of Multivendor marketplace App for Shopify ](https://egsma.io/shopify-multivendor-marketplace/)
+
