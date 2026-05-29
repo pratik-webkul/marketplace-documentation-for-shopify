@@ -162,3 +162,7 @@ This is how the seller badges will look on the product description page:
 
 [![Coffee-Mug-–-tarang-shop2](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/03/Coffee-Mug-%E2%80%93-tarang-shop2-1200x770.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/03/Coffee-Mug-%E2%80%93-tarang-shop2-1200x770.png)
 
+### SCHEDULE DEMO
+
+[Click here to Schedule the demo of Multivendor marketplace App for Shopify ](https://egsma.io/shopify-multivendor-marketplace/)
+

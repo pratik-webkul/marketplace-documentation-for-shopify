@@ -69,3 +69,7 @@ View Notification
 [![Delete](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/sn9.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/sn9.webp)
 
 Delete notification
+### SCHEDULE DEMO
+
+[Click here to Schedule the demo of Multivendor marketplace App for Shopify ](https://egsma.io/shopify-multivendor-marketplace/)
+

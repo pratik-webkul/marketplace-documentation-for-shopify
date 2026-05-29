@@ -128,3 +128,7 @@ You can access groups by navigating to Product >> Group Buy Groups.
 
 [![Groups listing page](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/esygrp1773293336288.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/esygrp1773293336288.webp)
 
+### SCHEDULE DEMO
+
+[Click here to Schedule the demo of Multivendor marketplace App for Shopify ](https://egsma.io/shopify-multivendor-marketplace/)
+

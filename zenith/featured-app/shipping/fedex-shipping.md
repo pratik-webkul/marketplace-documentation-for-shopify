@@ -211,3 +211,7 @@ The seller can view the pickup request details & also, can cancel the request.
 **NOTE:**
 
 The seller can delete the pickup request only before the **FedEx Ready time** set by him while creating the request. Once created, the pickup request can't be generated or edited again.
+### SCHEDULE DEMO
+
+[Click here to Schedule the demo of Multivendor marketplace App for Shopify ](https://egsma.io/shopify-multivendor-marketplace/)
+

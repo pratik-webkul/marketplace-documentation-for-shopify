@@ -175,3 +175,7 @@ In this way, sellers can easily create a pickup request.
 To check other Shipping Services integrated with the App, [**Click Here**](/zenith/featured-app/overview.html#marketplace-shipping-feature-apps)!
 
 Thank you for taking the time to read our blog. To stay up-to-date with our latest articles, please stay connected with us.
+### SCHEDULE DEMO
+
+[Click here to Schedule the demo of Multivendor marketplace App for Shopify ](https://egsma.io/shopify-multivendor-marketplace/)
+

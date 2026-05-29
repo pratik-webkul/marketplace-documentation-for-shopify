@@ -187,3 +187,7 @@ That's all about the Australia Post shipping Feature App.
 Further, go through the below given link to check the demo of the Multi-vendor Marketplace App for Shopify:
 
 [https://multivendor-marketplace-4.myshopify.com/pages/demo](https://multivendor-marketplace-4.myshopify.com/pages/demo)
+### SCHEDULE DEMO
+
+[Click here to Schedule the demo of Multivendor marketplace App for Shopify ](https://egsma.io/shopify-multivendor-marketplace/)
+

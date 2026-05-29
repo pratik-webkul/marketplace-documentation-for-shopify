@@ -355,3 +355,7 @@ Follow the below links and credentials to use the demo of the Multivendor Market
 
 [https://multivendor-store-pickup.myshopify.com/pages/demo](https://multivendor-store-pickup.myshopify.com/pages/demo)
 
+### SCHEDULE DEMO
+
+[Click here to Schedule the demo of Multivendor marketplace App for Shopify ](https://egsma.io/shopify-multivendor-marketplace/)
+

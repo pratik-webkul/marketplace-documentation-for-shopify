@@ -303,12 +303,10 @@ Transaction Fee = 10% + 5$
 \=120$ + 12$ + 5$  
 \=$137
 
-**[Guide on how to manage transaction charges on orders](https://webkul.com/blog/multivendor-marketplace-for-shopify-transaction-charges-on-orders/)**
+**[Guide on how to manage transaction charges on orders](/zenith/products/transaction-charges)**
 
-### Multivendor Marketplace for Shopify: Handling & Transaction Charges: Demo
+### SCHEDULE DEMO
 
-Moreover, use below link to use the demo of the multivendor marketplace App for Shopify:-
-
-[https://egsma.io/shopify-multivendor-marketplace/admin](https://egsma.io/shopify-multivendor-marketplace/admin)
+[Click here to Schedule the demo of Multivendor marketplace App for Shopify ](https://egsma.io/shopify-multivendor-marketplace/)
 
 

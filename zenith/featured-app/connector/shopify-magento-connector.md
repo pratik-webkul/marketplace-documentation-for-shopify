@@ -280,3 +280,7 @@ Demo Details
 Moreover, follow the below links and credentials to check the demo of Magento Connector App:
 
 [https://multivendor-magento-connector.myshopify.com/pages/demo](https://multivendor-magento-connector.myshopify.com/pages/demo)
+### SCHEDULE DEMO
+
+[Click here to Schedule the demo of Multivendor marketplace App for Shopify ](https://egsma.io/shopify-multivendor-marketplace/)
+

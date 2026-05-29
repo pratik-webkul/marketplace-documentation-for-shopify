@@ -85,3 +85,7 @@ This guide explains the complete setup flow, including admin-side slot creation 
 A B2B marketplace requires pricing flexibility and control. With the **Slot Pricing featured app already available in the Marketplace app**, marketplace owners can support B2B pricing scenarios using structured, tag-based pricing logic.
 
 This feature helps align the marketplace with common B2B business requirements while maintaining a smooth multivendor workflow.
+### SCHEDULE DEMO
+
+[Click here to Schedule the demo of Multivendor marketplace App for Shopify ](https://egsma.io/shopify-multivendor-marketplace/)
+

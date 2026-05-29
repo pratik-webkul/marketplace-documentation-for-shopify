@@ -108,3 +108,7 @@ Once the shipment is completed successfully, the order status will automatically
 [![image](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/02/egreqrgeqgqerg.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/02/egreqrgeqgqerg.webp)
 
 [![image](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/02/ergwergerg.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/02/ergwergerg.webp)
+### SCHEDULE DEMO
+
+[Click here to Schedule the demo of Multivendor marketplace App for Shopify ](https://egsma.io/shopify-multivendor-marketplace/)
+

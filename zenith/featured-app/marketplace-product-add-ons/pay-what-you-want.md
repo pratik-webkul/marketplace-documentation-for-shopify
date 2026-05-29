@@ -135,3 +135,7 @@ If a customer tries to checkout after entering a price lesser than the minimum a
 _"You must pay at least \*minimum amount value\*"_
 
 This is all about the Pay What You Want feature app.
+### SCHEDULE DEMO
+
+[Click here to Schedule the demo of Multivendor marketplace App for Shopify ](https://egsma.io/shopify-multivendor-marketplace/)
+

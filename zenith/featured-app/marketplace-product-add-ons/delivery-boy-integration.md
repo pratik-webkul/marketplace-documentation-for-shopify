@@ -341,3 +341,7 @@ After installation: Go to **iPhone settings** → **General** → **Device 
 
 **[GET THE APP](https://apps.shopify.com/delivery-boy) NOW!**
 
+### SCHEDULE DEMO
+
+[Click here to Schedule the demo of Multivendor marketplace App for Shopify ](https://egsma.io/shopify-multivendor-marketplace/)
+

@@ -201,3 +201,7 @@ Furthermore, this is how the shipping label will be downloaded in pdf form:
 [![SHIPPING LABEL](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/09/Screenshot-from-2019-09-16-17-10-17.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/09/Screenshot-from-2019-09-16-17-10-17.png)
 
 Vamaship Shipping Label
+### SCHEDULE DEMO
+
+[Click here to Schedule the demo of Multivendor marketplace App for Shopify ](https://egsma.io/shopify-multivendor-marketplace/)
+

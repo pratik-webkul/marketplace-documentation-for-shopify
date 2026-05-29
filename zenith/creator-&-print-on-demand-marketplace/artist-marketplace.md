@@ -66,3 +66,7 @@ For detailed guidance on setting up an **artist marketplace** using the Artist P
 [**Artist Product Design Documentation**](/zenith/featured-app/marketplace-product-add-ons/artist-product-design.html)
 
 
+### SCHEDULE DEMO
+
+[Click here to Schedule the demo of Multivendor marketplace App for Shopify ](https://egsma.io/shopify-multivendor-marketplace/)
+

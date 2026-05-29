@@ -58,6 +58,20 @@ Accordingly, the sellers will set the country-wise/zone-wise shipping rates on t
 
 Let's understand the step-by-step process to install the Shipping feature app & how it works on marketplaces in both cases; Country-wise & Zone wise Shipping.
 
+Check the below video of Zone Wise Shipping:
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; border-radius: 12px;">
+  <iframe
+    src="https://www.youtube.com/embed/eCZFDz2VvM4?si=7XBn1zkINY3WoKoR"
+    title="YouTube video player"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+    allowfullscreen
+    style="position: absolute; top:0; left:0; width:100%; height:100%; border-radius:12px;"
+  >
+  </iframe>
+</div>
+
  Workflow
 --------------------
 #### **STEP 1: Shipping Feature App Installation.**
@@ -312,7 +326,19 @@ For this, first, you need to enable the Marketplace Shipping as Country-wise fro
 
 Check the below video of country-wise shipping:
 
-3wCndMDPhOg
+heck the below video of Zone Wise Shipping:
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; border-radius: 12px;">
+  <iframe
+    src="https://www.youtube.com/embed/k7i1r-VVpwU?si=x_ERrA65NNG3MmGt"
+    title="YouTube video player"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+    allowfullscreen
+    style="position: absolute; top:0; left:0; width:100%; height:100%; border-radius:12px;"
+  >
+  </iframe>
+</div>
 
 ### CASE 1: COUNTRY-WISE SHIPPING+SINGLE SHIPPING
 
@@ -834,3 +860,7 @@ Now, scroll down and click the **Edit** button to configure Shipping Label:
 **You can refer to** below link to check the demo of the **Shipping Calculator Feature:-**
 
 [https://multivendor-shipping-calculator.myshopify.com/pages/demo-details](https://multivendor-shipping-calculator.myshopify.com/pages/demo-details)
+### SCHEDULE DEMO
+
+[Click here to Schedule the demo of Multivendor marketplace App for Shopify ](https://egsma.io/shopify-multivendor-marketplace/)
+

@@ -160,3 +160,7 @@ This is how Seller's Product on Daily Deals will be visible:
 
 Moreover, check out the daily deals demo using the link: [https://wk-daily-deals.myshopify.com/pages/daily-deals](https://wk-daily-deals.myshopify.com/pages/daily-deals)
 
+### SCHEDULE DEMO
+
+[Click here to Schedule the demo of Multivendor marketplace App for Shopify ](https://egsma.io/shopify-multivendor-marketplace/)
+

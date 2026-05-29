@@ -95,3 +95,7 @@ Digital e-books provide a fast, sustainable, and convenient reading experience f
 With the **Digital Product feature** in the Webkul Multivendor Marketplace app, you can easily offer downloadable e-books and other digital content while ensuring a smooth experience for both sellers and customers.
 
 Thanks for reading 
+### SCHEDULE DEMO
+
+[Click here to Schedule the demo of Multivendor marketplace App for Shopify ](https://egsma.io/shopify-multivendor-marketplace/)
+

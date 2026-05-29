@@ -63,3 +63,7 @@ Reference Blog
 To learn more about setting up print-on-demand products with dynamic mockups, refer to the official blog below: [**Print-on-Demand Products & Dynamic Mockups Blog**](/zenith/featured-app/seller-add-ons/print-on-demand-dynamic-mockups.html)
 
 
+### SCHEDULE DEMO
+
+[Click here to Schedule the demo of Multivendor marketplace App for Shopify ](https://egsma.io/shopify-multivendor-marketplace/)
+

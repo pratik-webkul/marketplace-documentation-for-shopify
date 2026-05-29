@@ -87,3 +87,7 @@ Further, this how the sellers can be filtered based on categories & tags:
 [![image-34](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/06/image-34-1200x597.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/06/image-34-1200x597.png)
 
 **Note**: In case you are using **Theme 4** for the seller profile page then please check [this](https://webkul.uvdesk.com/en/blog/theme-4-code-for-seller-tags-categories).
+### SCHEDULE DEMO
+
+[Click here to Schedule the demo of Multivendor marketplace App for Shopify ](https://egsma.io/shopify-multivendor-marketplace/)
+

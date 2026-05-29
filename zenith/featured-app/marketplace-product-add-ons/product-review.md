@@ -243,3 +243,7 @@ Seller Dashboard
 [![Dashboard-Seller-•-Multivendor-MarketPlace-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/productreview13.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/productreview13.webp)
 
 This was all about the **Product Review** Add-on for the **Multivendor Marketplace** for **Shopify**.
+### SCHEDULE DEMO
+
+[Click here to Schedule the demo of Multivendor marketplace App for Shopify ](https://egsma.io/shopify-multivendor-marketplace/)
+

@@ -120,7 +120,7 @@ You can update the total due for seller payment after the following events:
 *   Order delivered
 *   Refund days completed
 
-**Note**: If you want to add the seller’s total due earning on the completion of refund days then make sure to activate “[Enable Cashable Amount for Sellers](/zenith/payment/paypal.html#pay-after-refund-date)” from the “Order Configuration” menu.
+**Note**: If you want to add the seller’s total due earning on the completion of refund days then make sure to activate “Enable Cashable Amount for Sellers" from the “Order Configuration” menu.
 
 **Important Note**: Enabling this option, the payment won't go to the seller automatically. The app will update only the total earnings.
 
@@ -151,7 +151,7 @@ For this, visit Multivendor Marketplace Admin Panel > Configuration > Order Conf
 
 [![Configuration-Admin-3](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/acceptandfulfillorder.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/acceptandfulfillorder.webp)
 
-Make sure that '[Allow Seller To Accept Order](https://webkul.com/blog/shopify-multivendor-marketplace-app-new-upgraded-features/#allow-seller-to-accept-reject-order)' menu is Enable.
+Make sure that '[Allow Seller To Accept Order](/zenith/upgraded-features/upgraded-features.html#allow-seller-to-accept-reject-order)' menu is Enable.
 
 After that, the seller will get the order accept & fulfill option at one time.
 
@@ -446,7 +446,7 @@ Multivendor App Directory Listing Feature for Shopify enables you as admin to 
 
 You just have to enable this directory listing feature, and then sellers can redirect buyers to their website. To enable this feature you will have to visit:
 
-Configuration >> product tab >> enable directory listing >> enter the button label as per your wish and click on save. To know the full details [**click here**](https://webkul.com/blog/shopify-multivendor-marketplace-directory-listing-feature-new-theme/).
+Configuration >> product tab >> enable directory listing >> enter the button label as per your wish and click on save. To know the full details [**click here**](/zenith/products/directory-listing.html).
 
 [![MULTIVENDOR MARKETPLACE](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/directorylisting.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/directorylisting.webp)
 
@@ -471,7 +471,7 @@ Now at the admin side, the shipping status of that order is in the “Collect”
 
 [![MULTIVENDOR MARKETPLACE](https://cdnblog.webkul.com/blog/wp-content/uploads/2016/02/42.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2016/02/42.png)
 
-[![MULTIVENDOR MARKETPLACE](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/02/orderstatuscollectadmin.webpg)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/02/orderstatuscollectadmin.webpg)
+[![MULTIVENDOR MARKETPLACE](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/02/orderstatuscollectadmin.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/02/orderstatuscollectadmin.webp)
 
 [![MULTIVENDOR MARKETPLACE](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/02/orderpendingstatusseller.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/02/orderpendingstatusseller.webp)
 
@@ -1266,4 +1266,8 @@ Once you're on the seller profile page, switch to the “Reviews” tab to see a
 [![sp4](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/11/sp4-3-1200x530.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/11/sp4-3-1200x530.webp)
 
 
+
+### SCHEDULE DEMO
+
+[Click here to Schedule the demo of Multivendor marketplace App for Shopify ](https://egsma.io/shopify-multivendor-marketplace/)
 

@@ -81,3 +81,7 @@ A **Digital Music Marketplace** empowers creators to sell their music globally w
 With the **Digital Product feature** in the Webkul Multivendor Marketplace app, building a scalable and creator-friendly music platform becomes simple and efficient.
 
 Your digital music journey starts here 🎵
+### SCHEDULE DEMO
+
+[Click here to Schedule the demo of Multivendor marketplace App for Shopify ](https://egsma.io/shopify-multivendor-marketplace/)
+

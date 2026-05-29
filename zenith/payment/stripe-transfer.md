@@ -112,3 +112,9 @@ Only after enabling this option, the Admin will have the ‘Pay after refund dat
 [![Stripe Connect](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/stripeeighteen.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/stripeeighteen.webp)
 
 Also, the Admin won’t be able to choose the ‘pay after’ as delivery or fulfillment because now it will work as configured in the ‘Cashable Amount for Seller’ option.
+
+
+
+### SCHEDULE DEMO
+
+[Click here to Schedule the demo of Multivendor marketplace App for Shopify ](https://egsma.io/shopify-multivendor-marketplace/)

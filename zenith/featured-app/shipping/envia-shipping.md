@@ -195,3 +195,7 @@ Once created, the pickup request can’t be generated or edited again. Moreover,
 
 In the case of same-day: Pickup time will be till 12 am.  
 In the case of the next day: Pickup time will be between 9 am to 8 pm.
+### SCHEDULE DEMO
+
+[Click here to Schedule the demo of Multivendor marketplace App for Shopify ](https://egsma.io/shopify-multivendor-marketplace/)
+

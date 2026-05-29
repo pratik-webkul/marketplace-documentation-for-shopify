@@ -109,3 +109,7 @@ Your sellers will receive a KYC expiration reminder email. They can log in to th
 The Seller KYC feature in the Multivendor Marketplace app allows sellers to complete their verification directly from their own panel, making the process simple, transparent, and convenient.
 
 This helps ensure that seller information is accurate while promoting trust across the platform.
+### SCHEDULE DEMO
+
+[Click here to Schedule the demo of Multivendor marketplace App for Shopify ](https://egsma.io/shopify-multivendor-marketplace/)
+

@@ -101,3 +101,7 @@ Admin won't be able to Add/edit seller location from the admin panel or the stan
 He/She can only activate or deactivate the Seller store location by clicking on the three dots as shown below:
 
 [![cdasdcs](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/11/cdasdcs-1200x451.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/11/cdasdcs-1200x451.png)
+### SCHEDULE DEMO
+
+[Click here to Schedule the demo of Multivendor marketplace App for Shopify ](https://egsma.io/shopify-multivendor-marketplace/)
+

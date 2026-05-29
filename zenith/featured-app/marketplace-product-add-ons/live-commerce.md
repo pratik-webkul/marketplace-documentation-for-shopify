@@ -233,3 +233,7 @@ Note:- After adding the above extension, you can add a main menu on your storefr
 
 Your customers will see your real-time shopping information on the same page.
 
+### SCHEDULE DEMO
+
+[Click here to Schedule the demo of Multivendor marketplace App for Shopify ](https://egsma.io/shopify-multivendor-marketplace/)
+

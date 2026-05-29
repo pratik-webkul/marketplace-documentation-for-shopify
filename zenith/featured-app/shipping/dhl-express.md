@@ -194,3 +194,7 @@ Furthermore, this is how the shipping label will be downloaded in pdf form:
 
 [![Screenshot_from_2020_05_14_19_31_49](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/05/Screenshot_from_2020_05_14_19_31_49.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/05/Screenshot_from_2020_05_14_19_31_49.png)
 
+### SCHEDULE DEMO
+
+[Click here to Schedule the demo of Multivendor marketplace App for Shopify ](https://egsma.io/shopify-multivendor-marketplace/)
+

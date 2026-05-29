@@ -81,3 +81,7 @@ For detailed guidance on how to set up and manage a **rental marketplace** using
 
 
 
+### SCHEDULE DEMO
+
+[Click here to Schedule the demo of Multivendor marketplace App for Shopify ](https://egsma.io/shopify-multivendor-marketplace/)
+

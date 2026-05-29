@@ -192,3 +192,7 @@ Then in this case, when customer adds product A as well as product B then we won
 
 so then we won't be able to display any shipping rates on the checkout page.
 
+### SCHEDULE DEMO
+
+[Click here to Schedule the demo of Multivendor marketplace App for Shopify ](https://egsma.io/shopify-multivendor-marketplace/)
+

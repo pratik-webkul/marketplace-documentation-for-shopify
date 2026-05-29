@@ -116,3 +116,7 @@ Demo Image of Crowdfunding X Multi-Vendor Marketplace
 
 You can drop your suggestions for further improving this module at support@webkul.com or raise a ticket at [Webkul UV Desk](https://webkul.uvdesk.com/).
 
+### SCHEDULE DEMO
+
+[Click here to Schedule the demo of Multivendor marketplace App for Shopify ](https://egsma.io/shopify-multivendor-marketplace/)
+

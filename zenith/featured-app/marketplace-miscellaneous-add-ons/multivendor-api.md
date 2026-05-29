@@ -214,3 +214,7 @@ That's all about the Multi-vendor API feature app.
 
 [https://multivendor-marketplace-4.myshopify.com/pages/demo](https://multivendor-marketplace-4.myshopify.com/pages/demo)
 
+### SCHEDULE DEMO
+
+[Click here to Schedule the demo of Multivendor marketplace App for Shopify ](https://egsma.io/shopify-multivendor-marketplace/)
+

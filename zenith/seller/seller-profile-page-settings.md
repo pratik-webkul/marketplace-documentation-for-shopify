@@ -378,7 +378,8 @@ You need to add these codes for the seller collection pages:
 
 Copy following code into **collection.liquid** template before collection name and banner.  
 ```liquid
-{% section 'wk-seller-category' %} ```
+{% section 'wk-seller-category' %} 
+ ```
 
 Copy following code into **collection-template.liquid** template and add class inside the collection banner and collection title div.
 
@@ -430,3 +431,7 @@ The seller collection page will look similar to the seller profile page:
 
 [![create-collection](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/08/create-collection.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/08/create-collection.png)
  
+### SCHEDULE DEMO
+
+[Click here to Schedule the demo of Multivendor marketplace App for Shopify ](https://egsma.io/shopify-multivendor-marketplace/)
+

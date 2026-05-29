@@ -358,3 +358,7 @@ Check the Demo
 
 Check the Demo of Make an Offer App:  
 [https://multivendor-makeanoffer.myshopify.com/products/travel-bags-1](https://multivendor-makeanoffer.myshopify.com/products/travel-bags-1)
+### SCHEDULE DEMO
+
+[Click here to Schedule the demo of Multivendor marketplace App for Shopify ](https://egsma.io/shopify-multivendor-marketplace/)
+

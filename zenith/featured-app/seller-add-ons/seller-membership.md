@@ -249,3 +249,7 @@ Enable **Assign to Particular Seller** while creating the plan and enter seller 
 Test with EcPay sandbox:  
 👉 [EcPay Developer Sandbox](https://developers.ecpay.com.tw/?p=22696)
 
+### SCHEDULE DEMO
+
+[Click here to Schedule the demo of Multivendor marketplace App for Shopify ](https://egsma.io/shopify-multivendor-marketplace/)
+

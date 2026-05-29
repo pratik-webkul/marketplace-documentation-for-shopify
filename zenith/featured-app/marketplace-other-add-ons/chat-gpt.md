@@ -73,3 +73,7 @@ If you need some other description then you can add those keywords in your Descr
 This is one of the major advantage of **OpenAI** as it generates unique response every-time as per your input.
 
 [![screenshot_1676272813649](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/chatgptproadddd-1.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/chatgptproadddd-1.webp)
+### SCHEDULE DEMO
+
+[Click here to Schedule the demo of Multivendor marketplace App for Shopify ](https://egsma.io/shopify-multivendor-marketplace/)
+

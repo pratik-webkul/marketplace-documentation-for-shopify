@@ -16,12 +16,17 @@ You have to deal with bulk product upload, add multiple sellers at a time, **sel
 
 So, to have a simplified process, this guide will help you to understand how to upload the CSV files in the app and avoid errors.
 
-> **The Multi-vendor Marketplace app facilitates:-  
-> **Admin to add products in bulk via CSV.  
-> Seller to add products via CSV.  
-> Admin adding sellers via CSV.
-
-https://youtu.be/kzct74e3dL4
+<!-- <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; border-radius: 12px;">
+  <iframe
+    src="https://www.youtube.com/embed/kzct74e3dL4"
+    title="YouTube video player"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+    allowfullscreen
+    style="position: absolute; top:0; left:0; width:100%; height:100%; border-radius:12px;"
+  >
+  </iframe>
+</div> -->
 
 In the app, admin can allow sellers to add products in bulk via CSV. For this, the admin needs to follow the below-given steps:-
 
@@ -82,7 +87,7 @@ CSV File Error
 
 > You can use **Amazon S3** Or use **Shopify CDN**. **[Checkout the Detailed Guide](https://metafieldsmanager.thebestagency.com/tutorials/import/upload-assets)**
 
-**[Merchant Amazon S3 Setup Guide](https://webkul.com/blog/merchant-amazon-s3-setup-multivendor-marketplace-for-shopify/)**
+**[Merchant Amazon S3 Setup Guide](/zenith/products/amazon-s3-setup.html)**
 
  **Mistake 3:** No Default title value in case of No Variant!
 ---------------------
@@ -209,4 +214,9 @@ To successfully validate and upload the CSV file in the Multi-vendor Marketplace
 > **In Short**  
 > **Keep updating Your Product CSV file in the app even if you make a small change in the Product Configuration.**
 
-> [**Learn**](https://webkul.com/blog/use-of-csv-files-for-bulk-upload/) to make the use of CSV files for Bulk Upload
+<!-- > [**Learn**](https://webkul.com/blog/use-of-csv-files-for-bulk-upload/) to make the use of CSV files for Bulk Upload -->
+
+
+### SCHEDULE DEMO
+
+[Click here to Schedule the demo of Multivendor marketplace App for Shopify ](https://egsma.io/shopify-multivendor-marketplace/)

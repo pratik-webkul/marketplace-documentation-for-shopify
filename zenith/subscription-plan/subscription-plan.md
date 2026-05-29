@@ -103,3 +103,7 @@ Need Help?
 ----------
 
 Furthermore, if you have any issues, please drop an email at support@webkul.com. You can also create a ticket at  [Webkul UV Desk](https://webkul.uvdesk.com/en/customer/create-ticket/).
+### SCHEDULE DEMO
+
+[Click here to Schedule the demo of Multivendor marketplace App for Shopify ](https://egsma.io/shopify-multivendor-marketplace/)
+

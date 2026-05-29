@@ -51,6 +51,6 @@ On this pop-up, the admin can change the product type (normal/global/digital) & 
 **Mark**:  
 If the product has variants then admin can't change the product type to Global/Digital while assigning them to the seller.
 
-### Demo Details
+### SCHEDULE DEMO
 
-Check out: [https://egsma.io/shopify-multivendor-marketplace/pages/demo](https://egsma.io/shopify-multivendor-marketplace/pages/seller-profile)
+[Click here to Schedule the demo of Multivendor marketplace App for Shopify ](https://egsma.io/shopify-multivendor-marketplace/)

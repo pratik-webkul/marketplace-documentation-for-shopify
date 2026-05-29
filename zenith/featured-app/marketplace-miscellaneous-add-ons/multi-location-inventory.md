@@ -199,3 +199,7 @@ Follow the link below to use the demo of **Multivendor Marketplace-Multi-Locati
 
 [https://multi-location-inventory-mvm.myshopify.com/pages/multi-location-inventory-demo](https://multi-location-inventory-mvm.myshopify.com/pages/multi-location-inventory-demo)
 
+### SCHEDULE DEMO
+
+[Click here to Schedule the demo of Multivendor marketplace App for Shopify ](https://egsma.io/shopify-multivendor-marketplace/)
+

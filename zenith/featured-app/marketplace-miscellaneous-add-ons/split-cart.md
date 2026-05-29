@@ -227,3 +227,7 @@ So, using the split cart feature app, you can now restrict customer’s purchase
 
 [https://wk-split-cart-demo.myshopify.com/pages/split-cart-vendor-wise](https://wk-split-cart-demo.myshopify.com/pages/split-cart-vendor-wise)
 
+### SCHEDULE DEMO
+
+[Click here to Schedule the demo of Multivendor marketplace App for Shopify ](https://egsma.io/shopify-multivendor-marketplace/)
+

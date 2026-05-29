@@ -214,3 +214,7 @@ If you are setting this up after syncing products then click on the checkbox so 
 
 [![Price-Rule-Seller-•-Multivendor-MarketPlace](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/lin9.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/lin9.webp)
 
+### SCHEDULE DEMO
+
+[Click here to Schedule the demo of Multivendor marketplace App for Shopify ](https://egsma.io/shopify-multivendor-marketplace/)
+

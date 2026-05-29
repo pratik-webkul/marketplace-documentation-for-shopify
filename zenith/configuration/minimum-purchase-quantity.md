@@ -110,3 +110,7 @@ Moreover, in any case, if the customer adds a lesser quantity than the required 
 #### Also Read:
 
 [Minimum Purchase Amount: Multi-vendor Marketplace for Shopify](/zenith/configuration/minimum-purchase-amount)
+### SCHEDULE DEMO
+
+[Click here to Schedule the demo of Multivendor marketplace App for Shopify ](https://egsma.io/shopify-multivendor-marketplace/)
+

@@ -88,3 +88,7 @@ Then, enter the **pickup and delivery date and time** as shown in the image belo
 After this, you will receive the tracking number for the product, along with the delivery and pickup date and time that you had entered previously.
 
 [![image](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/11/sbeedy6-1200x518.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/11/sbeedy6-1200x518.webp)
+### SCHEDULE DEMO
+
+[Click here to Schedule the demo of Multivendor marketplace App for Shopify ](https://egsma.io/shopify-multivendor-marketplace/)
+

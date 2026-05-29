@@ -208,3 +208,7 @@ Please refer to the screenshot below:
 ### Demo
 
 Follow the below links to use the demo of the Stock Management Feature app: [https://stock-management-demo.myshopify.com/pages/multi-vendor-stock-management](https://stock-management-demo.myshopify.com/pages/multi-vendor-stock-management)
+### SCHEDULE DEMO
+
+[Click here to Schedule the demo of Multivendor marketplace App for Shopify ](https://egsma.io/shopify-multivendor-marketplace/)
+

@@ -118,3 +118,7 @@ Now, simply go to your SMTP configuration page, enter the Client ID, Client Secr
 **it is important to note that** any emails sent **prior to** the completion of the configuration **will still** be processed by your previous SMTP host server.
 
 Once you finalize the Google OAuth SMTP configuration, the newly configured Google OAuth SMTP server will send all future emails.
+### SCHEDULE DEMO
+
+[Click here to Schedule the demo of Multivendor marketplace App for Shopify ](https://egsma.io/shopify-multivendor-marketplace/)
+

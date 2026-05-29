@@ -268,3 +268,7 @@ Once the admin adds the section it will show like this.
 Use the below link and credentials to check the demo of the Sponsored Product Feature App here: [https://sponsor-seller-product.myshopify.com/](https://sponsor-seller-product.myshopify.com/)  
   
 Store Password: 1
+### SCHEDULE DEMO
+
+[Click here to Schedule the demo of Multivendor marketplace App for Shopify ](https://egsma.io/shopify-multivendor-marketplace/)
+

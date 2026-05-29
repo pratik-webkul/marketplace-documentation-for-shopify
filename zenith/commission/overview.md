@@ -33,7 +33,17 @@ A **commission** is the percentage or fixed fee that the **admin (store owner)**
 The app follows this **commission priority hierarchy**:  
 `Global Commission < Seller-wise < Category-wise < Product-wise`
 
- [Watch the video guide on setting commissions](https://youtu.be/TjXDS7dG3jA)
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; border-radius: 12px;">
+  <iframe
+    src="https://www.youtube.com/embed/5tk5tlFRprw?si=EkcT-gRpr4QBBEXW" 
+    title="YouTube video player"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+    allowfullscreen
+    style="position: absolute; top:0; left:0; width:100%; height:100%; border-radius:12px;"
+  >
+  </iframe>
+</div>
 
 ---
 

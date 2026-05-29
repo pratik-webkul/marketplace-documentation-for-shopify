@@ -419,7 +419,7 @@ This way, you can attach "Seller to Customer" Invoice with the Order fulfillment
 ------------------------------
 Wish to increase your Multivendor Marketplace digital storage?
 
-Check out: [Multi-Vendor Marketplace for Shopify: Digital Storage](https://webkul.com/blog/multi-vendor-marketplace-for-shopify-digital-storage/)
+Check out: [Multi-Vendor Marketplace for Shopify: Digital Storage](/zenith/digital-storage/digital-storage)
 
  Add Header & Footer to the Mail Templates
 ---------------
@@ -572,7 +572,7 @@ You might be using the [Wallet Management app](https://apps.shopify.com/wallet-m
 Now, if the "**Manage Discount on Orders**" tab is ON from the Seller payment Configuration of the Multi-vendor app then
 
 the discount offered to customers via Webkul Wallet (through Wallet Management App) will be managed in the app.  
-[Know how to Manage Discount on Orders](https://webkul.com/blog/multivendor-marketplace-manage-discount/)
+[Know how to Manage Discount on Orders](/zenith/configuration/discount-configuration.html#create-discounts-on-order)
 
 The amount paid via wallet will appear in the invoice of each order placed on your store.
 
@@ -747,7 +747,7 @@ Admin dashboard>>Commission>>Commission Listing>>Export Details**
 
 Choose the required fields from the options on the left and specify a date range to retrieve commission data for the selected period.
 
-[![commission](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/02/upgradedfeaturesseventysix.webpwebp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/02/upgradedfeaturesseventysix.webpwebp)
+[![commission](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/02/upgradedfeaturesseventysix.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/02/upgradedfeaturesseventysix.webp)
 
 Click the **"Export"** button to download the commission data as a .csv file for the chosen date range.
 
@@ -797,10 +797,9 @@ Once the filter is applied, only the orders related to the selected seller's pro
 
 [![Filter](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/02/upgradedfeaturesseventynine.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/02/upgradedfeaturesseventynine.webp)
 
-### DEMO
 
-You can refer the below-given link to check the demo of multivendor marketplace App for Shopify:-
+### SCHEDULE DEMO
 
-[https://egsma.io/shopify-multivendor-marketplace/pages/demo](https://egsma.io/shopify-multivendor-marketplace/pages/seller-profile)
+[Click here to Schedule the demo of Multivendor marketplace App for Shopify ](https://egsma.io/shopify-multivendor-marketplace/)
 
 Keep following this blog of ours to know about all the recent updates.

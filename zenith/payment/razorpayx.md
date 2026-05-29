@@ -176,3 +176,8 @@ Pay to seller >> select payment resource >> Razorpayx
 [![to pay the seller](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/04/screenshot_1712311212972.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/04/screenshot_1712311212972.webp)
 
 This is all for the Razor payment method for your Multivendor app for Shopify.
+
+
+### SCHEDULE DEMO
+
+[Click here to Schedule the demo of Multivendor marketplace App for Shopify ](https://egsma.io/shopify-multivendor-marketplace/)

@@ -444,3 +444,7 @@ Moreover, follow the below link to check the demo of PrestaShop Connector app:
 
 [https://multivendor-prestashop-connector.myshopify.com/pages/demo](https://multivendor-prestashop-connector.myshopify.com/pages/demo)
 
+### SCHEDULE DEMO
+
+[Click here to Schedule the demo of Multivendor marketplace App for Shopify ](https://egsma.io/shopify-multivendor-marketplace/)
+
