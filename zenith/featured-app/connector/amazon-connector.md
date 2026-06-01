@@ -95,11 +95,11 @@ Here, you will get the **Client identifier** and the **Client secret** which you
 
 Once the details are added, it will show like this
 
-[![screenshot_1697040982033](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/10/screenshot_1697040982033-1200x586.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/10/screenshot_1697040982033-1200x586.png)
+[![screenshot_1697040982033](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/ac11.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/ac11.webp)
 
 The other details that need to be configured here are -
 
-[![screenshot_1697040772363](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/10/screenshot_1697040772363-1200x586.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/10/screenshot_1697040772363-1200x586.png)
+[![screenshot_1697040772363](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/05/ac18.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/05/ac18.webp)
 
 **Region:** The region in which the Amazon marketplace of the seller is operational i.e Europe, North America or the Far East.
 
@@ -117,21 +117,21 @@ Amazon provides reports and on the basis of their reports we can import the prod
 
 To import reports from Amazon Seller Central, click on the Import Reports option
 
-[![screenshot_1697041113905](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/10/screenshot_1697041113905-1200x586.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/10/screenshot_1697041113905-1200x586.png)
+[![screenshot_1697041113905](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/05/acm.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/05/acm.webp)
 
 On clicking the import reports button, the seller will be redirected to the page where they can import the products on the basis of time duration.
 
-[![screenshot_1697041167271](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/10/screenshot_1697041167271-1200x586.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/10/screenshot_1697041167271-1200x586.png)
+[![screenshot_1697041167271](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/05/acd.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/05/acd.webp)
 
 Once the report is imported into the marketplace seller panel, the seller can view the reports by clicking on the "view reports" button
 
-[![screenshot_1697041224199](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/10/screenshot_1697041224199-1200x586.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/10/screenshot_1697041224199-1200x586.png)
+[![screenshot_1697041224199](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/05/ace.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/05/ace.webp)
 
 The seller will get the list of all the reports that they have imported from Amazon Seller Central here.
 
 The seller can click on the three dots "..." for the selected report and click on the "view" option in order to view the products imported into that report
 
-[![screenshot_1697041472524](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/10/screenshot_1697041472524-1200x586.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/10/screenshot_1697041472524-1200x586.png)
+[![screenshot_1697041472524](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/05/acf.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/05/acf.webp)
 
 Click on the "create product" option to create the product into the marketplace seller and Admin panel.
 
@@ -139,11 +139,11 @@ Click on the "create product" option to create the product into the marketplace 
 
 You can also create them in bulk by selecting the products and clicking on the bulk action button.
 
-[![screenshot_1697041399813](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/10/screenshot_1697041399813-1200x586.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/10/screenshot_1697041399813-1200x586.png)
+[![screenshot_1697041399813](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/05/acg.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/05/acg.webp)
 
 Now, the product will be created in the Admin panel, where the Admin can enable them.
 
-[![screenshot_1697042153827](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/10/screenshot_1697042153827-1200x586.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/10/screenshot_1697042153827-1200x586.png)
+[![screenshot_1697042153827](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/05/ach.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/05/ach.webp)
 
  Product Update
 ---------------------------------
@@ -151,13 +151,13 @@ Once the product is created in the marketplace panel, the sellers will then have
 
 Using this option the sellers can sync the changes made in the Amazon seller central to their marketplace manually.
 
-[![screenshot_1697100476054](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/10/screenshot_1697100476054-1200x586.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/10/screenshot_1697100476054-1200x586.png)
+[![screenshot_1697100476054](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/05/aci.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/05/aci.webp)
 
  Connector Price Rule & Currency Conversion
 -----------------------
 Seller will select the Seller Sync App from the drop-down menu for currency conversion & price rule:
 
-[![screenshot_1697042797316](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/10/screenshot_1697042797316-1200x586.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/10/screenshot_1697042797316-1200x586.png)
+[![screenshot_1697042797316](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/05/acj.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/05/acj.webp)
 
 **CURRENCY CONVERSION**
 
@@ -165,7 +165,7 @@ If the currency of your seller’s store is different from the currency you set 
 
 Accordingly, your seller’s product price is calculated once a customer places an order
 
-[![screenshot_1697042908998](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/10/screenshot_1697042908998-1200x586.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/10/screenshot_1697042908998-1200x586.png)
+[![screenshot_1697042908998](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/05/ack.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/05/ack.webp)
 
 **PRICE RULE**
 
@@ -176,7 +176,7 @@ In the price rule menu, the seller can create a price rule to manage the price o
 *   Select the Price change, either fixed or percentage.  
     Enter the amount of how much the sellers want to increase or decrease the price.
 
-[![screenshot_1697042967585](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/10/screenshot_1697042967585-1200x586.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/10/screenshot_1697042967585-1200x586.png)
+[![screenshot_1697042967585](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/05/acl.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/05/acl.webp)
 ### SCHEDULE DEMO
 
 [Click here to Schedule the demo of Multivendor marketplace App for Shopify ](https://egsma.io/shopify-multivendor-marketplace/)

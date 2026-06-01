@@ -4,7 +4,7 @@ description: Print-on-Demand Marketplace
 author: Chirag Tyagi
 ---
 
-# User Guide for Print-on-demand Marketplace
+# About Print-on-demand Marketplace
 
 
 Print-on-Demand Marketplace

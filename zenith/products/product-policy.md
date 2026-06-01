@@ -15,11 +15,11 @@ The process will take just a few minutes of yours. So, all you need to do is jus
 
 The first step is to visit the "**Product Configuration**" menu of the app and enable the "**Show Product Policy**" tab.
 
-![product configuration ](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/10/Dashboard-Admin.png)
+![product configuration ](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/05/mvm-admin-dash.webp)
 
 Now, scroll down and enable the Tab:-
 
-![Show Product Policy](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/10/Configuration-Admin.png)
+![Show Product Policy](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/05/product-config.webp)
 
 **STEP 2:- Add Policies to the Products**
 -----------------------------------------
@@ -28,13 +28,13 @@ Visiting the **Products** section, select a product to which you want to add pol
 
 Multi-vendor Admin Panel>>**Products**\>>**Add Product** or **Edit Product**\>>**Write** Product Policy>>**Save** Changes.
 
-![Products](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/10/Product-Admin.png)
+![Products](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/05/product-listing.webp)
 
 Now, on the Add/Edit Product Form, get the option to write policies.
 
 #### Admin End
 
-![product policy](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/10/Add-Product-Admin.png)
+![product policy](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/05/admin-product-policy.webpg)
 
 #### On Seller End
 
@@ -42,7 +42,7 @@ Now, sellers can also write product policies while adding or editing a product.
 
 Multi-vendor Seller Panel>>**Products**\>>**Product Listing**\>>**Add/Edit Product**\>>**Write Product Policies**\>>Save.
 
-![Product Listing](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/10/Edit-Product-Seller-%E2%80%A2-Multivendor-MarketPlace.png)
+![Product Listing](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/05/seller-product-policy.webp)
 
 **STEP 3:- Add Codes to Product.liquid template file.**
 -------------------------------------------------------
@@ -53,7 +53,7 @@ Now, after adding the product policies, you need to add the codes to the product
 
 You will get the code from the "**Instruction for Marketplace**" section of the app.
 
-![Instruction for Marketplace](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/10/Instructions-Admin-1.png)
+![Instruction for Marketplace](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/05/product-policy-code.webp)
 
 Once you get the codes, you can follow these steps to paste the codes into liquid files:
 

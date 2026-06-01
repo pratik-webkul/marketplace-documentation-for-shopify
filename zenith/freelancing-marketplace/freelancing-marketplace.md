@@ -4,7 +4,7 @@ description: Freelancing Marketplace
 author: Chirag Tyagi
 ---
 
-# User Guide for Freelancing Marketplace
+# About Freelancing Marketplace
 
 
 Freelancing Marketplace

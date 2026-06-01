@@ -12,8 +12,8 @@ If you are using [Multi vendor Marketplace app for Shopify](https://store.webk
 
 You can create Shopify Custom Apps and configure them in the app to resolve the API limit issue.
 
-### Why would you as a Merchant Need this
-
+ Why would you as a Merchant Need this
+-----------------
 The Shopify API call limit only allows for two requests per second. So, we get 2 API calls per second from the Shopify end. Sometimes, this API gets exhausted when you deal with larger data.
 
 Suppose, in case you sync products in bulk, there might be some possibilities that the API gets exhausted, and the complete data won’t get synced properly.
@@ -31,10 +31,10 @@ Points to be Noted:-
 *   From here, you can add **a maximum of 5 custom apps** to the multi-vendor app.
 *   Firstly, you need to **provide the required permissions** in the Shopify private app.
 
-### NEW WORKFLOW
-
-### How to create a custom app in the Multi-vendor App?
-
+ NEW WORKFLOW
+-------------
+ How to create a custom app in the Multi-vendor App?
+-----------
 Merchants have to log in to their dev dashboard through [dev.shopify.com](http://dev.shopify.com) and then log in to the store.
 
 [![devlogin](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/03/devlogin-1-1200x545.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/03/devlogin-1-1200x545.webp)
@@ -73,8 +73,8 @@ And, paste it here in the Redirect URL along with the App URL. Only use a comma 
 
 [![paste other url](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/02/pasteredirecturl-1200x545.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/02/pasteredirecturl-1200x545.webp)
 
-### Provide the required permissions in the Shopify private app
-
+ Provide the required permissions in the Shopify private app
+-----------------
 **Note: Be very specific about the permissions. If it is wrong, no data will be updated as no API will be hit.**
 
 Now, copy these required permissions and paste them into the scope block altogether without any space between them:-
@@ -132,10 +132,10 @@ Once this is done, the app will be installed successfully.
 
 [![install ](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/02/installapp-1200x545.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/02/installapp-1200x545.webp)
 
-### LEGACY WORKFLOW (Old)
-
-#### How to Create Custom Apps in the Multi-vendor App?
-
+ LEGACY WORKFLOW (Old)
+--------------
+ How to Create Custom Apps in the Multi-vendor App(Old flow)?
+----------------
 To Add a Shopify Custom App, you need to visit the Shopify Admin Panel >> Apps >> Develop apps
 
 [![r1](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/09/r1.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/09/r1.png)
@@ -152,8 +152,8 @@ Click on "Configure Admin API Scope"
 
 [![configure-api-scope](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/03/configure-api-scope-1200x488.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/03/configure-api-scope-1200x488.png)
 
-### Provide the required permissions in the Shopify private app
-
+ Provide the required permissions in the Shopify private app
+--------------
 1.  Product: Write inventory and Read inventory
 2.  Inventory: Write Products and read products
 3.  Order: View or manage orders.

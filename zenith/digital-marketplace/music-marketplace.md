@@ -5,7 +5,7 @@ date: 2025-07-29
 author: Chirag Tyagi
 ---
 
-# User Guide for Music Marketplace
+# About Music Marketplace
 
 
 Music Marketplace

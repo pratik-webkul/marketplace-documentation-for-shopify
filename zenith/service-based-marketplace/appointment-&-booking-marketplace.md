@@ -4,7 +4,7 @@ description: Appointment & Booking Marketplace
 author: Chirag Tyagi
 ---
 
-# User Guide for Appointment & Booking Marketplace
+# About Appointment & Booking Marketplace
 
 
 Appointment & Booking Marketplace

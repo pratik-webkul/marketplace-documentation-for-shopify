@@ -4,7 +4,7 @@ description: CROWDFUNDING MARKETPLACE
 author: Chirag Tyagi
 ---
 
-# User Guide for Crowdfunding Marketplace
+# About Crowdfunding Marketplace
 
 
 In days gone by, [Crowdfunding](https://apps.shopify.com/crowd-funding)considered a niche segment within the eCommerce industry. Today, it has evolved into a widely adopted business model that helps entrepreneurs, startups, creators, and businesses bring their ideas to life by connecting directly with supporters and potential customers.

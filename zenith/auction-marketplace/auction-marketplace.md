@@ -5,7 +5,7 @@ date: 2025-08-04
 author: Chirag Tyagi
 ---
 
-# User Guide for Auction Marketplace
+# About Auction Marketplace
 
 
 The standard method of buying and selling is, a buyer visits a store, search for his desired product, look for the price tag & pays to the seller.

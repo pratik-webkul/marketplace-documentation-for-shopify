@@ -31,13 +31,13 @@ To configure this, you need to visit Multi-vendor Marketplace Admin Panel > Conf
 
 Under the heading 'WANT TO USE YOUR AMAZON-S3 CREDENTIAL FOR DIGITAL PRODUCT', select Merchant S3 from the drop-down menus. Refer:
 
-![Screenshot-from-2020-01-02-11-19-52](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/01/Screenshot-from-2020-01-02-11-19-52-1200x595.png)
+![Screenshot-from-2020-01-02-11-19-52](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/05/1amazons3.webp)
 
 Further, visit Multivendor Marketplace Admin Panel > Configuration > Amazon S3/Box Details
 
 Here, fill out your **Amazon S3 Details**:
 
-![7r1n60shwly-1516×849-](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/10/7r1n60shwly-1516%C3%97849--1200x595.png)
+![7r1n60shwly-1516×849-](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/05/2amazons3box-1.webp)
 
 Steps to get the Amazon S3 images
 ---------------------------------

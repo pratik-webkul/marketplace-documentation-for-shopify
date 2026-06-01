@@ -5,7 +5,7 @@ date: 2025-07-25
 author: Chirag Tyagi
 ---
 
-# User Guide for Hyperlocal Marketplace
+# About Hyperlocal Marketplace
 
 
 ## Hyperlocal Marketplace for Multivendor Platforms

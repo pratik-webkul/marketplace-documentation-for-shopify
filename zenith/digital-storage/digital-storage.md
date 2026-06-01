@@ -13,7 +13,7 @@ Selling physical as well as digital products on this Multi-Vendor Marketplace is
 
 In **Multivendor Marketplace App** for Shopify, a merchant can set up a store for physical (normal) products, digital products & even both.
 
-They can easily select the **Shop Type** from the app's configuration section. Check out: [Sell Digital Products on MultiVendor Marketplace](/zenith/products/digital-products.html)
+They can easily select the **Shop Type** from the app's configuration section. Check out: [Sell Digital Products on MultiVendor Marketplace](/zenith/products/digital-products)
 
 Now, for adding digital products to your multivendor store, you require digital storage. The app in itself comes with defined storage depending on the subscription plan.
 
@@ -25,7 +25,7 @@ The digital storage provided in the Multivendor Marketplace for Shopify depends 
 
 The admin can check this storage by going to **Multi vendor Marketplace Admin Panel** > Hover over the three dots (**⋅⋅⋅**) on the top right of the dashboard > Click on the ‘**Digital Storage**’:
 
-![Digital-Storage-Admin-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/01/Digital-Storage-Admin-1-1200x597.png)
+![Digital-Storage-Admin-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/05/dgst1.webp)
 
 In case, if the admin wants to increase this digital storage, then, he can do so by **Upgrading Plan**.
 
@@ -34,11 +34,11 @@ Upgrade Digital Storage Plan
 
 For this, go to **Multi vendor Marketplace Admin Panel** > Hover over the three dots (**⋅⋅⋅**) on the top right of the dashboard > Click on the ‘**Digital Storage**’ > Click on **Upgrade Plan** button:
 
-![Digital-Storage-Admin-1-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/01/Digital-Storage-Admin-1-1-1200x597.png)
+![Digital-Storage-Admin-1-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/05/dgst2.webp)
 
 This action will take you to the following page:
 
-![digital storage plan](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/01/digital1-719x1024.webp)
+![digital storage plan](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/05/dgst3.webp)
 
 Now here, we have eleven different **Digital Storage Plans** to choose from:
 
@@ -83,14 +83,14 @@ Drop an email at [support@webkul.com](mailto:support@webkul.com) regarding the s
 
 (This involves extra charges over & above your monthly multivendor plan charges).
 
-![digital storage contact us.](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/01/digital2-1200x943.webp)
+![digital storage contact us.](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/05/dgst4.webp)
 
 How to upgrade the digital storage plan?
 ----------------------------------------
 
 Simply, click on the **Upgrade Storage** button for the plan that you want to go with. This action will give you the following pop-up:
 
-![Upgrade Plan](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/09/Choose-Storage-plan-2.png)
+![Upgrade Plan](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/05/dgst5.webp)
 
 You can check the Auto Upgrade Plan option here to automatically upgrade your plan to a higher one once you have used all the current digital storage in your store. (This is completely optional.)
 
@@ -100,7 +100,7 @@ The admin will receive an email regarding the same.
 
 This is how the plan status will be visible:
 
-![Digital Storage Plans](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/09/Choose-Storage-plan-3.png)
+![Digital Storage Plans](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/05/dgst6.webp)
 
 We will disable the lower plans, and you can switch only to the higher ones as explained above.
 
@@ -108,18 +108,18 @@ Further, you can view the increased digital storage information by going to **Mu
 
 Hover over the three dots (**⋅⋅⋅**) on the top right of the dashboard > Click on the ‘**Digital Storage**’:
 
-![Digital-Storage-Admin-2](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/01/Digital-Storage-Admin-2-1200x597.png)
+![Digital-Storage-Admin-2](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/05/dgst1.webp)
 
 Payment History
 ---------------
 
 You can check the payment history by clicking on the '**Payment History**' button. Refer:
 
-![Digital-Storage-Admin-2-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/01/Digital-Storage-Admin-2-1-1200x597.png)
+![Digital-Storage-Admin-2-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/05/dgst7.webp)
 
 The redirected page:
 
-![Storage-Payment-History-Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/01/Storage-Payment-History-Admin-1200x597.png)
+![Storage-Payment-History-Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/05/dgst8.webp)
 
 ### Digital storage is used to store the following files:
 
@@ -132,7 +132,7 @@ The redirected page:
 *   **Seller Shop Logo**
 *   **Icon Image**
 *   **Favicon Image**
-*   **Badge Image**: Used to store seller badges in case you are using the [Seller Badge](https://webkul.com/blog/seller-badge-multi-vendor-marketplace-for-shopify/) feature app.
+*   **Badge Image**: Used to store seller badges in case you are using the [Seller Badge](/zenith/featured-app/seller-add-ons/seller-and-customer-badge) feature app.
 
 ###### Some More…
 
