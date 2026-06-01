@@ -4,7 +4,7 @@ description: Artist Marketplace
 author: Chirag Tyagi
 ---
 
-# User Guide for Artist Marketplace
+# About Artist Marketplace
 
 
 Artist Marketplace

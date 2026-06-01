@@ -5,7 +5,7 @@ date: 2025-08-04
 author: Chirag Tyagi
 ---
 
-# User Guide for B2b Marketplace
+# About B2b Marketplace
 
 
 ## B2B Marketplace

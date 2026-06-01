@@ -75,7 +75,7 @@ These properties can be enabled or disabled using four corresponding checkboxes 
 
 By checking or unchecking the boxes, the admin can choose which details appear on the product page.
 
-[![Config](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/config-2-1200x509.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/config-2-1200x509.webp)
+[![Config](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/05/gpc.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/05/gpc.webp)
 
 On frontend, it will look like this.
 
@@ -199,7 +199,7 @@ By enabling this option, sellers can include their shop name in the handle of an
 
 To enable, Admin needs to navigate to the Admin panel of marketplace>> Configurations>> Global Product configuration>> enable Create Seller Global Product Handle With Seller Shop Name >> save.
 
-[![Create Seller Global Product Handle With Seller Shop Name](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/01/global1-1200x569.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/01/global1-1200x569.webp)
+[![Create Seller Global Product Handle With Seller Shop Name](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/05/gpc3.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/05/gpc3.webp)
 
 To see the seller shop on the seller global product handle, Admin needs to navigate to the Shopify backend >> Product >> select seller's Global product >>
 
@@ -336,11 +336,11 @@ Multivendor Admin Panel>>Visit Products section>>Click on "Import Products">>Sel
 
 which you want to assign as a Global Product>>Click on "Assign Product to Seller" (Action menu)>>Select **Global Product** from the drop-down menu>>Click on "Assign".
 
-[![Global Product1123](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/Import-Product-From-Shopify-Admin-4.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/Import-Product-From-Shopify-Admin-4.png)
+[![Global Product1123](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/05/gpc4.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/05/gpc4.webp)
 
 You can refer the below-given screenshot for the same:
 
-[![Global Product120](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/Import-Product-From-Shopify-Admin-1.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/Import-Product-From-Shopify-Admin-1.png)
+[![Global Product120](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/05/gpc5.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/05/gpc5.webp)
 
 ### **Now** Admin can also edit Global product listing in bulk(admin side)
 
@@ -354,7 +354,7 @@ Steps to Perform Bulk Edit:
 
 \-On Admin Panel -> Products -> Global Products -> Select multiple products -> click on 'Bulk Action' -->click on Bulk Edit.
 
-[![global product bulk edit ](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/bulkedit-1200x815.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/bulkedit-1200x815.webp)
+[![global product bulk edit ](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/05/gpc6.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/05/gpc6.webp)
 
 Table with listed global products will appear, Edit product's entry accordingly.
 
@@ -377,7 +377,7 @@ The global product supports the following [commission types](/zenith/commission/
 
 **[CLICK HERE](https://webkul.com/blog/shopify-multivendor-marketplace-commissions-new-theme/)** to know more about commissions in the multi-vendor app.
 
-[![global product price](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/AwesomeScreenshot-shashi-webkul-shopify-mp-admin-index.php-2019-08-14_8_00.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/AwesomeScreenshot-shashi-webkul-shopify-mp-admin-index.php-2019-08-14_8_00.png)
+[![global product price](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/05/gpc7-scaled.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/05/gpc7-scaled.webp)
 
 > Commission will be applied in this manner:
 > 
@@ -467,11 +467,11 @@ You can now either delete seller's products or convert the global products to no
 
 Once you disable the Global Product feature, you will get two options. You will be asked either to "**Convert seller global product to normal product**" or "**Delete seller global product**".
 
-[![Screenshot19-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/10/Screenshot19-1-1200x600.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/10/Screenshot19-1-1200x600.png)
+[![Screenshot19-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/05/gpc8.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/05/gpc8.webp)
 
 Once you choose to "Delete seller global products", you can choose if you want to delete the products from Shopify too or not. Select the option and click the **Deactivate** button.
 
-[![Screenshot-2020-10-09T134432.793](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/10/Screenshot-2020-10-09T134432.793-1200x568.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/10/Screenshot-2020-10-09T134432.793-1200x568.png)
+[![Screenshot-2020-10-09T134432.793](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/05/gpc9.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/05/gpc9.webp)
 
  Allow Shopify connector sellers to sell **global product**
 ---------------
@@ -509,9 +509,9 @@ Once disabled, the seller profile will no longer be linked to the Global Product
 --------------
 Shopify connector sellers will import the products from their shopify store. Products imported will only be approved once they are mapped with the Admin's global product.
 
-[![image](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/04/screenshot_1712589783360-1200x604.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/04/screenshot_1712589783360-1200x604.webp)
+[![image](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/05/gpc10.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/05/gpc10.webp)
 
-[![image](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/04/screenshot_1712589795314-1200x611.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/04/screenshot_1712589795314-1200x611.webp)
+[![image](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/05/gpc11.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/05/gpc11.webp)
 
 **Note: Seller global product will only be mapped with admin product if SKU and option value are the same.**
 

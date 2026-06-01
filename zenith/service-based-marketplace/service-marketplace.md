@@ -4,7 +4,7 @@ description: Service-Based Marketplace
 author: Chirag Tyagi
 ---
 
-# User Guide for Service-based Marketplace
+# About Service-based Marketplace
 
 
 Service-Based Marketplace

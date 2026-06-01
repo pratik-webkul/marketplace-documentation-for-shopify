@@ -1,7 +1,9 @@
 #google_translate_element {
   display: flex;
   align-items: center;
-  margin-left: 12px;
+  margin-left: 14px;
+  margin-top: 14px;
+
 }
 
 .goog-te-gadget {

@@ -4,7 +4,7 @@ description: Rental Marketplace
 author: Chirag Tyagi
 ---
 
-# User Guide for Rental Marketplace
+# About Rental Marketplace
 
 
 ## Rental Marketplace

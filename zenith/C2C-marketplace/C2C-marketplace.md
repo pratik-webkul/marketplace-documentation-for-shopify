@@ -4,7 +4,7 @@ description: C2C Marketplace
 author: Chirag Tyagi
 ---
 
-# User Guide for C2c Marketplace
+# About C2C Marketplace
 
 
 ## C2C Marketplace

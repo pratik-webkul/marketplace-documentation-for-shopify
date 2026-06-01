@@ -6,3 +6,4 @@ git-main/*
 .vitepress/dist/*
 .kilo/*
 .kilocode/*
+.claude/

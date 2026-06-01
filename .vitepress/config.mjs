@@ -202,7 +202,7 @@ markdown: {
   head: [
     ['link', { rel: 'icon', href: '/image/favicon.png' }],
     // ['script', { src: '/js/toggle-sidebar.js' }],
-    
+    ['script', { src: 'https://webkul.chatwhizz.com/chat-support/js/wk-chat-support.js'}],
     ['meta', { name: 'title', content: 'Multi-Vendor Marketplace for Shopify' }],
     ['meta', { name: 'description', content: 'Powerful Multi-Vendor Marketplace solution for Shopify store owners to convert their store into a fully functioning marketplace.' }],
     ['meta', { property: 'og:type', content: 'website' }],
