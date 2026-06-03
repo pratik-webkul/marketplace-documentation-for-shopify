@@ -140,6 +140,18 @@ Note--
 Sellers who sign up for their account on the Multi-Vendor Marketplace via social media login (like Gmail or Facebook) will only be able to log in using the same social media login (Gmail/Facebook).
 
 On the other hand, sellers who create their account through the regular signup form will only be able to log in using the direct signin form — they will not be able to log in using social media login (Gmail/Facebook).
+
+
+Social Media Login Enhancement
+---------------
+Sellers who originally registered on the marketplace using the standard signup process (email and password) can now log in using Google or Facebook, provided the social account is linked to the same email address used during registration.
+Login Rules:
+• Sellers who signed up with an email and password can log in using either:
+◦ Email & Password (Normal Login)
+◦ Google/Facebook Login (Social Login)
+• Sellers who created their account exclusively through Google or Facebook login cannot log in using the normal email/password method unless a password is separately set for their account.
+This enhancement provides a more flexible and convenient login experience while maintaining account security and consistency.
+
 ### SCHEDULE DEMO
 
 [Click here to Schedule the demo of Multivendor marketplace App for Shopify ](https://egsma.io/shopify-multivendor-marketplace/)

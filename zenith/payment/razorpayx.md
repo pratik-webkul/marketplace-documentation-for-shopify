@@ -114,7 +114,7 @@ _**Note:** This payment method will only work if the Seller's address is from In
 
 Once they select the Payment Method as RazorPayX they will get a form to fill in their bank details as shown in the below image:
 
-[![hg](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/12/hg-1200x654.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/12/hg-1200x654.png)
+[![hg](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/razor1.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/razor1.webp)
 
 **Note:** In case of testing you can add any random number for the account number and valid IFSC code but please make sure you provide the correct number of digits.
 
@@ -125,7 +125,7 @@ In the case of UPI
 
 Sellers need to Provide their UPI id as shown in the below image:
 
-[![dsdkjb](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/12/dsdkjb-1200x478.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/12/dsdkjb-1200x478.png)
+[![dsdkjb](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/razor2.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/razor2.webp)
 
 Once the Seller saves Account details successfully. Contact will be created at the Admin Razor PayX account as shown in the below image:
 
@@ -163,17 +163,17 @@ From the **Seller Payment** section of the app, the admin can view the complet
 ------------------
 Select seller payment type as " pay order wise" in payment configuration section.
 
-[![to pay the seller](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/04/screenshot_1712311040192-1200x625.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/04/screenshot_1712311040192-1200x625.webp)
+[![to pay the seller](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/razor4.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/razor4.webp)
 
 You will have the option to pay via razor pay on the order description page.
 
 Navigate to marketplace Admin panel >> orders >> order listings >> click on the three dots "..." for the selected order >> View
 
-[![to pay the seller](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/04/screenshot_1712311441573-1200x625.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/04/screenshot_1712311441573-1200x625.webp)
+[![to pay the seller](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/razor5.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/razor5.webp)
 
 Pay to seller >> select payment resource >> Razorpayx
 
-[![to pay the seller](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/04/screenshot_1712311212972.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/04/screenshot_1712311212972.webp)
+[![to pay the seller](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/razor6.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/razor6.webp)
 
 This is all for the Razor payment method for your Multivendor app for Shopify.
 

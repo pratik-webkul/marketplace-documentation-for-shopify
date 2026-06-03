@@ -276,6 +276,7 @@ markdown: {
             { text: 'Seller notification', link: '/zenith/seller/seller-notification' },            
             { text: 'Seller policy', link: '/zenith/seller/advanced-seller-policy' },
             { text: 'Seller navigation', link: '/zenith/seller/seller-navigation' },
+            { text: 'Seller terms and conditions', link: '/zenith/seller/seller-terms-and-conditions' },
             { text: 'Seller URL customisation', link: '/zenith/seller/seller-URL-customisation' }
             // { text: 'Seller Updates', link: '/zenith/seller/seller-updates' } 
 
@@ -333,6 +334,7 @@ markdown: {
             { text: 'Stripe configuration', link: '/zenith/payment/stripe-configuration' },
             { text: 'Paypal', link: '/zenith/payment/paypal' },
             { text: 'Razorpay-X', link: '/zenith/payment/razorpayx' },
+            { text: 'Network payout', link: '/zenith/payment/network-payout' },
             { text: 'Seller payment configuration', link: '/zenith/payment/seller-payment-configuration' }
 
 
@@ -389,6 +391,7 @@ markdown: {
                 // { text: 'Marketplace shipping', link: '/zenith/featured-app/shipping/marketplace-shipping' },
                 { text: 'PostNL', link: '/zenith/featured-app/shipping/postnl' },
                 { text: 'Sendle shipping', link: '/zenith/featured-app/shipping/sendle-shipping' },
+                { text: 'Shipentegra shipping', link: '/zenith/featured-app/shipping/shipentegra-shipping' },
                 { text: 'Shipmondo', link: '/zenith/featured-app/shipping/shipmondo' },
                 { text: 'Shiprocket shipping', link: '/zenith/featured-app/shipping/shiprocket-shipping' },
                 { text: 'Shipstation', link: '/zenith/featured-app/shipping/shipstation' },
@@ -516,8 +519,10 @@ markdown: {
           collapsed: true,
           items: [
           {text:'Marketplace shipping',link:'/zenith/marketplace-shipping/marketplace-shipping'},
+          {text:'Country wise shipping',link:'/zenith/marketplace-shipping/country-wise-shipping'},
           {text:'Multiple shipping',link:'/zenith/marketplace-shipping/multiple-shipping'},
-          {text:'Postcode Shipping',link:'/zenith/marketplace-shipping/postcode-shipping'},  
+          {text:'Postcode shipping',link:'/zenith/marketplace-shipping/postcode-shipping'},  
+          {text:'Zone wise shipping',link:'/zenith/marketplace-shipping/zone-wise-shipping'},
           ]
         },
         {

@@ -9,15 +9,16 @@ author: Chirag Tyagi
 
 Till now, [Multi-Vendor Marketplace App](/zenith/introduction/) facilitates admin as well as the seller to [fulfill orders](/zenith/order/order-fulfillment) from their respective panels. Now, we have introduced a **partial fulfillment** feature as well.
 
-You can fulfill a part of an order by fulfilling some line items. Let's learn how you can activate this feature within the marketplace app.
+You can fulfill a part of an order by fulfilling some line items. This configuration is enabled by default in the marketplace app, so there is no need to configure it separately.
 
+<!-- 
  Enable Partial Fulfillment
 ---------------
 Visit **Multivendor Admin Panel** > **Configuration** > **Order Configuration**
 
 **NOTE: Once you enable the partial fulfillment option, you can’t disable it further!**
 
-[![Enable Partial Fulfillment](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/02/download-1-1-1200x567.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/02/download-1-1-1200x567.png)
+[![Enable Partial Fulfillment](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/02/download-1-1-1200x567.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/02/download-1-1-1200x567.png) -->
 
  Steps to Partially Fulfill the Orders
 ---------------

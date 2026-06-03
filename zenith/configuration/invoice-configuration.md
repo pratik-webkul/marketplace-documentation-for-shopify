@@ -322,7 +322,7 @@ Now, the admin/seller can view the auto-generated invoices from the Automated Se
 
 This is how the auto-generated invoices get listed:-
 
-[![download-27](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/03/download-27-1200x506.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/03/download-27-1200x506.png)
+[![download-27](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/inv1.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/inv1.webp)
 
 This section lists the invoices of the respective month. You can filter the invoices on the basis of date when the invoice is created.
 
@@ -330,7 +330,7 @@ You need to select the date range and click the **Get** button. Now, you can pri
 
 Similarly, the auto-generated invoices will appear in the **Automated Seller Invoice** menu of the seller panel. They can print invoices from this section.
 
-[![download-28](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/03/download-28-1200x500.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/03/download-28-1200x500.png)
+[![download-28](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/sellerinv1.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/sellerinv1.webp)
 
  Edit the Automated Bulk Invoice
 --------------------------

@@ -20,7 +20,7 @@ To enable the **Connector**, visit the “**Feature App**” section of the app 
 -----------------
 Go to the **Feature App** section and enable the **Squarespace Connector** feature app.
 
-[![Squarespace Connector feature app](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/10/screenshot-ravikant-sh.webkul.com-2021.10.06-14_32_55-1200x590.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/10/screenshot-ravikant-sh.webkul.com-2021.10.06-14_32_55-1200x590.png)
+[![Squarespace Connector feature app](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/05/sqc.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/05/sqc.webp)
 
 Then, approve the additional charge of $25 USD/month over and above your current Multi-vendor app plan.
 
@@ -28,13 +28,13 @@ Then, approve the additional charge of $25 USD/month over and above your current
 ---------------
 To configure the settings, visit the admin panel **Configurations**\>>**Connector Configuration**\>>select the connector.
 
-[![Squarespace Connector- admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/10/screenshot-ravikant-sh.webkul.com-2021.10.06-14_36_32-1200x590.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/10/screenshot-ravikant-sh.webkul.com-2021.10.06-14_36_32-1200x590.png)
+[![Squarespace Connector- admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/05/sqc2.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/05/sqc2.webp)
 
 From this section, you can configure the settings:-
 
-[![Squarespace Connector](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/10/screenshot-ravikant-sh.webkul.com-2021.10.06-14_39_12-1-1200x854.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/10/screenshot-ravikant-sh.webkul.com-2021.10.06-14_39_12-1-1200x854.png)
+[![Squarespace Connector](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/05/sqc3.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/05/sqc3.webp)
 
-[![edit](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/09/squarespace-1200x580.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/09/squarespace-1200x580.webp)
+[![edit](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/05/sqc4.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/05/sqc4.webp)
 
 **Note:-** Once the order is created at the admin Shopify store for the connector product then the same order will be created on seller's squarespace store also.
 
@@ -48,9 +48,9 @@ That's all about the admin end configurations. Let's move on to the seller panel
 ----------------
 Now, the seller needs to manage the configuration from the Multi-vendor seller panel. Visit the seller panel **Configuration**\>>**Squarespace Configuration**.
 
-[![screenshot-ravikant-sh.webkul.com-2021.10.07-15_39_37](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/10/screenshot-ravikant-sh.webkul.com-2021.10.07-15_39_37-1200x590.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/10/screenshot-ravikant-sh.webkul.com-2021.10.07-15_39_37-1200x590.png)
-
-[![Squarespace Connector seller](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/10/screenshot-ravikant-sh.webkul.com-2021.10.06-15_35_42-1200x732.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/10/screenshot-ravikant-sh.webkul.com-2021.10.06-15_35_42-1200x732.png)
+[![screenshot-ravikant-sh.webkul.com-2021.10.07-15_39_37](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/05/sqc5.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/05/sqc5.webp)
+<!-- 
+[![Squarespace Connector seller](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/10/screenshot-ravikant-sh.webkul.com-2021.10.06-15_35_42-1200x732.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/10/screenshot-ravikant-sh.webkul.com-2021.10.06-15_35_42-1200x732.png) -->
 
 Here, the seller needs to configure the Squarespace details such as unit weight, store currency, Squarespace API key. Let's see how the seller will get the API keys.
 
