@@ -709,21 +709,21 @@ In case a seller wants to map a product with a specific product of his/her Shopi
 
 Now, the seller can map the products from the Product Listing>>Edit product>>**Map Product** button.
 
-[![Edit-Product-Seller-•-Multivendor-MarketPlace-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/10/Edit-Product-Seller-%E2%80%A2-Multivendor-MarketPlace-1-1200x597.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/10/Edit-Product-Seller-%E2%80%A2-Multivendor-MarketPlace-1-1200x597.png)
+[![Edit-Product-Seller-•-Multivendor-MarketPlace-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/05/779359559740.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/05/779359559740.webp)
 
 Clicking the Map Product button, the seller can choose whether to map the products manually or auto-map with any specific product with same SKU or Option Name.
 
-[![Screenshot-2020-10-09T172100.279](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/10/Screenshot-2020-10-09T172100.279-1200x592.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/10/Screenshot-2020-10-09T172100.279-1200x592.png)
+[![Screenshot-2020-10-09T172100.279](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/05/779359619537.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/05/779359619537.webp)
 
 **On selecting the "Map Product Automatic" option**:- The seller needs to choose a product from his/her Shopify store and then, choose the Map Type as "Map with SKUs" or "Map with Option Name".
 
-[![Screenshot20-2](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/10/Screenshot20-2-1200x563.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/10/Screenshot20-2-1200x563.png)
+[![Screenshot20-2](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/05/779359689126.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/05/779359689126.webp)
 
 **On selecting "Map Product Manually" option**:-
 
 Once you choose this option, the seller simply needs to select his/her Shopify store product with which you need to map the seller's marketplace product.click the **Submit** button.
 
-[![Screenshot-2020-10-09T173753.254](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/10/Screenshot-2020-10-09T173753.254-1200x510.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/10/Screenshot-2020-10-09T173753.254-1200x510.png)
+[![Screenshot-2020-10-09T173753.254](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/05/779359723455.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/05/779359723455.webp)
 
  Sync Order On Seller Shopify Store
 ----------------

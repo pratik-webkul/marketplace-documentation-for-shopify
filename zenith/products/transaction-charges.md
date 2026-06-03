@@ -19,19 +19,19 @@ In most of the case, it happens that the store merchant has to bear the handling
 
 So, if you **enable** the **Display Sales Price On Product**, **[this is how](/zenith/products/handling-and-transaction-charges.html)** you can manage the handling and transaction charges. [Check the Guide](/zenith/products/handling-and-transaction-charges.html) !
 
-![sales prica](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/07/screenshot-sp-seller.webkul.com-2021.07.05-16_13_04-1200x549.png)
+![sales prica](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/05/tcoo1.webp)
 
 If the Sales Price tab is ON, the seller will bear the handling charge while the transaction charge will always bear by the admin.
 
 However, if the Display Sales Price on Products tab is **OFF**, you can **allow sellers to bear the transaction charge**.
 
-![transaction charges](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/07/screenshot-sp-seller.webkul.com-2021.07.05-17_16_38-1200x549.png)
+![transaction charges](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/05/tcoo3.webp)
 
 Let's understand how you can manage the transaction charges separately on orders.
 
 So, visit the Multi-vendor admin panel>>Go to Configuration>>**Product Configuration** and **enable the** **Transaction Charges** tab.
 
-![transaction](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/04/transaction-1200x491.png)
+![transaction](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/05/tcoo2.webp)
 
 Now, enabling this tab, you can select **whether the seller or the admin will bear the transaction charge** on orders under "Transaction Charges to be paid By" dropdown.  
   
@@ -63,17 +63,17 @@ Now, you can see these transaction charge details on Invoice, order detail page 
 
 **Order Detail Page:**
 
-![transaction charge on order page](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/07/screenshot-ravikant-sh.webkul.com-2021.07.05-18_04_19-1035x1024.png)
+![transaction charge on order page](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/05/tcoo4.webp)
 
 **Commission Listing page**:
 
-![transaction charge](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/07/screenshot-nimbusweb.me-2021.07.05-19_00_03.png)
+![transaction charge](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/05/tcoo5-1.webp)
 
-![screenshot-nimbusweb.me-2021.07.05-18_56_31-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/07/screenshot-nimbusweb.me-2021.07.05-18_56_31-1.png)
+![screenshot-nimbusweb.me-2021.07.05-18_56_31-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/05/tcoo6-1.webp)
 
 Transaction charges on Seller Panel:
 
-![seller end](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/07/screenshot-nimbusweb.me-2021.07.05-18_58_38.png)
+![seller end](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/05/tcoo6-1.webp)
 
 So, this is how the transaction charges will be managed on orders in the Multi-vendor app.
 

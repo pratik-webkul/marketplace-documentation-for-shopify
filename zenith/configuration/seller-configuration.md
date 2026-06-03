@@ -102,7 +102,7 @@ If you want to restrict new members to signup on your marketplace, you can enabl
 
 After enabling this feature, the **Join Now** button will be hidden from the **seller login page**. Refer:
 
-[![Login-•-Multivendor-MarketPlace](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/01/Login-%E2%80%A2-Multivendor-MarketPlace-1200x597.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/01/Login-%E2%80%A2-Multivendor-MarketPlace-1200x597.png)
+[![Login-•-Multivendor-MarketPlace](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/restrictsignup.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/restrictsignup.webp)
 
 Visit: **Multivendor Admin Panel** > **Configuration** > **Seller Configuration**.
 

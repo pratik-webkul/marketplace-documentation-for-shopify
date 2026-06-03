@@ -453,7 +453,7 @@ From here, the seller will view the Shipping Method and Shipping Type selected. 
 
 [![Marketplace-Shipping-Seller-•-Multivendor-MarketPlace](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/52mpshippingview.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/52mpshippingview.webp)
 
-### **[Know How To Create Multiple Shipping](https://webkul.com/blog/shopify-multiple-shipping/)**
+### **[Know How To Create Multiple Shipping](/zenith/marketplace-shipping/multiple-shipping.html)**
 
 This way, a seller can set different shipping rates for different countries based on the Price or weight of the product.
 
@@ -855,11 +855,6 @@ Now, scroll down and click the **Edit** button to configure Shipping Label:
 
 [![Invoice_Template_Admin-1-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/96editshippinglabel.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/96editshippinglabel.webp)
 
-### Demo
-
-**You can refer to** below link to check the demo of the **Shipping Calculator Feature:-**
-
-[https://multivendor-shipping-calculator.myshopify.com/pages/demo-details](https://multivendor-shipping-calculator.myshopify.com/pages/demo-details)
 ### SCHEDULE DEMO
 
 [Click here to Schedule the demo of Multivendor marketplace App for Shopify ](https://egsma.io/shopify-multivendor-marketplace/)
