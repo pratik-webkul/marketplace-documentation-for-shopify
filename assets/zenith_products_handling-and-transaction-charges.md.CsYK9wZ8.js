@@ -1,0 +1,365 @@
+import{_ as a,c as r,o as s,ah as n,j as e,a as t}from"./chunks/framework.PvdZnrZd.js";const m=JSON.parse('{"title":"Handling & Transaction Charges","description":"Handling & Transaction Charges","frontmatter":{"title":"Handling & Transaction Charges","description":"Handling & Transaction Charges","author":"Chirag Tyagi"},"headers":[],"relativePath":"zenith/products/handling-and-transaction-charges.md","filePath":"zenith/products/handling-and-transaction-charges.md"}'),i={name:"zenith/products/handling-and-transaction-charges.md"};function l(c,o,p,d,g,h){return s(),r("div",null,[...o[0]||(o[0]=[n('<h1 id="user-guide-for-handling-transaction-charges" tabindex="-1">User Guide for Handling &amp; Transaction Charges <a class="header-anchor" href="#user-guide-for-handling-transaction-charges" aria-label="Permalink to &quot;User Guide for Handling &amp; Transaction Charges&quot;">​</a></h1><p><strong><a href="/zenith/introduction/">Multivendor Marketplace for Shopify</a>: Handling &amp; Transaction Charges</strong></p><p>In many marketplace scenarios, the admin has to bear the handling and transaction charges applied to each transaction or transfer. As a result, these charges directly impact overall profitability.</p><p>To address this, we have introduced a feature in the app that allows these charges to be added to the product price during product creation.</p><p>Now, let’s understand the complete workflow in detail.</p><h2 id="the-workflow-of-the-multivendor-marketplace-handling-transaction-charges" tabindex="-1">The workflow of the Multivendor Marketplace: Handling &amp; Transaction Charges <a class="header-anchor" href="#the-workflow-of-the-multivendor-marketplace-handling-transaction-charges" aria-label="Permalink to &quot;The workflow of the Multivendor Marketplace: Handling &amp; Transaction Charges&quot;">​</a></h2><p>Before using this feature, make sure that the Sales Price option is enabled from the Product Configuration settings. Otherwise, the handling and transaction charges will not reflect properly.</p><p>To enable it, follow the steps below:</p><ol><li>First, go to <strong>Configuration</strong>.</li><li>Then, click on <strong>Product Configuration</strong>.</li><li>After that, enable the <strong>“Display Sales Price on Product”</strong> option.</li><li>Finally, click <strong>Save</strong>.</li></ol>',9),e("p",null,[e("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2017/05/salesprice-1200x629.webp",alt:"sales price",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+        const existing = document.getElementById('wk-image-overlay');
+        if(existing) existing.remove();
+
+        const overlay = document.createElement('div');
+        overlay.id = 'wk-image-overlay';
+
+        overlay.style.cssText = \`
+          position:fixed;
+          inset:0;
+          background:rgba(0,0,0,0.88);
+          display:flex;
+          align-items:center;
+          justify-content:center;
+          z-index:99999;
+          padding:20px;
+          cursor:zoom-out;
+          overflow:hidden;
+          backdrop-filter: blur(3px);
+        \`;
+
+        // 🔹 CLOSE BUTTON
+        const closeBtn = document.createElement('div');
+        closeBtn.innerHTML = '&times;';
+
+        closeBtn.style.cssText = \`
+          position:absolute;
+          top:20px;
+          right:25px;
+          color:#fff;
+          font-size:42px;
+          font-weight:bold;
+          cursor:pointer;
+          z-index:100000;
+          line-height:1;
+          user-select:none;
+        \`;
+
+        closeBtn.onclick = () => {
+          overlay.remove();
+        };
+
+        const img = document.createElement('img');
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2017/05/salesprice-1200x629.webp";
+
+        img.style.cssText = \`
+          max-width:95%;
+          max-height:95%;
+          border-radius:12px;
+          transition:transform .15s ease;
+          cursor:zoom-in;
+          will-change:transform;
+          user-select:none;
+        \`;
+
+        let scale = 1;
+
+        // scroll zoom
+        overlay.onwheel = (e) => {
+          e.preventDefault();
+
+          scale += e.deltaY * -0.001;
+          scale = Math.min(Math.max(1, scale), 5);
+
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        // double click zoom
+        img.ondblclick = () => {
+          scale = scale === 1 ? 2 : 1;
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        overlay.appendChild(closeBtn);
+        overlay.appendChild(img);
+
+        document.body.appendChild(overlay);
+
+        // close overlay
+        overlay.onclick = (e) => {
+          if (e.target === overlay) {
+            overlay.remove();
+          }
+        };
+
+        // esc close
+        document.onkeydown = (e) => {
+          if (e.key === 'Escape') {
+            overlay.remove();
+          }
+        };
+      `})],-1),n('<h2 id="_1-handling-charges" tabindex="-1">1. Handling Charges <a class="header-anchor" href="#_1-handling-charges" aria-label="Permalink to &quot;1\\. Handling Charges&quot;">​</a></h2><p>Handling charges allow the admin to add an additional fixed cost to the product price. <strong>As a result,</strong> this cost is automatically included in the final price displayed to the customer.</p><p><strong>Step 1: Enable Handling Charges</strong></p><p>To activate this feature, follow the steps below:</p><p>First, navigate to <strong>Configuration</strong>.</p><p>Then, open <strong>Product Configuration</strong>.</p><p>After that, enable the <strong>“Handling Charges”</strong> checkbox.</p><p>Finally, click <strong>Save Changes</strong> to apply the settings.</p>',8),e("p",null,[e("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2017/05/hndling-1200x626.webp",alt:"handling charge",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+        const existing = document.getElementById('wk-image-overlay');
+        if(existing) existing.remove();
+
+        const overlay = document.createElement('div');
+        overlay.id = 'wk-image-overlay';
+
+        overlay.style.cssText = \`
+          position:fixed;
+          inset:0;
+          background:rgba(0,0,0,0.88);
+          display:flex;
+          align-items:center;
+          justify-content:center;
+          z-index:99999;
+          padding:20px;
+          cursor:zoom-out;
+          overflow:hidden;
+          backdrop-filter: blur(3px);
+        \`;
+
+        // 🔹 CLOSE BUTTON
+        const closeBtn = document.createElement('div');
+        closeBtn.innerHTML = '&times;';
+
+        closeBtn.style.cssText = \`
+          position:absolute;
+          top:20px;
+          right:25px;
+          color:#fff;
+          font-size:42px;
+          font-weight:bold;
+          cursor:pointer;
+          z-index:100000;
+          line-height:1;
+          user-select:none;
+        \`;
+
+        closeBtn.onclick = () => {
+          overlay.remove();
+        };
+
+        const img = document.createElement('img');
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2017/05/hndling-1200x626.webp";
+
+        img.style.cssText = \`
+          max-width:95%;
+          max-height:95%;
+          border-radius:12px;
+          transition:transform .15s ease;
+          cursor:zoom-in;
+          will-change:transform;
+          user-select:none;
+        \`;
+
+        let scale = 1;
+
+        // scroll zoom
+        overlay.onwheel = (e) => {
+          e.preventDefault();
+
+          scale += e.deltaY * -0.001;
+          scale = Math.min(Math.max(1, scale), 5);
+
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        // double click zoom
+        img.ondblclick = () => {
+          scale = scale === 1 ? 2 : 1;
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        overlay.appendChild(closeBtn);
+        overlay.appendChild(img);
+
+        document.body.appendChild(overlay);
+
+        // close overlay
+        overlay.onclick = (e) => {
+          if (e.target === overlay) {
+            overlay.remove();
+          }
+        };
+
+        // esc close
+        document.onkeydown = (e) => {
+          if (e.key === 'Escape') {
+            overlay.remove();
+          }
+        };
+      `})],-1),e("p",null,[e("strong",null,"Step 2: Set Handling Charge on Product")],-1),e("p",null,"Once the feature is enabled, you can configure the handling charge for individual products.",-1),e("p",null,"To do so, follow the steps below:",-1),e("p",null,"Finally, save the product to apply the changes.",-1),e("p",null,[t("First, go to the "),e("strong",null,"Product Edit Page"),t(".")],-1),e("p",null,[t("Then, enter the required "),e("strong",null,"Handling Charge"),t(" value for the respective product.")],-1),e("p",null,[e("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2017/05/edit-1-1200x627.webp",alt:"edit",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+        const existing = document.getElementById('wk-image-overlay');
+        if(existing) existing.remove();
+
+        const overlay = document.createElement('div');
+        overlay.id = 'wk-image-overlay';
+
+        overlay.style.cssText = \`
+          position:fixed;
+          inset:0;
+          background:rgba(0,0,0,0.88);
+          display:flex;
+          align-items:center;
+          justify-content:center;
+          z-index:99999;
+          padding:20px;
+          cursor:zoom-out;
+          overflow:hidden;
+          backdrop-filter: blur(3px);
+        \`;
+
+        // 🔹 CLOSE BUTTON
+        const closeBtn = document.createElement('div');
+        closeBtn.innerHTML = '&times;';
+
+        closeBtn.style.cssText = \`
+          position:absolute;
+          top:20px;
+          right:25px;
+          color:#fff;
+          font-size:42px;
+          font-weight:bold;
+          cursor:pointer;
+          z-index:100000;
+          line-height:1;
+          user-select:none;
+        \`;
+
+        closeBtn.onclick = () => {
+          overlay.remove();
+        };
+
+        const img = document.createElement('img');
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2017/05/edit-1-1200x627.webp";
+
+        img.style.cssText = \`
+          max-width:95%;
+          max-height:95%;
+          border-radius:12px;
+          transition:transform .15s ease;
+          cursor:zoom-in;
+          will-change:transform;
+          user-select:none;
+        \`;
+
+        let scale = 1;
+
+        // scroll zoom
+        overlay.onwheel = (e) => {
+          e.preventDefault();
+
+          scale += e.deltaY * -0.001;
+          scale = Math.min(Math.max(1, scale), 5);
+
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        // double click zoom
+        img.ondblclick = () => {
+          scale = scale === 1 ? 2 : 1;
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        overlay.appendChild(closeBtn);
+        overlay.appendChild(img);
+
+        document.body.appendChild(overlay);
+
+        // close overlay
+        overlay.onclick = (e) => {
+          if (e.target === overlay) {
+            overlay.remove();
+          }
+        };
+
+        // esc close
+        document.onkeydown = (e) => {
+          if (e.key === 'Escape') {
+            overlay.remove();
+          }
+        };
+      `})],-1),n('<h2 id="how-handling-charge-works" tabindex="-1"><strong>How Handling Charge Works</strong> <a class="header-anchor" href="#how-handling-charge-works" aria-label="Permalink to &quot;**How Handling Charge Works**&quot;">​</a></h2><p>The handling charge is added to the product’s base price. As a result, the final price increases accordingly.</p><p>Moreover, this charge is applied per quantity. Therefore, if a customer purchases multiple units of the same product, the handling charge will be multiplied based on the ordered quantity.</p><p><strong>Example:</strong></p><p>Product Price = $100<br> Handling Charge = $10<br> Orderd Quantity = 3</p><p><strong>Final calculation:</strong><br> ($100 + $10) × 3 = $330</p><h2 id="_2-transaction-charges" tabindex="-1">2. Transaction Charges <a class="header-anchor" href="#_2-transaction-charges" aria-label="Permalink to &quot;2\\. Transaction Charges&quot;">​</a></h2><p>Transaction charges represent the payment processing fee applied to marketplace orders. In other words, this fee reflects the cost associated with processing payments through a gateway.</p><p>Therefore, the configured transaction charge will be added to the product’s base price, depending on the selected settings.</p><p><strong>Step 1: Enable Transaction Charge</strong></p><p>Before configuring the transaction settings, you must first enable the transaction charge option.</p><p>To do so, follow the steps below:</p><p>Finally, save the changes to activate the feature.</p><p>First, go to <strong>Configuration</strong>.</p><p>Then, open <strong>Product Configuration</strong>.</p><p>After that, enable the <strong>“Transaction Charge”</strong> option.</p>',16),e("p",null,[e("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2017/05/txnchg-1200x628.webp",alt:"txnchg",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+        const existing = document.getElementById('wk-image-overlay');
+        if(existing) existing.remove();
+
+        const overlay = document.createElement('div');
+        overlay.id = 'wk-image-overlay';
+
+        overlay.style.cssText = \`
+          position:fixed;
+          inset:0;
+          background:rgba(0,0,0,0.88);
+          display:flex;
+          align-items:center;
+          justify-content:center;
+          z-index:99999;
+          padding:20px;
+          cursor:zoom-out;
+          overflow:hidden;
+          backdrop-filter: blur(3px);
+        \`;
+
+        // 🔹 CLOSE BUTTON
+        const closeBtn = document.createElement('div');
+        closeBtn.innerHTML = '&times;';
+
+        closeBtn.style.cssText = \`
+          position:absolute;
+          top:20px;
+          right:25px;
+          color:#fff;
+          font-size:42px;
+          font-weight:bold;
+          cursor:pointer;
+          z-index:100000;
+          line-height:1;
+          user-select:none;
+        \`;
+
+        closeBtn.onclick = () => {
+          overlay.remove();
+        };
+
+        const img = document.createElement('img');
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2017/05/txnchg-1200x628.webp";
+
+        img.style.cssText = \`
+          max-width:95%;
+          max-height:95%;
+          border-radius:12px;
+          transition:transform .15s ease;
+          cursor:zoom-in;
+          will-change:transform;
+          user-select:none;
+        \`;
+
+        let scale = 1;
+
+        // scroll zoom
+        overlay.onwheel = (e) => {
+          e.preventDefault();
+
+          scale += e.deltaY * -0.001;
+          scale = Math.min(Math.max(1, scale), 5);
+
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        // double click zoom
+        img.ondblclick = () => {
+          scale = scale === 1 ? 2 : 1;
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        overlay.appendChild(closeBtn);
+        overlay.appendChild(img);
+
+        document.body.appendChild(overlay);
+
+        // close overlay
+        overlay.onclick = (e) => {
+          if (e.target === overlay) {
+            overlay.remove();
+          }
+        };
+
+        // esc close
+        document.onkeydown = (e) => {
+          if (e.key === 'Escape') {
+            overlay.remove();
+          }
+        };
+      `})],-1),n('<p><strong>Step 2: Configure Transaction Charge Settings</strong></p><p>&gt; <strong>Transaction Charges to be Paid By</strong></p><p>Under this setting, you can choose how the transaction fee should be determined.</p><p><strong>Normal</strong></p><p>If you select <strong>Normal</strong>, the transaction charge will be calculated based on the percentage and/or fixed values entered manually in the configuration.</p><p>In other words, the admin has full control over defining the charge structure.</p><p><strong>Stripe Fees</strong></p><p>On the other hand, if you select <strong>Stripe Fees</strong>, the system will follow Stripe’s default payment processing structure.</p><p>Therefore, the transaction charge will be calculated according to Stripe’s predefined fee model.</p><p>&gt; <strong>Transaction Charge Bear By</strong></p><p>This setting determines who will bear the transaction fee applied to the order.</p><h4 id="option-admin" tabindex="-1">Option: Admin <a class="header-anchor" href="#option-admin" aria-label="Permalink to &quot;Option: Admin&quot;">​</a></h4><p>If the <strong>Admin</strong> option is selected, the marketplace owner will bear the transaction charges instead of the seller.</p><p>For example, consider the following scenario:</p><ul><li>Order Total = $1000</li><li>Transaction Charge = 10%</li></ul><p>In this case, 10% of $1000 equals $100. Therefore, the seller will receive the full $1000 amount (minus commission, if applicable). However, the admin will absorb the $100 transaction cost.</p><p><strong>Use Case:</strong><br> This option is suitable when the marketplace wants to encourage sellers by internally covering the payment gateway fees.</p><hr><h4 id="option-seller" tabindex="-1">Option: Seller <a class="header-anchor" href="#option-seller" aria-label="Permalink to &quot;Option: Seller&quot;">​</a></h4><p>On the other hand, if the <strong>Seller</strong> option is selected, the transaction charge will be deducted directly from the seller’s payout.</p><p>Using the same example:</p><ul><li>Order Total = $1000</li><li>Transaction Charge = 10%</li></ul><p>Here, 10% of $1000 equals $100. As a result, $100 will be deducted from the seller’s payout. Consequently, the seller will receive $900 (before commission or other deductions, if applicable).</p><p><strong>Use Case:</strong><br> This option is ideal when the marketplace intends to pass the payment processing cost to the sellers.</p><p>&gt; <strong>Transaction Charge Type</strong></p><p>This determines how the charge is calculated.</p><p>🔹 <strong>Product Wise</strong></p><p>The charge is calculated individually for each product.</p><p><strong>Scenario:</strong></p><p>Product A = $500<br> Product B = $500<br> Transaction = 10%</p><p>Product A charge = $50<br> Product B charge = $50</p><p>Total transaction charge = $100</p><p><strong>Use Case:</strong> When each product’s value should affect the transaction fee independently.</p><p>🔹 <strong>Order Wise</strong></p><p>The charge is calculated once on the total order amount.</p><p><strong>Scenario:</strong></p><p>Order Total = $1000<br> Transaction = 10%</p><p>Total charge = $100</p><p><strong>Use Case:</strong> When transaction fee should apply once per order instead of per product.</p><p>&gt; <strong>Please</strong> <strong>Enter Percentage Charge</strong></p><p>Admin enters percentage value.</p><p><strong>Example:</strong> 10%</p><p>If order total = $2000<br> Transaction charge = $200</p><p>&gt; <strong>Fixed Charge Type</strong></p><p>Defines how the fixed amount will apply.</p><p>🔹 <strong>Order Wise</strong></p><p>Fixed amount applied once per order.</p><p><strong>Example:</strong><br> Fixed Charge = $20<br> Order Total = $1000</p><p>Total transaction = $20 (fixed only)</p><p>🔹 <strong>Product Wise</strong></p><p>Fixed amount applied per product.</p><p><strong>Example:</strong><br> Fixed Charge = $10<br> Customer buys 3 different products</p><p>Total fixed charge = $30</p><p>🔹 <strong>Seller Wise</strong></p><p>Fixed amount applied per seller involved in the order.</p><p><strong>Scenario:</strong></p><p>Order contains:</p><p>Seller A&#39;s products</p><p>Seller B&#39;s products</p><p>Fixed charge = $15</p><p>Total fixed = $30<br> ($15 per seller)</p><p>&gt; <strong>Please</strong> <strong>Enter Fixed Charge</strong></p><p>Enter the fixed amount value.</p><h2 id="combining-percentage-fixed-charge" tabindex="-1">Combining Percentage + Fixed Charge <a class="header-anchor" href="#combining-percentage-fixed-charge" aria-label="Permalink to &quot;Combining Percentage + Fixed Charge&quot;">​</a></h2><p>If both are enabled:</p><p><strong>Scenario:</strong></p><p>Order Total = $1000<br> Percentage = 10% → $100<br> Fixed (Order Wise) = $20</p><p>Total transaction charge = $120</p><h3 id="practical-marketplace-scenarios" tabindex="-1">Practical Marketplace Scenarios <a class="header-anchor" href="#practical-marketplace-scenarios" aria-label="Permalink to &quot;Practical Marketplace Scenarios&quot;">​</a></h3><p><strong>Scenario A: Marketplace absorbs all fees</strong></p><p>Bear By = Admin</p><p>Type = Order Wise</p><p>Percentage = 2%</p><p>Fixed = $0</p><p><strong>Result:</strong> Admin absorbs gateway cost.</p><p><strong>Scenario B: Seller pays the exact payment gateway fee</strong></p><p>Bear By = Seller</p><p>Type = Order Wise</p><p>Percentage = 2%</p><p>Fixed = $3</p><p><strong>Result:</strong> Seller payout is reduced by the actual payment processing cost.</p><p><strong>Scenario C: Per Product Transaction Cost</strong></p><p>Bear By = Seller</p><p>Type = Product Wise</p><p>Percentage = 5%</p><p>Fixed Type = Product Wise</p><p>Fixed = $10</p><p><strong>Use Case:</strong> High-value individual product-level fee control.</p><h3 id="calculation" tabindex="-1"><strong>Calculation</strong> <a class="header-anchor" href="#calculation" aria-label="Permalink to &quot;**Calculation**&quot;">​</a></h3><p>It is calculated like:<br> {(Base price + commission) + handling fee}  + transaction fee = sales price<br> Let&#39;s say the Base price is = 100$<br> Commission = 10%</p><p>Handling fee = 10$<br> Transaction Fee = 10% + 5$<br> {(100$+ 10% commission)+ 10$ handling} + (10% + $5)<br> =120$ + 12$ + 5$<br> =$137</p><p><strong><a href="/zenith/products/transaction-charges.html">Guide on how to manage transaction charges on orders</a></strong></p><h3 id="schedule-demo" tabindex="-1">SCHEDULE DEMO <a class="header-anchor" href="#schedule-demo" aria-label="Permalink to &quot;SCHEDULE DEMO&quot;">​</a></h3><p><a href="https://egsma.io/shopify-multivendor-marketplace/" target="_blank" rel="noreferrer">Click here to Schedule the demo of Multivendor marketplace App for Shopify </a></p>',94)])])}const f=a(i,[["render",l]]);export{m as __pageData,f as default};
