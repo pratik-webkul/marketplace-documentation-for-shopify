@@ -69,7 +69,7 @@ Similarly, the seller can also update these details by navigating to:
 
 Seller Panel >> Profile >> My Account >> Fill in fields like delivery time, delivery days, etc. >> Save Changes .
 
-[![Seller Advanced Policy Form](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/w-1.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/w-1.png)
+[![Seller Advanced Policy Form](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/sellerpolicydashboard.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/sellerpolicydashboard.webp)
 [![Seller Advanced Policy Inputs](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/asp9-1.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/asp9-1.webp)
 
 These policy details will appear publicly on the seller's profile page for customers to review.

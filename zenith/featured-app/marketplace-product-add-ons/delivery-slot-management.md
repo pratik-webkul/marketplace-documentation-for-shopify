@@ -84,7 +84,7 @@ For that, visit the Multi-vendor admin panel>>Configuration>>Delivery Slot Manag
 
 Thus, the sellers are synced successfully as shown in the screenshot:-
 
-[![Delivery Slot Management](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/05/)](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/05/)
+[![Delivery Slot Management](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/dfsadfsdfdgsd.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/dfsadfsdfdgsd.webp)
 
 Let's check the configuration on seller end.
 
@@ -199,7 +199,7 @@ You can show seller delivery methods on the cart page of your store. For that, y
 
 Now, visit Multi-vendor admin panel>> **Configuration**\>>Split Cart Configuration>>Enable Allow Delivery Slot tab.
 
-[![Delivery Slot Management](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/05/Screenshot-21-4-1200x550.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/05/Screenshot-21-4-1200x550.png)
+[![Delivery Slot Management](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/deliveryslot.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/deliveryslot.webp)
 
 Delivery slot
 

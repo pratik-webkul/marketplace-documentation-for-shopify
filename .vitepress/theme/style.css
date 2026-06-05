@@ -39,3 +39,40 @@
 body {
   top: 0px !important;
 }
+
+:root {
+  --vp-c-brand-1: #0c7484;
+  --vp-c-brand-2: #0c7484;
+  --vp-c-brand-3: #0c7484;
+}
+
+/* Active sidebar/nav item */
+.VPNavBarMenuLink.active,
+.VPSidebarItem.is-active > .item .link,
+.VPSidebarItem .link.active {
+  color: #0c7484 !important;
+}
+
+/* Left border / highlight */
+.VPSidebarItem.is-active > .item .indicator {
+  background-color: #0c7484 !important;
+}
+/* Right side outline links */
+.VPDocOutlineItem.active > .outline-link,
+.VPDocOutlineItem .outline-link:hover {
+  color: #0c7484 !important;
+}
+
+/* Active outline left border */
+.VPDocOutlineItem.active {
+  border-left: 2px solid #0c7484 !important;
+}
+
+/* Optional: all outline links */
+.VPDocAsideOutline .outline-link {
+  transition: 0.2s;
+}
+
+.VPDocAsideOutline .outline-marker {
+  background-color: #0c7484 !important;
+}

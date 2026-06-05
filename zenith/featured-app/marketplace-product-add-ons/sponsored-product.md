@@ -263,11 +263,6 @@ Once the admin adds the section it will show like this.
 
 [![ds](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/09/ds.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/09/ds.png)
 
-### Demo Details
-
-Use the below link and credentials to check the demo of the Sponsored Product Feature App here: [https://sponsor-seller-product.myshopify.com/](https://sponsor-seller-product.myshopify.com/)  
-  
-Store Password: 1
 ### SCHEDULE DEMO
 
 [Click here to Schedule the demo of Multivendor marketplace App for Shopify ](https://egsma.io/shopify-multivendor-marketplace/)

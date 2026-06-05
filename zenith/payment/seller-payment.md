@@ -220,21 +220,21 @@ Steps to Enable Scheduled Auto Pay:
 *   **Select Payout Transaction Type**  
     Choose the desired **Payout Transaction Type** that matches how you want to process payments to your sellers.
 
-[![Seller Payments](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/pay22.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/pay22.webp)
+[![Seller Payments](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/sp1.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/sp1.webp)
 
 *   **Set the Payout Period**  
     You can define how frequently payments are made:
     *   **Daily** – Payments will be processed automatically **every day**.
 
-[![Seller Payments](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/pay23.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/pay23.webp)
+[![Seller Payments](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/sp2.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/sp2.webp)
 
 *   Weekly – Once selected, you will then be prompted to specify a day (e.g., every Monday).
 
-[![Seller Payments](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/pay24.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/pay24.webp)
+[![Seller Payments](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/sp3.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/sp3.webp)
 
 *   **Monthly** – You can **specify a date** (e.g., the 1st of each month) for payouts.
 
-[![Seller Payments](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/pay25.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/pay25.webp)
+[![Seller Payments](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/sp4.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/sp4.webp)
 
 *   **Save the Changes**
 
@@ -259,7 +259,7 @@ To enable and use the **Add Seller Total Due Earning** setting, follow these sim
 
 *   Choose the desired condition from the drop-down menu to determine when the order amount should be considered as part of the seller’s **due earnings**.
 
-[![Seller Payments](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/pay26.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/pay26.webp)
+[![Seller Payments](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/sp5.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/sp5.webp)
 
 **Available Options in the Drop-down Menu**:
 
@@ -294,7 +294,7 @@ To enable and use the **Enable Cashable Amount For Seller** setting, follow thes
 
 *   Scroll to find the **“**Enable Cashable Amount For Seller**”** option.
 
-[![Seller Payments](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/pay27.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/pay27.webp)
+[![Seller Payments](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/sp6.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/sp6.webp)
 
 When the "Enable Cashable Amount For Seller" option is activated, the system will **thereafter** calculate and show **only** the earnings of those orders **for which** the refund period has expired.
 

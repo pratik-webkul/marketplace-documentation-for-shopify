@@ -115,6 +115,137 @@ From there, they can go to **Payment > Seller Payment** to see the payment detai
 By clicking the "View" button, you can easily access and manage the payment details of a specific seller.
 
 Afterward, you can select the enabled payment method to process the payment to the seller. Additionally, you also have the option to export the transaction details for record-keeping.
+
+ Refer and Earn Functionality for Affiliates
+-------------------
+
+### Introduction
+
+The **Refer and Earn Functionality** allows affiliates to earn commissions whenever they successfully refer sellers to the marketplace. The affiliate commission is calculated based on the membership commission configuration set by the admin. The commission can be configured as either a **fixed amount** or a **percentage**.
+
+
+
+## Admin Configuration
+
+To use this functionality, the admin must first enable the **Seller Membership** feature.
+
+Navigate to:
+
+`Multivendor Marketplace Admin Panel → Configuration → Membership Configuration`
+
+From this section, the admin can configure the affiliate membership commission type as either:
+
+- Fixed
+- Percentage
+
+![Affiliate Membership Commission Configuration](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/rae1.webp)
+
+![Affiliate Membership Commission Type](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/rae2.webp)
+
+
+## Membership Configuration Options
+
+ Enable Membership for Affiliate Sellers
+
+This configuration determines whether affiliates are required to purchase a membership plan.
+
+- **Enabled:** Affiliates must purchase a membership plan before accessing the marketplace.
+- **Disabled:** Affiliates can register and access the marketplace without purchasing a membership plan.
+
+### Enable Automated Payouts For Affiliate Membership Commissions
+
+This option allows affiliate membership commissions to be paid automatically through **PayPal**.
+
+![Affiliate Membership Settings](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/rae3.webp)
+
+
+## Membership Plan Configuration
+
+While creating a membership plan, the admin can specify whether the plan is intended for:
+
+- Sellers
+- Affiliates
+
+![Membership Plan Type](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/rae4.webp)
+
+![Affiliate Membership Plan](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/rae5.webp)
+
+
+## Membership-wise Affiliate Commission
+
+When creating a Seller Membership Plan, the admin can configure membership-wise affiliate commission values. These commissions are awarded to affiliates whenever a referred seller purchases the respective membership plan.
+
+![Membership Wise Affiliate Commission](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/rae6-1.webp)
+
+
+
+## Automatic PayPal Payout Setup
+
+[Click here](/zenith/payment/paypal) for instructions to set up automatic payouts for sellers and affiliates using PayPal.
+
+
+### Affiliate Workflow
+
+## Affiliate Registration
+
+During affiliate registration, the affiliate must select one of the membership plans created by the admin.
+
+![Affiliate Registration](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/rae7.webp)
+
+![Affiliate Membership Selection](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/rae8.webp)
+
+
+
+## PayPal Payout Configuration
+
+To receive commission payouts automatically through PayPal, the affiliate must:
+
+- Select **PayPal** as the payout method
+- Enter their **PayPal Business Email Address**
+
+![Affiliate PayPal Configuration](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/rae9.webp)
+
+
+## Sharing Affiliate Referral Details
+
+After registration, affiliates can share either:
+
+- Affiliate Code
+- Affiliate Seller Signup URL
+
+These options are available from the **My Account** section.
+
+![Affiliate Referral Options](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/rae10.webp)
+
+
+
+## Viewing Affiliate Commissions
+
+Affiliates can monitor and review their earned commissions from the Affiliate Commission section in their panel. Whenever a seller signs up or joins the marketplace using an affiliate seller’s referral code, the affiliate seller will receive the commission configured by the admin.
+
+![Affiliate Commission Section](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/rae11.webp)
+
+
+
+# Seller Workflow
+
+## Seller Registration Through Affiliate
+
+Sellers can register on the marketplace using either:
+
+- The Affiliate Seller Signup URL
+- The Affiliate Code shared by the affiliate
+
+![Seller Affiliate Registration](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/rae12.webp)
+
+
+## Seller Membership Selection
+
+During seller registration, the seller must select a membership plan. The affiliate commission will then be calculated according to the commission configuration associated with the selected membership plan.
+
+![Seller Membership Plan Selection](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/rae13.webp)
+
+
 ### SCHEDULE DEMO
 
 [Click here to Schedule the demo of Multivendor marketplace App for Shopify ](https://egsma.io/shopify-multivendor-marketplace/)

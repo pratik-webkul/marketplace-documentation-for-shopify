@@ -41,11 +41,11 @@ The minimum amount you can charge 0.5$ and the maximum is up to eight digits (e.
 
 Firstly, enable the app from the Feature App section.
 
-[![Feature app](https://cdnblog.webkul.com/blog/wp-content/uploads/2017/11/Feature-Apps-_-Admin-1.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2017/11/Feature-Apps-_-Admin-1.png)
+[![Feature app](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/stripeconnect2.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/stripeconnect2.webp)
 
 Once you click on the "Enable" button, you need to agree on additional charges which are USD 10 per month.
 
-[![Stripe Connect13](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/bb.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/bb.png)
+[![Stripe Connect13](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/stripeconnect1.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/stripeconnect1.webp)
 
 Now, let's understand its workflow:-
 
@@ -181,7 +181,7 @@ The multivendor marketplace app now displays a "Stripe Connect Configuration" me
 
 After visiting this section click on "Add account to stripe"
 
-[![image-165](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/07/image-165-1200x627.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/07/image-165-1200x627.png)
+[![image-165](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/stripeaddacc.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/stripeaddacc.webp)
 
 [![Stripe Login Panel ](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/25-1.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/25-1.png)
 
@@ -195,7 +195,7 @@ After visiting this section click on "Add account to stripe"
 
 Further, the account will be successfully added.
 
-[![Stripe Connect Orders](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/27-1.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/27-1.png)
+[![Stripe Connect Orders](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/stripesuccessfullseller.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/stripesuccessfullseller.webp)
 
  Seller Stripe Dashboard: Express Account Type
 ---------------
@@ -259,7 +259,7 @@ If you select the fulfill option then once the seller marks the order as fulfill
 ----------------
 In the case of delivery, the seller's earnings will be transferred to the seller's account once the order is marked as delivered.
 
-[![Stripe Connect](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/12/spp3-1-1200x847.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/12/spp3-1-1200x847.png)
+[![Stripe Connect](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/stripeautopay.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/stripeautopay.webp)
 
  **Pay after the return date:**
 ----------------------

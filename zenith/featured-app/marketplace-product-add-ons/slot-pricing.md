@@ -176,7 +176,7 @@ Similarly, admin can add Pricing Slots while adding or editing any product. 
 
 In the Variant detail section, Click on "Edit" button from Action menu.
 
-[![Add Slots](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/09/Edit-Variant-Admin.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/09/Edit-Variant-Admin.png)
+[![Add Slots](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/slotpricingproduct.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/slotpricingproduct.webp)
 
 From this section, the **admin can create multiple pricing slots for different tags**.
 
@@ -366,7 +366,7 @@ You can now allow sellers to create only slot prices for their products. In this
 How to Configure?  
 To get this work, you need to visit the "**Slot Price Configuration**" and enable the option "**Allow Seller to Create Only Slot Product**" feature.
 
-[![slot price](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/04/Slot-Pricing-Configuration-Admin-1200x627.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/04/Slot-Pricing-Configuration-Admin-1200x627.png)
+[![slot price](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/sellerslotpricing.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/sellerslotpricing.webp)
 
 Once you enable this tab, both you and your seller will get the option to add slot prices while adding/editing products.
 
@@ -384,7 +384,7 @@ CASE 2: When "**Allow Seller to Create Only Slot Product**" is enable & REMOVED 
 
 Then, options while adding/editing products:
 
-[![Edit-Variant-Admin-4](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/04/Edit-Variant-Admin-4-1200x627.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/04/Edit-Variant-Admin-4-1200x627.png)
+[![Edit-Variant-Admin-4](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/slotpricinginfo.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/slotpricinginfo.webp)
 
 The front end view:
 
@@ -453,7 +453,7 @@ To set the tag-wise commission, firstly you need to enable the tab from the "Slo
 
 As soon as you enable this tab, you will get the option to add tag wise commission in the Global commission menu of the app.
 
-[![Global_Commission_Admin-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/07/Global_Commission_Admin-1-1200x627.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/07/Global_Commission_Admin-1-1200x627.png)
+[![Global_Commission_Admin-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/tagwisecommission.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/tagwisecommission.webp)
 
 Now, select a customer tag, commission type, and value of the commission.
 

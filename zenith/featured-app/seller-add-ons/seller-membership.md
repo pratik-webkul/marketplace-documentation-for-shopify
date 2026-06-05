@@ -130,7 +130,7 @@ View subscribed sellers here:
  Payment from Seller
 ----------------
 More on this here:  
-👉 [Seller Membership Payment Methods](https://webkul.com/blog/seller-membership-payment-methods-multi-vendor-marketplace-for-shopify/)
+👉 [Seller Membership Payment Methods](/zenith/payment/seller-membership-payment-methods)
 
 **Steps:**
 

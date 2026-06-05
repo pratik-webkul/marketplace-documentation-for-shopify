@@ -151,7 +151,7 @@ To disable the "Auto Approve Staff Product" configuration, navigate to the Selle
 
 From there, you can disable the "Auto Approve Staff Product" option as per your preference.
 
-[![Auto Approve Seller Staff Product](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/11/apseller-1200x537.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/11/apseller-1200x537.webp)
+[![Auto Approve Seller Staff Product](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/0376267623.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/0376267623.webp)
 
 ### Demo Details
 

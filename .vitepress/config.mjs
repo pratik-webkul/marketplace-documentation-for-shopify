@@ -17,6 +17,7 @@ markdown: {
       }
 
     md.renderer.rules.image = function (tokens, idx, options, env, self) {
+
       const token = tokens[idx]
       const src = token.attrGet('src')
 
@@ -47,6 +48,27 @@ markdown: {
           overflow:hidden;
           backdrop-filter: blur(3px);
         \`;
+
+        // 🔹 CLOSE BUTTON
+        const closeBtn = document.createElement('div');
+        closeBtn.innerHTML = '&times;';
+
+        closeBtn.style.cssText = \`
+          position:absolute;
+          top:20px;
+          right:25px;
+          color:#fff;
+          font-size:42px;
+          font-weight:bold;
+          cursor:pointer;
+          z-index:100000;
+          line-height:1;
+          user-select:none;
+        \`;
+
+        closeBtn.onclick = () => {
+          overlay.remove();
+        };
 
         const img = document.createElement('img');
         img.src = "${src}";
@@ -79,7 +101,9 @@ markdown: {
           img.style.transform = 'scale(' + scale + ')';
         };
 
+        overlay.appendChild(closeBtn);
         overlay.appendChild(img);
+
         document.body.appendChild(overlay);
 
         // close overlay
@@ -144,6 +168,35 @@ markdown: {
             backdrop-filter: blur(3px);
           \`;
 
+          // 🔹 CLOSE BUTTON
+          const closeBtn = document.createElement('div');
+          closeBtn.innerHTML = '&times;';
+
+          closeBtn.style.cssText = \`
+            position:absolute;
+              top:20px;
+              right:25px;
+              background:#0c7484;
+              color:#fff;
+              width:50px;
+              height:50px;
+              border-radius:50%;
+              display:flex;
+              align-items:center;
+              justify-content:center;
+              font-size:32px;
+              font-weight:bold;
+              cursor:pointer;
+              z-index:100000;
+              line-height:1;
+              user-select:none;
+              box-shadow:0 4px 12px rgba(0,0,0,0.35);     
+          \`;
+
+          closeBtn.onclick = () => {
+            overlay.remove();
+          };
+
           const img = document.createElement('img');
           img.src = "${src}";
 
@@ -175,7 +228,9 @@ markdown: {
             img.style.transform = 'scale(' + scale + ')';
           };
 
+          overlay.appendChild(closeBtn);
           overlay.appendChild(img);
+
           document.body.appendChild(overlay);
 
           // close overlay
@@ -252,17 +307,18 @@ markdown: {
           collapsible: true,
           collapsed: true,
           items: [
-            { text: '2-Step Auth Configuration', link: '/zenith/configuration/2-step-auth-configuration' },
-            { text: 'Configuration Updates', link: '/zenith/configuration/configuration-updates' },
-            { text: 'Custom Fields', link: '/zenith/configuration/custom-fields' },
-            { text: 'Discount Configuration', link: '/zenith/configuration/discount-configuration' },
+            { text: '2-Step Auth configuration', link: '/zenith/configuration/2-step-auth-configuration' },
+            { text: 'Configuration updates', link: '/zenith/configuration/configuration-updates' },
+            { text: 'Custom fields', link: '/zenith/configuration/custom-fields' },
+            { text: 'Discount configuration', link: '/zenith/configuration/discount-configuration' },
             { text: 'General configuration', link: '/zenith/configuration/general-configration' },
             { text: 'Invoice configuration', link: '/zenith/configuration/invoice-configuration' },
-            { text: 'Minimum Purchase Amount', link: '/zenith/configuration/minimum-purchase-amount' },
-            { text: 'Minimum Purchase Quantity', link: '/zenith/configuration/minimum-purchase-quantity' },
+            { text: 'Lable translations', link: '/zenith/configuration/lable-translations' },
+            { text: 'Minimum purchase amount', link: '/zenith/configuration/minimum-purchase-amount' },
+            { text: 'Minimum purchase quantity', link: '/zenith/configuration/minimum-purchase-quantity' },
             { text: 'Product configuration', link: '/zenith/configuration/product-configration' },
             { text: 'Seller configuration', link: '/zenith/configuration/seller-configuration' },
-            { text: 'Shopify Custom Apps', link: '/zenith/configuration/shopify-custom-apps' },
+            { text: 'Shopify custom apps', link: '/zenith/configuration/shopify-custom-apps' },
             // Add more configuration if needed 
           ]
         },
@@ -273,7 +329,8 @@ markdown: {
           items: [
             { text: 'Seller guide', link: '/zenith/seller/seller-guide' },
             { text: 'Seller profile page settings', link: '/zenith/seller/seller-profile-page-settings' },
-            { text: 'Seller notification', link: '/zenith/seller/seller-notification' },            
+            { text: 'Seller notification', link: '/zenith/seller/seller-notification' },
+            { text: 'Seller currencies', link: '/zenith/seller/seller-currencies' },
             { text: 'Seller policy', link: '/zenith/seller/advanced-seller-policy' },
             { text: 'Seller navigation', link: '/zenith/seller/seller-navigation' },
             { text: 'Seller terms and conditions', link: '/zenith/seller/seller-terms-and-conditions' },
@@ -335,8 +392,8 @@ markdown: {
             { text: 'Paypal', link: '/zenith/payment/paypal' },
             { text: 'Razorpay-X', link: '/zenith/payment/razorpayx' },
             { text: 'Network payout', link: '/zenith/payment/network-payout' },
-            { text: 'Seller payment configuration', link: '/zenith/payment/seller-payment-configuration' }
-
+            { text: 'Seller payment configuration', link: '/zenith/payment/seller-payment-configuration' },
+            { text: 'Seller membership payment methods', link: '/zenith/payment/seller-membership-payment-methods' }
 
             // Add more payment-related links here if needed
           ]

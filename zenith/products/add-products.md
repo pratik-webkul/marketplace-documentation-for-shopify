@@ -74,7 +74,7 @@ Most Importantly, mention the Meta Fields for your product i.e. **Meta Title** &
   
 The admin can use the "filter by" option in the product listing to search the product by SKU, approved, disabled, approval pending, reapproval, and global product.
 
-[![Screenshot10](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/01/Screenshot10-1200x295.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/01/Screenshot10-1200x295.png)
+[![Screenshot10](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/addproductfilter.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/addproductfilter.webp)
 
  How to Add Variants?
 -----------------------

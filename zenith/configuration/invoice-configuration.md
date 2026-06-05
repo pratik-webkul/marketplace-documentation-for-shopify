@@ -34,7 +34,7 @@ Admin Panel>> Orders>> Invoice configuration >> Here add or edit the invoice det
 
 In addition to it, you can allow your sellers to generate invoices from their respective seller panels as well.
 
-[![mv-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/invoiceconfigurationfullpage.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/invoiceconfigurationfullpage.webp)
+[![mv-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/invoice1.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/invoice1.webp)
 
  VAT on Commission
 -------------------
@@ -44,7 +44,7 @@ Simply choose whether you want to include the VAT on the commission or you want 
 
 You can visit the **Invoice Configuration** menu under the **Configuration** menu to configure the settings.
 
-[![mv-2](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/vattypes.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/vattypes.webp)
+[![mv-2](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/inv2.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/inv2.webp)
 
 **VAT Type:**  
 You need to choose whether you want to include or exclude the Tax on the commission.
@@ -90,11 +90,11 @@ Now, the admin can manage the VAT ON COMMISSION seller wise which means the admi
 
 For this, the admin can enable "ALLOW SELLER-WISE VAT ON COMMISSION" option in the invoice configuration as shown in the below image.
 
-[![Edit-Invoice-Configuration-Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/sellerwisevat.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/sellerwisevat.webp)
+[![Edit-Invoice-Configuration-Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/inv3.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/inv3.webp)
 
 Then, the admin will see by default enabled "ELIGIBLE FOR VAT ON COMMISSION" option in seller detail which the admin can disable or enable for a particular seller.
 
-[![Edit-Seller-Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/eligibleforvat.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/eligibleforvat.webp)
+[![Edit-Seller-Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/inv4.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/inv4.webp)
 
 Now, if the admin disable "ELIGIBLE FOR VAT ON COMMISSION" option for a particular seller
 
@@ -110,7 +110,7 @@ If this seller-wise vat on commission is set up in between then it will be appli
 ------------------------
 We have introduced a new feature that is **set** **up country-wise vat**. Once you enable the configuration you will find a green button on the top right-hand side.
 
-[![mv-6](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/countrywisevat.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/countrywisevat.webp)
+[![mv-6](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/inv5.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/inv5.webp)
 
 After clicking on the green button, you will see an option to select the country and VAT.
 
@@ -240,7 +240,7 @@ You can now send the order invoice in the fulfillment reminder mails sent to the
 
 Once a seller fulfills the customer's order from the seller panel, the customer will receive a fulfillment mail with the order invoice attached to it. **[Know More](https://webkul.com/blog/shopify-multivendor-marketplace-app-new-upgraded-features/#attach-invoice-seller-to-customer-to-the-order-fulfillment-mail)**
 
-[![Mail-Configuration-Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/mailtemp-1.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/mailtemp-1.webp)
+[![Mail-Configuration-Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/inv6.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/inv6.webp)
 
  Generate Invoice with Seller Name+Order ID as Invoice Number
 -----------------------------
@@ -248,7 +248,7 @@ In the app, you can now generate "merchant to seller" invoices with the seller n
 
 Firstly, you need to enable this tab from the "Invoice Configuration" menu of the app.
 
-[![Screenshot-2020-06-11T182642.344](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/generaterinvoiceorderid.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/generaterinvoiceorderid.webp)
+[![Screenshot-2020-06-11T182642.344](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/inv7.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/inv7.webp)
 
 Go to the Order Detail page and generate invoices. This is how the invoice will be printed & the invoice number will be shown like this:
 
@@ -304,7 +304,7 @@ For this, you need to visit the Multi-vendor admin panel>>**Orders**\>>**Invoice
 
 Visiting this section, enable Automated Bulk Invoice tab.
 
-[![download-25](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/automatedbulkinvoice.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/automatedbulkinvoice.webp)
+[![download-25](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/inv8.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/inv8.webp)
 
 After that, select the time duration to auto-generate order invoice. You will have two options in this case:-
 
@@ -314,7 +314,7 @@ Two Invoice:- In case you choose to generate two invoices, invoice for a month w
 
 One from 1st to 15th date of the month and second will be from 16th to last date of that month.
 
-[![download-26](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/selectduration.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/selectduration.webp)
+[![download-26](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/inv9.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/inv9.webp)
 
 Moreover, you can select the order status if you want to auto-generate invoices for fulfilled orders or for delivered orders.
 
@@ -357,9 +357,9 @@ Refer to the screenshots below:
 
 [![admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/invoiceconfiguration.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/invoiceconfiguration.webp)
 
-[![invoice](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/taxbreakup.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/taxbreakup.webp)
+[![invoice](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/inv10.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/inv10.webp)
 
-[![enable](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/enabletaxbreakup.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/enabletaxbreakup.webp)
+[![enable](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/inv11.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/inv11.webp)
 
  **Admin Panel: Generate Customer Invoice**
 --------------------------
@@ -375,13 +375,13 @@ Refer to the screenshots below:
 
 #### **On Line Item:**
 
-[![on line](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/onlineitem.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/onlineitem.webp)
+[![on line](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/inv12.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/inv12.webp)
 
 [![on line](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/10/eight.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/10/eight.webp)
 
 #### **After SubTotal:**
 
-[![sub total](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/aftersubtotal.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/aftersubtotal.webp)
+[![sub total](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/inv13.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/inv13.webp)
 
 [![subtotal](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/10/ten.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/10/ten.webp)
 

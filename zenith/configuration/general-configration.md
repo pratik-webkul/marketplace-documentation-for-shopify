@@ -87,7 +87,7 @@ After clicking on the seller portal button it will redirect you to the terms and
 
 If the customer tick and click on submit tab it will redirect you to the seller portal but customer click on the cancel tab it will redirect to the previous page.
 
-[![s12](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/04/s12-1200x551.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/04/s12-1200x551.png)
+[![s12](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/generalconfig.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/generalconfig.webp)
 
  Minimum Purchase Amount for Orders
 --------------------------

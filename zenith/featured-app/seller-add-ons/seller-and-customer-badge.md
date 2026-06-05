@@ -111,7 +111,7 @@ To view all the badges assigned to the customers, go to **Marketplace Admin pane
 
 The customer badges will be visible to the sellers on their respective seller panel while accepting/fulfilling the order.
 
-[![seller_side_customer_badge_](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/05/seller_side_customer_badge_-1200x577.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/05/seller_side_customer_badge_-1200x577.png)
+[![seller_side_customer_badge_](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/chhotu378605591.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/chhotu378605591.webp)
 
  Allow seller to view customer badges
 -----------------
@@ -128,7 +128,7 @@ To add the code for seller and customer badge, you can simple click on the "auto
 
 For this, visit the **marketplace admin panel>configuration>Instruction for marketplace>click "auto inject".**
 
-[![screenshot_1684332098595](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/05/screenshot_1684332098595-1200x563.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/05/screenshot_1684332098595-1200x563.png)
+[![screenshot_1684332098595](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/dfasfasdfasdf.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/dfasfasdfasdf.webp)
 
 Frontend
 --------

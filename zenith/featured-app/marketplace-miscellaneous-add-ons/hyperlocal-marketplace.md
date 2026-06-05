@@ -235,7 +235,7 @@ In case you are using the [**Multiple Shipping**](https://webkul.com/blog/shopif
 *   **Radius Restriction**: To restrict the radius for the shipping method.
 *   **Datepicker**: If you want your customer to add a date on the product page.
 
-[![Shipping-Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/10/Shipping-Admin-1200x597.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/10/Shipping-Admin-1200x597.png)
+[![Shipping-Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/hyperlocalconf.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/hyperlocalconf.webp)
 
 When you restrict the radius & enable the datepicker:
 
@@ -270,7 +270,7 @@ In case you are using Shopify **Online Store 2.0**, follow the detailed user gui
 
 Now, when you will add/edit product, you will get the following shipping options to choose from:
 
-[![Edit-Product-Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/01/Edit-Product-Admin-1200x597.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/01/Edit-Product-Admin-1200x597.png)
+[![Edit-Product-Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/hyperlocalshippingopt.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/hyperlocalshippingopt.webp)
 
 *   **Hyperlocal- Global Shipping**: In the case of this, when a search is made, products that are available globally will be listed.
 *   **Hyperlocal- Local Shipping**: In this case, when a search is made, products with restricted shipping in regards to the location entered by the customer will be displayed. Only products under that range will be displayed.

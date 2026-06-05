@@ -256,7 +256,7 @@ If a seller wants to convert their "normal products" into "Make an Offer" produc
 
 Navigate to **Products > Products Listing**, select the products to be converted, click the **Bulk Action** button, and choose **Convert to Make an Offer Product** from the dropdown menu.
 
-[![Normal to Make an offer product.](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/01/makeanofferup-1200x745.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/01/makeanofferup-1200x745.webp)
+[![Normal to Make an offer product.](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/makeanoffercon.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/makeanoffercon.webp)
 
  Customer End
 ---------------
