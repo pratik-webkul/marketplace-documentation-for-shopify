@@ -92,7 +92,7 @@ The order listing page will list all the orders placed for the seller and the se
 
 Moreover, from the order view, the seller can enter the tracking number for the order and can also print the invoice for that particular order.
 
-[![edit tracking](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/seller-add-tracking-no-7.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/seller-add-tracking-no-7.png)
+[![edit tracking](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/sellerguidetracking.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/sellerguidetracking.webp)
 
 Under the order menu, the submenu "payment received", this section shows the payment due and the total payment received by the seller.
 

@@ -18,7 +18,7 @@ Let's have a look at the newly introduced and updated features of the Multivendo
 --------------
 Now, the admin can easily export the order ID details by clicking on the export details. under the payment section.
 
-[![try5](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/06/try5-1200x550.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/06/try5-1200x550.png)
+[![try5](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/afsfasa.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/afsfasa.webp)
 
  Pending order
 ------------------
@@ -95,7 +95,7 @@ To check this, you need to visit the Multi-vendor backend>>Go to Orders>>**Order
 
 Both admin and sellers can view the order analysis from their respective panels.
 
-[![download-18](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/02/download-18-1200x526.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/02/download-18-1200x526.png)
+[![download-18](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/80653384059.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/80653384059.webp)
 
 **[Know about Fraud Prevention](https://help.shopify.com/en/manual/payments/fraud-prevention)**
 
@@ -280,7 +280,7 @@ We have added another page **connector field mapping where seller can map the b
 
 **For shopify connector seller brand name field should be mapped with "vendor" field**.
 
-[![mapping](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/06/mapping-1200x518.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/06/mapping-1200x518.png)
+[![mapping](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/80652073856.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/80652073856.webp)
 
 **In your case products are already imported so once you enable this feature let us know we will sync the products once again for that seller so that brand name field is filled**.
 
@@ -369,7 +369,7 @@ Multivendor Marketplace Label Translations feature is here. Now you can rename t
 
 [![Marketplace199](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/02/upgradedfeaturesthirtythree.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/02/upgradedfeaturesthirtythree.webp)
 
-To know more **[click here](https://webkul.com/blog/shopify-multivendor-marketplace-label-translations-new-theme/)**.
+To know more **[click here](/zenith/configuration/lable-translations)**.
 
  Download Invoices in bulk
 ------------------------------
@@ -561,7 +561,7 @@ Once the seller accepts the order, the seller will get notified via email with t
 
 You can customize the emails as per the requirements from the **Mail Configuration** menu in the admin panel.
 
-[![Screenshot-2020-11-26T142722.418](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/11/Screenshot-2020-11-26T142722.418-1200x543.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/11/Screenshot-2020-11-26T142722.418-1200x543.png)
+[![Screenshot-2020-11-26T142722.418](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/80652230738.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/80652230738.webp)
 
 Note:- The expected delivery date variable is provided for the emails.
 
@@ -591,7 +591,7 @@ Refer to the screenshots below:
 
 then the "Pay via Wallet" option will not appear in the order invoice both on seller invoice as well as customer invoice.
 
-If any of the above is the case, you can either reset the template on your own or [**send a request**](https://webkul.uvdesk.com/en/customer/login) for the same. We will do it for you.
+If any of the above is the case, you can either reset the template on your own or [**send a request**](https://webkul.uvdesk.com/en/customer/create-ticket/) for the same. We will do it for you.
 
 This is how the "Pay via Wallet" option will appear in the Order Invoice:
 
@@ -777,7 +777,7 @@ In the Multivendor Marketplace, admins can send digital download emails directly
 **To send Digital Download Mails, Admin needs to navigate to  
 Orders>>Order Listing>> Hover over on 3 dots>> View>>More actions>>Send Digital Download Mail**
 
-[![order](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/11/order-1-1200x602.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/11/order-1-1200x602.webp)
+[![order](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/80653411577.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/80653411577.webp)
 
 This new feature is available exclusively for digital products, ensuring a seamless delivery experience for the admin and the customer.
 

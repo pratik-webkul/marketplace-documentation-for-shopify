@@ -25,7 +25,7 @@ There is one more option to add custom fields to the orders. Go through the docu
 --------------------------
 These are the by-default Seller Signup page fields: Seller Name, Email, Password & Confirm Password.
 
-[![seller signup page](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/07/24061016/AwesomeScreenshot-Signup-Multivendor-MarketPlace-2019-07-24-11-07-92.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/07/24061016/AwesomeScreenshot-Signup-Multivendor-MarketPlace-2019-07-24-11-07-92.png)
+[![seller signup page](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/1signuppage.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/1signuppage.webp)
 
 Now, if the admin wants to add extra fields on this page, he can do so by creating custom fields from his MultiVendor Admin Panel.
 
@@ -61,7 +61,7 @@ The system displays the TEXT input type on the frontend like this:
 
 Because I have marked this field to be mandatory from the backend, there is an asterisk mark on this field. Making it mandatory for sellers to provide this information for creating the account.
 
-[![custom fields](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/07/24062958/AwesomeScreenshot-Signup-Multivendor-MarketPlace-2019-07-24-11-07-02.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/07/24062958/AwesomeScreenshot-Signup-Multivendor-MarketPlace-2019-07-24-11-07-02.png)
+[![custom fields](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/2contactsignup.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/2contactsignup.webp)
 
 ### TEXT AREA
 
@@ -71,7 +71,7 @@ This input type provides a larger text column to fill up lengthy information.
 
 Frontend:
 
-[![custom fields](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/07/24063521/AwesomeScreenshot-Signup-Multivendor-MarketPlace-2019-07-24-12-07-58.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/07/24063521/AwesomeScreenshot-Signup-Multivendor-MarketPlace-2019-07-24-12-07-58.png)
+[![custom fields](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/3addresssignup.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/3addresssignup.webp)
 
 ### FILE
 
@@ -81,7 +81,7 @@ This input type is used to fetch information like seller's GST documents, policy
 
 Frontend:
 
-[![custom fields](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/07/24064730/AwesomeScreenshot-Signup-Multivendor-MarketPlace-2019-07-24-12-07-88.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/07/24064730/AwesomeScreenshot-Signup-Multivendor-MarketPlace-2019-07-24-12-07-88.png)
+[![custom fields](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/4filesignup.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/4filesignup.webp )
 
 ### DROPDOWN
 
@@ -96,7 +96,7 @@ Refer:
 
 Frontend:
 
-[![custom fields](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/07/24065726/AwesomeScreenshot-Screenshot-from-2019-07-24-12-25-36-2019-07-24-12-07-76.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/07/24065726/AwesomeScreenshot-Screenshot-from-2019-07-24-12-25-36-2019-07-24-12-07-76.png)
+[![custom fields](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/5dropdownsignup.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/5dropdownsignup.webp)
 
 **Note: On editing the Custom Field, the admin will not be able to change the type of Custom Field.**
 
@@ -108,7 +108,7 @@ For example, a seller can now enter their **expected delivery time in days** in 
 
 The number input field will appear with the ability to accept both whole numbers and decimal values.
 
-[![number type custom filed](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/07/numbertypecustomfield-1200x577.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/07/numbertypecustomfield-1200x577.webp)
+[![number type custom filed](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/6numbersignup.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/6numbersignup.webp)
 
 ### Help Text for Seller Custom fields
 
@@ -120,11 +120,11 @@ The number input field will appear with the ability to accept both whole numbers
 
 If the **"Show Custom Field"** setting is enabled, the help text will appear directly beneath the custom field title. (making it always visible to users)
 
-[![Text](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/07/text-1200x528.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/07/text-1200x528.webp)
+[![Text](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/7helptextsignup.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/7helptextsignup.webp)
 
 However, if this setting is disabled, the help text will only appear when users click the (?) question mark icon next to the field title.
 
-[![Question](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/07/blank-1200x571.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/07/blank-1200x571.webp)
+[![Question](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/8helptextsignup.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/8helptextsignup.webp)
 
  Custom Fields on the Seller's Account Page:
 --------------------------

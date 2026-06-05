@@ -116,7 +116,7 @@ By enabling this feature you can now allow your sellers to create custom options
 
 **Note :** Once you have shifted from product level to variant level, you cannot move back to custom options on product level.
 
-[![sbfdb](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/12/three-1-1200x550.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/12/three-1-1200x550.webp)
+[![sbfdb](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/customoption.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/customoption.webp)
 
 We’ve introduced a new feature with two powerful options for managing :
 

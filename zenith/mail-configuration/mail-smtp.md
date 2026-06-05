@@ -144,7 +144,6 @@ Both come with different standards but are used to authenticate the transfer of 
 
 TLS is the upgraded version of SSL as it uses stronger encryption algorithms as compared to SSL and also has the ability to work on various ports.
 
-[**Know more about SMTP**](https://webkul.com/blog/what-is-smtp-and-working-of-the-smtp/)
 
 DEMO
 ----

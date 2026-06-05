@@ -104,7 +104,7 @@ Additionally, you can now **disable a notification** when needed:
 
 [![dots](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/disablenotification.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/disablenotification.webp)
 
-[![update](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/11/updatestatus-1200x574.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/11/updatestatus-1200x574.webp)
+[![update](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/sellernotifstatus.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/sellernotifstatus.webp)
 
 This feature ensures better communication between store admins and sellers, improving overall store management.
 
@@ -141,7 +141,7 @@ Here's how you can enable this setting:
 3.  Enable this setting.
 4.  Save the changes.
 
-[![seller dashboard](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/05/screenshot1716809714559-1-1200x607.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/05/screenshot1716809714559-1-1200x607.webp)
+[![seller dashboard](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/totaldueearning.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/totaldueearning.webp)
 
 ACCEPT AND FULFILL ORDER
 ------------------------
@@ -276,13 +276,13 @@ The Admin must enable "Single Sign-On" (SSO) in the Multivendor Marketplace App 
 
 In Order to connect the store, the admin must add the store name in the SSO configuration. Clicking on "SSO Config" will take the admin to a dedicated page to connect their store for seller sign-on.
 
-[![screenshot_2023_09_05_183607](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/09/screenshot_2023_09_05_183607-1200x331.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/09/screenshot_2023_09_05_183607-1200x331.png)
+[![screenshot_2023_09_05_183607](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/ssoconnect.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/ssoconnect.webp)
 
 To confirm the store connection, the admin should enter the verification code received after specifying the store they want to link. Once the verification is successful, the store will be connected.
 
-[![screenshot_2023_09_05_183651](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/09/screenshot_2023_09_05_183651-1200x414.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/09/screenshot_2023_09_05_183651-1200x414.png)
+[![screenshot_2023_09_05_183651](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/ssoverify.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/ssoverify.webp)
 
-[![screenshot_2023_09_05_183744](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/09/screenshot_2023_09_05_183744-1200x401.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/09/screenshot_2023_09_05_183744-1200x401.png)
+[![screenshot_2023_09_05_183744](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/ssoverifiedd.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/ssoverifiedd.webp)
 
 The seller can also log in from one account to another account with just a simple click.
 
@@ -469,7 +469,7 @@ Now the seller will click the “collect” button for a corresponding order to 
 
 Now at the admin side, the shipping status of that order is in the “Collect” state and at the seller side, it’s “Pending”.
 
-[![MULTIVENDOR MARKETPLACE](https://cdnblog.webkul.com/blog/wp-content/uploads/2016/02/42.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2016/02/42.png)
+[![MULTIVENDOR MARKETPLACE](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/orderprestatus.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/orderprestatus.webp)
 
 [![MULTIVENDOR MARKETPLACE](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/02/orderstatuscollectadmin.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/02/orderstatuscollectadmin.webp)
 
@@ -733,7 +733,7 @@ You will get the keys after submitting the details. Please copy these keys and s
 
 This is how the Google reCaptcha appears on the seller sign-up form:
 
-[![Screenshot-2021-08-20T102507.543](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/08/Screenshot-2021-08-20T102507.543-1200x492.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/08/Screenshot-2021-08-20T102507.543-1200x492.png)
+[![Screenshot-2021-08-20T102507.543](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/recaptcha.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/recaptcha.webp)
 
 **NOTE: If you have a customized seller signup page template. Please contact us at support@webkul.com with your reCaptcha keys so that we can set this up for you.**
 
@@ -829,7 +829,7 @@ At the seller level, the option will appear to set whether the products will be 
 
 Then, the Admin can manually go to the seller edit section of the marketplace admin panel to enable this.
 
-[![seller edit](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/autoapproveeditseller.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/autoapproveeditseller.webp)
+[![seller edit](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/sellerwiseproductapprove.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/sellerwiseproductapprove.webp)
 
 **Manage product visibility for all sales channels & Markets**
 -------------------------------
@@ -855,7 +855,7 @@ Once you enable the tab, the system automatically sends an email notification to
 
 The template for this email can be configured by navigating to Mail configuration>>Mail Configuration>>Click on the three dots(...) and choose the email template for low inventory>>Edit.
 
-[![Mail configuration](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/lowinventorymail.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/lowinventorymail.webp)
+[![Mail configuration](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/lowinventorymail.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/lowinventorymail.webp)
 
 Future Publishing: Schedule products for publishing on Shopify
 ---------------------------------------------------
@@ -972,7 +972,7 @@ Refer to the screenshots below:
 
 [![add](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/addproducttype.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/addproducttype.webp)
 
-[![add](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/addproducttypes.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/addproducttypes.webp)
+[![add](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/producttyperestrict.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/producttyperestrict.webp)
 
 You’ll also need to enable the configurations “Apply limitation on number of product images uploaded”,
 

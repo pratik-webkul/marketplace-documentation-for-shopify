@@ -50,9 +50,9 @@ On the **OAuth Client ID** page, select **Application Type** as **Web Appli
 
 [![smtp-oauct-client-id](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/10/oauth-client-id-1200x756.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/10/oauth-client-id-1200x756.webp)
 
-**Authorized redirect URL**: [_https://sp-seller.webkul.com/admin/index.php?p=admin\_oauth\_token_](https://sp-seller.webkul.com/admin/index.php?p=admin_oauth_token)
+**Authorized Redirect URL**: `https://sp-seller.webkul.com/admin/index.php?p=admin_oauth_token`
 
-**Authorised JavaScript origin:** _[https://sp-seller.webkul.com](https://sp-seller.webkul.com/)_
+**Authorized JavaScript Origin**: `https://sp-seller.webkul.com`
 
 After entering the given URL, click **Create** to generate your Client ID.
 

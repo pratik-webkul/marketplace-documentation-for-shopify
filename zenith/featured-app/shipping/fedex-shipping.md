@@ -67,8 +67,48 @@ MultiVendor Marketplace Admin End
 Configure FedEx Express
 -----------------------
 
-**SANDBOX MODE**
+## FedEx Post Configuration (New Flow of API Integration)
 
+![FedEx Post Configuration](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/fedex1.webp)
+
+# Introduction
+
+FedEx has introduced a new API authentication method. To support this, we have added a **"Use New FedEx API"** option in the **FedEx Post Configuration** section.
+
+## How to Configure the New FedEx API
+
+1. Navigate to:
+
+   `Configuration > FedEx Post Configuration`
+
+2. Enable the **Use New FedEx API** toggle.
+
+3. Enter the following credentials provided by FedEx:
+
+   - Client ID
+   - Client Secret
+
+4. Click **Proceed** to save the configuration.
+
+Once the configuration is saved successfully, the system will automatically generate and populate the **Access Token** field. No manual action is required for generating the token.
+
+The generated access token will be used by the application to authenticate requests with FedEx services.
+
+
+## For Existing (Legacy) FedEx Users
+
+If you are still using the older FedEx integration flow, continue using the existing fields:
+
+- FedEx Account Number
+- FedEx Access Key
+- FedEx Password
+- FedEx Meter Number
+
+> **Note:**  
+> FedEx no longer provides a separate Meter Number for newer accounts. If your FedEx account does not have a Meter Number, please enter your **FedEx Account Number** in the **FedEx Meter Number** field to ensure compatibility with the legacy integration.
+
+**SANDBOX MODE**
+-------------
 If you want to test the functionality of this shipping add-on, enable the sandbox mode. In short, use the sandbox mode for testing purposes only.
 
 Enter the following details: **FEDEX ACCOUNT NUMBER**, **FEDEX ACCESS KEY**, **FEDEX PASSWORD** & **FEDEX METER NUMBER**.

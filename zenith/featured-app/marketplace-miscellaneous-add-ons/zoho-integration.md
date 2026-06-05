@@ -93,7 +93,7 @@ But if an admin clicks on the reject tab it saves the data but will not create a
 
 **Reset configuration:-** Admin can reset the configuration in case of using a different Client ID.
 
-[![z32](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/05/z32.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/05/z32.png)
+[![z32](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/dfsadgsg.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/dfsadgsg.webp)
 
 **NOTE:** For the Existing sellers Zoho CRM leads will be created when they update from the my\_account section or the admin makes any update in their edit seller section.
 
