@@ -37,7 +37,7 @@ This feature app is at the monthly charge of **$10 USD per month** in addition t
 *   Admin can minimize the return and exchange of orders.
 *   You can provide a profitable shopping experience for your customers.
 *   **[Multi-location+Store Pickup](/zenith/featured-app/marketplace-miscellaneous-add-ons/multi-location-inventory)** option available.
-*   Store Pickup feature app is now compatible with the [Postcode shipping](https://webkul.com/blog/postcode-shipping-multi-vendor-marketplace-for-shopify/) feature app.
+*   Store Pickup feature app is now compatible with the [Postcode shipping](/zenith/marketplace-shipping/postcode-shipping) feature app.
 
  How to Activate?
 ---------------------
@@ -232,7 +232,7 @@ In case the quantity is not available on the customer’s selected location then
 
 [![Screenshot-by-Lightshot](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/12/Screenshot-by-Lightshot-1200x527.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/12/Screenshot-by-Lightshot-1200x527.png)
 
-This is all about the **Split Cart+ Store Pickup f**eature.
+This is all about the **Split Cart+ Store Pickup feature**.
 
 [**CHECK THE DEMO**](https://multivendor-store-pickup.myshopify.com/products/headphones)
 
@@ -318,7 +318,7 @@ Both you can your sellers can view the location details from the order detail se
 
  Store Pick up with Multiple Shipping
 ----------------------------
-In case you are using the **[Multiple Shipping](https://webkul.com/blog/shopify-multiple-shipping/)** feature, you can allow sellers to add more than 1 shipping option for a product.
+In case you are using the **[Multiple Shipping](/zenith/marketplace-shipping/multiple-shipping)** feature, you can allow sellers to add more than 1 shipping option for a product.
 
 Thus, the customers can choose shipping rates on the product page or cart page in case the "Delivery" option configured with the **Store Pickup** Feature App.
 
@@ -342,18 +342,13 @@ Moreover, you can display the shipping methods on the checkout page as shown in 
 
  Compatibility with "Product auction app":
 -------------------------------
-Now, the store pickup app is compatible with [product auction app for shopify](https://webkul.com/blog/shopify-product-auction/).
+Now, the store pickup app is compatible with [product auction app for shopify](https://store.webkul.com/Shopify-Product-Auction.html).
 
 This will allow customers to choose their delivery preference while placing bid if the seller has applied storepickup on their products.
 
 [![screenshot_1684843718486-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/05/screenshot_1684843718486-1-1200x619.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/05/screenshot_1684843718486-1-1200x619.png)
 
-Demo Details
-------------
 
-Follow the below links and credentials to use the demo of the Multivendor Marketplace-Store Pickup Feature app:
-
-[https://multivendor-store-pickup.myshopify.com/pages/demo](https://multivendor-store-pickup.myshopify.com/pages/demo)
 
 ### SCHEDULE DEMO
 

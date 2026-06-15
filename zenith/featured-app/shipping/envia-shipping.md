@@ -28,7 +28,7 @@ Installation
 
 The admin needs to visit the **multi-vendor marketplace admin panel** > click on the **three dots** > click on the **featured apps**. Further, **enable** the **Envia Shipping** feature app.
 
-[![Feature-Apps-Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/04/Feature-Apps-Admin-1200x597.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/04/Feature-Apps-Admin-1200x597.png)
+[![Feature-Apps-Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/sixthree.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/sixthree.webp)
 
 Furthermore, **agree** & **approve** the charges:
 
@@ -134,7 +134,7 @@ If not this, the seller can set the shipping method on individual products while
 
 So, go to **Multi-vendor marketplace seller panel** > **Products** >**Product Listing** \> **Add**/**Edit** the Product:
 
-[![Screenshot-from-2020-04-07-17-33-51](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/04/Screenshot-from-2020-04-07-17-33-51-1200x601.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/04/Screenshot-from-2020-04-07-17-33-51-1200x601.png)
+[![Screenshot-from-2020-04-07-17-33-51](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/sixfour.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/sixfour.webp)
 
 Shopify Store Frontend
 ----------------------

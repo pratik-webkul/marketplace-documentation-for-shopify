@@ -28,7 +28,7 @@ Firstly enable the feature from the "FEATURE APPS" section on the top right-hand
 
 Once you will click on the Enable button, the Plan amount window will open and USD 10 will be added to your current payment.
 
-[![Multi Vendor Marketplace Canada Post](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/g.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/g.png)
+[![Multi Vendor Marketplace Canada Post](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/05/canada.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/05/canada.webp)
 
 Now you also have to enable this feature from the "shipping configuration" section of your Multivendor Marketplace app.
 
@@ -66,7 +66,7 @@ In this way, you can configure your shipping details.
 -------------------
 Once you configure the Canada post shipping details, you will have the option to choose a shipping method for each product while adding/editing a product.
 
-[![Multi Vendor Marketplace Canada Post](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/12/Screenshot2-1-1200x619.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/12/Screenshot2-1-1200x619.png)
+[![Multi Vendor Marketplace Canada Post](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/two.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/two.webp)
 
 Make **Shipping** **Address Phone Number** Mandatory
 ----------------------------------------------------
@@ -148,6 +148,6 @@ Seller end >>orders>>order listing>>click on view button in the “Action” sec
 
 [![Multi Vendor Marketplace Canada Post](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/generateshiipinglabel.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/generateshiipinglabel.webp)
 
-### DEMO
+### SCHEDULE DEMO
 
- **[https://egsma.io/shopify-multivendor-marketplace/](https://egsma.io/shopify-multivendor-marketplace/pages/seller-profile)**
+[Click here to Schedule the demo of Multivendor marketplace App for Shopify ](https://egsma.io/shopify-multivendor-marketplace/)

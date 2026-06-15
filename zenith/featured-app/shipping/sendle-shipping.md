@@ -125,7 +125,7 @@ Seller needs to follow the below-given steps to generate shipping labels for ful
 
 Clicking the Fulfill button, you need to select the **Sendle** as the shipping method.
 
-[![Screenshot-2020-10-07T181621.086](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/10/Screenshot-2020-10-07T181621.086-1200x516.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/10/Screenshot-2020-10-07T181621.086-1200x516.png)
+[![Screenshot-2020-10-07T181621.086](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/eightseven.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/eightseven.webp)
 
 Now, the seller will generate/print shipping label from "Additional Order Details" section.
 

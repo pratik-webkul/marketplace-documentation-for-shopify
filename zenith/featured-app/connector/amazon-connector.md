@@ -135,7 +135,7 @@ The seller can click on the three dots "..." for the selected report and click o
 
 Click on the "create product" option to create the product into the marketplace seller and Admin panel.
 
-[![screenshot_1697041428611](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/10/screenshot_1697041428611-1200x586.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/10/screenshot_1697041428611-1200x586.png)
+[![screenshot_1697041428611](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/05/acg.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/05/acg.webp)
 
 You can also create them in bulk by selecting the products and clicking on the bulk action button.
 

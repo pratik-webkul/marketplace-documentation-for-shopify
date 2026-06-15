@@ -369,7 +369,7 @@ Multivendor Marketplace Label Translations feature is here. Now you can rename t
 
 [![Marketplace199](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/02/upgradedfeaturesthirtythree.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/02/upgradedfeaturesthirtythree.webp)
 
-To know more **[click here](/zenith/configuration/lable-translations)**.
+To know more **[click here](/zenith/configuration/label-translations)**.
 
  Download Invoices in bulk
 ------------------------------

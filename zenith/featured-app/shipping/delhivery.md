@@ -174,7 +174,7 @@ Select the method of order fulfillment as **Delhivery** and fulfill the order.
 
 After fulfillment, you can generate the label from here:
 
-[![delhivery shipping](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/06/image-55-1200x562.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/06/image-55-1200x562.png)
+[![delhivery shipping](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/generateshiipinglabel.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/generateshiipinglabel.webp)
 
 Furthermore, this is how the shipping label will be downloaded in pdf form:
 
@@ -183,7 +183,7 @@ Furthermore, this is how the shipping label will be downloaded in pdf form:
 **EDIT DELHIVERY SHIPPING LABEL**  
 And now, this delhivery shipping label is editable from the admin panel >> order >> invoice configuration.
 
-[![Invoice-Template-Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/01/Invoice-Template-Admin-1153x1024.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/01/Invoice-Template-Admin-1153x1024.png)
+[![Invoice-Template-Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/ninetwo.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/ninetwo.webp)
 ### SCHEDULE DEMO
 
 [Click here to Schedule the demo of Multivendor marketplace App for Shopify ](https://egsma.io/shopify-multivendor-marketplace/)

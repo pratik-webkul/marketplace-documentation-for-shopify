@@ -34,7 +34,7 @@ There, You can search for the Customer Order Management Feature App. Once you ge
 
 You will be asked to [install](https://apps.shopify.com/customer-order-management-by-webkul) the Customer Order Management app to your Shopify store. Install the app to your Shopify store & reflect the features & functionalities on your marketplace.
 
-[![customer Order Management](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/09/Screenshot-61-1.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/09/Screenshot-61-1.png)
+[![customer Order Management](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/com1.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/com1.webp)
 
 Hit the "Enable" button to activate the Feature App.
 
@@ -44,7 +44,7 @@ Now, once you will approve the charge for this app, you will be ended up install
 -----------
 As soon as you enable the Customer Order Management feature app, you will get a new configuration added in the app i.e. **COM Configuration**.
 
-[![customer Order Management1](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/09/COM-App-Configuration-Admin.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/09/COM-App-Configuration-Admin.png)
+[![customer Order Management1](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/com2.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/com2.webp)
 
 Save the changes.
 
@@ -78,19 +78,19 @@ As soon as the customer requests for canceling an order, the respective seller o
 
 Seller Panel>>**Orders**\>>**Order Listing** (drop-down menu)>>**Edit** (Action menu)>> Click **Edit** button (Return Request List).
 
-[![edit](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/09/Order-Details-Seller-%E2%80%A2-Multivendor-MarketPlace-4-1.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/09/Order-Details-Seller-%E2%80%A2-Multivendor-MarketPlace-4-1.png)
+[![edit](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/com7.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/com7.webp)
 
 Seller will click the **Edit** button & proceed to update the request status.
 
-[![update](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/09/COM-Request-Seller-%E2%80%A2-Multivendor-MarketPlace.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/09/COM-Request-Seller-%E2%80%A2-Multivendor-MarketPlace.png)
+[![update](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/com8.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/com8.webp)
 
 Clicking the **Update Status** button, the seller will perform all the actions such as request status, request stage, reason, etc.
 
-[![RMA Status](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/09/COM-Request-Seller-%E2%80%A2-Multivendor-MarketPlace-1.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/09/COM-Request-Seller-%E2%80%A2-Multivendor-MarketPlace-1.png)
+[![RMA Status](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/com9.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/com9.webp)
 
 This way, sellers can update RMA status.
 
-[![Update Status](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/09/COM-Request-Seller-%E2%80%A2-Multivendor-MarketPlace-2.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/09/COM-Request-Seller-%E2%80%A2-Multivendor-MarketPlace-2.png)
+[![Update Status](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/comstatus10.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/comstatus10.webp)
 
 On the other hand, the customer can view the details from here:-
 
@@ -106,7 +106,7 @@ This way, sellers can update the return request status.
 ------------
 The sellers will have a separate section that lists all the RMA requests received from the csutomers.
 
-[![RMA](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/04/Dashboard-Seller-%E2%80%A2-Multivendor-MarketPlace-1200x528.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/04/Dashboard-Seller-%E2%80%A2-Multivendor-MarketPlace-1200x528.png)
+[![RMA](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/com11.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/com11.webp)
 
 Thus, the sellers can check the requests & directly update the status from here instead of checking them from the order listing section.
 
@@ -116,7 +116,7 @@ As soon as the sellers upadtes the request, you will receive a notification mail
 
 You as an admin can configure this mail from the **Mail Configuration** menu of your admin panel.
 
-[![Screenshot-77](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/04/Screenshot-77-1200x519.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/04/Screenshot-77-1200x519.png)
+[![Screenshot-77](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/com13.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/com13.webp)
 
  **REQUEST INVOICE**
 ----------------------

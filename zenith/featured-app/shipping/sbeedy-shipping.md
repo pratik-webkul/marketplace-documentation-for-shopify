@@ -29,7 +29,7 @@ Once you click on “Feature Apps”, you will get the list of apps listed in th
 
 After enabling this you have to accept the charges and click on agree to enable the shipping on your store .
 
-[![agree-sbeedy](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/10/agree-1-1200x576.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/10/agree-1-1200x576.webp)
+[![agree-sbeedy](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/fifteen.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/fifteen.webp)
 
 In this way, you can enable the feature within your Multivendor App.
 

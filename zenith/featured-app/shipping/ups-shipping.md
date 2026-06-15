@@ -23,7 +23,7 @@ THIS SHIPPING FEATURE APP IS USED FOR **BOTH RATE CALCULATION** AND **FULFILLMEN
 
 **Note - New account users do not require UPS Access Keys. Once you configure the UPS Client\_id and Client\_secret Name, the system will automatically generate the Access token.**
 
-[![screenshot_1708680488354](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/02/screenshot_1708680488354.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/02/screenshot_1708680488354.png)
+[![screenshot_1708680488354](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/three.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/three.webp)
 
  How to get UPS Credentials
 ------------------------
@@ -166,7 +166,7 @@ Go to Configuration>>UPS Configuration>>Select Usage As.
 
 Select either **Send To Merchant** OR **Both** (Shipping+Fulfillment) while configuring the UPS details.
 
-[![Screenshot9-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/12/Screenshot9-1-1200x614.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/12/Screenshot9-1-1200x614.png)
+[![Screenshot9-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/four.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/four.webp)
 
 Let's understand both cases.
 
@@ -194,7 +194,7 @@ In the fulfillment detail section, the seller needs to click the "**Ship To Merc
 Choose UPS as a method of fulfillment.
 
 [![UPS shipping
-](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/12/Screenshot-87-1-1200x620.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/12/Screenshot-87-1-1200x620.png)
+](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/five.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/five.webp)
 
 Selecting the UPS shipping, the seller needs to choose a shipping method and click **Agree & fulfill** button.
 
@@ -202,6 +202,7 @@ Selecting the UPS shipping, the seller needs to choose a shipping method and cli
 
 This way, the order gets fulfilled and the product quantity will get updated at the merchant's warehouse address.
 
-### Demo
+DEMO
+----
 
-Check the Demo of the Multi-vendor App: [https://egsma.io/shopify-multivendor-marketplace/pages/seller-profile](https://egsma.io/shopify-multivendor-marketplace/pages/seller-profile)
+Link to check the demo of Multi-vendor Marketplace app for Shopify: [https://egsma.io/shopify-multivendor-marketplace/](https://egsma.io/shopify-multivendor-marketplace/)

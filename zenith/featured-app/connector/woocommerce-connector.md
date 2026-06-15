@@ -298,11 +298,6 @@ This way, sellers can create price rules from their respective seller panels bas
 
 So, this is all about Multivendor Marketplace WooCommerce Connector feature app.
 
-### Demo Details
-
-You can check the Demo:-
-
-[https://multivendor-woo-commerce.myshopify.com/pages/multivendor-woocommerce-connector](https://multivendor-woo-commerce.myshopify.com/pages/multivendor-woocommerce-connector)
 ### SCHEDULE DEMO
 
 [Click here to Schedule the demo of Multivendor marketplace App for Shopify ](https://egsma.io/shopify-multivendor-marketplace/)

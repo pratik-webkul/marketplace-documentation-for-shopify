@@ -135,7 +135,7 @@ So, go to **Multi-vendor marketplace seller panel** > **Products** >**Produc
 ---------------------
 Further, click on the **Global Configuration** menu on the **Shipping Configuration** page. From here, the seller can do the **SHIPPING PACKET CONFIGURATION**:
 
-[![Shipping-Configuration-Seller-•-Multivendor-MarketPlace-2](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/09/Shipping-Configuration-Seller-%E2%80%A2-Multivendor-MarketPlace-2-1200x597.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/09/Shipping-Configuration-Seller-%E2%80%A2-Multivendor-MarketPlace-2-1200x597.png)
+[![Shipping-Configuration-Seller-•-Multivendor-MarketPlace-2](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/globalconfigseller.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/globalconfigseller.webp)
 
  Shopify Store Frontend
 ---------------

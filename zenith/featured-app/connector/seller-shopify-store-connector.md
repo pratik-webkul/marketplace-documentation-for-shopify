@@ -23,7 +23,7 @@ You can get this featured app at a monthly subscription of $40 (USD) in addition
 *   Order and inventory sync automatically on both the admin and seller Shopify stores.
 *   Moreover, sellers can now update products in bulk from the “products” section of the seller app.
 *   The sellers can register webbooks on their own based on their permission.
-*   Compatible with the **[Partial Fulfilment](https://webkul.com/blog/shopify-multivendor-marketplace-partial-fulfillment/)** feature.
+*   Compatible with the **[Partial Fulfilment](/zenith/order/partial-fulfillment)** feature.
 *   Smart collections can now be imported from the seller's Shopify store into the Multi-vendor app via this Seller Shopify store connector add-on. Know About the [Collection Sync Process](/zenith/products/collection-sync.html)
 *   Tags can be mapped via a CSV file upload.
 
@@ -749,7 +749,7 @@ The seller can enable the option from the Seller Sync App Configuration menu:
 
  Multi-location Inventory Sync
 -------------------
-In case you are using the [Multi-location Inventory feature app](https://webkul.com/blog/shopify-multivendor-marketplace-multi-location-inventory/) along with this connector add-on:-
+In case you are using the [Multi-location Inventory feature app](/zenith/featured-app/marketplace-miscellaneous-add-ons/multi-location-inventory) along with this connector add-on:-
 
 You can provide an option to let sellers choose the location of which they want to sync the product quantity with your Shopify store.
 
@@ -775,6 +775,7 @@ That's all about this feature app.
 Furthermore, if you need any kind of support/Consultancy, then please raise a ticket at [https://webkul.uvdesk.com/en/customer/create-ticket/](https://webkul.uvdesk.com/en/customer/create-ticket/) or drop an email at **support@webkul.com**.
 
 Thanks for reading this blog!!!
+
 ### SCHEDULE DEMO
 
 [Click here to Schedule the demo of Multivendor marketplace App for Shopify ](https://egsma.io/shopify-multivendor-marketplace/)

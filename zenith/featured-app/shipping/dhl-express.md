@@ -148,7 +148,7 @@ So, go to **Multi-vendor marketplace seller panel** > **Products** >**Produc
 --------------------------
 Further, click on the **Global Configuration** menu:
 
-[![Shipping_Configuration_Seller_•_Multivendor_MarketPlace-2](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/05/Shipping_Configuration_Seller_%E2%80%A2_Multivendor_MarketPlace-2-1200x597.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/05/Shipping_Configuration_Seller_%E2%80%A2_Multivendor_MarketPlace-2-1200x597.png)
+[![Shipping_Configuration_Seller_•_Multivendor_MarketPlace-2](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/globalconfig.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/globalconfig.webp)
 
 So, from here, the seller can do the **SHIPPING PACKET CONFIGURATION**:
 
@@ -176,7 +176,7 @@ Go to **Multi-vendor marketplace seller panel** > **Orders** > **Order List
 
 As soon as the order will be fulfilled, the shipping label will be automatically downloaded.
 
-[![Order_Details_Seller_•_Multivendor_MarketPlace-1-3](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/05/Order_Details_Seller_%E2%80%A2_Multivendor_MarketPlace-1-3-1200x597.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/05/Order_Details_Seller_%E2%80%A2_Multivendor_MarketPlace-1-3-1200x597.png)
+[![Order_Details_Seller_•_Multivendor_MarketPlace-1-3](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/sevenone.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/sevenone.webp)
 
 (i)
 

@@ -358,11 +358,11 @@ Now, not only order details but also the tracking information like the tracking 
 
 Admin end of order view.
 
-[![4-2](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/04/4-2-1200x569.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/04/4-2-1200x569.png)
+[![4-2](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/adminnumber.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/adminnumber.webp)
 
 Seller end of the order view.
 
-[![3-2](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/04/3-2-1200x538.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/04/3-2-1200x538.png)
+[![3-2](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/sellernumber.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/sellernumber.webp)
 
  Price Rule
 ------------------------
@@ -438,11 +438,6 @@ the option names can be then mapped with their desired Shopify option names.
 
 3.1.34.177  
 
-### Demo Details
-
-Moreover, follow the below link to check the demo of PrestaShop Connector app:
-
-[https://multivendor-prestashop-connector.myshopify.com/pages/demo](https://multivendor-prestashop-connector.myshopify.com/pages/demo)
 
 ### SCHEDULE DEMO
 

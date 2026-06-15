@@ -69,7 +69,7 @@ From here, you can enable or disable various tabs and settings within this secti
 
 You can see the "Allow Seller to Choose Environment" settings.
 
-[![allow seller to choose environment Shopify eBay connector](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/07/3allowsellertochoosenvi-1200x530.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/07/3allowsellertochoosenvi-1200x530.webp)
+[![allow seller to choose environment Shopify eBay connector](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/enviroment-scaled.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/enviroment-scaled.webp)
 
 Admins can enable this option to allow sellers to select between the testing environment and the production environment.
 
@@ -115,7 +115,7 @@ Once the admin installs the Shopify-Ebay Connector feature app within the Multiv
 
 Sellers can navigate this by following Configuration > eBay Configuration
 
-[![ebay configuration Shopify eBay connector](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/07/4sellerebayconfiguration-1200x531.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/07/4sellerebayconfiguration-1200x531.webp)
+[![ebay configuration Shopify eBay connector](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/ebayconfig.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/ebayconfig.webp)
 
 To set up the "Shopify eBay Connector App Configuration," sellers need to enter the following details:
 
@@ -129,7 +129,7 @@ To set up the "Shopify eBay Connector App Configuration," sellers need to enter 
 *   Weight unit of your eBay Store
 *   Currency
 
-[![ebay store details Shopify eBay connector](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/07/ebayconfigdetails-1200x530.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/07/ebayconfigdetails-1200x530.webp)
+[![ebay store details Shopify eBay connector](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/ebayconfig-1-scaled.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/ebayconfig-1-scaled.webp)
 
 **Auto-sync Product Configuration**
 -----------------------------------
@@ -142,13 +142,12 @@ This feature keeps your product listings consistent across both platforms and sa
 
 Navigate to **Seller panel > Configuration > eBay Configuration**, enable the **Auto Sync new products** option, and then click on the **‘Save’** button.
 
-[![auto sync new products](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/07/autosyncebayconnector-1200x526.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/07/autosyncebayconnector-1200x526.webp)
+[![auto sync new products](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/autosync.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/autosync.webp)
 
 Now, upon clicking the "Save" button, the seller will be redirected to the eBay store login page, where they need to sign in using their credentials.
 
 Once signed in, a pop-up notification will appear stating, "App Details Updated Successfully."
 
-[![success pop up Shopify eBay connector](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/07/7successpopup-1200x538.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/07/7successpopup-1200x538.webp)
 
 How to get eBay credentials?
 ----------------------------
@@ -236,9 +235,9 @@ Collection Mapping
 
 Now, the seller can map collections by navigating to the Collection Mapping section.
 
-[![map collection Shopify eBay connector](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/07/8collectionmapping-1200x518.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/07/8collectionmapping-1200x518.webp)
+[![map collection Shopify eBay connector](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/mapcollection.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/mapcollection.webp)
 
-[![map collection details Shopify eBay connector](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/07/9mapcollectionfieldsnames-1200x528.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/07/9mapcollectionfieldsnames-1200x528.webp)
+[![map collection details Shopify eBay connector](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/maptwo.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/maptwo.webp)
 
 To map their collection:
 
@@ -249,7 +248,7 @@ To map their collection:
 
 In the Collection Mapping section, you will see a list of all the mapped collections.
 
-[![delete mapping](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/07/10deletemapping-1200x527.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/07/10deletemapping-1200x527.webp)
+[![delete mapping](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/collectionthree.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/collectionthree.webp)
 
 To manage these mappings, you can disable or delete any mapping by clicking on the three dots under the "Action" column next to the particular mapped collection.
 
@@ -262,9 +261,9 @@ To import products from eBay store to Shopify, sellers can follow these steps:
 2.  Navigate to Configuration > eBay Configuration.
 3.  Click on "Import Products."
 
-[![import products](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/07/11importproducts-1200x529.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/07/11importproducts-1200x529.webp)
+[![import products](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/import.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/import.webp)
 
-[![import products methods](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/07/12methodstoimportproduct-1200x524.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/07/12methodstoimportproduct-1200x524.webp)
+[![import products methods](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/importtwo-scaled.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/importtwo-scaled.webp)
 
 Sellers have two methods to import products:
 
@@ -284,9 +283,9 @@ Sellers have two methods to import products:
 
 After the products are imported, the seller can view them by navigating to the Products > Product Listing.
 
-[![product listing](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/07/13ebayproductimported-1200x528.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/07/13ebayproductimported-1200x528.webp)
+[![product listing](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/approvalpending.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/approvalpending.webp)
 
-[![product edit](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/07/14editebayproduct-1200x526.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/07/14editebayproduct-1200x526.webp)
+[![product edit](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/editproducct.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/editproducct.webp)
 
 To edit product details, sellers need to follow these steps:
 

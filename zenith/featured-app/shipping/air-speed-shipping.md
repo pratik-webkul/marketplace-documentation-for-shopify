@@ -135,10 +135,6 @@ This way, Seller will generate the shipping label using AirSpeed Shipping Featur
 
 This is all about the AirSpeed Shipping Feature App.
 
-Demo
-----
+### SCHEDULE DEMO
 
-Further, check out the demo
-
-[https://egsma.io/shopify-multivendor-marketplace/pages/seller-profile](https://egsma.io/shopify-multivendor-marketplace/pages/seller-profile)
-
+[Click here to Schedule the demo of Multivendor marketplace App for Shopify ](https://egsma.io/shopify-multivendor-marketplace/)

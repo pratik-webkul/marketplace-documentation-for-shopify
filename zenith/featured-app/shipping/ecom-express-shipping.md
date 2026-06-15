@@ -49,7 +49,7 @@ Let us understand them one by one.
 -------------------
 As soon as you enable the feature app, two new menus get added to the configuration menu of the app.
 
-[![admin end](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/02/Dashboard-Admin-1200x619.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/02/Dashboard-Admin-1200x619.png)
+[![admin end](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/05/ecomexpr.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/05/ecomexpr.webp)
 
 To configure the Ecom Express Shipping, the admin will enter his own Ecom shipping details such as **Ecom ID** and **Ecom password**.
 

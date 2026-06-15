@@ -387,7 +387,7 @@ We have added a feature where admin can allow sellers to add ranges on the bases
 
 **Configuration:** Navigate from admin panel of multivendor app configuration >> Enable MANAGE SHIPPING RANGES BASED ON DISTANCE
 
-[![Admin panel configuration, distance wise range](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/05/admin-panel_distance-config-1200x521.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/05/admin-panel_distance-config-1200x521.webp)
+[![Admin panel configuration, distance wise range](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/05/distance.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/05/distance.webp)
 
 Once done, you need to add google map api keys.
 
@@ -833,7 +833,7 @@ Multi-vendor **Seller Panel**\>>**Orders**\>>**Order Listing**\>>Select an order
 
 By clicking on this button, the seller needs to select "**Marketplace Fulfillment**" as the fulfillment method and click the **Generate** button.
 
-[![generate shipping label](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/05/Order_Details_Seller_%E2%80%A2_Multivendor_MarketPlace-1-1200x627.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/05/Order_Details_Seller_%E2%80%A2_Multivendor_MarketPlace-1-1200x627.png)
+[![generate shipping label](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/one.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/one.webp)
 
 #### SHIPPING LABEL GENERATED
 

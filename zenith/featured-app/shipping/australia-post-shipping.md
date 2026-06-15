@@ -66,15 +66,15 @@ As soon as you activate the Australia Post feature app, a new sub-menu gets adde
 
 Visiting this section, first You will be asked to enable the Australia Post shipping from the **Shipping Configuration** menu of the app. Then only, you will get the option to add details related to Australia Post shipping.
 
-[![Configure australia post Multivendor Australia Post](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/04/Screenshot-2-1.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/04/Screenshot-2-1.png)
+[![Configure australia post Multivendor Australia Post](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/05/australiaone.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/05/australiaone.webp)
 
 **OR** You can directly visit the Shipping Configuration section and enable the Australia Post shipping method.
 
-[![Screenshot](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/04/Screenshot-2.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/04/Screenshot-2.png)
+[![Screenshot](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/05/australiatwo.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/05/australiatwo.webp)
 
 In the Shipping Configuration menu, You will get the **Australia Post shipping** Option. **Enable** it and **Save** the settings.
 
-[![Configuration Admin-Multivendor Australia Post](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/04/Configuration-Admin-3.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/04/Configuration-Admin-3.png)
+[![Configuration Admin-Multivendor Australia Post](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/05/australiathree.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/05/australiathree.webp)
 
 Now, admin can enable the Australia Post shipping separately for each seller from "**Edit Seller**" section of the app.
 
@@ -181,13 +181,6 @@ Once generated, the seller can print the shipping label from the Order detail se
 [![print shipping label -Multi-vendor Australia Post](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/generateshiipinglabel.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/generateshiipinglabel.webp)
 
 That's all about the Australia Post shipping Feature App.
-
-### Demo
-
-Further, go through the below given link to check the demo of the Multi-vendor Marketplace App for Shopify:
-
-[https://multivendor-marketplace-4.myshopify.com/pages/demo](https://multivendor-marketplace-4.myshopify.com/pages/demo)
 ### SCHEDULE DEMO
 
 [Click here to Schedule the demo of Multivendor marketplace App for Shopify ](https://egsma.io/shopify-multivendor-marketplace/)
-

@@ -21,7 +21,7 @@ Moreover, you need to enable the **[Shipping](/zenith/featured-app/overview)**�
 
 Also, Access to Shipping requires your Shopify store to be on the plan that supports [**Real-Time Carrier-Calculated Shipping**.](https://help.shopify.com/en/manual/shipping/setting-up-and-managing-your-shipping/enabling-shipping-carriers)
 
-The Swiss post Shipping feature is compatible with the **[Partial Fulfillment](https://webkul.com/blog/shopify-multivendor-marketplace-partial-fulfillment/)** feature.
+The Swiss post Shipping feature is compatible with the **[Partial Fulfillment](/zenith/order/partial-fulfillment)** feature.
 
 SWISS POST FEATURE APP IS AVAILABLE **ONLY FOR FULFILLMENT**.
 

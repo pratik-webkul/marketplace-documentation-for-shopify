@@ -88,7 +88,7 @@ Like this, you will get the details and configure the same in the app to make th
 ---------------------
 Once you configure these details, the sellers will also get the option to enable the Shiprocket shipping from the **Shipping Configuration** menu of their seller panel.
 
-[![Shipping-Configuration-_-Seller-•-Multivendor-MarketPlace](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/01/Shipping-Configuration-_-Seller-%E2%80%A2-Multivendor-MarketPlace-1200x597.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/01/Shipping-Configuration-_-Seller-%E2%80%A2-Multivendor-MarketPlace-1200x597.png)
+[![Shipping-Configuration-_-Seller-•-Multivendor-MarketPlace](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/shiprocketone.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/shiprocketone.webp)
 
 If the seller needs to configure the shipping packet details then this can be done from the Global Shipping Configuration:
 
@@ -127,7 +127,7 @@ This new location will be used as a primary location.
 *   The Global shipping configuration is mandatory.
 *   SKU is mandatory while adding a product.
 
-[![sku](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/04/sku.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/04/sku.png)
+[![sku](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/shiprockettwo.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/shiprockettwo.webp)
 
 The seller needs to follow the below-given steps to fulfill the orders:
 
@@ -137,7 +137,7 @@ The seller needs to follow the below-given steps to fulfill the orders:
 *   Click on **Proceed to Fulfill the order**.
 *   select the Shiprocket as the fulfillment method.
 
-[![Order-_-Seller-•-Multivendor-MarketPlace](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/01/Order-_-Seller-%E2%80%A2-Multivendor-MarketPlace-1200x597.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/01/Order-_-Seller-%E2%80%A2-Multivendor-MarketPlace-1200x597.png)
+[![Order-_-Seller-•-Multivendor-MarketPlace](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/vieworder.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/vieworder.webp)
 
 [![Order-Details-_-Seller-•-Multivendor-MarketPlace](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/orderfullpage.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/orderfullpage.webp)
 

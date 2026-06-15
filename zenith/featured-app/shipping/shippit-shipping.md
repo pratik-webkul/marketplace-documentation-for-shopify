@@ -151,7 +151,7 @@ The admin can also check his or her shipping charges commission applied above th
 
 For this, Go to Admin Panel > Orders > Order Listing > Now view the order.
 
-[![Admin shipping comission](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/12/ysb.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/12/ysb.webp)
+[![Admin shipping comission](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/shippitonee.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/shippitonee.webp)
 
 Order Fulfillment:
 ------------------
