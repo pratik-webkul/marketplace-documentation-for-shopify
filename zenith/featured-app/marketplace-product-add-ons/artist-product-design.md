@@ -113,7 +113,7 @@ The admin can add custom fields for the designs added by the seller.
 Perform this function by visiting Multi-vendor Marketplace Admin Panel > Configuration > Custom Fields. While adding the fields, select the field type as **design**.
 
 Further, to know more regarding custom fields, check out the following blog:  
-[Add Custom Fields on Multi-Vendor Marketplace for Shopify](https://webkul.com/blog/add-custom-fields-on-multi-vendor-marketplace-for-shopify/).
+[Add Custom Fields on Multi-Vendor Marketplace for Shopify](/zenith/configuration/custom-fields).
 
 **WHETHER YOU WANT TO HAVE SELLER ALSO ON THE STORE**
 -----------------------------------------------------
@@ -405,9 +405,6 @@ Enter the details related to the Print On Demand product.
 
 That's all.
 
-### DEMO DETAILS
-
-Furthermore, check out the demo for this app: [https://artistic-marketplace.myshopify.com/pages/demo-details](https://artistic-marketplace.myshopify.com/pages/demo-details)
 ### SCHEDULE DEMO
 
 [Click here to Schedule the demo of Multivendor marketplace App for Shopify ](https://egsma.io/shopify-multivendor-marketplace/)

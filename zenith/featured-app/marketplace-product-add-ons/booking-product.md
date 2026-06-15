@@ -421,7 +421,7 @@ Customer can view the booking details from their respective "**My Account**" sec
 
 [![customer bookings](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/07/Order-1004-–-multivendor-booking-demo.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/07/Order-1004-–-multivendor-booking-demo.png)
 
-This is all about the Booking Product feature app of the [Multivendor Marketplace](https://webkul.com/blog/shopify-multivendor-marketplace-new-theme-launched/) app for Shopify.
+This is all about the Booking Product feature app of the [Multivendor Marketplace](/zenith/introduction/) app for Shopify.
 
  Recent Updates
 ----------------
@@ -465,7 +465,7 @@ From there, the admin will approve the reschedule requests of the customers, if 
 
 #### **Restrict Booking Product Features for Sellers**
 
-If you are using the [Booking + Multi-vendor Marketplace integration](https://webkul.com/blog/shopify-multivendor-marketplace-booking-app-integration/) to let the sellers add bookings to their products,
+If you are using the [Booking + Multi-vendor Marketplace integration](/zenith/featured-app/marketplace-product-add-ons/booking-product) to let the sellers add bookings to their products,
 
 Then, you can restrict booking product features for your sellers directly from the app.
 
@@ -510,12 +510,6 @@ On the Booking App, You can configure the calendar visibility for sellers.
 
 **KEEP FOLLOWING THE BLOG TO CHECK ALL THE RECENT UPDATES!**
 
-Demo
-----
-
-Follow the below link to use the demo of Multivendor Marketplace-Booking app for Shopify:
-
-[https://multivendor-booking-demo.myshopify.com/pages/demo](https://multivendor-booking-demo.myshopify.com/pages/demo)
 ### SCHEDULE DEMO
 
 [Click here to Schedule the demo of Multivendor marketplace App for Shopify ](https://egsma.io/shopify-multivendor-marketplace/)

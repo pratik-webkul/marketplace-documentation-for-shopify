@@ -13,7 +13,7 @@ For now, the app is not compatible with the IOS devices.
 
 Using this featured app, the admin can send different kinds of push notifications to his sellers. The notifications can be **automatic** as well as **manual**.
 
-**NOTE:** PWA Feature App is only available for stores with [Custom Seller Domain](https://webkul.com/blog/customize-seller-login-url-multi-vendor-marketplace-for-shopify/) (with SSL).
+**NOTE:** PWA Feature App is only available for stores with [Custom Seller Domain](/zenith/seller/seller-URL-customisation) (with SSL).
 
 **CHARGES**
 

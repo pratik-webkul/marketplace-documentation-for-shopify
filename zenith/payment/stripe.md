@@ -177,7 +177,7 @@ On the Thank You page, the popup to complete the payment will appear and save.
 --------------------
 The multivendor marketplace app now displays a "Stripe Connect Configuration" menu in the orders section of the seller panel.
 
-[![Stripe Connect121](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/pay35.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/pay35.webp)
+[![Stripe Connect121](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/stripe.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/stripe.webp)
 
 After visiting this section click on "Add account to stripe"
 

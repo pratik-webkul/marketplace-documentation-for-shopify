@@ -38,7 +38,7 @@ then click on the **Enable** button to activate it in your [multivendor marketpl
 
 After clicking on Enable button, you need to click on Agree button to proceed with approving the feature app's charges.
 
-[![screenshot_1683281833143](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/05/screenshot_1683281833143-1200x551.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/05/screenshot_1683281833143-1200x551.png)
+[![screenshot_1683281833143](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/nineeight.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/nineeight.webp)
 
 You can easily approve the charges by simply clicking on the "Approve" button in Shopify.
 

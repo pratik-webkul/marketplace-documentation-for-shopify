@@ -1,10 +1,10 @@
 ---
-title: Lable Translations
-description: Lable Translations 
+title: Label Translations
+description: Label Translations 
 author: Chirag Tyagi
 ---
 
-# User Guide for Lable Translations
+# User Guide for Label Translations
 
 Let's learn about Label Translation in Multivendor Marketplace for Shopify.
 

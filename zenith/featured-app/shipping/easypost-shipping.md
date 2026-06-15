@@ -79,7 +79,7 @@ If the seller chooses "Yes," the insurance amount will be prefilled which is equ
 
 The insurance fee will be 0.5% of the insurance amount as per Easypost documentation.
 
-[![image](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/08/easy1-1200x569.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/08/easy1-1200x569.webp)
+[![image](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/ninefour.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/ninefour.webp)
 
 Note: The maximum Insurance coverage amount can be up to 5000 USD, and the minimum Insurance fee is 50 cents.
 
@@ -169,7 +169,7 @@ Seller needs to follow the below-given steps to generate shipping labels for ful
 
 [![EasyPost Shipping](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/orderfullpage.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/orderfullpage.webp)
 
-[![screenshot_1707911571623](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/02/screenshot_1707911571623.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/02/screenshot_1707911571623.png)
+[![screenshot_1707911571623](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/ninefive.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/ninefive.webp)
 
 [![screenshot_1707911583384](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/02/screenshot_1707911583384.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/02/screenshot_1707911583384.png)
 

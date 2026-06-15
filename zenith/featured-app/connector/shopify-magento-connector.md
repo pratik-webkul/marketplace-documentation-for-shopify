@@ -124,7 +124,7 @@ You can configure the settings as per the requirements with Seller's Magento sto
 
 Even, the admin will get a reference order number like below that will be shown order section of the seller's magento store.
 
-[![screenshot_from_2022_12_27_12_51_33-7](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/02/screenshot_from_2022_12_27_12_51_33-7-1200x595.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/02/screenshot_from_2022_12_27_12_51_33-7-1200x595.png)
+[![screenshot_from_2022_12_27_12_51_33-7](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/sellerreffno.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/sellerreffno.webp)
 
  Magento Configuration
 ----------------------
@@ -244,7 +244,7 @@ Further, manage inventory at both the ends i.e. at Magento as well as at Multive
 **Order Placed at Multivendor App**
 -----------------------------------
 
-[![MVO1](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/12/Order-Details-Seller-%E2%80%A2-Multivendor-MarketPlace-1.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/12/Order-Details-Seller-%E2%80%A2-Multivendor-MarketPlace-1.png)
+[![MVO1](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/orderno-scaled.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/orderno-scaled.webp)
 
 **Orders automatically Synced at Magento:**
 
@@ -268,18 +268,12 @@ Clicking the **Connector Price Rule**, the seller needs to enable “Price Rule
 
 Get price change by a fixed amount or a percentage amount, enter the amount that you want to change.
 
-[![price rule](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/01/Price-Rule-%E2%80%A2-Multivendor-MarketPlace.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/01/Price-Rule-%E2%80%A2-Multivendor-MarketPlace.png)
+[![price rule](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/pricerule.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/pricerule.webp)
 
 Enable the checkbox to update already synced product’s price at the merchant’s store as per the price rule.
 
 That's all about Multivendor Marketplace for Shopify-Magento Connector feature app.
 
-Demo Details
-------------
-
-Moreover, follow the below links and credentials to check the demo of Magento Connector App:
-
-[https://multivendor-magento-connector.myshopify.com/pages/demo](https://multivendor-magento-connector.myshopify.com/pages/demo)
 ### SCHEDULE DEMO
 
 [Click here to Schedule the demo of Multivendor marketplace App for Shopify ](https://egsma.io/shopify-multivendor-marketplace/)

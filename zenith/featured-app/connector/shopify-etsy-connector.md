@@ -194,5 +194,5 @@ Demo Details
 
 Moreover, follow the below links and credentials to use the demo of the Multivendor Marketplace app:
 
-[https://egsma.io/shopify-multivendor-marketplace/pages/seller-profile](https://egsma.io/shopify-multivendor-marketplace/pages/seller-profile)
+[Click here to Schedule the demo of Multivendor marketplace App for Shopify ](https://egsma.io/shopify-multivendor-marketplace/)
 

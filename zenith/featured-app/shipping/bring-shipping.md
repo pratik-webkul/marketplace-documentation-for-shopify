@@ -133,7 +133,7 @@ Further, click on the **Global Configuration** menu:
 
 So, from here, the seller can do the **SHIPPING PACKET CONFIGURATION**:
 
-[![image-41](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/05/image-41-1200x597.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/05/image-41-1200x597.png)
+[![image-41](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/globalconfigseller.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/globalconfigseller.webp)
 
 **NOTE**: It is mandatory to add product weight while creating one.
 

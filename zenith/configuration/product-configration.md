@@ -310,7 +310,7 @@ To configure this, visit:
 
 Now, while adding products to the marketplace (admin panel or seller panel), you'll get the option to set quantity. Refer:
 
-[![Add-Product-Admin-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/12/Add-Product-Admin-1-1200x627.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/12/Add-Product-Admin-1-1200x627.png)
+[![Add-Product-Admin-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/mpq.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/mpq.webp)
 
 [Know in-depth:](/zenith/configuration/minimum-purchase-quantity)
 

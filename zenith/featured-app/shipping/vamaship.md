@@ -164,7 +164,7 @@ MultiVendor Marketplace Seller End
 
 Further, the seller can set the shipping method as **by-default**. So that every single product created it will have **Vamaship Shipping** as the **by-default shipping method**.
 
-[![SET AS DEFAULT](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/09/Shipping-Configuration-Seller-%E2%80%A2-Multivendor-MarketPlace-3.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/09/Shipping-Configuration-Seller-%E2%80%A2-Multivendor-MarketPlace-3.png)
+[![SET AS DEFAULT](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/05/vama.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/05/vama.webp)
 
 MultiVendor Marketplace Seller End
 

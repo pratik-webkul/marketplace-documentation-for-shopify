@@ -313,7 +313,7 @@ markdown: {
             { text: 'Discount configuration', link: '/zenith/configuration/discount-configuration' },
             { text: 'General configuration', link: '/zenith/configuration/general-configration' },
             { text: 'Invoice configuration', link: '/zenith/configuration/invoice-configuration' },
-            { text: 'Lable translations', link: '/zenith/configuration/lable-translations' },
+            { text: 'Label translations', link: '/zenith/configuration/label-translations' },
             { text: 'Minimum purchase amount', link: '/zenith/configuration/minimum-purchase-amount' },
             { text: 'Minimum purchase quantity', link: '/zenith/configuration/minimum-purchase-quantity' },
             { text: 'Product configuration', link: '/zenith/configuration/product-configration' },

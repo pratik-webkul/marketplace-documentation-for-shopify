@@ -27,8 +27,8 @@ The sellers can further edit the quantity from the seller panel. Also, disable t
 *   Anytime, you can edit the default pre-order quantity that will be a global setting applicable for all the seller's products on your marketplace.
 *   The sellers can too edit the pre-order product quantity while editing the products from the seller panel.
 *   Moreover, the sellers can disable pre-order on any specific products manually.
-*   The **Pre-Order feature app** is also **compatible** with the [**Slot Pricing Feature App**](https://webkul.com/blog/shopify-multivendor-marketplace-slot-pricing/).
-*   This integration is compatible with the [Split Cart Feature app](https://webkul.com/blog/shopify-multivendor-marketplace-split-cart) of the Multi-vendor app.
+*   The **Pre-Order feature app** is also **compatible** with the [**Slot Pricing Feature App**](/zenith/featured-app/marketplace-product-add-ons/slot-pricing).
+*   This integration is compatible with the [Split Cart Feature app](/zenith/featured-app/marketplace-miscellaneous-add-ons/split-cart) of the Multi-vendor app.
 
 To make this feature work, you need to install the [Pre-Order Controller app](https://apps.shopify.com/pre-order-by-webkul) to your Shopify store. Once done, you can proceed to configure the settings.
 

@@ -17,9 +17,9 @@ Admin can enable this feature app with an additional charge of USD 15 per month.
 
 The merchant can now **add global products** in **bulk** via **CSV** upload.
 
-**Note**:- You can add custom fields to the global products on your store. **[Know More](https://webkul.com/blog/add-custom-fields-on-multi-vendor-marketplace-for-shopify/#custom-field-for-product)**
+**Note**:- You can add custom fields to the global products on your store. **[Know More](/zenith/configuration/custom-fields.html#custom-field-for-product)**
 
-**You can also allow sellers to add auctions to global products. [EXPLORE](https://webkul.com/blog/shopify-multivendor-marketplace-product-auction-integration/#add-auction-to-global-products)**
+**You can also allow sellers to add auctions to global products. [EXPLORE](/zenith/featured-app/marketplace-product-add-ons/product-auction-for-seller.html#add-auction-to-global-products)**
 
 Check the below video of Global Product:
 
@@ -457,7 +457,7 @@ In this way, you can translate the labels for various sections of the Global Pro
 
  Compatible with Stock Management App
 --------------
-The Global Product app is now compatible with the [Stock Management](https://webkul.com/blog/shopify-multivendor-marketplace-stock-management-new-theme/) feature app. Thus, you can now manage the stock of the global products sold by multiple sellers.
+The Global Product app is now compatible with the [Stock Management](/zenith/featured-app/marketplace-product-add-ons/stock-management) feature app. Thus, you can now manage the stock of the global products sold by multiple sellers.
 
 For more detail, **[REFER](https://webkul.com/blog/manage-global-product-stock-multivendor-marketplace-for-shopify/)**
 
