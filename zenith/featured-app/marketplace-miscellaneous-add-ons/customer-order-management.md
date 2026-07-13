@@ -58,11 +58,11 @@ Let's see how customers manage orders.
 -------------
 As soon as the Customer places an order, he/she will get these options to Request Return, Request Invoice and Reorder and Change Shipping Address.
 
-[![customer Order Management](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/09/Order-1172-%E2%80%93-tarang-store1.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/09/Order-1172-%E2%80%93-tarang-store1.png)
+[![customer Order Management](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/comone.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/comone.webp)
 
 Once the Customer’s order gets fulfilled, he/she can get the three options in their “My Account” section i.e **Return** **Request, Request Invoice, Reorder.**
 
-[![Order Management](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/09/Order-1172-%E2%80%93-tarang-store1-1.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/09/Order-1172-%E2%80%93-tarang-store1-1.png)
+[![Order Management](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/comtwo.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/comtwo.webp)
 
   **REQUEST RETURN**
 ---------------
@@ -156,13 +156,13 @@ Similarly, customers with disabled accounts can also perform various actions on 
 
 Visiting this page, Customer can enter their order ID and email address and click on the “**Lookup**” button to proceed. After this, the admin will get notified for the same and he/she needs to verify the email address of the customer.
 
-[![Order lookup](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/07/Screenshot-80-png-1295%C3%97439-.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/07/Screenshot-80-png-1295%C3%97439-.png)
+[![Order lookup](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/cs13.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/cs13.webp)
 
 Once verified, customers can have the complete order details and thus can manage their orders in the easiest possible way.
 
 > Customers will get the fulfillment status & quantity information on the same page:
 
-[![customer order management](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/06/2n4mzf3bexq-1292%C3%97672-1-1-1200x597.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/06/2n4mzf3bexq-1292%C3%97672-1-1-1200x597.png)
+[![customer order management](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/cs14.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/cs14.webp)
 
 This way, you can allow customers to manage orders for all seller's products.
 

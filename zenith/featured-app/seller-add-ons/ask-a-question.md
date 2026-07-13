@@ -108,6 +108,42 @@ To enable this configuration, go to the **Multivendor Marketplace Admin Panel** 
 
 [![Seller reopen query](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/02/12sellerropenquery.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/02/12sellerropenquery.webp)
 
+#### Restrict Queries on the Basis of Specific Keywords (New Feature)
+
+This new configuration allows the admin to **control customer queries** by restricting specific keywords.
+
+**Path to enable:** **Configuration > Ask a question configuration > General Configuration**
+
+Enable **“Restrict Queries on the Basis of Specific Keywords”** and then select a restriction type.
+
+![ask a question](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/askaquestion-1200x512.webp)
+
+### Choose Restriction Type
+
+**1\. Do Not Submit the Query**
+
+If a customer enters any restricted keyword in the query:
+
+*   The query **will not be submitted**
+*   The user will be blocked from sending the query
+*   No query will be created in the system
+
+This option is useful for **completely preventing unwanted or restricted queries**.
+
+**2\. Submit the Query, But the Seller Will Not Receive an Email and View the Query**
+
+If restricted keywords are detected:
+
+*   The query **will be submitted**
+*   The seller **will not receive any email notification**
+*   The seller **will not be able to view the query**
+
+This option helps in **silently filtering sensitive or restricted queries** without blocking submission.
+
+Click **Save** to apply the configuration
+
+> **Note:** You can add **up to 50 restricted keywords**.
+
 ### Captcha Code Configuration for Customer Verification
 
 When this configuration is activated, customers will need to enter a Captcha code on the website's front end. This enhances security by preventing automated spam and unauthorized access.
@@ -482,6 +518,99 @@ Customers can click on the "view" button to view the complete conversation.
 [![screenshot_1684397210706](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/05/screenshot_1684397210706.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/05/screenshot_1684397210706.png)
 
 This was all about the **Ask a Question app**.
+
+## Allow Seller to Manage Queries (Close, Mark as Unread, Mark as Spam)
+
+We have added a new configuration in the _Ask a Question_ feature, which allows sellers to **Close**, **Mark as Unread**, or **Mark as Spam** queries. By default, the admin can perform all these actions.
+
+**In the “All Queries” listing page:**
+
+*   If the **last reply** is from the **seller**, the query will be shown as **bold/highlighted** in the **customer account**.
+*   If the **last reply** is from the **customer**, the query will be shown as **bold/highlighted** in the **seller account**.
+
+### Allow Seller to Close Query
+
+If Admin enables **“Allow Seller to Close Query”**, your sellers will be able to **close queries**.
+
+**To enable this feature:**
+
+1.  Navigate to the **Admin Panel** of the marketplace.
+2.  Go to **Configuration** → **Ask a Question Configuration** → **General Configuration**.
+3.  Enable **“Allow Seller to Close Query”**.
+
+![image](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/askq-1200x569.webp)
+
+![image](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/as1-1200x569.webp)
+
+On seller's end, to close a query, the seller should:
+
+1.  Navigate to the **Seller Panel** of the marketplace.
+2.  Go to **All Queries**.
+3.  Select the query they wish to close and click the **View** button under the **Action** menu.
+4.  On the redirected page, the seller can close the query.
+
+![image](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/ask7-1200x569.webp)
+
+![image](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/ask6-1200x569.webp)
+
+### **Allow Seller to Set the Query “Mark as Unread” in Query View Page**
+
+If Admin enables **“Allow Seller to Set the Query “Mark as Unread” in Query View Page”**, your sellers will be able to **mark queries as unread** in the query view page.
+
+**To enable this feature:**
+
+1.  Navigate to the **Admin Panel** of the marketplace.
+2.  Go to **Configuration → Ask a Question Configuration → General Configuration**.
+3.  Enable **“****Allow Seller to Set the Query “Mark as Unread” in Query View Page**
+4.  **”**.
+
+![image](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/askq-1-1200x569.webp)
+
+![image](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/as2-1200x569.webp)
+
+On the seller panel
+
+![image](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/ask4-1200x569.webp)
+
+### **Allow Seller to Set the Query “Mark as Spam” in Query View Page**
+
+If Admin enables **“**Allow Seller to Set the Query “Mark as Spam” in Query View Page**”**, your sellers will be able to **mark queries as spam** in the query view page.
+
+**To enable this feature:**
+
+1.  Navigate to the **Admin Panel** of the marketplace.
+2.  Go to **Configuration → Ask a Question Configuration → General Configuration**.
+3.  Enable **“**Allow Seller to Set the Query “Mark as Spam” in Query View Page**”**.
+
+![image](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/askq-2-1200x569.webp)
+
+![image](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/as3-1200x569.webp)
+
+On seller panel,
+
+![image](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/ask5-1200x569.webp)
+
+### **Show All Queries Page on Seller and Customer Account**
+
+By enabling this configuration, both **sellers** and **customers** will be able to **view the “All Queries” page**, which lists all queries related to their account.
+
+**To enable this feature:**
+
+1.  Navigate to the **Admin Panel** of the marketplace.
+2.  Go to **Configuration → Ask a Question Configuration → General Configuration**.
+3.  Enable **“Show All Queries Page on Seller and Customer Account”**.
+
+![image](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/askq-3-1200x569.webp)
+
+![image](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/askkkk-1200x569.webp)
+
+![image](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/ask44-1200x569.webp)
+
+On customer end,
+
+![image](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/assssss-1200x569.webp)
+
+![image](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/asdddd-1200x569.webp)
 
  Display Seller Info on Query Detail Page
 -----------------

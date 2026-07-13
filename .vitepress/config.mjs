@@ -519,6 +519,7 @@ markdown: {
                 { text: 'E-signature', link: '/zenith/featured-app/marketplace-product-add-ons/e-signature' },
                 { text: 'Favorite product | seller', link: '/zenith/featured-app/marketplace-product-add-ons/favorite-product-seller' },
                 { text: 'Global product', link: '/zenith/featured-app/marketplace-product-add-ons/global-product' },
+                { text: 'Manage Global Product Stock', link: '/zenith/featured-app/marketplace-product-add-ons/global-product-stock' },
                 { text: 'Indian GST', link: '/zenith/featured-app/marketplace-product-add-ons/indian-gst' },
                 { text: 'Live commerce', link: '/zenith/featured-app/marketplace-product-add-ons/live-commerce' },
                 { text: 'Make an offer', link: '/zenith/featured-app/marketplace-product-add-ons/make-an-offer' },
@@ -580,6 +581,17 @@ markdown: {
           {text:'Multiple shipping',link:'/zenith/marketplace-shipping/multiple-shipping'},
           {text:'Postcode shipping',link:'/zenith/marketplace-shipping/postcode-shipping'},  
           {text:'Zone wise shipping',link:'/zenith/marketplace-shipping/zone-wise-shipping'},
+          ]
+        },
+        {
+          text: 'Distributed Marketplace',
+          collapsible: true,
+          collapsed: true,
+          items: [
+            {
+              text: 'Distributed Marketplace',
+              link: '/zenith/distributed-marketplace/distributed-marketplace'
+            }
           ]
         },
         {

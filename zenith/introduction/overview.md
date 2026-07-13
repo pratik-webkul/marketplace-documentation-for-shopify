@@ -447,9 +447,9 @@ Admin can manage and edit the content of the invoice sent from **"Admin to selle
 
 The menu helps in managing the invoice layout.
 
-[![invoice template](https://cdnblog.webkul.com/blog/wp-content/uploads/2017/11/15085011/Screenshot-2.png)](https://webkul.com/blog/shopify-multi-vendor-marketplace/)
+[![invoice template](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/tem1.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/tem1.webp)
 
-[![Invoice Template ](https://cdnblog.webkul.com/blog/wp-content/uploads/2017/11/15085107/AwesomeScreenshot-Invoice-Template-Admin-2019-07-15-10-07-13.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2017/11/15085107/AwesomeScreenshot-Invoice-Template-Admin-2019-07-15-10-07-13.png)
+[![Invoice Template ](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/tem2.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/tem2.webp)
 
 
 [Know More about **Invoice**:](/zenith/configuration/invoice-configuration)
@@ -541,11 +541,11 @@ Go to the **Multivendor Marketplace app** >>**Payment** >> **Seller Payment C
 
 [![payment](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/pay5.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/pay5.webp)
 
-[![payment](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/pay6.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/pay6.webp)
+[![payment](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/1paymetsetting.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/1paymetsetting.webp)
 
 ### Pay the total Amount
 
-[![payment](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/pay7.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/pay7.webp)
+[![payment](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/2paymetsetting.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/2paymetsetting.webp)
 
 Now, to pay to sellers, the admin needs to visit the “Seller Payments” section under the “payment” menu in the admin panel of the multivendor marketplace app
 

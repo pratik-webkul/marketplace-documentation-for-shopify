@@ -32,7 +32,7 @@ To restrict sellers from fulfilling fraud orders, the administrator must first e
 Multi-vendor Admin Panel>>Configurations>>Order Configuration  
 After enabling the tab, the admin Restrict Seller to fulfillment for fraud orders whose fraud risk is high.
 
-[![Fraud analysis in the Multivendor app Configuration](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/07/config-1200x550.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/07/config-1200x550.webp)
+[![Fraud analysis in the Multivendor app Configuration](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/frda1.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/frda1.webp)
 
 **Note: _If the "Restrict Seller to fulfillment for fraud orders" tab is enabled in the Multi-vendor Admin Panel,_**
 
@@ -46,13 +46,13 @@ When an order is placed by a customer with a high-risk factor, It will display a
 
 For reference image is given below:
 
-[![before mark safe by admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/07/adbeforemark-538x1024.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/07/adbeforemark-538x1024.webp)
+[![before mark safe by admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/frda2.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/frda2.webp)
 
 To make order safe Admin needs to click on the tab “MARK AS SAFE” and then **Proceed**.
 
-[![admin make order safe](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/07/adbeforemarkk-1200x559.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/07/adbeforemarkk-1200x559.webp)
+[![admin make order safe](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/frda4.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/frda4.webp)
 
-[![after mark safe by admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/07/adaftermarkk-1200x556.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/07/adaftermarkk-1200x556.webp)
+[![after mark safe by admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/frda2.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/frda2.webp)
 
  **SELLER END**
 ----------------
@@ -61,15 +61,15 @@ Multi-vendor seller Panel Dashboard>>Orders>>Order Listing
 
 Also in the respective seller panel, It will display a warning on the order description page.
 
-[![seller end before mark safe by admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/07/sellersidebefore-753x1024.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/07/sellersidebefore-753x1024.webp)
+[![seller end before mark safe by admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/frda6.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/frda6.webp)
 
 Now if a seller tries to fulfill the order the alert popup on the screen 
 
-[![risk popup](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/07/selllersidebeforee-1200x539.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/07/selllersidebeforee-1200x539.webp)
+[![risk popup](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/frda5.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/frda5.webp)
 
 After Marked by the admin as safe the seller can fulfill the order.
 
-[![After mark safe by admin ](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/07/sellersideafter-1200x558.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/07/sellersideafter-1200x558.webp)
+[![After mark safe by admin ](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/frda6.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/frda6.webp)
 
 
 ### SCHEDULE DEMO

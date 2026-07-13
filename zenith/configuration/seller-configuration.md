@@ -86,7 +86,7 @@ The Admin can now decide whether he wants the seller profile of an individual se
 
 For this, visit Multivendor Admin Panel > Sellers > Seller Listing > Edit Seller. On the following page, you'll this option. Refer:
 
-[![Edit-Seller-Admin-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/sellerprofilepublish.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/sellerprofilepublish.webp)
+[![Edit-Seller-Admin-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/9publishsellerprofile.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/9publishsellerprofile.webp)
 
  Informative Seller Dashboard
 ------------------------------
@@ -225,11 +225,11 @@ You can now restrict sellers to add products if the required details are not ent
 
 So, to enable these restrictions in the app, you need to visit the Multi-vendor admin panel>>Configurations>>Seller Mandatory Steps.
 
-[![Dashboard_Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/sellermandatoryconfig.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/sellermandatoryconfig.webp)
+[![Dashboard_Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/1sellermandetory.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/1sellermandetory.webp)
 
 From here, You can set the options mandatory for your sellers:-
 
-[![Seller_Mandatory_configuration_Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/sellermandatorysteps.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/sellermandatorysteps.webp)
+[![Seller_Mandatory_configuration_Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/2sellermandetory.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/2sellermandetory.webp)
 
 1.  **SHIPPING DETAILS**
 
@@ -237,7 +237,7 @@ From this option, you can restrict sellers to set at least one shipping method b
 
 You can restrict sellers to add at least 1 shipping method as default and add at least one shipping range.
 
-[![Seller_Mandatory_configuration_Admin-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/shippingdetails.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/shippingdetails.webp)
+[![Seller_Mandatory_configuration_Admin-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/3sellermandetory.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/3sellermandetory.webp)
 
 **2\. PAYMENT DETAILS**
 
@@ -251,7 +251,7 @@ From here, You can set mandatory "My Account" fields for the sellers.
 
 Please Note:- Before enabling these fields here, make sure that these fields are enabled from the "**Seller Policy**" (normal & advanced) and from the "**Seller Form Customization**" section of the app.
 
-[![Seller_Mandatory_configuration_Admin-2](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/paymentdetails.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/paymentdetails.webp)
+[![Seller_Mandatory_configuration_Admin-2](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/4sellermandetory.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/4sellermandetory.webp)
 
   
 

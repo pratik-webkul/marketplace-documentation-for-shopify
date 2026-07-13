@@ -16,6 +16,18 @@ For this, configure **PayPal Payout Payment** in your [Multivendor Marketplace f
 This feature lets your sellers automatically receive their total earnings once they mark the order as delivered/fulfilled.
 
 **Note**: Paypal Payout is now compatible with **discounted orders** which means auto-payment to sellers is possible for discounted orders.
+# PayPal Payout Environment Requirement
+
+> **⚠️ Important**
+>
+> The **PayPal Payouts** feature must be **enabled on the Marketplace Admin's PayPal account**.
+>
+> **The PayPal environment used for payouts must match the Admin's configured PayPal environment.**
+>
+> - If the Admin is using the **Live** environment, the **PayPal Payouts** feature must also be enabled on the **Live** PayPal account.
+> - If the Admin is using the **Sandbox** environment, the **PayPal Payouts** feature must be enabled on the **Sandbox** PayPal account.
+>
+> **A mismatch between the Admin's PayPal environment and the PayPal Payouts environment will prevent payouts from working correctly.**
 
  How to configure the PayPal Payout feature?
 -------------------------

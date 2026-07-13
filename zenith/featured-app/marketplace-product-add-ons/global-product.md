@@ -459,7 +459,7 @@ In this way, you can translate the labels for various sections of the Global Pro
 --------------
 The Global Product app is now compatible with the [Stock Management](/zenith/featured-app/marketplace-product-add-ons/stock-management) feature app. Thus, you can now manage the stock of the global products sold by multiple sellers.
 
-For more detail, **[REFER](https://webkul.com/blog/manage-global-product-stock-multivendor-marketplace-for-shopify/)**
+For more detail, **[REFER](/zenith/featured-app/marketplace-product-add-ons/global-product-stock)**
 
  Options on Disabling Global Product Feature App
 -------------------
@@ -616,6 +616,22 @@ To enable this feature, follow the steps below:
 Once this configuration is enabled, a **“View in Store”** option will appear in the Global Product Listing. Using this option, you can directly access and verify global products in the store, making product validation faster and more convenient.
 
 [![Refer:](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/globalproductnewconfig.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/globalproductnewconfig.webp)  
+
+
+## Search by SKU
+
+The **Search by SKU** filter allows both the **Admin** and **Sellers** to quickly find Global Products using the **Admin SKU**.
+
+To search for a Global Product:
+
+1. Navigate to the **Global Product Listing**.
+2. Enter the **Admin SKU** in the **Search by SKU** field.
+3. Click **Search** to view the matching Global Product.
+
+> **Note:**
+> The search is performed using the **Admin SKU**, enabling Admins and Sellers to locate Global Products more efficiently.
+
+![Search by SKU](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/07/sku1.webp)
 
 ### Get the Demo Links
 

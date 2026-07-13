@@ -24,6 +24,19 @@ There are certain steps that the seller needs to follow :
 6.  The seller needs to add the payment details to which he wish to receive the order payments.
 7.  The seller can contact the Admin in case of an issue.
 
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; border-radius: 12px;">
+  <iframe
+    src="https://www.youtube.com/embed/Eljbql5Cg78?si=hw4Yvy2FBgbxbMMO"
+    title="YouTube video player"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    referrerpolicy="strict-origin-when-cross-origin"
+    allowfullscreen
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border-radius: 12px;"
+  >
+  </iframe>
+</div>
+
  Seller Login/Sign up:
 ---------------
 **Note**: [Google Recaptcha](/zenith/configuration/configuration-updates.html#google-recaptcha-configuration) will be mandatory for Seller Signup after **24th September 2022.**
@@ -34,7 +47,7 @@ The seller will be provided a URL from the admin, which you can use to signup/lo
 
 This the signup/login page for the seller.
 
-[![Seller Guide](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/02/sellersignup.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/02/sellersignup.webp)
+[![Seller Guide](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/sellerlogsign.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/sellerlogsign.webp)
 
 To start adding products to the store, the seller needs to register/log in.
 

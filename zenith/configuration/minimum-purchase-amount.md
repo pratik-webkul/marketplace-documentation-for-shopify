@@ -85,7 +85,7 @@ In this case, the seller will get the option to set different purchase amounts f
 
 Now, the purchase amount required for each customer will be different based on the tags assigned to them.
 
-[![minimum purchase amount-Slot Price case](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/06/image-29-1200x832.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/06/image-29-1200x832.png)
+[![minimum purchase amount-Slot Price case](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/7slotprice.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/7slotprice.webp)
 
 That is how sellers can set a minimum purchase amount for orders from their respective seller panels of the multi-vendor app.
 

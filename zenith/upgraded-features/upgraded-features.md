@@ -517,6 +517,16 @@ In case you **disable** the Auto Cancel Order on Reject option:-
 
 Then, you need to manually restock the items in your store and manage the refund accordingly.
 
+## Restock Inventory on Order Rejection
+
+A **Restock Inventory** checkbox will be displayed in the order rejection pop-up when a seller cancels or rejects an order.
+
+**Note:** This checkbox will only be visible if the **Auto Cancel Order on Reject** configuration is enabled.
+
+By default, the checkbox will be selected. While rejecting the order, the admin can choose whether they want the product inventory to be restocked or not by selecting or deselecting this option.
+
+![Restock Inventory](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/restock.webp)
+
  **Allow seller to reject "Accepted" orders before fulfillment**
 ---------------------------------------------
 You can now allow the sellers to reject the orders before fulfillment from their respective seller panels.

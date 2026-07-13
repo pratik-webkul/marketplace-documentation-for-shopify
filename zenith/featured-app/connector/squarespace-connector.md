@@ -20,7 +20,7 @@ To enable the **Connector**, visit the “**Feature App**” section of the app 
 -----------------
 Go to the **Feature App** section and enable the **Squarespace Connector** feature app.
 
-[![Squarespace Connector feature app](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/05/sqc.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/05/sqc.webp)
+[![Squarespace Connector feature app](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/sqspc-1.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/sqspc-1.webp)
 
 Then, approve the additional charge of $25 USD/month over and above your current Multi-vendor app plan.
 
@@ -28,13 +28,10 @@ Then, approve the additional charge of $25 USD/month over and above your current
 ---------------
 To configure the settings, visit the admin panel **Configurations**\>>**Connector Configuration**\>>select the connector.
 
-[![Squarespace Connector- admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/05/sqc2.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/05/sqc2.webp)
+[![Squarespace Connector- admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/config-1.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/config-1.webp)
 
 From this section, you can configure the settings:-
 
-[![Squarespace Connector](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/05/sqc3.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/05/sqc3.webp)
-
-[![edit](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/05/sqc4.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/05/sqc4.webp)
 
 **Note:-** Once the order is created at the admin Shopify store for the connector product then the same order will be created on seller's squarespace store also.
 
@@ -48,9 +45,8 @@ That's all about the admin end configurations. Let's move on to the seller panel
 ----------------
 Now, the seller needs to manage the configuration from the Multi-vendor seller panel. Visit the seller panel **Configuration**\>>**Squarespace Configuration**.
 
-[![screenshot-ravikant-sh.webkul.com-2021.10.07-15_39_37](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/05/sqc5.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/05/sqc5.webp)
-<!-- 
-[![Squarespace Connector seller](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/10/screenshot-ravikant-sh.webkul.com-2021.10.06-15_35_42-1200x732.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/10/screenshot-ravikant-sh.webkul.com-2021.10.06-15_35_42-1200x732.png) -->
+ 
+[![Squarespace Connector seller](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/sellerconfig-1.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/sellerconfig-1.webp) 
 
 Here, the seller needs to configure the Squarespace details such as unit weight, store currency, Squarespace API key. Let's see how the seller will get the API keys.
 
@@ -111,12 +107,12 @@ After all these settings, the seller will proceed to import products from his/he
 
 Clicking the **Import Product** button, the seller will have two methods to import products.
 
-[![screenshot-ravikant-sh.webkul.com-2021.10.07-16_10_58](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/10/screenshot-ravikant-sh.webkul.com-2021.10.07-16_10_58-1200x590.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/10/screenshot-ravikant-sh.webkul.com-2021.10.07-16_10_58-1200x590.png)
+[![screenshot-ravikant-sh.webkul.com-2021.10.07-16_10_58](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/imprtbtn.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/imprtbtn.webp)
 
 *   **Method 1**: The seller will **select the duration** to import products from Squarespace to Shopify.
 *   **Method 2:** The seller will enter the **comma-separated product IDs** (that the seller wants to import)..
 
-[![screenshot-ravikant-sh.webkul.com-2021.10.07-16_14_09](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/10/screenshot-ravikant-sh.webkul.com-2021.10.07-16_14_09-1200x794.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/10/screenshot-ravikant-sh.webkul.com-2021.10.07-16_14_09-1200x794.png)
+[![screenshot-ravikant-sh.webkul.com-2021.10.07-16_14_09](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/test.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/test.webp)
 
 This way, the products will get imported.
 
@@ -128,7 +124,6 @@ Please note: Sellers will have to update the products manually in case there is 
 ---------------
 Let the sellers create price rules to manage the product price of the seller’s Squarespace to the merchant’s store.
 
-[![connector price rule](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/11/Dashboard-Seller-%E2%80%A2-Multivendor-MarketPlace-2-1200x627.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/11/Dashboard-Seller-%E2%80%A2-Multivendor-MarketPlace-2-1200x627.png)
 
 So, the sellers will have a new menu named **Connector Price Rule** in the configuration menu of the app.
 
@@ -138,7 +133,7 @@ Now, the seller needs to enable “Price Rule” status and select the options a
 
 enter the amount that needs to be changed.
 
-[![Squarespace Connector Price rule](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/10/screenshot-ravikant-sh.webkul.com-2021.10.07-17_30_10-1200x805.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/10/screenshot-ravikant-sh.webkul.com-2021.10.07-17_30_10-1200x805.png)
+[![Squarespace Connector Price rule](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/pricerules-1.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/pricerules-1.webp)
 
 So, that's all about the Squarespace Connector feature app.
 
