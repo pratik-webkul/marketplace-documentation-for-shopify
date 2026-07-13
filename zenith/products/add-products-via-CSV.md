@@ -195,6 +195,22 @@ Partywear, Washable, Do not Iron
 No replacement for this product, 1-month warranty.  
 </p>
 ```
+
+## New Configuration: Ignore Blank Columns from CSV
+
+We have introduced a new configuration, **"Ignore Blank Columns from CSV"**, under Product Configuration to make bulk product updates more flexible and efficient.
+
+![Ignore Blank Columns from CSV](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/hidecolumncsv.webp)
+
+### How It Works
+
+When this configuration is enabled, sellers can update products using a CSV file without being required to provide values for every column.
+
+- If a column is left blank in the CSV file, the existing value for that product field will remain unchanged.
+- If a column contains data, the corresponding product field will be updated with the new value.
+
+This enhancement helps sellers manage product updates more efficiently while ensuring that existing product data remains intact when corresponding CSV columns are left blank.
+
 ### Conclusion
 
 To successfully validate and upload the CSV file in the Multi-vendor Marketplace app, please ensure you follow the required guidelines.

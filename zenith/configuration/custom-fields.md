@@ -414,6 +414,78 @@ Now if you want to update multiple custom fields at once?
 Don't have a marketplace but want to build one?  
 Get the app: [Multi-Vendor Marketplace for Shopify](https://apps.shopify.com/multi-vendor-marketplace).
 
+## New Configuration: Permission for Seller in Custom Fields
+
+We have introduced a new configuration, **"Permission for Seller"**, for Product Custom Fields. This feature allows the admin to control how sellers can access and manage custom field data.
+
+**Note:** This configuration is currently applicable only to Product Custom Fields.
+
+### Available Permission Options
+
+The admin can choose one of the following permission levels for each custom field:
+
+![Permission for Seller Configuration](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/customfieldnewconfig.webp)
+
+### 1. Read Only
+
+When Read Only is selected:
+
+- The custom field will be visible to the seller on the add prouduct form page and edit product page.
+
+![Read Only Permission](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/readonly.webp)
+
+- Sellers can view the field value but cannot modify it from the seller panel.
+- During product updates through CSV file, any value provided by the seller for this custom field will be ignored.
+- The existing custom field value will remain unchanged.
+
+### 2. Read and Write
+
+When Read and Write is selected:
+
+- The custom field will be visible to the seller on the add prouduct form page and edit product page.
+- Sellers can view and modify the field value from the seller panel.
+- During CSV-based product updates, sellers can update the value of the custom field.
+- The new value provided in the CSV file will be successfully updated on the product.
+
+### 3. Hide from Seller
+
+When Hide from Seller is selected:
+
+- The custom field will not be displayed on the add prouduct form page and edit product page to seller.
+- Sellers will not be able to view or modify the field.
+- The custom field column will not be available for sellers during CSV import/export operations.
+- Sellers will have no access to this custom field.
+
+### CSV Import & Export Behavior
+
+The selected permission is also enforced during CSV-based product management.
+
+#### Sample CSV Download
+
+When a seller downloads the sample CSV file:
+
+- Custom fields with Read Only permission will be included.
+- Custom fields with Read and Write permission will be included.
+- Custom fields with Hide from Seller permission will not be included.
+
+#### Product CSV Import
+
+##### Read Only
+
+- The field will be visible in the CSV.
+- Any value entered by the seller for the field will be ignored.
+- No changes will be applied to the existing custom field value.
+
+##### Read and Write
+
+- The field will be visible in the CSV.
+- Values provided by the seller will be processed and updated successfully.
+
+##### Hide from Seller
+
+- The custom field column will not be available to the seller in the CSV process.
+- Sellers cannot update or access the field through CSV import.
+
 
 ### SCHEDULE DEMO
 

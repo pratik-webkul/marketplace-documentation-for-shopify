@@ -439,6 +439,436 @@ Once this is enabled, sellers will be able to **set additional pricing** for ind
 
 This feature ensures that sellers can **monetize customizations** directly through dropdowns, providing customers with clearer pricing and more tailored choices during purchase.
 
+## Hide Cart & Checkout Labels and Configure Custom Option Labels on Storefront
+
+The **Custom Option Feature App** now provides enhanced control over how custom option labels appear across the storefront. Merchants can hide unnecessary labels, rename labels according to their business needs, and translate labels into different languages without modifying the actual option values.
+
+This enhancement is available across multiple marketplace areas, including the Store Pickup Feature App, Custom Option Feature App, storefront, cart, checkout, customer accounts, and order pages.
+
+> **Note**
+>
+> Only the **labels (keys)** can be modified or translated. The option values cannot be edited.
+
+
+
+# Feature Overview
+
+With this enhancement, merchants can:
+
+- Hide Store Pickup labels from the storefront.
+- Rename Store Pickup labels.
+- Hide Custom Option labels.
+- Rename Custom Option labels.
+- Translate labels for multilingual storefronts.
+- Display customized labels consistently across the storefront and order pages.
+
+---
+
+# Store Pickup Configuration
+
+The **Store Pickup Configuration** section now displays all available Store Pickup keys.
+
+For every key, the admin can:
+
+- Hide the key.
+- Display the key with a custom label.
+
+## Configuration Example
+
+| Store Pickup Key | Hide | Custom Label |
+|------------------|------|--------------|
+| store_pickup | Yes / No | Editable when Hide = No |
+| store_pickup_address | Yes / No | Editable when Hide = No |
+| store_pickup_location_name | Yes / No | Editable when Hide = No |
+
+### Example
+
+Original
+
+```
+store_pickup
+```
+
+Custom Label
+
+```
+Pickup Method
+```
+
+Storefront Output
+
+```
+Pickup Method : Yes
+```
+
+If the key is hidden, only the value will be stored and the label will not be displayed.
+
+
+
+# Custom Option Configuration
+
+The same workflow applies to Product Custom Options.
+
+While creating or editing a custom option, the merchant can:
+
+- Hide the option label.
+- Rename the option label.
+- Translate the option label.
+
+## Important
+
+Only labels can be changed.
+
+Option values cannot be modified.
+
+### Example
+
+Allowed
+
+```
+Color → Colour
+```
+
+Not Allowed
+
+```
+Red → Blue
+```
+
+If the label is not required, it can simply be hidden.
+
+
+
+# Areas Where Changes Apply
+
+The updated labels are reflected across:
+
+- Store Pickup Feature App
+- Custom Option Feature App
+- Storefront Product Page
+- Cart
+- Checkout
+- Customer Accounts (Legacy & New)
+- Admin Order View
+- Seller Order View
+
+
+
+# Feature Compatibility Limitations
+
+The **Allow Hide Cart and Checkout on Frontend** and **Configurable Label for Custom Option in Storefront** functionalities are **not supported** with the following configurations:
+
+- Allow Sellers To Add Custom Options At Variant Level
+- Allow Seller To Create Global Custom Option
+- Choose a Method to Add Custom Options to Products → **Use Global Custom Option (Reusable)**
+
+> If any of the above configurations are enabled, these functionalities may not work as expected.
+
+
+
+# Allow Hide Cart and Checkout on Frontend
+
+To use this functionality, the required `wk_is_hidden` theme code must be added at the appropriate locations in the Shopify theme.
+
+> **Important**
+>
+> If this functionality is enabled, theme implementation is mandatory.
+>
+> If disabled, no theme changes are required.
+
+--
+
+# Step 1: Multi Option Products
+
+Locate:
+
+```liquid
+{% if wk_mf_key contains 'co_multi' %}
+```
+
+Add the following code inside this condition:
+
+```liquid
+{% if wk_co_option.size > 5 %}
+  {% assign wk_is_hidden = wk_co_option[5] | plus: 0 %}
+{% else %}
+  {% assign wk_is_hidden = 0 %}
+{% endif %}
+```
+
+> Add the above code exactly at the recommended location inside the condition block.
+
+
+
+# Step 2: Single Option Products
+
+Locate:
+
+```liquid
+{% assign wk_mandatory = wk_co_option[4] | replace: '"]', '' | plus: 0 %}
+```
+
+Immediately below it, add:
+
+```liquid
+{% assign wk_is_hidden = wk_co_option[7] | replace: '"]', '' | plus: 0 %}
+```
+
+> The code must be placed exactly below the mandatory assignment.
+
+
+
+# Configurable Label for Custom Option in Storefront
+
+## Grams Label
+
+The **Grams** label automatically supports Shopify translations.
+
+No theme modifications are required.
+
+
+
+## Extra Label Translation
+
+To make the **Extra** label configurable, add the following code before using the label.
+
+```liquid
+{% assign extra_label = 'Extra' %}
+{% assign label_obj = metaobjects.custom_option_label.values | first %}
+{% assign extra_label =
+label_obj.custom_option_label.value.custom_option.Extra | default: 'Extra' %}
+```
+
+Once implemented, merchants can translate the **Extra** label from the storefront translation configuration.
+
+
+
+# Important Notes
+
+- Incorrect implementation may affect extra price calculations.
+- Translate the **Extra** label only when required.
+- If translation is not required, keep the default value **Extra**.
+
+
+
+# Custom Option Label & Hide Label Changes
+
+## Step 1: Update `snippets/wk-product-custom-option.liquid`
+
+### Extra Label Translation Support
+
+Replace all occurrences of:
+
+```liquid
+{{ extra_label }}
+```
+
+Before using the label, add:
+
+```liquid
+{% assign extra_label = 'Extra' %}
+{% assign label_obj = metaobjects.custom_option_label.values | first %}
+{% assign extra_label =
+label_obj.custom_option_label.value.custom_option.Extra | default: 'Extra' %}
+```
+
+Replace every hardcoded **Extra** label with:
+
+```liquid
+{{ extra_label }}
+```
+
+Example:
+
+```liquid
+<input
+ type="hidden"
+ id="{{ wk_mf_key }}_price"
+ class="wk_co_price"
+ name="properties[{{ extra_label }}/{{ wk_co_field_name }}]"
+ value=""
+ disabled=""
+>
+```
+
+
+# Step 2: Hide Label Support for Dropdown Fields
+
+Inside the following condition:
+
+```liquid
+{% if wk_mf_key contains 'co_multi' %}
+```
+
+Add:
+
+```liquid
+{% if wk_co_option.size > 5 %}
+{% assign wk_is_hidden = wk_co_option[5] | plus: 0 %}
+{% else %}
+{% assign wk_is_hidden = 0 %}
+{% endif %}
+```
+
+Then update the dropdown property name.
+
+```liquid
+<select
+ id="{{ wk_mf_key }}"
+ class="wk-custom-option-dropdown"
+ data-name="{{ wk_co_field_name }}"
+ name="properties[{% if wk_is_hidden == 1 %}_{% endif %}{{ wk_co_field_name }}]"
+>
+```
+
+
+
+# Step 3: Hide Label Support for Textarea Fields
+
+Locate:
+
+```liquid
+{% assign wk_mandatory = wk_co_option[4] | replace: '"]', '' | plus: 0 %}
+```
+
+Immediately below it, add:
+
+```liquid
+{% assign wk_is_hidden = wk_co_option[7] | replace: '"]', '' | plus: 0 %}
+```
+
+Update the textarea property name.
+
+```liquid
+<textarea
+ col="30"
+ rows="6"
+{% if wk_mandatory == 1 %}
+ class="product-form__input required"
+ required
+{% else %}
+ class="product-form__input"
+{% endif %}
+ maxlength="300"
+ id="{{ wk_mf_key }}"
+ name="properties[{% if wk_is_hidden == 1 %}_{% endif %}{{ wk_co_field_name }}]"
+>
+</textarea>
+```
+
+---
+
+# Step 4: Update JavaScript
+
+Inside the `<script>` section, add:
+
+```javascript
+var extra_label = '{{ extra_label }}';
+```
+
+Replace every hardcoded:
+
+```javascript
+'Extra/'
+```
+
+with
+
+```javascript
+extra_label
+```
+
+Example:
+
+```javascript
+document.getElementById(id+"_price").setAttribute(
+"name",
+"properties["+extra_label+"/"+selectName+"::"+optName+"]"
+);
+```
+
+
+
+# Step 5: Update Dropdown Field & JavaScript
+
+Add the following attribute to the dropdown.
+
+```liquid
+<select
+ id="{{ wk_mf_key }}"
+ class="wk-custom-option-dropdown"
+ data-wkIsHide="{{ wk_is_hidden }}"
+ data-name="{{ wk_co_field_name }}"
+ name="properties[{% if wk_is_hidden == 1 %}_{% endif %}{{ wk_co_field_name }}]"
+>
+```
+
+### JavaScript Changes
+
+Locate:
+
+```javascript
+var wk_co_dd = document.getElementsByClassName("wk-custom-option-dropdown");
+```
+
+Inside its loop, after the price code, add:
+
+```javascript
+var wk_is_hidden = parseInt(this.getAttribute('data-wkIsHide'), 10) || 0;
+
+console.log("wk_is_hidden => ", wk_is_hidden);
+
+var wk_is_hidden_text = '';
+
+if (wk_is_hidden == 1) {
+    wk_is_hidden_text = '_';
+}
+
+console.log("wk_is_hidden_text => ", wk_is_hidden_text);
+```
+
+Update the property generation.
+
+```javascript
+document.getElementById(id+"_price").setAttribute(
+"name",
+"properties["+wk_is_hidden_text+extra_label+"/"+selectName+"::"+optName+"]"
+);
+```
+
+
+
+# Step 6: Update Cart Templates
+
+Update the following files:
+
+- `sections/main-cart-footer.liquid`
+- `sections/main-cart-items.liquid`
+
+Add:
+
+```liquid
+{% assign extra_label = 'Extra' %}
+{% assign label_obj = metaobjects.custom_option_label.values | first %}
+{% assign extra_label =
+label_obj.custom_option_label.value.custom_option.Extra | default: 'Extra' %}
+
+{% assign extra_label = extra_label | append: '/' %}
+```
+
+Replace:
+
+```liquid
+{% if property.first contains 'Extra/' %}
+```
+
+with
+
+```liquid
+{% if property.first contains extra_label %}
+```
+
+
 ### Demo
 
 Check the demo of the Multi-vendor Marketplace App: [https://egsma.io/shopify-multivendor-marketplace/](https://egsma.io/shopify-multivendor-marketplace/)

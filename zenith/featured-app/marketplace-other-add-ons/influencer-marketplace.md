@@ -208,6 +208,48 @@ Sellers can view:
 - Update profile information  
 
 
+## Influencer Orders Listing on Admin and Seller End
+
+A new **Influencer Orders** listing section has been introduced for both the **Admin** and **Seller** panels. This feature allows marketplace users to easily track and manage orders generated through influencer referrals directly from their respective dashboards.
+
+### Admin Panel
+
+The Admin can view all influencer-generated orders from a dedicated listing section, making it easier to monitor order activity and manage influencer-related sales across the marketplace.
+
+![Influencer Orders Listing - Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/adminorders1.webp)
+
+### Seller Panel
+
+Sellers can access a separate Influencer Orders listing to view orders generated through influencers associated with their products. This helps sellers track influencer performance and monitor sales generated through influencer marketing campaigns.
+
+![Influencer Orders Listing - Seller](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/sellerorders2.webp)
+
+
+
+## Export Commission Data from Order Listing (Admin)
+
+The **Order Listing** page at the Admin end has been enhanced with a new **Export Commission** functionality. Using this feature, Admin can export influencer commission details directly from the order listing for reporting, analysis, and management purposes.
+
+This makes it easier to maintain commission records and review influencer earnings associated with marketplace orders.
+
+![Export Commission Data](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/exportcommission3.webp)
+
+
+## Storefront Influencer Listing Configuration
+
+A new configuration has been introduced to display the **Influencer Listing** on the storefront.
+
+To enable this feature, navigate to:
+
+**Configuration → Influencer Marketplace Configuration → Show Influencer Listing on Storefront**
+
+![Storefront Influencer Listing Configuration](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/influencerlistingstorefront4.webp)
+
+Enable this configuration and then generate the influencer storefront assets from:
+
+**Admin Dashboard → Configuration → Storefront Configuration**
+
+Once the configuration is enabled and the assets are generated successfully, the influencer listing page will become visible on the storefront, allowing customers to browse and explore registered influencers directly from the marketplace.
 
 Conclusion
 -----------

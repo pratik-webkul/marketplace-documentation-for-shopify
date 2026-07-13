@@ -473,19 +473,19 @@ Once the seller makes any changes in the products on his/her Shopify store, he/s
 
 Now, clicking the “**View the products**” button, redirect your sellers to a page where all the products will be listed that are not yet updated on the admin’s store.
 
-[![Screenshot-100](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/01/Screenshot-100-1200x499.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/01/Screenshot-100-1200x499.png)
+[![Screenshot-100](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/05/9360291391.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/05/9360291391.webp)
 
 Additionally, the seller can update all the products in a go simply by clicking the**“Update all products”** button. Additionally, the seller can manually update each product as per his/her choice.
 
-[![Bulk-Product-Update-Details-Seller-•-Multivendor-MarketPlace](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/01/Bulk-Product-Update-Details-Seller-%E2%80%A2-Multivendor-MarketPlace-1200x627.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/01/Bulk-Product-Update-Details-Seller-%E2%80%A2-Multivendor-MarketPlace-1200x627.png)
+[![Bulk-Product-Update-Details-Seller-•-Multivendor-MarketPlace](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/05/779363380820.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/05/779363380820.webp)
 
 In the manual update, Clicking the “Update Product” button, the product will be in the “**Processing**” state.
 
-[![Bulk-Product-Update-Details-Seller-•-Multivendor-MarketPlace-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/01/Bulk-Product-Update-Details-Seller-%E2%80%A2-Multivendor-MarketPlace-1-1200x627.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/01/Bulk-Product-Update-Details-Seller-%E2%80%A2-Multivendor-MarketPlace-1-1200x627.png)
+[![Bulk-Product-Update-Details-Seller-•-Multivendor-MarketPlace-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/05/779363438607.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/05/779363438607.webp)
 
 Once processed, the product will get unlisted from this section.
 
-[![Bulk-Product-Update-Details-Seller-•-Multivendor-MarketPlace-2](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/01/Bulk-Product-Update-Details-Seller-%E2%80%A2-Multivendor-MarketPlace-2-1200x627.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/01/Bulk-Product-Update-Details-Seller-%E2%80%A2-Multivendor-MarketPlace-2-1200x627.png)
+[![Bulk-Product-Update-Details-Seller-•-Multivendor-MarketPlace-2](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/05/779363478464.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/05/779363478464.webp)
 
 Now, before the sellers start importing products from their respective Shopify stores into the app, please ask your sellers to firstly**, Map The Products then, Import Products**.
 

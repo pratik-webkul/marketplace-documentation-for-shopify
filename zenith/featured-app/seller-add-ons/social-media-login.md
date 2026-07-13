@@ -134,7 +134,7 @@ Copy this client ID and secret in the social login configuration of the marketpl
 As soon as you have pasted this client ID and secret in the social login configuration of the marketplace app.  
 Then your seller login page will look like the below:-
 
-[![Annotate-a-local-image22](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/10/Annotate-a-local-image22-1200x621.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/10/Annotate-a-local-image22-1200x621.png)
+[![Annotate-a-local-image22](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/social.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/social.webp)
 
 Note--
 Sellers who sign up for their account on the Multi-Vendor Marketplace via social media login (like Gmail or Facebook) will only be able to log in using the same social media login (Gmail/Facebook).
@@ -146,10 +146,15 @@ Social Media Login Enhancement
 ---------------
 Sellers who originally registered on the marketplace using the standard signup process (email and password) can now log in using Google or Facebook, provided the social account is linked to the same email address used during registration.
 Login Rules:
+
 • Sellers who signed up with an email and password can log in using either:
+
 ◦ Email & Password (Normal Login)
+
 ◦ Google/Facebook Login (Social Login)
+
 • Sellers who created their account exclusively through Google or Facebook login cannot log in using the normal email/password method unless a password is separately set for their account.
+
 This enhancement provides a more flexible and convenient login experience while maintaining account security and consistency.
 
 ### SCHEDULE DEMO

@@ -27,7 +27,8 @@ First, the admin needs to enable the Easy Group buy feature app by navigating to
 
 [![Enable group buy feature app](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/esygrp1773291945371.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/esygrp1773291945371.webp)
 
-If you haven’t already installed the [Easy Group Buying app for Shopify](https://webkul.com/blog/shopify-group-buy-app-documentaion/) in your store, you will be asked to install it first.
+If you haven’t already installed the [Easy Group Buying app for Shopify](https://webkul.com/blog/shopify-group-buy-app-documentaion/) you need to install it before enabling this feature application.
+
 
 [![enable group buy feature app](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/esygrp1773292013840.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/esygrp1773292013840.webp)
 

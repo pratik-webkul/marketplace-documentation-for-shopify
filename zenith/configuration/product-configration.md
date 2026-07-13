@@ -264,7 +264,7 @@ This will be the status of the product on both admin and seller end:
 
 If the admin disapproves, he need to mention a reason for the same:
 
-[![image-171](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/07/image-171-1200x597.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/07/image-171-1200x597.png)
+[![image-171](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/81denyproduct.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/81denyproduct.webp)
 
 Once approved, the product updates will become live on the storefront.
 
@@ -282,7 +282,7 @@ Make sure in the CSV file that you are uploading, the **Product IDs** are the sa
 
 If the product IDs don't match, the existing products will not be updated and new products will be created.
 
-[![image-168](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/07/image-168-1200x597.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/07/image-168-1200x597.png)
+[![image-168](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/82addproductcsv.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/82addproductcsv.webp)
 
 ALLOW SELLERS TO SET THE PRODUCT PRICE TO ZERO
 -------------------------------
