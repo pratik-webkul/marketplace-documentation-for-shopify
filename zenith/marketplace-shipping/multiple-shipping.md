@@ -192,6 +192,79 @@ Then in this case, when customer adds product A as well as product B then we won
 
 so then we won't be able to display any shipping rates on the checkout page.
 
+## Distance-Based Shipping and Shopify Checkout Time Limit
+
+Shopify requires shipping rates to be returned within **approximately 10 seconds** during checkout. If the Shipping Rate API does not respond within this time limit, Shopify will not display shipping rates to the customer.
+
+For distance-based shipping, we calculate the distance between the customer's address and the seller's location using the **Google Distance Matrix API**. Each distance calculation typically takes around **2–3 seconds**.
+
+The challenge arises when multiple shipping methods and multiple sellers are involved in the same order.
+
+
+## Example 1: Single Seller with Multiple Shipping Methods
+
+Suppose **Seller A** has the following distance-based shipping methods:
+
+- Standard Delivery
+- Express Delivery
+- Same-Day Delivery
+
+To calculate rates, the system may need to make a separate Google API request for each shipping method.
+
+| API Request | Estimated Time |
+|-------------|----------------|
+| 1st API Call | 2–3 seconds |
+| 2nd API Call | 2–3 seconds |
+| 3rd API Call | 2–3 seconds |
+
+> **Total processing time:** **6–9 seconds** for just one seller.
+
+
+## Example 2: Multiple Sellers with Multiple Shipping Methods
+
+Now consider a cart containing products from two sellers:
+
+### Seller A
+
+- Standard Delivery
+- Express Delivery
+
+### Seller B
+
+- Standard Delivery
+- Express Delivery
+
+In this case, the system may need to perform four separate distance calculations.
+
+| Seller & Shipping Method | Estimated Time |
+|---------------------------|----------------|
+| Seller A + Standard Delivery | 2–3 seconds |
+| Seller A + Express Delivery | 2–3 seconds |
+| Seller B + Standard Delivery | 2–3 seconds |
+| Seller B + Express Delivery | 2–3 seconds |
+
+> **Total processing time:** **8–12 seconds or more.**
+
+Since Shopify expects a response within about **10 seconds**, there is a high risk that the request will exceed Shopify's timeout limit. When that happens, shipping rates may not appear at checkout, resulting in a poor customer experience.
+
+
+# Why We Support a Single Distance-Based Shipping Method
+
+To ensure that shipping rates are returned within Shopify's required timeframe, we support distance-based calculations using **a single shipping method per seller**.
+
+With this approach:
+
+- Only **one Google API call** is required for each seller.
+- API response time remains significantly lower.
+- Even if the cart contains products from multiple sellers, the total processing time generally stays within Shopify's allowed limit.
+- Shipping rates are returned reliably and displayed correctly during checkout.
+
+This design is implemented specifically to:
+
+- Maintain checkout performance.
+- Avoid Shopify timeouts.
+- Ensure customers always receive accurate shipping rates without delays.
+
 ### SCHEDULE DEMO
 
 [Click here to Schedule the demo of Multivendor marketplace App for Shopify ](https://egsma.io/shopify-multivendor-marketplace/)

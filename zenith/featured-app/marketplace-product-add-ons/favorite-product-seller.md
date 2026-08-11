@@ -159,6 +159,14 @@ The notification feature will work only if the following conditions are met:
 
 This feature enhances seller-customer engagement by allowing **personalized communication** and better control over product update notifications.
 
+
+## Dashboard – Favorite Products
+
+The **Favorite Products** section is now available on the seller dashboard, allowing sellers to quickly view the products they are following without navigating to a separate page.
+
+![Favorite Products Dashboard](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/07/favproduct.webp)
+
+
 ### Multivendor Marketplace App for Shopify: Favorite Product/Seller Demo
 
 Check out: [https://egsma.io/shopify-multivendor-marketplace/](https://egsma.io/shopify-multivendor-marketplace/)

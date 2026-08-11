@@ -11,149 +11,181 @@ author: Chirag Tyagi
 
 ## Introduction
 
-**Marketplace UGC (User Generated Content)** allows sellers to showcase real customer or creator content such as **videos, posts, and reviews** directly on their product pages.
-
-This helps to:
-- Build **trust**
-- Improve **engagement**
-- Increase **conversions**
-
-## How to Enable the Feature
-
-To enable this feature, the admin needs to:
-
-**Navigate to:**
-
-**Admin Panel → Feature App → Enable Marketplace UGC Feature App**
-
-After enabling, a **UGC Configuration** section will appear under the **Configuration menu**.
-
-![Enable UGC Feature](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/05/ugc1.webp)
+The **Marketplace UGC (User Generated Content)** feature allows sellers to showcase real customer or creator content such as videos, social media posts, and reviews directly on their product pages. This helps build customer trust, improve engagement, and increase conversions.
 
 
 
- UGC Configuration (Admin)
-------------------
-Inside the UGC Configuration, the admin will find the following setting:
+# How to Enable the Feature
+
+To enable the Marketplace UGC Feature App:
+
+1. Navigate to:
+
+   **Admin Panel → Feature App → Enable Marketplace UGC Feature App**
+
+2. Once enabled, a new **UGC Configuration** section will appear under the **Configuration** menu.
+
+![Enable Marketplace UGC Feature App](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/05/ugc1.webp)
+
+
+# UGC Configuration (Admin)
+
+Within the **UGC Configuration**, the admin can manage the following settings:
+
+### Allow Seller to Add UGC
+
+Enable this option to allow sellers to create and manage UGC content from their seller panel.
 
 ### Auto Approve UGC
 
-- If **enabled**, UGC submitted by seller staff will be **automatically approved**
-- If **disabled**, UGC will require **manual approval**
+If enabled, UGC submitted by seller staff will be automatically approved without requiring manual approval.
 
-![UGC Configuration](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/05/ugc2.webp)
+### UGC Field Configuration
 
+Choose which UGC fields are:
 
+- Visible
+- Mandatory
 
- UGC Marketplace Section
--------------
-After enabling the feature:
+These settings apply to:
 
-A new section **“UGC Marketplace”** will appear in both:
+- Add/Edit UGC forms
+- UGC listings
+- Future Shopify metafield payloads
 
-- **Admin Panel**
-- **Seller Panel**
-
-This section displays all UGC listings added by seller staff.
-
-![UGC Admin View](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/05/ugc3.webp)
-
-![UGC Seller View](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/05/ugc4.webp)
+![UGC Configuration](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/08/ugcconf.webp)
 
 
 
- Seller Staff End – Adding UGC
---------------
-1. Seller staff logs into their dashboard  
-2. Navigate to:  
-   **UGC Marketplace → UGC Listing**  
-3. Click on **“Add UGC”**
+## UGC Marketplace Section
 
-![Add UGC](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/05/ugc5.webp)
+After enabling the feature, a new **UGC Marketplace** section becomes available in both:
 
----
+- Admin Panel
+- Seller Panel
 
- UGC Form Details
-------------
-After clicking **Add UGC**, a form will open where the following details must be filled:
+This section displays all UGC listings created by the seller and their staff.
 
-- **Title**  
-  Enter the UGC title  
+![Admin UGC Marketplace](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/05/ugc3.webp)
 
-- **Link**  
-  Paste the UGC link *(e.g., Instagram, YouTube, etc.)*  
-
-- **Description**  
-  Add a short description  
-
-- **Display On (Dropdown)**  
-  - **Product** → Select specific products from the seller’s list  
-  - **Seller** → Display UGC on the seller collection page  
-
-- **Featured**  
-  - If enabled, UGC will appear at the **top of the product page**
-
-![UGC Form](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/05/ugc6.webp)
+![Seller UGC Marketplace](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/05/ugc4.webp)
 
 
+## Seller and Seller Staff – Adding UGC
 
- Submitting the UGC
----------------
-Once the seller staff submits the UGC:
+To add UGC:
 
-- It is sent to the **seller for approval**
+1. Log in to the Seller Dashboard.
+2. Navigate to:
 
-### Auto Approve Condition
+   **UGC Marketplace → UGC Listing**
 
-- If **Auto Approve is disabled** → UGC goes for approval  
-- If **enabled** → UGC is **automatically approved and published**
+3. Click **Add UGC**.
 
-![UGC Approval](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/05/ugc7.webp)
+![Add UGC](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/08/addugcseller.webp)
+
+After clicking **Add UGC**, a form will open where the following information needs to be entered.
+
+### Title
+
+Enter the title of the UGC.
+
+### Link
+
+Paste the URL of the UGC content (Instagram, YouTube, TikTok, etc.).
+
+### Embed Code
+
+Paste the embed or iframe code, if available.
+
+### Description
+
+Add a short description of the content.
+
+### Display On
+
+Choose where the UGC will appear.
+
+### Product
+
+Select one or more products from the seller's product list to display the UGC on the corresponding product pages.
+
+### Seller
+
+Display the UGC on the seller's collection/store page.
+
+### Both
+
+Display the UGC on both:
+
+- Selected product pages
+- Seller collection/store page
+
+### Featured
+
+Enable this option to display the UGC at the top of the selected product page(s) or seller collection page, depending on the selected **Display On** option.
+
+![UGC Listing Form](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/08/ugclistingpage.webp)
+
+
+# Submitting the UGC
+
+Once the seller or seller staff submits the UGC, it is sent for approval.
+
+## Auto Approve Behavior
+
+### If Auto Approve is Disabled
+
+- The submitted UGC goes into the approval process before becoming visible.
+
+### If Auto Approve is Enabled
+
+- The submitted UGC is automatically approved and published.
+
+![UGC Approval Status](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/05/ugc7.webp)
 
 
 
- Seller Actions
------------------
+### Seller Actions
+
 The seller can:
 
-- **Approve** the UGC  
-- **Reject** the UGC  
-- **Delete** the UGC  
-- Add a **review note** while approving or rejecting  
+- Approve UGC
+- Reject UGC
+- Delete UGC
 
-Once approved, the UGC becomes **visible on the frontend**.
-
-
-
- Admin Actions
--------------
-Admin can:
-
-- View UGC details  
-- Hide inappropriate UGC *(with reason)*  
-
-Once hidden, the UGC will be **removed from the frontend**.
-
-![Admin Control](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/05/ugc8.webp)
+Once approved by the seller, the UGC becomes visible on the storefront.
 
 
 
- Frontend Display
-----------------
-### On Product Page
+### Admin Actions
 
-UGC will be displayed alongside the product.
+The admin can:
 
-![UGC Product Page](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/05/ugc9.webp)
+- View UGC details
+- Hide inappropriate UGC by providing a reason
 
-### On Seller Collection Page
+Once hidden, the UGC is removed from the storefront.
 
-UGC will also be displayed on the seller’s collection page.
-
-![UGC Collection Page](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/05/ugc10.webp)
+![Admin UGC Actions](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/05/ugc8.webp)
 
 
-This feature enhances your marketplace by leveraging **authentic user-generated content**, helping improve **customer trust, engagement, and overall sales performance**.
+
+## Frontend Display
+
+### Product Page
+
+The approved UGC is displayed alongside the corresponding product.
+
+![UGC on Product Page](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/05/ugc9.webp)
+
+
+### Seller Collection Page
+
+The approved UGC is also displayed on the seller's collection/store page.
+
+![UGC on Seller Collection Page](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/05/ugc10.webp)
+
 ### SCHEDULE DEMO
 
 [Click here to Schedule the demo of Multivendor marketplace App for Shopify ](https://egsma.io/shopify-multivendor-marketplace/)

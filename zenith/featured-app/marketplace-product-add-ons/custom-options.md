@@ -868,6 +868,23 @@ with
 {% if property.first contains extra_label %}
 ```
 
+> **Note**
+>
+> If a field is hidden, it will no longer be editable. You can either:
+>
+> - Keep the field visible and edit its key, or
+> - Hide the entire field.
+>
+> **Example:**
+>
+> ```
+> store_pickup → YES/NO
+> ```
+>
+> - `store_pickup` is the **key**.
+> - `YES/NO` is the **value**.
+>
+> If this field is hidden, both the **key** and the **value** will be hidden. It is not possible to hide only the value while keeping the key visible.
 
 ### Demo
 

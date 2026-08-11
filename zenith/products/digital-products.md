@@ -59,6 +59,10 @@ In the **Add Digital Product** section; upload your digital product file (the fi
 
 And enter the number of downloads allowed. (By default, the value is equal to zero which means unlimited access & downloading)
 
+::: tip Note
+By default, sellers can upload digital product files up to **100 MB**. However, if you are on the **Pro Plan**, the upload limit is increased to **300 MB**.
+:::
+
 [![image](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/dg8.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/dg8.webp)
 
 Furthermore, in the **Inventory Details** section, mark this option if you have variants for this digital product:

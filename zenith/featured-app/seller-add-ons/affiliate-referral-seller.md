@@ -49,7 +49,7 @@ You can share a percentage of your earnings or commission with a nonprofit organ
 -----------------
 Nonprofit organizations or affiliates can register through the seller signup page by selecting "Join as Affiliate Seller" from the dropdown menu.
 
-[![Affiliate/Referral Seller](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/11/reffour-2-1137x1024.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/11/reffour-2-1137x1024.webp)
+[![Affiliate/Referral Seller](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/07/affiliate.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/07/affiliate.webp)
 
 After completing the signup, they will have access to their dedicated panel, where they can track affiliate orders, monitor commissions, and manage payment details.
 
