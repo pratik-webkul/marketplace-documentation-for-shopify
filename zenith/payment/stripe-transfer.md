@@ -97,7 +97,7 @@ and select whether you want to calculate the provided span of time from the deli
 Example: If you have selected the delivery date & mentioned refund days (pay after days) as 30 then after 30 days of the delivery date, the Sellers will receive the payment.
 
 **NOTE**: Refund days should be greater than -1 otherwise it will not work.
-
+<!-- 
 Lastly, enable the ‘**Allow seller to enter refund days**‘ if you want your sellers to add their individual refund days.
 
 Once enabled, the sellers will be able to set the refund days by visiting **Marketplace Seller Panel > Configuration > General Configuration > Enter the day & save:**
@@ -105,7 +105,7 @@ Once enabled, the sellers will be able to set the refund days by visiting **Mar
 [![Stripe Connect](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/12/spp6-1-1200x542.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/12/spp6-1-1200x542.png)
 
 **Note:** The sellers who have not entered any refund days will by default have the refund days set by the admin.  
-If entered then the refund days should be greater than -1 otherwise it will not work.
+If entered then the refund days should be greater than -1 otherwise it will not work. -->
 
 Only after enabling this option, the Admin will have the ‘Pay after refund date’ option in stripe Transfer Configuration:
 

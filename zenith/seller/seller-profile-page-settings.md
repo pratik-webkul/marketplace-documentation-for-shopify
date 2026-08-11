@@ -193,7 +193,7 @@ You can choose whether you want to display seller logo or seller profile image o
 
 Multivendor App Admin Panel>>Go to **Sellers**\>>**Seller Profile Page Settings** (from the drop-down menu).
 
-[![logo-or-profile-](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/sdd5.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/sdd5.webp)
+[![logo-or-profile-](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/07/sp1.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/07/sp1.webp)
 
  How can Seller upload a banner for the seller profile page
 -----------------------------------
@@ -249,7 +249,7 @@ After clicking on 'Upload Image' box will open then click on upload image,
 
 then select the image you want to upload for the logo, to display on seller profile page then click on save.
 
-[![Upload LOGO](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/sde5.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/sde5.webp)
+[![Upload LOGO](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/dasdd7.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/dasdd7.webp)
 
 **Now, admin can also upload Seller Shop Logo from his/her admin Panel of the Multivendor App.**
 
@@ -259,7 +259,7 @@ Multivendor admin panel>>Go to **Sellers**\>>Click "**Seller Listing**" from the
 
 Click on "**Edit**" from Action menu>>Scroll down and **Upload** the Logo>>**Save** Changes.
 
-[![upload seller logo ](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/dasdd7.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/dasdd7.webp)
+[![upload seller logo ](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/07/sp2.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/07/sp2.webp)
 
 **Admin End**
 ------------------

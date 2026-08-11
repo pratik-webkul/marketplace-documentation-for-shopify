@@ -31,6 +31,20 @@ If the checkbox is selected, this becomes a mandatory step for all sellers.
 
 [![2 factor](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/02/1twofa.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/02/1twofa.webp)
 
+**Seller Staff Login Authentication:**
+
+Admins can choose to enable OTP authentication for seller staff as well. Once this setting is active, seller staff will be required to verify their email using an OTP during each login.
+
+![Seller Login Authentication](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/07/2fa.webp)
+
+**Influencer Login Authentication:**
+
+Admins can choose to enable **OTP authentication** for Influencers. Once this setting is enabled, Influencers will be required to verify their email using a One-Time Password (OTP) during every login.
+
+> **Note:** When enabled, OTP verification is mandatory for all Influencers before they can access their account.
+
+![Influencer Login Authentication](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/07/2fai.webp)
+
 **Customizable Email Templates:**
 
 Admins also have the flexibility to personalize the OTP email content. Simply click on the “Click here to edit mail template” link to customize the email according to your brand’s tone and messaging.

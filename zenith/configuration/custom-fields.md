@@ -100,6 +100,26 @@ Frontend:
 
 **Note: On editing the Custom Field, the admin will not be able to change the type of Custom Field.**
 
+### Reorder Dropdown Custom Field Options
+
+The admin can now reorder the options of a dropdown custom field using **drag-and-drop**.
+
+For example, if the current order of the dropdown options is:
+
+- 1
+- 2
+- 3
+- 4
+- 5
+The admin can rearrange them to any preferred order, such as:
+
+- 1
+- 3
+- 5
+- 4
+- 2
+> **Note:** The updated order will be reflected wherever the dropdown custom field is used, including on the **Multivendor Marketplace Product Page**, ensuring that sellers see the options in the exact order configured by the admin.
+
 ### Number
 
 This input type can be used when the seller needs to enter numeric values. It now also supports **decimal (real number)** format, which allows the seller to provide more precise inputs.
@@ -486,6 +506,30 @@ When a seller downloads the sample CSV file:
 - The custom field column will not be available to the seller in the CSV process.
 - Sellers cannot update or access the field through CSV import.
 
+
+## Use Display Name for Custom Fields in Product Export
+
+We have introduced a new configuration in the **Product Configuration** section of the Multivendor Marketplace Admin Panel: **“Use Display Name in Product Export for Custom Fields.”**
+
+[Display name for custom field in export](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/08/customfield.webp)
+
+This configuration allows you to use a custom **Display Name** for your product custom fields and include the display name in the exported product data instead of the **Field Name**, which was used by default.
+
+### How It Works
+
+To use this feature:
+
+1. Go to **Multivendor Marketplace Admin Panel → Configuration → Product Configuration**.
+
+2. Enable the **“Use Display Name in Product Export for Custom Fields”** option.
+
+3. Once enabled, add or edit a custom field for your products.
+
+4. Enter the required **Display Name** for the custom field.
+
+5. The configured **Display Name** will be shown for the custom field.
+
+6. When you export your product details, the **Display Name** will be used as the custom field name in the exported file instead of the default **Field Name**.
 
 ### SCHEDULE DEMO
 

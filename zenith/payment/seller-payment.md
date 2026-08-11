@@ -36,7 +36,7 @@ Admin can pay sellers/vendors by five payment methods in the multivendor app, in
 **Online Payment Methods:-**
 
 
-By these payment methods, the admin can pay sellers online through the app. Both admin and sellers must have a business PayPal account.
+By these payment methods, the admin can pay sellers online through the app. 
 
 *   PayPal
 *   PayFast

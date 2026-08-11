@@ -58,7 +58,7 @@ This feature allows merchants to sync product preorder data between BigCommerce 
 
 Once enabled, the Multivendor Marketplace App saves the preorder data and automatically syncs it through a metafield on the Shopify admin side.
 
-[![perorder admin side details](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/bigg6.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/bigg6.webp)
+[![perorder admin side details](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/08/bigcommconnect.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/08/bigcommconnect.webp)
 
 The storefront then displays the same preorder details to customers, ensuring they have accurate information about product availability.
 

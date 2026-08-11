@@ -284,6 +284,141 @@ If the product IDs don't match, the existing products will not be updated and ne
 
 [![image-168](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/82addproductcsv.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/82addproductcsv.webp)
 
+
+
+
+
+Haan, images ke liye descriptive alt text add kar diya hai. Main sirf image references ko update kar raha hoon:
+
+**Refer:** [![Restriction Configuration](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/08/restrictionconfig.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/08/restrictionconfig.webp)
+
+**Refer:** [![Assign Product Types to Seller](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/08/assigntype.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/08/assigntype.webp)
+
+**Refer:** [![Product Type Selection for Seller](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/08/editproductseller.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/08/editproductseller.webp)
+
+**Refer:** [![Product Type Restriction for Existing Seller Product](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/08/noactionallowedseller.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/08/noactionallowedseller.webp)
+
+**Refer:** [![Assign Product Types to Staff](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/08/assigntypetostaff.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/08/assigntypetostaff.webp)
+
+**Refer:** [![Product Type Selection for Staff](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/08/editproductstaff.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/08/editproductstaff.webp)
+
+**Refer:** [![Product Type Restriction for Existing Staff Product](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/08/noactionstaff.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/08/noactionstaff.webp)
+Agar aap chaho to main poore Markdown content mein ye alt texts directly replace karke complete final version bhi de sakta hoon.
+
+
+ek sath kro poore doc m 
+
+Bilkul — poore document ko ek saath, main headings ko hi index-worthy rakhte hue aur sabhi images ke descriptive alt text ke saath:
+
+# Product Type-Based Access Restriction
+
+The **Product Type-Based Access Restriction** feature allows the admin to restrict which product types sellers can use while creating or managing products. Sellers can also apply similar restrictions to their staff members.
+
+Once the restriction is enabled and specific product types are assigned to a seller or staff member, they will only be able to use the assigned product types for their products. They will not be able to perform actions on products that use a product type outside their assigned access.
+
+## Configure Product Type Restriction for Sellers
+
+### Step 1: Enable Product Type Restriction
+
+From the **Marketplace Admin Panel**, navigate to:
+
+**Configuration → Restriction Configuration**
+
+Enable the following options:
+
+- **Restrict Product Type**
+- **Restrict Product Type Seller-wise**
+
+This will enable product type-based access control for sellers.
+
+**Refer:** [![Restriction Configuration](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/08/restrictionconfig.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/08/restrictionconfig.webp)
+
+### Step 2: Assign Product Types to a Seller
+
+Navigate to the **Seller Listing** and open the **Edit Seller** page for the required seller.
+
+Enable **Restrict Product Type** for the seller. A list of available product types will then be displayed.
+
+Select the product types that you want to allow the seller to use and click **Save**.
+
+**Refer:** [![Assign Product Types to Seller](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/08/assigntype.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/08/assigntype.webp)
+
+### Step 3: Product Type Access While Adding Products
+
+Once the restriction is configured, the seller will only be able to select from the product types assigned to them while adding a new product.
+
+**Refer:** [![Product Type Selection for Seller](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/08/editproductseller.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/08/editproductseller.webp)
+
+### Step 4: Restriction on Existing Products
+
+If a product has a product type that is **not assigned to the seller**, the seller will not be allowed to perform actions on that product.
+
+For example, the seller will not be able to update or manage a product if its product type is outside the seller's assigned product types.
+
+**Refer:** [![Product Type Restriction for Existing Seller Product](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/08/noactionallowedseller.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/08/noactionallowedseller.webp)
+
+## Configure Product Type Restriction for Seller Staff
+
+### Step 1: Enable Restriction for Staff
+
+The seller can enable **Product Type Restriction** for a staff member and assign specific product types to them.
+
+The staff member can only be assigned product types that are **already assigned to the seller**.
+
+**Refer:** [![Assign Product Types to Staff](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/08/assigntypetostaff.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/08/assigntypetostaff.webp)
+
+### Step 2: Product Type Access While Adding Products
+
+Once the restriction is enabled, the staff member will only be able to select the product types assigned to them while creating a new product.
+
+**Refer:** [![Product Type Selection for Staff](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/08/editproductstaff.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/08/editproductstaff.webp)
+
+### Step 3: Restriction on Existing Products
+
+If an existing product uses a product type that is **not assigned to the staff member**, the staff member will not be allowed to perform actions on that product.
+
+This ensures that staff members can only manage products belonging to the product types they have been granted access to.
+
+**Refer:** [![Product Type Restriction for Existing Staff Product](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/08/noactionstaff.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/08/noactionstaff.webp)
+
+## Important Notes
+
+- Sellers can only use the product types assigned to them.
+- Staff members can only use product types assigned to them.
+- A staff member can only be assigned product types that are already available to their seller.
+- Users cannot manage products whose product type falls outside their assigned access.
+- The restriction applies both when **creating new products** and when **managing existing products**.
+
+ Allow Seller to Delete Variants
+A new configuration has been introduced to provide sellers with control over deleting individual product variants.
+
+If the admin has enabled “Allow Seller to Delete Products”, a new configuration named “Allow Seller to Delete Variants” will be displayed. The admin can enable this option to allow sellers to delete individual variants of a product.
+
+Refer:
+https://cdnblog.webkul.com/blog/wp-content/uploads/2026/08/allowvariantdeletion.webp
+
+Once enabled:
+
+Sellers will not be able to delete the entire product.
+Sellers will be allowed to delete individual variants from the product.
+If a product has only one variant, the seller will not be allowed to delete that variant, as deleting the only variant would effectively remove the entire product.
+isko bhi kro
+
+
+## Allow Seller to Delete Variants
+
+A new configuration has been introduced to provide sellers with control over deleting individual product variants.
+
+If the admin has enabled **“Allow Seller to Delete Products”**, a new configuration named **“Allow Seller to Delete Variants”** will be displayed. The admin can enable this option to allow sellers to delete individual variants of a product.
+
+**Refer:** [![Allow Seller to Delete Variants Configuration](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/08/allowvariantdeletion.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/08/allowvariantdeletion.webp)
+
+Once enabled:
+
+- Sellers will **not** be able to delete the entire product.
+- Sellers will be allowed to **delete individual variants** from the product.
+- If a product has only **one variant**, the seller will **not** be allowed to delete that variant, as deleting the only variant would effectively remove the entire product.
+
 ALLOW SELLERS TO SET THE PRODUCT PRICE TO ZERO
 -------------------------------
 The admin can allow his/her sellers to create products with product price being zero.

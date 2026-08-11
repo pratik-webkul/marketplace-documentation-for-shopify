@@ -560,6 +560,7 @@ markdown: {
                 { text: 'Customer order management', link: '/zenith/featured-app/marketplace-miscellaneous-add-ons/customer-order-management' },
                 { text: 'Hyperlocal marketplace', link: '/zenith/featured-app/marketplace-miscellaneous-add-ons/hyperlocal-marketplace' },
                 { text: 'Multi location inventory', link: '/zenith/featured-app/marketplace-miscellaneous-add-ons/multi-location-inventory' },
+                { text: 'Multi location inventory + Store Pickup', link: '/zenith/featured-app/marketplace-miscellaneous-add-ons/multi-location-inventory-store-pickup' },               
                 { text: 'Multivendor API', link: '/zenith/featured-app/marketplace-miscellaneous-add-ons/multivendor-api' },
                 { text: 'Route insurance', link: '/zenith/featured-app/marketplace-miscellaneous-add-ons/route-insurance' },
                 { text: 'Seller staff', link: '/zenith/featured-app/marketplace-miscellaneous-add-ons/seller-staff' },

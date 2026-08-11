@@ -179,6 +179,14 @@ After adding the code, that is how the minimum purchase amount will appear on th
 
 [![product page](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/03/Personalized-Coffee-Mug-%E2%80%93-Demo-Store-AUD-1-2-1200x597.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/03/Personalized-Coffee-Mug-%E2%80%93-Demo-Store-AUD-1-2-1200x597.png)
 
+## Auto Refresh Cart for Minimum Purchase Quantity Validation
+
+The Multi Vendor Marketplace app now supports automatic cart refresh for Minimum Purchase Quantity validation.
+
+When a product does not meet the seller-defined minimum purchase quantity, the cart will automatically refresh and apply the required quantity validation.
+
+This functionality works on both the **Shopify Cart page** and **Cart Drawer**, ensuring consistent minimum quantity validation across the cart experience.
+
 ### SCHEDULE DEMO
 
 [Click here to Schedule the demo of Multivendor marketplace App for Shopify ](https://egsma.io/shopify-multivendor-marketplace/)

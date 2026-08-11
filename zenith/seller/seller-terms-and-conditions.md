@@ -44,6 +44,48 @@ You can add a seller signup menu on your store to let sellers get registered.
 
 ![Screenshot-2021-08-09T110007.280](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/1780478344796.webp)
 
+## Update Seller Terms & Conditions
+
+**Note:** You can access the following options only when you edit the existing seller Terms & Conditions. The system does not display these options when you add the Terms & Conditions for the first time.
+
+![terms and conditions edit](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/08/one-1200x602.webp)
+
+Whenever you update the seller Terms & Conditions, you can ask all existing sellers to review and accept the updated Terms & Conditions again.
+
+**Seller Need to Re-Accept**
+
+Enable the **Seller Need to Re-Accept** option and click **Save**.
+
+![re accept](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/08/too-1200x601.webp)
+
+Once enabled:
+
+*   All existing sellers will be required to accept the updated Terms & Conditions again before continuing.
+*   The previous acceptance status of all sellers is reset automatically.
+*   After a seller accepts the updated Terms & Conditions, the acceptance status is updated again.
+
+**Notify Seller**
+
+After saving the updated Terms & Conditions, click the **Notify Seller** button to inform your sellers about the changes.
+
+![notify seller ](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/08/three-1200x601.webp)
+
+The admin gets two options:
+
+#### Default Email
+
+Select **Default Email** to send the predefined notification email to all sellers informing them that the Terms & Conditions have been updated and require acceptance.
+
+![notify method](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/08/fore-1200x602.webp)
+
+#### Custom Email Message
+
+Select **Custom Email Message** if you want to write your own email content.
+
+The custom email will be sent to all sellers with your personalized message regarding the updated Terms & Conditions.
+
+![custom mail](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/08/five-1200x603.webp)
+
  Admin Accepting Seller Terms & Conditions
 ---------------------
 In case you are adding sellers from your admin panel, you will also get the option to accept terms & conditions on behalf of sellers.

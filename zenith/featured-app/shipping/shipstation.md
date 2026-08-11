@@ -233,7 +233,7 @@ To configure this feature from seller end , follow these steps :
 
 1.In the ShipStation configuration settings, enable the option for 'CREATE ORDER BEFORE FULFILLMENT '.
 
-[![shipstation-configuration-step1](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/09/step-first-seller-end.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/09/step-first-seller-end.webp)
+[![shipstation-configuration-step1](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/07/sstnth.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/07/sstnth.webp)
 
 2\. Copy the provided URL for 'Webhook Register for ShipStation shipping' and configure it in the ShipStation dashboard.
 
@@ -300,7 +300,7 @@ Click on “Configure Custom Box”, then enable the toggle for “Create Custom
 
 Once enabled, the “Add Custom Box” option will appear.
 
-[![frst](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/12/sellerfrst-1200x701.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/12/sellerfrst-1200x701.webp)
+[![frst](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/07/sstn.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/07/sstn.webp)
 
 **Select Custom Box Type  
 **Sellers can choose from two types of custom boxes:  
@@ -308,7 +308,7 @@ Once enabled, the “Add Custom Box” option will appear.
 ◦ Box Dimensions  
 ◦ Dunnage Dimensions
 
-[![scnd](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/12/sellerscnd-1200x609.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/12/sellerscnd-1200x609.webp)
+[![scnd](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/07/sstno.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/07/sstno.webp)
 
 2\. **Climate Control Box** – Allows you to set:
 
@@ -317,7 +317,7 @@ Once enabled, the “Add Custom Box” option will appear.
 *   Minimum and Maximum Temperature
 
 [![gb
-](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/12/sellerthird-1018x1024.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/12/sellerthird-1018x1024.webp)
+](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/07/sstnt.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/07/sstnt.webp)
 
 **Save Custom Box**
 
@@ -342,13 +342,13 @@ How it appears on the Order Page
 
 The Order page shows fields for box dimensions and dunnage dimensions only.
 
-[![or](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/12/orderscnd-1200x413.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/12/orderscnd-1200x413.webp)
+[![or](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/07/ones.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/07/ones.webp)
 
 **When the seller selects a Climate Control box,**
 
 The Order page displays inputs for box dimensions, dunnage dimensions, and controlled temperature range (minimum and maximum).  
 
-[![ord](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/12/orderfrst-1200x385.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/12/orderfrst-1200x385.webp)
+[![ord](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/07/ones.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/07/ones.webp)
 ### SCHEDULE DEMO
 
 [Click here to Schedule the demo of Multivendor marketplace App for Shopify ](https://egsma.io/shopify-multivendor-marketplace/)

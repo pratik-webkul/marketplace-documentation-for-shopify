@@ -126,7 +126,7 @@ Similarly, if disabled, the Admin will be able to add only Artists on his store.
 
 _If you don't want Sellers on your Multivendor Marketplace & want to have a store only for Artists then disable this option._
 
-[![Signup • Multivendor MarketPlace](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/signupmvm.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/signupmvm.webp)
+[![Signup • Multivendor MarketPlace](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/08/artistic.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/08/artistic.webp)
 
 **ALLOW ARTIST TO ADD PRODUCT**
 -------------------------------
