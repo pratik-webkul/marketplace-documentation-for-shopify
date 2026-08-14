@@ -808,6 +808,14 @@ Once the filter is applied, only the orders related to the selected seller's pro
 [![Filter](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/02/upgradedfeaturesseventynine.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/02/upgradedfeaturesseventynine.webp)
 
 
+### Enable/Disable, Approve, and Re-approve Products
+
+A toggle button has been added to the **Listing and Edit pages**, allowing users to **Enable/Disable, Approve, and Re-approve** products directly.
+
+![Add Product Enable/Disable](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/08/addproductenablediable.webp)
+
+![Edit Product Enable/Disable](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/08/editproductenabledisable.webp)
+
 ### SCHEDULE DEMO
 
 [Click here to Schedule the demo of Multivendor marketplace App for Shopify ](https://egsma.io/shopify-multivendor-marketplace/)
