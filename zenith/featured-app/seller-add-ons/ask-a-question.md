@@ -641,6 +641,14 @@ Displays the **shop name along with the store logo** for better branding and vis
 
 This enhancement provides greater flexibility to marketplace admins and helps improve the overall UI and branding experience on the customer inquiry detail page.
 
+## Reopened Query Email Notifications
+
+We have implemented email notifications for **reopened queries**, with dedicated email templates for customers and admins/sellers.
+
+- When a **Seller/Admin reopens a query**, an email notification will be sent to the **Customer**.
+- When a **Customer reopens a query**, an email notification will be sent to the **Seller/Admin**.
+- The respective email notification will be triggered whenever a query is **reopened**.
+- Separate email templates are provided for the relevant recipients to ensure the notification content is appropriate for each user type.
 
 ### SCHEDULE DEMO
 
