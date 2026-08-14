@@ -655,6 +655,25 @@ Clicking the View button, the seller can view the draft order details:
 
 This way, you can allow sellers to create orders on behalf of their customers if requested via call, email,etc.
 
+## Add Default Image Support for Custom Products in Draft Order
+
+You can configure a default image for **custom items** added to draft orders from the Marketplace Admin Panel.
+
+To enable this feature, go to the **Order Configuration** section and enable the **Enable Custom Product Default Image** option.
+
+![Enable Custom Product Default Image](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/08/customdraft.webp)
+
+Once enabled, upload the image that you want to use as the default image for custom items.
+
+After configuring the default image, when a seller creates a draft order and selects **Add Custom Item**:
+
+![Add Custom Item](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/08/customdraft2.webp)
+
+The configured default image will automatically be used for the custom item when the **draft order is created**.
+
+![Custom Product Default Image](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/08/customdraft3.webp)
+
+
  Shopify Order Fulfillment Email
 ---------------------------------------------
 If you don't want customers to receive the order fulfillment emails from Shopify end then,
