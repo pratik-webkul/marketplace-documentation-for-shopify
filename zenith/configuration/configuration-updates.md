@@ -43,6 +43,59 @@ To improve usability while assigning collections to a product, a manual search o
 - Search results are dynamically filtered based on the entered keyword
 - Reduces manual scrolling and improves overall efficiency
 
+## New Product Notification Control for Sellers
+
+We have introduced a new configuration for notifications sent to customers who follow a seller. This enhancement provides administrators and sellers with greater control over when and how new product notification emails are sent.
+
+#### 1. Admin Configuration
+
+A new configuration has been added to the **General Configuration** section in the admin panel:
+
+**Allow Seller-Controlled Product Update Notifications**
+
+![Allow Seller-Controlled Product Update Notifications](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/08/newconfignotify3.webp)
+
+The configuration works as follows:
+
+- By default, this setting is **Disabled**.
+- Once the admin enables this setting, the **Notify to Customer** option will become available to sellers.
+- The notification option will be available on the **Edit Product** page in the seller panel.
+- This configuration allows sellers to manually manage notifications sent to customers who follow them.
+
+#### 2. Seller Configuration
+
+Once the admin enables the seller notification control, sellers will have access to the following option in their seller panel:
+
+**Notify to Customer**
+
+This option allows sellers to manually send notifications to customers who follow them whenever they want to inform them about a new product.
+
+This provides sellers with greater flexibility and control over new product notification emails.
+
+#### 3. Notification Behavior
+
+When a seller adds a new product, they can manually send a notification to customers who follow them.
+
+To send the notification, the seller needs to follow these steps:
+
+**Seller Panel → Products → Product Listing → Edit Product → More Actions → Notify to Customer**
+
+After clicking **Notify to Customer**, a notification popup will appear.
+
+![Notify to Customer](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/08/newconfignotify2.webp)
+
+#### Notify Customer Popup
+
+The popup will allow the seller to:
+
+- Select the **New Product** notification type.
+- Add the required notes/message for the customers.
+- Click the **Send Notification** button.
+
+![Notify Customer Popup](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/08/newconfignotify1.webp)
+
+Once the seller clicks **Send Notification**, the notification email will be sent to the customers who follow the seller.
+
 Auto Fulfillment Reminder For Seller
 --------------------------
 You can now enable the tab to send fulfillment reminders to sellers automatically via the app. For this, visit the admin panel of the app>>Configuration>>**Order Configuration** and enable the tab.

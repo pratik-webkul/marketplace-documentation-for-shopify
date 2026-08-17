@@ -336,7 +336,17 @@ Once the admin clicks on this button, the system displays the old pending paymen
 
 [![Seller payments](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/02/sc4.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/02/sc4.webp)
 
+## Request Payment Option for Sellers
 
+Sellers can request the release of their pending funds directly from the **Order Payments** section in the Seller Panel.
+
+To request a payment, the seller needs to click the **Request Payment** button.
+
+![Request Payment](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/08/sellerpaymentreq.webp)
+
+Once the seller clicks **Request Payment**, an **email notification is automatically triggered to the admin**, informing them that the seller has requested the release of their funds.
+
+The admin can then review the request and proceed with the payment release as required.
 
 ### SCHEDULE DEMO
 

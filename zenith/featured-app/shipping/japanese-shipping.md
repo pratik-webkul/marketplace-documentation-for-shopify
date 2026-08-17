@@ -60,6 +60,35 @@ The admin can enable the required carriers from here.
 [![image](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/02/erfefqefqfe.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/02/erfefqefqfe.webp)
 
 
+### Shipping Carrier Configuration and Rate Calculation
+
+Click on the three dots to **Edit** the Japanese Shipping.
+
+![Edit Japanese Shipping](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/08/japship1.webp)
+
+Here, the **Shipping carrier field type for fulfillment** configuration will be available.
+
+![Shipping Carrier Field Type for Fulfillment](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/08/japship2.webp)
+
+When this option is enabled, the selected carrier will be available as a **shipping carrier during order fulfillment**.
+
+Additionally, if a **Tracking URL** and **Tracking Number** are configured for the shipping carrier, these details will be automatically populated when the carrier is selected during fulfillment.
+
+![Shipping Carrier During Fulfillment](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/08/japship3.webp)
+
+Also, while editing the **Yu-Pack, Sagawa, and Yamato** couriers:
+
+![Edit Japanese Shipping Couriers](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/08/japship4.webp)
+
+You will have the option **Use for Shipping Rate Calculation as a Shipping Method**.
+
+![Use for Shipping Rate Calculation as a Shipping Method](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/08/japship5.webp)
+
+When **Use for Shipping Rate Calculation as a Shipping Method** is enabled, the carrier can be used during checkout to calculate the shipping rate based on the customer's postcode.
+
+![Shipping Rate Calculation at Checkout](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/08/japship6.webp)
+
+
  Seller End Configuration
 -------------
 Once the admin enables Japanese Shipping, sellers can configure it from their panel.
