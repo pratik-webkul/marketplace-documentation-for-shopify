@@ -114,6 +114,16 @@ Once this configuration is enabled, sellers will be able to add a future publish
 If the admin wants the seller’s blog to be automatically published on the future publish date added by the seller, then the admin needs to keep the **“Auto Approve Seller Blog”** configuration enabled from the Multivendor Marketplace Admin Panel under the Seller Blog Configuration section.
 
 [![image](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/slrbloogthree.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/slrbloogthree.webp)
+
+
+### Create Blog as Draft
+
+Admin can now allow sellers to save their blog posts as **Drafts**. Once this option is enabled, sellers can save their blog content as a draft and continue working on it later before publishing or submitting it for approval.
+
+![Create Blog as Draft Configuration](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/08/draftblogconf.webp)
+
+![Save Blog as Draft](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/08/savedrftblog.webp)
+
 ### SCHEDULE DEMO
 
 [Click here to Schedule the demo of Multivendor marketplace App for Shopify ](https://egsma.io/shopify-multivendor-marketplace/)
