@@ -1,4 +1,4 @@
-import{_ as l,c as t,o as s,ah as r,j as n,a as e}from"./chunks/framework.PvdZnrZd.js";const y=JSON.parse('{"title":"SELLER BLOG","description":"SELLER BLOG","frontmatter":{"title":"SELLER BLOG","description":"SELLER BLOG","author":"Chirag Tyagi"},"headers":[],"relativePath":"zenith/featured-app/marketplace-other-add-ons/seller-blog.md","filePath":"zenith/featured-app/marketplace-other-add-ons/seller-blog.md"}'),a={name:"zenith/featured-app/marketplace-other-add-ons/seller-blog.md"};function i(c,o,d,m,p,g){return s(),t("div",null,[...o[0]||(o[0]=[r('<h1 id="user-guide-for-seller-blog" tabindex="-1">User Guide for Seller Blog <a class="header-anchor" href="#user-guide-for-seller-blog" aria-label="Permalink to &quot;User Guide for Seller Blog&quot;">​</a></h1><p>The Seller Blog is a feature of our multivendor marketplace app, offering each registered seller their own blog.</p><p>Sellers can use this space to publish articles, updates, and content related to their products, enhancing engagement and visibility on the platform.</p><h2 id="activation-of-this-feature" tabindex="-1">Activation of this feature <a class="header-anchor" href="#activation-of-this-feature" aria-label="Permalink to &quot;Activation of this feature&quot;">​</a></h2><p>To enable this feature app, just turn it on in the &quot;Feature App&quot; section of the admin panel in the <a href="https://apps.shopify.com/multi-vendor-marketplace" target="_blank" rel="noreferrer">Multivendor Marketplace App</a>.</p>',5),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
+import{_ as l,c as t,o as s,ah as r,j as n,a as e}from"./chunks/framework.PvdZnrZd.js";const y=JSON.parse('{"title":"SELLER BLOG","description":"SELLER BLOG","frontmatter":{"title":"SELLER BLOG","description":"SELLER BLOG","author":"Chirag Tyagi"},"headers":[],"relativePath":"zenith/featured-app/marketplace-other-add-ons/seller-blog.md","filePath":"zenith/featured-app/marketplace-other-add-ons/seller-blog.md"}'),a={name:"zenith/featured-app/marketplace-other-add-ons/seller-blog.md"};function i(c,o,d,m,g,p){return s(),t("div",null,[...o[0]||(o[0]=[r('<h1 id="user-guide-for-seller-blog" tabindex="-1">User Guide for Seller Blog <a class="header-anchor" href="#user-guide-for-seller-blog" aria-label="Permalink to &quot;User Guide for Seller Blog&quot;">​</a></h1><p>The Seller Blog is a feature of our multivendor marketplace app, offering each registered seller their own blog.</p><p>Sellers can use this space to publish articles, updates, and content related to their products, enhancing engagement and visibility on the platform.</p><h2 id="activation-of-this-feature" tabindex="-1">Activation of this feature <a class="header-anchor" href="#activation-of-this-feature" aria-label="Permalink to &quot;Activation of this feature&quot;">​</a></h2><p>To enable this feature app, just turn it on in the &quot;Feature App&quot; section of the admin panel in the <a href="https://apps.shopify.com/multi-vendor-marketplace" target="_blank" rel="noreferrer">Multivendor Marketplace App</a>.</p>',5),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
           event.preventDefault();
 
           const existing = document.getElementById('wk-image-overlay');
@@ -3262,4 +3262,186 @@ import{_ as l,c as t,o as s,ah as r,j as n,a as e}from"./chunks/framework.PvdZnr
             overlay.remove();
           }
         };
-      `})])],-1),n("h3",{id:"schedule-demo",tabindex:"-1"},[e("SCHEDULE DEMO "),n("a",{class:"header-anchor",href:"#schedule-demo","aria-label":'Permalink to "SCHEDULE DEMO"'},"​")],-1),n("p",null,[n("a",{href:"https://egsma.io/shopify-multivendor-marketplace/",target:"_blank",rel:"noreferrer"},"Click here to Schedule the demo of Multivendor marketplace App for Shopify ")],-1)])])}const v=l(a,[["render",i]]);export{y as __pageData,v as default};
+      `})])],-1),n("h3",{id:"create-blog-as-draft",tabindex:"-1"},[e("Create Blog as Draft "),n("a",{class:"header-anchor",href:"#create-blog-as-draft","aria-label":'Permalink to "Create Blog as Draft"'},"​")],-1),n("p",null,[e("Admin can now allow sellers to save their blog posts as "),n("strong",null,"Drafts"),e(". Once this option is enabled, sellers can save their blog content as a draft and continue working on it later before publishing or submitting it for approval.")],-1),n("p",null,[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2026/08/draftblogconf.webp",alt:"Create Blog as Draft Configuration",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+        const existing = document.getElementById('wk-image-overlay');
+        if(existing) existing.remove();
+
+        const overlay = document.createElement('div');
+        overlay.id = 'wk-image-overlay';
+
+        overlay.style.cssText = \`
+          position:fixed;
+          inset:0;
+          background:rgba(0,0,0,0.88);
+          display:flex;
+          align-items:center;
+          justify-content:center;
+          z-index:99999;
+          padding:20px;
+          cursor:zoom-out;
+          overflow:hidden;
+          backdrop-filter: blur(3px);
+        \`;
+
+        // 🔹 CLOSE BUTTON
+        const closeBtn = document.createElement('div');
+        closeBtn.innerHTML = '&times;';
+
+        closeBtn.style.cssText = \`
+          position:absolute;
+          top:20px;
+          right:25px;
+          color:#fff;
+          font-size:42px;
+          font-weight:bold;
+          cursor:pointer;
+          z-index:100000;
+          line-height:1;
+          user-select:none;
+        \`;
+
+        closeBtn.onclick = () => {
+          overlay.remove();
+        };
+
+        const img = document.createElement('img');
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2026/08/draftblogconf.webp";
+
+        img.style.cssText = \`
+          max-width:95%;
+          max-height:95%;
+          border-radius:12px;
+          transition:transform .15s ease;
+          cursor:zoom-in;
+          will-change:transform;
+          user-select:none;
+        \`;
+
+        let scale = 1;
+
+        // scroll zoom
+        overlay.onwheel = (e) => {
+          e.preventDefault();
+
+          scale += e.deltaY * -0.001;
+          scale = Math.min(Math.max(1, scale), 5);
+
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        // double click zoom
+        img.ondblclick = () => {
+          scale = scale === 1 ? 2 : 1;
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        overlay.appendChild(closeBtn);
+        overlay.appendChild(img);
+
+        document.body.appendChild(overlay);
+
+        // close overlay
+        overlay.onclick = (e) => {
+          if (e.target === overlay) {
+            overlay.remove();
+          }
+        };
+
+        // esc close
+        document.onkeydown = (e) => {
+          if (e.key === 'Escape') {
+            overlay.remove();
+          }
+        };
+      `})],-1),n("p",null,[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2026/08/savedrftblog.webp",alt:"Save Blog as Draft",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+        const existing = document.getElementById('wk-image-overlay');
+        if(existing) existing.remove();
+
+        const overlay = document.createElement('div');
+        overlay.id = 'wk-image-overlay';
+
+        overlay.style.cssText = \`
+          position:fixed;
+          inset:0;
+          background:rgba(0,0,0,0.88);
+          display:flex;
+          align-items:center;
+          justify-content:center;
+          z-index:99999;
+          padding:20px;
+          cursor:zoom-out;
+          overflow:hidden;
+          backdrop-filter: blur(3px);
+        \`;
+
+        // 🔹 CLOSE BUTTON
+        const closeBtn = document.createElement('div');
+        closeBtn.innerHTML = '&times;';
+
+        closeBtn.style.cssText = \`
+          position:absolute;
+          top:20px;
+          right:25px;
+          color:#fff;
+          font-size:42px;
+          font-weight:bold;
+          cursor:pointer;
+          z-index:100000;
+          line-height:1;
+          user-select:none;
+        \`;
+
+        closeBtn.onclick = () => {
+          overlay.remove();
+        };
+
+        const img = document.createElement('img');
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2026/08/savedrftblog.webp";
+
+        img.style.cssText = \`
+          max-width:95%;
+          max-height:95%;
+          border-radius:12px;
+          transition:transform .15s ease;
+          cursor:zoom-in;
+          will-change:transform;
+          user-select:none;
+        \`;
+
+        let scale = 1;
+
+        // scroll zoom
+        overlay.onwheel = (e) => {
+          e.preventDefault();
+
+          scale += e.deltaY * -0.001;
+          scale = Math.min(Math.max(1, scale), 5);
+
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        // double click zoom
+        img.ondblclick = () => {
+          scale = scale === 1 ? 2 : 1;
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        overlay.appendChild(closeBtn);
+        overlay.appendChild(img);
+
+        document.body.appendChild(overlay);
+
+        // close overlay
+        overlay.onclick = (e) => {
+          if (e.target === overlay) {
+            overlay.remove();
+          }
+        };
+
+        // esc close
+        document.onkeydown = (e) => {
+          if (e.key === 'Escape') {
+            overlay.remove();
+          }
+        };
+      `})],-1),n("h3",{id:"schedule-demo",tabindex:"-1"},[e("SCHEDULE DEMO "),n("a",{class:"header-anchor",href:"#schedule-demo","aria-label":'Permalink to "SCHEDULE DEMO"'},"​")],-1),n("p",null,[n("a",{href:"https://egsma.io/shopify-multivendor-marketplace/",target:"_blank",rel:"noreferrer"},"Click here to Schedule the demo of Multivendor marketplace App for Shopify ")],-1)])])}const v=l(a,[["render",i]]);export{y as __pageData,v as default};
