@@ -39,6 +39,113 @@ Now, visit the **Sellers** menu>>**Seller Listing** sub-menu>>**Edit** seller>>E
 
 This is how you can update seller handle in the app.
 
+## Enable Global Profile Avatars for Sellers, Seller Staff, and Influencers
+
+### Overview
+
+The **Global Profile Avatar** configuration allows marketplace admins to set a default avatar style for sellers, seller staff, and influencers across the marketplace.
+
+This makes profiles easier to identify and provides a consistent look across the seller and influencer panels. The available avatar options vary depending on the profile type.
+
+### 1. Global Seller Profile Avatar
+
+Admins can configure a global avatar for all sellers from the marketplace admin panel.
+
+#### How to Configure
+
+Navigate to:
+
+**Marketplace Admin Panel → Configuration → Seller Configuration → Enable Global Seller Profile Avatar**
+
+After enabling the configuration, you can select one of the following avatar options:
+
+- **Seller Initial Name**
+- **Store Initial Name**
+- **Seller Profile Image**
+
+![Global Seller Profile Avatar](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/08/a1787050153259.webp)
+
+#### Seller Initial Name
+
+If **Seller Initial Name** is selected, the avatar will display the initial letters of the seller's name.
+
+**Example:**  
+If the seller's name is **John Smith**, the avatar will display **JS**.
+
+![Seller Initial Name](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/08/a1787050255709.webp)
+
+#### Store Initial Name
+
+If **Store Initial Name** is selected, the avatar will display the initial letters of the seller's store name.
+
+**Example:**  
+If the store name is **Fashion Hub**, the avatar will display **FH**.
+
+#### Seller Profile Image
+
+If **Seller Profile Image** is selected, the seller's profile image will be displayed as the avatar.
+
+![Seller Profile Image](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/08/a1787050404297.webp)
+
+### 2. Global Staff Profile Avatar
+
+A similar configuration is available for **Seller Staff**. Admins can define a global avatar style for staff members associated with sellers.
+
+Navigate to:
+
+**Marketplace Admin Panel → Configuration → Seller Configuration → Global Staff Profile Avatar**
+
+The following options are available:
+
+- **Staff Initial Name**
+- **Store Initial Name**
+
+![Global Staff Profile Avatar](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/08/a1787051148141.webp)
+
+#### Staff Initial Name
+
+When this option is selected, the initial letters of the staff member's name will be displayed as the avatar.
+
+**Example:**  
+If the staff member's name is **David Miller**, the avatar will display **DM**.
+
+![Staff Initial Name](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/08/a1787050738495.webp)
+
+#### Store Initial Name
+
+When this option is selected, the initial letters of the associated store name will be displayed.
+
+**Example:**  
+If the store name is **Fashion Hub**, the avatar will display **FH**.
+
+### 3. Global Influencer Profile Avatar
+
+The **Global Influencer Profile Avatar** configuration allows admins to define how influencer avatars should appear throughout the influencer account.
+
+Navigate to:
+
+**Marketplace Admin Panel → Configuration → Influencer Configuration → Global Influencer Profile Avatar**
+
+The following options are available:
+
+- **Influencer Initial Name**
+- **Influencer Profile Image**
+
+![Global Influencer Profile Avatar](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/08/a1787051186263.webp)
+
+### Influencer Initial Name
+
+When this option is selected, the initial letters of the influencer's name will be displayed as the avatar.
+
+**Example:**  
+If the influencer's name is **Emma Roy**, the avatar will display **ER**.
+
+### Influencer Profile Image
+
+When this option is selected, the influencer's uploaded profile image will be displayed as their avatar.
+
+![Influencer Profile Image](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/08/a1787050772201.webp)
+
  Restrict Seller To Disable Feedback
 ----------------------------------------------
 In the Multi-vendor Marketplace app, the customers will have the option to provide feedback to a seller from the seller profile page.
