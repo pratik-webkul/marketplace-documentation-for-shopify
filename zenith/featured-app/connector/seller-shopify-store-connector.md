@@ -92,7 +92,7 @@ And, paste the link here and uncheck the "Embed app in Shopify admin" option.
 
 [![paste url](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/02/sellersideurlpaste-1200x545.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/02/sellersideurlpaste-1200x545.webp)
 
-**Note:- Don't change the Webhook API version.**
+**Note:- Change the Webhook API version to 2026-04 or kindly confirm this with our team once.**
 
 Now, go back to the **"Seller sync app configuration"** in the seller portal and copy the other URL under the App URL.
 
@@ -683,7 +683,9 @@ In the price rule menu, the seller can create a price rule to manage the price o
 -------------------
 **PURPOSE**:- The seller requires certain [permission](https://webkul.com/blog/seller-shopify-store-connector-multi-vendor-marketplace-for-shopify/#required-permissions-to-create-a-private-app) to create a private app to make the sync process work.
 
-In case the seller has missed enabling any permission and created the private app, still, he/she will have the option to register webhooks from his/her seller panel.  
+In case the seller has missed enabling any permission and created the private app, still, he/she will 
+
+have the option to register webhooks from his/her seller panel.  
 
 The seller can visit the **Seller Sync App Configuration** where there is a list of all the webhooks. Just register/unregister webhooks as per the requirement.
 
