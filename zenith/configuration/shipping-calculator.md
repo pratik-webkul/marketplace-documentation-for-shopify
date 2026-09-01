@@ -45,8 +45,9 @@ Selecting countries every time is also a time-consuming process, so we introduce
 
 If you have selected specific countries, you'll further need to select the countries from the drop-down menu for which you want to make the calculator available.
 
-Furthermore, you need to copy the given code and paste it in your '**cart.liquid**' file template inside <form> tag.
 ```liquid
+Furthermore, you need to copy the given code and paste it in your '**cart.liquid**' file template inside <form> tag.
+
     <div id="wk_shipping_calculate_div" class="mp-relative" style="clear: both!important; margin:15px;"><div id="wk_shipping_calculate"><div 
     class='mp-loader mp-absolute'><div class='mp-spinner'></div></div></div>
 ```
