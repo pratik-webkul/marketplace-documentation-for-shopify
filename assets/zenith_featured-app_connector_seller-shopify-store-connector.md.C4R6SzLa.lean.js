@@ -1534,7 +1534,7 @@ import{_ as l,c as r,o as s,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
             overlay.remove();
           }
         };
-      `})])],-1),n("p",null,[n("strong",null,"Note:- Don't change the Webhook API version.")],-1),n("p",null,[e("Now, go back to the "),n("strong",null,'"Seller sync app configuration"'),e(" in the seller portal and copy the other URL under the App URL.")],-1),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
+      `})])],-1),n("p",null,[n("strong",null,"Note:- Change the Webhook API version to 2026-04 or kindly confirm this with our team once.")],-1),n("p",null,[e("Now, go back to the "),n("strong",null,'"Seller sync app configuration"'),e(" in the seller portal and copy the other URL under the App URL.")],-1),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
           event.preventDefault();
 
           const existing = document.getElementById('wk-image-overlay');
@@ -15550,7 +15550,7 @@ import{_ as l,c as r,o as s,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
             overlay.remove();
           }
         };
-      `})])],-1),o("",6),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
+      `})])],-1),o("",7),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
           event.preventDefault();
 
           const existing = document.getElementById('wk-image-overlay');
