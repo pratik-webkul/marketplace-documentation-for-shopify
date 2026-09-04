@@ -318,6 +318,7 @@ markdown: {
             { text: 'Minimum purchase quantity', link: '/zenith/configuration/minimum-purchase-quantity' },
             { text: 'Product configuration', link: '/zenith/configuration/product-configration' },
             { text: 'Seller configuration', link: '/zenith/configuration/seller-configuration' },
+            { text: 'Shipping Calculator', link: '/zenith/configuration/shipping-calculator' },
             { text: 'Shopify custom apps', link: '/zenith/configuration/shopify-custom-apps' },
             // Add more configuration if needed 
           ]
