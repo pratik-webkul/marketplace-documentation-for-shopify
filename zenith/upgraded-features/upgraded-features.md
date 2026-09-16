@@ -87,6 +87,191 @@ In case of refund, you can return the tip to the customer from Shopify and updat
 
 [![download-17](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/02/download-17-1200x515.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/02/download-17-1200x515.png)
 
+
+## NDR & RTO Order Management
+
+The **NDR (Non-Delivery Report)** and **RTO (Return to Origin)** features help the admin manage orders where delivery attempts have failed.
+
+Using these features, the admin can:
+
+- Track failed delivery attempts.
+- Monitor multiple delivery attempts for an order.
+- View order status history and delivery actions.
+- Track successful delivery after an NDR.
+- Move an NDR order to RTO when delivery cannot be completed.
+- Monitor orders that are being returned to the seller.
+
+This guide explains how to manage **NDR and RTO orders** from the admin panel.
+
+## NDR Orders
+
+**NDR** stands for **Non-Delivery Report**. When a delivery attempt fails, the order is recorded as an NDR order. The admin can then monitor the delivery status and take the required action.
+
+### Navigation
+
+Go to:
+
+**Admin Panel → Orders → NDR Orders**
+
+The **NDR Orders** section displays the list of orders for which a delivery attempt has failed.
+
+![NDR Orders Listing](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/09/ndrorderslisting.webp)
+
+## Managing Failed Delivery Attempts
+
+When an order is shipped for delivery, its status is updated according to the delivery attempt.
+
+If the delivery attempt fails, the order is recorded as an **NDR**.
+
+**Order → Delivery Attempt → Delivery Failed → NDR**
+
+The admin can open the order to review the delivery activity and check the actions performed so far.
+
+If another delivery attempt is made and also fails, the subsequent activity is recorded in the order history. This allows the admin to track multiple failed delivery attempts before the final order status is determined.
+
+### Multiple Delivery Attempts
+
+An order can go through multiple delivery attempts before the delivery is completed or the order is moved to RTO.
+
+For example:
+
+1. The first delivery attempt fails.
+2. The order is recorded under **NDR Orders**.
+3. A second delivery attempt is made.
+4. The second attempt also fails.
+5. The failed delivery activity is recorded in the order history.
+6. Another delivery attempt can be made based on the delivery process.
+
+The admin can use the **Order Status History** to review the complete delivery journey of the order.
+
+![Order Status History](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/09/orderstatushistory.webp)
+
+
+
+### Order Status History
+
+The **Order Status History** provides a record of the actions and status updates performed on an order.
+
+The admin can use it to track:
+
+- Delivery attempts.
+- Failed delivery attempts.
+- Multiple NDR updates.
+- Actions performed after a failed delivery.
+- Successful delivery after an NDR.
+- Movement of an order from NDR to RTO.
+
+This helps the admin understand the complete delivery history and current status of an order.
+
+
+
+### Successful Delivery After NDR
+
+An order that enters the NDR stage can still be successfully delivered during a subsequent delivery attempt.
+
+For example:
+
+**First Attempt → Delivery Failed → NDR**
+
+If the customer accepts the order during a later delivery attempt:
+
+**NDR → Delivery Successful**
+
+The order status is then updated to the applicable **successful delivery status**.
+
+Therefore, an order does not remain under NDR once the delivery is successfully completed. The order history also records the previous failed delivery attempts and subsequent status updates.
+
+
+
+### Moving an NDR Order to RTO
+
+If the customer does not accept the order and the delivery cannot be completed, the admin can move the order from **NDR to RTO**.
+
+**RTO** stands for **Return to Origin**. When an order is moved to RTO, it is removed from the customer delivery flow and processed for return to the seller or origin.
+
+### Navigation
+
+Go to:
+
+**Admin Panel → Orders → NDR Orders**
+
+Open the required NDR order and use the available action to move the order to **RTO**.
+
+### Steps to Move an NDR Order to RTO
+
+1. Navigate to **Orders → NDR Orders**.
+2. Find and open the order for which delivery cannot be completed.
+3. Review the delivery attempts and **Order Status History**.
+4. Move the order to **RTO** using the available action.
+5. The order will then be listed under the **RTO Orders** section.
+
+
+## RTO Orders
+
+Once an order is moved from NDR to RTO, the admin can manage it from the **RTO Orders** section.
+
+### Navigation
+
+Go to:
+
+**Admin Panel → Orders → RTO Orders**
+
+The **RTO Orders** section lists orders that have been moved from NDR to the **Return to Origin** process.
+
+The admin can use this section to:
+
+- Monitor orders being returned to the seller.
+- Track the current return status.
+- View order details.
+- Review the order status history.
+- Monitor the **Return to Seller** status as the order progresses.
+
+![RTO Order Status History](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/09/orderstatushistory.webp)
+
+
+## NDR to RTO Order Flow
+
+The NDR and RTO process can be understood through the following scenarios.
+
+### Successful Delivery Flow
+
+**Order**  
+↓  
+**Delivery Attempt**  
+↓  
+**Delivery Failed**  
+↓  
+**NDR**  
+↓  
+**Retry Delivery**  
+↓  
+**Customer Accepts Order**  
+↓  
+**Successful Delivery Status**
+
+In this scenario, the order is successfully delivered after a previous failed delivery attempt.
+
+### RTO Flow
+
+**Order**  
+↓  
+**Delivery Attempt**  
+↓  
+**Delivery Failed**  
+↓  
+**NDR**  
+↓  
+**Further Delivery Attempt**  
+↓  
+**Customer Does Not Accept Order**  
+↓  
+**Move to RTO**  
+↓  
+**Return to Seller**
+
+In this scenario, the order is moved from **NDR to RTO** when the delivery cannot be completed.
+
+
  Fraud Analysis
 --------------
 You can now investigate an order that you think might be fraudulent.
