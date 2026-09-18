@@ -11,9 +11,26 @@ author: Chirag Tyagi
 -------------------
 The **Influencer Marketplace** is an advanced feature app designed to connect sellers with influencers, enabling collaboration to boost product sales through influencer marketing.
 
+Click here to watch the video ⬇️ 
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; border-radius: 12px;">
+  <iframe
+    src="https://www.youtube.com/embed/-KvcY1Lznio?si=iPh5xV3T23hEUYHY"
+    title="YouTube video player"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    referrerpolicy="strict-origin-when-cross-origin"
+    allowfullscreen
+    style="position: absolute; top:0; left:0; width:100%; height:100%; border-radius:12px;"
+  >
+  </iframe>
+</div>
+
 This guide covers the complete workflow, including **installation, configuration, and usage** from **Admin, Seller, and Influencer perspectives**.
 
+
+
 ![Influencer Marketplace Overview](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/04/influencermarketplaceone.webp)
+
 
 
  Installation Process & Overview
