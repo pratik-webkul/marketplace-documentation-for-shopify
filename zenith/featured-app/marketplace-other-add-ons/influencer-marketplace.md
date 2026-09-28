@@ -199,6 +199,10 @@ Sellers can view:
 
 - Track earnings (Total, Paid, Due)
 
+This is the referral link that the influencer will use to promote the seller’s products. 
+
+![Referral link](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/09/influencer.webp)
+
 
 ### Payment Methods
 
