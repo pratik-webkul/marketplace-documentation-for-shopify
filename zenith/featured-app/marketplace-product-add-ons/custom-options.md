@@ -12,6 +12,19 @@ With this featured app, you can **allow sellers to add custom options to product
 
 Thus, let the customers provide additional information about the product while purchasing it.
 
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; border-radius: 12px;">
+  <iframe
+    src="https://www.youtube.com/embed/TDrxF2pSptI?si=izo_ImRg7RDpJc2r"
+    title="YouTube video player"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    referrerpolicy="strict-origin-when-cross-origin"
+    allowfullscreen
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border-radius: 12px;"
+  >
+  </iframe>
+</div>
+
  Features
 -------------
 *   Let customers add additional information about the products while purchasing it.

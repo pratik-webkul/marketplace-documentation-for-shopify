@@ -80,6 +80,58 @@ The admin adds an extra layer of security by enabling the Google Authentication 
 Once linked, a new login code is generated in the app for each login, helping protect access to sensitive backend operations.
 
 [![G](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/02/8verify.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/02/8verify.webp)
+
+
+## Google Authenticator 2FA Management
+
+A new configuration has been introduced to manage the **existing Google Authenticator key** when the 2FA status is disabled for a **Seller or Influencer**.
+
+This configuration provides an option to decide whether the existing Google Authenticator key should be deleted when disabling 2FA.
+
+### How It Works
+
+When **Google Authenticator 2FA** is enabled for a Seller or Influencer and their **2FA status is disabled**, a confirmation pop-up will appear with an option to delete the existing Google Authenticator key.
+
+The pop-up provides the option to either **delete the existing key or keep it**.
+
+### Delete the Existing Key
+
+If the existing key is deleted:
+
+- The Google Authenticator key associated with that Seller or Influencer will be removed.
+- The previous 2FA setup will no longer be available.
+- When 2FA setup is required again during login, the Seller or Influencer will need to **set up Google Authenticator again**.
+
+### Keep the Existing Key
+
+If the existing key is not deleted:
+
+- The existing Google Authenticator key will remain saved.
+- Only the 2FA status will be disabled.
+- The existing key will remain available if 2FA is enabled again.
+
+## Steps to Manage the Google Authenticator Key
+
+**Step 1:** Navigate to **Seller → Seller Listing**, open the required Seller or Influencer, and go to the **Edit Seller** section to access the **2FA settings**.
+
+**Step 2:** Disable the **2FA status** for the required Seller or Influencer.
+
+[![Disable 2FA Status](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/09/789535877671.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/09/789535877671.webp)
+
+**Step 3:** A confirmation pop-up will appear asking whether you want to delete the existing Google Authenticator key.
+
+**Step 4:** Select the required option:
+
+- **Delete:** Removes the existing Google Authenticator key.
+- **Keep:** Retains the existing Google Authenticator key.
+
+[![Google Authenticator Key Confirmation](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/09/789536164175.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/09/789536164175.webp)
+
+**Step 5:** If the key was deleted, the Seller or Influencer will need to **complete the Google Authenticator setup again during login** when 2FA setup is required.
+
+[![Google Authenticator Setup](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/09/789536194291.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/09/789536194291.webp)
+
+
 ### SCHEDULE DEMO
 
 [Click here to Schedule the demo of Multivendor marketplace App for Shopify ](https://egsma.io/shopify-multivendor-marketplace/)
