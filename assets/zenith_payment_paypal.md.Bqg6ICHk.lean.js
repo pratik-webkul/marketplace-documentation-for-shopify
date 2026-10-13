@@ -1,4 +1,4 @@
-import{_ as l,c as a,o as r,ah as o,j as n,a as e}from"./chunks/framework.PvdZnrZd.js";const u=JSON.parse('{"title":"Paypal","description":"Paypal Configuration","frontmatter":{"title":"Paypal","description":"Paypal Configuration","date":"2025-06-27T00:00:00.000Z","author":"Chirag Tyagi"},"headers":[],"relativePath":"zenith/payment/paypal.md","filePath":"zenith/payment/paypal.md"}'),s={name:"zenith/payment/paypal.md"};function i(c,t,d,m,p,g){return r(),a("div",null,[...t[0]||(t[0]=[o('<h1 id="user-guide-for-paypal" tabindex="-1">User Guide for Paypal <a class="header-anchor" href="#user-guide-for-paypal" aria-label="Permalink to &quot;User Guide for Paypal&quot;">​</a></h1><p>Want to auto-pay your Sellers once they mark the order as delivered/fulfilled?<br> For this, configure <strong>PayPal Payout Payment</strong> in your <a href="/zenith/introduction/">Multivendor Marketplace for Shopify</a>.</p><p><strong>Purpose of this feature</strong>:<br> This feature lets your sellers automatically receive their total earnings once they mark the order as delivered/fulfilled.</p><p><strong>Note</strong>: Paypal Payout is now compatible with <strong>discounted orders</strong> which means auto-payment to sellers is possible for discounted orders.</p><h1 id="paypal-payout-environment-requirement" tabindex="-1">PayPal Payout Environment Requirement <a class="header-anchor" href="#paypal-payout-environment-requirement" aria-label="Permalink to &quot;PayPal Payout Environment Requirement&quot;">​</a></h1><blockquote><p><strong>⚠️ Important</strong></p><p>The <strong>PayPal Payouts</strong> feature must be <strong>enabled on the Marketplace Admin&#39;s PayPal account</strong>.</p><p><strong>The PayPal environment used for payouts must match the Admin&#39;s configured PayPal environment.</strong></p><ul><li>If the Admin is using the <strong>Live</strong> environment, the <strong>PayPal Payouts</strong> feature must also be enabled on the <strong>Live</strong> PayPal account.</li><li>If the Admin is using the <strong>Sandbox</strong> environment, the <strong>PayPal Payouts</strong> feature must be enabled on the <strong>Sandbox</strong> PayPal account.</li></ul><p><strong>A mismatch between the Admin&#39;s PayPal environment and the PayPal Payouts environment will prevent payouts from working correctly.</strong></p></blockquote><h2 id="how-to-configure-the-paypal-payout-feature" tabindex="-1">How to configure the PayPal Payout feature? <a class="header-anchor" href="#how-to-configure-the-paypal-payout-feature" aria-label="Permalink to &quot;How to configure the PayPal Payout feature?&quot;">​</a></h2><p>To configure this feature, the Admin needs to follow the steps written below:</p><ul><li>Go to Multi vendor Marketplace <strong>Admin Panel</strong></li><li>Click on the <strong>Payment</strong> menu &amp; select the <strong>Seller</strong> <strong>Payment Configuration</strong> from the drop-down menus</li></ul>',9),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
+import{_ as l,c as a,o as r,ah as o,j as n,a as e}from"./chunks/framework.PvdZnrZd.js";const u=JSON.parse('{"title":"Paypal","description":"Paypal Configuration","frontmatter":{"title":"Paypal","description":"Paypal Configuration","date":"2025-06-27T00:00:00.000Z","author":"Chirag Tyagi"},"headers":[],"relativePath":"zenith/payment/paypal.md","filePath":"zenith/payment/paypal.md"}'),s={name:"zenith/payment/paypal.md"};function i(c,t,d,m,p,g){return r(),a("div",null,[...t[0]||(t[0]=[o("",10),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
           event.preventDefault();
 
           const existing = document.getElementById('wk-image-overlay');
@@ -574,7 +574,7 @@ import{_ as l,c as a,o as r,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
             overlay.remove();
           }
         };
-      `})])],-1),o('<ul><li>After enabling this option, you need to enter the following details:</li></ul><p><strong>Pay After</strong>: Pay to the Sellers after the order is marked as <strong>delivered</strong> or <strong>Fulfilled</strong>.<br><strong>PayPal Client ID</strong>: Enter your PayPal client ID<br><strong>PayPal Secret Key</strong>: Enter your PayPal secret key</p><ul><li>Save Changes</li></ul><h2 id="how-to-get-paypal-client-id-and-secret-key" tabindex="-1">How to get PayPal Client ID and Secret Key? <a class="header-anchor" href="#how-to-get-paypal-client-id-and-secret-key" aria-label="Permalink to &quot;How to get PayPal Client ID and Secret Key?&quot;">​</a></h2><p>To get your Paypal Client ID &amp; Secret Key, you need to login to your PayPal Account by visiting the following link: <a href="https://developer.paypal.com/docs/api/overview/#api-requests" target="_blank" rel="noreferrer">https://developer.paypal.com/docs/api/overview/#api-requests</a></p>',5),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
+      `})])],-1),o("",5),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
           event.preventDefault();
 
           const existing = document.getElementById('wk-image-overlay');
@@ -1918,7 +1918,7 @@ import{_ as l,c as a,o as r,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
             overlay.remove();
           }
         };
-      `})])],-1),o('<p><strong>NOTE:</strong></p><p>If you want the details for a <strong>live account</strong> then please change the PayPal environment to live and follow the same steps as mentioned above.</p><h2 id="pay-after-refund-date" tabindex="-1">Pay After Refund date <a class="header-anchor" href="#pay-after-refund-date" aria-label="Permalink to &quot;Pay After Refund date&quot;">​</a></h2><p>There is one more scenario to the PayPal Payout configuration.</p><p>Suppose the Admin has selected the PayPal Payout autopay method to pay his Sellers after order delivery or fulfillment.</p><p>Then in case of order refunds the payment is already done to the Sellers which isn&#39;t supposed to be and hence this causes chaos in the whole process.</p><p>Considering this, we have given an option in Multi-Vendor Marketplace Seller Payment Configuration which allows you to set particular days after which you want your Sellers to receive the payment.</p><p>These days are basically the days in which your customers can refund the purchased items.</p><p>Configure the following feature by navigating through: <strong>Multivendor Marketplace Admin Panel &gt; Payment &gt; Seller Payment Configuration</strong>.</p><p>Refer to the images below:</p>',10),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
+      `})])],-1),o("",10),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
           event.preventDefault();
 
           const existing = document.getElementById('wk-image-overlay');
@@ -2686,7 +2686,7 @@ import{_ as l,c as a,o as r,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
             overlay.remove();
           }
         };
-      `})])],-1),o('<p>Also, the Admin won&#39;t be able to choose the &#39;pay after&#39; as delivery or fulfillment because now it will work as per configured in the &#39;Cashable Amount for Seller&#39; option.</p><h2 id="configuration-for-seller-s-panel" tabindex="-1">Configuration for Seller&#39;s Panel <a class="header-anchor" href="#configuration-for-seller-s-panel" aria-label="Permalink to &quot;Configuration for Seller&#39;s Panel&quot;">​</a></h2><p>To configure this feature, the Seller needs to follow the steps written below:</p><ul><li>Go to Multi vendor Marketplace <strong>Seller Panel</strong></li><li>Hover over the <strong>Profile</strong> menu &amp; select the <strong>Payment Details</strong> from the drop-down menus</li></ul>',4),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
+      `})])],-1),o("",4),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
           event.preventDefault();
 
           const existing = document.getElementById('wk-image-overlay');
@@ -3070,7 +3070,7 @@ import{_ as l,c as a,o as r,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
             overlay.remove();
           }
         };
-      `})])],-1),o('<ul><li>Click on <strong>save</strong>.</li></ul><p>This is all you&#39;ll need to do for configuring the PayPal Payout Payment.</p><h2 id="workflow" tabindex="-1">Workflow <a class="header-anchor" href="#workflow" aria-label="Permalink to &quot;Workflow&quot;">​</a></h2><p>When an order gets placed, the total amount paid by the customer will go to the Admin&#39;s account.</p><p>So, whenever the Seller changes the order status to delivered/fulfilled from his end then the Seller&#39;s total earning will be received by him excluding the Admin&#39;s commission.</p><p><strong>Order Fulfillment Process</strong></p><p>When the order is placed, the Seller will have the order in the Multivendor Marketplace <strong>Seller Panel</strong> &gt; <strong>Orders</strong> &gt; <strong>Order Listing</strong> &gt; <strong>View</strong>:</p>',7),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
+      `})])],-1),o("",7),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
           event.preventDefault();
 
           const existing = document.getElementById('wk-image-overlay');
@@ -3646,7 +3646,7 @@ import{_ as l,c as a,o as r,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
             overlay.remove();
           }
         };
-      `})])],-1),o("<p>Now, the Seller will get auto-paid.</p><p>But if auto-pay is set for &#39;delivered&#39; case by the Admin then the Seller first needs to set the order status as delivered &amp; just after that he&#39;ll receive the payment.</p><p>Order Delivering Process</p><p>For this: <strong>Seller Panel</strong> &gt; <strong>Orders</strong> &gt; <strong>Order Listing</strong> &gt; <strong>View</strong></p><p>In the Fulfillment Details section, click on the <strong>Enter Delivery Details</strong> button:</p>",5),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
+      `})])],-1),o("",5),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
           event.preventDefault();
 
           const existing = document.getElementById('wk-image-overlay');

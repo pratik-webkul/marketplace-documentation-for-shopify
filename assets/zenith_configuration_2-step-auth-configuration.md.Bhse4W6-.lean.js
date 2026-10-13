@@ -1,4 +1,4 @@
-import{_ as t,c as l,o as i,ah as s,j as n,a as e}from"./chunks/framework.PvdZnrZd.js";const y=JSON.parse('{"title":"2-Step Auth Configuration","description":"2-Step Auth Configuration","frontmatter":{"title":"2-Step Auth Configuration","description":"2-Step Auth Configuration","date":"2025-10-07T00:00:00.000Z","author":"Chirag Tyagi"},"headers":[],"relativePath":"zenith/configuration/2-step-auth-configuration.md","filePath":"zenith/configuration/2-step-auth-configuration.md"}'),a={name:"zenith/configuration/2-step-auth-configuration.md"};function r(c,o,d,m,p,g){return i(),l("div",null,[...o[0]||(o[0]=[s('<h1 id="user-guide-for-2-step-auth-configuration" tabindex="-1">User Guide for 2-step Auth Configuration <a class="header-anchor" href="#user-guide-for-2-step-auth-configuration" aria-label="Permalink to &quot;User Guide for 2-step Auth Configuration&quot;">​</a></h1><h2 id="_2-step-authentication-for-seller-and-staff-logins" tabindex="-1"><strong>2-Step Authentication for seller and staff logins</strong> <a class="header-anchor" href="#_2-step-authentication-for-seller-and-staff-logins" aria-label="Permalink to &quot;**2-Step Authentication for seller and staff logins**&quot;">​</a></h2><p>To enhance security across the platform, we&#39;ve introduced a 2-Step Authentication process for both sellers and admin users.</p><p>This added layer of protection ensures that only authorized users can access their accounts.</p><p><strong>How It Works:</strong></p><p>During login, both sellers and admins will receive a One-Time Password (OTP) via email. This OTP must be entered to complete the login process, effectively verifying the user&#39;s identity.</p><p><strong>Admin Login Authentication:</strong></p><p>By enabling the &quot;For Admin&quot; option in the settings, the admin will receive an OTP every time they log in. This helps secure access to sensitive backend operations.</p><p><strong>Seller Login Authentication:</strong></p><p>Admins can choose to enable OTP authentication for sellers as well. Once this setting is active, sellers will be required to verify their email using an OTP during each login.</p><p>If the checkbox is selected, this becomes a mandatory step for all sellers.</p>',11),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
+import{_ as l,c as i,o as s,ah as t,j as n,a as e}from"./chunks/framework.PvdZnrZd.js";const y=JSON.parse('{"title":"2-Step Auth Configuration","description":"2-Step Auth Configuration","frontmatter":{"title":"2-Step Auth Configuration","description":"2-Step Auth Configuration","date":"2025-10-07T00:00:00.000Z","author":"Chirag Tyagi"},"headers":[],"relativePath":"zenith/configuration/2-step-auth-configuration.md","filePath":"zenith/configuration/2-step-auth-configuration.md"}'),a={name:"zenith/configuration/2-step-auth-configuration.md"};function r(c,o,d,m,g,p){return s(),i("div",null,[...o[0]||(o[0]=[t("",11),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
           event.preventDefault();
 
           const existing = document.getElementById('wk-image-overlay');
@@ -1716,4 +1716,580 @@ import{_ as t,c as l,o as i,ah as s,j as n,a as e}from"./chunks/framework.PvdZnr
             overlay.remove();
           }
         };
-      `})])],-1),n("h3",{id:"schedule-demo",tabindex:"-1"},[e("SCHEDULE DEMO "),n("a",{class:"header-anchor",href:"#schedule-demo","aria-label":'Permalink to "SCHEDULE DEMO"'},"​")],-1),n("p",null,[n("a",{href:"https://egsma.io/shopify-multivendor-marketplace/",target:"_blank",rel:"noreferrer"},"Click here to Schedule the demo of Multivendor marketplace App for Shopify ")],-1)])])}const h=t(a,[["render",r]]);export{y as __pageData,h as default};
+      `})])],-1),t("",15),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
+          event.preventDefault();
+
+          const existing = document.getElementById('wk-image-overlay');
+          if(existing) existing.remove();
+
+          const overlay = document.createElement('div');
+          overlay.id = 'wk-image-overlay';
+
+          overlay.style.cssText = \`
+            position:fixed;
+            inset:0;
+            background:rgba(0,0,0,0.88);
+            display:flex;
+            align-items:center;
+            justify-content:center;
+            z-index:99999;
+            padding:20px;
+            cursor:zoom-out;
+            overflow:hidden;
+            backdrop-filter: blur(3px);
+          \`;
+
+          // 🔹 CLOSE BUTTON
+          const closeBtn = document.createElement('div');
+          closeBtn.innerHTML = '&times;';
+
+          closeBtn.style.cssText = \`
+            position:absolute;
+              top:20px;
+              right:25px;
+              background:#0c7484;
+              color:#fff;
+              width:50px;
+              height:50px;
+              border-radius:50%;
+              display:flex;
+              align-items:center;
+              justify-content:center;
+              font-size:32px;
+              font-weight:bold;
+              cursor:pointer;
+              z-index:100000;
+              line-height:1;
+              user-select:none;
+              box-shadow:0 4px 12px rgba(0,0,0,0.35);     
+          \`;
+
+          closeBtn.onclick = () => {
+            overlay.remove();
+          };
+
+          const img = document.createElement('img');
+          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2026/09/789535877671.webp";
+
+          img.style.cssText = \`
+            max-width:95%;
+            max-height:95%;
+            border-radius:12px;
+            transition:transform .15s ease;
+            cursor:zoom-in;
+            will-change:transform;
+            user-select:none;
+          \`;
+
+          let scale = 1;
+
+          // scroll zoom
+          overlay.onwheel = (e) => {
+            e.preventDefault();
+
+            scale += e.deltaY * -0.001;
+            scale = Math.min(Math.max(1, scale), 5);
+
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          // double click zoom
+          img.ondblclick = () => {
+            scale = scale === 1 ? 2 : 1;
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          overlay.appendChild(closeBtn);
+          overlay.appendChild(img);
+
+          document.body.appendChild(overlay);
+
+          // close overlay
+          overlay.onclick = (e) => {
+            if (e.target === overlay) {
+              overlay.remove();
+            }
+          };
+
+          // esc close
+          document.onkeydown = (e) => {
+            if (e.key === 'Escape') {
+              overlay.remove();
+            }
+          };
+        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2026/09/789535877671.webp",alt:"Disable 2FA Status",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+        const existing = document.getElementById('wk-image-overlay');
+        if(existing) existing.remove();
+
+        const overlay = document.createElement('div');
+        overlay.id = 'wk-image-overlay';
+
+        overlay.style.cssText = \`
+          position:fixed;
+          inset:0;
+          background:rgba(0,0,0,0.88);
+          display:flex;
+          align-items:center;
+          justify-content:center;
+          z-index:99999;
+          padding:20px;
+          cursor:zoom-out;
+          overflow:hidden;
+          backdrop-filter: blur(3px);
+        \`;
+
+        // 🔹 CLOSE BUTTON
+        const closeBtn = document.createElement('div');
+        closeBtn.innerHTML = '&times;';
+
+        closeBtn.style.cssText = \`
+          position:absolute;
+          top:20px;
+          right:25px;
+          color:#fff;
+          font-size:42px;
+          font-weight:bold;
+          cursor:pointer;
+          z-index:100000;
+          line-height:1;
+          user-select:none;
+        \`;
+
+        closeBtn.onclick = () => {
+          overlay.remove();
+        };
+
+        const img = document.createElement('img');
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2026/09/789535877671.webp";
+
+        img.style.cssText = \`
+          max-width:95%;
+          max-height:95%;
+          border-radius:12px;
+          transition:transform .15s ease;
+          cursor:zoom-in;
+          will-change:transform;
+          user-select:none;
+        \`;
+
+        let scale = 1;
+
+        // scroll zoom
+        overlay.onwheel = (e) => {
+          e.preventDefault();
+
+          scale += e.deltaY * -0.001;
+          scale = Math.min(Math.max(1, scale), 5);
+
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        // double click zoom
+        img.ondblclick = () => {
+          scale = scale === 1 ? 2 : 1;
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        overlay.appendChild(closeBtn);
+        overlay.appendChild(img);
+
+        document.body.appendChild(overlay);
+
+        // close overlay
+        overlay.onclick = (e) => {
+          if (e.target === overlay) {
+            overlay.remove();
+          }
+        };
+
+        // esc close
+        document.onkeydown = (e) => {
+          if (e.key === 'Escape') {
+            overlay.remove();
+          }
+        };
+      `})])],-1),n("p",null,[n("strong",null,"Step 3:"),e(" A confirmation pop-up will appear asking whether you want to delete the existing Google Authenticator key.")],-1),n("p",null,[n("strong",null,"Step 4:"),e(" Select the required option:")],-1),n("ul",null,[n("li",null,[n("strong",null,"Delete:"),e(" Removes the existing Google Authenticator key.")]),n("li",null,[n("strong",null,"Keep:"),e(" Retains the existing Google Authenticator key.")])],-1),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
+          event.preventDefault();
+
+          const existing = document.getElementById('wk-image-overlay');
+          if(existing) existing.remove();
+
+          const overlay = document.createElement('div');
+          overlay.id = 'wk-image-overlay';
+
+          overlay.style.cssText = \`
+            position:fixed;
+            inset:0;
+            background:rgba(0,0,0,0.88);
+            display:flex;
+            align-items:center;
+            justify-content:center;
+            z-index:99999;
+            padding:20px;
+            cursor:zoom-out;
+            overflow:hidden;
+            backdrop-filter: blur(3px);
+          \`;
+
+          // 🔹 CLOSE BUTTON
+          const closeBtn = document.createElement('div');
+          closeBtn.innerHTML = '&times;';
+
+          closeBtn.style.cssText = \`
+            position:absolute;
+              top:20px;
+              right:25px;
+              background:#0c7484;
+              color:#fff;
+              width:50px;
+              height:50px;
+              border-radius:50%;
+              display:flex;
+              align-items:center;
+              justify-content:center;
+              font-size:32px;
+              font-weight:bold;
+              cursor:pointer;
+              z-index:100000;
+              line-height:1;
+              user-select:none;
+              box-shadow:0 4px 12px rgba(0,0,0,0.35);     
+          \`;
+
+          closeBtn.onclick = () => {
+            overlay.remove();
+          };
+
+          const img = document.createElement('img');
+          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2026/09/789536164175.webp";
+
+          img.style.cssText = \`
+            max-width:95%;
+            max-height:95%;
+            border-radius:12px;
+            transition:transform .15s ease;
+            cursor:zoom-in;
+            will-change:transform;
+            user-select:none;
+          \`;
+
+          let scale = 1;
+
+          // scroll zoom
+          overlay.onwheel = (e) => {
+            e.preventDefault();
+
+            scale += e.deltaY * -0.001;
+            scale = Math.min(Math.max(1, scale), 5);
+
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          // double click zoom
+          img.ondblclick = () => {
+            scale = scale === 1 ? 2 : 1;
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          overlay.appendChild(closeBtn);
+          overlay.appendChild(img);
+
+          document.body.appendChild(overlay);
+
+          // close overlay
+          overlay.onclick = (e) => {
+            if (e.target === overlay) {
+              overlay.remove();
+            }
+          };
+
+          // esc close
+          document.onkeydown = (e) => {
+            if (e.key === 'Escape') {
+              overlay.remove();
+            }
+          };
+        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2026/09/789536164175.webp",alt:"Google Authenticator Key Confirmation",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+        const existing = document.getElementById('wk-image-overlay');
+        if(existing) existing.remove();
+
+        const overlay = document.createElement('div');
+        overlay.id = 'wk-image-overlay';
+
+        overlay.style.cssText = \`
+          position:fixed;
+          inset:0;
+          background:rgba(0,0,0,0.88);
+          display:flex;
+          align-items:center;
+          justify-content:center;
+          z-index:99999;
+          padding:20px;
+          cursor:zoom-out;
+          overflow:hidden;
+          backdrop-filter: blur(3px);
+        \`;
+
+        // 🔹 CLOSE BUTTON
+        const closeBtn = document.createElement('div');
+        closeBtn.innerHTML = '&times;';
+
+        closeBtn.style.cssText = \`
+          position:absolute;
+          top:20px;
+          right:25px;
+          color:#fff;
+          font-size:42px;
+          font-weight:bold;
+          cursor:pointer;
+          z-index:100000;
+          line-height:1;
+          user-select:none;
+        \`;
+
+        closeBtn.onclick = () => {
+          overlay.remove();
+        };
+
+        const img = document.createElement('img');
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2026/09/789536164175.webp";
+
+        img.style.cssText = \`
+          max-width:95%;
+          max-height:95%;
+          border-radius:12px;
+          transition:transform .15s ease;
+          cursor:zoom-in;
+          will-change:transform;
+          user-select:none;
+        \`;
+
+        let scale = 1;
+
+        // scroll zoom
+        overlay.onwheel = (e) => {
+          e.preventDefault();
+
+          scale += e.deltaY * -0.001;
+          scale = Math.min(Math.max(1, scale), 5);
+
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        // double click zoom
+        img.ondblclick = () => {
+          scale = scale === 1 ? 2 : 1;
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        overlay.appendChild(closeBtn);
+        overlay.appendChild(img);
+
+        document.body.appendChild(overlay);
+
+        // close overlay
+        overlay.onclick = (e) => {
+          if (e.target === overlay) {
+            overlay.remove();
+          }
+        };
+
+        // esc close
+        document.onkeydown = (e) => {
+          if (e.key === 'Escape') {
+            overlay.remove();
+          }
+        };
+      `})])],-1),n("p",null,[n("strong",null,"Step 5:"),e(" If the key was deleted, the Seller or Influencer will need to "),n("strong",null,"complete the Google Authenticator setup again during login"),e(" when 2FA setup is required.")],-1),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
+          event.preventDefault();
+
+          const existing = document.getElementById('wk-image-overlay');
+          if(existing) existing.remove();
+
+          const overlay = document.createElement('div');
+          overlay.id = 'wk-image-overlay';
+
+          overlay.style.cssText = \`
+            position:fixed;
+            inset:0;
+            background:rgba(0,0,0,0.88);
+            display:flex;
+            align-items:center;
+            justify-content:center;
+            z-index:99999;
+            padding:20px;
+            cursor:zoom-out;
+            overflow:hidden;
+            backdrop-filter: blur(3px);
+          \`;
+
+          // 🔹 CLOSE BUTTON
+          const closeBtn = document.createElement('div');
+          closeBtn.innerHTML = '&times;';
+
+          closeBtn.style.cssText = \`
+            position:absolute;
+              top:20px;
+              right:25px;
+              background:#0c7484;
+              color:#fff;
+              width:50px;
+              height:50px;
+              border-radius:50%;
+              display:flex;
+              align-items:center;
+              justify-content:center;
+              font-size:32px;
+              font-weight:bold;
+              cursor:pointer;
+              z-index:100000;
+              line-height:1;
+              user-select:none;
+              box-shadow:0 4px 12px rgba(0,0,0,0.35);     
+          \`;
+
+          closeBtn.onclick = () => {
+            overlay.remove();
+          };
+
+          const img = document.createElement('img');
+          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2026/09/789536194291.webp";
+
+          img.style.cssText = \`
+            max-width:95%;
+            max-height:95%;
+            border-radius:12px;
+            transition:transform .15s ease;
+            cursor:zoom-in;
+            will-change:transform;
+            user-select:none;
+          \`;
+
+          let scale = 1;
+
+          // scroll zoom
+          overlay.onwheel = (e) => {
+            e.preventDefault();
+
+            scale += e.deltaY * -0.001;
+            scale = Math.min(Math.max(1, scale), 5);
+
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          // double click zoom
+          img.ondblclick = () => {
+            scale = scale === 1 ? 2 : 1;
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          overlay.appendChild(closeBtn);
+          overlay.appendChild(img);
+
+          document.body.appendChild(overlay);
+
+          // close overlay
+          overlay.onclick = (e) => {
+            if (e.target === overlay) {
+              overlay.remove();
+            }
+          };
+
+          // esc close
+          document.onkeydown = (e) => {
+            if (e.key === 'Escape') {
+              overlay.remove();
+            }
+          };
+        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2026/09/789536194291.webp",alt:"Google Authenticator Setup",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+        const existing = document.getElementById('wk-image-overlay');
+        if(existing) existing.remove();
+
+        const overlay = document.createElement('div');
+        overlay.id = 'wk-image-overlay';
+
+        overlay.style.cssText = \`
+          position:fixed;
+          inset:0;
+          background:rgba(0,0,0,0.88);
+          display:flex;
+          align-items:center;
+          justify-content:center;
+          z-index:99999;
+          padding:20px;
+          cursor:zoom-out;
+          overflow:hidden;
+          backdrop-filter: blur(3px);
+        \`;
+
+        // 🔹 CLOSE BUTTON
+        const closeBtn = document.createElement('div');
+        closeBtn.innerHTML = '&times;';
+
+        closeBtn.style.cssText = \`
+          position:absolute;
+          top:20px;
+          right:25px;
+          color:#fff;
+          font-size:42px;
+          font-weight:bold;
+          cursor:pointer;
+          z-index:100000;
+          line-height:1;
+          user-select:none;
+        \`;
+
+        closeBtn.onclick = () => {
+          overlay.remove();
+        };
+
+        const img = document.createElement('img');
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2026/09/789536194291.webp";
+
+        img.style.cssText = \`
+          max-width:95%;
+          max-height:95%;
+          border-radius:12px;
+          transition:transform .15s ease;
+          cursor:zoom-in;
+          will-change:transform;
+          user-select:none;
+        \`;
+
+        let scale = 1;
+
+        // scroll zoom
+        overlay.onwheel = (e) => {
+          e.preventDefault();
+
+          scale += e.deltaY * -0.001;
+          scale = Math.min(Math.max(1, scale), 5);
+
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        // double click zoom
+        img.ondblclick = () => {
+          scale = scale === 1 ? 2 : 1;
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        overlay.appendChild(closeBtn);
+        overlay.appendChild(img);
+
+        document.body.appendChild(overlay);
+
+        // close overlay
+        overlay.onclick = (e) => {
+          if (e.target === overlay) {
+            overlay.remove();
+          }
+        };
+
+        // esc close
+        document.onkeydown = (e) => {
+          if (e.key === 'Escape') {
+            overlay.remove();
+          }
+        };
+      `})])],-1),n("h3",{id:"schedule-demo",tabindex:"-1"},[e("SCHEDULE DEMO "),n("a",{class:"header-anchor",href:"#schedule-demo","aria-label":'Permalink to "SCHEDULE DEMO"'},"​")],-1),n("p",null,[n("a",{href:"https://egsma.io/shopify-multivendor-marketplace/",target:"_blank",rel:"noreferrer"},"Click here to Schedule the demo of Multivendor marketplace App for Shopify ")],-1)])])}const h=l(a,[["render",r]]);export{y as __pageData,h as default};

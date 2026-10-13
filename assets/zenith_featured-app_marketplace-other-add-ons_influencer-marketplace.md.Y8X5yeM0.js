@@ -1,4 +1,4 @@
-import{_ as t,c as r,o as a,ah as o,j as n,a as e}from"./chunks/framework.PvdZnrZd.js";const f=JSON.parse('{"title":"Influencer Marketplace","description":"Influencer Marketplace","frontmatter":{"title":"Influencer Marketplace","description":"Influencer Marketplace","author":"Chirag Tyagi"},"headers":[],"relativePath":"zenith/featured-app/marketplace-other-add-ons/influencer-marketplace.md","filePath":"zenith/featured-app/marketplace-other-add-ons/influencer-marketplace.md"}'),i={name:"zenith/featured-app/marketplace-other-add-ons/influencer-marketplace.md"};function s(c,l,m,d,u,p){return a(),r("div",null,[...l[0]||(l[0]=[o('<h1 id="user-guide-for-influencer-marketplace" tabindex="-1">User Guide for Influencer Marketplace <a class="header-anchor" href="#user-guide-for-influencer-marketplace" aria-label="Permalink to &quot;User Guide for Influencer Marketplace&quot;">​</a></h1><h2 id="influencer-marketplace-a-powerful-add-on-for-multivendor-marketplace" tabindex="-1">Influencer Marketplace: A Powerful Add-on for Multivendor Marketplace <a class="header-anchor" href="#influencer-marketplace-a-powerful-add-on-for-multivendor-marketplace" aria-label="Permalink to &quot;Influencer Marketplace: A Powerful Add-on for Multivendor Marketplace&quot;">​</a></h2><p>The <strong>Influencer Marketplace</strong> is an advanced feature app designed to connect sellers with influencers, enabling collaboration to boost product sales through influencer marketing.</p><p>This guide covers the complete workflow, including <strong>installation, configuration, and usage</strong> from <strong>Admin, Seller, and Influencer perspectives</strong>.</p>',4),n("p",null,[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2026/04/influencermarketplaceone.webp",alt:"Influencer Marketplace Overview",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+import{_ as t,c as r,o as a,j as n,ah as o,a as e}from"./chunks/framework.PvdZnrZd.js";const f=JSON.parse('{"title":"Influencer Marketplace","description":"Influencer Marketplace","frontmatter":{"title":"Influencer Marketplace","description":"Influencer Marketplace","author":"Chirag Tyagi"},"headers":[],"relativePath":"zenith/featured-app/marketplace-other-add-ons/influencer-marketplace.md","filePath":"zenith/featured-app/marketplace-other-add-ons/influencer-marketplace.md"}'),i={name:"zenith/featured-app/marketplace-other-add-ons/influencer-marketplace.md"};function s(c,l,m,d,u,p){return a(),r("div",null,[...l[0]||(l[0]=[n("h1",{id:"user-guide-for-influencer-marketplace",tabindex:"-1"},[e("User Guide for Influencer Marketplace "),n("a",{class:"header-anchor",href:"#user-guide-for-influencer-marketplace","aria-label":'Permalink to "User Guide for Influencer Marketplace"'},"​")],-1),n("h2",{id:"influencer-marketplace-a-powerful-add-on-for-multivendor-marketplace",tabindex:"-1"},[e("Influencer Marketplace: A Powerful Add-on for Multivendor Marketplace "),n("a",{class:"header-anchor",href:"#influencer-marketplace-a-powerful-add-on-for-multivendor-marketplace","aria-label":'Permalink to "Influencer Marketplace: A Powerful Add-on for Multivendor Marketplace"'},"​")],-1),n("p",null,[e("The "),n("strong",null,"Influencer Marketplace"),e(" is an advanced feature app designed to connect sellers with influencers, enabling collaboration to boost product sales through influencer marketing.")],-1),n("p",null,"Click here to watch the video ⬇️",-1),n("div",{style:{position:"relative","padding-bottom":"56.25%",height:"0",overflow:"hidden","border-radius":"12px"}},[n("iframe",{src:"https://www.youtube.com/embed/-KvcY1Lznio?si=iPh5xV3T23hEUYHY",title:"YouTube video player",frameborder:"0",allow:"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share",referrerpolicy:"strict-origin-when-cross-origin",allowfullscreen:"",style:{position:"absolute",top:"0",left:"0",width:"100%",height:"100%","border-radius":"12px"}})],-1),n("p",null,[e("This guide covers the complete workflow, including "),n("strong",null,"installation, configuration, and usage"),e(" from "),n("strong",null,"Admin, Seller, and Influencer perspectives"),e(".")],-1),n("p",null,[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2026/04/influencermarketplaceone.webp",alt:"Influencer Marketplace Overview",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
         const existing = document.getElementById('wk-image-overlay');
         if(existing) existing.remove();
 
@@ -2000,7 +2000,98 @@ import{_ as t,c as r,o as a,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
             overlay.remove();
           }
         };
-      `})],-1),n("ul",null,[n("li",null,"Track earnings (Total, Paid, Due)")],-1),n("h3",{id:"payment-methods",tabindex:"-1"},[e("Payment Methods "),n("a",{class:"header-anchor",href:"#payment-methods","aria-label":'Permalink to "Payment Methods"'},"​")],-1),n("ul",null,[n("li",null,"Choose from admin-enabled methods")],-1),n("p",null,[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2026/04/influencermarketplacetwentysix.webp",alt:"Payment Config",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+      `})],-1),n("ul",null,[n("li",null,"Track earnings (Total, Paid, Due)")],-1),n("p",null,"This is the referral link that the influencer will use to promote the seller’s products.",-1),n("p",null,[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2026/09/influencer.webp",alt:"Referral link",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+        const existing = document.getElementById('wk-image-overlay');
+        if(existing) existing.remove();
+
+        const overlay = document.createElement('div');
+        overlay.id = 'wk-image-overlay';
+
+        overlay.style.cssText = \`
+          position:fixed;
+          inset:0;
+          background:rgba(0,0,0,0.88);
+          display:flex;
+          align-items:center;
+          justify-content:center;
+          z-index:99999;
+          padding:20px;
+          cursor:zoom-out;
+          overflow:hidden;
+          backdrop-filter: blur(3px);
+        \`;
+
+        // 🔹 CLOSE BUTTON
+        const closeBtn = document.createElement('div');
+        closeBtn.innerHTML = '&times;';
+
+        closeBtn.style.cssText = \`
+          position:absolute;
+          top:20px;
+          right:25px;
+          color:#fff;
+          font-size:42px;
+          font-weight:bold;
+          cursor:pointer;
+          z-index:100000;
+          line-height:1;
+          user-select:none;
+        \`;
+
+        closeBtn.onclick = () => {
+          overlay.remove();
+        };
+
+        const img = document.createElement('img');
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2026/09/influencer.webp";
+
+        img.style.cssText = \`
+          max-width:95%;
+          max-height:95%;
+          border-radius:12px;
+          transition:transform .15s ease;
+          cursor:zoom-in;
+          will-change:transform;
+          user-select:none;
+        \`;
+
+        let scale = 1;
+
+        // scroll zoom
+        overlay.onwheel = (e) => {
+          e.preventDefault();
+
+          scale += e.deltaY * -0.001;
+          scale = Math.min(Math.max(1, scale), 5);
+
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        // double click zoom
+        img.ondblclick = () => {
+          scale = scale === 1 ? 2 : 1;
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        overlay.appendChild(closeBtn);
+        overlay.appendChild(img);
+
+        document.body.appendChild(overlay);
+
+        // close overlay
+        overlay.onclick = (e) => {
+          if (e.target === overlay) {
+            overlay.remove();
+          }
+        };
+
+        // esc close
+        document.onkeydown = (e) => {
+          if (e.key === 'Escape') {
+            overlay.remove();
+          }
+        };
+      `})],-1),n("h3",{id:"payment-methods",tabindex:"-1"},[e("Payment Methods "),n("a",{class:"header-anchor",href:"#payment-methods","aria-label":'Permalink to "Payment Methods"'},"​")],-1),n("ul",null,[n("li",null,"Choose from admin-enabled methods")],-1),n("p",null,[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2026/04/influencermarketplacetwentysix.webp",alt:"Payment Config",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
         const existing = document.getElementById('wk-image-overlay');
         if(existing) existing.remove();
 

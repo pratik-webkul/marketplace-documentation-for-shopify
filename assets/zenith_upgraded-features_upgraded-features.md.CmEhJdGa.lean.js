@@ -1,4 +1,4 @@
-import{_ as l,c as r,o as s,ah as o,j as n,a as e}from"./chunks/framework.PvdZnrZd.js";const y=JSON.parse('{"title":"Upgraded Features","description":"Upgraded Features","frontmatter":{"title":"Upgraded Features","description":"Upgraded Features","author":"Chirag Tyagi"},"headers":[],"relativePath":"zenith/upgraded-features/upgraded-features.md","filePath":"zenith/upgraded-features/upgraded-features.md"}'),a={name:"zenith/upgraded-features/upgraded-features.md"};function i(c,t,d,m,p,g){return s(),r("div",null,[...t[0]||(t[0]=[o('<h1 id="user-guide-for-upgraded-features" tabindex="-1">User Guide for Upgraded Features <a class="header-anchor" href="#user-guide-for-upgraded-features" aria-label="Permalink to &quot;User Guide for Upgraded Features&quot;">​</a></h1><p><a href="https://store.webkul.com/Shopify-Multi-Vendor-Marketplace.html" target="_blank" rel="noreferrer">Shopify Multivendor Marketplace</a> App New &amp; Upgraded Features: Yes, we are updating and introducing new features to our best featured Multivendor Marketplace app for Shopify.</p><p><em><strong>Please keep following and tracking this section of ours to know about all the updates in the app.</strong></em></p><p>Let&#39;s have a look at the newly introduced and updated features of the Multivendor Marketplace app for Shopify:</p><h2 id="export-the-order-ids" tabindex="-1">Export the order IDs <a class="header-anchor" href="#export-the-order-ids" aria-label="Permalink to &quot;Export the order IDs&quot;">​</a></h2><p>Now, the admin can easily export the order ID details by clicking on the export details. under the payment section.</p>',6),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
+import{_ as l,c as r,o as s,ah as o,j as n,a as e}from"./chunks/framework.PvdZnrZd.js";const y=JSON.parse('{"title":"Upgraded Features","description":"Upgraded Features","frontmatter":{"title":"Upgraded Features","description":"Upgraded Features","author":"Chirag Tyagi"},"headers":[],"relativePath":"zenith/upgraded-features/upgraded-features.md","filePath":"zenith/upgraded-features/upgraded-features.md"}'),a={name:"zenith/upgraded-features/upgraded-features.md"};function i(c,t,d,m,p,g){return s(),r("div",null,[...t[0]||(t[0]=[o("",6),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
           event.preventDefault();
 
           const existing = document.getElementById('wk-image-overlay');
@@ -574,7 +574,7 @@ import{_ as l,c as r,o as s,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
             overlay.remove();
           }
         };
-      `})])],-1),o('<p><strong>Note:-</strong><br> The pending orders button will be shown only when the admin has selected &quot;PAY ORDER WISE&quot; in the &quot;SELLER PAYMENT TYPE&quot; dropdown from configuration &gt;&gt; payment configuration.</p><h2 id="order-prepare-status" tabindex="-1">Order Prepare Status <a class="header-anchor" href="#order-prepare-status" aria-label="Permalink to &quot;Order Prepare Status&quot;">​</a></h2><p>The <strong>Order Prepare Status</strong> feature has been updated to reflect changes when an order is <strong>delivered, canceled, or refunded</strong>.</p><p>This ensures accurate order tracking and better transparency for both <strong>admins and sellers</strong> in their respective <strong>order listing pages</strong> within their dashboards.</p>',4),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
+      `})])],-1),o("",4),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
           event.preventDefault();
 
           const existing = document.getElementById('wk-image-overlay');
@@ -1918,7 +1918,280 @@ import{_ as l,c as r,o as s,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
             overlay.remove();
           }
         };
-      `})])],-1),n("h2",{id:"fraud-analysis",tabindex:"-1"},[e("Fraud Analysis "),n("a",{class:"header-anchor",href:"#fraud-analysis","aria-label":'Permalink to "Fraud Analysis"'},"​")],-1),n("p",null,"You can now investigate an order that you think might be fraudulent.",-1),n("p",null,[e("To check this, you need to visit the Multi-vendor backend>>Go to Orders>>"),n("strong",null,"Order detail page"),e(" and view the analysis.")],-1),n("p",null,"Both admin and sellers can view the order analysis from their respective panels.",-1),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
+      `})])],-1),o("",11),n("p",null,[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2026/09/ndrorderslisting.webp",alt:"NDR Orders Listing",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+        const existing = document.getElementById('wk-image-overlay');
+        if(existing) existing.remove();
+
+        const overlay = document.createElement('div');
+        overlay.id = 'wk-image-overlay';
+
+        overlay.style.cssText = \`
+          position:fixed;
+          inset:0;
+          background:rgba(0,0,0,0.88);
+          display:flex;
+          align-items:center;
+          justify-content:center;
+          z-index:99999;
+          padding:20px;
+          cursor:zoom-out;
+          overflow:hidden;
+          backdrop-filter: blur(3px);
+        \`;
+
+        // 🔹 CLOSE BUTTON
+        const closeBtn = document.createElement('div');
+        closeBtn.innerHTML = '&times;';
+
+        closeBtn.style.cssText = \`
+          position:absolute;
+          top:20px;
+          right:25px;
+          color:#fff;
+          font-size:42px;
+          font-weight:bold;
+          cursor:pointer;
+          z-index:100000;
+          line-height:1;
+          user-select:none;
+        \`;
+
+        closeBtn.onclick = () => {
+          overlay.remove();
+        };
+
+        const img = document.createElement('img');
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2026/09/ndrorderslisting.webp";
+
+        img.style.cssText = \`
+          max-width:95%;
+          max-height:95%;
+          border-radius:12px;
+          transition:transform .15s ease;
+          cursor:zoom-in;
+          will-change:transform;
+          user-select:none;
+        \`;
+
+        let scale = 1;
+
+        // scroll zoom
+        overlay.onwheel = (e) => {
+          e.preventDefault();
+
+          scale += e.deltaY * -0.001;
+          scale = Math.min(Math.max(1, scale), 5);
+
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        // double click zoom
+        img.ondblclick = () => {
+          scale = scale === 1 ? 2 : 1;
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        overlay.appendChild(closeBtn);
+        overlay.appendChild(img);
+
+        document.body.appendChild(overlay);
+
+        // close overlay
+        overlay.onclick = (e) => {
+          if (e.target === overlay) {
+            overlay.remove();
+          }
+        };
+
+        // esc close
+        document.onkeydown = (e) => {
+          if (e.key === 'Escape') {
+            overlay.remove();
+          }
+        };
+      `})],-1),o("",11),n("p",null,[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2026/09/orderstatushistory.webp",alt:"Order Status History",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+        const existing = document.getElementById('wk-image-overlay');
+        if(existing) existing.remove();
+
+        const overlay = document.createElement('div');
+        overlay.id = 'wk-image-overlay';
+
+        overlay.style.cssText = \`
+          position:fixed;
+          inset:0;
+          background:rgba(0,0,0,0.88);
+          display:flex;
+          align-items:center;
+          justify-content:center;
+          z-index:99999;
+          padding:20px;
+          cursor:zoom-out;
+          overflow:hidden;
+          backdrop-filter: blur(3px);
+        \`;
+
+        // 🔹 CLOSE BUTTON
+        const closeBtn = document.createElement('div');
+        closeBtn.innerHTML = '&times;';
+
+        closeBtn.style.cssText = \`
+          position:absolute;
+          top:20px;
+          right:25px;
+          color:#fff;
+          font-size:42px;
+          font-weight:bold;
+          cursor:pointer;
+          z-index:100000;
+          line-height:1;
+          user-select:none;
+        \`;
+
+        closeBtn.onclick = () => {
+          overlay.remove();
+        };
+
+        const img = document.createElement('img');
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2026/09/orderstatushistory.webp";
+
+        img.style.cssText = \`
+          max-width:95%;
+          max-height:95%;
+          border-radius:12px;
+          transition:transform .15s ease;
+          cursor:zoom-in;
+          will-change:transform;
+          user-select:none;
+        \`;
+
+        let scale = 1;
+
+        // scroll zoom
+        overlay.onwheel = (e) => {
+          e.preventDefault();
+
+          scale += e.deltaY * -0.001;
+          scale = Math.min(Math.max(1, scale), 5);
+
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        // double click zoom
+        img.ondblclick = () => {
+          scale = scale === 1 ? 2 : 1;
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        overlay.appendChild(closeBtn);
+        overlay.appendChild(img);
+
+        document.body.appendChild(overlay);
+
+        // close overlay
+        overlay.onclick = (e) => {
+          if (e.target === overlay) {
+            overlay.remove();
+          }
+        };
+
+        // esc close
+        document.onkeydown = (e) => {
+          if (e.key === 'Escape') {
+            overlay.remove();
+          }
+        };
+      `})],-1),o("",30),n("p",null,[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2026/09/orderstatushistory.webp",alt:"RTO Order Status History",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+        const existing = document.getElementById('wk-image-overlay');
+        if(existing) existing.remove();
+
+        const overlay = document.createElement('div');
+        overlay.id = 'wk-image-overlay';
+
+        overlay.style.cssText = \`
+          position:fixed;
+          inset:0;
+          background:rgba(0,0,0,0.88);
+          display:flex;
+          align-items:center;
+          justify-content:center;
+          z-index:99999;
+          padding:20px;
+          cursor:zoom-out;
+          overflow:hidden;
+          backdrop-filter: blur(3px);
+        \`;
+
+        // 🔹 CLOSE BUTTON
+        const closeBtn = document.createElement('div');
+        closeBtn.innerHTML = '&times;';
+
+        closeBtn.style.cssText = \`
+          position:absolute;
+          top:20px;
+          right:25px;
+          color:#fff;
+          font-size:42px;
+          font-weight:bold;
+          cursor:pointer;
+          z-index:100000;
+          line-height:1;
+          user-select:none;
+        \`;
+
+        closeBtn.onclick = () => {
+          overlay.remove();
+        };
+
+        const img = document.createElement('img');
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2026/09/orderstatushistory.webp";
+
+        img.style.cssText = \`
+          max-width:95%;
+          max-height:95%;
+          border-radius:12px;
+          transition:transform .15s ease;
+          cursor:zoom-in;
+          will-change:transform;
+          user-select:none;
+        \`;
+
+        let scale = 1;
+
+        // scroll zoom
+        overlay.onwheel = (e) => {
+          e.preventDefault();
+
+          scale += e.deltaY * -0.001;
+          scale = Math.min(Math.max(1, scale), 5);
+
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        // double click zoom
+        img.ondblclick = () => {
+          scale = scale === 1 ? 2 : 1;
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        overlay.appendChild(closeBtn);
+        overlay.appendChild(img);
+
+        document.body.appendChild(overlay);
+
+        // close overlay
+        overlay.onclick = (e) => {
+          if (e.target === overlay) {
+            overlay.remove();
+          }
+        };
+
+        // esc close
+        document.onkeydown = (e) => {
+          if (e.key === 'Escape') {
+            overlay.remove();
+          }
+        };
+      `})],-1),o("",12),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
           event.preventDefault();
 
           const existing = document.getElementById('wk-image-overlay');
@@ -2494,7 +2767,7 @@ import{_ as l,c as r,o as s,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
             overlay.remove();
           }
         };
-      `})])],-1),o('<p>Please Note:- All the log info will be expired &amp; get removed from the app after 30 days.</p><p>You can view any log info up to 30 days after that it will get deleted automatically. -Date &amp; Time are in UTC format.</p><p>Also Note:- In case you are using other email service provider, you need to contact them to get the information regarding delivered emails.</p><h2 id="sync-inventory-image" tabindex="-1">Sync Inventory &amp; Image <a class="header-anchor" href="#sync-inventory-image" aria-label="Permalink to &quot;Sync Inventory &amp; Image&quot;">​</a></h2><p>In the Multi-vendor Marketplace app, merchant/seller can now <strong>manually sync</strong> the Shopify <strong>product inventory &amp; images</strong></p><p>with that of the marketplace from the <strong>Edit product</strong> section of their respective panels.</p><p>Please Note:- To sync the product inventory and images, the products must be in approval state in the app.</p><p><strong>ADMIN END</strong></p><p>Go to the admin panel&gt;&gt;<strong>Products</strong>&gt;&gt;Product Listing&gt;&gt;<strong>Edit</strong> product&gt;&gt;Sync Inventory &amp; Sync Image (<strong>More Actions</strong>).</p>',9),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
+      `})])],-1),o("",9),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
           event.preventDefault();
 
           const existing = document.getElementById('wk-image-overlay');
@@ -4030,7 +4303,7 @@ import{_ as l,c as r,o as s,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
             overlay.remove();
           }
         };
-      `})])],-1),o('<p>This way, you can add recipients to the emails.</p><h2 id="seller-store-address-in-mail" tabindex="-1">Seller Store Address in Mail <a class="header-anchor" href="#seller-store-address-in-mail" aria-label="Permalink to &quot;Seller Store Address in Mail&quot;">​</a></h2><p>We are excited to introduce a new enhancement to the <strong>&quot;Customer Items Fulfillment&quot;</strong> email in the <strong>Shopify Multivendor Marketplace</strong> app.</p><p>With this update, admins can now include detailed <strong>seller store information</strong> in the fulfillment emails sent to customers.</p><p>This new feature improves transparency and provides customers with essential seller details, making their post-purchase experience more informative.</p>',5),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
+      `})])],-1),o("",5),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
           event.preventDefault();
 
           const existing = document.getElementById('wk-image-overlay');
@@ -4222,7 +4495,7 @@ import{_ as l,c as r,o as s,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
             overlay.remove();
           }
         };
-      `})])],-1),o('<p>The following seller-specific variables can now be added to the email template:</p><p><strong>{$seller_store_address}</strong> – Seller’s Store Address</p><p><strong>{$seller_country_name}</strong> – Seller’s Country</p><p><strong>{$seller_state_name}</strong> – Seller’s State</p><p><strong>{$seller_zipcode}</strong> – Seller’s Zip Code</p><h2 id="contact-seller-button-on-product-page" tabindex="-1">Contact Seller Button on Product Page <a class="header-anchor" href="#contact-seller-button-on-product-page" aria-label="Permalink to &quot;Contact Seller Button on Product Page&quot;">​</a></h2><p>You can now display the &quot;Contact Seller&quot; button on the product page of your store.</p><p>Thus, the customers can directly contact the seller of the product they are willing to purchase.</p><p>To do that, you just need to visit the Multi-vendor admin panel&gt;&gt;Configuration&gt;&gt;Instruction for Marketplace&gt;&gt;Get the code.</p>',9),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
+      `})])],-1),o("",9),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
           event.preventDefault();
 
           const existing = document.getElementById('wk-image-overlay');
@@ -4798,7 +5071,7 @@ import{_ as l,c as r,o as s,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
             overlay.remove();
           }
         };
-      `})])],-1),o('<p>This way, the customers can send their queries to the sellers of the product.</p><h2 id="display-extra-information-about-the-product-on-your-storefront" tabindex="-1">DISPLAY EXTRA INFORMATION ABOUT THE PRODUCT ON YOUR STOREFRONT <a class="header-anchor" href="#display-extra-information-about-the-product-on-your-storefront" aria-label="Permalink to &quot;DISPLAY EXTRA INFORMATION ABOUT THE PRODUCT ON YOUR STOREFRONT&quot;">​</a></h2><p>This is a newly introduced feature, in which pasting the below code in the product.liquid file</p><p>It will enable you to display extra information about the product on your store&#39;s product description.<br> Therefore, to paste the below given, follow the below process:</p><div class="language-liquid vp-adaptive-theme"><button title="Copy Code" class="copy"></button><span class="lang">liquid</span><pre class="shiki shiki-themes github-light github-dark vp-code" tabindex="0"><code><span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;">    &lt;</span><span style="--shiki-light:#22863A;--shiki-dark:#85E89D;">div</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0;"> class</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;">=</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF;">&quot;wk_product_custom_detail clearfix&quot;</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0;"> data-productid</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;"> =</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF;">&quot;{{</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF;">product</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF;">.</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;">id</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF;">}}&quot;</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0;"> style</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;">=</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF;">&quot;display:none; border-bottom:1px solid #ddd; border-top:1px solid #ddd; padding:5px;&quot;</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;">&gt;&lt;/</span><span style="--shiki-light:#22863A;--shiki-dark:#85E89D;">div</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;">&gt;</span></span></code></pre></div><ul><li>Go To Themes</li><li>Click on Customize Theme button</li><li>Click on Edit HTML/CSS button</li><li>Select product.liquid file from the Templates where you want to show the link</li><li>Paste the code</li><li>Click on save</li></ul><p><em>Moreover, Pasting this code will enable you to display the custom field you have created for the product description page on the store front end.</em></p><h2 id="display-brand-name-on-product-page-storefront" tabindex="-1">Display Brand Name on product page storefront <a class="header-anchor" href="#display-brand-name-on-product-page-storefront" aria-label="Permalink to &quot;Display Brand Name on product page storefront&quot;">​</a></h2><h4 id="configuration" tabindex="-1">Configuration <a class="header-anchor" href="#configuration" aria-label="Permalink to &quot;Configuration&quot;">​</a></h4><p>We have added Brand Name field under product form customisation.</p><p>This field will be disabled by default. Admin needs to enable it fro products &gt;&gt; <strong>product form customization &gt;&gt; brand name</strong></p>',11),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
+      `})])],-1),o("",11),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
           event.preventDefault();
 
           const existing = document.getElementById('wk-image-overlay');
@@ -6910,7 +7183,7 @@ import{_ as l,c as r,o as s,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
             overlay.remove();
           }
         };
-      `})])],-1),o('<h2 id="test-email-button-for-all-templates" tabindex="-1">Test Email Button for All Templates <a class="header-anchor" href="#test-email-button-for-all-templates" aria-label="Permalink to &quot;Test Email Button for All Templates&quot;">​</a></h2><p>We have introduced a new feature in the <strong>Multivendor Admin Panel</strong> that allows the admin to send a <strong>test email for all email templates</strong>.</p><p>With this option, the admin can:</p><ul><li>Enter the <strong>email ID</strong> where they want to receive the test email</li><li><strong>Edit the content</strong> of the test email before sending</li><li>Review how the email <strong>appears in the inbox</strong></li></ul><p>This helps ensure that all email templates are properly configured and displayed as expected.</p>',5),n("p",null,[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2026/04/testemaill.webp",alt:"Test Email Configuration",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+      `})])],-1),o("",5),n("p",null,[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2026/04/testemaill.webp",alt:"Test Email Configuration",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
         const existing = document.getElementById('wk-image-overlay');
         if(existing) existing.remove();
 
@@ -8820,7 +9093,7 @@ import{_ as l,c as r,o as s,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
             overlay.remove();
           }
         };
-      `})])],-1),o('<p>This way, you can attach &quot;Seller to Customer&quot; Invoice with the Order fulfillment mail to send it to customers.</p><h2 id="multivendor-marketplace-digital-storage-plans" tabindex="-1">Multivendor Marketplace: Digital Storage Plans <a class="header-anchor" href="#multivendor-marketplace-digital-storage-plans" aria-label="Permalink to &quot;Multivendor Marketplace: Digital Storage Plans&quot;">​</a></h2><p>Wish to increase your Multivendor Marketplace digital storage?</p><p>Check out: <a href="/zenith/digital-storage/digital-storage.html">Multi-Vendor Marketplace for Shopify: Digital Storage</a></p><h2 id="add-header-footer-to-the-mail-templates" tabindex="-1">Add Header &amp; Footer to the Mail Templates <a class="header-anchor" href="#add-header-footer-to-the-mail-templates" aria-label="Permalink to &quot;Add Header &amp; Footer to the Mail Templates&quot;">​</a></h2><p>You will now have the option to choose if you want to add header &amp; footer to the mail templates of the mail send to sellers and the customers or not.</p><p>You can visit the <strong>Mail Configuration</strong> menu of the app and enable/disable the settings as per the requirement.</p>',7),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
+      `})])],-1),o("",7),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
           event.preventDefault();
 
           const existing = document.getElementById('wk-image-overlay');
@@ -9972,7 +10245,7 @@ import{_ as l,c as r,o as s,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
             overlay.remove();
           }
         };
-      `})])],-1),o('<p>Clicking the &quot;Cancel Fulfillment&quot; button, the seller can cancel the fulfillment of an order and the same would reflect in the order detail section of the admin panel.</p><blockquote><p><strong>Note</strong>:- The sellers will not get the option to cancel the order fulfillment in case the order is fulfilled by the admin.</p><p>This feature will work in these shipping methods: FedEx, Vamaship, USPS, UPS, Marketplace Shipping, Free shipping, and Others.</p></blockquote><h2 id="allow-seller-to-accept-reject-order" tabindex="-1">Allow Seller to Accept/Reject Order <a class="header-anchor" href="#allow-seller-to-accept-reject-order" aria-label="Permalink to &quot;Allow Seller to Accept/Reject Order&quot;">​</a></h2><p>You can now choose whether you want the sellers to accept or reject the orders from their respective seller panels.</p><p>Go to Configuration&gt;&gt;Order Configuration&gt;&gt;Enable <strong>Allow Seller to Accept Order</strong>&gt;&gt;Save Changes.</p>',5),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
+      `})])],-1),o("",5),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
           event.preventDefault();
 
           const existing = document.getElementById('wk-image-overlay');
@@ -11700,7 +11973,7 @@ import{_ as l,c as r,o as s,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
             overlay.remove();
           }
         };
-      `})])],-1),o('<p>In case you <strong>enable</strong> the Auto Cancel Order on Reject option:-</p><p>Then, all the items of this rejected order will get <strong>restocked</strong> and if the order is Paid &amp; Captured, then, the order amount will be refunded.</p><p>In case you <strong>disable</strong> the Auto Cancel Order on Reject option:-</p><p>Then, you need to manually restock the items in your store and manage the refund accordingly.</p><h2 id="restock-inventory-on-order-rejection" tabindex="-1">Restock Inventory on Order Rejection <a class="header-anchor" href="#restock-inventory-on-order-rejection" aria-label="Permalink to &quot;Restock Inventory on Order Rejection&quot;">​</a></h2><p>A <strong>Restock Inventory</strong> checkbox will be displayed in the order rejection pop-up when a seller cancels or rejects an order.</p><p><strong>Note:</strong> This checkbox will only be visible if the <strong>Auto Cancel Order on Reject</strong> configuration is enabled.</p><p>By default, the checkbox will be selected. While rejecting the order, the admin can choose whether they want the product inventory to be restocked or not by selecting or deselecting this option.</p>',8),n("p",null,[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/restock.webp",alt:"Restock Inventory",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+      `})])],-1),o("",8),n("p",null,[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/restock.webp",alt:"Restock Inventory",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
         const existing = document.getElementById('wk-image-overlay');
         if(existing) existing.remove();
 
@@ -12175,7 +12448,7 @@ import{_ as l,c as r,o as s,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
             overlay.remove();
           }
         };
-      `})])],-1),o('<h2 id="managed-delivered-order-status-in-mvm" tabindex="-1">Managed &quot;Delivered&quot; order status in MVM <a class="header-anchor" href="#managed-delivered-order-status-in-mvm" aria-label="Permalink to &quot;Managed &quot;Delivered&quot; order status in MVM&quot;">​</a></h2><p>We’ve introduced a new enhancement in our Multi Vendor Marketplace app – <strong>Delivered</strong> status can now be <strong>managed and updated directly within the MVM app</strong>, similar to how Shopify handles order updates.</p><p>Once an order is marked as <strong>fulfilled</strong>, sellers now get the option to <strong>enter delivery details</strong> <strong>manually</strong>.</p><p>They can mark the item as “Delivered” and mention the <strong>exact delivery date</strong> using the <strong>&quot;Enter Delivery Details&quot;</strong> action.</p><p>This brings better sync between the <strong>Shopify order status</strong> and the <strong>MVM panel</strong>, ensuring transparency and efficiency.</p><h2 id="add-expected-delivery-date" tabindex="-1">Add Expected Delivery Date <a class="header-anchor" href="#add-expected-delivery-date" aria-label="Permalink to &quot;Add Expected Delivery Date&quot;">​</a></h2><p>You can allow sellers to add an expected delivery date for the orders.</p><p>For this, you need to visit the admin panel&gt;&gt;Go to Configurations&gt;&gt;Order Configurations.</p><p>Enable the option from here:-</p>',9),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
+      `})])],-1),o("",9),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
           event.preventDefault();
 
           const existing = document.getElementById('wk-image-overlay');
@@ -12751,7 +13024,7 @@ import{_ as l,c as r,o as s,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
             overlay.remove();
           }
         };
-      `})])],-1),o('<p>Note:- The expected delivery date variable is provided for the emails.</p><h2 id="wallet-app-compatible-with-multi-vendor-for-discount-via-wallet-feature" tabindex="-1">Wallet App Compatible with Multi-vendor for Discount via Wallet Feature <a class="header-anchor" href="#wallet-app-compatible-with-multi-vendor-for-discount-via-wallet-feature" aria-label="Permalink to &quot;Wallet App Compatible with Multi-vendor for Discount via Wallet Feature&quot;">​</a></h2><p>You might be using the <a href="https://apps.shopify.com/wallet-management" target="_blank" rel="noreferrer">Wallet Management app</a> to offer a discount to your customers via Webkul wallet.</p><p>Now, if the &quot;<strong>Manage Discount on Orders</strong>&quot; tab is ON from the Seller payment Configuration of the Multi-vendor app then</p><p>the discount offered to customers via Webkul Wallet (through Wallet Management App) will be managed in the app.<br><a href="/zenith/configuration/discount-configuration.html#create-discounts-on-order">Know how to Manage Discount on Orders</a></p><p>The amount paid via wallet will appear in the invoice of each order placed on your store.</p><p>Kindly navigate to Multivendor Marketplace Admin Panel &gt;&gt; Go to Payment &gt;&gt; Seller Payment Configuration &gt;&gt;Payment Setting &gt;&gt; Enable the option “Manage discount on order”.</p><p>Refer to the screenshots below:</p>',8),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
+      `})])],-1),o("",8),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
           event.preventDefault();
 
           const existing = document.getElementById('wk-image-overlay');
@@ -15520,7 +15793,7 @@ import{_ as l,c as r,o as s,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
             overlay.remove();
           }
         };
-      `})])],-1),o('<h2 id="create-shopify-private-apps-in-mvm" tabindex="-1">Create Shopify Private Apps in MVM <a class="header-anchor" href="#create-shopify-private-apps-in-mvm" aria-label="Permalink to &quot;Create Shopify Private Apps in MVM&quot;">​</a></h2><p>You can now add a maximum of 5 private apps to the Multi-vendor Marketplace app.</p><p>You can create Shopify Private Apps and configure them in the app to resolve the API limit issue.</p><p>NOTE:-<br> From here, you can add <strong>a maximum of 5 private apps</strong> to the multi-vendor app.<br> Firstly, you need to <strong>provide the required permissions</strong> in the Shopify private app.</p><p><strong>PERMISSIONS REQUIRED</strong></p><ol><li>For <strong>PRODUCT:</strong>- View or manage products, variants, and collections<br> Access scopes: read_products, write_products</li><li>For <strong>INVENTORY</strong>:- View or manage inventory across multiple locations<br> Access scopes: read_inventory, write_inventory</li></ol><p>Version Supported:- The webhook API version should be <strong>2020-01</strong></p><p><strong>MARK:- Be very specific about the permissions. If it is wrong, no data will be updated as no API gets hit.</strong></p><p>To Add a Shopify Private App into the app, you need to visit the admin panel&gt;&gt;Configurations&gt;&gt;click <strong>Shopify Private App</strong> sub-menu.</p>',9),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
+      `})])],-1),o("",9),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
           event.preventDefault();
 
           const existing = document.getElementById('wk-image-overlay');
@@ -16288,7 +16561,7 @@ import{_ as l,c as r,o as s,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
             overlay.remove();
           }
         };
-      `})])],-1),o('<p>Also Note:- In case you want to delete the private app on Shopify, firstly you need to delete/disable the same in the app.</p><p>Otherwise, the access token will get expired and no API call gets hit from the Multi-vendor app.</p><p><a href="/zenith/configuration/shopify-custom-apps.html">Explore more about shopify custom/private app in details</a></p><h2 id="avalara-avatax" tabindex="-1">Avalara Avatax <a class="header-anchor" href="#avalara-avatax" aria-label="Permalink to &quot;Avalara Avatax&quot;">​</a></h2><p><a href="https://www.avalara.com/us/en/index.html" target="_blank" rel="noreferrer">Avalara</a> is now integrated with the Multi-vendor Marketplace app for Shopify to let merchants automate the sales tax calculation for sellers products too.</p><p>There are a few restrictions to use this feature:-</p><ul><li>The merchant needs to install the Avalara Avatax app in the Shopify admin.</li><li>The Avalara Avatax is available only with the Shopify Plus plan.</li></ul><p>To enable the feature in the app, you need to visit the Product Configuration and enable the option AVALARA AVATAX.</p><p>Now, you will have two options to add &quot;Tax codes&quot; in the app.</p><p>Either to a product that will be applied to all the variants of the respective product OR you can apply product type-wise tax code.</p><p><strong>CASE 1:- Add Tax code based on Product Type.[&quot;Restrict Product Type&quot; Enabled]</strong></p><p><strong>Note</strong>:- To add the product type-wise tax code, it is mandatory to enable “Restrict Product Type” from the Restriction configuration menu.</p>',12),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
+      `})])],-1),o("",12),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
           event.preventDefault();
 
           const existing = document.getElementById('wk-image-overlay');
@@ -17632,7 +17905,7 @@ import{_ as l,c as r,o as s,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
             overlay.remove();
           }
         };
-      `})])],-1),o('<p>Use the <strong>&quot;Save &amp; Export&quot;</strong> option to save the selected fields (added to &quot;Saved Lists&quot;). Then download the commission data as a .csv file for the specified date range.</p><p>The <strong>&quot;Saved List&quot;</strong> feature displays all saved field configurations, allowing quick selection of a date range and easy downloading of the commission data as a .csv file.</p><h2 id="total-sales-column-in-seller-export-csv" tabindex="-1">&quot;Total Sales&quot; Column in Seller Export CSV <a class="header-anchor" href="#total-sales-column-in-seller-export-csv" aria-label="Permalink to &quot;&quot;Total Sales&quot; Column in Seller Export CSV&quot;">​</a></h2><p>Admins can now include a Total Sales column when exporting seller details.</p><p>The total sales of a seller represent the total revenue earned from all goods they have sold within a given period.</p><p>For exporting Seller Details navigate to: <strong>Admin Dashboard&gt;&gt;Seller&gt;&gt;Seller Listing&gt;&gt; Export Details</strong>.</p>',6),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
+      `})])],-1),o("",6),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
           event.preventDefault();
 
           const existing = document.getElementById('wk-image-overlay');
@@ -17825,7 +18098,7 @@ import{_ as l,c as r,o as s,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
             overlay.remove();
           }
         };
-      `})])],-1),o('<p>Simply check the box for <strong>Total Sales</strong> while selecting the columns, and the information will be included in your exported file.</p><h2 id="option-to-send-digital-download-mail-on-the-order-description-page" tabindex="-1"><strong>Option to send &quot;Digital Download Mail&quot; on the Order Description page</strong> <a class="header-anchor" href="#option-to-send-digital-download-mail-on-the-order-description-page" aria-label="Permalink to &quot;**Option to send &quot;Digital Download Mail&quot; on the Order Description page**&quot;">​</a></h2><p>In the Multivendor Marketplace, admins can send digital download emails directly to customers from the <strong>&#39;Order Details&#39;</strong> section.</p><p><strong>To send Digital Download Mails, Admin needs to navigate to<br> Orders&gt;&gt;Order Listing&gt;&gt; Hover over on 3 dots&gt;&gt; View&gt;&gt;More actions&gt;&gt;Send Digital Download Mail</strong></p>',4),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
+      `})])],-1),o("",4),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
           event.preventDefault();
 
           const existing = document.getElementById('wk-image-overlay');
@@ -18017,7 +18290,7 @@ import{_ as l,c as r,o as s,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
             overlay.remove();
           }
         };
-      `})])],-1),o('<p>This new feature is available exclusively for digital products, ensuring a seamless delivery experience for the admin and the customer.</p><p><strong>Note: This option will appear once the order is paid or fulfilled.</strong></p><p><a href="/zenith/configuration/configuration-updates.html"><strong>CONFIGURATION UPDATES</strong></a></p><p><a href="/zenith/configuration/seller-configuration.html"><strong>SELLER UPDATES</strong></a></p><p><a href="/zenith/configuration/product-configration.html"><strong>PRODUCT UPDATES</strong></a></p><h2 id="filter-orders-by-customer-name-in-order-listings" tabindex="-1">Filter Orders by Customer Name in Order Listings <a class="header-anchor" href="#filter-orders-by-customer-name-in-order-listings" aria-label="Permalink to &quot;Filter Orders by Customer Name in Order Listings&quot;">​</a></h2><p>If the admin wants to view a specific seller&#39;s orders in the order listing, they can apply the &#39;Search by Customer Name&#39; filter.</p><p>Once the filter is applied, only the orders related to the selected seller&#39;s products will be visible.</p>',8),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
+      `})])],-1),o("",8),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
           event.preventDefault();
 
           const existing = document.getElementById('wk-image-overlay');

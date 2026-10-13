@@ -3545,7 +3545,98 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
             overlay.remove();
           }
         };
-      `})])],-1),n("h2",{id:"ask-a-question-regarding-the-product",tabindex:"-1"},[e("ASK A QUESTION REGARDING THE PRODUCT "),n("a",{class:"header-anchor",href:"#ask-a-question-regarding-the-product","aria-label":'Permalink to "ASK A QUESTION REGARDING THE PRODUCT"'},"​")],-1),n("p",null,[n("strong",null,"ADMIN PANEL:-")],-1),n("p",null,'Admin can view the list of all asked questions asked by customers in the "ASK A QUESTION" section under the "Products " menu of the app.',-1),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
+      `})])],-1),n("h3",{id:"custom-captcha-on-seller-profile-page",tabindex:"-1"},[e("Custom Captcha on Seller Profile page "),n("a",{class:"header-anchor",href:"#custom-captcha-on-seller-profile-page","aria-label":'Permalink to "Custom Captcha on Seller Profile page"'},"​")],-1),n("p",null,"Customers will need to enter a Captcha code while raising an inquiry from the seller profile page on the frontend. This enhances security by preventing automated spam and unauthorized access.",-1),n("p",null,[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/captcha-1200x531.webp",alt:"captcha",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+        const existing = document.getElementById('wk-image-overlay');
+        if(existing) existing.remove();
+
+        const overlay = document.createElement('div');
+        overlay.id = 'wk-image-overlay';
+
+        overlay.style.cssText = \`
+          position:fixed;
+          inset:0;
+          background:rgba(0,0,0,0.88);
+          display:flex;
+          align-items:center;
+          justify-content:center;
+          z-index:99999;
+          padding:20px;
+          cursor:zoom-out;
+          overflow:hidden;
+          backdrop-filter: blur(3px);
+        \`;
+
+        // 🔹 CLOSE BUTTON
+        const closeBtn = document.createElement('div');
+        closeBtn.innerHTML = '&times;';
+
+        closeBtn.style.cssText = \`
+          position:absolute;
+          top:20px;
+          right:25px;
+          color:#fff;
+          font-size:42px;
+          font-weight:bold;
+          cursor:pointer;
+          z-index:100000;
+          line-height:1;
+          user-select:none;
+        \`;
+
+        closeBtn.onclick = () => {
+          overlay.remove();
+        };
+
+        const img = document.createElement('img');
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/captcha-1200x531.webp";
+
+        img.style.cssText = \`
+          max-width:95%;
+          max-height:95%;
+          border-radius:12px;
+          transition:transform .15s ease;
+          cursor:zoom-in;
+          will-change:transform;
+          user-select:none;
+        \`;
+
+        let scale = 1;
+
+        // scroll zoom
+        overlay.onwheel = (e) => {
+          e.preventDefault();
+
+          scale += e.deltaY * -0.001;
+          scale = Math.min(Math.max(1, scale), 5);
+
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        // double click zoom
+        img.ondblclick = () => {
+          scale = scale === 1 ? 2 : 1;
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        overlay.appendChild(closeBtn);
+        overlay.appendChild(img);
+
+        document.body.appendChild(overlay);
+
+        // close overlay
+        overlay.onclick = (e) => {
+          if (e.target === overlay) {
+            overlay.remove();
+          }
+        };
+
+        // esc close
+        document.onkeydown = (e) => {
+          if (e.key === 'Escape') {
+            overlay.remove();
+          }
+        };
+      `})],-1),n("h2",{id:"ask-a-question-regarding-the-product",tabindex:"-1"},[e("ASK A QUESTION REGARDING THE PRODUCT "),n("a",{class:"header-anchor",href:"#ask-a-question-regarding-the-product","aria-label":'Permalink to "ASK A QUESTION REGARDING THE PRODUCT"'},"​")],-1),n("p",null,[n("strong",null,"ADMIN PANEL:-")],-1),n("p",null,'Admin can view the list of all asked questions asked by customers in the "ASK A QUESTION" section under the "Products " menu of the app.',-1),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
           event.preventDefault();
 
           const existing = document.getElementById('wk-image-overlay');
@@ -7385,7 +7476,98 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
             overlay.remove();
           }
         };
-      `})])],-1),n("h2",{id:"admin-can-monitor-the-queries-from-the-admin-panel",tabindex:"-1"},[e("Admin can monitor the queries from the admin panel. "),n("a",{class:"header-anchor",href:"#admin-can-monitor-the-queries-from-the-admin-panel","aria-label":'Permalink to "Admin can monitor the queries from the admin panel."'},"​")],-1),n("p",null,[e("Admin can view & reply to the queries by visiting the multivendor "),n("strong",null,"admin panel >"),e(),n("strong",null,"Orders"),e(),n("strong",null,"> Order queries:")],-1),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
+      `})])],-1),n("h3",{id:"custom-captcha-on-order-page",tabindex:"-1"},[e("Custom Captcha on Order page "),n("a",{class:"header-anchor",href:"#custom-captcha-on-order-page","aria-label":'Permalink to "Custom Captcha on Order page"'},"​")],-1),n("p",null,"Customers will need to enter a Captcha code while raising an inquiry for an order on the frontend. This enhances security by preventing automated spam and unauthorized access.",-1),n("p",null,[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/ordercaptcha-1200x543.webp",alt:"captcha3",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+        const existing = document.getElementById('wk-image-overlay');
+        if(existing) existing.remove();
+
+        const overlay = document.createElement('div');
+        overlay.id = 'wk-image-overlay';
+
+        overlay.style.cssText = \`
+          position:fixed;
+          inset:0;
+          background:rgba(0,0,0,0.88);
+          display:flex;
+          align-items:center;
+          justify-content:center;
+          z-index:99999;
+          padding:20px;
+          cursor:zoom-out;
+          overflow:hidden;
+          backdrop-filter: blur(3px);
+        \`;
+
+        // 🔹 CLOSE BUTTON
+        const closeBtn = document.createElement('div');
+        closeBtn.innerHTML = '&times;';
+
+        closeBtn.style.cssText = \`
+          position:absolute;
+          top:20px;
+          right:25px;
+          color:#fff;
+          font-size:42px;
+          font-weight:bold;
+          cursor:pointer;
+          z-index:100000;
+          line-height:1;
+          user-select:none;
+        \`;
+
+        closeBtn.onclick = () => {
+          overlay.remove();
+        };
+
+        const img = document.createElement('img');
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/ordercaptcha-1200x543.webp";
+
+        img.style.cssText = \`
+          max-width:95%;
+          max-height:95%;
+          border-radius:12px;
+          transition:transform .15s ease;
+          cursor:zoom-in;
+          will-change:transform;
+          user-select:none;
+        \`;
+
+        let scale = 1;
+
+        // scroll zoom
+        overlay.onwheel = (e) => {
+          e.preventDefault();
+
+          scale += e.deltaY * -0.001;
+          scale = Math.min(Math.max(1, scale), 5);
+
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        // double click zoom
+        img.ondblclick = () => {
+          scale = scale === 1 ? 2 : 1;
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        overlay.appendChild(closeBtn);
+        overlay.appendChild(img);
+
+        document.body.appendChild(overlay);
+
+        // close overlay
+        overlay.onclick = (e) => {
+          if (e.target === overlay) {
+            overlay.remove();
+          }
+        };
+
+        // esc close
+        document.onkeydown = (e) => {
+          if (e.key === 'Escape') {
+            overlay.remove();
+          }
+        };
+      `})],-1),n("h2",{id:"admin-can-monitor-the-queries-from-the-admin-panel",tabindex:"-1"},[e("Admin can monitor the queries from the admin panel. "),n("a",{class:"header-anchor",href:"#admin-can-monitor-the-queries-from-the-admin-panel","aria-label":'Permalink to "Admin can monitor the queries from the admin panel."'},"​")],-1),n("p",null,[e("Admin can view & reply to the queries by visiting the multivendor "),n("strong",null,"admin panel >"),e(),n("strong",null,"Orders"),e(),n("strong",null,"> Order queries:")],-1),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
           event.preventDefault();
 
           const existing = document.getElementById('wk-image-overlay');
