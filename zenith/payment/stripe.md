@@ -203,6 +203,29 @@ If the seller has configured the express account, he will have the option to red
 
 [![image-166](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/07/image-166-1200x627.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/07/image-166-1200x627.png)
 
+
+### Stripe Onboarding Steps When Seller Capabilities Are Inactive
+
+Once a seller connects their Stripe account, the MVM app displays the **Stripe Configuration Detail** page, showing the account's setup status, pending requirements, and capabilities.
+
+If the seller's Stripe onboarding is incomplete or certain capabilities are inactive or restricted, an alert appears at the top of the page with a **Complete Setup** button.
+
+![camp](https://cdnblog.webkul.com/blog/wp-content/uploads/2017/11/stripecap-1200x478.webp)
+
+The page displays the following details:
+
+*   **Setup Status:** Indicates whether the Stripe account setup is complete or requires further action.
+*   **Pending Requirements:** Lists the outstanding verification details the seller needs to provide, including any overdue requirements.
+*   **Account Capabilities:** Shows the status of available capabilities, such as card payments, payouts, and Stripe transfers.
+
+The seller can click **Complete Setup** to continue the Stripe onboarding process and provide the required information.
+
+Once the outstanding requirements are completed and Stripe activates the relevant capabilities, the account status can be updated accordingly.
+
+![e](https://cdnblog.webkul.com/blog/wp-content/uploads/2017/11/complete-1200x551.webp)
+
+This helps sellers identify incomplete onboarding requirements and understand which actions are needed before they can use the relevant Stripe payment and payout features.
+
  CUSTOMER FRONTEND
 ---------------
 At the checkout page, a customer can choose the "Stripe Connect" payment method to pay for the order.

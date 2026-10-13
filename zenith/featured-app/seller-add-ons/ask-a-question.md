@@ -175,6 +175,12 @@ By enabling this, customers will have the following button on the seller profile
 
 [![Seller-Profile-–-Multivendor-ask-a-question-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/08/Seller-Profile-%E2%80%93-Multivendor-ask-a-question-1.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/08/Seller-Profile-%E2%80%93-Multivendor-ask-a-question-1.png)
 
+### Custom Captcha on Seller Profile page
+
+Customers will need to enter a Captcha code while raising an inquiry from the seller profile page on the frontend. This enhances security by preventing automated spam and unauthorized access.
+
+![captcha](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/captcha-1200x531.webp)
+
  ASK A QUESTION REGARDING THE PRODUCT
 -------------
 **ADMIN PANEL:-**
@@ -304,6 +310,14 @@ Further, clicking on the **view** button, the customer can view all the conversa
 [![Ask a Question ](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/ask-a-question-%E2%80%93-Multivendor-ask-a-question-3.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/ask-a-question-%E2%80%93-Multivendor-ask-a-question-3.png)
 
 [![Ask a Question ](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/10/ask-a-question-%E2%80%93-Multivendor-ask-a-question-2.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/10/ask-a-question-%E2%80%93-Multivendor-ask-a-question-2.png)
+
+
+### Custom Captcha on Order page
+
+Customers will need to enter a Captcha code while raising an inquiry for an order on the frontend. This enhances security by preventing automated spam and unauthorized access.
+
+![captcha3](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/ordercaptcha-1200x543.webp)
+
 
 Admin can monitor the queries from the admin panel.
 ---------------------------------------------------

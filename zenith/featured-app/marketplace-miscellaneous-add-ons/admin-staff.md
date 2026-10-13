@@ -118,6 +118,18 @@ Moreover, they can also change their account password as per their preference
 
 That is how, an added staff can manage the admin's account.
 
+Require Login for Shopify App access-
+** Enable this option to restrict Admin/Staff users from accessing the app through Shopify login. Once enabled, they must log in through the Admin Staff Login Panel using their credentials.**
+
+https://cdnblog.webkul.com/blog/wp-content/uploads/2026/09/adminstaff.webp
+
+
+## Require Login for Shopify App Access
+
+Enable this option to restrict Admin/Staff users from accessing the app through Shopify login. Once enabled, they must log in through the Admin Staff Login Panel using their credentials.
+
+[![Admin Staff Login Panel](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/09/adminstaff.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/09/adminstaff.webp)
+
 ### Demo Link
 
 [https://egsma.io/shopify-multivendor-marketplace/](https://egsma.io/shopify-multivendor-marketplace/)

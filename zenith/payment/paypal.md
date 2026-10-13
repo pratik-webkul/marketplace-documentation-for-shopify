@@ -22,12 +22,15 @@ This feature lets your sellers automatically receive their total earnings once t
 >
 > The **PayPal Payouts** feature must be **enabled on the Marketplace Admin's PayPal account**.
 >
+>The admin can use a personal PayPal account, but the seller must use a PayPal Business account in both cases: Manual Payment and PayPal Payout.
+
 > **The PayPal environment used for payouts must match the Admin's configured PayPal environment.**
 >
 > - If the Admin is using the **Live** environment, the **PayPal Payouts** feature must also be enabled on the **Live** PayPal account.
 > - If the Admin is using the **Sandbox** environment, the **PayPal Payouts** feature must be enabled on the **Sandbox** PayPal account.
 >
 > **A mismatch between the Admin's PayPal environment and the PayPal Payouts environment will prevent payouts from working correctly.**
+
 
  How to configure the PayPal Payout feature?
 -------------------------

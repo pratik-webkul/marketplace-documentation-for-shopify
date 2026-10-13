@@ -37,7 +37,7 @@ Once enabled, you need to configure it.
 
 Visit **Multivendor Admin Panel** > **Configuration** > **Linnworks** **Configuration** > Enter the required details- **Application ID**, **Application Secret**, **Installation URL** & **Channel Name**:
 
-[![Linnworks-App-Configuration-Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/10/Linnworks-App-Configuration-Admin-1200x940.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/10/Linnworks-App-Configuration-Admin-1200x940.png)
+[![Linnworks-App-Configuration-Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/09/linnworks.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/09/linnworks.webp)
 
 At the end of this page, you will have the Manifest that you can download. You will need them at the time you'll create an app on Linnworks.
 
@@ -191,7 +191,7 @@ Click on **Import Products** to import products from Linnworks. Here, you can im
 
 Enter comma-separated SKUs or CSVs to import them:
 
-[![Import-Product-From-Linnworks-Seller-•-Multivendor-MarketPlace](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/12/Import-Product-From-Linnworks-Seller-%E2%80%A2-Multivendor-MarketPlace-1200x893.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/12/Import-Product-From-Linnworks-Seller-%E2%80%A2-Multivendor-MarketPlace-1200x893.png)
+[![Import-Product-From-Linnworks-Seller-•-Multivendor-MarketPlace](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/09/linnwork.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/09/linnwork.webp)
 
 Lastly, the imported products will be listing under product listing section. They can be manually synced with the store if needed:
 
