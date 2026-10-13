@@ -153,6 +153,19 @@ From there, you can disable the "Auto Approve Staff Product" option as per your 
 
 [![Auto Approve Seller Staff Product](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/0376267623.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/0376267623.webp)
 
+
+## New Full Access Configuration in the Seller Staff Feature
+
+We have introduced a new **Full Access** configuration in the Seller Staff feature, allowing sellers to manage staff permissions more efficiently.
+
+When adding a new staff member or editing an existing one, sellers can enable the **Full Access** option to grant them access to the entire seller panel.
+
+Alternatively, if sellers want to provide limited access to their staff, they can leave the **Full Access** option disabled and use the available checkboxes to select or deselect specific permissions based on their requirements.
+
+This enhancement provides greater flexibility in managing staff access and helps sellers control which sections and functionalities of the seller panel their staff members can access.
+
+![Full Access Configuration](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/10/sellerstaff.webp)
+
 ### Demo Details
 
 Follow the below links to use the demo of Multivendor Marketplace app for Shopify:
