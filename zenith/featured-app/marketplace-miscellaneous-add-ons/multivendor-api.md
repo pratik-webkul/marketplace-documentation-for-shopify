@@ -70,7 +70,7 @@ API Doc includes all the URLs listed in POST, GET, PUT & DELETE method.
 
 **DELETE Method** of API is to delete resources from the database.
 
-[![AwesomeScreenshot-shopify-trunk-webkul-mvmapi-2019-07-31_2_45](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/07/31091605/AwesomeScreenshot-shopify-trunk-webkul-mvmapi-2019-07-31_2_45.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/07/31091605/AwesomeScreenshot-shopify-trunk-webkul-mvmapi-2019-07-31_2_45.png)
+[![AwesomeScreenshot-shopify-trunk-webkul-mvmapi-2019-07-31_2_45](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/07/apiv3-1200x574.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/07/apiv3-1200x574.webp)
 
 **Base URL**: [https://mvmapi.webkul.com](https://mvmapi.webkul.com/)
 
@@ -183,28 +183,28 @@ After you share the API documentation with the user or seller, they can view the
 1.  Open the API documentation.
 2.  Click the **Authorize** button.
 
-[![AwesomeScreenshot-mvmapi-webkul-2019-08-01_12_28](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/08/01065907/AwesomeScreenshot-mvmapi-webkul-2019-08-01_12_28.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/08/01065907/AwesomeScreenshot-mvmapi-webkul-2019-08-01_12_28.png)
+[![AwesomeScreenshot-mvmapi-webkul-2019-08-01_12_28](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/07/apiv3-2-1200x574.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/07/apiv3-2-1200x574.webp)
 
 *   Clicking the Authorize button, get the option to enter the value as **Bearer {access\_token}** and click the **Authorize** button.  
     **NOTE**: The value that needs to be entered in the box: **Bearer {access\_token}**. You need to add 'Bearer' prior to the access token. Here is an example: **Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9**
 
-[![AwesomeScreenshot-mvmapi-webkul-2019-08-01_12_35](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/08/01070552/AwesomeScreenshot-mvmapi-webkul-2019-08-01_12_35.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/08/01070552/AwesomeScreenshot-mvmapi-webkul-2019-08-01_12_35.png)
+[![AwesomeScreenshot-mvmapi-webkul-2019-08-01_12_35](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/07/v3api2-1-1200x574.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/07/v3api2-1-1200x574.webp)
 
 *   Click the **Done** button.
 
-[![AwesomeScreenshot-mvmapi-webkul-2019-08-01_12_36](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/08/01070715/AwesomeScreenshot-mvmapi-webkul-2019-08-01_12_36.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/08/01070715/AwesomeScreenshot-mvmapi-webkul-2019-08-01_12_36.png)
+[![AwesomeScreenshot-mvmapi-webkul-2019-08-01_12_36](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/07/v3api3-1-1200x574.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/07/v3api3-1-1200x574.webp)
 
 *   Now, the seller/user will open any of the resources to check the response.
 
-[![AwesomeScreenshot-mvmapi-webkul-2019-08-01_12_42](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/08/01071313/AwesomeScreenshot-mvmapi-webkul-2019-08-01_12_42.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/08/01071313/AwesomeScreenshot-mvmapi-webkul-2019-08-01_12_42.png)
+[![AwesomeScreenshot-mvmapi-webkul-2019-08-01_12_42](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/07/v3api4-1-1200x574.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/07/v3api4-1-1200x574.webp)
 
 *   Click the **Try it out** button to check the action.
 
-[![AwesomeScreenshot-mvmapi-webkul-2019-08-01_12_40-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/08/01071146/AwesomeScreenshot-mvmapi-webkul-2019-08-01_12_40-1.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/08/01071146/AwesomeScreenshot-mvmapi-webkul-2019-08-01_12_40-1.png)
+[![AwesomeScreenshot-mvmapi-webkul-2019-08-01_12_40-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/07/v3api5-1.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/07/v3api5-1.webp)
 
 *   Lastly, click the **Execute** button.
 
-[![AwesomeScreenshot-mvmapi-webkul-2019-08-01_12_44](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/08/01071528/AwesomeScreenshot-mvmapi-webkul-2019-08-01_12_44.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/08/01071528/AwesomeScreenshot-mvmapi-webkul-2019-08-01_12_44.png)
+[![AwesomeScreenshot-mvmapi-webkul-2019-08-01_12_44](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/07/v3api6-1-1200x574.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/07/v3api6-1-1200x574.webp)
 
 This way, the seller/user can get the response for different actions performed in the app.
 
