@@ -537,6 +537,35 @@ Click on Product Form Customization from the main menu of the app and select th
 
 [![MULTIVENDOR MARKETPLACE](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/productform-1-scaled.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/productform-1-scaled.webp)
 
+## How to Make Shipping Method Selection Mandatory for Sellers
+
+The Multivendor Marketplace app allows the admin to make shipping method selection mandatory for sellers when adding or editing products. This ensures that sellers select the required shipping method before saving a product.
+
+If the shipping method is configured as a required field, sellers must select a shipping method on the product Add page. If they do not select one, they will not be able to save the product.
+
+### Steps to Make Shipping Method Selection Mandatory
+
+To configure this setting, the admin needs to follow these steps:
+
+1. Log in to the **Multi Vendor Marketplace Admin Panel**.
+2. Navigate to **Product → Product Form Customization**.
+3. Locate the **Require Shipping** checkbox and tick it to make shipping method selection mandatory.
+4. Save the configuration.
+
+![Require Shipping Configuration](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/10/com.webp)
+
+### How It Works
+
+Once this setting is enabled, sellers must select a shipping method while adding a new product.
+
+- **When enabled:** Selecting a shipping method is mandatory. Sellers cannot save the product without selecting a shipping method.
+
+  ![Shipping Method Required](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/10/comonee.webp)
+
+- **When disabled:** Selecting a shipping method is optional, allowing sellers to save products without selecting one.
+
+This configuration helps the admin ensure that sellers provide the required shipping information for their products before saving them.
+
  HIDE/SHOW PRODUCT IMAGES IN PRODUCT LISTING
 ---------------------------------
 You can now hide/show the product images in the product listing section by enabling/disabling the below configuration from the product configuration section.
