@@ -719,6 +719,21 @@ You can do this by navigating to the Multivendor Admin Panel >> Configuration >>
 [![image](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/draftt.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/draftt.webp)
 
 
+## Change an Active Product to Draft
+
+Sellers can now change an active product's status back to **Draft** from the Seller Panel.
+
+To enable this functionality, the admin must ensure that the following configurations are enabled in the MultiVendor Marketplace app:
+
+- **Save Product as Draft**
+- **Create Product as Draft on Shopify**
+
+Once both configurations are enabled, sellers can change their active products to Draft status as required.
+
+![Change Active Product to Draft](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/10/draftproduct.webp)
+
+![Draft Product Configuration](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/10/draftstatus.webp)
+
 **Shopify Taxonomy category added to the product form**
 ------------------------------------------
 We've added a new option to the Product form: Shopify Taxonomy Category, making product categorization easier and more accurate.
