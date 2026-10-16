@@ -308,6 +308,7 @@ markdown: {
           collapsed: true,
           items: [
             { text: '2-Step Auth configuration', link: '/zenith/configuration/2-step-auth-configuration' },
+            { text: 'Analytics', link: '/zenith/configuration/analytics' },
             { text: 'Configuration updates', link: '/zenith/configuration/configuration-updates' },
             { text: 'Custom fields', link: '/zenith/configuration/custom-fields' },
             { text: 'Discount configuration', link: '/zenith/configuration/discount-configuration' },
