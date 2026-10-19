@@ -24,7 +24,7 @@ To install the add-on, visit the **Admin Panel** of **ChatWhizz**. From here, 
 
 There are different plans to choose from. You can opt for a plan that is suitable for your business needs.
 
-[![r6](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/08/r6-1004x1024.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/08/r6-1004x1024.png)
+[![r6](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/10/sellerbuyer1.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/10/sellerbuyer1.webp)
 
  Installation at Multivendor Marketplace End: Seller-Buyer Chat Add-on
 -----------------------
