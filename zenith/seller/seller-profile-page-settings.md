@@ -372,6 +372,20 @@ To keep it effective and consistent:
 
 These values will automatically be used as the meta title and meta description on the seller's collection page.
 
+### Sync Seller Image and Description with the Corresponding Shopify Collection
+
+Follow these steps to sync the seller's image and description with the corresponding Shopify collection:
+
+1.  Go to **MVM Admin Panel > Sellers > Seller Profile Page Settings**.
+2.  Enable **Sync Seller Details With Seller Collection**.
+3.  Select the details you want to sync, such as the seller's image and description.
+4.  Click **Save Changes** to apply the settings.
+
+Once configured, the selected seller details will sync with the corresponding Shopify collection.
+
+![collection](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/collection-1200x564.webp)
+
+
  CODE IMPLEMENTATION FOR SELLER COLLECTION PAGE:
 -----------------------
 You need to add these codes for the seller collection pages:

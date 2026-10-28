@@ -13,7 +13,7 @@ Here we are with the [Multivendor Marketplace](/zenith/introduction/overview.ht
 
 Till now, you were using the API Version 1 to allow users to access the Multi-vendor APIs in [Multi-vendor Marketplace app](/zenith/introduction/overview.html) for Shopify.
 
-Now, we have introduced the **Multi-vendor API Version 2**.
+Now, we have introduced the **Multi-vendor API Version 3**.
 
 With this upgraded version, you can allow the sellers to get access to Multi-vendor APIs and let them check the responses for various actions performed in the app.
 
@@ -39,18 +39,18 @@ Besides that, this will have additional charges of USD15 per month over and abov
 
 Click the **ENABLE** button to activate the Multi-vendor API feature app.
 
- Features of Multi-vendor API Version 2
+ Features of Multi-vendor API Version 3
 -----------------
-*   Admin can **add multiple users** and **generate API credentials** to let them access Multi-vendor API for version 2.
+*   Admin can **add multiple users** and **generate API credentials** to let them access Multi-vendor API for Version 3.
 *   Admin can **assign permissions** to users for various resources such as Products, Orders & Account Info.
 *   From the **Seller Listing** section, admin can **generate API credentials** for the sellers.
 *   Sellers will get the access token & refresh token from their respective "**My Account**" sections.
 *   After that, the seller will get **access to the Multi-vendor API** for the permitted fields.
 
-**[Multi-vendor API Doc](https://mvmapi.webkul.com/)** [](https://mvmapi.webkul.com/)will be provided to the admin in the app.
+**[Multi-vendor API Doc](https://mvmapi.webkul.com/api/v3/)** [](https://mvmapi.webkul.com/api/v3/)will be provided to the admin in the app.
 
 > Please Note:-  
-> 1\. With the upgraded Multi-vendor API version 2, You can allow both Users & sellers to access the API with desired permissions.
+> 1\. With the upgraded Multi-vendor API Version 3, You can allow both Users & sellers to access the API with desired permissions.
 > 
 > So, the provided API credentials will work separately for both of them i.e.
 > 
@@ -70,9 +70,9 @@ API Doc includes all the URLs listed in POST, GET, PUT & DELETE method.
 
 **DELETE Method** of API is to delete resources from the database.
 
-[![AwesomeScreenshot-shopify-trunk-webkul-mvmapi-2019-07-31_2_45](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/07/apiv3-1200x574.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/07/apiv3-1200x574.webp)
+[![AwesomeScreenshot-shopify-trunk-webkul-mvmapi-2019-07-31_2_45](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/10/api.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/10/api.webp)
 
-**Base URL**: [https://mvmapi.webkul.com](https://mvmapi.webkul.com/)
+**Base URL**: [https://mvmapi.webkul.com/api/v3/](https://mvmapi.webkul.com/api/v3/)
 
  How to Add Users?
 --------------
@@ -104,7 +104,7 @@ Now, let's see how the marketplace sellers will get access to multi-vendor APIs.
 -----------------
 #### **ADMIN PANEL**
 
-With this new API Version 2, You can allow sellers to get the API credentials & let them access Multi-vendor APIs with limited permissions.
+With this new API Version 3, You can allow sellers to get the API credentials & let them access Multi-vendor APIs with limited permissions.
 
 You need to follow the below-given steps:-
 

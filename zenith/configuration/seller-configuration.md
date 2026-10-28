@@ -170,6 +170,18 @@ NO OPTION TO DISABLE FEEDBACK ON SELLER END
 
 [![Feedback-Seller-•-Multivendor-MarketPlace](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/feedbackrest.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/feedbackrest.webp)
 
+
+## Customer Favorites and Email Notification Status
+
+Sellers can now view additional customer engagement information for their products in the Seller Panel.
+
+- **Favorite Count:** Sellers can see how many customers have added their products to their favorites.
+- **Email Unsubscribe Count:** Sellers can view how many customers have unsubscribed from email notifications.
+
+This information helps sellers better understand customer interest in their products and track email notification preferences.
+
+![Customer Favorites and Email Notification Status](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/10/customerfav.webp)
+
  Seller Zip code on Seller profile page
 -------------------------------------------
 You can now display the seller zipcode with the seller's address on the seller profile page of your store.
