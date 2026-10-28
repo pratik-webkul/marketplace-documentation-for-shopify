@@ -511,7 +511,7 @@ When a seller downloads the sample CSV file:
 
 We have introduced a new configuration in the **Product Configuration** section of the Multivendor Marketplace Admin Panel: **“Use Display Name in Product Export for Custom Fields.”**
 
-[Display name for custom field in export](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/08/customfield.webp)
+![Display name for custom field in export](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/08/customfield.webp)
 
 This configuration allows you to use a custom **Display Name** for your product custom fields and include the display name in the exported product data instead of the **Field Name**, which was used by default.
 

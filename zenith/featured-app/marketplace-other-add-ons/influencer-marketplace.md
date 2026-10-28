@@ -286,6 +286,26 @@ It creates a **win-win ecosystem** for all parties.
 Whether you're an **admin**, **seller**, or **influencer**, this feature simplifies the entire process efficiently.
 
 
+
+## Influencer Menu Navigation Management
+
+The Influencer Marketplace feature app now supports **Menu Navigation Management**, similar to the existing functionality available for sellers. This feature allows admins to customize and manage the menu navigation displayed in the Influencer Panel.
+
+### Key Features
+
+- **Add Menus and Submenus:** Admins can create new menu items and add submenus under existing menus for the Influencer Panel.
+- **Edit Menu Labels:** Admins can modify menu labels as required.
+- **Enable/Disable Menu Items:** Admins can enable or disable specific menu items based on their requirements.
+- **Reorder Menu Items:** Admins can rearrange the position of menu items to maintain the desired navigation structure.
+
+With these options, admins can easily organize and customize the menu navigation for influencers according to their requirements.
+
+![Influencernav](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/10/influencermenu.webp)
+
+![addmenue](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/10/influencermenuedit.webp)
+
+![reorder](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/10/influencermenureorder.webp)
+
 ## Need Help?
 
 If you face any issues:
