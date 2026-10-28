@@ -1,4 +1,4 @@
-import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnrZd.js";const y=JSON.parse('{"title":"Seller Profile Page Settings","description":"Seller Profile Page Settings","frontmatter":{"title":"Seller Profile Page Settings","description":"Seller Profile Page Settings","date":"2025-07-10T00:00:00.000Z","author":"Chirag Tyagi"},"headers":[],"relativePath":"zenith/seller/seller-profile-page-settings.md","filePath":"zenith/seller/seller-profile-page-settings.md"}'),r={name:"zenith/seller/seller-profile-page-settings.md"};function a(c,t,d,m,p,g){return i(),s("div",null,[...t[0]||(t[0]=[o("",20),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
+import{_ as l,c as r,o as s,j as n,ah as o,a as e}from"./chunks/framework.PvdZnrZd.js";const y=JSON.parse('{"title":"Multivendor Marketplace:Product configuration","description":"Learn about product configuration.","frontmatter":{"title":"Multivendor Marketplace:Product configuration","description":"Learn about product configuration.","date":"2025-06-25T00:00:00.000Z","author":"Chirag Tyagi"},"headers":[],"relativePath":"zenith/configuration/product-configration.md","filePath":"zenith/configuration/product-configration.md"}'),i={name:"zenith/configuration/product-configration.md"};function a(c,t,d,m,p,g){return s(),r("div",null,[...t[0]||(t[0]=[n("h1",{id:"user-guide-for-multivendor-marketplace-product-configuration",tabindex:"-1"},[e("User Guide for Multivendor Marketplace Product Configuration "),n("a",{class:"header-anchor",href:"#user-guide-for-multivendor-marketplace-product-configuration","aria-label":'Permalink to "User Guide for Multivendor Marketplace Product Configuration"'},"​")],-1),n("p",null,"In this section of the blog, you’ll find everything related to product configurations. Manage all your product settings seamlessly from this dedicated menu section",-1),n("p",null,"Here, you can provide an option to add/edit/delete the products to your sellers, you can enable the option to auto-approve your products, auto-enable the added products and much more.",-1),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
           event.preventDefault();
 
           const existing = document.getElementById('wk-image-overlay');
@@ -51,7 +51,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
           };
 
           const img = document.createElement('img');
-          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/sell-1.webp";
+          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/pproduct-scaled.webp";
 
           img.style.cssText = \`
             max-width:95%;
@@ -99,7 +99,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
               overlay.remove();
             }
           };
-        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/sell-1.webp",alt:"seller's profile",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/pproduct-scaled.webp",alt:"product configuration Multivendor Marketplace for Shopify by Webkul",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
         const existing = document.getElementById('wk-image-overlay');
         if(existing) existing.remove();
 
@@ -142,7 +142,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
         };
 
         const img = document.createElement('img');
-        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/sell-1.webp";
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/pproduct-scaled.webp";
 
         img.style.cssText = \`
           max-width:95%;
@@ -190,7 +190,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
             overlay.remove();
           }
         };
-      `})])],-1),n("p",null,[e("Multivendor App Admin Panel>>Go to "),n("strong",null,"Sellers"),e(">>"),n("strong",null,"Seller Profile Page Settings"),e(" (from the drop-down menu).")],-1),n("p",null,"Following are the fields admin can set up for Seller's profile pages:",-1),n("p",null,[e("1: "),n("strong",null,"Seller Profile Page Theme"),e(" From this section, you can select the Theme of your Seller's profile page. You can click the radio button & choose the theme of your choice.")],-1),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
+      `})])],-1),n("p",null,"Here are some new product configurations you might want to check out .",-1),n("h2",{id:"add-product-origin-country-hsn-code-to-the-product-description",tabindex:"-1"},[e("Add Product Origin Country/HSN code to the Product Description "),n("a",{class:"header-anchor",href:"#add-product-origin-country-hsn-code-to-the-product-description","aria-label":'Permalink to "Add Product Origin Country/HSN code to the Product Description"'},"​")],-1),n("p",null,[e("The admin can allow sellers to add the country of their product origin to the description page. Visit "),n("strong",null,"Multivendor Admin Panel"),e(" > "),n("strong",null,"Configuration"),e(" > "),n("strong",null,"Product Configuration"),e(":")],-1),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
           event.preventDefault();
 
           const existing = document.getElementById('wk-image-overlay');
@@ -243,7 +243,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
           };
 
           const img = document.createElement('img');
-          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/sel0.webp";
+          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/countryoforigin.webp";
 
           img.style.cssText = \`
             max-width:95%;
@@ -291,7 +291,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
               overlay.remove();
             }
           };
-        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/sel0.webp",alt:"seller profile page settings",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/countryoforigin.webp",alt:"image",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
         const existing = document.getElementById('wk-image-overlay');
         if(existing) existing.remove();
 
@@ -334,7 +334,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
         };
 
         const img = document.createElement('img');
-        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/sel0.webp";
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/countryoforigin.webp";
 
         img.style.cssText = \`
           max-width:95%;
@@ -382,7 +382,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
             overlay.remove();
           }
         };
-      `})])],-1),n("h2",{id:"theme-1",tabindex:"-1"},[e("Theme 1 "),n("a",{class:"header-anchor",href:"#theme-1","aria-label":'Permalink to "Theme 1"'},"​")],-1),n("p",null,"In Theme 1, You will get an option to edit the theme code as well. You can customize CSS and edit the theme template of the profile page as per your choice.",-1),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
+      `})])],-1),n("p",null,[e("After enabling this, visit "),n("strong",null,"Multivendor Admin Panel"),e(" > "),n("strong",null,"Configuration"),e(" > "),n("strong",null,"Instruction for Marketplace"),e(":")],-1),n("p",null,'Copy the following code into the product.liquid (or product-template, if exist) template inside form tag to display the "Product Origin Country".',-1),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
           event.preventDefault();
 
           const existing = document.getElementById('wk-image-overlay');
@@ -435,7 +435,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
           };
 
           const img = document.createElement('img');
-          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/sel0.webp";
+          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/countryoforigincode.webp";
 
           img.style.cssText = \`
             max-width:95%;
@@ -483,7 +483,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
               overlay.remove();
             }
           };
-        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/sel0.webp",alt:"select a Theme",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/countryoforigincode.webp",alt:"image-1",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
         const existing = document.getElementById('wk-image-overlay');
         if(existing) existing.remove();
 
@@ -526,7 +526,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
         };
 
         const img = document.createElement('img');
-        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/sel0.webp";
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/countryoforigincode.webp";
 
         img.style.cssText = \`
           max-width:95%;
@@ -574,7 +574,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
             overlay.remove();
           }
         };
-      `})])],-1),n("p",null,"After clicking the Edit Theme Code button, you will get the option to edit the Theme template & edit CSS for the seller's profile page.",-1),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
+      `})])],-1),n("p",null,"So, when an admin and seller are adding/ editing any product then they have the option to choose the country of origin and fill the HSN code accordingly.",-1),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
           event.preventDefault();
 
           const existing = document.getElementById('wk-image-overlay');
@@ -627,7 +627,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
           };
 
           const img = document.createElement('img');
-          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/sel1.webp";
+          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/countryoforiginproductpage.webp";
 
           img.style.cssText = \`
             max-width:95%;
@@ -675,7 +675,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
               overlay.remove();
             }
           };
-        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/sel1.webp",alt:"seller page",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/countryoforiginproductpage.webp",alt:"country",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
         const existing = document.getElementById('wk-image-overlay');
         if(existing) existing.remove();
 
@@ -718,7 +718,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
         };
 
         const img = document.createElement('img');
-        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/sel1.webp";
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/countryoforiginproductpage.webp";
 
         img.style.cssText = \`
           max-width:95%;
@@ -766,7 +766,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
             overlay.remove();
           }
         };
-      `})])],-1),n("p",null,'As soon as you edit any code and Save it, the "Publish" button gets enabled. Now, to make the changes work for the seller page, you need to publish the edited code.',-1),n("p",null,[n("strong",null,"Please note"),e(" that if you have saved the edited code and not published it then, the default code will work for the profile page.")],-1),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
+      `})])],-1),n("p",null,"This is how it will look on the storefront:",-1),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
           event.preventDefault();
 
           const existing = document.getElementById('wk-image-overlay');
@@ -819,7 +819,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
           };
 
           const img = document.createElement('img');
-          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/se3.webp";
+          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2020/11/image-2.png";
 
           img.style.cssText = \`
             max-width:95%;
@@ -867,7 +867,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
               overlay.remove();
             }
           };
-        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/se3.webp",alt:"seller profile 1",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2020/11/image-2.png",alt:"image-2",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
         const existing = document.getElementById('wk-image-overlay');
         if(existing) existing.remove();
 
@@ -910,7 +910,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
         };
 
         const img = document.createElement('img');
-        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/se3.webp";
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2020/11/image-2.png";
 
         img.style.cssText = \`
           max-width:95%;
@@ -958,7 +958,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
             overlay.remove();
           }
         };
-      `})])],-1),o("",5),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
+      `})])],-1),n("p",null,[n("strong",null,"Note"),e(": For existing products, you need to once save them to display this information on the frontend. Also, note that once the product is added, this can't be updated.")],-1),n("h2",{id:"allow-seller-to-add-cost-price",tabindex:"-1"},[e("ALLOW SELLER TO ADD COST PRICE "),n("a",{class:"header-anchor",href:"#allow-seller-to-add-cost-price","aria-label":'Permalink to "ALLOW SELLER TO ADD COST PRICE"'},"​")],-1),n("p",null,"Now, the admin can allow the seller to add the cost price which is the original product price.",-1),n("p",null,"The seller can enter the cost price while adding products from his respective seller panel.",-1),n("p",null,"The cost price will not be shown on the storefront and generally, it is used to calculate the profit margin.",-1),n("p",null,'Go to Admin panel >> Configurations >> product configuration >> Enable " ALLOW SELLER TO ADD COST PRICE" and click SAVE CHANGES button below.',-1),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
           event.preventDefault();
 
           const existing = document.getElementById('wk-image-overlay');
@@ -1011,7 +1011,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
           };
 
           const img = document.createElement('img');
-          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/tg1.webp";
+          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/costprice.webp";
 
           img.style.cssText = \`
             max-width:95%;
@@ -1059,7 +1059,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
               overlay.remove();
             }
           };
-        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/tg1.webp",alt:"Product Tag",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/costprice.webp",alt:"cost-price",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
         const existing = document.getElementById('wk-image-overlay');
         if(existing) existing.remove();
 
@@ -1102,7 +1102,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
         };
 
         const img = document.createElement('img');
-        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/tg1.webp";
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/costprice.webp";
 
         img.style.cssText = \`
           max-width:95%;
@@ -1150,7 +1150,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
             overlay.remove();
           }
         };
-      `})])],-1),n("p",null,"Now, the product categories, tags or types that you have added in the app will be visible to customers while adding/editing products.",-1),n("p",null,"Thus, you can restrict sellers to add only those categories, tags or types to the products",-1),n("p",null,"and accordingly the added categories, tags or types will be visible with the products in a filter option on the seller profile page.",-1),n("p",null,"This filter option will be visible like this on the seller profile page:-",-1),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
+      `})])],-1),n("p",null,"Now, when the seller will add products from his panel then he will have an option to add the cost price which should be less than the sales price.",-1),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
           event.preventDefault();
 
           const existing = document.getElementById('wk-image-overlay');
@@ -1203,7 +1203,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
           };
 
           const img = document.createElement('img');
-          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/03072417/AwesomeScreenshot-Seller-Profile-multivendor-marketplace-4-2019-07-03-12-07-18.png";
+          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/10/costpriceseller.webp";
 
           img.style.cssText = \`
             max-width:95%;
@@ -1251,7 +1251,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
               overlay.remove();
             }
           };
-        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/03072417/AwesomeScreenshot-Seller-Profile-multivendor-marketplace-4-2019-07-03-12-07-18.png",alt:"filter option on seller profile page",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2025/10/costpriceseller.webp",alt:"Add-Product-Seller-•-Multivendor-MarketPlace",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
         const existing = document.getElementById('wk-image-overlay');
         if(existing) existing.remove();
 
@@ -1294,7 +1294,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
         };
 
         const img = document.createElement('img');
-        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/03072417/AwesomeScreenshot-Seller-Profile-multivendor-marketplace-4-2019-07-03-12-07-18.png";
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/10/costpriceseller.webp";
 
         img.style.cssText = \`
           max-width:95%;
@@ -1342,7 +1342,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
             overlay.remove();
           }
         };
-      `})])],-1),n("p",null,[n("strong",null,"NOTE:- The Edit Theme Code feature is available only in Theme 1.")],-1),n("p",null,"Moving on to the other options available in all the Themes to set profile pages of your sellers...",-1),n("p",null,"You will also get an option to select the color of Seller's rating star.",-1),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
+      `})])],-1),n("h2",{id:"hide-product-tag-field",tabindex:"-1"},[e("Hide Product Tag Field "),n("a",{class:"header-anchor",href:"#hide-product-tag-field","aria-label":'Permalink to "Hide Product Tag Field"'},"​")],-1),n("p",null,'You can now hide the "Product Tag" field from the "Add/Edit Product" form.',-1),n("p",null,[e("For this, You need to visit the multi-vendor admin panel>>Configurations>>"),n("strong",null,"Product Configuration"),e(">>Enable the Tab.")],-1),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
           event.preventDefault();
 
           const existing = document.getElementById('wk-image-overlay');
@@ -1395,7 +1395,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
           };
 
           const img = document.createElement('img');
-          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/Screenshot-14.png";
+          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/producttag.webp";
 
           img.style.cssText = \`
             max-width:95%;
@@ -1443,7 +1443,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
               overlay.remove();
             }
           };
-        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/Screenshot-14.png",alt:"rating star color",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/producttag.webp",alt:"Configuration-Admin-5",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
         const existing = document.getElementById('wk-image-overlay');
         if(existing) existing.remove();
 
@@ -1486,7 +1486,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
         };
 
         const img = document.createElement('img');
-        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/Screenshot-14.png";
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/producttag.webp";
 
         img.style.cssText = \`
           max-width:95%;
@@ -1534,7 +1534,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
             overlay.remove();
           }
         };
-      `})])],-1),n("p",null,`Also, you can select the default "Sort by" option for the profile page. This is up to you that how you want your seller's profiles to be listed on the page.`,-1),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
+      `})]),n("a",{href:"javascript:void(0)",onclick:`
           event.preventDefault();
 
           const existing = document.getElementById('wk-image-overlay');
@@ -1587,7 +1587,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
           };
 
           const img = document.createElement('img');
-          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/tt2.webp";
+          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/producttag.webp";
 
           img.style.cssText = \`
             max-width:95%;
@@ -1635,7 +1635,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
               overlay.remove();
             }
           };
-        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/tt2.webp",alt:"seller profile",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/producttag.webp",alt:"Configuration-Admin-5",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
         const existing = document.getElementById('wk-image-overlay');
         if(existing) existing.remove();
 
@@ -1678,7 +1678,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
         };
 
         const img = document.createElement('img');
-        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/tt2.webp";
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/producttag.webp";
 
         img.style.cssText = \`
           max-width:95%;
@@ -1726,7 +1726,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
             overlay.remove();
           }
         };
-      `})])],-1),n("p",null,[e("You can also upload a default banner for your seller's profile page either as "),n("strong",null,"Banner Image"),e(" or "),n("strong",null,"Background Video"),e(".")],-1),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
+      `})])],-1),n("p",null,"Once you enable this tab, you/sellers won't get the product tag field while adding a product.",-1),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
           event.preventDefault();
 
           const existing = document.getElementById('wk-image-overlay');
@@ -1779,7 +1779,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
           };
 
           const img = document.createElement('img');
-          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/tt4.webp";
+          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/10/productfielddisabled.webp";
 
           img.style.cssText = \`
             max-width:95%;
@@ -1827,7 +1827,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
               overlay.remove();
             }
           };
-        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/tt4.webp",alt:"show/hide content",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2025/10/productfielddisabled.webp",alt:"Add-Product-Seller-•-Multivendor-MarketPlace-ssssssssssss",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
         const existing = document.getElementById('wk-image-overlay');
         if(existing) existing.remove();
 
@@ -1870,7 +1870,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
         };
 
         const img = document.createElement('img');
-        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/tt4.webp";
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/10/productfielddisabled.webp";
 
         img.style.cssText = \`
           max-width:95%;
@@ -1918,7 +1918,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
             overlay.remove();
           }
         };
-      `})])],-1),n("p",null,"Additionally, you can Show or Hide the content of Profile Page as per your requirement.",-1),n("p",null,[e("NOTE:- "),n("strong",null,"The Show/Hide Seller Page Content Option is available only in Theme 1.")],-1),n("p",null,"You can anytime re-position the Toggle Logo and Description on the profile page.",-1),n("h2",{id:"admin-can-also-write-his-her-own-css-for-profile-page",tabindex:"-1"},[e("Admin can also write his/her own CSS for Profile Page. "),n("a",{class:"header-anchor",href:"#admin-can-also-write-his-her-own-css-for-profile-page","aria-label":'Permalink to "Admin can also write his/her own CSS for Profile Page."'},"​")],-1),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
+      `})])],-1),n("p",null,'Note:- In case you add/edit products by CSV, make sure that the "Restrict Product Tags" is disable.',-1),n("h2",{id:"product-form-help-text",tabindex:"-1"},[e("Product Form Help Text "),n("a",{class:"header-anchor",href:"#product-form-help-text","aria-label":'Permalink to "Product Form Help Text"'},"​")],-1),n("p",null,"Add help text to product form labels for both admin & seller end.",-1),n("p",null,[e("Visit "),n("strong",null,"Multivendor Admin Panel"),e(" > "),n("strong",null,"Configuration"),e(" > "),n("strong",null,"Product Configuration"),e(". Enable this tab:")],-1),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
           event.preventDefault();
 
           const existing = document.getElementById('wk-image-overlay');
@@ -1971,7 +1971,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
           };
 
           const img = document.createElement('img');
-          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/tt5.webp";
+          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/productform.webp";
 
           img.style.cssText = \`
             max-width:95%;
@@ -2019,7 +2019,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
               overlay.remove();
             }
           };
-        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/tt5.webp",alt:"change position",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/productform.webp",alt:"image",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
         const existing = document.getElementById('wk-image-overlay');
         if(existing) existing.remove();
 
@@ -2062,7 +2062,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
         };
 
         const img = document.createElement('img');
-        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/tt5.webp";
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/productform.webp";
 
         img.style.cssText = \`
           max-width:95%;
@@ -2110,7 +2110,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
             overlay.remove();
           }
         };
-      `})])],-1),n("p",null,"If you select Theme 1, sellers page will look as shown in the screenshot below:",-1),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
+      `})])],-1),n("p",null,"Now, to add the help text, visit Multivendor Admin Panel > Products > Product Form Customization. Add the help text and save:",-1),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
           event.preventDefault();
 
           const existing = document.getElementById('wk-image-overlay');
@@ -2163,7 +2163,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
           };
 
           const img = document.createElement('img');
-          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/Seller-Profile-%E2%80%93-Demo-Store-2.png";
+          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/10/formhelptext.webp";
 
           img.style.cssText = \`
             max-width:95%;
@@ -2211,7 +2211,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
               overlay.remove();
             }
           };
-        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/Seller-Profile-%E2%80%93-Demo-Store-2.png",alt:"Seller Profile Theme1",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2025/10/formhelptext.webp",alt:"image-1",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
         const existing = document.getElementById('wk-image-overlay');
         if(existing) existing.remove();
 
@@ -2254,7 +2254,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
         };
 
         const img = document.createElement('img');
-        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/Seller-Profile-%E2%80%93-Demo-Store-2.png";
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/10/formhelptext.webp";
 
         img.style.cssText = \`
           max-width:95%;
@@ -2302,7 +2302,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
             overlay.remove();
           }
         };
-      `})])],-1),n("h2",{id:"theme-2",tabindex:"-1"},[e("Theme 2 "),n("a",{class:"header-anchor",href:"#theme-2","aria-label":'Permalink to "Theme 2"'},"​")],-1),n("p",null,"Similarly, you can check the features for Theme 2 as well.",-1),n("p",null,"Once you select Theme 2, the Profile Page will be visible like this as shown in the screenshot below:",-1),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
+      `})])],-1),n("p",null,[n("strong",null,"Note these points:")],-1),n("ul",null,[n("li",null,"Product form customization is valid only for normal and digital product and it does not include Global Products."),n("li",null,"It will not affect product CSV format.")],-1),n("p",null,"This is how they will look on the add product page (both admin & seller end):",-1),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
           event.preventDefault();
 
           const existing = document.getElementById('wk-image-overlay');
@@ -2355,7 +2355,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
           };
 
           const img = document.createElement('img');
-          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/03114424/AwesomeScreenshot-Seller-Profile-multivendor-marketplace-4-2019-07-03-17-07-52.png";
+          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/10/formhelptextaddproduct.webp";
 
           img.style.cssText = \`
             max-width:95%;
@@ -2403,7 +2403,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
               overlay.remove();
             }
           };
-        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/03114424/AwesomeScreenshot-Seller-Profile-multivendor-marketplace-4-2019-07-03-17-07-52.png",alt:"Theme 2",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2025/10/formhelptextaddproduct.webp",alt:"image-2",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
         const existing = document.getElementById('wk-image-overlay');
         if(existing) existing.remove();
 
@@ -2446,7 +2446,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
         };
 
         const img = document.createElement('img');
-        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/03114424/AwesomeScreenshot-Seller-Profile-multivendor-marketplace-4-2019-07-03-17-07-52.png";
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/10/formhelptextaddproduct.webp";
 
         img.style.cssText = \`
           max-width:95%;
@@ -2494,7 +2494,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
             overlay.remove();
           }
         };
-      `})])],-1),n("h2",{id:"theme-3",tabindex:"-1"},[e("Theme 3 "),n("a",{class:"header-anchor",href:"#theme-3","aria-label":'Permalink to "Theme 3"'},"​")],-1),n("p",null,"Similarly, you can set your seller's profile page using Theme 3 as well.",-1),n("p",null,"If you select Theme 3, seller page will look as shown in the screenshot below:",-1),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
+      `})])],-1),n("h2",{id:"product-re-approve-feature",tabindex:"-1"},[e("Product Re-Approve feature "),n("a",{class:"header-anchor",href:"#product-re-approve-feature","aria-label":'Permalink to "Product Re-Approve feature"'},"​")],-1),n("p",null,"Now, once a seller edits a product, the admin can approve/disapprove the updates before they become live on the storefront.",-1),n("p",null,[e("Configure this by visiting "),n("strong",null,"Multivendor Admin Panel"),e(" > "),n("strong",null,"Configuration"),e(" > "),n("strong",null,"Product Configuration"),e(":")],-1),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
           event.preventDefault();
 
           const existing = document.getElementById('wk-image-overlay');
@@ -2547,7 +2547,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
           };
 
           const img = document.createElement('img');
-          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/Seller-Profile-%E2%80%93-Demo-Store-4.png";
+          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/reapprove.webp";
 
           img.style.cssText = \`
             max-width:95%;
@@ -2595,7 +2595,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
               overlay.remove();
             }
           };
-        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/Seller-Profile-%E2%80%93-Demo-Store-4.png",alt:"Seller Profile Theme 3",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/reapprove.webp",alt:"image-169",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
         const existing = document.getElementById('wk-image-overlay');
         if(existing) existing.remove();
 
@@ -2638,7 +2638,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
         };
 
         const img = document.createElement('img');
-        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/Seller-Profile-%E2%80%93-Demo-Store-4.png";
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/reapprove.webp";
 
         img.style.cssText = \`
           max-width:95%;
@@ -2686,7 +2686,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
             overlay.remove();
           }
         };
-      `})])],-1),n("h2",{id:"theme-4",tabindex:"-1"},[e("Theme 4 "),n("a",{class:"header-anchor",href:"#theme-4","aria-label":'Permalink to "Theme 4"'},"​")],-1),n("p",null,"In Theme 4, you will get an option to edit the theme code as well. You can customize CSS and edit the theme template of the profile page as per your choice.",-1),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
+      `})])],-1),n("p",null,"Now, whenever a seller updates a product, the admin will receive an email to approve it. If the admin disapproves, he need to mention the reason for disapproval.",-1),n("p",null,"Note that on disapproving, only the product updates will disapprove and not the whole product. Also, the admin needs to manually check what all updates the seller has done.",-1),n("p",null,"This will be the status of the product on both admin and seller end:",-1),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
           event.preventDefault();
 
           const existing = document.getElementById('wk-image-overlay');
@@ -2739,7 +2739,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
           };
 
           const img = document.createElement('img');
-          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/tty6.webp";
+          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/reapproveadmin.webp";
 
           img.style.cssText = \`
             max-width:95%;
@@ -2787,7 +2787,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
               overlay.remove();
             }
           };
-        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/tty6.webp",alt:"Theme 4",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/reapproveadmin.webp",alt:"image-170",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
         const existing = document.getElementById('wk-image-overlay');
         if(existing) existing.remove();
 
@@ -2830,7 +2830,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
         };
 
         const img = document.createElement('img');
-        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/tty6.webp";
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/reapproveadmin.webp";
 
         img.style.cssText = \`
           max-width:95%;
@@ -2878,7 +2878,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
             overlay.remove();
           }
         };
-      `})])],-1),o("",7),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
+      `})])],-1),n("p",null,"If the admin disapproves, he need to mention a reason for the same:",-1),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
           event.preventDefault();
 
           const existing = document.getElementById('wk-image-overlay');
@@ -2931,7 +2931,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
           };
 
           const img = document.createElement('img');
-          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/dt4.webp";
+          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/81denyproduct.webp";
 
           img.style.cssText = \`
             max-width:95%;
@@ -2979,7 +2979,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
               overlay.remove();
             }
           };
-        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/dt4.webp",alt:"edit theme",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/81denyproduct.webp",alt:"image-171",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
         const existing = document.getElementById('wk-image-overlay');
         if(existing) existing.remove();
 
@@ -3022,2695 +3022,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
         };
 
         const img = document.createElement('img');
-        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/dt4.webp";
-
-        img.style.cssText = \`
-          max-width:95%;
-          max-height:95%;
-          border-radius:12px;
-          transition:transform .15s ease;
-          cursor:zoom-in;
-          will-change:transform;
-          user-select:none;
-        \`;
-
-        let scale = 1;
-
-        // scroll zoom
-        overlay.onwheel = (e) => {
-          e.preventDefault();
-
-          scale += e.deltaY * -0.001;
-          scale = Math.min(Math.max(1, scale), 5);
-
-          img.style.transform = 'scale(' + scale + ')';
-        };
-
-        // double click zoom
-        img.ondblclick = () => {
-          scale = scale === 1 ? 2 : 1;
-          img.style.transform = 'scale(' + scale + ')';
-        };
-
-        overlay.appendChild(closeBtn);
-        overlay.appendChild(img);
-
-        document.body.appendChild(overlay);
-
-        // close overlay
-        overlay.onclick = (e) => {
-          if (e.target === overlay) {
-            overlay.remove();
-          }
-        };
-
-        // esc close
-        document.onkeydown = (e) => {
-          if (e.key === 'Escape') {
-            overlay.remove();
-          }
-        };
-      `})])],-1),n("h3",{id:"edit-theme-css",tabindex:"-1"},[e("Edit Theme CSS "),n("a",{class:"header-anchor",href:"#edit-theme-css","aria-label":'Permalink to "Edit Theme CSS"'},"​")],-1),n("hr",null,null,-1),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
-          event.preventDefault();
-
-          const existing = document.getElementById('wk-image-overlay');
-          if(existing) existing.remove();
-
-          const overlay = document.createElement('div');
-          overlay.id = 'wk-image-overlay';
-
-          overlay.style.cssText = \`
-            position:fixed;
-            inset:0;
-            background:rgba(0,0,0,0.88);
-            display:flex;
-            align-items:center;
-            justify-content:center;
-            z-index:99999;
-            padding:20px;
-            cursor:zoom-out;
-            overflow:hidden;
-            backdrop-filter: blur(3px);
-          \`;
-
-          // 🔹 CLOSE BUTTON
-          const closeBtn = document.createElement('div');
-          closeBtn.innerHTML = '&times;';
-
-          closeBtn.style.cssText = \`
-            position:absolute;
-              top:20px;
-              right:25px;
-              background:#0c7484;
-              color:#fff;
-              width:50px;
-              height:50px;
-              border-radius:50%;
-              display:flex;
-              align-items:center;
-              justify-content:center;
-              font-size:32px;
-              font-weight:bold;
-              cursor:pointer;
-              z-index:100000;
-              line-height:1;
-              user-select:none;
-              box-shadow:0 4px 12px rgba(0,0,0,0.35);     
-          \`;
-
-          closeBtn.onclick = () => {
-            overlay.remove();
-          };
-
-          const img = document.createElement('img');
-          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/vn4.webp";
-
-          img.style.cssText = \`
-            max-width:95%;
-            max-height:95%;
-            border-radius:12px;
-            transition:transform .15s ease;
-            cursor:zoom-in;
-            will-change:transform;
-            user-select:none;
-          \`;
-
-          let scale = 1;
-
-          // scroll zoom
-          overlay.onwheel = (e) => {
-            e.preventDefault();
-
-            scale += e.deltaY * -0.001;
-            scale = Math.min(Math.max(1, scale), 5);
-
-            img.style.transform = 'scale(' + scale + ')';
-          };
-
-          // double click zoom
-          img.ondblclick = () => {
-            scale = scale === 1 ? 2 : 1;
-            img.style.transform = 'scale(' + scale + ')';
-          };
-
-          overlay.appendChild(closeBtn);
-          overlay.appendChild(img);
-
-          document.body.appendChild(overlay);
-
-          // close overlay
-          overlay.onclick = (e) => {
-            if (e.target === overlay) {
-              overlay.remove();
-            }
-          };
-
-          // esc close
-          document.onkeydown = (e) => {
-            if (e.key === 'Escape') {
-              overlay.remove();
-            }
-          };
-        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/vn4.webp",alt:"edit css",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
-        const existing = document.getElementById('wk-image-overlay');
-        if(existing) existing.remove();
-
-        const overlay = document.createElement('div');
-        overlay.id = 'wk-image-overlay';
-
-        overlay.style.cssText = \`
-          position:fixed;
-          inset:0;
-          background:rgba(0,0,0,0.88);
-          display:flex;
-          align-items:center;
-          justify-content:center;
-          z-index:99999;
-          padding:20px;
-          cursor:zoom-out;
-          overflow:hidden;
-          backdrop-filter: blur(3px);
-        \`;
-
-        // 🔹 CLOSE BUTTON
-        const closeBtn = document.createElement('div');
-        closeBtn.innerHTML = '&times;';
-
-        closeBtn.style.cssText = \`
-          position:absolute;
-          top:20px;
-          right:25px;
-          color:#fff;
-          font-size:42px;
-          font-weight:bold;
-          cursor:pointer;
-          z-index:100000;
-          line-height:1;
-          user-select:none;
-        \`;
-
-        closeBtn.onclick = () => {
-          overlay.remove();
-        };
-
-        const img = document.createElement('img');
-        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/vn4.webp";
-
-        img.style.cssText = \`
-          max-width:95%;
-          max-height:95%;
-          border-radius:12px;
-          transition:transform .15s ease;
-          cursor:zoom-in;
-          will-change:transform;
-          user-select:none;
-        \`;
-
-        let scale = 1;
-
-        // scroll zoom
-        overlay.onwheel = (e) => {
-          e.preventDefault();
-
-          scale += e.deltaY * -0.001;
-          scale = Math.min(Math.max(1, scale), 5);
-
-          img.style.transform = 'scale(' + scale + ')';
-        };
-
-        // double click zoom
-        img.ondblclick = () => {
-          scale = scale === 1 ? 2 : 1;
-          img.style.transform = 'scale(' + scale + ')';
-        };
-
-        overlay.appendChild(closeBtn);
-        overlay.appendChild(img);
-
-        document.body.appendChild(overlay);
-
-        // close overlay
-        overlay.onclick = (e) => {
-          if (e.target === overlay) {
-            overlay.remove();
-          }
-        };
-
-        // esc close
-        document.onkeydown = (e) => {
-          if (e.key === 'Escape') {
-            overlay.remove();
-          }
-        };
-      `})])],-1),n("p",null,[n("strong",null,"Seller Profile Page"),e(" will be the same as that for Theme 1:")],-1),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
-          event.preventDefault();
-
-          const existing = document.getElementById('wk-image-overlay');
-          if(existing) existing.remove();
-
-          const overlay = document.createElement('div');
-          overlay.id = 'wk-image-overlay';
-
-          overlay.style.cssText = \`
-            position:fixed;
-            inset:0;
-            background:rgba(0,0,0,0.88);
-            display:flex;
-            align-items:center;
-            justify-content:center;
-            z-index:99999;
-            padding:20px;
-            cursor:zoom-out;
-            overflow:hidden;
-            backdrop-filter: blur(3px);
-          \`;
-
-          // 🔹 CLOSE BUTTON
-          const closeBtn = document.createElement('div');
-          closeBtn.innerHTML = '&times;';
-
-          closeBtn.style.cssText = \`
-            position:absolute;
-              top:20px;
-              right:25px;
-              background:#0c7484;
-              color:#fff;
-              width:50px;
-              height:50px;
-              border-radius:50%;
-              display:flex;
-              align-items:center;
-              justify-content:center;
-              font-size:32px;
-              font-weight:bold;
-              cursor:pointer;
-              z-index:100000;
-              line-height:1;
-              user-select:none;
-              box-shadow:0 4px 12px rgba(0,0,0,0.35);     
-          \`;
-
-          closeBtn.onclick = () => {
-            overlay.remove();
-          };
-
-          const img = document.createElement('img');
-          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2019/11/Seller-Profile-%E2%80%93-demo-store-2-1200x850.png";
-
-          img.style.cssText = \`
-            max-width:95%;
-            max-height:95%;
-            border-radius:12px;
-            transition:transform .15s ease;
-            cursor:zoom-in;
-            will-change:transform;
-            user-select:none;
-          \`;
-
-          let scale = 1;
-
-          // scroll zoom
-          overlay.onwheel = (e) => {
-            e.preventDefault();
-
-            scale += e.deltaY * -0.001;
-            scale = Math.min(Math.max(1, scale), 5);
-
-            img.style.transform = 'scale(' + scale + ')';
-          };
-
-          // double click zoom
-          img.ondblclick = () => {
-            scale = scale === 1 ? 2 : 1;
-            img.style.transform = 'scale(' + scale + ')';
-          };
-
-          overlay.appendChild(closeBtn);
-          overlay.appendChild(img);
-
-          document.body.appendChild(overlay);
-
-          // close overlay
-          overlay.onclick = (e) => {
-            if (e.target === overlay) {
-              overlay.remove();
-            }
-          };
-
-          // esc close
-          document.onkeydown = (e) => {
-            if (e.key === 'Escape') {
-              overlay.remove();
-            }
-          };
-        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2019/11/Seller-Profile-%E2%80%93-demo-store-2-1200x850.png",alt:"seller profile",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
-        const existing = document.getElementById('wk-image-overlay');
-        if(existing) existing.remove();
-
-        const overlay = document.createElement('div');
-        overlay.id = 'wk-image-overlay';
-
-        overlay.style.cssText = \`
-          position:fixed;
-          inset:0;
-          background:rgba(0,0,0,0.88);
-          display:flex;
-          align-items:center;
-          justify-content:center;
-          z-index:99999;
-          padding:20px;
-          cursor:zoom-out;
-          overflow:hidden;
-          backdrop-filter: blur(3px);
-        \`;
-
-        // 🔹 CLOSE BUTTON
-        const closeBtn = document.createElement('div');
-        closeBtn.innerHTML = '&times;';
-
-        closeBtn.style.cssText = \`
-          position:absolute;
-          top:20px;
-          right:25px;
-          color:#fff;
-          font-size:42px;
-          font-weight:bold;
-          cursor:pointer;
-          z-index:100000;
-          line-height:1;
-          user-select:none;
-        \`;
-
-        closeBtn.onclick = () => {
-          overlay.remove();
-        };
-
-        const img = document.createElement('img');
-        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2019/11/Seller-Profile-%E2%80%93-demo-store-2-1200x850.png";
-
-        img.style.cssText = \`
-          max-width:95%;
-          max-height:95%;
-          border-radius:12px;
-          transition:transform .15s ease;
-          cursor:zoom-in;
-          will-change:transform;
-          user-select:none;
-        \`;
-
-        let scale = 1;
-
-        // scroll zoom
-        overlay.onwheel = (e) => {
-          e.preventDefault();
-
-          scale += e.deltaY * -0.001;
-          scale = Math.min(Math.max(1, scale), 5);
-
-          img.style.transform = 'scale(' + scale + ')';
-        };
-
-        // double click zoom
-        img.ondblclick = () => {
-          scale = scale === 1 ? 2 : 1;
-          img.style.transform = 'scale(' + scale + ')';
-        };
-
-        overlay.appendChild(closeBtn);
-        overlay.appendChild(img);
-
-        document.body.appendChild(overlay);
-
-        // close overlay
-        overlay.onclick = (e) => {
-          if (e.target === overlay) {
-            overlay.remove();
-          }
-        };
-
-        // esc close
-        document.onkeydown = (e) => {
-          if (e.key === 'Escape') {
-            overlay.remove();
-          }
-        };
-      `})])],-1),n("p",null,[e("Here is a look of "),n("strong",null,"seller listing page"),e(" for this theme:")],-1),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
-          event.preventDefault();
-
-          const existing = document.getElementById('wk-image-overlay');
-          if(existing) existing.remove();
-
-          const overlay = document.createElement('div');
-          overlay.id = 'wk-image-overlay';
-
-          overlay.style.cssText = \`
-            position:fixed;
-            inset:0;
-            background:rgba(0,0,0,0.88);
-            display:flex;
-            align-items:center;
-            justify-content:center;
-            z-index:99999;
-            padding:20px;
-            cursor:zoom-out;
-            overflow:hidden;
-            backdrop-filter: blur(3px);
-          \`;
-
-          // 🔹 CLOSE BUTTON
-          const closeBtn = document.createElement('div');
-          closeBtn.innerHTML = '&times;';
-
-          closeBtn.style.cssText = \`
-            position:absolute;
-              top:20px;
-              right:25px;
-              background:#0c7484;
-              color:#fff;
-              width:50px;
-              height:50px;
-              border-radius:50%;
-              display:flex;
-              align-items:center;
-              justify-content:center;
-              font-size:32px;
-              font-weight:bold;
-              cursor:pointer;
-              z-index:100000;
-              line-height:1;
-              user-select:none;
-              box-shadow:0 4px 12px rgba(0,0,0,0.35);     
-          \`;
-
-          closeBtn.onclick = () => {
-            overlay.remove();
-          };
-
-          const img = document.createElement('img');
-          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2019/11/collage-1-1-2.png";
-
-          img.style.cssText = \`
-            max-width:95%;
-            max-height:95%;
-            border-radius:12px;
-            transition:transform .15s ease;
-            cursor:zoom-in;
-            will-change:transform;
-            user-select:none;
-          \`;
-
-          let scale = 1;
-
-          // scroll zoom
-          overlay.onwheel = (e) => {
-            e.preventDefault();
-
-            scale += e.deltaY * -0.001;
-            scale = Math.min(Math.max(1, scale), 5);
-
-            img.style.transform = 'scale(' + scale + ')';
-          };
-
-          // double click zoom
-          img.ondblclick = () => {
-            scale = scale === 1 ? 2 : 1;
-            img.style.transform = 'scale(' + scale + ')';
-          };
-
-          overlay.appendChild(closeBtn);
-          overlay.appendChild(img);
-
-          document.body.appendChild(overlay);
-
-          // close overlay
-          overlay.onclick = (e) => {
-            if (e.target === overlay) {
-              overlay.remove();
-            }
-          };
-
-          // esc close
-          document.onkeydown = (e) => {
-            if (e.key === 'Escape') {
-              overlay.remove();
-            }
-          };
-        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2019/11/collage-1-1-2.png",alt:"seller listing",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
-        const existing = document.getElementById('wk-image-overlay');
-        if(existing) existing.remove();
-
-        const overlay = document.createElement('div');
-        overlay.id = 'wk-image-overlay';
-
-        overlay.style.cssText = \`
-          position:fixed;
-          inset:0;
-          background:rgba(0,0,0,0.88);
-          display:flex;
-          align-items:center;
-          justify-content:center;
-          z-index:99999;
-          padding:20px;
-          cursor:zoom-out;
-          overflow:hidden;
-          backdrop-filter: blur(3px);
-        \`;
-
-        // 🔹 CLOSE BUTTON
-        const closeBtn = document.createElement('div');
-        closeBtn.innerHTML = '&times;';
-
-        closeBtn.style.cssText = \`
-          position:absolute;
-          top:20px;
-          right:25px;
-          color:#fff;
-          font-size:42px;
-          font-weight:bold;
-          cursor:pointer;
-          z-index:100000;
-          line-height:1;
-          user-select:none;
-        \`;
-
-        closeBtn.onclick = () => {
-          overlay.remove();
-        };
-
-        const img = document.createElement('img');
-        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2019/11/collage-1-1-2.png";
-
-        img.style.cssText = \`
-          max-width:95%;
-          max-height:95%;
-          border-radius:12px;
-          transition:transform .15s ease;
-          cursor:zoom-in;
-          will-change:transform;
-          user-select:none;
-        \`;
-
-        let scale = 1;
-
-        // scroll zoom
-        overlay.onwheel = (e) => {
-          e.preventDefault();
-
-          scale += e.deltaY * -0.001;
-          scale = Math.min(Math.max(1, scale), 5);
-
-          img.style.transform = 'scale(' + scale + ')';
-        };
-
-        // double click zoom
-        img.ondblclick = () => {
-          scale = scale === 1 ? 2 : 1;
-          img.style.transform = 'scale(' + scale + ')';
-        };
-
-        overlay.appendChild(closeBtn);
-        overlay.appendChild(img);
-
-        document.body.appendChild(overlay);
-
-        // close overlay
-        overlay.onclick = (e) => {
-          if (e.target === overlay) {
-            overlay.remove();
-          }
-        };
-
-        // esc close
-        document.onkeydown = (e) => {
-          if (e.key === 'Escape') {
-            overlay.remove();
-          }
-        };
-      `})])],-1),n("h2",{id:"display-on-seller-listing-page",tabindex:"-1"},[e("Display on seller listing page "),n("a",{class:"header-anchor",href:"#display-on-seller-listing-page","aria-label":'Permalink to "Display on seller listing page"'},"​")],-1),n("p",null,"You can choose whether you want to display seller logo or seller profile image on seller listing page from:",-1),n("p",null,[e("Multivendor App Admin Panel>>Go to "),n("strong",null,"Sellers"),e(">>"),n("strong",null,"Seller Profile Page Settings"),e(" (from the drop-down menu).")],-1),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
-          event.preventDefault();
-
-          const existing = document.getElementById('wk-image-overlay');
-          if(existing) existing.remove();
-
-          const overlay = document.createElement('div');
-          overlay.id = 'wk-image-overlay';
-
-          overlay.style.cssText = \`
-            position:fixed;
-            inset:0;
-            background:rgba(0,0,0,0.88);
-            display:flex;
-            align-items:center;
-            justify-content:center;
-            z-index:99999;
-            padding:20px;
-            cursor:zoom-out;
-            overflow:hidden;
-            backdrop-filter: blur(3px);
-          \`;
-
-          // 🔹 CLOSE BUTTON
-          const closeBtn = document.createElement('div');
-          closeBtn.innerHTML = '&times;';
-
-          closeBtn.style.cssText = \`
-            position:absolute;
-              top:20px;
-              right:25px;
-              background:#0c7484;
-              color:#fff;
-              width:50px;
-              height:50px;
-              border-radius:50%;
-              display:flex;
-              align-items:center;
-              justify-content:center;
-              font-size:32px;
-              font-weight:bold;
-              cursor:pointer;
-              z-index:100000;
-              line-height:1;
-              user-select:none;
-              box-shadow:0 4px 12px rgba(0,0,0,0.35);     
-          \`;
-
-          closeBtn.onclick = () => {
-            overlay.remove();
-          };
-
-          const img = document.createElement('img');
-          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2026/07/sp1.webp";
-
-          img.style.cssText = \`
-            max-width:95%;
-            max-height:95%;
-            border-radius:12px;
-            transition:transform .15s ease;
-            cursor:zoom-in;
-            will-change:transform;
-            user-select:none;
-          \`;
-
-          let scale = 1;
-
-          // scroll zoom
-          overlay.onwheel = (e) => {
-            e.preventDefault();
-
-            scale += e.deltaY * -0.001;
-            scale = Math.min(Math.max(1, scale), 5);
-
-            img.style.transform = 'scale(' + scale + ')';
-          };
-
-          // double click zoom
-          img.ondblclick = () => {
-            scale = scale === 1 ? 2 : 1;
-            img.style.transform = 'scale(' + scale + ')';
-          };
-
-          overlay.appendChild(closeBtn);
-          overlay.appendChild(img);
-
-          document.body.appendChild(overlay);
-
-          // close overlay
-          overlay.onclick = (e) => {
-            if (e.target === overlay) {
-              overlay.remove();
-            }
-          };
-
-          // esc close
-          document.onkeydown = (e) => {
-            if (e.key === 'Escape') {
-              overlay.remove();
-            }
-          };
-        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2026/07/sp1.webp",alt:"logo-or-profile-",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
-        const existing = document.getElementById('wk-image-overlay');
-        if(existing) existing.remove();
-
-        const overlay = document.createElement('div');
-        overlay.id = 'wk-image-overlay';
-
-        overlay.style.cssText = \`
-          position:fixed;
-          inset:0;
-          background:rgba(0,0,0,0.88);
-          display:flex;
-          align-items:center;
-          justify-content:center;
-          z-index:99999;
-          padding:20px;
-          cursor:zoom-out;
-          overflow:hidden;
-          backdrop-filter: blur(3px);
-        \`;
-
-        // 🔹 CLOSE BUTTON
-        const closeBtn = document.createElement('div');
-        closeBtn.innerHTML = '&times;';
-
-        closeBtn.style.cssText = \`
-          position:absolute;
-          top:20px;
-          right:25px;
-          color:#fff;
-          font-size:42px;
-          font-weight:bold;
-          cursor:pointer;
-          z-index:100000;
-          line-height:1;
-          user-select:none;
-        \`;
-
-        closeBtn.onclick = () => {
-          overlay.remove();
-        };
-
-        const img = document.createElement('img');
-        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2026/07/sp1.webp";
-
-        img.style.cssText = \`
-          max-width:95%;
-          max-height:95%;
-          border-radius:12px;
-          transition:transform .15s ease;
-          cursor:zoom-in;
-          will-change:transform;
-          user-select:none;
-        \`;
-
-        let scale = 1;
-
-        // scroll zoom
-        overlay.onwheel = (e) => {
-          e.preventDefault();
-
-          scale += e.deltaY * -0.001;
-          scale = Math.min(Math.max(1, scale), 5);
-
-          img.style.transform = 'scale(' + scale + ')';
-        };
-
-        // double click zoom
-        img.ondblclick = () => {
-          scale = scale === 1 ? 2 : 1;
-          img.style.transform = 'scale(' + scale + ')';
-        };
-
-        overlay.appendChild(closeBtn);
-        overlay.appendChild(img);
-
-        document.body.appendChild(overlay);
-
-        // close overlay
-        overlay.onclick = (e) => {
-          if (e.target === overlay) {
-            overlay.remove();
-          }
-        };
-
-        // esc close
-        document.onkeydown = (e) => {
-          if (e.key === 'Escape') {
-            overlay.remove();
-          }
-        };
-      `})])],-1),n("h2",{id:"how-can-seller-upload-a-banner-for-the-seller-profile-page",tabindex:"-1"},[e("How can Seller upload a banner for the seller profile page "),n("a",{class:"header-anchor",href:"#how-can-seller-upload-a-banner-for-the-seller-profile-page","aria-label":'Permalink to "How can Seller upload a banner for the seller profile page"'},"​")],-1),n("p",null,"To upload banner on the seller profile page, the seller has to visit My Account page from the Profile menu.",-1),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
-          event.preventDefault();
-
-          const existing = document.getElementById('wk-image-overlay');
-          if(existing) existing.remove();
-
-          const overlay = document.createElement('div');
-          overlay.id = 'wk-image-overlay';
-
-          overlay.style.cssText = \`
-            position:fixed;
-            inset:0;
-            background:rgba(0,0,0,0.88);
-            display:flex;
-            align-items:center;
-            justify-content:center;
-            z-index:99999;
-            padding:20px;
-            cursor:zoom-out;
-            overflow:hidden;
-            backdrop-filter: blur(3px);
-          \`;
-
-          // 🔹 CLOSE BUTTON
-          const closeBtn = document.createElement('div');
-          closeBtn.innerHTML = '&times;';
-
-          closeBtn.style.cssText = \`
-            position:absolute;
-              top:20px;
-              right:25px;
-              background:#0c7484;
-              color:#fff;
-              width:50px;
-              height:50px;
-              border-radius:50%;
-              display:flex;
-              align-items:center;
-              justify-content:center;
-              font-size:32px;
-              font-weight:bold;
-              cursor:pointer;
-              z-index:100000;
-              line-height:1;
-              user-select:none;
-              box-shadow:0 4px 12px rgba(0,0,0,0.35);     
-          \`;
-
-          closeBtn.onclick = () => {
-            overlay.remove();
-          };
-
-          const img = document.createElement('img');
-          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/sdd5.webp";
-
-          img.style.cssText = \`
-            max-width:95%;
-            max-height:95%;
-            border-radius:12px;
-            transition:transform .15s ease;
-            cursor:zoom-in;
-            will-change:transform;
-            user-select:none;
-          \`;
-
-          let scale = 1;
-
-          // scroll zoom
-          overlay.onwheel = (e) => {
-            e.preventDefault();
-
-            scale += e.deltaY * -0.001;
-            scale = Math.min(Math.max(1, scale), 5);
-
-            img.style.transform = 'scale(' + scale + ')';
-          };
-
-          // double click zoom
-          img.ondblclick = () => {
-            scale = scale === 1 ? 2 : 1;
-            img.style.transform = 'scale(' + scale + ')';
-          };
-
-          overlay.appendChild(closeBtn);
-          overlay.appendChild(img);
-
-          document.body.appendChild(overlay);
-
-          // close overlay
-          overlay.onclick = (e) => {
-            if (e.target === overlay) {
-              overlay.remove();
-            }
-          };
-
-          // esc close
-          document.onkeydown = (e) => {
-            if (e.key === 'Escape') {
-              overlay.remove();
-            }
-          };
-        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/sdd5.webp",alt:"Seller 11",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
-        const existing = document.getElementById('wk-image-overlay');
-        if(existing) existing.remove();
-
-        const overlay = document.createElement('div');
-        overlay.id = 'wk-image-overlay';
-
-        overlay.style.cssText = \`
-          position:fixed;
-          inset:0;
-          background:rgba(0,0,0,0.88);
-          display:flex;
-          align-items:center;
-          justify-content:center;
-          z-index:99999;
-          padding:20px;
-          cursor:zoom-out;
-          overflow:hidden;
-          backdrop-filter: blur(3px);
-        \`;
-
-        // 🔹 CLOSE BUTTON
-        const closeBtn = document.createElement('div');
-        closeBtn.innerHTML = '&times;';
-
-        closeBtn.style.cssText = \`
-          position:absolute;
-          top:20px;
-          right:25px;
-          color:#fff;
-          font-size:42px;
-          font-weight:bold;
-          cursor:pointer;
-          z-index:100000;
-          line-height:1;
-          user-select:none;
-        \`;
-
-        closeBtn.onclick = () => {
-          overlay.remove();
-        };
-
-        const img = document.createElement('img');
-        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/sdd5.webp";
-
-        img.style.cssText = \`
-          max-width:95%;
-          max-height:95%;
-          border-radius:12px;
-          transition:transform .15s ease;
-          cursor:zoom-in;
-          will-change:transform;
-          user-select:none;
-        \`;
-
-        let scale = 1;
-
-        // scroll zoom
-        overlay.onwheel = (e) => {
-          e.preventDefault();
-
-          scale += e.deltaY * -0.001;
-          scale = Math.min(Math.max(1, scale), 5);
-
-          img.style.transform = 'scale(' + scale + ')';
-        };
-
-        // double click zoom
-        img.ondblclick = () => {
-          scale = scale === 1 ? 2 : 1;
-          img.style.transform = 'scale(' + scale + ')';
-        };
-
-        overlay.appendChild(closeBtn);
-        overlay.appendChild(img);
-
-        document.body.appendChild(overlay);
-
-        // close overlay
-        overlay.onclick = (e) => {
-          if (e.target === overlay) {
-            overlay.remove();
-          }
-        };
-
-        // esc close
-        document.onkeydown = (e) => {
-          if (e.key === 'Escape') {
-            overlay.remove();
-          }
-        };
-      `})])],-1),n("p",null,[e("On "),n("strong",null,"My Account"),e(" page click on 'Upload Banner' to upload banner on the seller profile page.")],-1),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
-          event.preventDefault();
-
-          const existing = document.getElementById('wk-image-overlay');
-          if(existing) existing.remove();
-
-          const overlay = document.createElement('div');
-          overlay.id = 'wk-image-overlay';
-
-          overlay.style.cssText = \`
-            position:fixed;
-            inset:0;
-            background:rgba(0,0,0,0.88);
-            display:flex;
-            align-items:center;
-            justify-content:center;
-            z-index:99999;
-            padding:20px;
-            cursor:zoom-out;
-            overflow:hidden;
-            backdrop-filter: blur(3px);
-          \`;
-
-          // 🔹 CLOSE BUTTON
-          const closeBtn = document.createElement('div');
-          closeBtn.innerHTML = '&times;';
-
-          closeBtn.style.cssText = \`
-            position:absolute;
-              top:20px;
-              right:25px;
-              background:#0c7484;
-              color:#fff;
-              width:50px;
-              height:50px;
-              border-radius:50%;
-              display:flex;
-              align-items:center;
-              justify-content:center;
-              font-size:32px;
-              font-weight:bold;
-              cursor:pointer;
-              z-index:100000;
-              line-height:1;
-              user-select:none;
-              box-shadow:0 4px 12px rgba(0,0,0,0.35);     
-          \`;
-
-          closeBtn.onclick = () => {
-            overlay.remove();
-          };
-
-          const img = document.createElement('img');
-          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/sd7-scaled.webp";
-
-          img.style.cssText = \`
-            max-width:95%;
-            max-height:95%;
-            border-radius:12px;
-            transition:transform .15s ease;
-            cursor:zoom-in;
-            will-change:transform;
-            user-select:none;
-          \`;
-
-          let scale = 1;
-
-          // scroll zoom
-          overlay.onwheel = (e) => {
-            e.preventDefault();
-
-            scale += e.deltaY * -0.001;
-            scale = Math.min(Math.max(1, scale), 5);
-
-            img.style.transform = 'scale(' + scale + ')';
-          };
-
-          // double click zoom
-          img.ondblclick = () => {
-            scale = scale === 1 ? 2 : 1;
-            img.style.transform = 'scale(' + scale + ')';
-          };
-
-          overlay.appendChild(closeBtn);
-          overlay.appendChild(img);
-
-          document.body.appendChild(overlay);
-
-          // close overlay
-          overlay.onclick = (e) => {
-            if (e.target === overlay) {
-              overlay.remove();
-            }
-          };
-
-          // esc close
-          document.onkeydown = (e) => {
-            if (e.key === 'Escape') {
-              overlay.remove();
-            }
-          };
-        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/sd7-scaled.webp",alt:"Seller My Account",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
-        const existing = document.getElementById('wk-image-overlay');
-        if(existing) existing.remove();
-
-        const overlay = document.createElement('div');
-        overlay.id = 'wk-image-overlay';
-
-        overlay.style.cssText = \`
-          position:fixed;
-          inset:0;
-          background:rgba(0,0,0,0.88);
-          display:flex;
-          align-items:center;
-          justify-content:center;
-          z-index:99999;
-          padding:20px;
-          cursor:zoom-out;
-          overflow:hidden;
-          backdrop-filter: blur(3px);
-        \`;
-
-        // 🔹 CLOSE BUTTON
-        const closeBtn = document.createElement('div');
-        closeBtn.innerHTML = '&times;';
-
-        closeBtn.style.cssText = \`
-          position:absolute;
-          top:20px;
-          right:25px;
-          color:#fff;
-          font-size:42px;
-          font-weight:bold;
-          cursor:pointer;
-          z-index:100000;
-          line-height:1;
-          user-select:none;
-        \`;
-
-        closeBtn.onclick = () => {
-          overlay.remove();
-        };
-
-        const img = document.createElement('img');
-        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/sd7-scaled.webp";
-
-        img.style.cssText = \`
-          max-width:95%;
-          max-height:95%;
-          border-radius:12px;
-          transition:transform .15s ease;
-          cursor:zoom-in;
-          will-change:transform;
-          user-select:none;
-        \`;
-
-        let scale = 1;
-
-        // scroll zoom
-        overlay.onwheel = (e) => {
-          e.preventDefault();
-
-          scale += e.deltaY * -0.001;
-          scale = Math.min(Math.max(1, scale), 5);
-
-          img.style.transform = 'scale(' + scale + ')';
-        };
-
-        // double click zoom
-        img.ondblclick = () => {
-          scale = scale === 1 ? 2 : 1;
-          img.style.transform = 'scale(' + scale + ')';
-        };
-
-        overlay.appendChild(closeBtn);
-        overlay.appendChild(img);
-
-        document.body.appendChild(overlay);
-
-        // close overlay
-        overlay.onclick = (e) => {
-          if (e.target === overlay) {
-            overlay.remove();
-          }
-        };
-
-        // esc close
-        document.onkeydown = (e) => {
-          if (e.key === 'Escape') {
-            overlay.remove();
-          }
-        };
-      `})])],-1),n("p",null,"Once you click on Upload Banner, the box will open where you will get the option to upload the Image as well as video.",-1),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
-          event.preventDefault();
-
-          const existing = document.getElementById('wk-image-overlay');
-          if(existing) existing.remove();
-
-          const overlay = document.createElement('div');
-          overlay.id = 'wk-image-overlay';
-
-          overlay.style.cssText = \`
-            position:fixed;
-            inset:0;
-            background:rgba(0,0,0,0.88);
-            display:flex;
-            align-items:center;
-            justify-content:center;
-            z-index:99999;
-            padding:20px;
-            cursor:zoom-out;
-            overflow:hidden;
-            backdrop-filter: blur(3px);
-          \`;
-
-          // 🔹 CLOSE BUTTON
-          const closeBtn = document.createElement('div');
-          closeBtn.innerHTML = '&times;';
-
-          closeBtn.style.cssText = \`
-            position:absolute;
-              top:20px;
-              right:25px;
-              background:#0c7484;
-              color:#fff;
-              width:50px;
-              height:50px;
-              border-radius:50%;
-              display:flex;
-              align-items:center;
-              justify-content:center;
-              font-size:32px;
-              font-weight:bold;
-              cursor:pointer;
-              z-index:100000;
-              line-height:1;
-              user-select:none;
-              box-shadow:0 4px 12px rgba(0,0,0,0.35);     
-          \`;
-
-          closeBtn.onclick = () => {
-            overlay.remove();
-          };
-
-          const img = document.createElement('img');
-          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/hy6.webp";
-
-          img.style.cssText = \`
-            max-width:95%;
-            max-height:95%;
-            border-radius:12px;
-            transition:transform .15s ease;
-            cursor:zoom-in;
-            will-change:transform;
-            user-select:none;
-          \`;
-
-          let scale = 1;
-
-          // scroll zoom
-          overlay.onwheel = (e) => {
-            e.preventDefault();
-
-            scale += e.deltaY * -0.001;
-            scale = Math.min(Math.max(1, scale), 5);
-
-            img.style.transform = 'scale(' + scale + ')';
-          };
-
-          // double click zoom
-          img.ondblclick = () => {
-            scale = scale === 1 ? 2 : 1;
-            img.style.transform = 'scale(' + scale + ')';
-          };
-
-          overlay.appendChild(closeBtn);
-          overlay.appendChild(img);
-
-          document.body.appendChild(overlay);
-
-          // close overlay
-          overlay.onclick = (e) => {
-            if (e.target === overlay) {
-              overlay.remove();
-            }
-          };
-
-          // esc close
-          document.onkeydown = (e) => {
-            if (e.key === 'Escape') {
-              overlay.remove();
-            }
-          };
-        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/hy6.webp",alt:"banner image",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
-        const existing = document.getElementById('wk-image-overlay');
-        if(existing) existing.remove();
-
-        const overlay = document.createElement('div');
-        overlay.id = 'wk-image-overlay';
-
-        overlay.style.cssText = \`
-          position:fixed;
-          inset:0;
-          background:rgba(0,0,0,0.88);
-          display:flex;
-          align-items:center;
-          justify-content:center;
-          z-index:99999;
-          padding:20px;
-          cursor:zoom-out;
-          overflow:hidden;
-          backdrop-filter: blur(3px);
-        \`;
-
-        // 🔹 CLOSE BUTTON
-        const closeBtn = document.createElement('div');
-        closeBtn.innerHTML = '&times;';
-
-        closeBtn.style.cssText = \`
-          position:absolute;
-          top:20px;
-          right:25px;
-          color:#fff;
-          font-size:42px;
-          font-weight:bold;
-          cursor:pointer;
-          z-index:100000;
-          line-height:1;
-          user-select:none;
-        \`;
-
-        closeBtn.onclick = () => {
-          overlay.remove();
-        };
-
-        const img = document.createElement('img');
-        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/hy6.webp";
-
-        img.style.cssText = \`
-          max-width:95%;
-          max-height:95%;
-          border-radius:12px;
-          transition:transform .15s ease;
-          cursor:zoom-in;
-          will-change:transform;
-          user-select:none;
-        \`;
-
-        let scale = 1;
-
-        // scroll zoom
-        overlay.onwheel = (e) => {
-          e.preventDefault();
-
-          scale += e.deltaY * -0.001;
-          scale = Math.min(Math.max(1, scale), 5);
-
-          img.style.transform = 'scale(' + scale + ')';
-        };
-
-        // double click zoom
-        img.ondblclick = () => {
-          scale = scale === 1 ? 2 : 1;
-          img.style.transform = 'scale(' + scale + ')';
-        };
-
-        overlay.appendChild(closeBtn);
-        overlay.appendChild(img);
-
-        document.body.appendChild(overlay);
-
-        // close overlay
-        overlay.onclick = (e) => {
-          if (e.target === overlay) {
-            overlay.remove();
-          }
-        };
-
-        // esc close
-        document.onkeydown = (e) => {
-          if (e.key === 'Escape') {
-            overlay.remove();
-          }
-        };
-      `})])],-1),n("p",null,'Sellers can also remove the banner from the "My Account" section.',-1),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
-          event.preventDefault();
-
-          const existing = document.getElementById('wk-image-overlay');
-          if(existing) existing.remove();
-
-          const overlay = document.createElement('div');
-          overlay.id = 'wk-image-overlay';
-
-          overlay.style.cssText = \`
-            position:fixed;
-            inset:0;
-            background:rgba(0,0,0,0.88);
-            display:flex;
-            align-items:center;
-            justify-content:center;
-            z-index:99999;
-            padding:20px;
-            cursor:zoom-out;
-            overflow:hidden;
-            backdrop-filter: blur(3px);
-          \`;
-
-          // 🔹 CLOSE BUTTON
-          const closeBtn = document.createElement('div');
-          closeBtn.innerHTML = '&times;';
-
-          closeBtn.style.cssText = \`
-            position:absolute;
-              top:20px;
-              right:25px;
-              background:#0c7484;
-              color:#fff;
-              width:50px;
-              height:50px;
-              border-radius:50%;
-              display:flex;
-              align-items:center;
-              justify-content:center;
-              font-size:32px;
-              font-weight:bold;
-              cursor:pointer;
-              z-index:100000;
-              line-height:1;
-              user-select:none;
-              box-shadow:0 4px 12px rgba(0,0,0,0.35);     
-          \`;
-
-          closeBtn.onclick = () => {
-            overlay.remove();
-          };
-
-          const img = document.createElement('img');
-          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/ddd7.webp";
-
-          img.style.cssText = \`
-            max-width:95%;
-            max-height:95%;
-            border-radius:12px;
-            transition:transform .15s ease;
-            cursor:zoom-in;
-            will-change:transform;
-            user-select:none;
-          \`;
-
-          let scale = 1;
-
-          // scroll zoom
-          overlay.onwheel = (e) => {
-            e.preventDefault();
-
-            scale += e.deltaY * -0.001;
-            scale = Math.min(Math.max(1, scale), 5);
-
-            img.style.transform = 'scale(' + scale + ')';
-          };
-
-          // double click zoom
-          img.ondblclick = () => {
-            scale = scale === 1 ? 2 : 1;
-            img.style.transform = 'scale(' + scale + ')';
-          };
-
-          overlay.appendChild(closeBtn);
-          overlay.appendChild(img);
-
-          document.body.appendChild(overlay);
-
-          // close overlay
-          overlay.onclick = (e) => {
-            if (e.target === overlay) {
-              overlay.remove();
-            }
-          };
-
-          // esc close
-          document.onkeydown = (e) => {
-            if (e.key === 'Escape') {
-              overlay.remove();
-            }
-          };
-        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/ddd7.webp",alt:"banner",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
-        const existing = document.getElementById('wk-image-overlay');
-        if(existing) existing.remove();
-
-        const overlay = document.createElement('div');
-        overlay.id = 'wk-image-overlay';
-
-        overlay.style.cssText = \`
-          position:fixed;
-          inset:0;
-          background:rgba(0,0,0,0.88);
-          display:flex;
-          align-items:center;
-          justify-content:center;
-          z-index:99999;
-          padding:20px;
-          cursor:zoom-out;
-          overflow:hidden;
-          backdrop-filter: blur(3px);
-        \`;
-
-        // 🔹 CLOSE BUTTON
-        const closeBtn = document.createElement('div');
-        closeBtn.innerHTML = '&times;';
-
-        closeBtn.style.cssText = \`
-          position:absolute;
-          top:20px;
-          right:25px;
-          color:#fff;
-          font-size:42px;
-          font-weight:bold;
-          cursor:pointer;
-          z-index:100000;
-          line-height:1;
-          user-select:none;
-        \`;
-
-        closeBtn.onclick = () => {
-          overlay.remove();
-        };
-
-        const img = document.createElement('img');
-        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/ddd7.webp";
-
-        img.style.cssText = \`
-          max-width:95%;
-          max-height:95%;
-          border-radius:12px;
-          transition:transform .15s ease;
-          cursor:zoom-in;
-          will-change:transform;
-          user-select:none;
-        \`;
-
-        let scale = 1;
-
-        // scroll zoom
-        overlay.onwheel = (e) => {
-          e.preventDefault();
-
-          scale += e.deltaY * -0.001;
-          scale = Math.min(Math.max(1, scale), 5);
-
-          img.style.transform = 'scale(' + scale + ')';
-        };
-
-        // double click zoom
-        img.ondblclick = () => {
-          scale = scale === 1 ? 2 : 1;
-          img.style.transform = 'scale(' + scale + ')';
-        };
-
-        overlay.appendChild(closeBtn);
-        overlay.appendChild(img);
-
-        document.body.appendChild(overlay);
-
-        // close overlay
-        overlay.onclick = (e) => {
-          if (e.target === overlay) {
-            overlay.remove();
-          }
-        };
-
-        // esc close
-        document.onkeydown = (e) => {
-          if (e.key === 'Escape') {
-            overlay.remove();
-          }
-        };
-      `})])],-1),n("h2",{id:"how-to-upload-the-video-on-the-seller-profile-page",tabindex:"-1"},[e("How to upload the video on the seller profile page "),n("a",{class:"header-anchor",href:"#how-to-upload-the-video-on-the-seller-profile-page","aria-label":'Permalink to "How to upload the video on the seller profile page"'},"​")],-1),n("p",null,"Sellers can upload video by clicking on the video as shown in the above screenshot.",-1),n("p",null,"After clicking on Video a new box will open where you have to enter YouTube embedded link.",-1),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
-          event.preventDefault();
-
-          const existing = document.getElementById('wk-image-overlay');
-          if(existing) existing.remove();
-
-          const overlay = document.createElement('div');
-          overlay.id = 'wk-image-overlay';
-
-          overlay.style.cssText = \`
-            position:fixed;
-            inset:0;
-            background:rgba(0,0,0,0.88);
-            display:flex;
-            align-items:center;
-            justify-content:center;
-            z-index:99999;
-            padding:20px;
-            cursor:zoom-out;
-            overflow:hidden;
-            backdrop-filter: blur(3px);
-          \`;
-
-          // 🔹 CLOSE BUTTON
-          const closeBtn = document.createElement('div');
-          closeBtn.innerHTML = '&times;';
-
-          closeBtn.style.cssText = \`
-            position:absolute;
-              top:20px;
-              right:25px;
-              background:#0c7484;
-              color:#fff;
-              width:50px;
-              height:50px;
-              border-radius:50%;
-              display:flex;
-              align-items:center;
-              justify-content:center;
-              font-size:32px;
-              font-weight:bold;
-              cursor:pointer;
-              z-index:100000;
-              line-height:1;
-              user-select:none;
-              box-shadow:0 4px 12px rgba(0,0,0,0.35);     
-          \`;
-
-          closeBtn.onclick = () => {
-            overlay.remove();
-          };
-
-          const img = document.createElement('img');
-          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/sh8.webp";
-
-          img.style.cssText = \`
-            max-width:95%;
-            max-height:95%;
-            border-radius:12px;
-            transition:transform .15s ease;
-            cursor:zoom-in;
-            will-change:transform;
-            user-select:none;
-          \`;
-
-          let scale = 1;
-
-          // scroll zoom
-          overlay.onwheel = (e) => {
-            e.preventDefault();
-
-            scale += e.deltaY * -0.001;
-            scale = Math.min(Math.max(1, scale), 5);
-
-            img.style.transform = 'scale(' + scale + ')';
-          };
-
-          // double click zoom
-          img.ondblclick = () => {
-            scale = scale === 1 ? 2 : 1;
-            img.style.transform = 'scale(' + scale + ')';
-          };
-
-          overlay.appendChild(closeBtn);
-          overlay.appendChild(img);
-
-          document.body.appendChild(overlay);
-
-          // close overlay
-          overlay.onclick = (e) => {
-            if (e.target === overlay) {
-              overlay.remove();
-            }
-          };
-
-          // esc close
-          document.onkeydown = (e) => {
-            if (e.key === 'Escape') {
-              overlay.remove();
-            }
-          };
-        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/sh8.webp",alt:"9",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
-        const existing = document.getElementById('wk-image-overlay');
-        if(existing) existing.remove();
-
-        const overlay = document.createElement('div');
-        overlay.id = 'wk-image-overlay';
-
-        overlay.style.cssText = \`
-          position:fixed;
-          inset:0;
-          background:rgba(0,0,0,0.88);
-          display:flex;
-          align-items:center;
-          justify-content:center;
-          z-index:99999;
-          padding:20px;
-          cursor:zoom-out;
-          overflow:hidden;
-          backdrop-filter: blur(3px);
-        \`;
-
-        // 🔹 CLOSE BUTTON
-        const closeBtn = document.createElement('div');
-        closeBtn.innerHTML = '&times;';
-
-        closeBtn.style.cssText = \`
-          position:absolute;
-          top:20px;
-          right:25px;
-          color:#fff;
-          font-size:42px;
-          font-weight:bold;
-          cursor:pointer;
-          z-index:100000;
-          line-height:1;
-          user-select:none;
-        \`;
-
-        closeBtn.onclick = () => {
-          overlay.remove();
-        };
-
-        const img = document.createElement('img');
-        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/sh8.webp";
-
-        img.style.cssText = \`
-          max-width:95%;
-          max-height:95%;
-          border-radius:12px;
-          transition:transform .15s ease;
-          cursor:zoom-in;
-          will-change:transform;
-          user-select:none;
-        \`;
-
-        let scale = 1;
-
-        // scroll zoom
-        overlay.onwheel = (e) => {
-          e.preventDefault();
-
-          scale += e.deltaY * -0.001;
-          scale = Math.min(Math.max(1, scale), 5);
-
-          img.style.transform = 'scale(' + scale + ')';
-        };
-
-        // double click zoom
-        img.ondblclick = () => {
-          scale = scale === 1 ? 2 : 1;
-          img.style.transform = 'scale(' + scale + ')';
-        };
-
-        overlay.appendChild(closeBtn);
-        overlay.appendChild(img);
-
-        document.body.appendChild(overlay);
-
-        // close overlay
-        overlay.onclick = (e) => {
-          if (e.target === overlay) {
-            overlay.remove();
-          }
-        };
-
-        // esc close
-        document.onkeydown = (e) => {
-          if (e.key === 'Escape') {
-            overlay.remove();
-          }
-        };
-      `})])],-1),n("h2",{id:"how-to-get-youtube-embedded-code",tabindex:"-1"},[e("How to get Youtube Embedded code "),n("a",{class:"header-anchor",href:"#how-to-get-youtube-embedded-code","aria-label":'Permalink to "How to get Youtube Embedded code"'},"​")],-1),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
-          event.preventDefault();
-
-          const existing = document.getElementById('wk-image-overlay');
-          if(existing) existing.remove();
-
-          const overlay = document.createElement('div');
-          overlay.id = 'wk-image-overlay';
-
-          overlay.style.cssText = \`
-            position:fixed;
-            inset:0;
-            background:rgba(0,0,0,0.88);
-            display:flex;
-            align-items:center;
-            justify-content:center;
-            z-index:99999;
-            padding:20px;
-            cursor:zoom-out;
-            overflow:hidden;
-            backdrop-filter: blur(3px);
-          \`;
-
-          // 🔹 CLOSE BUTTON
-          const closeBtn = document.createElement('div');
-          closeBtn.innerHTML = '&times;';
-
-          closeBtn.style.cssText = \`
-            position:absolute;
-              top:20px;
-              right:25px;
-              background:#0c7484;
-              color:#fff;
-              width:50px;
-              height:50px;
-              border-radius:50%;
-              display:flex;
-              align-items:center;
-              justify-content:center;
-              font-size:32px;
-              font-weight:bold;
-              cursor:pointer;
-              z-index:100000;
-              line-height:1;
-              user-select:none;
-              box-shadow:0 4px 12px rgba(0,0,0,0.35);     
-          \`;
-
-          closeBtn.onclick = () => {
-            overlay.remove();
-          };
-
-          const img = document.createElement('img');
-          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/Screenshot-1-2.png";
-
-          img.style.cssText = \`
-            max-width:95%;
-            max-height:95%;
-            border-radius:12px;
-            transition:transform .15s ease;
-            cursor:zoom-in;
-            will-change:transform;
-            user-select:none;
-          \`;
-
-          let scale = 1;
-
-          // scroll zoom
-          overlay.onwheel = (e) => {
-            e.preventDefault();
-
-            scale += e.deltaY * -0.001;
-            scale = Math.min(Math.max(1, scale), 5);
-
-            img.style.transform = 'scale(' + scale + ')';
-          };
-
-          // double click zoom
-          img.ondblclick = () => {
-            scale = scale === 1 ? 2 : 1;
-            img.style.transform = 'scale(' + scale + ')';
-          };
-
-          overlay.appendChild(closeBtn);
-          overlay.appendChild(img);
-
-          document.body.appendChild(overlay);
-
-          // close overlay
-          overlay.onclick = (e) => {
-            if (e.target === overlay) {
-              overlay.remove();
-            }
-          };
-
-          // esc close
-          document.onkeydown = (e) => {
-            if (e.key === 'Escape') {
-              overlay.remove();
-            }
-          };
-        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/Screenshot-1-2.png",alt:"10",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
-        const existing = document.getElementById('wk-image-overlay');
-        if(existing) existing.remove();
-
-        const overlay = document.createElement('div');
-        overlay.id = 'wk-image-overlay';
-
-        overlay.style.cssText = \`
-          position:fixed;
-          inset:0;
-          background:rgba(0,0,0,0.88);
-          display:flex;
-          align-items:center;
-          justify-content:center;
-          z-index:99999;
-          padding:20px;
-          cursor:zoom-out;
-          overflow:hidden;
-          backdrop-filter: blur(3px);
-        \`;
-
-        // 🔹 CLOSE BUTTON
-        const closeBtn = document.createElement('div');
-        closeBtn.innerHTML = '&times;';
-
-        closeBtn.style.cssText = \`
-          position:absolute;
-          top:20px;
-          right:25px;
-          color:#fff;
-          font-size:42px;
-          font-weight:bold;
-          cursor:pointer;
-          z-index:100000;
-          line-height:1;
-          user-select:none;
-        \`;
-
-        closeBtn.onclick = () => {
-          overlay.remove();
-        };
-
-        const img = document.createElement('img');
-        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/Screenshot-1-2.png";
-
-        img.style.cssText = \`
-          max-width:95%;
-          max-height:95%;
-          border-radius:12px;
-          transition:transform .15s ease;
-          cursor:zoom-in;
-          will-change:transform;
-          user-select:none;
-        \`;
-
-        let scale = 1;
-
-        // scroll zoom
-        overlay.onwheel = (e) => {
-          e.preventDefault();
-
-          scale += e.deltaY * -0.001;
-          scale = Math.min(Math.max(1, scale), 5);
-
-          img.style.transform = 'scale(' + scale + ')';
-        };
-
-        // double click zoom
-        img.ondblclick = () => {
-          scale = scale === 1 ? 2 : 1;
-          img.style.transform = 'scale(' + scale + ')';
-        };
-
-        overlay.appendChild(closeBtn);
-        overlay.appendChild(img);
-
-        document.body.appendChild(overlay);
-
-        // close overlay
-        overlay.onclick = (e) => {
-          if (e.target === overlay) {
-            overlay.remove();
-          }
-        };
-
-        // esc close
-        document.onkeydown = (e) => {
-          if (e.key === 'Escape') {
-            overlay.remove();
-          }
-        };
-      `})])],-1),n("p",null,[e("Open the video on Youtube which you want to upload on the seller profile page."),n("br"),e(" Now click on the share button and click on the embed link.")],-1),n("p",null,"Copy that 'embed Url' from there and pastes it in the URL box shown above.",-1),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
-          event.preventDefault();
-
-          const existing = document.getElementById('wk-image-overlay');
-          if(existing) existing.remove();
-
-          const overlay = document.createElement('div');
-          overlay.id = 'wk-image-overlay';
-
-          overlay.style.cssText = \`
-            position:fixed;
-            inset:0;
-            background:rgba(0,0,0,0.88);
-            display:flex;
-            align-items:center;
-            justify-content:center;
-            z-index:99999;
-            padding:20px;
-            cursor:zoom-out;
-            overflow:hidden;
-            backdrop-filter: blur(3px);
-          \`;
-
-          // 🔹 CLOSE BUTTON
-          const closeBtn = document.createElement('div');
-          closeBtn.innerHTML = '&times;';
-
-          closeBtn.style.cssText = \`
-            position:absolute;
-              top:20px;
-              right:25px;
-              background:#0c7484;
-              color:#fff;
-              width:50px;
-              height:50px;
-              border-radius:50%;
-              display:flex;
-              align-items:center;
-              justify-content:center;
-              font-size:32px;
-              font-weight:bold;
-              cursor:pointer;
-              z-index:100000;
-              line-height:1;
-              user-select:none;
-              box-shadow:0 4px 12px rgba(0,0,0,0.35);     
-          \`;
-
-          closeBtn.onclick = () => {
-            overlay.remove();
-          };
-
-          const img = document.createElement('img');
-          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/Screenshot-2-3.png";
-
-          img.style.cssText = \`
-            max-width:95%;
-            max-height:95%;
-            border-radius:12px;
-            transition:transform .15s ease;
-            cursor:zoom-in;
-            will-change:transform;
-            user-select:none;
-          \`;
-
-          let scale = 1;
-
-          // scroll zoom
-          overlay.onwheel = (e) => {
-            e.preventDefault();
-
-            scale += e.deltaY * -0.001;
-            scale = Math.min(Math.max(1, scale), 5);
-
-            img.style.transform = 'scale(' + scale + ')';
-          };
-
-          // double click zoom
-          img.ondblclick = () => {
-            scale = scale === 1 ? 2 : 1;
-            img.style.transform = 'scale(' + scale + ')';
-          };
-
-          overlay.appendChild(closeBtn);
-          overlay.appendChild(img);
-
-          document.body.appendChild(overlay);
-
-          // close overlay
-          overlay.onclick = (e) => {
-            if (e.target === overlay) {
-              overlay.remove();
-            }
-          };
-
-          // esc close
-          document.onkeydown = (e) => {
-            if (e.key === 'Escape') {
-              overlay.remove();
-            }
-          };
-        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/Screenshot-2-3.png",alt:"11",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
-        const existing = document.getElementById('wk-image-overlay');
-        if(existing) existing.remove();
-
-        const overlay = document.createElement('div');
-        overlay.id = 'wk-image-overlay';
-
-        overlay.style.cssText = \`
-          position:fixed;
-          inset:0;
-          background:rgba(0,0,0,0.88);
-          display:flex;
-          align-items:center;
-          justify-content:center;
-          z-index:99999;
-          padding:20px;
-          cursor:zoom-out;
-          overflow:hidden;
-          backdrop-filter: blur(3px);
-        \`;
-
-        // 🔹 CLOSE BUTTON
-        const closeBtn = document.createElement('div');
-        closeBtn.innerHTML = '&times;';
-
-        closeBtn.style.cssText = \`
-          position:absolute;
-          top:20px;
-          right:25px;
-          color:#fff;
-          font-size:42px;
-          font-weight:bold;
-          cursor:pointer;
-          z-index:100000;
-          line-height:1;
-          user-select:none;
-        \`;
-
-        closeBtn.onclick = () => {
-          overlay.remove();
-        };
-
-        const img = document.createElement('img');
-        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/Screenshot-2-3.png";
-
-        img.style.cssText = \`
-          max-width:95%;
-          max-height:95%;
-          border-radius:12px;
-          transition:transform .15s ease;
-          cursor:zoom-in;
-          will-change:transform;
-          user-select:none;
-        \`;
-
-        let scale = 1;
-
-        // scroll zoom
-        overlay.onwheel = (e) => {
-          e.preventDefault();
-
-          scale += e.deltaY * -0.001;
-          scale = Math.min(Math.max(1, scale), 5);
-
-          img.style.transform = 'scale(' + scale + ')';
-        };
-
-        // double click zoom
-        img.ondblclick = () => {
-          scale = scale === 1 ? 2 : 1;
-          img.style.transform = 'scale(' + scale + ')';
-        };
-
-        overlay.appendChild(closeBtn);
-        overlay.appendChild(img);
-
-        document.body.appendChild(overlay);
-
-        // close overlay
-        overlay.onclick = (e) => {
-          if (e.target === overlay) {
-            overlay.remove();
-          }
-        };
-
-        // esc close
-        document.onkeydown = (e) => {
-          if (e.key === 'Escape') {
-            overlay.remove();
-          }
-        };
-      `})])],-1),n("h3",{id:"how-to-upload-logo-on-the-seller-profile-page",tabindex:"-1"},[e("How to Upload Logo on the Seller profile page "),n("a",{class:"header-anchor",href:"#how-to-upload-logo-on-the-seller-profile-page","aria-label":'Permalink to "How to Upload Logo on the Seller profile page"'},"​")],-1),n("p",null,[n("strong",null,"How can a Seller upload his/her Shop LOGO?")],-1),n("p",null,[e('The seller can upload the Logo from the "'),n("strong",null,"My Account"),e('" menu of his/her profile.')],-1),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
-          event.preventDefault();
-
-          const existing = document.getElementById('wk-image-overlay');
-          if(existing) existing.remove();
-
-          const overlay = document.createElement('div');
-          overlay.id = 'wk-image-overlay';
-
-          overlay.style.cssText = \`
-            position:fixed;
-            inset:0;
-            background:rgba(0,0,0,0.88);
-            display:flex;
-            align-items:center;
-            justify-content:center;
-            z-index:99999;
-            padding:20px;
-            cursor:zoom-out;
-            overflow:hidden;
-            backdrop-filter: blur(3px);
-          \`;
-
-          // 🔹 CLOSE BUTTON
-          const closeBtn = document.createElement('div');
-          closeBtn.innerHTML = '&times;';
-
-          closeBtn.style.cssText = \`
-            position:absolute;
-              top:20px;
-              right:25px;
-              background:#0c7484;
-              color:#fff;
-              width:50px;
-              height:50px;
-              border-radius:50%;
-              display:flex;
-              align-items:center;
-              justify-content:center;
-              font-size:32px;
-              font-weight:bold;
-              cursor:pointer;
-              z-index:100000;
-              line-height:1;
-              user-select:none;
-              box-shadow:0 4px 12px rgba(0,0,0,0.35);     
-          \`;
-
-          closeBtn.onclick = () => {
-            overlay.remove();
-          };
-
-          const img = document.createElement('img');
-          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/sdd7.webp";
-
-          img.style.cssText = \`
-            max-width:95%;
-            max-height:95%;
-            border-radius:12px;
-            transition:transform .15s ease;
-            cursor:zoom-in;
-            will-change:transform;
-            user-select:none;
-          \`;
-
-          let scale = 1;
-
-          // scroll zoom
-          overlay.onwheel = (e) => {
-            e.preventDefault();
-
-            scale += e.deltaY * -0.001;
-            scale = Math.min(Math.max(1, scale), 5);
-
-            img.style.transform = 'scale(' + scale + ')';
-          };
-
-          // double click zoom
-          img.ondblclick = () => {
-            scale = scale === 1 ? 2 : 1;
-            img.style.transform = 'scale(' + scale + ')';
-          };
-
-          overlay.appendChild(closeBtn);
-          overlay.appendChild(img);
-
-          document.body.appendChild(overlay);
-
-          // close overlay
-          overlay.onclick = (e) => {
-            if (e.target === overlay) {
-              overlay.remove();
-            }
-          };
-
-          // esc close
-          document.onkeydown = (e) => {
-            if (e.key === 'Escape') {
-              overlay.remove();
-            }
-          };
-        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/sdd7.webp",alt:"Seller Profile",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
-        const existing = document.getElementById('wk-image-overlay');
-        if(existing) existing.remove();
-
-        const overlay = document.createElement('div');
-        overlay.id = 'wk-image-overlay';
-
-        overlay.style.cssText = \`
-          position:fixed;
-          inset:0;
-          background:rgba(0,0,0,0.88);
-          display:flex;
-          align-items:center;
-          justify-content:center;
-          z-index:99999;
-          padding:20px;
-          cursor:zoom-out;
-          overflow:hidden;
-          backdrop-filter: blur(3px);
-        \`;
-
-        // 🔹 CLOSE BUTTON
-        const closeBtn = document.createElement('div');
-        closeBtn.innerHTML = '&times;';
-
-        closeBtn.style.cssText = \`
-          position:absolute;
-          top:20px;
-          right:25px;
-          color:#fff;
-          font-size:42px;
-          font-weight:bold;
-          cursor:pointer;
-          z-index:100000;
-          line-height:1;
-          user-select:none;
-        \`;
-
-        closeBtn.onclick = () => {
-          overlay.remove();
-        };
-
-        const img = document.createElement('img');
-        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/sdd7.webp";
-
-        img.style.cssText = \`
-          max-width:95%;
-          max-height:95%;
-          border-radius:12px;
-          transition:transform .15s ease;
-          cursor:zoom-in;
-          will-change:transform;
-          user-select:none;
-        \`;
-
-        let scale = 1;
-
-        // scroll zoom
-        overlay.onwheel = (e) => {
-          e.preventDefault();
-
-          scale += e.deltaY * -0.001;
-          scale = Math.min(Math.max(1, scale), 5);
-
-          img.style.transform = 'scale(' + scale + ')';
-        };
-
-        // double click zoom
-        img.ondblclick = () => {
-          scale = scale === 1 ? 2 : 1;
-          img.style.transform = 'scale(' + scale + ')';
-        };
-
-        overlay.appendChild(closeBtn);
-        overlay.appendChild(img);
-
-        document.body.appendChild(overlay);
-
-        // close overlay
-        overlay.onclick = (e) => {
-          if (e.target === overlay) {
-            overlay.remove();
-          }
-        };
-
-        // esc close
-        document.onkeydown = (e) => {
-          if (e.key === 'Escape') {
-            overlay.remove();
-          }
-        };
-      `})])],-1),n("p",null,"Now click on upload image as shown in the screenshot below:",-1),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
-          event.preventDefault();
-
-          const existing = document.getElementById('wk-image-overlay');
-          if(existing) existing.remove();
-
-          const overlay = document.createElement('div');
-          overlay.id = 'wk-image-overlay';
-
-          overlay.style.cssText = \`
-            position:fixed;
-            inset:0;
-            background:rgba(0,0,0,0.88);
-            display:flex;
-            align-items:center;
-            justify-content:center;
-            z-index:99999;
-            padding:20px;
-            cursor:zoom-out;
-            overflow:hidden;
-            backdrop-filter: blur(3px);
-          \`;
-
-          // 🔹 CLOSE BUTTON
-          const closeBtn = document.createElement('div');
-          closeBtn.innerHTML = '&times;';
-
-          closeBtn.style.cssText = \`
-            position:absolute;
-              top:20px;
-              right:25px;
-              background:#0c7484;
-              color:#fff;
-              width:50px;
-              height:50px;
-              border-radius:50%;
-              display:flex;
-              align-items:center;
-              justify-content:center;
-              font-size:32px;
-              font-weight:bold;
-              cursor:pointer;
-              z-index:100000;
-              line-height:1;
-              user-select:none;
-              box-shadow:0 4px 12px rgba(0,0,0,0.35);     
-          \`;
-
-          closeBtn.onclick = () => {
-            overlay.remove();
-          };
-
-          const img = document.createElement('img');
-          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2026/02/shoplogo.webp";
-
-          img.style.cssText = \`
-            max-width:95%;
-            max-height:95%;
-            border-radius:12px;
-            transition:transform .15s ease;
-            cursor:zoom-in;
-            will-change:transform;
-            user-select:none;
-          \`;
-
-          let scale = 1;
-
-          // scroll zoom
-          overlay.onwheel = (e) => {
-            e.preventDefault();
-
-            scale += e.deltaY * -0.001;
-            scale = Math.min(Math.max(1, scale), 5);
-
-            img.style.transform = 'scale(' + scale + ')';
-          };
-
-          // double click zoom
-          img.ondblclick = () => {
-            scale = scale === 1 ? 2 : 1;
-            img.style.transform = 'scale(' + scale + ')';
-          };
-
-          overlay.appendChild(closeBtn);
-          overlay.appendChild(img);
-
-          document.body.appendChild(overlay);
-
-          // close overlay
-          overlay.onclick = (e) => {
-            if (e.target === overlay) {
-              overlay.remove();
-            }
-          };
-
-          // esc close
-          document.onkeydown = (e) => {
-            if (e.key === 'Escape') {
-              overlay.remove();
-            }
-          };
-        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2026/02/shoplogo.webp",alt:"Seller Shop logo",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
-        const existing = document.getElementById('wk-image-overlay');
-        if(existing) existing.remove();
-
-        const overlay = document.createElement('div');
-        overlay.id = 'wk-image-overlay';
-
-        overlay.style.cssText = \`
-          position:fixed;
-          inset:0;
-          background:rgba(0,0,0,0.88);
-          display:flex;
-          align-items:center;
-          justify-content:center;
-          z-index:99999;
-          padding:20px;
-          cursor:zoom-out;
-          overflow:hidden;
-          backdrop-filter: blur(3px);
-        \`;
-
-        // 🔹 CLOSE BUTTON
-        const closeBtn = document.createElement('div');
-        closeBtn.innerHTML = '&times;';
-
-        closeBtn.style.cssText = \`
-          position:absolute;
-          top:20px;
-          right:25px;
-          color:#fff;
-          font-size:42px;
-          font-weight:bold;
-          cursor:pointer;
-          z-index:100000;
-          line-height:1;
-          user-select:none;
-        \`;
-
-        closeBtn.onclick = () => {
-          overlay.remove();
-        };
-
-        const img = document.createElement('img');
-        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2026/02/shoplogo.webp";
-
-        img.style.cssText = \`
-          max-width:95%;
-          max-height:95%;
-          border-radius:12px;
-          transition:transform .15s ease;
-          cursor:zoom-in;
-          will-change:transform;
-          user-select:none;
-        \`;
-
-        let scale = 1;
-
-        // scroll zoom
-        overlay.onwheel = (e) => {
-          e.preventDefault();
-
-          scale += e.deltaY * -0.001;
-          scale = Math.min(Math.max(1, scale), 5);
-
-          img.style.transform = 'scale(' + scale + ')';
-        };
-
-        // double click zoom
-        img.ondblclick = () => {
-          scale = scale === 1 ? 2 : 1;
-          img.style.transform = 'scale(' + scale + ')';
-        };
-
-        overlay.appendChild(closeBtn);
-        overlay.appendChild(img);
-
-        document.body.appendChild(overlay);
-
-        // close overlay
-        overlay.onclick = (e) => {
-          if (e.target === overlay) {
-            overlay.remove();
-          }
-        };
-
-        // esc close
-        document.onkeydown = (e) => {
-          if (e.key === 'Escape') {
-            overlay.remove();
-          }
-        };
-      `})])],-1),n("p",null,"After clicking on 'Upload Image' box will open then click on upload image,",-1),n("p",null,"then select the image you want to upload for the logo, to display on seller profile page then click on save.",-1),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
-          event.preventDefault();
-
-          const existing = document.getElementById('wk-image-overlay');
-          if(existing) existing.remove();
-
-          const overlay = document.createElement('div');
-          overlay.id = 'wk-image-overlay';
-
-          overlay.style.cssText = \`
-            position:fixed;
-            inset:0;
-            background:rgba(0,0,0,0.88);
-            display:flex;
-            align-items:center;
-            justify-content:center;
-            z-index:99999;
-            padding:20px;
-            cursor:zoom-out;
-            overflow:hidden;
-            backdrop-filter: blur(3px);
-          \`;
-
-          // 🔹 CLOSE BUTTON
-          const closeBtn = document.createElement('div');
-          closeBtn.innerHTML = '&times;';
-
-          closeBtn.style.cssText = \`
-            position:absolute;
-              top:20px;
-              right:25px;
-              background:#0c7484;
-              color:#fff;
-              width:50px;
-              height:50px;
-              border-radius:50%;
-              display:flex;
-              align-items:center;
-              justify-content:center;
-              font-size:32px;
-              font-weight:bold;
-              cursor:pointer;
-              z-index:100000;
-              line-height:1;
-              user-select:none;
-              box-shadow:0 4px 12px rgba(0,0,0,0.35);     
-          \`;
-
-          closeBtn.onclick = () => {
-            overlay.remove();
-          };
-
-          const img = document.createElement('img');
-          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/dasdd7.webp";
-
-          img.style.cssText = \`
-            max-width:95%;
-            max-height:95%;
-            border-radius:12px;
-            transition:transform .15s ease;
-            cursor:zoom-in;
-            will-change:transform;
-            user-select:none;
-          \`;
-
-          let scale = 1;
-
-          // scroll zoom
-          overlay.onwheel = (e) => {
-            e.preventDefault();
-
-            scale += e.deltaY * -0.001;
-            scale = Math.min(Math.max(1, scale), 5);
-
-            img.style.transform = 'scale(' + scale + ')';
-          };
-
-          // double click zoom
-          img.ondblclick = () => {
-            scale = scale === 1 ? 2 : 1;
-            img.style.transform = 'scale(' + scale + ')';
-          };
-
-          overlay.appendChild(closeBtn);
-          overlay.appendChild(img);
-
-          document.body.appendChild(overlay);
-
-          // close overlay
-          overlay.onclick = (e) => {
-            if (e.target === overlay) {
-              overlay.remove();
-            }
-          };
-
-          // esc close
-          document.onkeydown = (e) => {
-            if (e.key === 'Escape') {
-              overlay.remove();
-            }
-          };
-        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/dasdd7.webp",alt:"Upload LOGO",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
-        const existing = document.getElementById('wk-image-overlay');
-        if(existing) existing.remove();
-
-        const overlay = document.createElement('div');
-        overlay.id = 'wk-image-overlay';
-
-        overlay.style.cssText = \`
-          position:fixed;
-          inset:0;
-          background:rgba(0,0,0,0.88);
-          display:flex;
-          align-items:center;
-          justify-content:center;
-          z-index:99999;
-          padding:20px;
-          cursor:zoom-out;
-          overflow:hidden;
-          backdrop-filter: blur(3px);
-        \`;
-
-        // 🔹 CLOSE BUTTON
-        const closeBtn = document.createElement('div');
-        closeBtn.innerHTML = '&times;';
-
-        closeBtn.style.cssText = \`
-          position:absolute;
-          top:20px;
-          right:25px;
-          color:#fff;
-          font-size:42px;
-          font-weight:bold;
-          cursor:pointer;
-          z-index:100000;
-          line-height:1;
-          user-select:none;
-        \`;
-
-        closeBtn.onclick = () => {
-          overlay.remove();
-        };
-
-        const img = document.createElement('img');
-        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/dasdd7.webp";
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/81denyproduct.webp";
 
         img.style.cssText = \`
           max-width:95%;
@@ -5811,7 +3123,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
           };
 
           const img = document.createElement('img');
-          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2026/07/sp2.webp";
+          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/addcsv.webp";
 
           img.style.cssText = \`
             max-width:95%;
@@ -5859,7 +3171,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
               overlay.remove();
             }
           };
-        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2026/07/sp2.webp",alt:"upload seller logo ",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/addcsv.webp",alt:"image-167",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
         const existing = document.getElementById('wk-image-overlay');
         if(existing) existing.remove();
 
@@ -5902,7 +3214,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
         };
 
         const img = document.createElement('img');
-        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2026/07/sp2.webp";
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/addcsv.webp";
 
         img.style.cssText = \`
           max-width:95%;
@@ -5950,7 +3262,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
             overlay.remove();
           }
         };
-      `})])],-1),n("h2",{id:"admin-end",tabindex:"-1"},[n("strong",null,"Admin End"),e(),n("a",{class:"header-anchor",href:"#admin-end","aria-label":'Permalink to "**Admin End**"'},"​")],-1),n("p",null,"Now, go to Edit Seller Section and Upload the Shop Logo of that Particular seller from admin panel.",-1),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
+      `})])],-1),n("p",null,[e("In "),n("strong",null,"method 1"),e(", you just need to upload the updated/edited CSV file.")],-1),n("p",null,[e("Make sure in the CSV file that you are uploading, the "),n("strong",null,"Product IDs"),e(" are the same as that of the "),n("strong",null,"existing products"),e(" you are trying to update.")],-1),n("p",null,"If the product IDs don't match, the existing products will not be updated and new products will be created.",-1),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
           event.preventDefault();
 
           const existing = document.getElementById('wk-image-overlay');
@@ -6003,7 +3315,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
           };
 
           const img = document.createElement('img');
-          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/sad4.webp";
+          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/82addproductcsv.webp";
 
           img.style.cssText = \`
             max-width:95%;
@@ -6051,7 +3363,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
               overlay.remove();
             }
           };
-        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/sad4.webp",alt:"Seller Logo Admin end",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/82addproductcsv.webp",alt:"image-168",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
         const existing = document.getElementById('wk-image-overlay');
         if(existing) existing.remove();
 
@@ -6094,7 +3406,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
         };
 
         const img = document.createElement('img');
-        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/sad4.webp";
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/82addproductcsv.webp";
 
         img.style.cssText = \`
           max-width:95%;
@@ -6142,7 +3454,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
             overlay.remove();
           }
         };
-      `})])],-1),o("",4),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
+      `})])],-1),n("p",null,"Haan, images ke liye descriptive alt text add kar diya hai. Main sirf image references ko update kar raha hoon:",-1),n("p",null,[n("strong",null,"Refer:"),e(),n("a",{href:"javascript:void(0)",onclick:`
           event.preventDefault();
 
           const existing = document.getElementById('wk-image-overlay');
@@ -6195,7 +3507,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
           };
 
           const img = document.createElement('img');
-          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/ssssssc4.webp";
+          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2026/08/restrictionconfig.webp";
 
           img.style.cssText = \`
             max-width:95%;
@@ -6243,7 +3555,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
               overlay.remove();
             }
           };
-        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/ssssssc4.webp",alt:"Instruction for Marketplace",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2026/08/restrictionconfig.webp",alt:"Restriction Configuration",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
         const existing = document.getElementById('wk-image-overlay');
         if(existing) existing.remove();
 
@@ -6286,7 +3598,2695 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
         };
 
         const img = document.createElement('img');
-        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/ssssssc4.webp";
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2026/08/restrictionconfig.webp";
+
+        img.style.cssText = \`
+          max-width:95%;
+          max-height:95%;
+          border-radius:12px;
+          transition:transform .15s ease;
+          cursor:zoom-in;
+          will-change:transform;
+          user-select:none;
+        \`;
+
+        let scale = 1;
+
+        // scroll zoom
+        overlay.onwheel = (e) => {
+          e.preventDefault();
+
+          scale += e.deltaY * -0.001;
+          scale = Math.min(Math.max(1, scale), 5);
+
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        // double click zoom
+        img.ondblclick = () => {
+          scale = scale === 1 ? 2 : 1;
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        overlay.appendChild(closeBtn);
+        overlay.appendChild(img);
+
+        document.body.appendChild(overlay);
+
+        // close overlay
+        overlay.onclick = (e) => {
+          if (e.target === overlay) {
+            overlay.remove();
+          }
+        };
+
+        // esc close
+        document.onkeydown = (e) => {
+          if (e.key === 'Escape') {
+            overlay.remove();
+          }
+        };
+      `})])],-1),n("p",null,[n("strong",null,"Refer:"),e(),n("a",{href:"javascript:void(0)",onclick:`
+          event.preventDefault();
+
+          const existing = document.getElementById('wk-image-overlay');
+          if(existing) existing.remove();
+
+          const overlay = document.createElement('div');
+          overlay.id = 'wk-image-overlay';
+
+          overlay.style.cssText = \`
+            position:fixed;
+            inset:0;
+            background:rgba(0,0,0,0.88);
+            display:flex;
+            align-items:center;
+            justify-content:center;
+            z-index:99999;
+            padding:20px;
+            cursor:zoom-out;
+            overflow:hidden;
+            backdrop-filter: blur(3px);
+          \`;
+
+          // 🔹 CLOSE BUTTON
+          const closeBtn = document.createElement('div');
+          closeBtn.innerHTML = '&times;';
+
+          closeBtn.style.cssText = \`
+            position:absolute;
+              top:20px;
+              right:25px;
+              background:#0c7484;
+              color:#fff;
+              width:50px;
+              height:50px;
+              border-radius:50%;
+              display:flex;
+              align-items:center;
+              justify-content:center;
+              font-size:32px;
+              font-weight:bold;
+              cursor:pointer;
+              z-index:100000;
+              line-height:1;
+              user-select:none;
+              box-shadow:0 4px 12px rgba(0,0,0,0.35);     
+          \`;
+
+          closeBtn.onclick = () => {
+            overlay.remove();
+          };
+
+          const img = document.createElement('img');
+          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2026/08/assigntype.webp";
+
+          img.style.cssText = \`
+            max-width:95%;
+            max-height:95%;
+            border-radius:12px;
+            transition:transform .15s ease;
+            cursor:zoom-in;
+            will-change:transform;
+            user-select:none;
+          \`;
+
+          let scale = 1;
+
+          // scroll zoom
+          overlay.onwheel = (e) => {
+            e.preventDefault();
+
+            scale += e.deltaY * -0.001;
+            scale = Math.min(Math.max(1, scale), 5);
+
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          // double click zoom
+          img.ondblclick = () => {
+            scale = scale === 1 ? 2 : 1;
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          overlay.appendChild(closeBtn);
+          overlay.appendChild(img);
+
+          document.body.appendChild(overlay);
+
+          // close overlay
+          overlay.onclick = (e) => {
+            if (e.target === overlay) {
+              overlay.remove();
+            }
+          };
+
+          // esc close
+          document.onkeydown = (e) => {
+            if (e.key === 'Escape') {
+              overlay.remove();
+            }
+          };
+        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2026/08/assigntype.webp",alt:"Assign Product Types to Seller",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+        const existing = document.getElementById('wk-image-overlay');
+        if(existing) existing.remove();
+
+        const overlay = document.createElement('div');
+        overlay.id = 'wk-image-overlay';
+
+        overlay.style.cssText = \`
+          position:fixed;
+          inset:0;
+          background:rgba(0,0,0,0.88);
+          display:flex;
+          align-items:center;
+          justify-content:center;
+          z-index:99999;
+          padding:20px;
+          cursor:zoom-out;
+          overflow:hidden;
+          backdrop-filter: blur(3px);
+        \`;
+
+        // 🔹 CLOSE BUTTON
+        const closeBtn = document.createElement('div');
+        closeBtn.innerHTML = '&times;';
+
+        closeBtn.style.cssText = \`
+          position:absolute;
+          top:20px;
+          right:25px;
+          color:#fff;
+          font-size:42px;
+          font-weight:bold;
+          cursor:pointer;
+          z-index:100000;
+          line-height:1;
+          user-select:none;
+        \`;
+
+        closeBtn.onclick = () => {
+          overlay.remove();
+        };
+
+        const img = document.createElement('img');
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2026/08/assigntype.webp";
+
+        img.style.cssText = \`
+          max-width:95%;
+          max-height:95%;
+          border-radius:12px;
+          transition:transform .15s ease;
+          cursor:zoom-in;
+          will-change:transform;
+          user-select:none;
+        \`;
+
+        let scale = 1;
+
+        // scroll zoom
+        overlay.onwheel = (e) => {
+          e.preventDefault();
+
+          scale += e.deltaY * -0.001;
+          scale = Math.min(Math.max(1, scale), 5);
+
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        // double click zoom
+        img.ondblclick = () => {
+          scale = scale === 1 ? 2 : 1;
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        overlay.appendChild(closeBtn);
+        overlay.appendChild(img);
+
+        document.body.appendChild(overlay);
+
+        // close overlay
+        overlay.onclick = (e) => {
+          if (e.target === overlay) {
+            overlay.remove();
+          }
+        };
+
+        // esc close
+        document.onkeydown = (e) => {
+          if (e.key === 'Escape') {
+            overlay.remove();
+          }
+        };
+      `})])],-1),n("p",null,[n("strong",null,"Refer:"),e(),n("a",{href:"javascript:void(0)",onclick:`
+          event.preventDefault();
+
+          const existing = document.getElementById('wk-image-overlay');
+          if(existing) existing.remove();
+
+          const overlay = document.createElement('div');
+          overlay.id = 'wk-image-overlay';
+
+          overlay.style.cssText = \`
+            position:fixed;
+            inset:0;
+            background:rgba(0,0,0,0.88);
+            display:flex;
+            align-items:center;
+            justify-content:center;
+            z-index:99999;
+            padding:20px;
+            cursor:zoom-out;
+            overflow:hidden;
+            backdrop-filter: blur(3px);
+          \`;
+
+          // 🔹 CLOSE BUTTON
+          const closeBtn = document.createElement('div');
+          closeBtn.innerHTML = '&times;';
+
+          closeBtn.style.cssText = \`
+            position:absolute;
+              top:20px;
+              right:25px;
+              background:#0c7484;
+              color:#fff;
+              width:50px;
+              height:50px;
+              border-radius:50%;
+              display:flex;
+              align-items:center;
+              justify-content:center;
+              font-size:32px;
+              font-weight:bold;
+              cursor:pointer;
+              z-index:100000;
+              line-height:1;
+              user-select:none;
+              box-shadow:0 4px 12px rgba(0,0,0,0.35);     
+          \`;
+
+          closeBtn.onclick = () => {
+            overlay.remove();
+          };
+
+          const img = document.createElement('img');
+          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2026/08/editproductseller.webp";
+
+          img.style.cssText = \`
+            max-width:95%;
+            max-height:95%;
+            border-radius:12px;
+            transition:transform .15s ease;
+            cursor:zoom-in;
+            will-change:transform;
+            user-select:none;
+          \`;
+
+          let scale = 1;
+
+          // scroll zoom
+          overlay.onwheel = (e) => {
+            e.preventDefault();
+
+            scale += e.deltaY * -0.001;
+            scale = Math.min(Math.max(1, scale), 5);
+
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          // double click zoom
+          img.ondblclick = () => {
+            scale = scale === 1 ? 2 : 1;
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          overlay.appendChild(closeBtn);
+          overlay.appendChild(img);
+
+          document.body.appendChild(overlay);
+
+          // close overlay
+          overlay.onclick = (e) => {
+            if (e.target === overlay) {
+              overlay.remove();
+            }
+          };
+
+          // esc close
+          document.onkeydown = (e) => {
+            if (e.key === 'Escape') {
+              overlay.remove();
+            }
+          };
+        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2026/08/editproductseller.webp",alt:"Product Type Selection for Seller",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+        const existing = document.getElementById('wk-image-overlay');
+        if(existing) existing.remove();
+
+        const overlay = document.createElement('div');
+        overlay.id = 'wk-image-overlay';
+
+        overlay.style.cssText = \`
+          position:fixed;
+          inset:0;
+          background:rgba(0,0,0,0.88);
+          display:flex;
+          align-items:center;
+          justify-content:center;
+          z-index:99999;
+          padding:20px;
+          cursor:zoom-out;
+          overflow:hidden;
+          backdrop-filter: blur(3px);
+        \`;
+
+        // 🔹 CLOSE BUTTON
+        const closeBtn = document.createElement('div');
+        closeBtn.innerHTML = '&times;';
+
+        closeBtn.style.cssText = \`
+          position:absolute;
+          top:20px;
+          right:25px;
+          color:#fff;
+          font-size:42px;
+          font-weight:bold;
+          cursor:pointer;
+          z-index:100000;
+          line-height:1;
+          user-select:none;
+        \`;
+
+        closeBtn.onclick = () => {
+          overlay.remove();
+        };
+
+        const img = document.createElement('img');
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2026/08/editproductseller.webp";
+
+        img.style.cssText = \`
+          max-width:95%;
+          max-height:95%;
+          border-radius:12px;
+          transition:transform .15s ease;
+          cursor:zoom-in;
+          will-change:transform;
+          user-select:none;
+        \`;
+
+        let scale = 1;
+
+        // scroll zoom
+        overlay.onwheel = (e) => {
+          e.preventDefault();
+
+          scale += e.deltaY * -0.001;
+          scale = Math.min(Math.max(1, scale), 5);
+
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        // double click zoom
+        img.ondblclick = () => {
+          scale = scale === 1 ? 2 : 1;
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        overlay.appendChild(closeBtn);
+        overlay.appendChild(img);
+
+        document.body.appendChild(overlay);
+
+        // close overlay
+        overlay.onclick = (e) => {
+          if (e.target === overlay) {
+            overlay.remove();
+          }
+        };
+
+        // esc close
+        document.onkeydown = (e) => {
+          if (e.key === 'Escape') {
+            overlay.remove();
+          }
+        };
+      `})])],-1),n("p",null,[n("strong",null,"Refer:"),e(),n("a",{href:"javascript:void(0)",onclick:`
+          event.preventDefault();
+
+          const existing = document.getElementById('wk-image-overlay');
+          if(existing) existing.remove();
+
+          const overlay = document.createElement('div');
+          overlay.id = 'wk-image-overlay';
+
+          overlay.style.cssText = \`
+            position:fixed;
+            inset:0;
+            background:rgba(0,0,0,0.88);
+            display:flex;
+            align-items:center;
+            justify-content:center;
+            z-index:99999;
+            padding:20px;
+            cursor:zoom-out;
+            overflow:hidden;
+            backdrop-filter: blur(3px);
+          \`;
+
+          // 🔹 CLOSE BUTTON
+          const closeBtn = document.createElement('div');
+          closeBtn.innerHTML = '&times;';
+
+          closeBtn.style.cssText = \`
+            position:absolute;
+              top:20px;
+              right:25px;
+              background:#0c7484;
+              color:#fff;
+              width:50px;
+              height:50px;
+              border-radius:50%;
+              display:flex;
+              align-items:center;
+              justify-content:center;
+              font-size:32px;
+              font-weight:bold;
+              cursor:pointer;
+              z-index:100000;
+              line-height:1;
+              user-select:none;
+              box-shadow:0 4px 12px rgba(0,0,0,0.35);     
+          \`;
+
+          closeBtn.onclick = () => {
+            overlay.remove();
+          };
+
+          const img = document.createElement('img');
+          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2026/08/noactionallowedseller.webp";
+
+          img.style.cssText = \`
+            max-width:95%;
+            max-height:95%;
+            border-radius:12px;
+            transition:transform .15s ease;
+            cursor:zoom-in;
+            will-change:transform;
+            user-select:none;
+          \`;
+
+          let scale = 1;
+
+          // scroll zoom
+          overlay.onwheel = (e) => {
+            e.preventDefault();
+
+            scale += e.deltaY * -0.001;
+            scale = Math.min(Math.max(1, scale), 5);
+
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          // double click zoom
+          img.ondblclick = () => {
+            scale = scale === 1 ? 2 : 1;
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          overlay.appendChild(closeBtn);
+          overlay.appendChild(img);
+
+          document.body.appendChild(overlay);
+
+          // close overlay
+          overlay.onclick = (e) => {
+            if (e.target === overlay) {
+              overlay.remove();
+            }
+          };
+
+          // esc close
+          document.onkeydown = (e) => {
+            if (e.key === 'Escape') {
+              overlay.remove();
+            }
+          };
+        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2026/08/noactionallowedseller.webp",alt:"Product Type Restriction for Existing Seller Product",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+        const existing = document.getElementById('wk-image-overlay');
+        if(existing) existing.remove();
+
+        const overlay = document.createElement('div');
+        overlay.id = 'wk-image-overlay';
+
+        overlay.style.cssText = \`
+          position:fixed;
+          inset:0;
+          background:rgba(0,0,0,0.88);
+          display:flex;
+          align-items:center;
+          justify-content:center;
+          z-index:99999;
+          padding:20px;
+          cursor:zoom-out;
+          overflow:hidden;
+          backdrop-filter: blur(3px);
+        \`;
+
+        // 🔹 CLOSE BUTTON
+        const closeBtn = document.createElement('div');
+        closeBtn.innerHTML = '&times;';
+
+        closeBtn.style.cssText = \`
+          position:absolute;
+          top:20px;
+          right:25px;
+          color:#fff;
+          font-size:42px;
+          font-weight:bold;
+          cursor:pointer;
+          z-index:100000;
+          line-height:1;
+          user-select:none;
+        \`;
+
+        closeBtn.onclick = () => {
+          overlay.remove();
+        };
+
+        const img = document.createElement('img');
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2026/08/noactionallowedseller.webp";
+
+        img.style.cssText = \`
+          max-width:95%;
+          max-height:95%;
+          border-radius:12px;
+          transition:transform .15s ease;
+          cursor:zoom-in;
+          will-change:transform;
+          user-select:none;
+        \`;
+
+        let scale = 1;
+
+        // scroll zoom
+        overlay.onwheel = (e) => {
+          e.preventDefault();
+
+          scale += e.deltaY * -0.001;
+          scale = Math.min(Math.max(1, scale), 5);
+
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        // double click zoom
+        img.ondblclick = () => {
+          scale = scale === 1 ? 2 : 1;
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        overlay.appendChild(closeBtn);
+        overlay.appendChild(img);
+
+        document.body.appendChild(overlay);
+
+        // close overlay
+        overlay.onclick = (e) => {
+          if (e.target === overlay) {
+            overlay.remove();
+          }
+        };
+
+        // esc close
+        document.onkeydown = (e) => {
+          if (e.key === 'Escape') {
+            overlay.remove();
+          }
+        };
+      `})])],-1),n("p",null,[n("strong",null,"Refer:"),e(),n("a",{href:"javascript:void(0)",onclick:`
+          event.preventDefault();
+
+          const existing = document.getElementById('wk-image-overlay');
+          if(existing) existing.remove();
+
+          const overlay = document.createElement('div');
+          overlay.id = 'wk-image-overlay';
+
+          overlay.style.cssText = \`
+            position:fixed;
+            inset:0;
+            background:rgba(0,0,0,0.88);
+            display:flex;
+            align-items:center;
+            justify-content:center;
+            z-index:99999;
+            padding:20px;
+            cursor:zoom-out;
+            overflow:hidden;
+            backdrop-filter: blur(3px);
+          \`;
+
+          // 🔹 CLOSE BUTTON
+          const closeBtn = document.createElement('div');
+          closeBtn.innerHTML = '&times;';
+
+          closeBtn.style.cssText = \`
+            position:absolute;
+              top:20px;
+              right:25px;
+              background:#0c7484;
+              color:#fff;
+              width:50px;
+              height:50px;
+              border-radius:50%;
+              display:flex;
+              align-items:center;
+              justify-content:center;
+              font-size:32px;
+              font-weight:bold;
+              cursor:pointer;
+              z-index:100000;
+              line-height:1;
+              user-select:none;
+              box-shadow:0 4px 12px rgba(0,0,0,0.35);     
+          \`;
+
+          closeBtn.onclick = () => {
+            overlay.remove();
+          };
+
+          const img = document.createElement('img');
+          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2026/08/assigntypetostaff.webp";
+
+          img.style.cssText = \`
+            max-width:95%;
+            max-height:95%;
+            border-radius:12px;
+            transition:transform .15s ease;
+            cursor:zoom-in;
+            will-change:transform;
+            user-select:none;
+          \`;
+
+          let scale = 1;
+
+          // scroll zoom
+          overlay.onwheel = (e) => {
+            e.preventDefault();
+
+            scale += e.deltaY * -0.001;
+            scale = Math.min(Math.max(1, scale), 5);
+
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          // double click zoom
+          img.ondblclick = () => {
+            scale = scale === 1 ? 2 : 1;
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          overlay.appendChild(closeBtn);
+          overlay.appendChild(img);
+
+          document.body.appendChild(overlay);
+
+          // close overlay
+          overlay.onclick = (e) => {
+            if (e.target === overlay) {
+              overlay.remove();
+            }
+          };
+
+          // esc close
+          document.onkeydown = (e) => {
+            if (e.key === 'Escape') {
+              overlay.remove();
+            }
+          };
+        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2026/08/assigntypetostaff.webp",alt:"Assign Product Types to Staff",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+        const existing = document.getElementById('wk-image-overlay');
+        if(existing) existing.remove();
+
+        const overlay = document.createElement('div');
+        overlay.id = 'wk-image-overlay';
+
+        overlay.style.cssText = \`
+          position:fixed;
+          inset:0;
+          background:rgba(0,0,0,0.88);
+          display:flex;
+          align-items:center;
+          justify-content:center;
+          z-index:99999;
+          padding:20px;
+          cursor:zoom-out;
+          overflow:hidden;
+          backdrop-filter: blur(3px);
+        \`;
+
+        // 🔹 CLOSE BUTTON
+        const closeBtn = document.createElement('div');
+        closeBtn.innerHTML = '&times;';
+
+        closeBtn.style.cssText = \`
+          position:absolute;
+          top:20px;
+          right:25px;
+          color:#fff;
+          font-size:42px;
+          font-weight:bold;
+          cursor:pointer;
+          z-index:100000;
+          line-height:1;
+          user-select:none;
+        \`;
+
+        closeBtn.onclick = () => {
+          overlay.remove();
+        };
+
+        const img = document.createElement('img');
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2026/08/assigntypetostaff.webp";
+
+        img.style.cssText = \`
+          max-width:95%;
+          max-height:95%;
+          border-radius:12px;
+          transition:transform .15s ease;
+          cursor:zoom-in;
+          will-change:transform;
+          user-select:none;
+        \`;
+
+        let scale = 1;
+
+        // scroll zoom
+        overlay.onwheel = (e) => {
+          e.preventDefault();
+
+          scale += e.deltaY * -0.001;
+          scale = Math.min(Math.max(1, scale), 5);
+
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        // double click zoom
+        img.ondblclick = () => {
+          scale = scale === 1 ? 2 : 1;
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        overlay.appendChild(closeBtn);
+        overlay.appendChild(img);
+
+        document.body.appendChild(overlay);
+
+        // close overlay
+        overlay.onclick = (e) => {
+          if (e.target === overlay) {
+            overlay.remove();
+          }
+        };
+
+        // esc close
+        document.onkeydown = (e) => {
+          if (e.key === 'Escape') {
+            overlay.remove();
+          }
+        };
+      `})])],-1),n("p",null,[n("strong",null,"Refer:"),e(),n("a",{href:"javascript:void(0)",onclick:`
+          event.preventDefault();
+
+          const existing = document.getElementById('wk-image-overlay');
+          if(existing) existing.remove();
+
+          const overlay = document.createElement('div');
+          overlay.id = 'wk-image-overlay';
+
+          overlay.style.cssText = \`
+            position:fixed;
+            inset:0;
+            background:rgba(0,0,0,0.88);
+            display:flex;
+            align-items:center;
+            justify-content:center;
+            z-index:99999;
+            padding:20px;
+            cursor:zoom-out;
+            overflow:hidden;
+            backdrop-filter: blur(3px);
+          \`;
+
+          // 🔹 CLOSE BUTTON
+          const closeBtn = document.createElement('div');
+          closeBtn.innerHTML = '&times;';
+
+          closeBtn.style.cssText = \`
+            position:absolute;
+              top:20px;
+              right:25px;
+              background:#0c7484;
+              color:#fff;
+              width:50px;
+              height:50px;
+              border-radius:50%;
+              display:flex;
+              align-items:center;
+              justify-content:center;
+              font-size:32px;
+              font-weight:bold;
+              cursor:pointer;
+              z-index:100000;
+              line-height:1;
+              user-select:none;
+              box-shadow:0 4px 12px rgba(0,0,0,0.35);     
+          \`;
+
+          closeBtn.onclick = () => {
+            overlay.remove();
+          };
+
+          const img = document.createElement('img');
+          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2026/08/editproductstaff.webp";
+
+          img.style.cssText = \`
+            max-width:95%;
+            max-height:95%;
+            border-radius:12px;
+            transition:transform .15s ease;
+            cursor:zoom-in;
+            will-change:transform;
+            user-select:none;
+          \`;
+
+          let scale = 1;
+
+          // scroll zoom
+          overlay.onwheel = (e) => {
+            e.preventDefault();
+
+            scale += e.deltaY * -0.001;
+            scale = Math.min(Math.max(1, scale), 5);
+
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          // double click zoom
+          img.ondblclick = () => {
+            scale = scale === 1 ? 2 : 1;
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          overlay.appendChild(closeBtn);
+          overlay.appendChild(img);
+
+          document.body.appendChild(overlay);
+
+          // close overlay
+          overlay.onclick = (e) => {
+            if (e.target === overlay) {
+              overlay.remove();
+            }
+          };
+
+          // esc close
+          document.onkeydown = (e) => {
+            if (e.key === 'Escape') {
+              overlay.remove();
+            }
+          };
+        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2026/08/editproductstaff.webp",alt:"Product Type Selection for Staff",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+        const existing = document.getElementById('wk-image-overlay');
+        if(existing) existing.remove();
+
+        const overlay = document.createElement('div');
+        overlay.id = 'wk-image-overlay';
+
+        overlay.style.cssText = \`
+          position:fixed;
+          inset:0;
+          background:rgba(0,0,0,0.88);
+          display:flex;
+          align-items:center;
+          justify-content:center;
+          z-index:99999;
+          padding:20px;
+          cursor:zoom-out;
+          overflow:hidden;
+          backdrop-filter: blur(3px);
+        \`;
+
+        // 🔹 CLOSE BUTTON
+        const closeBtn = document.createElement('div');
+        closeBtn.innerHTML = '&times;';
+
+        closeBtn.style.cssText = \`
+          position:absolute;
+          top:20px;
+          right:25px;
+          color:#fff;
+          font-size:42px;
+          font-weight:bold;
+          cursor:pointer;
+          z-index:100000;
+          line-height:1;
+          user-select:none;
+        \`;
+
+        closeBtn.onclick = () => {
+          overlay.remove();
+        };
+
+        const img = document.createElement('img');
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2026/08/editproductstaff.webp";
+
+        img.style.cssText = \`
+          max-width:95%;
+          max-height:95%;
+          border-radius:12px;
+          transition:transform .15s ease;
+          cursor:zoom-in;
+          will-change:transform;
+          user-select:none;
+        \`;
+
+        let scale = 1;
+
+        // scroll zoom
+        overlay.onwheel = (e) => {
+          e.preventDefault();
+
+          scale += e.deltaY * -0.001;
+          scale = Math.min(Math.max(1, scale), 5);
+
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        // double click zoom
+        img.ondblclick = () => {
+          scale = scale === 1 ? 2 : 1;
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        overlay.appendChild(closeBtn);
+        overlay.appendChild(img);
+
+        document.body.appendChild(overlay);
+
+        // close overlay
+        overlay.onclick = (e) => {
+          if (e.target === overlay) {
+            overlay.remove();
+          }
+        };
+
+        // esc close
+        document.onkeydown = (e) => {
+          if (e.key === 'Escape') {
+            overlay.remove();
+          }
+        };
+      `})])],-1),n("p",null,[n("strong",null,"Refer:"),e(),n("a",{href:"javascript:void(0)",onclick:`
+          event.preventDefault();
+
+          const existing = document.getElementById('wk-image-overlay');
+          if(existing) existing.remove();
+
+          const overlay = document.createElement('div');
+          overlay.id = 'wk-image-overlay';
+
+          overlay.style.cssText = \`
+            position:fixed;
+            inset:0;
+            background:rgba(0,0,0,0.88);
+            display:flex;
+            align-items:center;
+            justify-content:center;
+            z-index:99999;
+            padding:20px;
+            cursor:zoom-out;
+            overflow:hidden;
+            backdrop-filter: blur(3px);
+          \`;
+
+          // 🔹 CLOSE BUTTON
+          const closeBtn = document.createElement('div');
+          closeBtn.innerHTML = '&times;';
+
+          closeBtn.style.cssText = \`
+            position:absolute;
+              top:20px;
+              right:25px;
+              background:#0c7484;
+              color:#fff;
+              width:50px;
+              height:50px;
+              border-radius:50%;
+              display:flex;
+              align-items:center;
+              justify-content:center;
+              font-size:32px;
+              font-weight:bold;
+              cursor:pointer;
+              z-index:100000;
+              line-height:1;
+              user-select:none;
+              box-shadow:0 4px 12px rgba(0,0,0,0.35);     
+          \`;
+
+          closeBtn.onclick = () => {
+            overlay.remove();
+          };
+
+          const img = document.createElement('img');
+          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2026/08/noactionstaff.webp";
+
+          img.style.cssText = \`
+            max-width:95%;
+            max-height:95%;
+            border-radius:12px;
+            transition:transform .15s ease;
+            cursor:zoom-in;
+            will-change:transform;
+            user-select:none;
+          \`;
+
+          let scale = 1;
+
+          // scroll zoom
+          overlay.onwheel = (e) => {
+            e.preventDefault();
+
+            scale += e.deltaY * -0.001;
+            scale = Math.min(Math.max(1, scale), 5);
+
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          // double click zoom
+          img.ondblclick = () => {
+            scale = scale === 1 ? 2 : 1;
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          overlay.appendChild(closeBtn);
+          overlay.appendChild(img);
+
+          document.body.appendChild(overlay);
+
+          // close overlay
+          overlay.onclick = (e) => {
+            if (e.target === overlay) {
+              overlay.remove();
+            }
+          };
+
+          // esc close
+          document.onkeydown = (e) => {
+            if (e.key === 'Escape') {
+              overlay.remove();
+            }
+          };
+        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2026/08/noactionstaff.webp",alt:"Product Type Restriction for Existing Staff Product",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+        const existing = document.getElementById('wk-image-overlay');
+        if(existing) existing.remove();
+
+        const overlay = document.createElement('div');
+        overlay.id = 'wk-image-overlay';
+
+        overlay.style.cssText = \`
+          position:fixed;
+          inset:0;
+          background:rgba(0,0,0,0.88);
+          display:flex;
+          align-items:center;
+          justify-content:center;
+          z-index:99999;
+          padding:20px;
+          cursor:zoom-out;
+          overflow:hidden;
+          backdrop-filter: blur(3px);
+        \`;
+
+        // 🔹 CLOSE BUTTON
+        const closeBtn = document.createElement('div');
+        closeBtn.innerHTML = '&times;';
+
+        closeBtn.style.cssText = \`
+          position:absolute;
+          top:20px;
+          right:25px;
+          color:#fff;
+          font-size:42px;
+          font-weight:bold;
+          cursor:pointer;
+          z-index:100000;
+          line-height:1;
+          user-select:none;
+        \`;
+
+        closeBtn.onclick = () => {
+          overlay.remove();
+        };
+
+        const img = document.createElement('img');
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2026/08/noactionstaff.webp";
+
+        img.style.cssText = \`
+          max-width:95%;
+          max-height:95%;
+          border-radius:12px;
+          transition:transform .15s ease;
+          cursor:zoom-in;
+          will-change:transform;
+          user-select:none;
+        \`;
+
+        let scale = 1;
+
+        // scroll zoom
+        overlay.onwheel = (e) => {
+          e.preventDefault();
+
+          scale += e.deltaY * -0.001;
+          scale = Math.min(Math.max(1, scale), 5);
+
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        // double click zoom
+        img.ondblclick = () => {
+          scale = scale === 1 ? 2 : 1;
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        overlay.appendChild(closeBtn);
+        overlay.appendChild(img);
+
+        document.body.appendChild(overlay);
+
+        // close overlay
+        overlay.onclick = (e) => {
+          if (e.target === overlay) {
+            overlay.remove();
+          }
+        };
+
+        // esc close
+        document.onkeydown = (e) => {
+          if (e.key === 'Escape') {
+            overlay.remove();
+          }
+        };
+      `})]),e(" Agar aap chaho to main poore Markdown content mein ye alt texts directly replace karke complete final version bhi de sakta hoon.")],-1),o("",12),n("p",null,[n("strong",null,"Refer:"),e(),n("a",{href:"javascript:void(0)",onclick:`
+          event.preventDefault();
+
+          const existing = document.getElementById('wk-image-overlay');
+          if(existing) existing.remove();
+
+          const overlay = document.createElement('div');
+          overlay.id = 'wk-image-overlay';
+
+          overlay.style.cssText = \`
+            position:fixed;
+            inset:0;
+            background:rgba(0,0,0,0.88);
+            display:flex;
+            align-items:center;
+            justify-content:center;
+            z-index:99999;
+            padding:20px;
+            cursor:zoom-out;
+            overflow:hidden;
+            backdrop-filter: blur(3px);
+          \`;
+
+          // 🔹 CLOSE BUTTON
+          const closeBtn = document.createElement('div');
+          closeBtn.innerHTML = '&times;';
+
+          closeBtn.style.cssText = \`
+            position:absolute;
+              top:20px;
+              right:25px;
+              background:#0c7484;
+              color:#fff;
+              width:50px;
+              height:50px;
+              border-radius:50%;
+              display:flex;
+              align-items:center;
+              justify-content:center;
+              font-size:32px;
+              font-weight:bold;
+              cursor:pointer;
+              z-index:100000;
+              line-height:1;
+              user-select:none;
+              box-shadow:0 4px 12px rgba(0,0,0,0.35);     
+          \`;
+
+          closeBtn.onclick = () => {
+            overlay.remove();
+          };
+
+          const img = document.createElement('img');
+          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2026/08/restrictionconfig.webp";
+
+          img.style.cssText = \`
+            max-width:95%;
+            max-height:95%;
+            border-radius:12px;
+            transition:transform .15s ease;
+            cursor:zoom-in;
+            will-change:transform;
+            user-select:none;
+          \`;
+
+          let scale = 1;
+
+          // scroll zoom
+          overlay.onwheel = (e) => {
+            e.preventDefault();
+
+            scale += e.deltaY * -0.001;
+            scale = Math.min(Math.max(1, scale), 5);
+
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          // double click zoom
+          img.ondblclick = () => {
+            scale = scale === 1 ? 2 : 1;
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          overlay.appendChild(closeBtn);
+          overlay.appendChild(img);
+
+          document.body.appendChild(overlay);
+
+          // close overlay
+          overlay.onclick = (e) => {
+            if (e.target === overlay) {
+              overlay.remove();
+            }
+          };
+
+          // esc close
+          document.onkeydown = (e) => {
+            if (e.key === 'Escape') {
+              overlay.remove();
+            }
+          };
+        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2026/08/restrictionconfig.webp",alt:"Restriction Configuration",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+        const existing = document.getElementById('wk-image-overlay');
+        if(existing) existing.remove();
+
+        const overlay = document.createElement('div');
+        overlay.id = 'wk-image-overlay';
+
+        overlay.style.cssText = \`
+          position:fixed;
+          inset:0;
+          background:rgba(0,0,0,0.88);
+          display:flex;
+          align-items:center;
+          justify-content:center;
+          z-index:99999;
+          padding:20px;
+          cursor:zoom-out;
+          overflow:hidden;
+          backdrop-filter: blur(3px);
+        \`;
+
+        // 🔹 CLOSE BUTTON
+        const closeBtn = document.createElement('div');
+        closeBtn.innerHTML = '&times;';
+
+        closeBtn.style.cssText = \`
+          position:absolute;
+          top:20px;
+          right:25px;
+          color:#fff;
+          font-size:42px;
+          font-weight:bold;
+          cursor:pointer;
+          z-index:100000;
+          line-height:1;
+          user-select:none;
+        \`;
+
+        closeBtn.onclick = () => {
+          overlay.remove();
+        };
+
+        const img = document.createElement('img');
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2026/08/restrictionconfig.webp";
+
+        img.style.cssText = \`
+          max-width:95%;
+          max-height:95%;
+          border-radius:12px;
+          transition:transform .15s ease;
+          cursor:zoom-in;
+          will-change:transform;
+          user-select:none;
+        \`;
+
+        let scale = 1;
+
+        // scroll zoom
+        overlay.onwheel = (e) => {
+          e.preventDefault();
+
+          scale += e.deltaY * -0.001;
+          scale = Math.min(Math.max(1, scale), 5);
+
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        // double click zoom
+        img.ondblclick = () => {
+          scale = scale === 1 ? 2 : 1;
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        overlay.appendChild(closeBtn);
+        overlay.appendChild(img);
+
+        document.body.appendChild(overlay);
+
+        // close overlay
+        overlay.onclick = (e) => {
+          if (e.target === overlay) {
+            overlay.remove();
+          }
+        };
+
+        // esc close
+        document.onkeydown = (e) => {
+          if (e.key === 'Escape') {
+            overlay.remove();
+          }
+        };
+      `})])],-1),o("",4),n("p",null,[n("strong",null,"Refer:"),e(),n("a",{href:"javascript:void(0)",onclick:`
+          event.preventDefault();
+
+          const existing = document.getElementById('wk-image-overlay');
+          if(existing) existing.remove();
+
+          const overlay = document.createElement('div');
+          overlay.id = 'wk-image-overlay';
+
+          overlay.style.cssText = \`
+            position:fixed;
+            inset:0;
+            background:rgba(0,0,0,0.88);
+            display:flex;
+            align-items:center;
+            justify-content:center;
+            z-index:99999;
+            padding:20px;
+            cursor:zoom-out;
+            overflow:hidden;
+            backdrop-filter: blur(3px);
+          \`;
+
+          // 🔹 CLOSE BUTTON
+          const closeBtn = document.createElement('div');
+          closeBtn.innerHTML = '&times;';
+
+          closeBtn.style.cssText = \`
+            position:absolute;
+              top:20px;
+              right:25px;
+              background:#0c7484;
+              color:#fff;
+              width:50px;
+              height:50px;
+              border-radius:50%;
+              display:flex;
+              align-items:center;
+              justify-content:center;
+              font-size:32px;
+              font-weight:bold;
+              cursor:pointer;
+              z-index:100000;
+              line-height:1;
+              user-select:none;
+              box-shadow:0 4px 12px rgba(0,0,0,0.35);     
+          \`;
+
+          closeBtn.onclick = () => {
+            overlay.remove();
+          };
+
+          const img = document.createElement('img');
+          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2026/08/assigntype.webp";
+
+          img.style.cssText = \`
+            max-width:95%;
+            max-height:95%;
+            border-radius:12px;
+            transition:transform .15s ease;
+            cursor:zoom-in;
+            will-change:transform;
+            user-select:none;
+          \`;
+
+          let scale = 1;
+
+          // scroll zoom
+          overlay.onwheel = (e) => {
+            e.preventDefault();
+
+            scale += e.deltaY * -0.001;
+            scale = Math.min(Math.max(1, scale), 5);
+
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          // double click zoom
+          img.ondblclick = () => {
+            scale = scale === 1 ? 2 : 1;
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          overlay.appendChild(closeBtn);
+          overlay.appendChild(img);
+
+          document.body.appendChild(overlay);
+
+          // close overlay
+          overlay.onclick = (e) => {
+            if (e.target === overlay) {
+              overlay.remove();
+            }
+          };
+
+          // esc close
+          document.onkeydown = (e) => {
+            if (e.key === 'Escape') {
+              overlay.remove();
+            }
+          };
+        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2026/08/assigntype.webp",alt:"Assign Product Types to Seller",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+        const existing = document.getElementById('wk-image-overlay');
+        if(existing) existing.remove();
+
+        const overlay = document.createElement('div');
+        overlay.id = 'wk-image-overlay';
+
+        overlay.style.cssText = \`
+          position:fixed;
+          inset:0;
+          background:rgba(0,0,0,0.88);
+          display:flex;
+          align-items:center;
+          justify-content:center;
+          z-index:99999;
+          padding:20px;
+          cursor:zoom-out;
+          overflow:hidden;
+          backdrop-filter: blur(3px);
+        \`;
+
+        // 🔹 CLOSE BUTTON
+        const closeBtn = document.createElement('div');
+        closeBtn.innerHTML = '&times;';
+
+        closeBtn.style.cssText = \`
+          position:absolute;
+          top:20px;
+          right:25px;
+          color:#fff;
+          font-size:42px;
+          font-weight:bold;
+          cursor:pointer;
+          z-index:100000;
+          line-height:1;
+          user-select:none;
+        \`;
+
+        closeBtn.onclick = () => {
+          overlay.remove();
+        };
+
+        const img = document.createElement('img');
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2026/08/assigntype.webp";
+
+        img.style.cssText = \`
+          max-width:95%;
+          max-height:95%;
+          border-radius:12px;
+          transition:transform .15s ease;
+          cursor:zoom-in;
+          will-change:transform;
+          user-select:none;
+        \`;
+
+        let scale = 1;
+
+        // scroll zoom
+        overlay.onwheel = (e) => {
+          e.preventDefault();
+
+          scale += e.deltaY * -0.001;
+          scale = Math.min(Math.max(1, scale), 5);
+
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        // double click zoom
+        img.ondblclick = () => {
+          scale = scale === 1 ? 2 : 1;
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        overlay.appendChild(closeBtn);
+        overlay.appendChild(img);
+
+        document.body.appendChild(overlay);
+
+        // close overlay
+        overlay.onclick = (e) => {
+          if (e.target === overlay) {
+            overlay.remove();
+          }
+        };
+
+        // esc close
+        document.onkeydown = (e) => {
+          if (e.key === 'Escape') {
+            overlay.remove();
+          }
+        };
+      `})])],-1),n("h3",{id:"step-3-product-type-access-while-adding-products",tabindex:"-1"},[e("Step 3: Product Type Access While Adding Products "),n("a",{class:"header-anchor",href:"#step-3-product-type-access-while-adding-products","aria-label":'Permalink to "Step 3: Product Type Access While Adding Products"'},"​")],-1),n("p",null,"Once the restriction is configured, the seller will only be able to select from the product types assigned to them while adding a new product.",-1),n("p",null,[n("strong",null,"Refer:"),e(),n("a",{href:"javascript:void(0)",onclick:`
+          event.preventDefault();
+
+          const existing = document.getElementById('wk-image-overlay');
+          if(existing) existing.remove();
+
+          const overlay = document.createElement('div');
+          overlay.id = 'wk-image-overlay';
+
+          overlay.style.cssText = \`
+            position:fixed;
+            inset:0;
+            background:rgba(0,0,0,0.88);
+            display:flex;
+            align-items:center;
+            justify-content:center;
+            z-index:99999;
+            padding:20px;
+            cursor:zoom-out;
+            overflow:hidden;
+            backdrop-filter: blur(3px);
+          \`;
+
+          // 🔹 CLOSE BUTTON
+          const closeBtn = document.createElement('div');
+          closeBtn.innerHTML = '&times;';
+
+          closeBtn.style.cssText = \`
+            position:absolute;
+              top:20px;
+              right:25px;
+              background:#0c7484;
+              color:#fff;
+              width:50px;
+              height:50px;
+              border-radius:50%;
+              display:flex;
+              align-items:center;
+              justify-content:center;
+              font-size:32px;
+              font-weight:bold;
+              cursor:pointer;
+              z-index:100000;
+              line-height:1;
+              user-select:none;
+              box-shadow:0 4px 12px rgba(0,0,0,0.35);     
+          \`;
+
+          closeBtn.onclick = () => {
+            overlay.remove();
+          };
+
+          const img = document.createElement('img');
+          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2026/08/editproductseller.webp";
+
+          img.style.cssText = \`
+            max-width:95%;
+            max-height:95%;
+            border-radius:12px;
+            transition:transform .15s ease;
+            cursor:zoom-in;
+            will-change:transform;
+            user-select:none;
+          \`;
+
+          let scale = 1;
+
+          // scroll zoom
+          overlay.onwheel = (e) => {
+            e.preventDefault();
+
+            scale += e.deltaY * -0.001;
+            scale = Math.min(Math.max(1, scale), 5);
+
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          // double click zoom
+          img.ondblclick = () => {
+            scale = scale === 1 ? 2 : 1;
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          overlay.appendChild(closeBtn);
+          overlay.appendChild(img);
+
+          document.body.appendChild(overlay);
+
+          // close overlay
+          overlay.onclick = (e) => {
+            if (e.target === overlay) {
+              overlay.remove();
+            }
+          };
+
+          // esc close
+          document.onkeydown = (e) => {
+            if (e.key === 'Escape') {
+              overlay.remove();
+            }
+          };
+        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2026/08/editproductseller.webp",alt:"Product Type Selection for Seller",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+        const existing = document.getElementById('wk-image-overlay');
+        if(existing) existing.remove();
+
+        const overlay = document.createElement('div');
+        overlay.id = 'wk-image-overlay';
+
+        overlay.style.cssText = \`
+          position:fixed;
+          inset:0;
+          background:rgba(0,0,0,0.88);
+          display:flex;
+          align-items:center;
+          justify-content:center;
+          z-index:99999;
+          padding:20px;
+          cursor:zoom-out;
+          overflow:hidden;
+          backdrop-filter: blur(3px);
+        \`;
+
+        // 🔹 CLOSE BUTTON
+        const closeBtn = document.createElement('div');
+        closeBtn.innerHTML = '&times;';
+
+        closeBtn.style.cssText = \`
+          position:absolute;
+          top:20px;
+          right:25px;
+          color:#fff;
+          font-size:42px;
+          font-weight:bold;
+          cursor:pointer;
+          z-index:100000;
+          line-height:1;
+          user-select:none;
+        \`;
+
+        closeBtn.onclick = () => {
+          overlay.remove();
+        };
+
+        const img = document.createElement('img');
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2026/08/editproductseller.webp";
+
+        img.style.cssText = \`
+          max-width:95%;
+          max-height:95%;
+          border-radius:12px;
+          transition:transform .15s ease;
+          cursor:zoom-in;
+          will-change:transform;
+          user-select:none;
+        \`;
+
+        let scale = 1;
+
+        // scroll zoom
+        overlay.onwheel = (e) => {
+          e.preventDefault();
+
+          scale += e.deltaY * -0.001;
+          scale = Math.min(Math.max(1, scale), 5);
+
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        // double click zoom
+        img.ondblclick = () => {
+          scale = scale === 1 ? 2 : 1;
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        overlay.appendChild(closeBtn);
+        overlay.appendChild(img);
+
+        document.body.appendChild(overlay);
+
+        // close overlay
+        overlay.onclick = (e) => {
+          if (e.target === overlay) {
+            overlay.remove();
+          }
+        };
+
+        // esc close
+        document.onkeydown = (e) => {
+          if (e.key === 'Escape') {
+            overlay.remove();
+          }
+        };
+      `})])],-1),n("h3",{id:"step-4-restriction-on-existing-products",tabindex:"-1"},[e("Step 4: Restriction on Existing Products "),n("a",{class:"header-anchor",href:"#step-4-restriction-on-existing-products","aria-label":'Permalink to "Step 4: Restriction on Existing Products"'},"​")],-1),n("p",null,[e("If a product has a product type that is "),n("strong",null,"not assigned to the seller"),e(", the seller will not be allowed to perform actions on that product.")],-1),n("p",null,"For example, the seller will not be able to update or manage a product if its product type is outside the seller's assigned product types.",-1),n("p",null,[n("strong",null,"Refer:"),e(),n("a",{href:"javascript:void(0)",onclick:`
+          event.preventDefault();
+
+          const existing = document.getElementById('wk-image-overlay');
+          if(existing) existing.remove();
+
+          const overlay = document.createElement('div');
+          overlay.id = 'wk-image-overlay';
+
+          overlay.style.cssText = \`
+            position:fixed;
+            inset:0;
+            background:rgba(0,0,0,0.88);
+            display:flex;
+            align-items:center;
+            justify-content:center;
+            z-index:99999;
+            padding:20px;
+            cursor:zoom-out;
+            overflow:hidden;
+            backdrop-filter: blur(3px);
+          \`;
+
+          // 🔹 CLOSE BUTTON
+          const closeBtn = document.createElement('div');
+          closeBtn.innerHTML = '&times;';
+
+          closeBtn.style.cssText = \`
+            position:absolute;
+              top:20px;
+              right:25px;
+              background:#0c7484;
+              color:#fff;
+              width:50px;
+              height:50px;
+              border-radius:50%;
+              display:flex;
+              align-items:center;
+              justify-content:center;
+              font-size:32px;
+              font-weight:bold;
+              cursor:pointer;
+              z-index:100000;
+              line-height:1;
+              user-select:none;
+              box-shadow:0 4px 12px rgba(0,0,0,0.35);     
+          \`;
+
+          closeBtn.onclick = () => {
+            overlay.remove();
+          };
+
+          const img = document.createElement('img');
+          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2026/08/noactionallowedseller.webp";
+
+          img.style.cssText = \`
+            max-width:95%;
+            max-height:95%;
+            border-radius:12px;
+            transition:transform .15s ease;
+            cursor:zoom-in;
+            will-change:transform;
+            user-select:none;
+          \`;
+
+          let scale = 1;
+
+          // scroll zoom
+          overlay.onwheel = (e) => {
+            e.preventDefault();
+
+            scale += e.deltaY * -0.001;
+            scale = Math.min(Math.max(1, scale), 5);
+
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          // double click zoom
+          img.ondblclick = () => {
+            scale = scale === 1 ? 2 : 1;
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          overlay.appendChild(closeBtn);
+          overlay.appendChild(img);
+
+          document.body.appendChild(overlay);
+
+          // close overlay
+          overlay.onclick = (e) => {
+            if (e.target === overlay) {
+              overlay.remove();
+            }
+          };
+
+          // esc close
+          document.onkeydown = (e) => {
+            if (e.key === 'Escape') {
+              overlay.remove();
+            }
+          };
+        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2026/08/noactionallowedseller.webp",alt:"Product Type Restriction for Existing Seller Product",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+        const existing = document.getElementById('wk-image-overlay');
+        if(existing) existing.remove();
+
+        const overlay = document.createElement('div');
+        overlay.id = 'wk-image-overlay';
+
+        overlay.style.cssText = \`
+          position:fixed;
+          inset:0;
+          background:rgba(0,0,0,0.88);
+          display:flex;
+          align-items:center;
+          justify-content:center;
+          z-index:99999;
+          padding:20px;
+          cursor:zoom-out;
+          overflow:hidden;
+          backdrop-filter: blur(3px);
+        \`;
+
+        // 🔹 CLOSE BUTTON
+        const closeBtn = document.createElement('div');
+        closeBtn.innerHTML = '&times;';
+
+        closeBtn.style.cssText = \`
+          position:absolute;
+          top:20px;
+          right:25px;
+          color:#fff;
+          font-size:42px;
+          font-weight:bold;
+          cursor:pointer;
+          z-index:100000;
+          line-height:1;
+          user-select:none;
+        \`;
+
+        closeBtn.onclick = () => {
+          overlay.remove();
+        };
+
+        const img = document.createElement('img');
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2026/08/noactionallowedseller.webp";
+
+        img.style.cssText = \`
+          max-width:95%;
+          max-height:95%;
+          border-radius:12px;
+          transition:transform .15s ease;
+          cursor:zoom-in;
+          will-change:transform;
+          user-select:none;
+        \`;
+
+        let scale = 1;
+
+        // scroll zoom
+        overlay.onwheel = (e) => {
+          e.preventDefault();
+
+          scale += e.deltaY * -0.001;
+          scale = Math.min(Math.max(1, scale), 5);
+
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        // double click zoom
+        img.ondblclick = () => {
+          scale = scale === 1 ? 2 : 1;
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        overlay.appendChild(closeBtn);
+        overlay.appendChild(img);
+
+        document.body.appendChild(overlay);
+
+        // close overlay
+        overlay.onclick = (e) => {
+          if (e.target === overlay) {
+            overlay.remove();
+          }
+        };
+
+        // esc close
+        document.onkeydown = (e) => {
+          if (e.key === 'Escape') {
+            overlay.remove();
+          }
+        };
+      `})])],-1),n("h2",{id:"configure-product-type-restriction-for-seller-staff",tabindex:"-1"},[e("Configure Product Type Restriction for Seller Staff "),n("a",{class:"header-anchor",href:"#configure-product-type-restriction-for-seller-staff","aria-label":'Permalink to "Configure Product Type Restriction for Seller Staff"'},"​")],-1),n("h3",{id:"step-1-enable-restriction-for-staff",tabindex:"-1"},[e("Step 1: Enable Restriction for Staff "),n("a",{class:"header-anchor",href:"#step-1-enable-restriction-for-staff","aria-label":'Permalink to "Step 1: Enable Restriction for Staff"'},"​")],-1),n("p",null,[e("The seller can enable "),n("strong",null,"Product Type Restriction"),e(" for a staff member and assign specific product types to them.")],-1),n("p",null,[e("The staff member can only be assigned product types that are "),n("strong",null,"already assigned to the seller"),e(".")],-1),n("p",null,[n("strong",null,"Refer:"),e(),n("a",{href:"javascript:void(0)",onclick:`
+          event.preventDefault();
+
+          const existing = document.getElementById('wk-image-overlay');
+          if(existing) existing.remove();
+
+          const overlay = document.createElement('div');
+          overlay.id = 'wk-image-overlay';
+
+          overlay.style.cssText = \`
+            position:fixed;
+            inset:0;
+            background:rgba(0,0,0,0.88);
+            display:flex;
+            align-items:center;
+            justify-content:center;
+            z-index:99999;
+            padding:20px;
+            cursor:zoom-out;
+            overflow:hidden;
+            backdrop-filter: blur(3px);
+          \`;
+
+          // 🔹 CLOSE BUTTON
+          const closeBtn = document.createElement('div');
+          closeBtn.innerHTML = '&times;';
+
+          closeBtn.style.cssText = \`
+            position:absolute;
+              top:20px;
+              right:25px;
+              background:#0c7484;
+              color:#fff;
+              width:50px;
+              height:50px;
+              border-radius:50%;
+              display:flex;
+              align-items:center;
+              justify-content:center;
+              font-size:32px;
+              font-weight:bold;
+              cursor:pointer;
+              z-index:100000;
+              line-height:1;
+              user-select:none;
+              box-shadow:0 4px 12px rgba(0,0,0,0.35);     
+          \`;
+
+          closeBtn.onclick = () => {
+            overlay.remove();
+          };
+
+          const img = document.createElement('img');
+          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2026/08/assigntypetostaff.webp";
+
+          img.style.cssText = \`
+            max-width:95%;
+            max-height:95%;
+            border-radius:12px;
+            transition:transform .15s ease;
+            cursor:zoom-in;
+            will-change:transform;
+            user-select:none;
+          \`;
+
+          let scale = 1;
+
+          // scroll zoom
+          overlay.onwheel = (e) => {
+            e.preventDefault();
+
+            scale += e.deltaY * -0.001;
+            scale = Math.min(Math.max(1, scale), 5);
+
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          // double click zoom
+          img.ondblclick = () => {
+            scale = scale === 1 ? 2 : 1;
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          overlay.appendChild(closeBtn);
+          overlay.appendChild(img);
+
+          document.body.appendChild(overlay);
+
+          // close overlay
+          overlay.onclick = (e) => {
+            if (e.target === overlay) {
+              overlay.remove();
+            }
+          };
+
+          // esc close
+          document.onkeydown = (e) => {
+            if (e.key === 'Escape') {
+              overlay.remove();
+            }
+          };
+        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2026/08/assigntypetostaff.webp",alt:"Assign Product Types to Staff",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+        const existing = document.getElementById('wk-image-overlay');
+        if(existing) existing.remove();
+
+        const overlay = document.createElement('div');
+        overlay.id = 'wk-image-overlay';
+
+        overlay.style.cssText = \`
+          position:fixed;
+          inset:0;
+          background:rgba(0,0,0,0.88);
+          display:flex;
+          align-items:center;
+          justify-content:center;
+          z-index:99999;
+          padding:20px;
+          cursor:zoom-out;
+          overflow:hidden;
+          backdrop-filter: blur(3px);
+        \`;
+
+        // 🔹 CLOSE BUTTON
+        const closeBtn = document.createElement('div');
+        closeBtn.innerHTML = '&times;';
+
+        closeBtn.style.cssText = \`
+          position:absolute;
+          top:20px;
+          right:25px;
+          color:#fff;
+          font-size:42px;
+          font-weight:bold;
+          cursor:pointer;
+          z-index:100000;
+          line-height:1;
+          user-select:none;
+        \`;
+
+        closeBtn.onclick = () => {
+          overlay.remove();
+        };
+
+        const img = document.createElement('img');
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2026/08/assigntypetostaff.webp";
+
+        img.style.cssText = \`
+          max-width:95%;
+          max-height:95%;
+          border-radius:12px;
+          transition:transform .15s ease;
+          cursor:zoom-in;
+          will-change:transform;
+          user-select:none;
+        \`;
+
+        let scale = 1;
+
+        // scroll zoom
+        overlay.onwheel = (e) => {
+          e.preventDefault();
+
+          scale += e.deltaY * -0.001;
+          scale = Math.min(Math.max(1, scale), 5);
+
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        // double click zoom
+        img.ondblclick = () => {
+          scale = scale === 1 ? 2 : 1;
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        overlay.appendChild(closeBtn);
+        overlay.appendChild(img);
+
+        document.body.appendChild(overlay);
+
+        // close overlay
+        overlay.onclick = (e) => {
+          if (e.target === overlay) {
+            overlay.remove();
+          }
+        };
+
+        // esc close
+        document.onkeydown = (e) => {
+          if (e.key === 'Escape') {
+            overlay.remove();
+          }
+        };
+      `})])],-1),n("h3",{id:"step-2-product-type-access-while-adding-products",tabindex:"-1"},[e("Step 2: Product Type Access While Adding Products "),n("a",{class:"header-anchor",href:"#step-2-product-type-access-while-adding-products","aria-label":'Permalink to "Step 2: Product Type Access While Adding Products"'},"​")],-1),n("p",null,"Once the restriction is enabled, the staff member will only be able to select the product types assigned to them while creating a new product.",-1),n("p",null,[n("strong",null,"Refer:"),e(),n("a",{href:"javascript:void(0)",onclick:`
+          event.preventDefault();
+
+          const existing = document.getElementById('wk-image-overlay');
+          if(existing) existing.remove();
+
+          const overlay = document.createElement('div');
+          overlay.id = 'wk-image-overlay';
+
+          overlay.style.cssText = \`
+            position:fixed;
+            inset:0;
+            background:rgba(0,0,0,0.88);
+            display:flex;
+            align-items:center;
+            justify-content:center;
+            z-index:99999;
+            padding:20px;
+            cursor:zoom-out;
+            overflow:hidden;
+            backdrop-filter: blur(3px);
+          \`;
+
+          // 🔹 CLOSE BUTTON
+          const closeBtn = document.createElement('div');
+          closeBtn.innerHTML = '&times;';
+
+          closeBtn.style.cssText = \`
+            position:absolute;
+              top:20px;
+              right:25px;
+              background:#0c7484;
+              color:#fff;
+              width:50px;
+              height:50px;
+              border-radius:50%;
+              display:flex;
+              align-items:center;
+              justify-content:center;
+              font-size:32px;
+              font-weight:bold;
+              cursor:pointer;
+              z-index:100000;
+              line-height:1;
+              user-select:none;
+              box-shadow:0 4px 12px rgba(0,0,0,0.35);     
+          \`;
+
+          closeBtn.onclick = () => {
+            overlay.remove();
+          };
+
+          const img = document.createElement('img');
+          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2026/08/editproductstaff.webp";
+
+          img.style.cssText = \`
+            max-width:95%;
+            max-height:95%;
+            border-radius:12px;
+            transition:transform .15s ease;
+            cursor:zoom-in;
+            will-change:transform;
+            user-select:none;
+          \`;
+
+          let scale = 1;
+
+          // scroll zoom
+          overlay.onwheel = (e) => {
+            e.preventDefault();
+
+            scale += e.deltaY * -0.001;
+            scale = Math.min(Math.max(1, scale), 5);
+
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          // double click zoom
+          img.ondblclick = () => {
+            scale = scale === 1 ? 2 : 1;
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          overlay.appendChild(closeBtn);
+          overlay.appendChild(img);
+
+          document.body.appendChild(overlay);
+
+          // close overlay
+          overlay.onclick = (e) => {
+            if (e.target === overlay) {
+              overlay.remove();
+            }
+          };
+
+          // esc close
+          document.onkeydown = (e) => {
+            if (e.key === 'Escape') {
+              overlay.remove();
+            }
+          };
+        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2026/08/editproductstaff.webp",alt:"Product Type Selection for Staff",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+        const existing = document.getElementById('wk-image-overlay');
+        if(existing) existing.remove();
+
+        const overlay = document.createElement('div');
+        overlay.id = 'wk-image-overlay';
+
+        overlay.style.cssText = \`
+          position:fixed;
+          inset:0;
+          background:rgba(0,0,0,0.88);
+          display:flex;
+          align-items:center;
+          justify-content:center;
+          z-index:99999;
+          padding:20px;
+          cursor:zoom-out;
+          overflow:hidden;
+          backdrop-filter: blur(3px);
+        \`;
+
+        // 🔹 CLOSE BUTTON
+        const closeBtn = document.createElement('div');
+        closeBtn.innerHTML = '&times;';
+
+        closeBtn.style.cssText = \`
+          position:absolute;
+          top:20px;
+          right:25px;
+          color:#fff;
+          font-size:42px;
+          font-weight:bold;
+          cursor:pointer;
+          z-index:100000;
+          line-height:1;
+          user-select:none;
+        \`;
+
+        closeBtn.onclick = () => {
+          overlay.remove();
+        };
+
+        const img = document.createElement('img');
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2026/08/editproductstaff.webp";
+
+        img.style.cssText = \`
+          max-width:95%;
+          max-height:95%;
+          border-radius:12px;
+          transition:transform .15s ease;
+          cursor:zoom-in;
+          will-change:transform;
+          user-select:none;
+        \`;
+
+        let scale = 1;
+
+        // scroll zoom
+        overlay.onwheel = (e) => {
+          e.preventDefault();
+
+          scale += e.deltaY * -0.001;
+          scale = Math.min(Math.max(1, scale), 5);
+
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        // double click zoom
+        img.ondblclick = () => {
+          scale = scale === 1 ? 2 : 1;
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        overlay.appendChild(closeBtn);
+        overlay.appendChild(img);
+
+        document.body.appendChild(overlay);
+
+        // close overlay
+        overlay.onclick = (e) => {
+          if (e.target === overlay) {
+            overlay.remove();
+          }
+        };
+
+        // esc close
+        document.onkeydown = (e) => {
+          if (e.key === 'Escape') {
+            overlay.remove();
+          }
+        };
+      `})])],-1),n("h3",{id:"step-3-restriction-on-existing-products",tabindex:"-1"},[e("Step 3: Restriction on Existing Products "),n("a",{class:"header-anchor",href:"#step-3-restriction-on-existing-products","aria-label":'Permalink to "Step 3: Restriction on Existing Products"'},"​")],-1),n("p",null,[e("If an existing product uses a product type that is "),n("strong",null,"not assigned to the staff member"),e(", the staff member will not be allowed to perform actions on that product.")],-1),n("p",null,"This ensures that staff members can only manage products belonging to the product types they have been granted access to.",-1),n("p",null,[n("strong",null,"Refer:"),e(),n("a",{href:"javascript:void(0)",onclick:`
+          event.preventDefault();
+
+          const existing = document.getElementById('wk-image-overlay');
+          if(existing) existing.remove();
+
+          const overlay = document.createElement('div');
+          overlay.id = 'wk-image-overlay';
+
+          overlay.style.cssText = \`
+            position:fixed;
+            inset:0;
+            background:rgba(0,0,0,0.88);
+            display:flex;
+            align-items:center;
+            justify-content:center;
+            z-index:99999;
+            padding:20px;
+            cursor:zoom-out;
+            overflow:hidden;
+            backdrop-filter: blur(3px);
+          \`;
+
+          // 🔹 CLOSE BUTTON
+          const closeBtn = document.createElement('div');
+          closeBtn.innerHTML = '&times;';
+
+          closeBtn.style.cssText = \`
+            position:absolute;
+              top:20px;
+              right:25px;
+              background:#0c7484;
+              color:#fff;
+              width:50px;
+              height:50px;
+              border-radius:50%;
+              display:flex;
+              align-items:center;
+              justify-content:center;
+              font-size:32px;
+              font-weight:bold;
+              cursor:pointer;
+              z-index:100000;
+              line-height:1;
+              user-select:none;
+              box-shadow:0 4px 12px rgba(0,0,0,0.35);     
+          \`;
+
+          closeBtn.onclick = () => {
+            overlay.remove();
+          };
+
+          const img = document.createElement('img');
+          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2026/08/noactionstaff.webp";
+
+          img.style.cssText = \`
+            max-width:95%;
+            max-height:95%;
+            border-radius:12px;
+            transition:transform .15s ease;
+            cursor:zoom-in;
+            will-change:transform;
+            user-select:none;
+          \`;
+
+          let scale = 1;
+
+          // scroll zoom
+          overlay.onwheel = (e) => {
+            e.preventDefault();
+
+            scale += e.deltaY * -0.001;
+            scale = Math.min(Math.max(1, scale), 5);
+
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          // double click zoom
+          img.ondblclick = () => {
+            scale = scale === 1 ? 2 : 1;
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          overlay.appendChild(closeBtn);
+          overlay.appendChild(img);
+
+          document.body.appendChild(overlay);
+
+          // close overlay
+          overlay.onclick = (e) => {
+            if (e.target === overlay) {
+              overlay.remove();
+            }
+          };
+
+          // esc close
+          document.onkeydown = (e) => {
+            if (e.key === 'Escape') {
+              overlay.remove();
+            }
+          };
+        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2026/08/noactionstaff.webp",alt:"Product Type Restriction for Existing Staff Product",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+        const existing = document.getElementById('wk-image-overlay');
+        if(existing) existing.remove();
+
+        const overlay = document.createElement('div');
+        overlay.id = 'wk-image-overlay';
+
+        overlay.style.cssText = \`
+          position:fixed;
+          inset:0;
+          background:rgba(0,0,0,0.88);
+          display:flex;
+          align-items:center;
+          justify-content:center;
+          z-index:99999;
+          padding:20px;
+          cursor:zoom-out;
+          overflow:hidden;
+          backdrop-filter: blur(3px);
+        \`;
+
+        // 🔹 CLOSE BUTTON
+        const closeBtn = document.createElement('div');
+        closeBtn.innerHTML = '&times;';
+
+        closeBtn.style.cssText = \`
+          position:absolute;
+          top:20px;
+          right:25px;
+          color:#fff;
+          font-size:42px;
+          font-weight:bold;
+          cursor:pointer;
+          z-index:100000;
+          line-height:1;
+          user-select:none;
+        \`;
+
+        closeBtn.onclick = () => {
+          overlay.remove();
+        };
+
+        const img = document.createElement('img');
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2026/08/noactionstaff.webp";
+
+        img.style.cssText = \`
+          max-width:95%;
+          max-height:95%;
+          border-radius:12px;
+          transition:transform .15s ease;
+          cursor:zoom-in;
+          will-change:transform;
+          user-select:none;
+        \`;
+
+        let scale = 1;
+
+        // scroll zoom
+        overlay.onwheel = (e) => {
+          e.preventDefault();
+
+          scale += e.deltaY * -0.001;
+          scale = Math.min(Math.max(1, scale), 5);
+
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        // double click zoom
+        img.ondblclick = () => {
+          scale = scale === 1 ? 2 : 1;
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        overlay.appendChild(closeBtn);
+        overlay.appendChild(img);
+
+        document.body.appendChild(overlay);
+
+        // close overlay
+        overlay.onclick = (e) => {
+          if (e.target === overlay) {
+            overlay.remove();
+          }
+        };
+
+        // esc close
+        document.onkeydown = (e) => {
+          if (e.key === 'Escape') {
+            overlay.remove();
+          }
+        };
+      `})])],-1),o("",10),n("p",null,[n("strong",null,"Refer:"),e(),n("a",{href:"javascript:void(0)",onclick:`
+          event.preventDefault();
+
+          const existing = document.getElementById('wk-image-overlay');
+          if(existing) existing.remove();
+
+          const overlay = document.createElement('div');
+          overlay.id = 'wk-image-overlay';
+
+          overlay.style.cssText = \`
+            position:fixed;
+            inset:0;
+            background:rgba(0,0,0,0.88);
+            display:flex;
+            align-items:center;
+            justify-content:center;
+            z-index:99999;
+            padding:20px;
+            cursor:zoom-out;
+            overflow:hidden;
+            backdrop-filter: blur(3px);
+          \`;
+
+          // 🔹 CLOSE BUTTON
+          const closeBtn = document.createElement('div');
+          closeBtn.innerHTML = '&times;';
+
+          closeBtn.style.cssText = \`
+            position:absolute;
+              top:20px;
+              right:25px;
+              background:#0c7484;
+              color:#fff;
+              width:50px;
+              height:50px;
+              border-radius:50%;
+              display:flex;
+              align-items:center;
+              justify-content:center;
+              font-size:32px;
+              font-weight:bold;
+              cursor:pointer;
+              z-index:100000;
+              line-height:1;
+              user-select:none;
+              box-shadow:0 4px 12px rgba(0,0,0,0.35);     
+          \`;
+
+          closeBtn.onclick = () => {
+            overlay.remove();
+          };
+
+          const img = document.createElement('img');
+          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2026/08/allowvariantdeletion.webp";
+
+          img.style.cssText = \`
+            max-width:95%;
+            max-height:95%;
+            border-radius:12px;
+            transition:transform .15s ease;
+            cursor:zoom-in;
+            will-change:transform;
+            user-select:none;
+          \`;
+
+          let scale = 1;
+
+          // scroll zoom
+          overlay.onwheel = (e) => {
+            e.preventDefault();
+
+            scale += e.deltaY * -0.001;
+            scale = Math.min(Math.max(1, scale), 5);
+
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          // double click zoom
+          img.ondblclick = () => {
+            scale = scale === 1 ? 2 : 1;
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          overlay.appendChild(closeBtn);
+          overlay.appendChild(img);
+
+          document.body.appendChild(overlay);
+
+          // close overlay
+          overlay.onclick = (e) => {
+            if (e.target === overlay) {
+              overlay.remove();
+            }
+          };
+
+          // esc close
+          document.onkeydown = (e) => {
+            if (e.key === 'Escape') {
+              overlay.remove();
+            }
+          };
+        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2026/08/allowvariantdeletion.webp",alt:"Allow Seller to Delete Variants Configuration",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+        const existing = document.getElementById('wk-image-overlay');
+        if(existing) existing.remove();
+
+        const overlay = document.createElement('div');
+        overlay.id = 'wk-image-overlay';
+
+        overlay.style.cssText = \`
+          position:fixed;
+          inset:0;
+          background:rgba(0,0,0,0.88);
+          display:flex;
+          align-items:center;
+          justify-content:center;
+          z-index:99999;
+          padding:20px;
+          cursor:zoom-out;
+          overflow:hidden;
+          backdrop-filter: blur(3px);
+        \`;
+
+        // 🔹 CLOSE BUTTON
+        const closeBtn = document.createElement('div');
+        closeBtn.innerHTML = '&times;';
+
+        closeBtn.style.cssText = \`
+          position:absolute;
+          top:20px;
+          right:25px;
+          color:#fff;
+          font-size:42px;
+          font-weight:bold;
+          cursor:pointer;
+          z-index:100000;
+          line-height:1;
+          user-select:none;
+        \`;
+
+        closeBtn.onclick = () => {
+          overlay.remove();
+        };
+
+        const img = document.createElement('img');
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2026/08/allowvariantdeletion.webp";
 
         img.style.cssText = \`
           max-width:95%;
@@ -6387,7 +6387,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
           };
 
           const img = document.createElement('img');
-          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/gt6.webp";
+          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/zero.webp";
 
           img.style.cssText = \`
             max-width:95%;
@@ -6435,7 +6435,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
               overlay.remove();
             }
           };
-        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/gt6.webp",alt:"Admin Dashboard",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/zero.webp",alt:"download",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
         const existing = document.getElementById('wk-image-overlay');
         if(existing) existing.remove();
 
@@ -6478,1159 +6478,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
         };
 
         const img = document.createElement('img');
-        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/gt6.webp";
-
-        img.style.cssText = \`
-          max-width:95%;
-          max-height:95%;
-          border-radius:12px;
-          transition:transform .15s ease;
-          cursor:zoom-in;
-          will-change:transform;
-          user-select:none;
-        \`;
-
-        let scale = 1;
-
-        // scroll zoom
-        overlay.onwheel = (e) => {
-          e.preventDefault();
-
-          scale += e.deltaY * -0.001;
-          scale = Math.min(Math.max(1, scale), 5);
-
-          img.style.transform = 'scale(' + scale + ')';
-        };
-
-        // double click zoom
-        img.ondblclick = () => {
-          scale = scale === 1 ? 2 : 1;
-          img.style.transform = 'scale(' + scale + ')';
-        };
-
-        overlay.appendChild(closeBtn);
-        overlay.appendChild(img);
-
-        document.body.appendChild(overlay);
-
-        // close overlay
-        overlay.onclick = (e) => {
-          if (e.target === overlay) {
-            overlay.remove();
-          }
-        };
-
-        // esc close
-        document.onkeydown = (e) => {
-          if (e.key === 'Escape') {
-            overlay.remove();
-          }
-        };
-      `})])],-1),n("p",null,"You can change the labels as shown in below screenshot:",-1),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
-          event.preventDefault();
-
-          const existing = document.getElementById('wk-image-overlay');
-          if(existing) existing.remove();
-
-          const overlay = document.createElement('div');
-          overlay.id = 'wk-image-overlay';
-
-          overlay.style.cssText = \`
-            position:fixed;
-            inset:0;
-            background:rgba(0,0,0,0.88);
-            display:flex;
-            align-items:center;
-            justify-content:center;
-            z-index:99999;
-            padding:20px;
-            cursor:zoom-out;
-            overflow:hidden;
-            backdrop-filter: blur(3px);
-          \`;
-
-          // 🔹 CLOSE BUTTON
-          const closeBtn = document.createElement('div');
-          closeBtn.innerHTML = '&times;';
-
-          closeBtn.style.cssText = \`
-            position:absolute;
-              top:20px;
-              right:25px;
-              background:#0c7484;
-              color:#fff;
-              width:50px;
-              height:50px;
-              border-radius:50%;
-              display:flex;
-              align-items:center;
-              justify-content:center;
-              font-size:32px;
-              font-weight:bold;
-              cursor:pointer;
-              z-index:100000;
-              line-height:1;
-              user-select:none;
-              box-shadow:0 4px 12px rgba(0,0,0,0.35);     
-          \`;
-
-          closeBtn.onclick = () => {
-            overlay.remove();
-          };
-
-          const img = document.createElement('img');
-          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/final1.webp";
-
-          img.style.cssText = \`
-            max-width:95%;
-            max-height:95%;
-            border-radius:12px;
-            transition:transform .15s ease;
-            cursor:zoom-in;
-            will-change:transform;
-            user-select:none;
-          \`;
-
-          let scale = 1;
-
-          // scroll zoom
-          overlay.onwheel = (e) => {
-            e.preventDefault();
-
-            scale += e.deltaY * -0.001;
-            scale = Math.min(Math.max(1, scale), 5);
-
-            img.style.transform = 'scale(' + scale + ')';
-          };
-
-          // double click zoom
-          img.ondblclick = () => {
-            scale = scale === 1 ? 2 : 1;
-            img.style.transform = 'scale(' + scale + ')';
-          };
-
-          overlay.appendChild(closeBtn);
-          overlay.appendChild(img);
-
-          document.body.appendChild(overlay);
-
-          // close overlay
-          overlay.onclick = (e) => {
-            if (e.target === overlay) {
-              overlay.remove();
-            }
-          };
-
-          // esc close
-          document.onkeydown = (e) => {
-            if (e.key === 'Escape') {
-              overlay.remove();
-            }
-          };
-        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/final1.webp",alt:"Change Labels",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
-        const existing = document.getElementById('wk-image-overlay');
-        if(existing) existing.remove();
-
-        const overlay = document.createElement('div');
-        overlay.id = 'wk-image-overlay';
-
-        overlay.style.cssText = \`
-          position:fixed;
-          inset:0;
-          background:rgba(0,0,0,0.88);
-          display:flex;
-          align-items:center;
-          justify-content:center;
-          z-index:99999;
-          padding:20px;
-          cursor:zoom-out;
-          overflow:hidden;
-          backdrop-filter: blur(3px);
-        \`;
-
-        // 🔹 CLOSE BUTTON
-        const closeBtn = document.createElement('div');
-        closeBtn.innerHTML = '&times;';
-
-        closeBtn.style.cssText = \`
-          position:absolute;
-          top:20px;
-          right:25px;
-          color:#fff;
-          font-size:42px;
-          font-weight:bold;
-          cursor:pointer;
-          z-index:100000;
-          line-height:1;
-          user-select:none;
-        \`;
-
-        closeBtn.onclick = () => {
-          overlay.remove();
-        };
-
-        const img = document.createElement('img');
-        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/final1.webp";
-
-        img.style.cssText = \`
-          max-width:95%;
-          max-height:95%;
-          border-radius:12px;
-          transition:transform .15s ease;
-          cursor:zoom-in;
-          will-change:transform;
-          user-select:none;
-        \`;
-
-        let scale = 1;
-
-        // scroll zoom
-        overlay.onwheel = (e) => {
-          e.preventDefault();
-
-          scale += e.deltaY * -0.001;
-          scale = Math.min(Math.max(1, scale), 5);
-
-          img.style.transform = 'scale(' + scale + ')';
-        };
-
-        // double click zoom
-        img.ondblclick = () => {
-          scale = scale === 1 ? 2 : 1;
-          img.style.transform = 'scale(' + scale + ')';
-        };
-
-        overlay.appendChild(closeBtn);
-        overlay.appendChild(img);
-
-        document.body.appendChild(overlay);
-
-        // close overlay
-        overlay.onclick = (e) => {
-          if (e.target === overlay) {
-            overlay.remove();
-          }
-        };
-
-        // esc close
-        document.onkeydown = (e) => {
-          if (e.key === 'Escape') {
-            overlay.remove();
-          }
-        };
-      `})])],-1),n("h2",{id:"display-of-seller-products-on-the-seller-profile-page",tabindex:"-1"},[e("Display of seller products on the seller profile page "),n("a",{class:"header-anchor",href:"#display-of-seller-products-on-the-seller-profile-page","aria-label":'Permalink to "Display of seller products on the seller profile page"'},"​")],-1),n("p",null,"All the products of that particular seller will be displayed on the seller profile page itself.",-1),n("p",null,"The updated seller profile page with the banner and the configuration set by admin will look like this.",-1),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
-          event.preventDefault();
-
-          const existing = document.getElementById('wk-image-overlay');
-          if(existing) existing.remove();
-
-          const overlay = document.createElement('div');
-          overlay.id = 'wk-image-overlay';
-
-          overlay.style.cssText = \`
-            position:fixed;
-            inset:0;
-            background:rgba(0,0,0,0.88);
-            display:flex;
-            align-items:center;
-            justify-content:center;
-            z-index:99999;
-            padding:20px;
-            cursor:zoom-out;
-            overflow:hidden;
-            backdrop-filter: blur(3px);
-          \`;
-
-          // 🔹 CLOSE BUTTON
-          const closeBtn = document.createElement('div');
-          closeBtn.innerHTML = '&times;';
-
-          closeBtn.style.cssText = \`
-            position:absolute;
-              top:20px;
-              right:25px;
-              background:#0c7484;
-              color:#fff;
-              width:50px;
-              height:50px;
-              border-radius:50%;
-              display:flex;
-              align-items:center;
-              justify-content:center;
-              font-size:32px;
-              font-weight:bold;
-              cursor:pointer;
-              z-index:100000;
-              line-height:1;
-              user-select:none;
-              box-shadow:0 4px 12px rgba(0,0,0,0.35);     
-          \`;
-
-          closeBtn.onclick = () => {
-            overlay.remove();
-          };
-
-          const img = document.createElement('img');
-          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/Seller-Profile-%E2%80%93-Demo-Store-6.png";
-
-          img.style.cssText = \`
-            max-width:95%;
-            max-height:95%;
-            border-radius:12px;
-            transition:transform .15s ease;
-            cursor:zoom-in;
-            will-change:transform;
-            user-select:none;
-          \`;
-
-          let scale = 1;
-
-          // scroll zoom
-          overlay.onwheel = (e) => {
-            e.preventDefault();
-
-            scale += e.deltaY * -0.001;
-            scale = Math.min(Math.max(1, scale), 5);
-
-            img.style.transform = 'scale(' + scale + ')';
-          };
-
-          // double click zoom
-          img.ondblclick = () => {
-            scale = scale === 1 ? 2 : 1;
-            img.style.transform = 'scale(' + scale + ')';
-          };
-
-          overlay.appendChild(closeBtn);
-          overlay.appendChild(img);
-
-          document.body.appendChild(overlay);
-
-          // close overlay
-          overlay.onclick = (e) => {
-            if (e.target === overlay) {
-              overlay.remove();
-            }
-          };
-
-          // esc close
-          document.onkeydown = (e) => {
-            if (e.key === 'Escape') {
-              overlay.remove();
-            }
-          };
-        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/Seller-Profile-%E2%80%93-Demo-Store-6.png",alt:"Seller Profile Page 11",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
-        const existing = document.getElementById('wk-image-overlay');
-        if(existing) existing.remove();
-
-        const overlay = document.createElement('div');
-        overlay.id = 'wk-image-overlay';
-
-        overlay.style.cssText = \`
-          position:fixed;
-          inset:0;
-          background:rgba(0,0,0,0.88);
-          display:flex;
-          align-items:center;
-          justify-content:center;
-          z-index:99999;
-          padding:20px;
-          cursor:zoom-out;
-          overflow:hidden;
-          backdrop-filter: blur(3px);
-        \`;
-
-        // 🔹 CLOSE BUTTON
-        const closeBtn = document.createElement('div');
-        closeBtn.innerHTML = '&times;';
-
-        closeBtn.style.cssText = \`
-          position:absolute;
-          top:20px;
-          right:25px;
-          color:#fff;
-          font-size:42px;
-          font-weight:bold;
-          cursor:pointer;
-          z-index:100000;
-          line-height:1;
-          user-select:none;
-        \`;
-
-        closeBtn.onclick = () => {
-          overlay.remove();
-        };
-
-        const img = document.createElement('img');
-        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/Seller-Profile-%E2%80%93-Demo-Store-6.png";
-
-        img.style.cssText = \`
-          max-width:95%;
-          max-height:95%;
-          border-radius:12px;
-          transition:transform .15s ease;
-          cursor:zoom-in;
-          will-change:transform;
-          user-select:none;
-        \`;
-
-        let scale = 1;
-
-        // scroll zoom
-        overlay.onwheel = (e) => {
-          e.preventDefault();
-
-          scale += e.deltaY * -0.001;
-          scale = Math.min(Math.max(1, scale), 5);
-
-          img.style.transform = 'scale(' + scale + ')';
-        };
-
-        // double click zoom
-        img.ondblclick = () => {
-          scale = scale === 1 ? 2 : 1;
-          img.style.transform = 'scale(' + scale + ')';
-        };
-
-        overlay.appendChild(closeBtn);
-        overlay.appendChild(img);
-
-        document.body.appendChild(overlay);
-
-        // close overlay
-        overlay.onclick = (e) => {
-          if (e.target === overlay) {
-            overlay.remove();
-          }
-        };
-
-        // esc close
-        document.onkeydown = (e) => {
-          if (e.key === 'Escape') {
-            overlay.remove();
-          }
-        };
-      `})])],-1),o("",6),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
-          event.preventDefault();
-
-          const existing = document.getElementById('wk-image-overlay');
-          if(existing) existing.remove();
-
-          const overlay = document.createElement('div');
-          overlay.id = 'wk-image-overlay';
-
-          overlay.style.cssText = \`
-            position:fixed;
-            inset:0;
-            background:rgba(0,0,0,0.88);
-            display:flex;
-            align-items:center;
-            justify-content:center;
-            z-index:99999;
-            padding:20px;
-            cursor:zoom-out;
-            overflow:hidden;
-            backdrop-filter: blur(3px);
-          \`;
-
-          // 🔹 CLOSE BUTTON
-          const closeBtn = document.createElement('div');
-          closeBtn.innerHTML = '&times;';
-
-          closeBtn.style.cssText = \`
-            position:absolute;
-              top:20px;
-              right:25px;
-              background:#0c7484;
-              color:#fff;
-              width:50px;
-              height:50px;
-              border-radius:50%;
-              display:flex;
-              align-items:center;
-              justify-content:center;
-              font-size:32px;
-              font-weight:bold;
-              cursor:pointer;
-              z-index:100000;
-              line-height:1;
-              user-select:none;
-              box-shadow:0 4px 12px rgba(0,0,0,0.35);     
-          \`;
-
-          closeBtn.onclick = () => {
-            overlay.remove();
-          };
-
-          const img = document.createElement('img');
-          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/sdd6.webp";
-
-          img.style.cssText = \`
-            max-width:95%;
-            max-height:95%;
-            border-radius:12px;
-            transition:transform .15s ease;
-            cursor:zoom-in;
-            will-change:transform;
-            user-select:none;
-          \`;
-
-          let scale = 1;
-
-          // scroll zoom
-          overlay.onwheel = (e) => {
-            e.preventDefault();
-
-            scale += e.deltaY * -0.001;
-            scale = Math.min(Math.max(1, scale), 5);
-
-            img.style.transform = 'scale(' + scale + ')';
-          };
-
-          // double click zoom
-          img.ondblclick = () => {
-            scale = scale === 1 ? 2 : 1;
-            img.style.transform = 'scale(' + scale + ')';
-          };
-
-          overlay.appendChild(closeBtn);
-          overlay.appendChild(img);
-
-          document.body.appendChild(overlay);
-
-          // close overlay
-          overlay.onclick = (e) => {
-            if (e.target === overlay) {
-              overlay.remove();
-            }
-          };
-
-          // esc close
-          document.onkeydown = (e) => {
-            if (e.key === 'Escape') {
-              overlay.remove();
-            }
-          };
-        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/sdd6.webp",alt:"screenshot-akram-sh.webkul.com-2022.03.07-22_16_58",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
-        const existing = document.getElementById('wk-image-overlay');
-        if(existing) existing.remove();
-
-        const overlay = document.createElement('div');
-        overlay.id = 'wk-image-overlay';
-
-        overlay.style.cssText = \`
-          position:fixed;
-          inset:0;
-          background:rgba(0,0,0,0.88);
-          display:flex;
-          align-items:center;
-          justify-content:center;
-          z-index:99999;
-          padding:20px;
-          cursor:zoom-out;
-          overflow:hidden;
-          backdrop-filter: blur(3px);
-        \`;
-
-        // 🔹 CLOSE BUTTON
-        const closeBtn = document.createElement('div');
-        closeBtn.innerHTML = '&times;';
-
-        closeBtn.style.cssText = \`
-          position:absolute;
-          top:20px;
-          right:25px;
-          color:#fff;
-          font-size:42px;
-          font-weight:bold;
-          cursor:pointer;
-          z-index:100000;
-          line-height:1;
-          user-select:none;
-        \`;
-
-        closeBtn.onclick = () => {
-          overlay.remove();
-        };
-
-        const img = document.createElement('img');
-        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/sdd6.webp";
-
-        img.style.cssText = \`
-          max-width:95%;
-          max-height:95%;
-          border-radius:12px;
-          transition:transform .15s ease;
-          cursor:zoom-in;
-          will-change:transform;
-          user-select:none;
-        \`;
-
-        let scale = 1;
-
-        // scroll zoom
-        overlay.onwheel = (e) => {
-          e.preventDefault();
-
-          scale += e.deltaY * -0.001;
-          scale = Math.min(Math.max(1, scale), 5);
-
-          img.style.transform = 'scale(' + scale + ')';
-        };
-
-        // double click zoom
-        img.ondblclick = () => {
-          scale = scale === 1 ? 2 : 1;
-          img.style.transform = 'scale(' + scale + ')';
-        };
-
-        overlay.appendChild(closeBtn);
-        overlay.appendChild(img);
-
-        document.body.appendChild(overlay);
-
-        // close overlay
-        overlay.onclick = (e) => {
-          if (e.target === overlay) {
-            overlay.remove();
-          }
-        };
-
-        // esc close
-        document.onkeydown = (e) => {
-          if (e.key === 'Escape') {
-            overlay.remove();
-          }
-        };
-      `})])],-1),n("p",null,'Please NOTE: On updating the seller profile type, you need to regenerate the seller category page from the "Storefront configuration" section here:',-1),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
-          event.preventDefault();
-
-          const existing = document.getElementById('wk-image-overlay');
-          if(existing) existing.remove();
-
-          const overlay = document.createElement('div');
-          overlay.id = 'wk-image-overlay';
-
-          overlay.style.cssText = \`
-            position:fixed;
-            inset:0;
-            background:rgba(0,0,0,0.88);
-            display:flex;
-            align-items:center;
-            justify-content:center;
-            z-index:99999;
-            padding:20px;
-            cursor:zoom-out;
-            overflow:hidden;
-            backdrop-filter: blur(3px);
-          \`;
-
-          // 🔹 CLOSE BUTTON
-          const closeBtn = document.createElement('div');
-          closeBtn.innerHTML = '&times;';
-
-          closeBtn.style.cssText = \`
-            position:absolute;
-              top:20px;
-              right:25px;
-              background:#0c7484;
-              color:#fff;
-              width:50px;
-              height:50px;
-              border-radius:50%;
-              display:flex;
-              align-items:center;
-              justify-content:center;
-              font-size:32px;
-              font-weight:bold;
-              cursor:pointer;
-              z-index:100000;
-              line-height:1;
-              user-select:none;
-              box-shadow:0 4px 12px rgba(0,0,0,0.35);     
-          \`;
-
-          closeBtn.onclick = () => {
-            overlay.remove();
-          };
-
-          const img = document.createElement('img');
-          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/fg67.webp";
-
-          img.style.cssText = \`
-            max-width:95%;
-            max-height:95%;
-            border-radius:12px;
-            transition:transform .15s ease;
-            cursor:zoom-in;
-            will-change:transform;
-            user-select:none;
-          \`;
-
-          let scale = 1;
-
-          // scroll zoom
-          overlay.onwheel = (e) => {
-            e.preventDefault();
-
-            scale += e.deltaY * -0.001;
-            scale = Math.min(Math.max(1, scale), 5);
-
-            img.style.transform = 'scale(' + scale + ')';
-          };
-
-          // double click zoom
-          img.ondblclick = () => {
-            scale = scale === 1 ? 2 : 1;
-            img.style.transform = 'scale(' + scale + ')';
-          };
-
-          overlay.appendChild(closeBtn);
-          overlay.appendChild(img);
-
-          document.body.appendChild(overlay);
-
-          // close overlay
-          overlay.onclick = (e) => {
-            if (e.target === overlay) {
-              overlay.remove();
-            }
-          };
-
-          // esc close
-          document.onkeydown = (e) => {
-            if (e.key === 'Escape') {
-              overlay.remove();
-            }
-          };
-        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/fg67.webp",alt:"screenshot-akram-sh.webkul.com-2022.03.07-22_32_41",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
-        const existing = document.getElementById('wk-image-overlay');
-        if(existing) existing.remove();
-
-        const overlay = document.createElement('div');
-        overlay.id = 'wk-image-overlay';
-
-        overlay.style.cssText = \`
-          position:fixed;
-          inset:0;
-          background:rgba(0,0,0,0.88);
-          display:flex;
-          align-items:center;
-          justify-content:center;
-          z-index:99999;
-          padding:20px;
-          cursor:zoom-out;
-          overflow:hidden;
-          backdrop-filter: blur(3px);
-        \`;
-
-        // 🔹 CLOSE BUTTON
-        const closeBtn = document.createElement('div');
-        closeBtn.innerHTML = '&times;';
-
-        closeBtn.style.cssText = \`
-          position:absolute;
-          top:20px;
-          right:25px;
-          color:#fff;
-          font-size:42px;
-          font-weight:bold;
-          cursor:pointer;
-          z-index:100000;
-          line-height:1;
-          user-select:none;
-        \`;
-
-        closeBtn.onclick = () => {
-          overlay.remove();
-        };
-
-        const img = document.createElement('img');
-        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/fg67.webp";
-
-        img.style.cssText = \`
-          max-width:95%;
-          max-height:95%;
-          border-radius:12px;
-          transition:transform .15s ease;
-          cursor:zoom-in;
-          will-change:transform;
-          user-select:none;
-        \`;
-
-        let scale = 1;
-
-        // scroll zoom
-        overlay.onwheel = (e) => {
-          e.preventDefault();
-
-          scale += e.deltaY * -0.001;
-          scale = Math.min(Math.max(1, scale), 5);
-
-          img.style.transform = 'scale(' + scale + ')';
-        };
-
-        // double click zoom
-        img.ondblclick = () => {
-          scale = scale === 1 ? 2 : 1;
-          img.style.transform = 'scale(' + scale + ')';
-        };
-
-        overlay.appendChild(closeBtn);
-        overlay.appendChild(img);
-
-        document.body.appendChild(overlay);
-
-        // close overlay
-        overlay.onclick = (e) => {
-          if (e.target === overlay) {
-            overlay.remove();
-          }
-        };
-
-        // esc close
-        document.onkeydown = (e) => {
-          if (e.key === 'Escape') {
-            overlay.remove();
-          }
-        };
-      `})])],-1),n("p",null,"Also, please note: If you have a customized seller profile page and you want to change the seller profile type,",-1),n("p",null,[e("you need to make some changes from the "),n("strong",null,"wk-seller-category.liquid"),e(" file in your theme instead of regenerating")],-1),n("p",null,"the page as regenerating the page will vanish the custom work and populate the default seller profile page provided by us.",-1),n("p",null,'If you want to change the seller profile type from "with collection" to "without collection" set the value to "0"',-1),n("p",null,'If you want to change the seller profile type from "without collection to with collection" set the value to "1"',-1),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
-          event.preventDefault();
-
-          const existing = document.getElementById('wk-image-overlay');
-          if(existing) existing.remove();
-
-          const overlay = document.createElement('div');
-          overlay.id = 'wk-image-overlay';
-
-          overlay.style.cssText = \`
-            position:fixed;
-            inset:0;
-            background:rgba(0,0,0,0.88);
-            display:flex;
-            align-items:center;
-            justify-content:center;
-            z-index:99999;
-            padding:20px;
-            cursor:zoom-out;
-            overflow:hidden;
-            backdrop-filter: blur(3px);
-          \`;
-
-          // 🔹 CLOSE BUTTON
-          const closeBtn = document.createElement('div');
-          closeBtn.innerHTML = '&times;';
-
-          closeBtn.style.cssText = \`
-            position:absolute;
-              top:20px;
-              right:25px;
-              background:#0c7484;
-              color:#fff;
-              width:50px;
-              height:50px;
-              border-radius:50%;
-              display:flex;
-              align-items:center;
-              justify-content:center;
-              font-size:32px;
-              font-weight:bold;
-              cursor:pointer;
-              z-index:100000;
-              line-height:1;
-              user-select:none;
-              box-shadow:0 4px 12px rgba(0,0,0,0.35);     
-          \`;
-
-          closeBtn.onclick = () => {
-            overlay.remove();
-          };
-
-          const img = document.createElement('img');
-          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2022/03/screenshot-akram-store2.myshopify.com-2022.03.07-22_55_32-1200x581.png";
-
-          img.style.cssText = \`
-            max-width:95%;
-            max-height:95%;
-            border-radius:12px;
-            transition:transform .15s ease;
-            cursor:zoom-in;
-            will-change:transform;
-            user-select:none;
-          \`;
-
-          let scale = 1;
-
-          // scroll zoom
-          overlay.onwheel = (e) => {
-            e.preventDefault();
-
-            scale += e.deltaY * -0.001;
-            scale = Math.min(Math.max(1, scale), 5);
-
-            img.style.transform = 'scale(' + scale + ')';
-          };
-
-          // double click zoom
-          img.ondblclick = () => {
-            scale = scale === 1 ? 2 : 1;
-            img.style.transform = 'scale(' + scale + ')';
-          };
-
-          overlay.appendChild(closeBtn);
-          overlay.appendChild(img);
-
-          document.body.appendChild(overlay);
-
-          // close overlay
-          overlay.onclick = (e) => {
-            if (e.target === overlay) {
-              overlay.remove();
-            }
-          };
-
-          // esc close
-          document.onkeydown = (e) => {
-            if (e.key === 'Escape') {
-              overlay.remove();
-            }
-          };
-        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2022/03/screenshot-akram-store2.myshopify.com-2022.03.07-22_55_32-1200x581.png",alt:"screenshot-akram-store2.myshopify.com-2022.03.07-22_55_32",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
-        const existing = document.getElementById('wk-image-overlay');
-        if(existing) existing.remove();
-
-        const overlay = document.createElement('div');
-        overlay.id = 'wk-image-overlay';
-
-        overlay.style.cssText = \`
-          position:fixed;
-          inset:0;
-          background:rgba(0,0,0,0.88);
-          display:flex;
-          align-items:center;
-          justify-content:center;
-          z-index:99999;
-          padding:20px;
-          cursor:zoom-out;
-          overflow:hidden;
-          backdrop-filter: blur(3px);
-        \`;
-
-        // 🔹 CLOSE BUTTON
-        const closeBtn = document.createElement('div');
-        closeBtn.innerHTML = '&times;';
-
-        closeBtn.style.cssText = \`
-          position:absolute;
-          top:20px;
-          right:25px;
-          color:#fff;
-          font-size:42px;
-          font-weight:bold;
-          cursor:pointer;
-          z-index:100000;
-          line-height:1;
-          user-select:none;
-        \`;
-
-        closeBtn.onclick = () => {
-          overlay.remove();
-        };
-
-        const img = document.createElement('img');
-        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2022/03/screenshot-akram-store2.myshopify.com-2022.03.07-22_55_32-1200x581.png";
-
-        img.style.cssText = \`
-          max-width:95%;
-          max-height:95%;
-          border-radius:12px;
-          transition:transform .15s ease;
-          cursor:zoom-in;
-          will-change:transform;
-          user-select:none;
-        \`;
-
-        let scale = 1;
-
-        // scroll zoom
-        overlay.onwheel = (e) => {
-          e.preventDefault();
-
-          scale += e.deltaY * -0.001;
-          scale = Math.min(Math.max(1, scale), 5);
-
-          img.style.transform = 'scale(' + scale + ')';
-        };
-
-        // double click zoom
-        img.ondblclick = () => {
-          scale = scale === 1 ? 2 : 1;
-          img.style.transform = 'scale(' + scale + ')';
-        };
-
-        overlay.appendChild(closeBtn);
-        overlay.appendChild(img);
-
-        document.body.appendChild(overlay);
-
-        // close overlay
-        overlay.onclick = (e) => {
-          if (e.target === overlay) {
-            overlay.remove();
-          }
-        };
-
-        // esc close
-        document.onkeydown = (e) => {
-          if (e.key === 'Escape') {
-            overlay.remove();
-          }
-        };
-      `})])],-1),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
-          event.preventDefault();
-
-          const existing = document.getElementById('wk-image-overlay');
-          if(existing) existing.remove();
-
-          const overlay = document.createElement('div');
-          overlay.id = 'wk-image-overlay';
-
-          overlay.style.cssText = \`
-            position:fixed;
-            inset:0;
-            background:rgba(0,0,0,0.88);
-            display:flex;
-            align-items:center;
-            justify-content:center;
-            z-index:99999;
-            padding:20px;
-            cursor:zoom-out;
-            overflow:hidden;
-            backdrop-filter: blur(3px);
-          \`;
-
-          // 🔹 CLOSE BUTTON
-          const closeBtn = document.createElement('div');
-          closeBtn.innerHTML = '&times;';
-
-          closeBtn.style.cssText = \`
-            position:absolute;
-              top:20px;
-              right:25px;
-              background:#0c7484;
-              color:#fff;
-              width:50px;
-              height:50px;
-              border-radius:50%;
-              display:flex;
-              align-items:center;
-              justify-content:center;
-              font-size:32px;
-              font-weight:bold;
-              cursor:pointer;
-              z-index:100000;
-              line-height:1;
-              user-select:none;
-              box-shadow:0 4px 12px rgba(0,0,0,0.35);     
-          \`;
-
-          closeBtn.onclick = () => {
-            overlay.remove();
-          };
-
-          const img = document.createElement('img');
-          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2022/03/screenshot-akram-store2.myshopify.com-2022.03.07-22_55_51-1200x581.png";
-
-          img.style.cssText = \`
-            max-width:95%;
-            max-height:95%;
-            border-radius:12px;
-            transition:transform .15s ease;
-            cursor:zoom-in;
-            will-change:transform;
-            user-select:none;
-          \`;
-
-          let scale = 1;
-
-          // scroll zoom
-          overlay.onwheel = (e) => {
-            e.preventDefault();
-
-            scale += e.deltaY * -0.001;
-            scale = Math.min(Math.max(1, scale), 5);
-
-            img.style.transform = 'scale(' + scale + ')';
-          };
-
-          // double click zoom
-          img.ondblclick = () => {
-            scale = scale === 1 ? 2 : 1;
-            img.style.transform = 'scale(' + scale + ')';
-          };
-
-          overlay.appendChild(closeBtn);
-          overlay.appendChild(img);
-
-          document.body.appendChild(overlay);
-
-          // close overlay
-          overlay.onclick = (e) => {
-            if (e.target === overlay) {
-              overlay.remove();
-            }
-          };
-
-          // esc close
-          document.onkeydown = (e) => {
-            if (e.key === 'Escape') {
-              overlay.remove();
-            }
-          };
-        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2022/03/screenshot-akram-store2.myshopify.com-2022.03.07-22_55_51-1200x581.png",alt:"screenshot-akram-store2.myshopify.com-2022.03.07-22_55_51",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
-        const existing = document.getElementById('wk-image-overlay');
-        if(existing) existing.remove();
-
-        const overlay = document.createElement('div');
-        overlay.id = 'wk-image-overlay';
-
-        overlay.style.cssText = \`
-          position:fixed;
-          inset:0;
-          background:rgba(0,0,0,0.88);
-          display:flex;
-          align-items:center;
-          justify-content:center;
-          z-index:99999;
-          padding:20px;
-          cursor:zoom-out;
-          overflow:hidden;
-          backdrop-filter: blur(3px);
-        \`;
-
-        // 🔹 CLOSE BUTTON
-        const closeBtn = document.createElement('div');
-        closeBtn.innerHTML = '&times;';
-
-        closeBtn.style.cssText = \`
-          position:absolute;
-          top:20px;
-          right:25px;
-          color:#fff;
-          font-size:42px;
-          font-weight:bold;
-          cursor:pointer;
-          z-index:100000;
-          line-height:1;
-          user-select:none;
-        \`;
-
-        closeBtn.onclick = () => {
-          overlay.remove();
-        };
-
-        const img = document.createElement('img');
-        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2022/03/screenshot-akram-store2.myshopify.com-2022.03.07-22_55_51-1200x581.png";
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/zero.webp";
 
         img.style.cssText = \`
           max-width:95%;
@@ -7731,7 +6579,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
           };
 
           const img = document.createElement('img');
-          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2026/02/metadetails.webp";
+          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/min.webp";
 
           img.style.cssText = \`
             max-width:95%;
@@ -7779,7 +6627,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
               overlay.remove();
             }
           };
-        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2026/02/metadetails.webp",alt:"meta",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/min.webp",alt:"Configuration-Admin-4",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
         const existing = document.getElementById('wk-image-overlay');
         if(existing) existing.remove();
 
@@ -7822,7 +6670,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
         };
 
         const img = document.createElement('img');
-        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2026/02/metadetails.webp";
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/min.webp";
 
         img.style.cssText = \`
           max-width:95%;
@@ -7870,7 +6718,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
             overlay.remove();
           }
         };
-      `})])],-1),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
+      `})])],-1),n("p",null,"Now, while adding products to the marketplace (admin panel or seller panel), you'll get the option to set quantity. Refer:",-1),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
           event.preventDefault();
 
           const existing = document.getElementById('wk-image-overlay');
@@ -7923,7 +6771,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
           };
 
           const img = document.createElement('img');
-          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2026/02/metatitle.webp";
+          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/mpq.webp";
 
           img.style.cssText = \`
             max-width:95%;
@@ -7971,7 +6819,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
               overlay.remove();
             }
           };
-        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2026/02/metatitle.webp",alt:"metam",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/mpq.webp",alt:"Add-Product-Admin-1",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
         const existing = document.getElementById('wk-image-overlay');
         if(existing) existing.remove();
 
@@ -8014,775 +6862,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
         };
 
         const img = document.createElement('img');
-        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2026/02/metatitle.webp";
-
-        img.style.cssText = \`
-          max-width:95%;
-          max-height:95%;
-          border-radius:12px;
-          transition:transform .15s ease;
-          cursor:zoom-in;
-          will-change:transform;
-          user-select:none;
-        \`;
-
-        let scale = 1;
-
-        // scroll zoom
-        overlay.onwheel = (e) => {
-          e.preventDefault();
-
-          scale += e.deltaY * -0.001;
-          scale = Math.min(Math.max(1, scale), 5);
-
-          img.style.transform = 'scale(' + scale + ')';
-        };
-
-        // double click zoom
-        img.ondblclick = () => {
-          scale = scale === 1 ? 2 : 1;
-          img.style.transform = 'scale(' + scale + ')';
-        };
-
-        overlay.appendChild(closeBtn);
-        overlay.appendChild(img);
-
-        document.body.appendChild(overlay);
-
-        // close overlay
-        overlay.onclick = (e) => {
-          if (e.target === overlay) {
-            overlay.remove();
-          }
-        };
-
-        // esc close
-        document.onkeydown = (e) => {
-          if (e.key === 'Escape') {
-            overlay.remove();
-          }
-        };
-      `})])],-1),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
-          event.preventDefault();
-
-          const existing = document.getElementById('wk-image-overlay');
-          if(existing) existing.remove();
-
-          const overlay = document.createElement('div');
-          overlay.id = 'wk-image-overlay';
-
-          overlay.style.cssText = \`
-            position:fixed;
-            inset:0;
-            background:rgba(0,0,0,0.88);
-            display:flex;
-            align-items:center;
-            justify-content:center;
-            z-index:99999;
-            padding:20px;
-            cursor:zoom-out;
-            overflow:hidden;
-            backdrop-filter: blur(3px);
-          \`;
-
-          // 🔹 CLOSE BUTTON
-          const closeBtn = document.createElement('div');
-          closeBtn.innerHTML = '&times;';
-
-          closeBtn.style.cssText = \`
-            position:absolute;
-              top:20px;
-              right:25px;
-              background:#0c7484;
-              color:#fff;
-              width:50px;
-              height:50px;
-              border-radius:50%;
-              display:flex;
-              align-items:center;
-              justify-content:center;
-              font-size:32px;
-              font-weight:bold;
-              cursor:pointer;
-              z-index:100000;
-              line-height:1;
-              user-select:none;
-              box-shadow:0 4px 12px rgba(0,0,0,0.35);     
-          \`;
-
-          closeBtn.onclick = () => {
-            overlay.remove();
-          };
-
-          const img = document.createElement('img');
-          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2026/02/sellermeta.webp";
-
-          img.style.cssText = \`
-            max-width:95%;
-            max-height:95%;
-            border-radius:12px;
-            transition:transform .15s ease;
-            cursor:zoom-in;
-            will-change:transform;
-            user-select:none;
-          \`;
-
-          let scale = 1;
-
-          // scroll zoom
-          overlay.onwheel = (e) => {
-            e.preventDefault();
-
-            scale += e.deltaY * -0.001;
-            scale = Math.min(Math.max(1, scale), 5);
-
-            img.style.transform = 'scale(' + scale + ')';
-          };
-
-          // double click zoom
-          img.ondblclick = () => {
-            scale = scale === 1 ? 2 : 1;
-            img.style.transform = 'scale(' + scale + ')';
-          };
-
-          overlay.appendChild(closeBtn);
-          overlay.appendChild(img);
-
-          document.body.appendChild(overlay);
-
-          // close overlay
-          overlay.onclick = (e) => {
-            if (e.target === overlay) {
-              overlay.remove();
-            }
-          };
-
-          // esc close
-          document.onkeydown = (e) => {
-            if (e.key === 'Escape') {
-              overlay.remove();
-            }
-          };
-        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2026/02/sellermeta.webp",alt:"meta",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
-        const existing = document.getElementById('wk-image-overlay');
-        if(existing) existing.remove();
-
-        const overlay = document.createElement('div');
-        overlay.id = 'wk-image-overlay';
-
-        overlay.style.cssText = \`
-          position:fixed;
-          inset:0;
-          background:rgba(0,0,0,0.88);
-          display:flex;
-          align-items:center;
-          justify-content:center;
-          z-index:99999;
-          padding:20px;
-          cursor:zoom-out;
-          overflow:hidden;
-          backdrop-filter: blur(3px);
-        \`;
-
-        // 🔹 CLOSE BUTTON
-        const closeBtn = document.createElement('div');
-        closeBtn.innerHTML = '&times;';
-
-        closeBtn.style.cssText = \`
-          position:absolute;
-          top:20px;
-          right:25px;
-          color:#fff;
-          font-size:42px;
-          font-weight:bold;
-          cursor:pointer;
-          z-index:100000;
-          line-height:1;
-          user-select:none;
-        \`;
-
-        closeBtn.onclick = () => {
-          overlay.remove();
-        };
-
-        const img = document.createElement('img');
-        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2026/02/sellermeta.webp";
-
-        img.style.cssText = \`
-          max-width:95%;
-          max-height:95%;
-          border-radius:12px;
-          transition:transform .15s ease;
-          cursor:zoom-in;
-          will-change:transform;
-          user-select:none;
-        \`;
-
-        let scale = 1;
-
-        // scroll zoom
-        overlay.onwheel = (e) => {
-          e.preventDefault();
-
-          scale += e.deltaY * -0.001;
-          scale = Math.min(Math.max(1, scale), 5);
-
-          img.style.transform = 'scale(' + scale + ')';
-        };
-
-        // double click zoom
-        img.ondblclick = () => {
-          scale = scale === 1 ? 2 : 1;
-          img.style.transform = 'scale(' + scale + ')';
-        };
-
-        overlay.appendChild(closeBtn);
-        overlay.appendChild(img);
-
-        document.body.appendChild(overlay);
-
-        // close overlay
-        overlay.onclick = (e) => {
-          if (e.target === overlay) {
-            overlay.remove();
-          }
-        };
-
-        // esc close
-        document.onkeydown = (e) => {
-          if (e.key === 'Escape') {
-            overlay.remove();
-          }
-        };
-      `})])],-1),o("",10),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
-          event.preventDefault();
-
-          const existing = document.getElementById('wk-image-overlay');
-          if(existing) existing.remove();
-
-          const overlay = document.createElement('div');
-          overlay.id = 'wk-image-overlay';
-
-          overlay.style.cssText = \`
-            position:fixed;
-            inset:0;
-            background:rgba(0,0,0,0.88);
-            display:flex;
-            align-items:center;
-            justify-content:center;
-            z-index:99999;
-            padding:20px;
-            cursor:zoom-out;
-            overflow:hidden;
-            backdrop-filter: blur(3px);
-          \`;
-
-          // 🔹 CLOSE BUTTON
-          const closeBtn = document.createElement('div');
-          closeBtn.innerHTML = '&times;';
-
-          closeBtn.style.cssText = \`
-            position:absolute;
-              top:20px;
-              right:25px;
-              background:#0c7484;
-              color:#fff;
-              width:50px;
-              height:50px;
-              border-radius:50%;
-              display:flex;
-              align-items:center;
-              justify-content:center;
-              font-size:32px;
-              font-weight:bold;
-              cursor:pointer;
-              z-index:100000;
-              line-height:1;
-              user-select:none;
-              box-shadow:0 4px 12px rgba(0,0,0,0.35);     
-          \`;
-
-          closeBtn.onclick = () => {
-            overlay.remove();
-          };
-
-          const img = document.createElement('img');
-          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2022/05/akram-1200x564.png";
-
-          img.style.cssText = \`
-            max-width:95%;
-            max-height:95%;
-            border-radius:12px;
-            transition:transform .15s ease;
-            cursor:zoom-in;
-            will-change:transform;
-            user-select:none;
-          \`;
-
-          let scale = 1;
-
-          // scroll zoom
-          overlay.onwheel = (e) => {
-            e.preventDefault();
-
-            scale += e.deltaY * -0.001;
-            scale = Math.min(Math.max(1, scale), 5);
-
-            img.style.transform = 'scale(' + scale + ')';
-          };
-
-          // double click zoom
-          img.ondblclick = () => {
-            scale = scale === 1 ? 2 : 1;
-            img.style.transform = 'scale(' + scale + ')';
-          };
-
-          overlay.appendChild(closeBtn);
-          overlay.appendChild(img);
-
-          document.body.appendChild(overlay);
-
-          // close overlay
-          overlay.onclick = (e) => {
-            if (e.target === overlay) {
-              overlay.remove();
-            }
-          };
-
-          // esc close
-          document.onkeydown = (e) => {
-            if (e.key === 'Escape') {
-              overlay.remove();
-            }
-          };
-        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2022/05/akram-1200x564.png",alt:"akram",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
-        const existing = document.getElementById('wk-image-overlay');
-        if(existing) existing.remove();
-
-        const overlay = document.createElement('div');
-        overlay.id = 'wk-image-overlay';
-
-        overlay.style.cssText = \`
-          position:fixed;
-          inset:0;
-          background:rgba(0,0,0,0.88);
-          display:flex;
-          align-items:center;
-          justify-content:center;
-          z-index:99999;
-          padding:20px;
-          cursor:zoom-out;
-          overflow:hidden;
-          backdrop-filter: blur(3px);
-        \`;
-
-        // 🔹 CLOSE BUTTON
-        const closeBtn = document.createElement('div');
-        closeBtn.innerHTML = '&times;';
-
-        closeBtn.style.cssText = \`
-          position:absolute;
-          top:20px;
-          right:25px;
-          color:#fff;
-          font-size:42px;
-          font-weight:bold;
-          cursor:pointer;
-          z-index:100000;
-          line-height:1;
-          user-select:none;
-        \`;
-
-        closeBtn.onclick = () => {
-          overlay.remove();
-        };
-
-        const img = document.createElement('img');
-        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2022/05/akram-1200x564.png";
-
-        img.style.cssText = \`
-          max-width:95%;
-          max-height:95%;
-          border-radius:12px;
-          transition:transform .15s ease;
-          cursor:zoom-in;
-          will-change:transform;
-          user-select:none;
-        \`;
-
-        let scale = 1;
-
-        // scroll zoom
-        overlay.onwheel = (e) => {
-          e.preventDefault();
-
-          scale += e.deltaY * -0.001;
-          scale = Math.min(Math.max(1, scale), 5);
-
-          img.style.transform = 'scale(' + scale + ')';
-        };
-
-        // double click zoom
-        img.ondblclick = () => {
-          scale = scale === 1 ? 2 : 1;
-          img.style.transform = 'scale(' + scale + ')';
-        };
-
-        overlay.appendChild(closeBtn);
-        overlay.appendChild(img);
-
-        document.body.appendChild(overlay);
-
-        // close overlay
-        overlay.onclick = (e) => {
-          if (e.target === overlay) {
-            overlay.remove();
-          }
-        };
-
-        // esc close
-        document.onkeydown = (e) => {
-          if (e.key === 'Escape') {
-            overlay.remove();
-          }
-        };
-      `})])],-1),n("p",null,"In the Shopify store 2.0:",-1),n("p",null,[e("Follow the path to add seller category profile section "),n("strong",null,"shopify store > online store > customize > collections > add section > select,")],-1),n("p",null,[n("strong",null,"seller category profile"),e(" and click on save button.")],-1),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
-          event.preventDefault();
-
-          const existing = document.getElementById('wk-image-overlay');
-          if(existing) existing.remove();
-
-          const overlay = document.createElement('div');
-          overlay.id = 'wk-image-overlay';
-
-          overlay.style.cssText = \`
-            position:fixed;
-            inset:0;
-            background:rgba(0,0,0,0.88);
-            display:flex;
-            align-items:center;
-            justify-content:center;
-            z-index:99999;
-            padding:20px;
-            cursor:zoom-out;
-            overflow:hidden;
-            backdrop-filter: blur(3px);
-          \`;
-
-          // 🔹 CLOSE BUTTON
-          const closeBtn = document.createElement('div');
-          closeBtn.innerHTML = '&times;';
-
-          closeBtn.style.cssText = \`
-            position:absolute;
-              top:20px;
-              right:25px;
-              background:#0c7484;
-              color:#fff;
-              width:50px;
-              height:50px;
-              border-radius:50%;
-              display:flex;
-              align-items:center;
-              justify-content:center;
-              font-size:32px;
-              font-weight:bold;
-              cursor:pointer;
-              z-index:100000;
-              line-height:1;
-              user-select:none;
-              box-shadow:0 4px 12px rgba(0,0,0,0.35);     
-          \`;
-
-          closeBtn.onclick = () => {
-            overlay.remove();
-          };
-
-          const img = document.createElement('img');
-          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2022/05/ak5.png";
-
-          img.style.cssText = \`
-            max-width:95%;
-            max-height:95%;
-            border-radius:12px;
-            transition:transform .15s ease;
-            cursor:zoom-in;
-            will-change:transform;
-            user-select:none;
-          \`;
-
-          let scale = 1;
-
-          // scroll zoom
-          overlay.onwheel = (e) => {
-            e.preventDefault();
-
-            scale += e.deltaY * -0.001;
-            scale = Math.min(Math.max(1, scale), 5);
-
-            img.style.transform = 'scale(' + scale + ')';
-          };
-
-          // double click zoom
-          img.ondblclick = () => {
-            scale = scale === 1 ? 2 : 1;
-            img.style.transform = 'scale(' + scale + ')';
-          };
-
-          overlay.appendChild(closeBtn);
-          overlay.appendChild(img);
-
-          document.body.appendChild(overlay);
-
-          // close overlay
-          overlay.onclick = (e) => {
-            if (e.target === overlay) {
-              overlay.remove();
-            }
-          };
-
-          // esc close
-          document.onkeydown = (e) => {
-            if (e.key === 'Escape') {
-              overlay.remove();
-            }
-          };
-        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2022/05/ak5.png",alt:"ak5",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
-        const existing = document.getElementById('wk-image-overlay');
-        if(existing) existing.remove();
-
-        const overlay = document.createElement('div');
-        overlay.id = 'wk-image-overlay';
-
-        overlay.style.cssText = \`
-          position:fixed;
-          inset:0;
-          background:rgba(0,0,0,0.88);
-          display:flex;
-          align-items:center;
-          justify-content:center;
-          z-index:99999;
-          padding:20px;
-          cursor:zoom-out;
-          overflow:hidden;
-          backdrop-filter: blur(3px);
-        \`;
-
-        // 🔹 CLOSE BUTTON
-        const closeBtn = document.createElement('div');
-        closeBtn.innerHTML = '&times;';
-
-        closeBtn.style.cssText = \`
-          position:absolute;
-          top:20px;
-          right:25px;
-          color:#fff;
-          font-size:42px;
-          font-weight:bold;
-          cursor:pointer;
-          z-index:100000;
-          line-height:1;
-          user-select:none;
-        \`;
-
-        closeBtn.onclick = () => {
-          overlay.remove();
-        };
-
-        const img = document.createElement('img');
-        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2022/05/ak5.png";
-
-        img.style.cssText = \`
-          max-width:95%;
-          max-height:95%;
-          border-radius:12px;
-          transition:transform .15s ease;
-          cursor:zoom-in;
-          will-change:transform;
-          user-select:none;
-        \`;
-
-        let scale = 1;
-
-        // scroll zoom
-        overlay.onwheel = (e) => {
-          e.preventDefault();
-
-          scale += e.deltaY * -0.001;
-          scale = Math.min(Math.max(1, scale), 5);
-
-          img.style.transform = 'scale(' + scale + ')';
-        };
-
-        // double click zoom
-        img.ondblclick = () => {
-          scale = scale === 1 ? 2 : 1;
-          img.style.transform = 'scale(' + scale + ')';
-        };
-
-        overlay.appendChild(closeBtn);
-        overlay.appendChild(img);
-
-        document.body.appendChild(overlay);
-
-        // close overlay
-        overlay.onclick = (e) => {
-          if (e.target === overlay) {
-            overlay.remove();
-          }
-        };
-
-        // esc close
-        document.onkeydown = (e) => {
-          if (e.key === 'Escape') {
-            overlay.remove();
-          }
-        };
-      `})])],-1),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
-          event.preventDefault();
-
-          const existing = document.getElementById('wk-image-overlay');
-          if(existing) existing.remove();
-
-          const overlay = document.createElement('div');
-          overlay.id = 'wk-image-overlay';
-
-          overlay.style.cssText = \`
-            position:fixed;
-            inset:0;
-            background:rgba(0,0,0,0.88);
-            display:flex;
-            align-items:center;
-            justify-content:center;
-            z-index:99999;
-            padding:20px;
-            cursor:zoom-out;
-            overflow:hidden;
-            backdrop-filter: blur(3px);
-          \`;
-
-          // 🔹 CLOSE BUTTON
-          const closeBtn = document.createElement('div');
-          closeBtn.innerHTML = '&times;';
-
-          closeBtn.style.cssText = \`
-            position:absolute;
-              top:20px;
-              right:25px;
-              background:#0c7484;
-              color:#fff;
-              width:50px;
-              height:50px;
-              border-radius:50%;
-              display:flex;
-              align-items:center;
-              justify-content:center;
-              font-size:32px;
-              font-weight:bold;
-              cursor:pointer;
-              z-index:100000;
-              line-height:1;
-              user-select:none;
-              box-shadow:0 4px 12px rgba(0,0,0,0.35);     
-          \`;
-
-          closeBtn.onclick = () => {
-            overlay.remove();
-          };
-
-          const img = document.createElement('img');
-          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2022/05/akram-2-1200x578.png";
-
-          img.style.cssText = \`
-            max-width:95%;
-            max-height:95%;
-            border-radius:12px;
-            transition:transform .15s ease;
-            cursor:zoom-in;
-            will-change:transform;
-            user-select:none;
-          \`;
-
-          let scale = 1;
-
-          // scroll zoom
-          overlay.onwheel = (e) => {
-            e.preventDefault();
-
-            scale += e.deltaY * -0.001;
-            scale = Math.min(Math.max(1, scale), 5);
-
-            img.style.transform = 'scale(' + scale + ')';
-          };
-
-          // double click zoom
-          img.ondblclick = () => {
-            scale = scale === 1 ? 2 : 1;
-            img.style.transform = 'scale(' + scale + ')';
-          };
-
-          overlay.appendChild(closeBtn);
-          overlay.appendChild(img);
-
-          document.body.appendChild(overlay);
-
-          // close overlay
-          overlay.onclick = (e) => {
-            if (e.target === overlay) {
-              overlay.remove();
-            }
-          };
-
-          // esc close
-          document.onkeydown = (e) => {
-            if (e.key === 'Escape') {
-              overlay.remove();
-            }
-          };
-        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2022/05/akram-2-1200x578.png",alt:"akram-2",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
-        const existing = document.getElementById('wk-image-overlay');
-        if(existing) existing.remove();
-
-        const overlay = document.createElement('div');
-        overlay.id = 'wk-image-overlay';
-
-        overlay.style.cssText = \`
-          position:fixed;
-          inset:0;
-          background:rgba(0,0,0,0.88);
-          display:flex;
-          align-items:center;
-          justify-content:center;
-          z-index:99999;
-          padding:20px;
-          cursor:zoom-out;
-          overflow:hidden;
-          backdrop-filter: blur(3px);
-        \`;
-
-        // 🔹 CLOSE BUTTON
-        const closeBtn = document.createElement('div');
-        closeBtn.innerHTML = '&times;';
-
-        closeBtn.style.cssText = \`
-          position:absolute;
-          top:20px;
-          right:25px;
-          color:#fff;
-          font-size:42px;
-          font-weight:bold;
-          cursor:pointer;
-          z-index:100000;
-          line-height:1;
-          user-select:none;
-        \`;
-
-        closeBtn.onclick = () => {
-          overlay.remove();
-        };
-
-        const img = document.createElement('img');
-        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2022/05/akram-2-1200x578.png";
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/mpq.webp";
 
         img.style.cssText = \`
           max-width:95%;
@@ -8883,7 +6963,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
           };
 
           const img = document.createElement('img');
-          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2022/03/screenshot-akram-store2.myshopify.com-2022.03.07-22_39_03-1200x581.png";
+          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/edit.webp";
 
           img.style.cssText = \`
             max-width:95%;
@@ -8931,7 +7011,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
               overlay.remove();
             }
           };
-        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2022/03/screenshot-akram-store2.myshopify.com-2022.03.07-22_39_03-1200x581.png",alt:"screenshot-akram-store2.myshopify.com-2022.03.07-22_39_03",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/edit.webp",alt:"MULTIVENDOR MARKETPLACE",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
         const existing = document.getElementById('wk-image-overlay');
         if(existing) existing.remove();
 
@@ -8974,7 +7054,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
         };
 
         const img = document.createElement('img');
-        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2022/03/screenshot-akram-store2.myshopify.com-2022.03.07-22_39_03-1200x581.png";
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/edit.webp";
 
         img.style.cssText = \`
           max-width:95%;
@@ -9022,7 +7102,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
             overlay.remove();
           }
         };
-      `})])],-1),n("p",null,[n("strong",null,"Note:")],-1),n("ul",null,[n("li",null,"Before proceeding further kindly make sure that the handle name should be the same on the Shopify seller collection end and multi-vendor seller end"),n("li",null,[e("In case Collection is not created then you can create it by going to "),n("strong",null,"Multivendor Admin Panel >> Sellers >> Sellers Listing >> Click on Three dots >> Select Edit >>")]),n("li",null,[n("strong",null,'On Edit Seller Page click on "More Action" Button >> Click on Create Collection'),e(" as shown below.")]),n("li",null,"In case you are not finding this button then kindly wait as it takes a little time to create a collection at the Shopify end.")],-1),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
+      `})])],-1),n("p",null,[e("Now, on the redirected page, click on "),n("strong",null,"more actions"),e(" > "),n("strong",null,"sync product"),e(". Refer:")],-1),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
           event.preventDefault();
 
           const existing = document.getElementById('wk-image-overlay');
@@ -9075,7 +7155,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
           };
 
           const img = document.createElement('img');
-          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2022/08/create-collection.png";
+          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/productsync.webp";
 
           img.style.cssText = \`
             max-width:95%;
@@ -9123,7 +7203,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
               overlay.remove();
             }
           };
-        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2022/08/create-collection.png",alt:"create-collection",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/productsync.webp",alt:"MULTIVENDOR MARKETPLACE",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
         const existing = document.getElementById('wk-image-overlay');
         if(existing) existing.remove();
 
@@ -9166,7 +7246,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
         };
 
         const img = document.createElement('img');
-        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2022/08/create-collection.png";
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/productsync.webp";
 
         img.style.cssText = \`
           max-width:95%;
@@ -9214,4 +7294,7857 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
             overlay.remove();
           }
         };
-      `})])],-1),n("h3",{id:"schedule-demo",tabindex:"-1"},[e("SCHEDULE DEMO "),n("a",{class:"header-anchor",href:"#schedule-demo","aria-label":'Permalink to "SCHEDULE DEMO"'},"​")],-1),n("p",null,[n("a",{href:"https://egsma.io/shopify-multivendor-marketplace/",target:"_blank",rel:"noreferrer"},"Click here to Schedule the demo of Multivendor marketplace App for Shopify ")],-1)])])}const h=l(r,[["render",a]]);export{y as __pageData,h as default};
+      `})])],-1),o("",2),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
+          event.preventDefault();
+
+          const existing = document.getElementById('wk-image-overlay');
+          if(existing) existing.remove();
+
+          const overlay = document.createElement('div');
+          overlay.id = 'wk-image-overlay';
+
+          overlay.style.cssText = \`
+            position:fixed;
+            inset:0;
+            background:rgba(0,0,0,0.88);
+            display:flex;
+            align-items:center;
+            justify-content:center;
+            z-index:99999;
+            padding:20px;
+            cursor:zoom-out;
+            overflow:hidden;
+            backdrop-filter: blur(3px);
+          \`;
+
+          // 🔹 CLOSE BUTTON
+          const closeBtn = document.createElement('div');
+          closeBtn.innerHTML = '&times;';
+
+          closeBtn.style.cssText = \`
+            position:absolute;
+              top:20px;
+              right:25px;
+              background:#0c7484;
+              color:#fff;
+              width:50px;
+              height:50px;
+              border-radius:50%;
+              display:flex;
+              align-items:center;
+              justify-content:center;
+              font-size:32px;
+              font-weight:bold;
+              cursor:pointer;
+              z-index:100000;
+              line-height:1;
+              user-select:none;
+              box-shadow:0 4px 12px rgba(0,0,0,0.35);     
+          \`;
+
+          closeBtn.onclick = () => {
+            overlay.remove();
+          };
+
+          const img = document.createElement('img');
+          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/adminsync.webp";
+
+          img.style.cssText = \`
+            max-width:95%;
+            max-height:95%;
+            border-radius:12px;
+            transition:transform .15s ease;
+            cursor:zoom-in;
+            will-change:transform;
+            user-select:none;
+          \`;
+
+          let scale = 1;
+
+          // scroll zoom
+          overlay.onwheel = (e) => {
+            e.preventDefault();
+
+            scale += e.deltaY * -0.001;
+            scale = Math.min(Math.max(1, scale), 5);
+
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          // double click zoom
+          img.ondblclick = () => {
+            scale = scale === 1 ? 2 : 1;
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          overlay.appendChild(closeBtn);
+          overlay.appendChild(img);
+
+          document.body.appendChild(overlay);
+
+          // close overlay
+          overlay.onclick = (e) => {
+            if (e.target === overlay) {
+              overlay.remove();
+            }
+          };
+
+          // esc close
+          document.onkeydown = (e) => {
+            if (e.key === 'Escape') {
+              overlay.remove();
+            }
+          };
+        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/adminsync.webp",alt:"MULTIVENDOR MARKETPLACE",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+        const existing = document.getElementById('wk-image-overlay');
+        if(existing) existing.remove();
+
+        const overlay = document.createElement('div');
+        overlay.id = 'wk-image-overlay';
+
+        overlay.style.cssText = \`
+          position:fixed;
+          inset:0;
+          background:rgba(0,0,0,0.88);
+          display:flex;
+          align-items:center;
+          justify-content:center;
+          z-index:99999;
+          padding:20px;
+          cursor:zoom-out;
+          overflow:hidden;
+          backdrop-filter: blur(3px);
+        \`;
+
+        // 🔹 CLOSE BUTTON
+        const closeBtn = document.createElement('div');
+        closeBtn.innerHTML = '&times;';
+
+        closeBtn.style.cssText = \`
+          position:absolute;
+          top:20px;
+          right:25px;
+          color:#fff;
+          font-size:42px;
+          font-weight:bold;
+          cursor:pointer;
+          z-index:100000;
+          line-height:1;
+          user-select:none;
+        \`;
+
+        closeBtn.onclick = () => {
+          overlay.remove();
+        };
+
+        const img = document.createElement('img');
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/adminsync.webp";
+
+        img.style.cssText = \`
+          max-width:95%;
+          max-height:95%;
+          border-radius:12px;
+          transition:transform .15s ease;
+          cursor:zoom-in;
+          will-change:transform;
+          user-select:none;
+        \`;
+
+        let scale = 1;
+
+        // scroll zoom
+        overlay.onwheel = (e) => {
+          e.preventDefault();
+
+          scale += e.deltaY * -0.001;
+          scale = Math.min(Math.max(1, scale), 5);
+
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        // double click zoom
+        img.ondblclick = () => {
+          scale = scale === 1 ? 2 : 1;
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        overlay.appendChild(closeBtn);
+        overlay.appendChild(img);
+
+        document.body.appendChild(overlay);
+
+        // close overlay
+        overlay.onclick = (e) => {
+          if (e.target === overlay) {
+            overlay.remove();
+          }
+        };
+
+        // esc close
+        document.onkeydown = (e) => {
+          if (e.key === 'Escape') {
+            overlay.remove();
+          }
+        };
+      `})])],-1),n("h2",{id:"sync-orders-updates",tabindex:"-1"},[e("Sync Orders Updates "),n("a",{class:"header-anchor",href:"#sync-orders-updates","aria-label":'Permalink to "Sync Orders Updates"'},"​")],-1),n("p",null,"When an item is purchased from your Shopify store, the inventory will only be synced with the app if the item is assigned to any seller registered on your marketplace.",-1),n("p",null,"Now, to fetch orders into the app, you need to click the Sync Orders button and sync your Shopify orders with the app.",-1),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
+          event.preventDefault();
+
+          const existing = document.getElementById('wk-image-overlay');
+          if(existing) existing.remove();
+
+          const overlay = document.createElement('div');
+          overlay.id = 'wk-image-overlay';
+
+          overlay.style.cssText = \`
+            position:fixed;
+            inset:0;
+            background:rgba(0,0,0,0.88);
+            display:flex;
+            align-items:center;
+            justify-content:center;
+            z-index:99999;
+            padding:20px;
+            cursor:zoom-out;
+            overflow:hidden;
+            backdrop-filter: blur(3px);
+          \`;
+
+          // 🔹 CLOSE BUTTON
+          const closeBtn = document.createElement('div');
+          closeBtn.innerHTML = '&times;';
+
+          closeBtn.style.cssText = \`
+            position:absolute;
+              top:20px;
+              right:25px;
+              background:#0c7484;
+              color:#fff;
+              width:50px;
+              height:50px;
+              border-radius:50%;
+              display:flex;
+              align-items:center;
+              justify-content:center;
+              font-size:32px;
+              font-weight:bold;
+              cursor:pointer;
+              z-index:100000;
+              line-height:1;
+              user-select:none;
+              box-shadow:0 4px 12px rgba(0,0,0,0.35);     
+          \`;
+
+          closeBtn.onclick = () => {
+            overlay.remove();
+          };
+
+          const img = document.createElement('img');
+          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/ordersync-scaled.webp";
+
+          img.style.cssText = \`
+            max-width:95%;
+            max-height:95%;
+            border-radius:12px;
+            transition:transform .15s ease;
+            cursor:zoom-in;
+            will-change:transform;
+            user-select:none;
+          \`;
+
+          let scale = 1;
+
+          // scroll zoom
+          overlay.onwheel = (e) => {
+            e.preventDefault();
+
+            scale += e.deltaY * -0.001;
+            scale = Math.min(Math.max(1, scale), 5);
+
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          // double click zoom
+          img.ondblclick = () => {
+            scale = scale === 1 ? 2 : 1;
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          overlay.appendChild(closeBtn);
+          overlay.appendChild(img);
+
+          document.body.appendChild(overlay);
+
+          // close overlay
+          overlay.onclick = (e) => {
+            if (e.target === overlay) {
+              overlay.remove();
+            }
+          };
+
+          // esc close
+          document.onkeydown = (e) => {
+            if (e.key === 'Escape') {
+              overlay.remove();
+            }
+          };
+        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/ordersync-scaled.webp",alt:"Orders-Admin",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+        const existing = document.getElementById('wk-image-overlay');
+        if(existing) existing.remove();
+
+        const overlay = document.createElement('div');
+        overlay.id = 'wk-image-overlay';
+
+        overlay.style.cssText = \`
+          position:fixed;
+          inset:0;
+          background:rgba(0,0,0,0.88);
+          display:flex;
+          align-items:center;
+          justify-content:center;
+          z-index:99999;
+          padding:20px;
+          cursor:zoom-out;
+          overflow:hidden;
+          backdrop-filter: blur(3px);
+        \`;
+
+        // 🔹 CLOSE BUTTON
+        const closeBtn = document.createElement('div');
+        closeBtn.innerHTML = '&times;';
+
+        closeBtn.style.cssText = \`
+          position:absolute;
+          top:20px;
+          right:25px;
+          color:#fff;
+          font-size:42px;
+          font-weight:bold;
+          cursor:pointer;
+          z-index:100000;
+          line-height:1;
+          user-select:none;
+        \`;
+
+        closeBtn.onclick = () => {
+          overlay.remove();
+        };
+
+        const img = document.createElement('img');
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/ordersync-scaled.webp";
+
+        img.style.cssText = \`
+          max-width:95%;
+          max-height:95%;
+          border-radius:12px;
+          transition:transform .15s ease;
+          cursor:zoom-in;
+          will-change:transform;
+          user-select:none;
+        \`;
+
+        let scale = 1;
+
+        // scroll zoom
+        overlay.onwheel = (e) => {
+          e.preventDefault();
+
+          scale += e.deltaY * -0.001;
+          scale = Math.min(Math.max(1, scale), 5);
+
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        // double click zoom
+        img.ondblclick = () => {
+          scale = scale === 1 ? 2 : 1;
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        overlay.appendChild(closeBtn);
+        overlay.appendChild(img);
+
+        document.body.appendChild(overlay);
+
+        // close overlay
+        overlay.onclick = (e) => {
+          if (e.target === overlay) {
+            overlay.remove();
+          }
+        };
+
+        // esc close
+        document.onkeydown = (e) => {
+          if (e.key === 'Escape') {
+            overlay.remove();
+          }
+        };
+      `})])],-1),n("h2",{id:"product-type-product-tag-collection-at-seller-panel",tabindex:"-1"},[e("PRODUCT TYPE, PRODUCT TAG & COLLECTION AT SELLER PANEL "),n("a",{class:"header-anchor",href:"#product-type-product-tag-collection-at-seller-panel","aria-label":'Permalink to "PRODUCT TYPE, PRODUCT TAG & COLLECTION AT SELLER PANEL"'},"​")],-1),n("p",null,"Now, the sellers have the following menus in their multivendor seller panel: Product Type, Product Tag & Collections.",-1),n("p",null,"Multivendor Seller Panel > Products:",-1),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
+          event.preventDefault();
+
+          const existing = document.getElementById('wk-image-overlay');
+          if(existing) existing.remove();
+
+          const overlay = document.createElement('div');
+          overlay.id = 'wk-image-overlay';
+
+          overlay.style.cssText = \`
+            position:fixed;
+            inset:0;
+            background:rgba(0,0,0,0.88);
+            display:flex;
+            align-items:center;
+            justify-content:center;
+            z-index:99999;
+            padding:20px;
+            cursor:zoom-out;
+            overflow:hidden;
+            backdrop-filter: blur(3px);
+          \`;
+
+          // 🔹 CLOSE BUTTON
+          const closeBtn = document.createElement('div');
+          closeBtn.innerHTML = '&times;';
+
+          closeBtn.style.cssText = \`
+            position:absolute;
+              top:20px;
+              right:25px;
+              background:#0c7484;
+              color:#fff;
+              width:50px;
+              height:50px;
+              border-radius:50%;
+              display:flex;
+              align-items:center;
+              justify-content:center;
+              font-size:32px;
+              font-weight:bold;
+              cursor:pointer;
+              z-index:100000;
+              line-height:1;
+              user-select:none;
+              box-shadow:0 4px 12px rgba(0,0,0,0.35);     
+          \`;
+
+          closeBtn.onclick = () => {
+            overlay.remove();
+          };
+
+          const img = document.createElement('img');
+          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/tagcollection-scaled.webp";
+
+          img.style.cssText = \`
+            max-width:95%;
+            max-height:95%;
+            border-radius:12px;
+            transition:transform .15s ease;
+            cursor:zoom-in;
+            will-change:transform;
+            user-select:none;
+          \`;
+
+          let scale = 1;
+
+          // scroll zoom
+          overlay.onwheel = (e) => {
+            e.preventDefault();
+
+            scale += e.deltaY * -0.001;
+            scale = Math.min(Math.max(1, scale), 5);
+
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          // double click zoom
+          img.ondblclick = () => {
+            scale = scale === 1 ? 2 : 1;
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          overlay.appendChild(closeBtn);
+          overlay.appendChild(img);
+
+          document.body.appendChild(overlay);
+
+          // close overlay
+          overlay.onclick = (e) => {
+            if (e.target === overlay) {
+              overlay.remove();
+            }
+          };
+
+          // esc close
+          document.onkeydown = (e) => {
+            if (e.key === 'Escape') {
+              overlay.remove();
+            }
+          };
+        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/tagcollection-scaled.webp",alt:"MULTIVENDOR MARKETPLACE",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+        const existing = document.getElementById('wk-image-overlay');
+        if(existing) existing.remove();
+
+        const overlay = document.createElement('div');
+        overlay.id = 'wk-image-overlay';
+
+        overlay.style.cssText = \`
+          position:fixed;
+          inset:0;
+          background:rgba(0,0,0,0.88);
+          display:flex;
+          align-items:center;
+          justify-content:center;
+          z-index:99999;
+          padding:20px;
+          cursor:zoom-out;
+          overflow:hidden;
+          backdrop-filter: blur(3px);
+        \`;
+
+        // 🔹 CLOSE BUTTON
+        const closeBtn = document.createElement('div');
+        closeBtn.innerHTML = '&times;';
+
+        closeBtn.style.cssText = \`
+          position:absolute;
+          top:20px;
+          right:25px;
+          color:#fff;
+          font-size:42px;
+          font-weight:bold;
+          cursor:pointer;
+          z-index:100000;
+          line-height:1;
+          user-select:none;
+        \`;
+
+        closeBtn.onclick = () => {
+          overlay.remove();
+        };
+
+        const img = document.createElement('img');
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/tagcollection-scaled.webp";
+
+        img.style.cssText = \`
+          max-width:95%;
+          max-height:95%;
+          border-radius:12px;
+          transition:transform .15s ease;
+          cursor:zoom-in;
+          will-change:transform;
+          user-select:none;
+        \`;
+
+        let scale = 1;
+
+        // scroll zoom
+        overlay.onwheel = (e) => {
+          e.preventDefault();
+
+          scale += e.deltaY * -0.001;
+          scale = Math.min(Math.max(1, scale), 5);
+
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        // double click zoom
+        img.ondblclick = () => {
+          scale = scale === 1 ? 2 : 1;
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        overlay.appendChild(closeBtn);
+        overlay.appendChild(img);
+
+        document.body.appendChild(overlay);
+
+        // close overlay
+        overlay.onclick = (e) => {
+          if (e.target === overlay) {
+            overlay.remove();
+          }
+        };
+
+        // esc close
+        document.onkeydown = (e) => {
+          if (e.key === 'Escape') {
+            overlay.remove();
+          }
+        };
+      `})])],-1),n("p",null,[e("Moreover, sellers will also have an option to "),n("strong",null,"export"),e(" product tags, types & collections.")],-1),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
+          event.preventDefault();
+
+          const existing = document.getElementById('wk-image-overlay');
+          if(existing) existing.remove();
+
+          const overlay = document.createElement('div');
+          overlay.id = 'wk-image-overlay';
+
+          overlay.style.cssText = \`
+            position:fixed;
+            inset:0;
+            background:rgba(0,0,0,0.88);
+            display:flex;
+            align-items:center;
+            justify-content:center;
+            z-index:99999;
+            padding:20px;
+            cursor:zoom-out;
+            overflow:hidden;
+            backdrop-filter: blur(3px);
+          \`;
+
+          // 🔹 CLOSE BUTTON
+          const closeBtn = document.createElement('div');
+          closeBtn.innerHTML = '&times;';
+
+          closeBtn.style.cssText = \`
+            position:absolute;
+              top:20px;
+              right:25px;
+              background:#0c7484;
+              color:#fff;
+              width:50px;
+              height:50px;
+              border-radius:50%;
+              display:flex;
+              align-items:center;
+              justify-content:center;
+              font-size:32px;
+              font-weight:bold;
+              cursor:pointer;
+              z-index:100000;
+              line-height:1;
+              user-select:none;
+              box-shadow:0 4px 12px rgba(0,0,0,0.35);     
+          \`;
+
+          closeBtn.onclick = () => {
+            overlay.remove();
+          };
+
+          const img = document.createElement('img');
+          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/exportcollection.webp";
+
+          img.style.cssText = \`
+            max-width:95%;
+            max-height:95%;
+            border-radius:12px;
+            transition:transform .15s ease;
+            cursor:zoom-in;
+            will-change:transform;
+            user-select:none;
+          \`;
+
+          let scale = 1;
+
+          // scroll zoom
+          overlay.onwheel = (e) => {
+            e.preventDefault();
+
+            scale += e.deltaY * -0.001;
+            scale = Math.min(Math.max(1, scale), 5);
+
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          // double click zoom
+          img.ondblclick = () => {
+            scale = scale === 1 ? 2 : 1;
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          overlay.appendChild(closeBtn);
+          overlay.appendChild(img);
+
+          document.body.appendChild(overlay);
+
+          // close overlay
+          overlay.onclick = (e) => {
+            if (e.target === overlay) {
+              overlay.remove();
+            }
+          };
+
+          // esc close
+          document.onkeydown = (e) => {
+            if (e.key === 'Escape') {
+              overlay.remove();
+            }
+          };
+        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/exportcollection.webp",alt:"MULTIVENDOR MARKETPLACE",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+        const existing = document.getElementById('wk-image-overlay');
+        if(existing) existing.remove();
+
+        const overlay = document.createElement('div');
+        overlay.id = 'wk-image-overlay';
+
+        overlay.style.cssText = \`
+          position:fixed;
+          inset:0;
+          background:rgba(0,0,0,0.88);
+          display:flex;
+          align-items:center;
+          justify-content:center;
+          z-index:99999;
+          padding:20px;
+          cursor:zoom-out;
+          overflow:hidden;
+          backdrop-filter: blur(3px);
+        \`;
+
+        // 🔹 CLOSE BUTTON
+        const closeBtn = document.createElement('div');
+        closeBtn.innerHTML = '&times;';
+
+        closeBtn.style.cssText = \`
+          position:absolute;
+          top:20px;
+          right:25px;
+          color:#fff;
+          font-size:42px;
+          font-weight:bold;
+          cursor:pointer;
+          z-index:100000;
+          line-height:1;
+          user-select:none;
+        \`;
+
+        closeBtn.onclick = () => {
+          overlay.remove();
+        };
+
+        const img = document.createElement('img');
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/exportcollection.webp";
+
+        img.style.cssText = \`
+          max-width:95%;
+          max-height:95%;
+          border-radius:12px;
+          transition:transform .15s ease;
+          cursor:zoom-in;
+          will-change:transform;
+          user-select:none;
+        \`;
+
+        let scale = 1;
+
+        // scroll zoom
+        overlay.onwheel = (e) => {
+          e.preventDefault();
+
+          scale += e.deltaY * -0.001;
+          scale = Math.min(Math.max(1, scale), 5);
+
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        // double click zoom
+        img.ondblclick = () => {
+          scale = scale === 1 ? 2 : 1;
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        overlay.appendChild(closeBtn);
+        overlay.appendChild(img);
+
+        document.body.appendChild(overlay);
+
+        // close overlay
+        overlay.onclick = (e) => {
+          if (e.target === overlay) {
+            overlay.remove();
+          }
+        };
+
+        // esc close
+        document.onkeydown = (e) => {
+          if (e.key === 'Escape') {
+            overlay.remove();
+          }
+        };
+      `})])],-1),o("",5),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
+          event.preventDefault();
+
+          const existing = document.getElementById('wk-image-overlay');
+          if(existing) existing.remove();
+
+          const overlay = document.createElement('div');
+          overlay.id = 'wk-image-overlay';
+
+          overlay.style.cssText = \`
+            position:fixed;
+            inset:0;
+            background:rgba(0,0,0,0.88);
+            display:flex;
+            align-items:center;
+            justify-content:center;
+            z-index:99999;
+            padding:20px;
+            cursor:zoom-out;
+            overflow:hidden;
+            backdrop-filter: blur(3px);
+          \`;
+
+          // 🔹 CLOSE BUTTON
+          const closeBtn = document.createElement('div');
+          closeBtn.innerHTML = '&times;';
+
+          closeBtn.style.cssText = \`
+            position:absolute;
+              top:20px;
+              right:25px;
+              background:#0c7484;
+              color:#fff;
+              width:50px;
+              height:50px;
+              border-radius:50%;
+              display:flex;
+              align-items:center;
+              justify-content:center;
+              font-size:32px;
+              font-weight:bold;
+              cursor:pointer;
+              z-index:100000;
+              line-height:1;
+              user-select:none;
+              box-shadow:0 4px 12px rgba(0,0,0,0.35);     
+          \`;
+
+          closeBtn.onclick = () => {
+            overlay.remove();
+          };
+
+          const img = document.createElement('img');
+          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/editalt-scaled.webp";
+
+          img.style.cssText = \`
+            max-width:95%;
+            max-height:95%;
+            border-radius:12px;
+            transition:transform .15s ease;
+            cursor:zoom-in;
+            will-change:transform;
+            user-select:none;
+          \`;
+
+          let scale = 1;
+
+          // scroll zoom
+          overlay.onwheel = (e) => {
+            e.preventDefault();
+
+            scale += e.deltaY * -0.001;
+            scale = Math.min(Math.max(1, scale), 5);
+
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          // double click zoom
+          img.ondblclick = () => {
+            scale = scale === 1 ? 2 : 1;
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          overlay.appendChild(closeBtn);
+          overlay.appendChild(img);
+
+          document.body.appendChild(overlay);
+
+          // close overlay
+          overlay.onclick = (e) => {
+            if (e.target === overlay) {
+              overlay.remove();
+            }
+          };
+
+          // esc close
+          document.onkeydown = (e) => {
+            if (e.key === 'Escape') {
+              overlay.remove();
+            }
+          };
+        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/editalt-scaled.webp",alt:"MULTIVENDOR MARKETPLACE",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+        const existing = document.getElementById('wk-image-overlay');
+        if(existing) existing.remove();
+
+        const overlay = document.createElement('div');
+        overlay.id = 'wk-image-overlay';
+
+        overlay.style.cssText = \`
+          position:fixed;
+          inset:0;
+          background:rgba(0,0,0,0.88);
+          display:flex;
+          align-items:center;
+          justify-content:center;
+          z-index:99999;
+          padding:20px;
+          cursor:zoom-out;
+          overflow:hidden;
+          backdrop-filter: blur(3px);
+        \`;
+
+        // 🔹 CLOSE BUTTON
+        const closeBtn = document.createElement('div');
+        closeBtn.innerHTML = '&times;';
+
+        closeBtn.style.cssText = \`
+          position:absolute;
+          top:20px;
+          right:25px;
+          color:#fff;
+          font-size:42px;
+          font-weight:bold;
+          cursor:pointer;
+          z-index:100000;
+          line-height:1;
+          user-select:none;
+        \`;
+
+        closeBtn.onclick = () => {
+          overlay.remove();
+        };
+
+        const img = document.createElement('img');
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/editalt-scaled.webp";
+
+        img.style.cssText = \`
+          max-width:95%;
+          max-height:95%;
+          border-radius:12px;
+          transition:transform .15s ease;
+          cursor:zoom-in;
+          will-change:transform;
+          user-select:none;
+        \`;
+
+        let scale = 1;
+
+        // scroll zoom
+        overlay.onwheel = (e) => {
+          e.preventDefault();
+
+          scale += e.deltaY * -0.001;
+          scale = Math.min(Math.max(1, scale), 5);
+
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        // double click zoom
+        img.ondblclick = () => {
+          scale = scale === 1 ? 2 : 1;
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        overlay.appendChild(closeBtn);
+        overlay.appendChild(img);
+
+        document.body.appendChild(overlay);
+
+        // close overlay
+        overlay.onclick = (e) => {
+          if (e.target === overlay) {
+            overlay.remove();
+          }
+        };
+
+        // esc close
+        document.onkeydown = (e) => {
+          if (e.key === 'Escape') {
+            overlay.remove();
+          }
+        };
+      `})])],-1),n("p",null,[e("Click on "),n("strong",null,"Edit Image"),e(":")],-1),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
+          event.preventDefault();
+
+          const existing = document.getElementById('wk-image-overlay');
+          if(existing) existing.remove();
+
+          const overlay = document.createElement('div');
+          overlay.id = 'wk-image-overlay';
+
+          overlay.style.cssText = \`
+            position:fixed;
+            inset:0;
+            background:rgba(0,0,0,0.88);
+            display:flex;
+            align-items:center;
+            justify-content:center;
+            z-index:99999;
+            padding:20px;
+            cursor:zoom-out;
+            overflow:hidden;
+            backdrop-filter: blur(3px);
+          \`;
+
+          // 🔹 CLOSE BUTTON
+          const closeBtn = document.createElement('div');
+          closeBtn.innerHTML = '&times;';
+
+          closeBtn.style.cssText = \`
+            position:absolute;
+              top:20px;
+              right:25px;
+              background:#0c7484;
+              color:#fff;
+              width:50px;
+              height:50px;
+              border-radius:50%;
+              display:flex;
+              align-items:center;
+              justify-content:center;
+              font-size:32px;
+              font-weight:bold;
+              cursor:pointer;
+              z-index:100000;
+              line-height:1;
+              user-select:none;
+              box-shadow:0 4px 12px rgba(0,0,0,0.35);     
+          \`;
+
+          closeBtn.onclick = () => {
+            overlay.remove();
+          };
+
+          const img = document.createElement('img');
+          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/editimg-scaled.webp";
+
+          img.style.cssText = \`
+            max-width:95%;
+            max-height:95%;
+            border-radius:12px;
+            transition:transform .15s ease;
+            cursor:zoom-in;
+            will-change:transform;
+            user-select:none;
+          \`;
+
+          let scale = 1;
+
+          // scroll zoom
+          overlay.onwheel = (e) => {
+            e.preventDefault();
+
+            scale += e.deltaY * -0.001;
+            scale = Math.min(Math.max(1, scale), 5);
+
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          // double click zoom
+          img.ondblclick = () => {
+            scale = scale === 1 ? 2 : 1;
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          overlay.appendChild(closeBtn);
+          overlay.appendChild(img);
+
+          document.body.appendChild(overlay);
+
+          // close overlay
+          overlay.onclick = (e) => {
+            if (e.target === overlay) {
+              overlay.remove();
+            }
+          };
+
+          // esc close
+          document.onkeydown = (e) => {
+            if (e.key === 'Escape') {
+              overlay.remove();
+            }
+          };
+        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/editimg-scaled.webp",alt:"MULTIVENDOR MARKETPLACE",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+        const existing = document.getElementById('wk-image-overlay');
+        if(existing) existing.remove();
+
+        const overlay = document.createElement('div');
+        overlay.id = 'wk-image-overlay';
+
+        overlay.style.cssText = \`
+          position:fixed;
+          inset:0;
+          background:rgba(0,0,0,0.88);
+          display:flex;
+          align-items:center;
+          justify-content:center;
+          z-index:99999;
+          padding:20px;
+          cursor:zoom-out;
+          overflow:hidden;
+          backdrop-filter: blur(3px);
+        \`;
+
+        // 🔹 CLOSE BUTTON
+        const closeBtn = document.createElement('div');
+        closeBtn.innerHTML = '&times;';
+
+        closeBtn.style.cssText = \`
+          position:absolute;
+          top:20px;
+          right:25px;
+          color:#fff;
+          font-size:42px;
+          font-weight:bold;
+          cursor:pointer;
+          z-index:100000;
+          line-height:1;
+          user-select:none;
+        \`;
+
+        closeBtn.onclick = () => {
+          overlay.remove();
+        };
+
+        const img = document.createElement('img');
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/editimg-scaled.webp";
+
+        img.style.cssText = \`
+          max-width:95%;
+          max-height:95%;
+          border-radius:12px;
+          transition:transform .15s ease;
+          cursor:zoom-in;
+          will-change:transform;
+          user-select:none;
+        \`;
+
+        let scale = 1;
+
+        // scroll zoom
+        overlay.onwheel = (e) => {
+          e.preventDefault();
+
+          scale += e.deltaY * -0.001;
+          scale = Math.min(Math.max(1, scale), 5);
+
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        // double click zoom
+        img.ondblclick = () => {
+          scale = scale === 1 ? 2 : 1;
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        overlay.appendChild(closeBtn);
+        overlay.appendChild(img);
+
+        document.body.appendChild(overlay);
+
+        // close overlay
+        overlay.onclick = (e) => {
+          if (e.target === overlay) {
+            overlay.remove();
+          }
+        };
+
+        // esc close
+        document.onkeydown = (e) => {
+          if (e.key === 'Escape') {
+            overlay.remove();
+          }
+        };
+      `})])],-1),n("p",null,[e("Hover over the image and then click on "),n("strong",null,"ALT"),e(":")],-1),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
+          event.preventDefault();
+
+          const existing = document.getElementById('wk-image-overlay');
+          if(existing) existing.remove();
+
+          const overlay = document.createElement('div');
+          overlay.id = 'wk-image-overlay';
+
+          overlay.style.cssText = \`
+            position:fixed;
+            inset:0;
+            background:rgba(0,0,0,0.88);
+            display:flex;
+            align-items:center;
+            justify-content:center;
+            z-index:99999;
+            padding:20px;
+            cursor:zoom-out;
+            overflow:hidden;
+            backdrop-filter: blur(3px);
+          \`;
+
+          // 🔹 CLOSE BUTTON
+          const closeBtn = document.createElement('div');
+          closeBtn.innerHTML = '&times;';
+
+          closeBtn.style.cssText = \`
+            position:absolute;
+              top:20px;
+              right:25px;
+              background:#0c7484;
+              color:#fff;
+              width:50px;
+              height:50px;
+              border-radius:50%;
+              display:flex;
+              align-items:center;
+              justify-content:center;
+              font-size:32px;
+              font-weight:bold;
+              cursor:pointer;
+              z-index:100000;
+              line-height:1;
+              user-select:none;
+              box-shadow:0 4px 12px rgba(0,0,0,0.35);     
+          \`;
+
+          closeBtn.onclick = () => {
+            overlay.remove();
+          };
+
+          const img = document.createElement('img');
+          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/editalttext.webp";
+
+          img.style.cssText = \`
+            max-width:95%;
+            max-height:95%;
+            border-radius:12px;
+            transition:transform .15s ease;
+            cursor:zoom-in;
+            will-change:transform;
+            user-select:none;
+          \`;
+
+          let scale = 1;
+
+          // scroll zoom
+          overlay.onwheel = (e) => {
+            e.preventDefault();
+
+            scale += e.deltaY * -0.001;
+            scale = Math.min(Math.max(1, scale), 5);
+
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          // double click zoom
+          img.ondblclick = () => {
+            scale = scale === 1 ? 2 : 1;
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          overlay.appendChild(closeBtn);
+          overlay.appendChild(img);
+
+          document.body.appendChild(overlay);
+
+          // close overlay
+          overlay.onclick = (e) => {
+            if (e.target === overlay) {
+              overlay.remove();
+            }
+          };
+
+          // esc close
+          document.onkeydown = (e) => {
+            if (e.key === 'Escape') {
+              overlay.remove();
+            }
+          };
+        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/editalttext.webp",alt:"MULTIVENDOR MARKETPLACE",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+        const existing = document.getElementById('wk-image-overlay');
+        if(existing) existing.remove();
+
+        const overlay = document.createElement('div');
+        overlay.id = 'wk-image-overlay';
+
+        overlay.style.cssText = \`
+          position:fixed;
+          inset:0;
+          background:rgba(0,0,0,0.88);
+          display:flex;
+          align-items:center;
+          justify-content:center;
+          z-index:99999;
+          padding:20px;
+          cursor:zoom-out;
+          overflow:hidden;
+          backdrop-filter: blur(3px);
+        \`;
+
+        // 🔹 CLOSE BUTTON
+        const closeBtn = document.createElement('div');
+        closeBtn.innerHTML = '&times;';
+
+        closeBtn.style.cssText = \`
+          position:absolute;
+          top:20px;
+          right:25px;
+          color:#fff;
+          font-size:42px;
+          font-weight:bold;
+          cursor:pointer;
+          z-index:100000;
+          line-height:1;
+          user-select:none;
+        \`;
+
+        closeBtn.onclick = () => {
+          overlay.remove();
+        };
+
+        const img = document.createElement('img');
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/editalttext.webp";
+
+        img.style.cssText = \`
+          max-width:95%;
+          max-height:95%;
+          border-radius:12px;
+          transition:transform .15s ease;
+          cursor:zoom-in;
+          will-change:transform;
+          user-select:none;
+        \`;
+
+        let scale = 1;
+
+        // scroll zoom
+        overlay.onwheel = (e) => {
+          e.preventDefault();
+
+          scale += e.deltaY * -0.001;
+          scale = Math.min(Math.max(1, scale), 5);
+
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        // double click zoom
+        img.ondblclick = () => {
+          scale = scale === 1 ? 2 : 1;
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        overlay.appendChild(closeBtn);
+        overlay.appendChild(img);
+
+        document.body.appendChild(overlay);
+
+        // close overlay
+        overlay.onclick = (e) => {
+          if (e.target === overlay) {
+            overlay.remove();
+          }
+        };
+
+        // esc close
+        document.onkeydown = (e) => {
+          if (e.key === 'Escape') {
+            overlay.remove();
+          }
+        };
+      `})])],-1),n("p",null,"Now enter the ALT text and save.",-1),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
+          event.preventDefault();
+
+          const existing = document.getElementById('wk-image-overlay');
+          if(existing) existing.remove();
+
+          const overlay = document.createElement('div');
+          overlay.id = 'wk-image-overlay';
+
+          overlay.style.cssText = \`
+            position:fixed;
+            inset:0;
+            background:rgba(0,0,0,0.88);
+            display:flex;
+            align-items:center;
+            justify-content:center;
+            z-index:99999;
+            padding:20px;
+            cursor:zoom-out;
+            overflow:hidden;
+            backdrop-filter: blur(3px);
+          \`;
+
+          // 🔹 CLOSE BUTTON
+          const closeBtn = document.createElement('div');
+          closeBtn.innerHTML = '&times;';
+
+          closeBtn.style.cssText = \`
+            position:absolute;
+              top:20px;
+              right:25px;
+              background:#0c7484;
+              color:#fff;
+              width:50px;
+              height:50px;
+              border-radius:50%;
+              display:flex;
+              align-items:center;
+              justify-content:center;
+              font-size:32px;
+              font-weight:bold;
+              cursor:pointer;
+              z-index:100000;
+              line-height:1;
+              user-select:none;
+              box-shadow:0 4px 12px rgba(0,0,0,0.35);     
+          \`;
+
+          closeBtn.onclick = () => {
+            overlay.remove();
+          };
+
+          const img = document.createElement('img');
+          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/enteralt.webp";
+
+          img.style.cssText = \`
+            max-width:95%;
+            max-height:95%;
+            border-radius:12px;
+            transition:transform .15s ease;
+            cursor:zoom-in;
+            will-change:transform;
+            user-select:none;
+          \`;
+
+          let scale = 1;
+
+          // scroll zoom
+          overlay.onwheel = (e) => {
+            e.preventDefault();
+
+            scale += e.deltaY * -0.001;
+            scale = Math.min(Math.max(1, scale), 5);
+
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          // double click zoom
+          img.ondblclick = () => {
+            scale = scale === 1 ? 2 : 1;
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          overlay.appendChild(closeBtn);
+          overlay.appendChild(img);
+
+          document.body.appendChild(overlay);
+
+          // close overlay
+          overlay.onclick = (e) => {
+            if (e.target === overlay) {
+              overlay.remove();
+            }
+          };
+
+          // esc close
+          document.onkeydown = (e) => {
+            if (e.key === 'Escape') {
+              overlay.remove();
+            }
+          };
+        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/enteralt.webp",alt:"MULTIVENDOR MARKETPLACE",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+        const existing = document.getElementById('wk-image-overlay');
+        if(existing) existing.remove();
+
+        const overlay = document.createElement('div');
+        overlay.id = 'wk-image-overlay';
+
+        overlay.style.cssText = \`
+          position:fixed;
+          inset:0;
+          background:rgba(0,0,0,0.88);
+          display:flex;
+          align-items:center;
+          justify-content:center;
+          z-index:99999;
+          padding:20px;
+          cursor:zoom-out;
+          overflow:hidden;
+          backdrop-filter: blur(3px);
+        \`;
+
+        // 🔹 CLOSE BUTTON
+        const closeBtn = document.createElement('div');
+        closeBtn.innerHTML = '&times;';
+
+        closeBtn.style.cssText = \`
+          position:absolute;
+          top:20px;
+          right:25px;
+          color:#fff;
+          font-size:42px;
+          font-weight:bold;
+          cursor:pointer;
+          z-index:100000;
+          line-height:1;
+          user-select:none;
+        \`;
+
+        closeBtn.onclick = () => {
+          overlay.remove();
+        };
+
+        const img = document.createElement('img');
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/enteralt.webp";
+
+        img.style.cssText = \`
+          max-width:95%;
+          max-height:95%;
+          border-radius:12px;
+          transition:transform .15s ease;
+          cursor:zoom-in;
+          will-change:transform;
+          user-select:none;
+        \`;
+
+        let scale = 1;
+
+        // scroll zoom
+        overlay.onwheel = (e) => {
+          e.preventDefault();
+
+          scale += e.deltaY * -0.001;
+          scale = Math.min(Math.max(1, scale), 5);
+
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        // double click zoom
+        img.ondblclick = () => {
+          scale = scale === 1 ? 2 : 1;
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        overlay.appendChild(closeBtn);
+        overlay.appendChild(img);
+
+        document.body.appendChild(overlay);
+
+        // close overlay
+        overlay.onclick = (e) => {
+          if (e.target === overlay) {
+            overlay.remove();
+          }
+        };
+
+        // esc close
+        document.onkeydown = (e) => {
+          if (e.key === 'Escape') {
+            overlay.remove();
+          }
+        };
+      `})])],-1),n("p",null,"Similarly, you add alt text to multiple images of a product.",-1),n("h2",{id:"import-products-from-shopify",tabindex:"-1"},[e("IMPORT PRODUCTS FROM SHOPIFY "),n("a",{class:"header-anchor",href:"#import-products-from-shopify","aria-label":'Permalink to "IMPORT PRODUCTS FROM SHOPIFY"'},"​")],-1),n("p",null,"By enabling the import product button from the product section of the configuration,",-1),n("p",null,"And then visiting the imported product from Shopify from the main menu will enable the user to import the product either by selecting the period",-1),n("p",null,"And entering to and from the date or it can be imported by uploading a CSV.",-1),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
+          event.preventDefault();
+
+          const existing = document.getElementById('wk-image-overlay');
+          if(existing) existing.remove();
+
+          const overlay = document.createElement('div');
+          overlay.id = 'wk-image-overlay';
+
+          overlay.style.cssText = \`
+            position:fixed;
+            inset:0;
+            background:rgba(0,0,0,0.88);
+            display:flex;
+            align-items:center;
+            justify-content:center;
+            z-index:99999;
+            padding:20px;
+            cursor:zoom-out;
+            overflow:hidden;
+            backdrop-filter: blur(3px);
+          \`;
+
+          // 🔹 CLOSE BUTTON
+          const closeBtn = document.createElement('div');
+          closeBtn.innerHTML = '&times;';
+
+          closeBtn.style.cssText = \`
+            position:absolute;
+              top:20px;
+              right:25px;
+              background:#0c7484;
+              color:#fff;
+              width:50px;
+              height:50px;
+              border-radius:50%;
+              display:flex;
+              align-items:center;
+              justify-content:center;
+              font-size:32px;
+              font-weight:bold;
+              cursor:pointer;
+              z-index:100000;
+              line-height:1;
+              user-select:none;
+              box-shadow:0 4px 12px rgba(0,0,0,0.35);     
+          \`;
+
+          closeBtn.onclick = () => {
+            overlay.remove();
+          };
+
+          const img = document.createElement('img');
+          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/import-1-scaled.webp";
+
+          img.style.cssText = \`
+            max-width:95%;
+            max-height:95%;
+            border-radius:12px;
+            transition:transform .15s ease;
+            cursor:zoom-in;
+            will-change:transform;
+            user-select:none;
+          \`;
+
+          let scale = 1;
+
+          // scroll zoom
+          overlay.onwheel = (e) => {
+            e.preventDefault();
+
+            scale += e.deltaY * -0.001;
+            scale = Math.min(Math.max(1, scale), 5);
+
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          // double click zoom
+          img.ondblclick = () => {
+            scale = scale === 1 ? 2 : 1;
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          overlay.appendChild(closeBtn);
+          overlay.appendChild(img);
+
+          document.body.appendChild(overlay);
+
+          // close overlay
+          overlay.onclick = (e) => {
+            if (e.target === overlay) {
+              overlay.remove();
+            }
+          };
+
+          // esc close
+          document.onkeydown = (e) => {
+            if (e.key === 'Escape') {
+              overlay.remove();
+            }
+          };
+        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/import-1-scaled.webp",alt:"MULTIVENDOR MARKETPLACE",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+        const existing = document.getElementById('wk-image-overlay');
+        if(existing) existing.remove();
+
+        const overlay = document.createElement('div');
+        overlay.id = 'wk-image-overlay';
+
+        overlay.style.cssText = \`
+          position:fixed;
+          inset:0;
+          background:rgba(0,0,0,0.88);
+          display:flex;
+          align-items:center;
+          justify-content:center;
+          z-index:99999;
+          padding:20px;
+          cursor:zoom-out;
+          overflow:hidden;
+          backdrop-filter: blur(3px);
+        \`;
+
+        // 🔹 CLOSE BUTTON
+        const closeBtn = document.createElement('div');
+        closeBtn.innerHTML = '&times;';
+
+        closeBtn.style.cssText = \`
+          position:absolute;
+          top:20px;
+          right:25px;
+          color:#fff;
+          font-size:42px;
+          font-weight:bold;
+          cursor:pointer;
+          z-index:100000;
+          line-height:1;
+          user-select:none;
+        \`;
+
+        closeBtn.onclick = () => {
+          overlay.remove();
+        };
+
+        const img = document.createElement('img');
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/import-1-scaled.webp";
+
+        img.style.cssText = \`
+          max-width:95%;
+          max-height:95%;
+          border-radius:12px;
+          transition:transform .15s ease;
+          cursor:zoom-in;
+          will-change:transform;
+          user-select:none;
+        \`;
+
+        let scale = 1;
+
+        // scroll zoom
+        overlay.onwheel = (e) => {
+          e.preventDefault();
+
+          scale += e.deltaY * -0.001;
+          scale = Math.min(Math.max(1, scale), 5);
+
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        // double click zoom
+        img.ondblclick = () => {
+          scale = scale === 1 ? 2 : 1;
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        overlay.appendChild(closeBtn);
+        overlay.appendChild(img);
+
+        document.body.appendChild(overlay);
+
+        // close overlay
+        overlay.onclick = (e) => {
+          if (e.target === overlay) {
+            overlay.remove();
+          }
+        };
+
+        // esc close
+        document.onkeydown = (e) => {
+          if (e.key === 'Escape') {
+            overlay.remove();
+          }
+        };
+      `})])],-1),n("p",null,[n("em",null,"Important Note: All of these imported products will be visible on the product section only after the products are assigned by admin to any seller.")],-1),n("h2",{id:"product-form-customization",tabindex:"-1"},[e("PRODUCT FORM CUSTOMIZATION "),n("a",{class:"header-anchor",href:"#product-form-customization","aria-label":'Permalink to "PRODUCT FORM CUSTOMIZATION"'},"​")],-1),n("p",null,"With this section, you can hide/unhide the components of product form.",-1),n("p",null,"Click on Product Form Customization from the main menu of the app and select the products you want to remove from the add product page.",-1),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
+          event.preventDefault();
+
+          const existing = document.getElementById('wk-image-overlay');
+          if(existing) existing.remove();
+
+          const overlay = document.createElement('div');
+          overlay.id = 'wk-image-overlay';
+
+          overlay.style.cssText = \`
+            position:fixed;
+            inset:0;
+            background:rgba(0,0,0,0.88);
+            display:flex;
+            align-items:center;
+            justify-content:center;
+            z-index:99999;
+            padding:20px;
+            cursor:zoom-out;
+            overflow:hidden;
+            backdrop-filter: blur(3px);
+          \`;
+
+          // 🔹 CLOSE BUTTON
+          const closeBtn = document.createElement('div');
+          closeBtn.innerHTML = '&times;';
+
+          closeBtn.style.cssText = \`
+            position:absolute;
+              top:20px;
+              right:25px;
+              background:#0c7484;
+              color:#fff;
+              width:50px;
+              height:50px;
+              border-radius:50%;
+              display:flex;
+              align-items:center;
+              justify-content:center;
+              font-size:32px;
+              font-weight:bold;
+              cursor:pointer;
+              z-index:100000;
+              line-height:1;
+              user-select:none;
+              box-shadow:0 4px 12px rgba(0,0,0,0.35);     
+          \`;
+
+          closeBtn.onclick = () => {
+            overlay.remove();
+          };
+
+          const img = document.createElement('img');
+          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/productform-1-scaled.webp";
+
+          img.style.cssText = \`
+            max-width:95%;
+            max-height:95%;
+            border-radius:12px;
+            transition:transform .15s ease;
+            cursor:zoom-in;
+            will-change:transform;
+            user-select:none;
+          \`;
+
+          let scale = 1;
+
+          // scroll zoom
+          overlay.onwheel = (e) => {
+            e.preventDefault();
+
+            scale += e.deltaY * -0.001;
+            scale = Math.min(Math.max(1, scale), 5);
+
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          // double click zoom
+          img.ondblclick = () => {
+            scale = scale === 1 ? 2 : 1;
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          overlay.appendChild(closeBtn);
+          overlay.appendChild(img);
+
+          document.body.appendChild(overlay);
+
+          // close overlay
+          overlay.onclick = (e) => {
+            if (e.target === overlay) {
+              overlay.remove();
+            }
+          };
+
+          // esc close
+          document.onkeydown = (e) => {
+            if (e.key === 'Escape') {
+              overlay.remove();
+            }
+          };
+        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/productform-1-scaled.webp",alt:"MULTIVENDOR MARKETPLACE",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+        const existing = document.getElementById('wk-image-overlay');
+        if(existing) existing.remove();
+
+        const overlay = document.createElement('div');
+        overlay.id = 'wk-image-overlay';
+
+        overlay.style.cssText = \`
+          position:fixed;
+          inset:0;
+          background:rgba(0,0,0,0.88);
+          display:flex;
+          align-items:center;
+          justify-content:center;
+          z-index:99999;
+          padding:20px;
+          cursor:zoom-out;
+          overflow:hidden;
+          backdrop-filter: blur(3px);
+        \`;
+
+        // 🔹 CLOSE BUTTON
+        const closeBtn = document.createElement('div');
+        closeBtn.innerHTML = '&times;';
+
+        closeBtn.style.cssText = \`
+          position:absolute;
+          top:20px;
+          right:25px;
+          color:#fff;
+          font-size:42px;
+          font-weight:bold;
+          cursor:pointer;
+          z-index:100000;
+          line-height:1;
+          user-select:none;
+        \`;
+
+        closeBtn.onclick = () => {
+          overlay.remove();
+        };
+
+        const img = document.createElement('img');
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/productform-1-scaled.webp";
+
+        img.style.cssText = \`
+          max-width:95%;
+          max-height:95%;
+          border-radius:12px;
+          transition:transform .15s ease;
+          cursor:zoom-in;
+          will-change:transform;
+          user-select:none;
+        \`;
+
+        let scale = 1;
+
+        // scroll zoom
+        overlay.onwheel = (e) => {
+          e.preventDefault();
+
+          scale += e.deltaY * -0.001;
+          scale = Math.min(Math.max(1, scale), 5);
+
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        // double click zoom
+        img.ondblclick = () => {
+          scale = scale === 1 ? 2 : 1;
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        overlay.appendChild(closeBtn);
+        overlay.appendChild(img);
+
+        document.body.appendChild(overlay);
+
+        // close overlay
+        overlay.onclick = (e) => {
+          if (e.target === overlay) {
+            overlay.remove();
+          }
+        };
+
+        // esc close
+        document.onkeydown = (e) => {
+          if (e.key === 'Escape') {
+            overlay.remove();
+          }
+        };
+      `})])],-1),o("",6),n("p",null,[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2026/10/com.webp",alt:"Require Shipping Configuration",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+        const existing = document.getElementById('wk-image-overlay');
+        if(existing) existing.remove();
+
+        const overlay = document.createElement('div');
+        overlay.id = 'wk-image-overlay';
+
+        overlay.style.cssText = \`
+          position:fixed;
+          inset:0;
+          background:rgba(0,0,0,0.88);
+          display:flex;
+          align-items:center;
+          justify-content:center;
+          z-index:99999;
+          padding:20px;
+          cursor:zoom-out;
+          overflow:hidden;
+          backdrop-filter: blur(3px);
+        \`;
+
+        // 🔹 CLOSE BUTTON
+        const closeBtn = document.createElement('div');
+        closeBtn.innerHTML = '&times;';
+
+        closeBtn.style.cssText = \`
+          position:absolute;
+          top:20px;
+          right:25px;
+          color:#fff;
+          font-size:42px;
+          font-weight:bold;
+          cursor:pointer;
+          z-index:100000;
+          line-height:1;
+          user-select:none;
+        \`;
+
+        closeBtn.onclick = () => {
+          overlay.remove();
+        };
+
+        const img = document.createElement('img');
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2026/10/com.webp";
+
+        img.style.cssText = \`
+          max-width:95%;
+          max-height:95%;
+          border-radius:12px;
+          transition:transform .15s ease;
+          cursor:zoom-in;
+          will-change:transform;
+          user-select:none;
+        \`;
+
+        let scale = 1;
+
+        // scroll zoom
+        overlay.onwheel = (e) => {
+          e.preventDefault();
+
+          scale += e.deltaY * -0.001;
+          scale = Math.min(Math.max(1, scale), 5);
+
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        // double click zoom
+        img.ondblclick = () => {
+          scale = scale === 1 ? 2 : 1;
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        overlay.appendChild(closeBtn);
+        overlay.appendChild(img);
+
+        document.body.appendChild(overlay);
+
+        // close overlay
+        overlay.onclick = (e) => {
+          if (e.target === overlay) {
+            overlay.remove();
+          }
+        };
+
+        // esc close
+        document.onkeydown = (e) => {
+          if (e.key === 'Escape') {
+            overlay.remove();
+          }
+        };
+      `})],-1),n("h3",{id:"how-it-works",tabindex:"-1"},[e("How It Works "),n("a",{class:"header-anchor",href:"#how-it-works","aria-label":'Permalink to "How It Works"'},"​")],-1),n("p",null,"Once this setting is enabled, sellers must select a shipping method while adding a new product.",-1),n("ul",null,[n("li",null,[n("p",null,[n("strong",null,"When enabled:"),e(" Selecting a shipping method is mandatory. Sellers cannot save the product without selecting a shipping method.")]),n("p",null,[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2026/10/comonee.webp",alt:"Shipping Method Required",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+        const existing = document.getElementById('wk-image-overlay');
+        if(existing) existing.remove();
+
+        const overlay = document.createElement('div');
+        overlay.id = 'wk-image-overlay';
+
+        overlay.style.cssText = \`
+          position:fixed;
+          inset:0;
+          background:rgba(0,0,0,0.88);
+          display:flex;
+          align-items:center;
+          justify-content:center;
+          z-index:99999;
+          padding:20px;
+          cursor:zoom-out;
+          overflow:hidden;
+          backdrop-filter: blur(3px);
+        \`;
+
+        // 🔹 CLOSE BUTTON
+        const closeBtn = document.createElement('div');
+        closeBtn.innerHTML = '&times;';
+
+        closeBtn.style.cssText = \`
+          position:absolute;
+          top:20px;
+          right:25px;
+          color:#fff;
+          font-size:42px;
+          font-weight:bold;
+          cursor:pointer;
+          z-index:100000;
+          line-height:1;
+          user-select:none;
+        \`;
+
+        closeBtn.onclick = () => {
+          overlay.remove();
+        };
+
+        const img = document.createElement('img');
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2026/10/comonee.webp";
+
+        img.style.cssText = \`
+          max-width:95%;
+          max-height:95%;
+          border-radius:12px;
+          transition:transform .15s ease;
+          cursor:zoom-in;
+          will-change:transform;
+          user-select:none;
+        \`;
+
+        let scale = 1;
+
+        // scroll zoom
+        overlay.onwheel = (e) => {
+          e.preventDefault();
+
+          scale += e.deltaY * -0.001;
+          scale = Math.min(Math.max(1, scale), 5);
+
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        // double click zoom
+        img.ondblclick = () => {
+          scale = scale === 1 ? 2 : 1;
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        overlay.appendChild(closeBtn);
+        overlay.appendChild(img);
+
+        document.body.appendChild(overlay);
+
+        // close overlay
+        overlay.onclick = (e) => {
+          if (e.target === overlay) {
+            overlay.remove();
+          }
+        };
+
+        // esc close
+        document.onkeydown = (e) => {
+          if (e.key === 'Escape') {
+            overlay.remove();
+          }
+        };
+      `})])]),n("li",null,[n("p",null,[n("strong",null,"When disabled:"),e(" Selecting a shipping method is optional, allowing sellers to save products without selecting one.")])])],-1),n("p",null,"This configuration helps the admin ensure that sellers provide the required shipping information for their products before saving them.",-1),n("h2",{id:"hide-show-product-images-in-product-listing",tabindex:"-1"},[e("HIDE/SHOW PRODUCT IMAGES IN PRODUCT LISTING "),n("a",{class:"header-anchor",href:"#hide-show-product-images-in-product-listing","aria-label":'Permalink to "HIDE/SHOW PRODUCT IMAGES IN PRODUCT LISTING"'},"​")],-1),n("p",null,"You can now hide/show the product images in the product listing section by enabling/disabling the below configuration from the product configuration section.",-1),n("p",null,[e("Multivendor Marketplace App Admin panel>>Configuration>>Product Configuration>> Enable/disable "),n("strong",null,'SHOW PRODUCT IMAGE FIELD UNDER "PRODUCT LISTING"'),e(" SECTION>>Save.")],-1),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
+          event.preventDefault();
+
+          const existing = document.getElementById('wk-image-overlay');
+          if(existing) existing.remove();
+
+          const overlay = document.createElement('div');
+          overlay.id = 'wk-image-overlay';
+
+          overlay.style.cssText = \`
+            position:fixed;
+            inset:0;
+            background:rgba(0,0,0,0.88);
+            display:flex;
+            align-items:center;
+            justify-content:center;
+            z-index:99999;
+            padding:20px;
+            cursor:zoom-out;
+            overflow:hidden;
+            backdrop-filter: blur(3px);
+          \`;
+
+          // 🔹 CLOSE BUTTON
+          const closeBtn = document.createElement('div');
+          closeBtn.innerHTML = '&times;';
+
+          closeBtn.style.cssText = \`
+            position:absolute;
+              top:20px;
+              right:25px;
+              background:#0c7484;
+              color:#fff;
+              width:50px;
+              height:50px;
+              border-radius:50%;
+              display:flex;
+              align-items:center;
+              justify-content:center;
+              font-size:32px;
+              font-weight:bold;
+              cursor:pointer;
+              z-index:100000;
+              line-height:1;
+              user-select:none;
+              box-shadow:0 4px 12px rgba(0,0,0,0.35);     
+          \`;
+
+          closeBtn.onclick = () => {
+            overlay.remove();
+          };
+
+          const img = document.createElement('img');
+          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/productimgconfig.webp";
+
+          img.style.cssText = \`
+            max-width:95%;
+            max-height:95%;
+            border-radius:12px;
+            transition:transform .15s ease;
+            cursor:zoom-in;
+            will-change:transform;
+            user-select:none;
+          \`;
+
+          let scale = 1;
+
+          // scroll zoom
+          overlay.onwheel = (e) => {
+            e.preventDefault();
+
+            scale += e.deltaY * -0.001;
+            scale = Math.min(Math.max(1, scale), 5);
+
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          // double click zoom
+          img.ondblclick = () => {
+            scale = scale === 1 ? 2 : 1;
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          overlay.appendChild(closeBtn);
+          overlay.appendChild(img);
+
+          document.body.appendChild(overlay);
+
+          // close overlay
+          overlay.onclick = (e) => {
+            if (e.target === overlay) {
+              overlay.remove();
+            }
+          };
+
+          // esc close
+          document.onkeydown = (e) => {
+            if (e.key === 'Escape') {
+              overlay.remove();
+            }
+          };
+        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/productimgconfig.webp",alt:"Configuration-_-Admin",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+        const existing = document.getElementById('wk-image-overlay');
+        if(existing) existing.remove();
+
+        const overlay = document.createElement('div');
+        overlay.id = 'wk-image-overlay';
+
+        overlay.style.cssText = \`
+          position:fixed;
+          inset:0;
+          background:rgba(0,0,0,0.88);
+          display:flex;
+          align-items:center;
+          justify-content:center;
+          z-index:99999;
+          padding:20px;
+          cursor:zoom-out;
+          overflow:hidden;
+          backdrop-filter: blur(3px);
+        \`;
+
+        // 🔹 CLOSE BUTTON
+        const closeBtn = document.createElement('div');
+        closeBtn.innerHTML = '&times;';
+
+        closeBtn.style.cssText = \`
+          position:absolute;
+          top:20px;
+          right:25px;
+          color:#fff;
+          font-size:42px;
+          font-weight:bold;
+          cursor:pointer;
+          z-index:100000;
+          line-height:1;
+          user-select:none;
+        \`;
+
+        closeBtn.onclick = () => {
+          overlay.remove();
+        };
+
+        const img = document.createElement('img');
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/productimgconfig.webp";
+
+        img.style.cssText = \`
+          max-width:95%;
+          max-height:95%;
+          border-radius:12px;
+          transition:transform .15s ease;
+          cursor:zoom-in;
+          will-change:transform;
+          user-select:none;
+        \`;
+
+        let scale = 1;
+
+        // scroll zoom
+        overlay.onwheel = (e) => {
+          e.preventDefault();
+
+          scale += e.deltaY * -0.001;
+          scale = Math.min(Math.max(1, scale), 5);
+
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        // double click zoom
+        img.ondblclick = () => {
+          scale = scale === 1 ? 2 : 1;
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        overlay.appendChild(closeBtn);
+        overlay.appendChild(img);
+
+        document.body.appendChild(overlay);
+
+        // close overlay
+        overlay.onclick = (e) => {
+          if (e.target === overlay) {
+            overlay.remove();
+          }
+        };
+
+        // esc close
+        document.onkeydown = (e) => {
+          if (e.key === 'Escape') {
+            overlay.remove();
+          }
+        };
+      `})])],-1),n("p",null,"Once you enable this tab, Product Images will be visible in the product listing section on both the admin and seller panels.",-1),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
+          event.preventDefault();
+
+          const existing = document.getElementById('wk-image-overlay');
+          if(existing) existing.remove();
+
+          const overlay = document.createElement('div');
+          overlay.id = 'wk-image-overlay';
+
+          overlay.style.cssText = \`
+            position:fixed;
+            inset:0;
+            background:rgba(0,0,0,0.88);
+            display:flex;
+            align-items:center;
+            justify-content:center;
+            z-index:99999;
+            padding:20px;
+            cursor:zoom-out;
+            overflow:hidden;
+            backdrop-filter: blur(3px);
+          \`;
+
+          // 🔹 CLOSE BUTTON
+          const closeBtn = document.createElement('div');
+          closeBtn.innerHTML = '&times;';
+
+          closeBtn.style.cssText = \`
+            position:absolute;
+              top:20px;
+              right:25px;
+              background:#0c7484;
+              color:#fff;
+              width:50px;
+              height:50px;
+              border-radius:50%;
+              display:flex;
+              align-items:center;
+              justify-content:center;
+              font-size:32px;
+              font-weight:bold;
+              cursor:pointer;
+              z-index:100000;
+              line-height:1;
+              user-select:none;
+              box-shadow:0 4px 12px rgba(0,0,0,0.35);     
+          \`;
+
+          closeBtn.onclick = () => {
+            overlay.remove();
+          };
+
+          const img = document.createElement('img');
+          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/adminimg-scaled.webp";
+
+          img.style.cssText = \`
+            max-width:95%;
+            max-height:95%;
+            border-radius:12px;
+            transition:transform .15s ease;
+            cursor:zoom-in;
+            will-change:transform;
+            user-select:none;
+          \`;
+
+          let scale = 1;
+
+          // scroll zoom
+          overlay.onwheel = (e) => {
+            e.preventDefault();
+
+            scale += e.deltaY * -0.001;
+            scale = Math.min(Math.max(1, scale), 5);
+
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          // double click zoom
+          img.ondblclick = () => {
+            scale = scale === 1 ? 2 : 1;
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          overlay.appendChild(closeBtn);
+          overlay.appendChild(img);
+
+          document.body.appendChild(overlay);
+
+          // close overlay
+          overlay.onclick = (e) => {
+            if (e.target === overlay) {
+              overlay.remove();
+            }
+          };
+
+          // esc close
+          document.onkeydown = (e) => {
+            if (e.key === 'Escape') {
+              overlay.remove();
+            }
+          };
+        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/adminimg-scaled.webp",alt:"Product-_-Admin-3",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+        const existing = document.getElementById('wk-image-overlay');
+        if(existing) existing.remove();
+
+        const overlay = document.createElement('div');
+        overlay.id = 'wk-image-overlay';
+
+        overlay.style.cssText = \`
+          position:fixed;
+          inset:0;
+          background:rgba(0,0,0,0.88);
+          display:flex;
+          align-items:center;
+          justify-content:center;
+          z-index:99999;
+          padding:20px;
+          cursor:zoom-out;
+          overflow:hidden;
+          backdrop-filter: blur(3px);
+        \`;
+
+        // 🔹 CLOSE BUTTON
+        const closeBtn = document.createElement('div');
+        closeBtn.innerHTML = '&times;';
+
+        closeBtn.style.cssText = \`
+          position:absolute;
+          top:20px;
+          right:25px;
+          color:#fff;
+          font-size:42px;
+          font-weight:bold;
+          cursor:pointer;
+          z-index:100000;
+          line-height:1;
+          user-select:none;
+        \`;
+
+        closeBtn.onclick = () => {
+          overlay.remove();
+        };
+
+        const img = document.createElement('img');
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/adminimg-scaled.webp";
+
+        img.style.cssText = \`
+          max-width:95%;
+          max-height:95%;
+          border-radius:12px;
+          transition:transform .15s ease;
+          cursor:zoom-in;
+          will-change:transform;
+          user-select:none;
+        \`;
+
+        let scale = 1;
+
+        // scroll zoom
+        overlay.onwheel = (e) => {
+          e.preventDefault();
+
+          scale += e.deltaY * -0.001;
+          scale = Math.min(Math.max(1, scale), 5);
+
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        // double click zoom
+        img.ondblclick = () => {
+          scale = scale === 1 ? 2 : 1;
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        overlay.appendChild(closeBtn);
+        overlay.appendChild(img);
+
+        document.body.appendChild(overlay);
+
+        // close overlay
+        overlay.onclick = (e) => {
+          if (e.target === overlay) {
+            overlay.remove();
+          }
+        };
+
+        // esc close
+        document.onkeydown = (e) => {
+          if (e.key === 'Escape') {
+            overlay.remove();
+          }
+        };
+      `})])],-1),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
+          event.preventDefault();
+
+          const existing = document.getElementById('wk-image-overlay');
+          if(existing) existing.remove();
+
+          const overlay = document.createElement('div');
+          overlay.id = 'wk-image-overlay';
+
+          overlay.style.cssText = \`
+            position:fixed;
+            inset:0;
+            background:rgba(0,0,0,0.88);
+            display:flex;
+            align-items:center;
+            justify-content:center;
+            z-index:99999;
+            padding:20px;
+            cursor:zoom-out;
+            overflow:hidden;
+            backdrop-filter: blur(3px);
+          \`;
+
+          // 🔹 CLOSE BUTTON
+          const closeBtn = document.createElement('div');
+          closeBtn.innerHTML = '&times;';
+
+          closeBtn.style.cssText = \`
+            position:absolute;
+              top:20px;
+              right:25px;
+              background:#0c7484;
+              color:#fff;
+              width:50px;
+              height:50px;
+              border-radius:50%;
+              display:flex;
+              align-items:center;
+              justify-content:center;
+              font-size:32px;
+              font-weight:bold;
+              cursor:pointer;
+              z-index:100000;
+              line-height:1;
+              user-select:none;
+              box-shadow:0 4px 12px rgba(0,0,0,0.35);     
+          \`;
+
+          closeBtn.onclick = () => {
+            overlay.remove();
+          };
+
+          const img = document.createElement('img');
+          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/sellerimg-scaled.webp";
+
+          img.style.cssText = \`
+            max-width:95%;
+            max-height:95%;
+            border-radius:12px;
+            transition:transform .15s ease;
+            cursor:zoom-in;
+            will-change:transform;
+            user-select:none;
+          \`;
+
+          let scale = 1;
+
+          // scroll zoom
+          overlay.onwheel = (e) => {
+            e.preventDefault();
+
+            scale += e.deltaY * -0.001;
+            scale = Math.min(Math.max(1, scale), 5);
+
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          // double click zoom
+          img.ondblclick = () => {
+            scale = scale === 1 ? 2 : 1;
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          overlay.appendChild(closeBtn);
+          overlay.appendChild(img);
+
+          document.body.appendChild(overlay);
+
+          // close overlay
+          overlay.onclick = (e) => {
+            if (e.target === overlay) {
+              overlay.remove();
+            }
+          };
+
+          // esc close
+          document.onkeydown = (e) => {
+            if (e.key === 'Escape') {
+              overlay.remove();
+            }
+          };
+        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/sellerimg-scaled.webp",alt:"Product-_-Seller-•-Multivendor-MarketPlace-2",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+        const existing = document.getElementById('wk-image-overlay');
+        if(existing) existing.remove();
+
+        const overlay = document.createElement('div');
+        overlay.id = 'wk-image-overlay';
+
+        overlay.style.cssText = \`
+          position:fixed;
+          inset:0;
+          background:rgba(0,0,0,0.88);
+          display:flex;
+          align-items:center;
+          justify-content:center;
+          z-index:99999;
+          padding:20px;
+          cursor:zoom-out;
+          overflow:hidden;
+          backdrop-filter: blur(3px);
+        \`;
+
+        // 🔹 CLOSE BUTTON
+        const closeBtn = document.createElement('div');
+        closeBtn.innerHTML = '&times;';
+
+        closeBtn.style.cssText = \`
+          position:absolute;
+          top:20px;
+          right:25px;
+          color:#fff;
+          font-size:42px;
+          font-weight:bold;
+          cursor:pointer;
+          z-index:100000;
+          line-height:1;
+          user-select:none;
+        \`;
+
+        closeBtn.onclick = () => {
+          overlay.remove();
+        };
+
+        const img = document.createElement('img');
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/sellerimg-scaled.webp";
+
+        img.style.cssText = \`
+          max-width:95%;
+          max-height:95%;
+          border-radius:12px;
+          transition:transform .15s ease;
+          cursor:zoom-in;
+          will-change:transform;
+          user-select:none;
+        \`;
+
+        let scale = 1;
+
+        // scroll zoom
+        overlay.onwheel = (e) => {
+          e.preventDefault();
+
+          scale += e.deltaY * -0.001;
+          scale = Math.min(Math.max(1, scale), 5);
+
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        // double click zoom
+        img.ondblclick = () => {
+          scale = scale === 1 ? 2 : 1;
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        overlay.appendChild(closeBtn);
+        overlay.appendChild(img);
+
+        document.body.appendChild(overlay);
+
+        // close overlay
+        overlay.onclick = (e) => {
+          if (e.target === overlay) {
+            overlay.remove();
+          }
+        };
+
+        // esc close
+        document.onkeydown = (e) => {
+          if (e.key === 'Escape') {
+            overlay.remove();
+          }
+        };
+      `})])],-1),n("p",null,[e("If you disable the "),n("strong",null,'SHOW PRODUCT IMAGE FIELD UNDER "PRODUCT LISTING"'),e(" SECTION configuration, the product images will not be visible in the product listing section on both the admin and seller panels.")],-1),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
+          event.preventDefault();
+
+          const existing = document.getElementById('wk-image-overlay');
+          if(existing) existing.remove();
+
+          const overlay = document.createElement('div');
+          overlay.id = 'wk-image-overlay';
+
+          overlay.style.cssText = \`
+            position:fixed;
+            inset:0;
+            background:rgba(0,0,0,0.88);
+            display:flex;
+            align-items:center;
+            justify-content:center;
+            z-index:99999;
+            padding:20px;
+            cursor:zoom-out;
+            overflow:hidden;
+            backdrop-filter: blur(3px);
+          \`;
+
+          // 🔹 CLOSE BUTTON
+          const closeBtn = document.createElement('div');
+          closeBtn.innerHTML = '&times;';
+
+          closeBtn.style.cssText = \`
+            position:absolute;
+              top:20px;
+              right:25px;
+              background:#0c7484;
+              color:#fff;
+              width:50px;
+              height:50px;
+              border-radius:50%;
+              display:flex;
+              align-items:center;
+              justify-content:center;
+              font-size:32px;
+              font-weight:bold;
+              cursor:pointer;
+              z-index:100000;
+              line-height:1;
+              user-select:none;
+              box-shadow:0 4px 12px rgba(0,0,0,0.35);     
+          \`;
+
+          closeBtn.onclick = () => {
+            overlay.remove();
+          };
+
+          const img = document.createElement('img');
+          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/config-1.webp";
+
+          img.style.cssText = \`
+            max-width:95%;
+            max-height:95%;
+            border-radius:12px;
+            transition:transform .15s ease;
+            cursor:zoom-in;
+            will-change:transform;
+            user-select:none;
+          \`;
+
+          let scale = 1;
+
+          // scroll zoom
+          overlay.onwheel = (e) => {
+            e.preventDefault();
+
+            scale += e.deltaY * -0.001;
+            scale = Math.min(Math.max(1, scale), 5);
+
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          // double click zoom
+          img.ondblclick = () => {
+            scale = scale === 1 ? 2 : 1;
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          overlay.appendChild(closeBtn);
+          overlay.appendChild(img);
+
+          document.body.appendChild(overlay);
+
+          // close overlay
+          overlay.onclick = (e) => {
+            if (e.target === overlay) {
+              overlay.remove();
+            }
+          };
+
+          // esc close
+          document.onkeydown = (e) => {
+            if (e.key === 'Escape') {
+              overlay.remove();
+            }
+          };
+        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/config-1.webp",alt:"Configuration-_-Admin-1-1",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+        const existing = document.getElementById('wk-image-overlay');
+        if(existing) existing.remove();
+
+        const overlay = document.createElement('div');
+        overlay.id = 'wk-image-overlay';
+
+        overlay.style.cssText = \`
+          position:fixed;
+          inset:0;
+          background:rgba(0,0,0,0.88);
+          display:flex;
+          align-items:center;
+          justify-content:center;
+          z-index:99999;
+          padding:20px;
+          cursor:zoom-out;
+          overflow:hidden;
+          backdrop-filter: blur(3px);
+        \`;
+
+        // 🔹 CLOSE BUTTON
+        const closeBtn = document.createElement('div');
+        closeBtn.innerHTML = '&times;';
+
+        closeBtn.style.cssText = \`
+          position:absolute;
+          top:20px;
+          right:25px;
+          color:#fff;
+          font-size:42px;
+          font-weight:bold;
+          cursor:pointer;
+          z-index:100000;
+          line-height:1;
+          user-select:none;
+        \`;
+
+        closeBtn.onclick = () => {
+          overlay.remove();
+        };
+
+        const img = document.createElement('img');
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/config-1.webp";
+
+        img.style.cssText = \`
+          max-width:95%;
+          max-height:95%;
+          border-radius:12px;
+          transition:transform .15s ease;
+          cursor:zoom-in;
+          will-change:transform;
+          user-select:none;
+        \`;
+
+        let scale = 1;
+
+        // scroll zoom
+        overlay.onwheel = (e) => {
+          e.preventDefault();
+
+          scale += e.deltaY * -0.001;
+          scale = Math.min(Math.max(1, scale), 5);
+
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        // double click zoom
+        img.ondblclick = () => {
+          scale = scale === 1 ? 2 : 1;
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        overlay.appendChild(closeBtn);
+        overlay.appendChild(img);
+
+        document.body.appendChild(overlay);
+
+        // close overlay
+        overlay.onclick = (e) => {
+          if (e.target === overlay) {
+            overlay.remove();
+          }
+        };
+
+        // esc close
+        document.onkeydown = (e) => {
+          if (e.key === 'Escape') {
+            overlay.remove();
+          }
+        };
+      `})])],-1),n("p",null,"This is how the Admin and Seller Panel will look after the configuration is disable.",-1),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
+          event.preventDefault();
+
+          const existing = document.getElementById('wk-image-overlay');
+          if(existing) existing.remove();
+
+          const overlay = document.createElement('div');
+          overlay.id = 'wk-image-overlay';
+
+          overlay.style.cssText = \`
+            position:fixed;
+            inset:0;
+            background:rgba(0,0,0,0.88);
+            display:flex;
+            align-items:center;
+            justify-content:center;
+            z-index:99999;
+            padding:20px;
+            cursor:zoom-out;
+            overflow:hidden;
+            backdrop-filter: blur(3px);
+          \`;
+
+          // 🔹 CLOSE BUTTON
+          const closeBtn = document.createElement('div');
+          closeBtn.innerHTML = '&times;';
+
+          closeBtn.style.cssText = \`
+            position:absolute;
+              top:20px;
+              right:25px;
+              background:#0c7484;
+              color:#fff;
+              width:50px;
+              height:50px;
+              border-radius:50%;
+              display:flex;
+              align-items:center;
+              justify-content:center;
+              font-size:32px;
+              font-weight:bold;
+              cursor:pointer;
+              z-index:100000;
+              line-height:1;
+              user-select:none;
+              box-shadow:0 4px 12px rgba(0,0,0,0.35);     
+          \`;
+
+          closeBtn.onclick = () => {
+            overlay.remove();
+          };
+
+          const img = document.createElement('img');
+          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/admin-scaled.webp";
+
+          img.style.cssText = \`
+            max-width:95%;
+            max-height:95%;
+            border-radius:12px;
+            transition:transform .15s ease;
+            cursor:zoom-in;
+            will-change:transform;
+            user-select:none;
+          \`;
+
+          let scale = 1;
+
+          // scroll zoom
+          overlay.onwheel = (e) => {
+            e.preventDefault();
+
+            scale += e.deltaY * -0.001;
+            scale = Math.min(Math.max(1, scale), 5);
+
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          // double click zoom
+          img.ondblclick = () => {
+            scale = scale === 1 ? 2 : 1;
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          overlay.appendChild(closeBtn);
+          overlay.appendChild(img);
+
+          document.body.appendChild(overlay);
+
+          // close overlay
+          overlay.onclick = (e) => {
+            if (e.target === overlay) {
+              overlay.remove();
+            }
+          };
+
+          // esc close
+          document.onkeydown = (e) => {
+            if (e.key === 'Escape') {
+              overlay.remove();
+            }
+          };
+        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/admin-scaled.webp",alt:"Product-_-Admin-2",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+        const existing = document.getElementById('wk-image-overlay');
+        if(existing) existing.remove();
+
+        const overlay = document.createElement('div');
+        overlay.id = 'wk-image-overlay';
+
+        overlay.style.cssText = \`
+          position:fixed;
+          inset:0;
+          background:rgba(0,0,0,0.88);
+          display:flex;
+          align-items:center;
+          justify-content:center;
+          z-index:99999;
+          padding:20px;
+          cursor:zoom-out;
+          overflow:hidden;
+          backdrop-filter: blur(3px);
+        \`;
+
+        // 🔹 CLOSE BUTTON
+        const closeBtn = document.createElement('div');
+        closeBtn.innerHTML = '&times;';
+
+        closeBtn.style.cssText = \`
+          position:absolute;
+          top:20px;
+          right:25px;
+          color:#fff;
+          font-size:42px;
+          font-weight:bold;
+          cursor:pointer;
+          z-index:100000;
+          line-height:1;
+          user-select:none;
+        \`;
+
+        closeBtn.onclick = () => {
+          overlay.remove();
+        };
+
+        const img = document.createElement('img');
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/admin-scaled.webp";
+
+        img.style.cssText = \`
+          max-width:95%;
+          max-height:95%;
+          border-radius:12px;
+          transition:transform .15s ease;
+          cursor:zoom-in;
+          will-change:transform;
+          user-select:none;
+        \`;
+
+        let scale = 1;
+
+        // scroll zoom
+        overlay.onwheel = (e) => {
+          e.preventDefault();
+
+          scale += e.deltaY * -0.001;
+          scale = Math.min(Math.max(1, scale), 5);
+
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        // double click zoom
+        img.ondblclick = () => {
+          scale = scale === 1 ? 2 : 1;
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        overlay.appendChild(closeBtn);
+        overlay.appendChild(img);
+
+        document.body.appendChild(overlay);
+
+        // close overlay
+        overlay.onclick = (e) => {
+          if (e.target === overlay) {
+            overlay.remove();
+          }
+        };
+
+        // esc close
+        document.onkeydown = (e) => {
+          if (e.key === 'Escape') {
+            overlay.remove();
+          }
+        };
+      `})])],-1),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
+          event.preventDefault();
+
+          const existing = document.getElementById('wk-image-overlay');
+          if(existing) existing.remove();
+
+          const overlay = document.createElement('div');
+          overlay.id = 'wk-image-overlay';
+
+          overlay.style.cssText = \`
+            position:fixed;
+            inset:0;
+            background:rgba(0,0,0,0.88);
+            display:flex;
+            align-items:center;
+            justify-content:center;
+            z-index:99999;
+            padding:20px;
+            cursor:zoom-out;
+            overflow:hidden;
+            backdrop-filter: blur(3px);
+          \`;
+
+          // 🔹 CLOSE BUTTON
+          const closeBtn = document.createElement('div');
+          closeBtn.innerHTML = '&times;';
+
+          closeBtn.style.cssText = \`
+            position:absolute;
+              top:20px;
+              right:25px;
+              background:#0c7484;
+              color:#fff;
+              width:50px;
+              height:50px;
+              border-radius:50%;
+              display:flex;
+              align-items:center;
+              justify-content:center;
+              font-size:32px;
+              font-weight:bold;
+              cursor:pointer;
+              z-index:100000;
+              line-height:1;
+              user-select:none;
+              box-shadow:0 4px 12px rgba(0,0,0,0.35);     
+          \`;
+
+          closeBtn.onclick = () => {
+            overlay.remove();
+          };
+
+          const img = document.createElement('img');
+          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/seller-scaled.webp";
+
+          img.style.cssText = \`
+            max-width:95%;
+            max-height:95%;
+            border-radius:12px;
+            transition:transform .15s ease;
+            cursor:zoom-in;
+            will-change:transform;
+            user-select:none;
+          \`;
+
+          let scale = 1;
+
+          // scroll zoom
+          overlay.onwheel = (e) => {
+            e.preventDefault();
+
+            scale += e.deltaY * -0.001;
+            scale = Math.min(Math.max(1, scale), 5);
+
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          // double click zoom
+          img.ondblclick = () => {
+            scale = scale === 1 ? 2 : 1;
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          overlay.appendChild(closeBtn);
+          overlay.appendChild(img);
+
+          document.body.appendChild(overlay);
+
+          // close overlay
+          overlay.onclick = (e) => {
+            if (e.target === overlay) {
+              overlay.remove();
+            }
+          };
+
+          // esc close
+          document.onkeydown = (e) => {
+            if (e.key === 'Escape') {
+              overlay.remove();
+            }
+          };
+        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/seller-scaled.webp",alt:"Product-_-Seller-•-Multivendor-MarketPlace-1",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+        const existing = document.getElementById('wk-image-overlay');
+        if(existing) existing.remove();
+
+        const overlay = document.createElement('div');
+        overlay.id = 'wk-image-overlay';
+
+        overlay.style.cssText = \`
+          position:fixed;
+          inset:0;
+          background:rgba(0,0,0,0.88);
+          display:flex;
+          align-items:center;
+          justify-content:center;
+          z-index:99999;
+          padding:20px;
+          cursor:zoom-out;
+          overflow:hidden;
+          backdrop-filter: blur(3px);
+        \`;
+
+        // 🔹 CLOSE BUTTON
+        const closeBtn = document.createElement('div');
+        closeBtn.innerHTML = '&times;';
+
+        closeBtn.style.cssText = \`
+          position:absolute;
+          top:20px;
+          right:25px;
+          color:#fff;
+          font-size:42px;
+          font-weight:bold;
+          cursor:pointer;
+          z-index:100000;
+          line-height:1;
+          user-select:none;
+        \`;
+
+        closeBtn.onclick = () => {
+          overlay.remove();
+        };
+
+        const img = document.createElement('img');
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/seller-scaled.webp";
+
+        img.style.cssText = \`
+          max-width:95%;
+          max-height:95%;
+          border-radius:12px;
+          transition:transform .15s ease;
+          cursor:zoom-in;
+          will-change:transform;
+          user-select:none;
+        \`;
+
+        let scale = 1;
+
+        // scroll zoom
+        overlay.onwheel = (e) => {
+          e.preventDefault();
+
+          scale += e.deltaY * -0.001;
+          scale = Math.min(Math.max(1, scale), 5);
+
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        // double click zoom
+        img.ondblclick = () => {
+          scale = scale === 1 ? 2 : 1;
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        overlay.appendChild(closeBtn);
+        overlay.appendChild(img);
+
+        document.body.appendChild(overlay);
+
+        // close overlay
+        overlay.onclick = (e) => {
+          if (e.target === overlay) {
+            overlay.remove();
+          }
+        };
+
+        // esc close
+        document.onkeydown = (e) => {
+          if (e.key === 'Escape') {
+            overlay.remove();
+          }
+        };
+      `})])],-1),n("h2",{id:"export-product-details-at-seller-panel",tabindex:"-1"},[e("EXPORT PRODUCT DETAILS AT SELLER PANEL "),n("a",{class:"header-anchor",href:"#export-product-details-at-seller-panel","aria-label":'Permalink to "EXPORT PRODUCT DETAILS AT SELLER PANEL"'},"​")],-1),n("p",null,[e("Now, the sellers have the "),n("strong",null,"Export Details"),e(" option in the product listing section in their multivendor seller panel.")],-1),n("p",null,"Multivendor Marketplace App Seller Panel>>Products>>Product listing:",-1),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
+          event.preventDefault();
+
+          const existing = document.getElementById('wk-image-overlay');
+          if(existing) existing.remove();
+
+          const overlay = document.createElement('div');
+          overlay.id = 'wk-image-overlay';
+
+          overlay.style.cssText = \`
+            position:fixed;
+            inset:0;
+            background:rgba(0,0,0,0.88);
+            display:flex;
+            align-items:center;
+            justify-content:center;
+            z-index:99999;
+            padding:20px;
+            cursor:zoom-out;
+            overflow:hidden;
+            backdrop-filter: blur(3px);
+          \`;
+
+          // 🔹 CLOSE BUTTON
+          const closeBtn = document.createElement('div');
+          closeBtn.innerHTML = '&times;';
+
+          closeBtn.style.cssText = \`
+            position:absolute;
+              top:20px;
+              right:25px;
+              background:#0c7484;
+              color:#fff;
+              width:50px;
+              height:50px;
+              border-radius:50%;
+              display:flex;
+              align-items:center;
+              justify-content:center;
+              font-size:32px;
+              font-weight:bold;
+              cursor:pointer;
+              z-index:100000;
+              line-height:1;
+              user-select:none;
+              box-shadow:0 4px 12px rgba(0,0,0,0.35);     
+          \`;
+
+          closeBtn.onclick = () => {
+            overlay.remove();
+          };
+
+          const img = document.createElement('img');
+          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/export-scaled.webp";
+
+          img.style.cssText = \`
+            max-width:95%;
+            max-height:95%;
+            border-radius:12px;
+            transition:transform .15s ease;
+            cursor:zoom-in;
+            will-change:transform;
+            user-select:none;
+          \`;
+
+          let scale = 1;
+
+          // scroll zoom
+          overlay.onwheel = (e) => {
+            e.preventDefault();
+
+            scale += e.deltaY * -0.001;
+            scale = Math.min(Math.max(1, scale), 5);
+
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          // double click zoom
+          img.ondblclick = () => {
+            scale = scale === 1 ? 2 : 1;
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          overlay.appendChild(closeBtn);
+          overlay.appendChild(img);
+
+          document.body.appendChild(overlay);
+
+          // close overlay
+          overlay.onclick = (e) => {
+            if (e.target === overlay) {
+              overlay.remove();
+            }
+          };
+
+          // esc close
+          document.onkeydown = (e) => {
+            if (e.key === 'Escape') {
+              overlay.remove();
+            }
+          };
+        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/export-scaled.webp",alt:"Product-_-Seller-•-Multivendor-MarketPlace-5",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+        const existing = document.getElementById('wk-image-overlay');
+        if(existing) existing.remove();
+
+        const overlay = document.createElement('div');
+        overlay.id = 'wk-image-overlay';
+
+        overlay.style.cssText = \`
+          position:fixed;
+          inset:0;
+          background:rgba(0,0,0,0.88);
+          display:flex;
+          align-items:center;
+          justify-content:center;
+          z-index:99999;
+          padding:20px;
+          cursor:zoom-out;
+          overflow:hidden;
+          backdrop-filter: blur(3px);
+        \`;
+
+        // 🔹 CLOSE BUTTON
+        const closeBtn = document.createElement('div');
+        closeBtn.innerHTML = '&times;';
+
+        closeBtn.style.cssText = \`
+          position:absolute;
+          top:20px;
+          right:25px;
+          color:#fff;
+          font-size:42px;
+          font-weight:bold;
+          cursor:pointer;
+          z-index:100000;
+          line-height:1;
+          user-select:none;
+        \`;
+
+        closeBtn.onclick = () => {
+          overlay.remove();
+        };
+
+        const img = document.createElement('img');
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/export-scaled.webp";
+
+        img.style.cssText = \`
+          max-width:95%;
+          max-height:95%;
+          border-radius:12px;
+          transition:transform .15s ease;
+          cursor:zoom-in;
+          will-change:transform;
+          user-select:none;
+        \`;
+
+        let scale = 1;
+
+        // scroll zoom
+        overlay.onwheel = (e) => {
+          e.preventDefault();
+
+          scale += e.deltaY * -0.001;
+          scale = Math.min(Math.max(1, scale), 5);
+
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        // double click zoom
+        img.ondblclick = () => {
+          scale = scale === 1 ? 2 : 1;
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        overlay.appendChild(closeBtn);
+        overlay.appendChild(img);
+
+        document.body.appendChild(overlay);
+
+        // close overlay
+        overlay.onclick = (e) => {
+          if (e.target === overlay) {
+            overlay.remove();
+          }
+        };
+
+        // esc close
+        document.onkeydown = (e) => {
+          if (e.key === 'Escape') {
+            overlay.remove();
+          }
+        };
+      `})])],-1),n("h2",{id:"product-price-round-off",tabindex:"-1"},[e("PRODUCT PRICE ROUND OFF "),n("a",{class:"header-anchor",href:"#product-price-round-off","aria-label":'Permalink to "PRODUCT PRICE ROUND OFF"'},"​")],-1),n("p",null,"Product price round-off will help the admin to replace a product price number with an approximate value that has decimal value representation. For example, replacing $23.883 with $23.88.",-1),n("p",null,'By enabling the product price round-off, a dropdown will appear to select the decimal for the product price round off and select the "decimal number to be round off" from the dropdown.',-1),n("p",null,"Click the SAVE button.",-1),n("p",null,'For example, if you have selected "2" from the decimal dropdown then decimal numbers like 22.773 round off to 22.77, 23.889 round off to 23.89, and if you have selected "1" from the decimal dropdown',-1),n("p",null,"then decimal numbers like 22.673 round off to 22.7, 23.889 round off to 23.9",-1),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
+          event.preventDefault();
+
+          const existing = document.getElementById('wk-image-overlay');
+          if(existing) existing.remove();
+
+          const overlay = document.createElement('div');
+          overlay.id = 'wk-image-overlay';
+
+          overlay.style.cssText = \`
+            position:fixed;
+            inset:0;
+            background:rgba(0,0,0,0.88);
+            display:flex;
+            align-items:center;
+            justify-content:center;
+            z-index:99999;
+            padding:20px;
+            cursor:zoom-out;
+            overflow:hidden;
+            backdrop-filter: blur(3px);
+          \`;
+
+          // 🔹 CLOSE BUTTON
+          const closeBtn = document.createElement('div');
+          closeBtn.innerHTML = '&times;';
+
+          closeBtn.style.cssText = \`
+            position:absolute;
+              top:20px;
+              right:25px;
+              background:#0c7484;
+              color:#fff;
+              width:50px;
+              height:50px;
+              border-radius:50%;
+              display:flex;
+              align-items:center;
+              justify-content:center;
+              font-size:32px;
+              font-weight:bold;
+              cursor:pointer;
+              z-index:100000;
+              line-height:1;
+              user-select:none;
+              box-shadow:0 4px 12px rgba(0,0,0,0.35);     
+          \`;
+
+          closeBtn.onclick = () => {
+            overlay.remove();
+          };
+
+          const img = document.createElement('img');
+          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/priceroundoff-scaled.webp";
+
+          img.style.cssText = \`
+            max-width:95%;
+            max-height:95%;
+            border-radius:12px;
+            transition:transform .15s ease;
+            cursor:zoom-in;
+            will-change:transform;
+            user-select:none;
+          \`;
+
+          let scale = 1;
+
+          // scroll zoom
+          overlay.onwheel = (e) => {
+            e.preventDefault();
+
+            scale += e.deltaY * -0.001;
+            scale = Math.min(Math.max(1, scale), 5);
+
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          // double click zoom
+          img.ondblclick = () => {
+            scale = scale === 1 ? 2 : 1;
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          overlay.appendChild(closeBtn);
+          overlay.appendChild(img);
+
+          document.body.appendChild(overlay);
+
+          // close overlay
+          overlay.onclick = (e) => {
+            if (e.target === overlay) {
+              overlay.remove();
+            }
+          };
+
+          // esc close
+          document.onkeydown = (e) => {
+            if (e.key === 'Escape') {
+              overlay.remove();
+            }
+          };
+        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/priceroundoff-scaled.webp",alt:"round-off-",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+        const existing = document.getElementById('wk-image-overlay');
+        if(existing) existing.remove();
+
+        const overlay = document.createElement('div');
+        overlay.id = 'wk-image-overlay';
+
+        overlay.style.cssText = \`
+          position:fixed;
+          inset:0;
+          background:rgba(0,0,0,0.88);
+          display:flex;
+          align-items:center;
+          justify-content:center;
+          z-index:99999;
+          padding:20px;
+          cursor:zoom-out;
+          overflow:hidden;
+          backdrop-filter: blur(3px);
+        \`;
+
+        // 🔹 CLOSE BUTTON
+        const closeBtn = document.createElement('div');
+        closeBtn.innerHTML = '&times;';
+
+        closeBtn.style.cssText = \`
+          position:absolute;
+          top:20px;
+          right:25px;
+          color:#fff;
+          font-size:42px;
+          font-weight:bold;
+          cursor:pointer;
+          z-index:100000;
+          line-height:1;
+          user-select:none;
+        \`;
+
+        closeBtn.onclick = () => {
+          overlay.remove();
+        };
+
+        const img = document.createElement('img');
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/priceroundoff-scaled.webp";
+
+        img.style.cssText = \`
+          max-width:95%;
+          max-height:95%;
+          border-radius:12px;
+          transition:transform .15s ease;
+          cursor:zoom-in;
+          will-change:transform;
+          user-select:none;
+        \`;
+
+        let scale = 1;
+
+        // scroll zoom
+        overlay.onwheel = (e) => {
+          e.preventDefault();
+
+          scale += e.deltaY * -0.001;
+          scale = Math.min(Math.max(1, scale), 5);
+
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        // double click zoom
+        img.ondblclick = () => {
+          scale = scale === 1 ? 2 : 1;
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        overlay.appendChild(closeBtn);
+        overlay.appendChild(img);
+
+        document.body.appendChild(overlay);
+
+        // close overlay
+        overlay.onclick = (e) => {
+          if (e.target === overlay) {
+            overlay.remove();
+          }
+        };
+
+        // esc close
+        document.onkeydown = (e) => {
+          if (e.key === 'Escape') {
+            overlay.remove();
+          }
+        };
+      `})])],-1),n("p",null,[e("NOTE:"),n("br"),e(" Product price round-off will be applied on product price, its compare at price, variant price, and its compare at price.")],-1),n("h2",{id:"product-price-round-off-configuration",tabindex:"-1"},[e("Product Price Round-Off Configuration "),n("a",{class:"header-anchor",href:"#product-price-round-off-configuration","aria-label":'Permalink to "Product Price Round-Off Configuration"'},"​")],-1),n("p",null,"The Product Price Round-Off feature helps the admin replace product prices with an approximate value by controlling how decimal values are displayed across the marketplace.",-1),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
+          event.preventDefault();
+
+          const existing = document.getElementById('wk-image-overlay');
+          if(existing) existing.remove();
+
+          const overlay = document.createElement('div');
+          overlay.id = 'wk-image-overlay';
+
+          overlay.style.cssText = \`
+            position:fixed;
+            inset:0;
+            background:rgba(0,0,0,0.88);
+            display:flex;
+            align-items:center;
+            justify-content:center;
+            z-index:99999;
+            padding:20px;
+            cursor:zoom-out;
+            overflow:hidden;
+            backdrop-filter: blur(3px);
+          \`;
+
+          // 🔹 CLOSE BUTTON
+          const closeBtn = document.createElement('div');
+          closeBtn.innerHTML = '&times;';
+
+          closeBtn.style.cssText = \`
+            position:absolute;
+              top:20px;
+              right:25px;
+              background:#0c7484;
+              color:#fff;
+              width:50px;
+              height:50px;
+              border-radius:50%;
+              display:flex;
+              align-items:center;
+              justify-content:center;
+              font-size:32px;
+              font-weight:bold;
+              cursor:pointer;
+              z-index:100000;
+              line-height:1;
+              user-select:none;
+              box-shadow:0 4px 12px rgba(0,0,0,0.35);     
+          \`;
+
+          closeBtn.onclick = () => {
+            overlay.remove();
+          };
+
+          const img = document.createElement('img');
+          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/roundoffconfig.webp";
+
+          img.style.cssText = \`
+            max-width:95%;
+            max-height:95%;
+            border-radius:12px;
+            transition:transform .15s ease;
+            cursor:zoom-in;
+            will-change:transform;
+            user-select:none;
+          \`;
+
+          let scale = 1;
+
+          // scroll zoom
+          overlay.onwheel = (e) => {
+            e.preventDefault();
+
+            scale += e.deltaY * -0.001;
+            scale = Math.min(Math.max(1, scale), 5);
+
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          // double click zoom
+          img.ondblclick = () => {
+            scale = scale === 1 ? 2 : 1;
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          overlay.appendChild(closeBtn);
+          overlay.appendChild(img);
+
+          document.body.appendChild(overlay);
+
+          // close overlay
+          overlay.onclick = (e) => {
+            if (e.target === overlay) {
+              overlay.remove();
+            }
+          };
+
+          // esc close
+          document.onkeydown = (e) => {
+            if (e.key === 'Escape') {
+              overlay.remove();
+            }
+          };
+        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/roundoffconfig.webp",alt:"Image",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+        const existing = document.getElementById('wk-image-overlay');
+        if(existing) existing.remove();
+
+        const overlay = document.createElement('div');
+        overlay.id = 'wk-image-overlay';
+
+        overlay.style.cssText = \`
+          position:fixed;
+          inset:0;
+          background:rgba(0,0,0,0.88);
+          display:flex;
+          align-items:center;
+          justify-content:center;
+          z-index:99999;
+          padding:20px;
+          cursor:zoom-out;
+          overflow:hidden;
+          backdrop-filter: blur(3px);
+        \`;
+
+        // 🔹 CLOSE BUTTON
+        const closeBtn = document.createElement('div');
+        closeBtn.innerHTML = '&times;';
+
+        closeBtn.style.cssText = \`
+          position:absolute;
+          top:20px;
+          right:25px;
+          color:#fff;
+          font-size:42px;
+          font-weight:bold;
+          cursor:pointer;
+          z-index:100000;
+          line-height:1;
+          user-select:none;
+        \`;
+
+        closeBtn.onclick = () => {
+          overlay.remove();
+        };
+
+        const img = document.createElement('img');
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/roundoffconfig.webp";
+
+        img.style.cssText = \`
+          max-width:95%;
+          max-height:95%;
+          border-radius:12px;
+          transition:transform .15s ease;
+          cursor:zoom-in;
+          will-change:transform;
+          user-select:none;
+        \`;
+
+        let scale = 1;
+
+        // scroll zoom
+        overlay.onwheel = (e) => {
+          e.preventDefault();
+
+          scale += e.deltaY * -0.001;
+          scale = Math.min(Math.max(1, scale), 5);
+
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        // double click zoom
+        img.ondblclick = () => {
+          scale = scale === 1 ? 2 : 1;
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        overlay.appendChild(closeBtn);
+        overlay.appendChild(img);
+
+        document.body.appendChild(overlay);
+
+        // close overlay
+        overlay.onclick = (e) => {
+          if (e.target === overlay) {
+            overlay.remove();
+          }
+        };
+
+        // esc close
+        document.onkeydown = (e) => {
+          if (e.key === 'Escape') {
+            overlay.remove();
+          }
+        };
+      `})])],-1),o("",8),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
+          event.preventDefault();
+
+          const existing = document.getElementById('wk-image-overlay');
+          if(existing) existing.remove();
+
+          const overlay = document.createElement('div');
+          overlay.id = 'wk-image-overlay';
+
+          overlay.style.cssText = \`
+            position:fixed;
+            inset:0;
+            background:rgba(0,0,0,0.88);
+            display:flex;
+            align-items:center;
+            justify-content:center;
+            z-index:99999;
+            padding:20px;
+            cursor:zoom-out;
+            overflow:hidden;
+            backdrop-filter: blur(3px);
+          \`;
+
+          // 🔹 CLOSE BUTTON
+          const closeBtn = document.createElement('div');
+          closeBtn.innerHTML = '&times;';
+
+          closeBtn.style.cssText = \`
+            position:absolute;
+              top:20px;
+              right:25px;
+              background:#0c7484;
+              color:#fff;
+              width:50px;
+              height:50px;
+              border-radius:50%;
+              display:flex;
+              align-items:center;
+              justify-content:center;
+              font-size:32px;
+              font-weight:bold;
+              cursor:pointer;
+              z-index:100000;
+              line-height:1;
+              user-select:none;
+              box-shadow:0 4px 12px rgba(0,0,0,0.35);     
+          \`;
+
+          closeBtn.onclick = () => {
+            overlay.remove();
+          };
+
+          const img = document.createElement('img');
+          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/adminvar-scaled.webp";
+
+          img.style.cssText = \`
+            max-width:95%;
+            max-height:95%;
+            border-radius:12px;
+            transition:transform .15s ease;
+            cursor:zoom-in;
+            will-change:transform;
+            user-select:none;
+          \`;
+
+          let scale = 1;
+
+          // scroll zoom
+          overlay.onwheel = (e) => {
+            e.preventDefault();
+
+            scale += e.deltaY * -0.001;
+            scale = Math.min(Math.max(1, scale), 5);
+
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          // double click zoom
+          img.ondblclick = () => {
+            scale = scale === 1 ? 2 : 1;
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          overlay.appendChild(closeBtn);
+          overlay.appendChild(img);
+
+          document.body.appendChild(overlay);
+
+          // close overlay
+          overlay.onclick = (e) => {
+            if (e.target === overlay) {
+              overlay.remove();
+            }
+          };
+
+          // esc close
+          document.onkeydown = (e) => {
+            if (e.key === 'Escape') {
+              overlay.remove();
+            }
+          };
+        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/adminvar-scaled.webp",alt:"Variant Admin",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+        const existing = document.getElementById('wk-image-overlay');
+        if(existing) existing.remove();
+
+        const overlay = document.createElement('div');
+        overlay.id = 'wk-image-overlay';
+
+        overlay.style.cssText = \`
+          position:fixed;
+          inset:0;
+          background:rgba(0,0,0,0.88);
+          display:flex;
+          align-items:center;
+          justify-content:center;
+          z-index:99999;
+          padding:20px;
+          cursor:zoom-out;
+          overflow:hidden;
+          backdrop-filter: blur(3px);
+        \`;
+
+        // 🔹 CLOSE BUTTON
+        const closeBtn = document.createElement('div');
+        closeBtn.innerHTML = '&times;';
+
+        closeBtn.style.cssText = \`
+          position:absolute;
+          top:20px;
+          right:25px;
+          color:#fff;
+          font-size:42px;
+          font-weight:bold;
+          cursor:pointer;
+          z-index:100000;
+          line-height:1;
+          user-select:none;
+        \`;
+
+        closeBtn.onclick = () => {
+          overlay.remove();
+        };
+
+        const img = document.createElement('img');
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/adminvar-scaled.webp";
+
+        img.style.cssText = \`
+          max-width:95%;
+          max-height:95%;
+          border-radius:12px;
+          transition:transform .15s ease;
+          cursor:zoom-in;
+          will-change:transform;
+          user-select:none;
+        \`;
+
+        let scale = 1;
+
+        // scroll zoom
+        overlay.onwheel = (e) => {
+          e.preventDefault();
+
+          scale += e.deltaY * -0.001;
+          scale = Math.min(Math.max(1, scale), 5);
+
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        // double click zoom
+        img.ondblclick = () => {
+          scale = scale === 1 ? 2 : 1;
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        overlay.appendChild(closeBtn);
+        overlay.appendChild(img);
+
+        document.body.appendChild(overlay);
+
+        // close overlay
+        overlay.onclick = (e) => {
+          if (e.target === overlay) {
+            overlay.remove();
+          }
+        };
+
+        // esc close
+        document.onkeydown = (e) => {
+          if (e.key === 'Escape') {
+            overlay.remove();
+          }
+        };
+      `})])],-1),n("p",null,[e("Admins can easily manage inventory by filtering the product variant inventory list using "),n("strong",null,'"Out of Stock",'),e(),n("strong",null,'"Inventory Tracked"'),e(" and "),n("strong",null,'"Inventory Not Tracked"'),e(" options.")],-1),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
+          event.preventDefault();
+
+          const existing = document.getElementById('wk-image-overlay');
+          if(existing) existing.remove();
+
+          const overlay = document.createElement('div');
+          overlay.id = 'wk-image-overlay';
+
+          overlay.style.cssText = \`
+            position:fixed;
+            inset:0;
+            background:rgba(0,0,0,0.88);
+            display:flex;
+            align-items:center;
+            justify-content:center;
+            z-index:99999;
+            padding:20px;
+            cursor:zoom-out;
+            overflow:hidden;
+            backdrop-filter: blur(3px);
+          \`;
+
+          // 🔹 CLOSE BUTTON
+          const closeBtn = document.createElement('div');
+          closeBtn.innerHTML = '&times;';
+
+          closeBtn.style.cssText = \`
+            position:absolute;
+              top:20px;
+              right:25px;
+              background:#0c7484;
+              color:#fff;
+              width:50px;
+              height:50px;
+              border-radius:50%;
+              display:flex;
+              align-items:center;
+              justify-content:center;
+              font-size:32px;
+              font-weight:bold;
+              cursor:pointer;
+              z-index:100000;
+              line-height:1;
+              user-select:none;
+              box-shadow:0 4px 12px rgba(0,0,0,0.35);     
+          \`;
+
+          closeBtn.onclick = () => {
+            overlay.remove();
+          };
+
+          const img = document.createElement('img');
+          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/adminvar-scaled.webp";
+
+          img.style.cssText = \`
+            max-width:95%;
+            max-height:95%;
+            border-radius:12px;
+            transition:transform .15s ease;
+            cursor:zoom-in;
+            will-change:transform;
+            user-select:none;
+          \`;
+
+          let scale = 1;
+
+          // scroll zoom
+          overlay.onwheel = (e) => {
+            e.preventDefault();
+
+            scale += e.deltaY * -0.001;
+            scale = Math.min(Math.max(1, scale), 5);
+
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          // double click zoom
+          img.ondblclick = () => {
+            scale = scale === 1 ? 2 : 1;
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          overlay.appendChild(closeBtn);
+          overlay.appendChild(img);
+
+          document.body.appendChild(overlay);
+
+          // close overlay
+          overlay.onclick = (e) => {
+            if (e.target === overlay) {
+              overlay.remove();
+            }
+          };
+
+          // esc close
+          document.onkeydown = (e) => {
+            if (e.key === 'Escape') {
+              overlay.remove();
+            }
+          };
+        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/adminvar-scaled.webp",alt:"Filter",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+        const existing = document.getElementById('wk-image-overlay');
+        if(existing) existing.remove();
+
+        const overlay = document.createElement('div');
+        overlay.id = 'wk-image-overlay';
+
+        overlay.style.cssText = \`
+          position:fixed;
+          inset:0;
+          background:rgba(0,0,0,0.88);
+          display:flex;
+          align-items:center;
+          justify-content:center;
+          z-index:99999;
+          padding:20px;
+          cursor:zoom-out;
+          overflow:hidden;
+          backdrop-filter: blur(3px);
+        \`;
+
+        // 🔹 CLOSE BUTTON
+        const closeBtn = document.createElement('div');
+        closeBtn.innerHTML = '&times;';
+
+        closeBtn.style.cssText = \`
+          position:absolute;
+          top:20px;
+          right:25px;
+          color:#fff;
+          font-size:42px;
+          font-weight:bold;
+          cursor:pointer;
+          z-index:100000;
+          line-height:1;
+          user-select:none;
+        \`;
+
+        closeBtn.onclick = () => {
+          overlay.remove();
+        };
+
+        const img = document.createElement('img');
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/adminvar-scaled.webp";
+
+        img.style.cssText = \`
+          max-width:95%;
+          max-height:95%;
+          border-radius:12px;
+          transition:transform .15s ease;
+          cursor:zoom-in;
+          will-change:transform;
+          user-select:none;
+        \`;
+
+        let scale = 1;
+
+        // scroll zoom
+        overlay.onwheel = (e) => {
+          e.preventDefault();
+
+          scale += e.deltaY * -0.001;
+          scale = Math.min(Math.max(1, scale), 5);
+
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        // double click zoom
+        img.ondblclick = () => {
+          scale = scale === 1 ? 2 : 1;
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        overlay.appendChild(closeBtn);
+        overlay.appendChild(img);
+
+        document.body.appendChild(overlay);
+
+        // close overlay
+        overlay.onclick = (e) => {
+          if (e.target === overlay) {
+            overlay.remove();
+          }
+        };
+
+        // esc close
+        document.onkeydown = (e) => {
+          if (e.key === 'Escape') {
+            overlay.remove();
+          }
+        };
+      `})])],-1),n("p",null,"Seller Panel:",-1),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
+          event.preventDefault();
+
+          const existing = document.getElementById('wk-image-overlay');
+          if(existing) existing.remove();
+
+          const overlay = document.createElement('div');
+          overlay.id = 'wk-image-overlay';
+
+          overlay.style.cssText = \`
+            position:fixed;
+            inset:0;
+            background:rgba(0,0,0,0.88);
+            display:flex;
+            align-items:center;
+            justify-content:center;
+            z-index:99999;
+            padding:20px;
+            cursor:zoom-out;
+            overflow:hidden;
+            backdrop-filter: blur(3px);
+          \`;
+
+          // 🔹 CLOSE BUTTON
+          const closeBtn = document.createElement('div');
+          closeBtn.innerHTML = '&times;';
+
+          closeBtn.style.cssText = \`
+            position:absolute;
+              top:20px;
+              right:25px;
+              background:#0c7484;
+              color:#fff;
+              width:50px;
+              height:50px;
+              border-radius:50%;
+              display:flex;
+              align-items:center;
+              justify-content:center;
+              font-size:32px;
+              font-weight:bold;
+              cursor:pointer;
+              z-index:100000;
+              line-height:1;
+              user-select:none;
+              box-shadow:0 4px 12px rgba(0,0,0,0.35);     
+          \`;
+
+          closeBtn.onclick = () => {
+            overlay.remove();
+          };
+
+          const img = document.createElement('img');
+          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/sellervar-scaled.webp";
+
+          img.style.cssText = \`
+            max-width:95%;
+            max-height:95%;
+            border-radius:12px;
+            transition:transform .15s ease;
+            cursor:zoom-in;
+            will-change:transform;
+            user-select:none;
+          \`;
+
+          let scale = 1;
+
+          // scroll zoom
+          overlay.onwheel = (e) => {
+            e.preventDefault();
+
+            scale += e.deltaY * -0.001;
+            scale = Math.min(Math.max(1, scale), 5);
+
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          // double click zoom
+          img.ondblclick = () => {
+            scale = scale === 1 ? 2 : 1;
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          overlay.appendChild(closeBtn);
+          overlay.appendChild(img);
+
+          document.body.appendChild(overlay);
+
+          // close overlay
+          overlay.onclick = (e) => {
+            if (e.target === overlay) {
+              overlay.remove();
+            }
+          };
+
+          // esc close
+          document.onkeydown = (e) => {
+            if (e.key === 'Escape') {
+              overlay.remove();
+            }
+          };
+        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/sellervar-scaled.webp",alt:"Variant Seller",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+        const existing = document.getElementById('wk-image-overlay');
+        if(existing) existing.remove();
+
+        const overlay = document.createElement('div');
+        overlay.id = 'wk-image-overlay';
+
+        overlay.style.cssText = \`
+          position:fixed;
+          inset:0;
+          background:rgba(0,0,0,0.88);
+          display:flex;
+          align-items:center;
+          justify-content:center;
+          z-index:99999;
+          padding:20px;
+          cursor:zoom-out;
+          overflow:hidden;
+          backdrop-filter: blur(3px);
+        \`;
+
+        // 🔹 CLOSE BUTTON
+        const closeBtn = document.createElement('div');
+        closeBtn.innerHTML = '&times;';
+
+        closeBtn.style.cssText = \`
+          position:absolute;
+          top:20px;
+          right:25px;
+          color:#fff;
+          font-size:42px;
+          font-weight:bold;
+          cursor:pointer;
+          z-index:100000;
+          line-height:1;
+          user-select:none;
+        \`;
+
+        closeBtn.onclick = () => {
+          overlay.remove();
+        };
+
+        const img = document.createElement('img');
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/sellervar-scaled.webp";
+
+        img.style.cssText = \`
+          max-width:95%;
+          max-height:95%;
+          border-radius:12px;
+          transition:transform .15s ease;
+          cursor:zoom-in;
+          will-change:transform;
+          user-select:none;
+        \`;
+
+        let scale = 1;
+
+        // scroll zoom
+        overlay.onwheel = (e) => {
+          e.preventDefault();
+
+          scale += e.deltaY * -0.001;
+          scale = Math.min(Math.max(1, scale), 5);
+
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        // double click zoom
+        img.ondblclick = () => {
+          scale = scale === 1 ? 2 : 1;
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        overlay.appendChild(closeBtn);
+        overlay.appendChild(img);
+
+        document.body.appendChild(overlay);
+
+        // close overlay
+        overlay.onclick = (e) => {
+          if (e.target === overlay) {
+            overlay.remove();
+          }
+        };
+
+        // esc close
+        document.onkeydown = (e) => {
+          if (e.key === 'Escape') {
+            overlay.remove();
+          }
+        };
+      `})])],-1),n("h2",{id:"manage-products-as-draft-product",tabindex:"-1"},[e("Manage products as Draft Product "),n("a",{class:"header-anchor",href:"#manage-products-as-draft-product","aria-label":'Permalink to "Manage products as Draft Product"'},"​")],-1),n("p",null,[n("strong",null,"Introducing the Draft Feature for Sellers!")],-1),n("p",null,"Sellers now have the flexibility to save their products as drafts before making them live.",-1),n("p",null,[e("To enable this feature, the Admin needs to activate the "),n("strong",null,'" Save Product as a Draft"'),e(" option.")],-1),n("p",null,[e("This setting can be easily configured in the "),n("strong",null,"Product Configuration"),e(" section, giving sellers better control over their product listings.")],-1),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
+          event.preventDefault();
+
+          const existing = document.getElementById('wk-image-overlay');
+          if(existing) existing.remove();
+
+          const overlay = document.createElement('div');
+          overlay.id = 'wk-image-overlay';
+
+          overlay.style.cssText = \`
+            position:fixed;
+            inset:0;
+            background:rgba(0,0,0,0.88);
+            display:flex;
+            align-items:center;
+            justify-content:center;
+            z-index:99999;
+            padding:20px;
+            cursor:zoom-out;
+            overflow:hidden;
+            backdrop-filter: blur(3px);
+          \`;
+
+          // 🔹 CLOSE BUTTON
+          const closeBtn = document.createElement('div');
+          closeBtn.innerHTML = '&times;';
+
+          closeBtn.style.cssText = \`
+            position:absolute;
+              top:20px;
+              right:25px;
+              background:#0c7484;
+              color:#fff;
+              width:50px;
+              height:50px;
+              border-radius:50%;
+              display:flex;
+              align-items:center;
+              justify-content:center;
+              font-size:32px;
+              font-weight:bold;
+              cursor:pointer;
+              z-index:100000;
+              line-height:1;
+              user-select:none;
+              box-shadow:0 4px 12px rgba(0,0,0,0.35);     
+          \`;
+
+          closeBtn.onclick = () => {
+            overlay.remove();
+          };
+
+          const img = document.createElement('img');
+          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/draftconfig-scaled.webp";
+
+          img.style.cssText = \`
+            max-width:95%;
+            max-height:95%;
+            border-radius:12px;
+            transition:transform .15s ease;
+            cursor:zoom-in;
+            will-change:transform;
+            user-select:none;
+          \`;
+
+          let scale = 1;
+
+          // scroll zoom
+          overlay.onwheel = (e) => {
+            e.preventDefault();
+
+            scale += e.deltaY * -0.001;
+            scale = Math.min(Math.max(1, scale), 5);
+
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          // double click zoom
+          img.ondblclick = () => {
+            scale = scale === 1 ? 2 : 1;
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          overlay.appendChild(closeBtn);
+          overlay.appendChild(img);
+
+          document.body.appendChild(overlay);
+
+          // close overlay
+          overlay.onclick = (e) => {
+            if (e.target === overlay) {
+              overlay.remove();
+            }
+          };
+
+          // esc close
+          document.onkeydown = (e) => {
+            if (e.key === 'Escape') {
+              overlay.remove();
+            }
+          };
+        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/draftconfig-scaled.webp",alt:"Product configuration",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+        const existing = document.getElementById('wk-image-overlay');
+        if(existing) existing.remove();
+
+        const overlay = document.createElement('div');
+        overlay.id = 'wk-image-overlay';
+
+        overlay.style.cssText = \`
+          position:fixed;
+          inset:0;
+          background:rgba(0,0,0,0.88);
+          display:flex;
+          align-items:center;
+          justify-content:center;
+          z-index:99999;
+          padding:20px;
+          cursor:zoom-out;
+          overflow:hidden;
+          backdrop-filter: blur(3px);
+        \`;
+
+        // 🔹 CLOSE BUTTON
+        const closeBtn = document.createElement('div');
+        closeBtn.innerHTML = '&times;';
+
+        closeBtn.style.cssText = \`
+          position:absolute;
+          top:20px;
+          right:25px;
+          color:#fff;
+          font-size:42px;
+          font-weight:bold;
+          cursor:pointer;
+          z-index:100000;
+          line-height:1;
+          user-select:none;
+        \`;
+
+        closeBtn.onclick = () => {
+          overlay.remove();
+        };
+
+        const img = document.createElement('img');
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/draftconfig-scaled.webp";
+
+        img.style.cssText = \`
+          max-width:95%;
+          max-height:95%;
+          border-radius:12px;
+          transition:transform .15s ease;
+          cursor:zoom-in;
+          will-change:transform;
+          user-select:none;
+        \`;
+
+        let scale = 1;
+
+        // scroll zoom
+        overlay.onwheel = (e) => {
+          e.preventDefault();
+
+          scale += e.deltaY * -0.001;
+          scale = Math.min(Math.max(1, scale), 5);
+
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        // double click zoom
+        img.ondblclick = () => {
+          scale = scale === 1 ? 2 : 1;
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        overlay.appendChild(closeBtn);
+        overlay.appendChild(img);
+
+        document.body.appendChild(overlay);
+
+        // close overlay
+        overlay.onclick = (e) => {
+          if (e.target === overlay) {
+            overlay.remove();
+          }
+        };
+
+        // esc close
+        document.onkeydown = (e) => {
+          if (e.key === 'Escape') {
+            overlay.remove();
+          }
+        };
+      `})])],-1),n("p",null,[e("Once the Admin enables this option, sellers will see the "),n("strong",null,'"Save as Draft"'),e(" feature while adding products. This allows them to save incomplete listings and publish them later when ready.")],-1),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
+          event.preventDefault();
+
+          const existing = document.getElementById('wk-image-overlay');
+          if(existing) existing.remove();
+
+          const overlay = document.createElement('div');
+          overlay.id = 'wk-image-overlay';
+
+          overlay.style.cssText = \`
+            position:fixed;
+            inset:0;
+            background:rgba(0,0,0,0.88);
+            display:flex;
+            align-items:center;
+            justify-content:center;
+            z-index:99999;
+            padding:20px;
+            cursor:zoom-out;
+            overflow:hidden;
+            backdrop-filter: blur(3px);
+          \`;
+
+          // 🔹 CLOSE BUTTON
+          const closeBtn = document.createElement('div');
+          closeBtn.innerHTML = '&times;';
+
+          closeBtn.style.cssText = \`
+            position:absolute;
+              top:20px;
+              right:25px;
+              background:#0c7484;
+              color:#fff;
+              width:50px;
+              height:50px;
+              border-radius:50%;
+              display:flex;
+              align-items:center;
+              justify-content:center;
+              font-size:32px;
+              font-weight:bold;
+              cursor:pointer;
+              z-index:100000;
+              line-height:1;
+              user-select:none;
+              box-shadow:0 4px 12px rgba(0,0,0,0.35);     
+          \`;
+
+          closeBtn.onclick = () => {
+            overlay.remove();
+          };
+
+          const img = document.createElement('img');
+          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/draftproductpage-scaled.webp";
+
+          img.style.cssText = \`
+            max-width:95%;
+            max-height:95%;
+            border-radius:12px;
+            transition:transform .15s ease;
+            cursor:zoom-in;
+            will-change:transform;
+            user-select:none;
+          \`;
+
+          let scale = 1;
+
+          // scroll zoom
+          overlay.onwheel = (e) => {
+            e.preventDefault();
+
+            scale += e.deltaY * -0.001;
+            scale = Math.min(Math.max(1, scale), 5);
+
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          // double click zoom
+          img.ondblclick = () => {
+            scale = scale === 1 ? 2 : 1;
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          overlay.appendChild(closeBtn);
+          overlay.appendChild(img);
+
+          document.body.appendChild(overlay);
+
+          // close overlay
+          overlay.onclick = (e) => {
+            if (e.target === overlay) {
+              overlay.remove();
+            }
+          };
+
+          // esc close
+          document.onkeydown = (e) => {
+            if (e.key === 'Escape') {
+              overlay.remove();
+            }
+          };
+        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/draftproductpage-scaled.webp",alt:"save draft",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+        const existing = document.getElementById('wk-image-overlay');
+        if(existing) existing.remove();
+
+        const overlay = document.createElement('div');
+        overlay.id = 'wk-image-overlay';
+
+        overlay.style.cssText = \`
+          position:fixed;
+          inset:0;
+          background:rgba(0,0,0,0.88);
+          display:flex;
+          align-items:center;
+          justify-content:center;
+          z-index:99999;
+          padding:20px;
+          cursor:zoom-out;
+          overflow:hidden;
+          backdrop-filter: blur(3px);
+        \`;
+
+        // 🔹 CLOSE BUTTON
+        const closeBtn = document.createElement('div');
+        closeBtn.innerHTML = '&times;';
+
+        closeBtn.style.cssText = \`
+          position:absolute;
+          top:20px;
+          right:25px;
+          color:#fff;
+          font-size:42px;
+          font-weight:bold;
+          cursor:pointer;
+          z-index:100000;
+          line-height:1;
+          user-select:none;
+        \`;
+
+        closeBtn.onclick = () => {
+          overlay.remove();
+        };
+
+        const img = document.createElement('img');
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/draftproductpage-scaled.webp";
+
+        img.style.cssText = \`
+          max-width:95%;
+          max-height:95%;
+          border-radius:12px;
+          transition:transform .15s ease;
+          cursor:zoom-in;
+          will-change:transform;
+          user-select:none;
+        \`;
+
+        let scale = 1;
+
+        // scroll zoom
+        overlay.onwheel = (e) => {
+          e.preventDefault();
+
+          scale += e.deltaY * -0.001;
+          scale = Math.min(Math.max(1, scale), 5);
+
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        // double click zoom
+        img.ondblclick = () => {
+          scale = scale === 1 ? 2 : 1;
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        overlay.appendChild(closeBtn);
+        overlay.appendChild(img);
+
+        document.body.appendChild(overlay);
+
+        // close overlay
+        overlay.onclick = (e) => {
+          if (e.target === overlay) {
+            overlay.remove();
+          }
+        };
+
+        // esc close
+        document.onkeydown = (e) => {
+          if (e.key === 'Escape') {
+            overlay.remove();
+          }
+        };
+      `})])],-1),n("p",null,[e("When you click on "),n("strong",null,"Edit Product"),e(", you can view the current status of the product. Sellers can then update the status from "),n("strong",null,'"Draft"'),e(" to "),n("strong",null,'"Ready for Approval"'),e(".")],-1),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
+          event.preventDefault();
+
+          const existing = document.getElementById('wk-image-overlay');
+          if(existing) existing.remove();
+
+          const overlay = document.createElement('div');
+          overlay.id = 'wk-image-overlay';
+
+          overlay.style.cssText = \`
+            position:fixed;
+            inset:0;
+            background:rgba(0,0,0,0.88);
+            display:flex;
+            align-items:center;
+            justify-content:center;
+            z-index:99999;
+            padding:20px;
+            cursor:zoom-out;
+            overflow:hidden;
+            backdrop-filter: blur(3px);
+          \`;
+
+          // 🔹 CLOSE BUTTON
+          const closeBtn = document.createElement('div');
+          closeBtn.innerHTML = '&times;';
+
+          closeBtn.style.cssText = \`
+            position:absolute;
+              top:20px;
+              right:25px;
+              background:#0c7484;
+              color:#fff;
+              width:50px;
+              height:50px;
+              border-radius:50%;
+              display:flex;
+              align-items:center;
+              justify-content:center;
+              font-size:32px;
+              font-weight:bold;
+              cursor:pointer;
+              z-index:100000;
+              line-height:1;
+              user-select:none;
+              box-shadow:0 4px 12px rgba(0,0,0,0.35);     
+          \`;
+
+          closeBtn.onclick = () => {
+            overlay.remove();
+          };
+
+          const img = document.createElement('img');
+          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2019/11/draft5-1200x858.webp";
+
+          img.style.cssText = \`
+            max-width:95%;
+            max-height:95%;
+            border-radius:12px;
+            transition:transform .15s ease;
+            cursor:zoom-in;
+            will-change:transform;
+            user-select:none;
+          \`;
+
+          let scale = 1;
+
+          // scroll zoom
+          overlay.onwheel = (e) => {
+            e.preventDefault();
+
+            scale += e.deltaY * -0.001;
+            scale = Math.min(Math.max(1, scale), 5);
+
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          // double click zoom
+          img.ondblclick = () => {
+            scale = scale === 1 ? 2 : 1;
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          overlay.appendChild(closeBtn);
+          overlay.appendChild(img);
+
+          document.body.appendChild(overlay);
+
+          // close overlay
+          overlay.onclick = (e) => {
+            if (e.target === overlay) {
+              overlay.remove();
+            }
+          };
+
+          // esc close
+          document.onkeydown = (e) => {
+            if (e.key === 'Escape') {
+              overlay.remove();
+            }
+          };
+        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2019/11/draft5-1200x858.webp",alt:"status",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+        const existing = document.getElementById('wk-image-overlay');
+        if(existing) existing.remove();
+
+        const overlay = document.createElement('div');
+        overlay.id = 'wk-image-overlay';
+
+        overlay.style.cssText = \`
+          position:fixed;
+          inset:0;
+          background:rgba(0,0,0,0.88);
+          display:flex;
+          align-items:center;
+          justify-content:center;
+          z-index:99999;
+          padding:20px;
+          cursor:zoom-out;
+          overflow:hidden;
+          backdrop-filter: blur(3px);
+        \`;
+
+        // 🔹 CLOSE BUTTON
+        const closeBtn = document.createElement('div');
+        closeBtn.innerHTML = '&times;';
+
+        closeBtn.style.cssText = \`
+          position:absolute;
+          top:20px;
+          right:25px;
+          color:#fff;
+          font-size:42px;
+          font-weight:bold;
+          cursor:pointer;
+          z-index:100000;
+          line-height:1;
+          user-select:none;
+        \`;
+
+        closeBtn.onclick = () => {
+          overlay.remove();
+        };
+
+        const img = document.createElement('img');
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2019/11/draft5-1200x858.webp";
+
+        img.style.cssText = \`
+          max-width:95%;
+          max-height:95%;
+          border-radius:12px;
+          transition:transform .15s ease;
+          cursor:zoom-in;
+          will-change:transform;
+          user-select:none;
+        \`;
+
+        let scale = 1;
+
+        // scroll zoom
+        overlay.onwheel = (e) => {
+          e.preventDefault();
+
+          scale += e.deltaY * -0.001;
+          scale = Math.min(Math.max(1, scale), 5);
+
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        // double click zoom
+        img.ondblclick = () => {
+          scale = scale === 1 ? 2 : 1;
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        overlay.appendChild(closeBtn);
+        overlay.appendChild(img);
+
+        document.body.appendChild(overlay);
+
+        // close overlay
+        overlay.onclick = (e) => {
+          if (e.target === overlay) {
+            overlay.remove();
+          }
+        };
+
+        // esc close
+        document.onkeydown = (e) => {
+          if (e.key === 'Escape') {
+            overlay.remove();
+          }
+        };
+      `})])],-1),n("p",null,[e("Once updated, the "),n("strong",null,'"Approval Pending"'),e(" status will be visible in the "),n("strong",null,"Product Details"),e(" section.")],-1),n("p",null,[e("We’ve made the workflow even smoother! If the "),n("strong",null,'"Auto Approve Product"'),e(" setting is enabled by the Admin,")],-1),n("p",null,[e("sellers can now "),n("strong",null,"directly approve their own draft products"),e(" without waiting for manual approval.")],-1),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
+          event.preventDefault();
+
+          const existing = document.getElementById('wk-image-overlay');
+          if(existing) existing.remove();
+
+          const overlay = document.createElement('div');
+          overlay.id = 'wk-image-overlay';
+
+          overlay.style.cssText = \`
+            position:fixed;
+            inset:0;
+            background:rgba(0,0,0,0.88);
+            display:flex;
+            align-items:center;
+            justify-content:center;
+            z-index:99999;
+            padding:20px;
+            cursor:zoom-out;
+            overflow:hidden;
+            backdrop-filter: blur(3px);
+          \`;
+
+          // 🔹 CLOSE BUTTON
+          const closeBtn = document.createElement('div');
+          closeBtn.innerHTML = '&times;';
+
+          closeBtn.style.cssText = \`
+            position:absolute;
+              top:20px;
+              right:25px;
+              background:#0c7484;
+              color:#fff;
+              width:50px;
+              height:50px;
+              border-radius:50%;
+              display:flex;
+              align-items:center;
+              justify-content:center;
+              font-size:32px;
+              font-weight:bold;
+              cursor:pointer;
+              z-index:100000;
+              line-height:1;
+              user-select:none;
+              box-shadow:0 4px 12px rgba(0,0,0,0.35);     
+          \`;
+
+          closeBtn.onclick = () => {
+            overlay.remove();
+          };
+
+          const img = document.createElement('img');
+          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/draftenable-scaled.webp";
+
+          img.style.cssText = \`
+            max-width:95%;
+            max-height:95%;
+            border-radius:12px;
+            transition:transform .15s ease;
+            cursor:zoom-in;
+            will-change:transform;
+            user-select:none;
+          \`;
+
+          let scale = 1;
+
+          // scroll zoom
+          overlay.onwheel = (e) => {
+            e.preventDefault();
+
+            scale += e.deltaY * -0.001;
+            scale = Math.min(Math.max(1, scale), 5);
+
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          // double click zoom
+          img.ondblclick = () => {
+            scale = scale === 1 ? 2 : 1;
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          overlay.appendChild(closeBtn);
+          overlay.appendChild(img);
+
+          document.body.appendChild(overlay);
+
+          // close overlay
+          overlay.onclick = (e) => {
+            if (e.target === overlay) {
+              overlay.remove();
+            }
+          };
+
+          // esc close
+          document.onkeydown = (e) => {
+            if (e.key === 'Escape') {
+              overlay.remove();
+            }
+          };
+        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/draftenable-scaled.webp",alt:"draft-product",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+        const existing = document.getElementById('wk-image-overlay');
+        if(existing) existing.remove();
+
+        const overlay = document.createElement('div');
+        overlay.id = 'wk-image-overlay';
+
+        overlay.style.cssText = \`
+          position:fixed;
+          inset:0;
+          background:rgba(0,0,0,0.88);
+          display:flex;
+          align-items:center;
+          justify-content:center;
+          z-index:99999;
+          padding:20px;
+          cursor:zoom-out;
+          overflow:hidden;
+          backdrop-filter: blur(3px);
+        \`;
+
+        // 🔹 CLOSE BUTTON
+        const closeBtn = document.createElement('div');
+        closeBtn.innerHTML = '&times;';
+
+        closeBtn.style.cssText = \`
+          position:absolute;
+          top:20px;
+          right:25px;
+          color:#fff;
+          font-size:42px;
+          font-weight:bold;
+          cursor:pointer;
+          z-index:100000;
+          line-height:1;
+          user-select:none;
+        \`;
+
+        closeBtn.onclick = () => {
+          overlay.remove();
+        };
+
+        const img = document.createElement('img');
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/draftenable-scaled.webp";
+
+        img.style.cssText = \`
+          max-width:95%;
+          max-height:95%;
+          border-radius:12px;
+          transition:transform .15s ease;
+          cursor:zoom-in;
+          will-change:transform;
+          user-select:none;
+        \`;
+
+        let scale = 1;
+
+        // scroll zoom
+        overlay.onwheel = (e) => {
+          e.preventDefault();
+
+          scale += e.deltaY * -0.001;
+          scale = Math.min(Math.max(1, scale), 5);
+
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        // double click zoom
+        img.ondblclick = () => {
+          scale = scale === 1 ? 2 : 1;
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        overlay.appendChild(closeBtn);
+        overlay.appendChild(img);
+
+        document.body.appendChild(overlay);
+
+        // close overlay
+        overlay.onclick = (e) => {
+          if (e.target === overlay) {
+            overlay.remove();
+          }
+        };
+
+        // esc close
+        document.onkeydown = (e) => {
+          if (e.key === 'Escape') {
+            overlay.remove();
+          }
+        };
+      `})])],-1),n("h2",{id:"mvm-admin-seller-draft-product-reflected-in-shopify-s-draft-product-list",tabindex:"-1"},[e("MVM Admin & Seller Draft product Reflected in Shopify's draft product List "),n("a",{class:"header-anchor",href:"#mvm-admin-seller-draft-product-reflected-in-shopify-s-draft-product-list","aria-label":`Permalink to "MVM Admin & Seller Draft product Reflected in Shopify's draft product List"`},"​")],-1),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
+          event.preventDefault();
+
+          const existing = document.getElementById('wk-image-overlay');
+          if(existing) existing.remove();
+
+          const overlay = document.createElement('div');
+          overlay.id = 'wk-image-overlay';
+
+          overlay.style.cssText = \`
+            position:fixed;
+            inset:0;
+            background:rgba(0,0,0,0.88);
+            display:flex;
+            align-items:center;
+            justify-content:center;
+            z-index:99999;
+            padding:20px;
+            cursor:zoom-out;
+            overflow:hidden;
+            backdrop-filter: blur(3px);
+          \`;
+
+          // 🔹 CLOSE BUTTON
+          const closeBtn = document.createElement('div');
+          closeBtn.innerHTML = '&times;';
+
+          closeBtn.style.cssText = \`
+            position:absolute;
+              top:20px;
+              right:25px;
+              background:#0c7484;
+              color:#fff;
+              width:50px;
+              height:50px;
+              border-radius:50%;
+              display:flex;
+              align-items:center;
+              justify-content:center;
+              font-size:32px;
+              font-weight:bold;
+              cursor:pointer;
+              z-index:100000;
+              line-height:1;
+              user-select:none;
+              box-shadow:0 4px 12px rgba(0,0,0,0.35);     
+          \`;
+
+          closeBtn.onclick = () => {
+            overlay.remove();
+          };
+
+          const img = document.createElement('img');
+          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/draftshopify.webp";
+
+          img.style.cssText = \`
+            max-width:95%;
+            max-height:95%;
+            border-radius:12px;
+            transition:transform .15s ease;
+            cursor:zoom-in;
+            will-change:transform;
+            user-select:none;
+          \`;
+
+          let scale = 1;
+
+          // scroll zoom
+          overlay.onwheel = (e) => {
+            e.preventDefault();
+
+            scale += e.deltaY * -0.001;
+            scale = Math.min(Math.max(1, scale), 5);
+
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          // double click zoom
+          img.ondblclick = () => {
+            scale = scale === 1 ? 2 : 1;
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          overlay.appendChild(closeBtn);
+          overlay.appendChild(img);
+
+          document.body.appendChild(overlay);
+
+          // close overlay
+          overlay.onclick = (e) => {
+            if (e.target === overlay) {
+              overlay.remove();
+            }
+          };
+
+          // esc close
+          document.onkeydown = (e) => {
+            if (e.key === 'Escape') {
+              overlay.remove();
+            }
+          };
+        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/draftshopify.webp",alt:"draft1",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+        const existing = document.getElementById('wk-image-overlay');
+        if(existing) existing.remove();
+
+        const overlay = document.createElement('div');
+        overlay.id = 'wk-image-overlay';
+
+        overlay.style.cssText = \`
+          position:fixed;
+          inset:0;
+          background:rgba(0,0,0,0.88);
+          display:flex;
+          align-items:center;
+          justify-content:center;
+          z-index:99999;
+          padding:20px;
+          cursor:zoom-out;
+          overflow:hidden;
+          backdrop-filter: blur(3px);
+        \`;
+
+        // 🔹 CLOSE BUTTON
+        const closeBtn = document.createElement('div');
+        closeBtn.innerHTML = '&times;';
+
+        closeBtn.style.cssText = \`
+          position:absolute;
+          top:20px;
+          right:25px;
+          color:#fff;
+          font-size:42px;
+          font-weight:bold;
+          cursor:pointer;
+          z-index:100000;
+          line-height:1;
+          user-select:none;
+        \`;
+
+        closeBtn.onclick = () => {
+          overlay.remove();
+        };
+
+        const img = document.createElement('img');
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/draftshopify.webp";
+
+        img.style.cssText = \`
+          max-width:95%;
+          max-height:95%;
+          border-radius:12px;
+          transition:transform .15s ease;
+          cursor:zoom-in;
+          will-change:transform;
+          user-select:none;
+        \`;
+
+        let scale = 1;
+
+        // scroll zoom
+        overlay.onwheel = (e) => {
+          e.preventDefault();
+
+          scale += e.deltaY * -0.001;
+          scale = Math.min(Math.max(1, scale), 5);
+
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        // double click zoom
+        img.ondblclick = () => {
+          scale = scale === 1 ? 2 : 1;
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        overlay.appendChild(closeBtn);
+        overlay.appendChild(img);
+
+        document.body.appendChild(overlay);
+
+        // close overlay
+        overlay.onclick = (e) => {
+          if (e.target === overlay) {
+            overlay.remove();
+          }
+        };
+
+        // esc close
+        document.onkeydown = (e) => {
+          if (e.key === 'Escape') {
+            overlay.remove();
+          }
+        };
+      `})])],-1),n("p",null,[e("On admin panel ->Configuration-> Product Configuration then turn on '"),n("strong",null,"CREATE PRODUCT AS DRAFT ON SHOPIFY"),e("' configuration.")],-1),n("p",null,"By allowing this configuration, When a product is created as a draft by the admin or seller in MVM, it will automatically appear in your Shopify product list for further editing or publishing.",-1),n("h2",{id:"product-preview-button-for-draft-items-admin-seller",tabindex:"-1"},[e("Product Preview button for Draft Items (Admin & Seller) "),n("a",{class:"header-anchor",href:"#product-preview-button-for-draft-items-admin-seller","aria-label":'Permalink to "Product Preview button for Draft Items (Admin & Seller)"'},"​")],-1),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
+          event.preventDefault();
+
+          const existing = document.getElementById('wk-image-overlay');
+          if(existing) existing.remove();
+
+          const overlay = document.createElement('div');
+          overlay.id = 'wk-image-overlay';
+
+          overlay.style.cssText = \`
+            position:fixed;
+            inset:0;
+            background:rgba(0,0,0,0.88);
+            display:flex;
+            align-items:center;
+            justify-content:center;
+            z-index:99999;
+            padding:20px;
+            cursor:zoom-out;
+            overflow:hidden;
+            backdrop-filter: blur(3px);
+          \`;
+
+          // 🔹 CLOSE BUTTON
+          const closeBtn = document.createElement('div');
+          closeBtn.innerHTML = '&times;';
+
+          closeBtn.style.cssText = \`
+            position:absolute;
+              top:20px;
+              right:25px;
+              background:#0c7484;
+              color:#fff;
+              width:50px;
+              height:50px;
+              border-radius:50%;
+              display:flex;
+              align-items:center;
+              justify-content:center;
+              font-size:32px;
+              font-weight:bold;
+              cursor:pointer;
+              z-index:100000;
+              line-height:1;
+              user-select:none;
+              box-shadow:0 4px 12px rgba(0,0,0,0.35);     
+          \`;
+
+          closeBtn.onclick = () => {
+            overlay.remove();
+          };
+
+          const img = document.createElement('img');
+          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/draftpreview-scaled.webp";
+
+          img.style.cssText = \`
+            max-width:95%;
+            max-height:95%;
+            border-radius:12px;
+            transition:transform .15s ease;
+            cursor:zoom-in;
+            will-change:transform;
+            user-select:none;
+          \`;
+
+          let scale = 1;
+
+          // scroll zoom
+          overlay.onwheel = (e) => {
+            e.preventDefault();
+
+            scale += e.deltaY * -0.001;
+            scale = Math.min(Math.max(1, scale), 5);
+
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          // double click zoom
+          img.ondblclick = () => {
+            scale = scale === 1 ? 2 : 1;
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          overlay.appendChild(closeBtn);
+          overlay.appendChild(img);
+
+          document.body.appendChild(overlay);
+
+          // close overlay
+          overlay.onclick = (e) => {
+            if (e.target === overlay) {
+              overlay.remove();
+            }
+          };
+
+          // esc close
+          document.onkeydown = (e) => {
+            if (e.key === 'Escape') {
+              overlay.remove();
+            }
+          };
+        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/draftpreview-scaled.webp",alt:`draft2
+`,style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+        const existing = document.getElementById('wk-image-overlay');
+        if(existing) existing.remove();
+
+        const overlay = document.createElement('div');
+        overlay.id = 'wk-image-overlay';
+
+        overlay.style.cssText = \`
+          position:fixed;
+          inset:0;
+          background:rgba(0,0,0,0.88);
+          display:flex;
+          align-items:center;
+          justify-content:center;
+          z-index:99999;
+          padding:20px;
+          cursor:zoom-out;
+          overflow:hidden;
+          backdrop-filter: blur(3px);
+        \`;
+
+        // 🔹 CLOSE BUTTON
+        const closeBtn = document.createElement('div');
+        closeBtn.innerHTML = '&times;';
+
+        closeBtn.style.cssText = \`
+          position:absolute;
+          top:20px;
+          right:25px;
+          color:#fff;
+          font-size:42px;
+          font-weight:bold;
+          cursor:pointer;
+          z-index:100000;
+          line-height:1;
+          user-select:none;
+        \`;
+
+        closeBtn.onclick = () => {
+          overlay.remove();
+        };
+
+        const img = document.createElement('img');
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/draftpreview-scaled.webp";
+
+        img.style.cssText = \`
+          max-width:95%;
+          max-height:95%;
+          border-radius:12px;
+          transition:transform .15s ease;
+          cursor:zoom-in;
+          will-change:transform;
+          user-select:none;
+        \`;
+
+        let scale = 1;
+
+        // scroll zoom
+        overlay.onwheel = (e) => {
+          e.preventDefault();
+
+          scale += e.deltaY * -0.001;
+          scale = Math.min(Math.max(1, scale), 5);
+
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        // double click zoom
+        img.ondblclick = () => {
+          scale = scale === 1 ? 2 : 1;
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        overlay.appendChild(closeBtn);
+        overlay.appendChild(img);
+
+        document.body.appendChild(overlay);
+
+        // close overlay
+        overlay.onclick = (e) => {
+          if (e.target === overlay) {
+            overlay.remove();
+          }
+        };
+
+        // esc close
+        document.onkeydown = (e) => {
+          if (e.key === 'Escape') {
+            overlay.remove();
+          }
+        };
+      `})])],-1),n("p",null,[e("Both MVM admin and seller panels now include a "),n("strong",null,"Preview"),e(),n("strong",null,"button"),e(" for draft products, enabling users to see the product detail page layout prior to making it live on thier Stores.")],-1),n("p",null,[n("strong",null,"Draft Status for CSV-Added Products")],-1),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
+          event.preventDefault();
+
+          const existing = document.getElementById('wk-image-overlay');
+          if(existing) existing.remove();
+
+          const overlay = document.createElement('div');
+          overlay.id = 'wk-image-overlay';
+
+          overlay.style.cssText = \`
+            position:fixed;
+            inset:0;
+            background:rgba(0,0,0,0.88);
+            display:flex;
+            align-items:center;
+            justify-content:center;
+            z-index:99999;
+            padding:20px;
+            cursor:zoom-out;
+            overflow:hidden;
+            backdrop-filter: blur(3px);
+          \`;
+
+          // 🔹 CLOSE BUTTON
+          const closeBtn = document.createElement('div');
+          closeBtn.innerHTML = '&times;';
+
+          closeBtn.style.cssText = \`
+            position:absolute;
+              top:20px;
+              right:25px;
+              background:#0c7484;
+              color:#fff;
+              width:50px;
+              height:50px;
+              border-radius:50%;
+              display:flex;
+              align-items:center;
+              justify-content:center;
+              font-size:32px;
+              font-weight:bold;
+              cursor:pointer;
+              z-index:100000;
+              line-height:1;
+              user-select:none;
+              box-shadow:0 4px 12px rgba(0,0,0,0.35);     
+          \`;
+
+          closeBtn.onclick = () => {
+            overlay.remove();
+          };
+
+          const img = document.createElement('img');
+          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/draftcsv-scaled.webp";
+
+          img.style.cssText = \`
+            max-width:95%;
+            max-height:95%;
+            border-radius:12px;
+            transition:transform .15s ease;
+            cursor:zoom-in;
+            will-change:transform;
+            user-select:none;
+          \`;
+
+          let scale = 1;
+
+          // scroll zoom
+          overlay.onwheel = (e) => {
+            e.preventDefault();
+
+            scale += e.deltaY * -0.001;
+            scale = Math.min(Math.max(1, scale), 5);
+
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          // double click zoom
+          img.ondblclick = () => {
+            scale = scale === 1 ? 2 : 1;
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          overlay.appendChild(closeBtn);
+          overlay.appendChild(img);
+
+          document.body.appendChild(overlay);
+
+          // close overlay
+          overlay.onclick = (e) => {
+            if (e.target === overlay) {
+              overlay.remove();
+            }
+          };
+
+          // esc close
+          document.onkeydown = (e) => {
+            if (e.key === 'Escape') {
+              overlay.remove();
+            }
+          };
+        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/draftcsv-scaled.webp",alt:"draft3",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+        const existing = document.getElementById('wk-image-overlay');
+        if(existing) existing.remove();
+
+        const overlay = document.createElement('div');
+        overlay.id = 'wk-image-overlay';
+
+        overlay.style.cssText = \`
+          position:fixed;
+          inset:0;
+          background:rgba(0,0,0,0.88);
+          display:flex;
+          align-items:center;
+          justify-content:center;
+          z-index:99999;
+          padding:20px;
+          cursor:zoom-out;
+          overflow:hidden;
+          backdrop-filter: blur(3px);
+        \`;
+
+        // 🔹 CLOSE BUTTON
+        const closeBtn = document.createElement('div');
+        closeBtn.innerHTML = '&times;';
+
+        closeBtn.style.cssText = \`
+          position:absolute;
+          top:20px;
+          right:25px;
+          color:#fff;
+          font-size:42px;
+          font-weight:bold;
+          cursor:pointer;
+          z-index:100000;
+          line-height:1;
+          user-select:none;
+        \`;
+
+        closeBtn.onclick = () => {
+          overlay.remove();
+        };
+
+        const img = document.createElement('img');
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/draftcsv-scaled.webp";
+
+        img.style.cssText = \`
+          max-width:95%;
+          max-height:95%;
+          border-radius:12px;
+          transition:transform .15s ease;
+          cursor:zoom-in;
+          will-change:transform;
+          user-select:none;
+        \`;
+
+        let scale = 1;
+
+        // scroll zoom
+        overlay.onwheel = (e) => {
+          e.preventDefault();
+
+          scale += e.deltaY * -0.001;
+          scale = Math.min(Math.max(1, scale), 5);
+
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        // double click zoom
+        img.ondblclick = () => {
+          scale = scale === 1 ? 2 : 1;
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        overlay.appendChild(closeBtn);
+        overlay.appendChild(img);
+
+        document.body.appendChild(overlay);
+
+        // close overlay
+        overlay.onclick = (e) => {
+          if (e.target === overlay) {
+            overlay.remove();
+          }
+        };
+
+        // esc close
+        document.onkeydown = (e) => {
+          if (e.key === 'Escape') {
+            overlay.remove();
+          }
+        };
+      `})])],-1),n("p",null,[e("Now, Products uploaded via CSV by both sellers and admins have option to select product status either as "),n("strong",null,"Draft"),e(" status or Active Status.")],-1),n("h2",{id:"future-publish-for-draft-products",tabindex:"-1"},[e("Future Publish for Draft Products "),n("a",{class:"header-anchor",href:"#future-publish-for-draft-products","aria-label":'Permalink to "Future Publish for Draft Products"'},"​")],-1),n("p",null,"We have added a new option for draft products that allows the admin and seller to set a future publish date.",-1),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
+          event.preventDefault();
+
+          const existing = document.getElementById('wk-image-overlay');
+          if(existing) existing.remove();
+
+          const overlay = document.createElement('div');
+          overlay.id = 'wk-image-overlay';
+
+          overlay.style.cssText = \`
+            position:fixed;
+            inset:0;
+            background:rgba(0,0,0,0.88);
+            display:flex;
+            align-items:center;
+            justify-content:center;
+            z-index:99999;
+            padding:20px;
+            cursor:zoom-out;
+            overflow:hidden;
+            backdrop-filter: blur(3px);
+          \`;
+
+          // 🔹 CLOSE BUTTON
+          const closeBtn = document.createElement('div');
+          closeBtn.innerHTML = '&times;';
+
+          closeBtn.style.cssText = \`
+            position:absolute;
+              top:20px;
+              right:25px;
+              background:#0c7484;
+              color:#fff;
+              width:50px;
+              height:50px;
+              border-radius:50%;
+              display:flex;
+              align-items:center;
+              justify-content:center;
+              font-size:32px;
+              font-weight:bold;
+              cursor:pointer;
+              z-index:100000;
+              line-height:1;
+              user-select:none;
+              box-shadow:0 4px 12px rgba(0,0,0,0.35);     
+          \`;
+
+          closeBtn.onclick = () => {
+            overlay.remove();
+          };
+
+          const img = document.createElement('img');
+          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/publ.webp";
+
+          img.style.cssText = \`
+            max-width:95%;
+            max-height:95%;
+            border-radius:12px;
+            transition:transform .15s ease;
+            cursor:zoom-in;
+            will-change:transform;
+            user-select:none;
+          \`;
+
+          let scale = 1;
+
+          // scroll zoom
+          overlay.onwheel = (e) => {
+            e.preventDefault();
+
+            scale += e.deltaY * -0.001;
+            scale = Math.min(Math.max(1, scale), 5);
+
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          // double click zoom
+          img.ondblclick = () => {
+            scale = scale === 1 ? 2 : 1;
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          overlay.appendChild(closeBtn);
+          overlay.appendChild(img);
+
+          document.body.appendChild(overlay);
+
+          // close overlay
+          overlay.onclick = (e) => {
+            if (e.target === overlay) {
+              overlay.remove();
+            }
+          };
+
+          // esc close
+          document.onkeydown = (e) => {
+            if (e.key === 'Escape') {
+              overlay.remove();
+            }
+          };
+        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/publ.webp",alt:"image",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+        const existing = document.getElementById('wk-image-overlay');
+        if(existing) existing.remove();
+
+        const overlay = document.createElement('div');
+        overlay.id = 'wk-image-overlay';
+
+        overlay.style.cssText = \`
+          position:fixed;
+          inset:0;
+          background:rgba(0,0,0,0.88);
+          display:flex;
+          align-items:center;
+          justify-content:center;
+          z-index:99999;
+          padding:20px;
+          cursor:zoom-out;
+          overflow:hidden;
+          backdrop-filter: blur(3px);
+        \`;
+
+        // 🔹 CLOSE BUTTON
+        const closeBtn = document.createElement('div');
+        closeBtn.innerHTML = '&times;';
+
+        closeBtn.style.cssText = \`
+          position:absolute;
+          top:20px;
+          right:25px;
+          color:#fff;
+          font-size:42px;
+          font-weight:bold;
+          cursor:pointer;
+          z-index:100000;
+          line-height:1;
+          user-select:none;
+        \`;
+
+        closeBtn.onclick = () => {
+          overlay.remove();
+        };
+
+        const img = document.createElement('img');
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/publ.webp";
+
+        img.style.cssText = \`
+          max-width:95%;
+          max-height:95%;
+          border-radius:12px;
+          transition:transform .15s ease;
+          cursor:zoom-in;
+          will-change:transform;
+          user-select:none;
+        \`;
+
+        let scale = 1;
+
+        // scroll zoom
+        overlay.onwheel = (e) => {
+          e.preventDefault();
+
+          scale += e.deltaY * -0.001;
+          scale = Math.min(Math.max(1, scale), 5);
+
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        // double click zoom
+        img.ondblclick = () => {
+          scale = scale === 1 ? 2 : 1;
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        overlay.appendChild(closeBtn);
+        overlay.appendChild(img);
+
+        document.body.appendChild(overlay);
+
+        // close overlay
+        overlay.onclick = (e) => {
+          if (e.target === overlay) {
+            overlay.remove();
+          }
+        };
+
+        // esc close
+        document.onkeydown = (e) => {
+          if (e.key === 'Escape') {
+            overlay.remove();
+          }
+        };
+      `})])],-1),n("p",null,"Once the date is set, the product status will change from Draft to Scheduled for Publish.",-1),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
+          event.preventDefault();
+
+          const existing = document.getElementById('wk-image-overlay');
+          if(existing) existing.remove();
+
+          const overlay = document.createElement('div');
+          overlay.id = 'wk-image-overlay';
+
+          overlay.style.cssText = \`
+            position:fixed;
+            inset:0;
+            background:rgba(0,0,0,0.88);
+            display:flex;
+            align-items:center;
+            justify-content:center;
+            z-index:99999;
+            padding:20px;
+            cursor:zoom-out;
+            overflow:hidden;
+            backdrop-filter: blur(3px);
+          \`;
+
+          // 🔹 CLOSE BUTTON
+          const closeBtn = document.createElement('div');
+          closeBtn.innerHTML = '&times;';
+
+          closeBtn.style.cssText = \`
+            position:absolute;
+              top:20px;
+              right:25px;
+              background:#0c7484;
+              color:#fff;
+              width:50px;
+              height:50px;
+              border-radius:50%;
+              display:flex;
+              align-items:center;
+              justify-content:center;
+              font-size:32px;
+              font-weight:bold;
+              cursor:pointer;
+              z-index:100000;
+              line-height:1;
+              user-select:none;
+              box-shadow:0 4px 12px rgba(0,0,0,0.35);     
+          \`;
+
+          closeBtn.onclick = () => {
+            overlay.remove();
+          };
+
+          const img = document.createElement('img');
+          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/pblishsch.webp";
+
+          img.style.cssText = \`
+            max-width:95%;
+            max-height:95%;
+            border-radius:12px;
+            transition:transform .15s ease;
+            cursor:zoom-in;
+            will-change:transform;
+            user-select:none;
+          \`;
+
+          let scale = 1;
+
+          // scroll zoom
+          overlay.onwheel = (e) => {
+            e.preventDefault();
+
+            scale += e.deltaY * -0.001;
+            scale = Math.min(Math.max(1, scale), 5);
+
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          // double click zoom
+          img.ondblclick = () => {
+            scale = scale === 1 ? 2 : 1;
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          overlay.appendChild(closeBtn);
+          overlay.appendChild(img);
+
+          document.body.appendChild(overlay);
+
+          // close overlay
+          overlay.onclick = (e) => {
+            if (e.target === overlay) {
+              overlay.remove();
+            }
+          };
+
+          // esc close
+          document.onkeydown = (e) => {
+            if (e.key === 'Escape') {
+              overlay.remove();
+            }
+          };
+        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/pblishsch.webp",alt:"image",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+        const existing = document.getElementById('wk-image-overlay');
+        if(existing) existing.remove();
+
+        const overlay = document.createElement('div');
+        overlay.id = 'wk-image-overlay';
+
+        overlay.style.cssText = \`
+          position:fixed;
+          inset:0;
+          background:rgba(0,0,0,0.88);
+          display:flex;
+          align-items:center;
+          justify-content:center;
+          z-index:99999;
+          padding:20px;
+          cursor:zoom-out;
+          overflow:hidden;
+          backdrop-filter: blur(3px);
+        \`;
+
+        // 🔹 CLOSE BUTTON
+        const closeBtn = document.createElement('div');
+        closeBtn.innerHTML = '&times;';
+
+        closeBtn.style.cssText = \`
+          position:absolute;
+          top:20px;
+          right:25px;
+          color:#fff;
+          font-size:42px;
+          font-weight:bold;
+          cursor:pointer;
+          z-index:100000;
+          line-height:1;
+          user-select:none;
+        \`;
+
+        closeBtn.onclick = () => {
+          overlay.remove();
+        };
+
+        const img = document.createElement('img');
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/pblishsch.webp";
+
+        img.style.cssText = \`
+          max-width:95%;
+          max-height:95%;
+          border-radius:12px;
+          transition:transform .15s ease;
+          cursor:zoom-in;
+          will-change:transform;
+          user-select:none;
+        \`;
+
+        let scale = 1;
+
+        // scroll zoom
+        overlay.onwheel = (e) => {
+          e.preventDefault();
+
+          scale += e.deltaY * -0.001;
+          scale = Math.min(Math.max(1, scale), 5);
+
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        // double click zoom
+        img.ondblclick = () => {
+          scale = scale === 1 ? 2 : 1;
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        overlay.appendChild(closeBtn);
+        overlay.appendChild(img);
+
+        document.body.appendChild(overlay);
+
+        // close overlay
+        overlay.onclick = (e) => {
+          if (e.target === overlay) {
+            overlay.remove();
+          }
+        };
+
+        // esc close
+        document.onkeydown = (e) => {
+          if (e.key === 'Escape') {
+            overlay.remove();
+          }
+        };
+      `})])],-1),n("p",null,"Further, once the scheduled date is reached, the product will be automatically published on the frontend.",-1),n("p",null,[e("Also, please note that the Publish Date field will appear for draft products only when the "),n("strong",null,"“Create Product as Draft on Shopify”"),e(" setting is enabled.")],-1),n("p",null,"You can do this by navigating to the Multivendor Admin Panel >> Configuration >> Product Configuration.",-1),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
+          event.preventDefault();
+
+          const existing = document.getElementById('wk-image-overlay');
+          if(existing) existing.remove();
+
+          const overlay = document.createElement('div');
+          overlay.id = 'wk-image-overlay';
+
+          overlay.style.cssText = \`
+            position:fixed;
+            inset:0;
+            background:rgba(0,0,0,0.88);
+            display:flex;
+            align-items:center;
+            justify-content:center;
+            z-index:99999;
+            padding:20px;
+            cursor:zoom-out;
+            overflow:hidden;
+            backdrop-filter: blur(3px);
+          \`;
+
+          // 🔹 CLOSE BUTTON
+          const closeBtn = document.createElement('div');
+          closeBtn.innerHTML = '&times;';
+
+          closeBtn.style.cssText = \`
+            position:absolute;
+              top:20px;
+              right:25px;
+              background:#0c7484;
+              color:#fff;
+              width:50px;
+              height:50px;
+              border-radius:50%;
+              display:flex;
+              align-items:center;
+              justify-content:center;
+              font-size:32px;
+              font-weight:bold;
+              cursor:pointer;
+              z-index:100000;
+              line-height:1;
+              user-select:none;
+              box-shadow:0 4px 12px rgba(0,0,0,0.35);     
+          \`;
+
+          closeBtn.onclick = () => {
+            overlay.remove();
+          };
+
+          const img = document.createElement('img');
+          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/draftt.webp";
+
+          img.style.cssText = \`
+            max-width:95%;
+            max-height:95%;
+            border-radius:12px;
+            transition:transform .15s ease;
+            cursor:zoom-in;
+            will-change:transform;
+            user-select:none;
+          \`;
+
+          let scale = 1;
+
+          // scroll zoom
+          overlay.onwheel = (e) => {
+            e.preventDefault();
+
+            scale += e.deltaY * -0.001;
+            scale = Math.min(Math.max(1, scale), 5);
+
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          // double click zoom
+          img.ondblclick = () => {
+            scale = scale === 1 ? 2 : 1;
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          overlay.appendChild(closeBtn);
+          overlay.appendChild(img);
+
+          document.body.appendChild(overlay);
+
+          // close overlay
+          overlay.onclick = (e) => {
+            if (e.target === overlay) {
+              overlay.remove();
+            }
+          };
+
+          // esc close
+          document.onkeydown = (e) => {
+            if (e.key === 'Escape') {
+              overlay.remove();
+            }
+          };
+        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/draftt.webp",alt:"image",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+        const existing = document.getElementById('wk-image-overlay');
+        if(existing) existing.remove();
+
+        const overlay = document.createElement('div');
+        overlay.id = 'wk-image-overlay';
+
+        overlay.style.cssText = \`
+          position:fixed;
+          inset:0;
+          background:rgba(0,0,0,0.88);
+          display:flex;
+          align-items:center;
+          justify-content:center;
+          z-index:99999;
+          padding:20px;
+          cursor:zoom-out;
+          overflow:hidden;
+          backdrop-filter: blur(3px);
+        \`;
+
+        // 🔹 CLOSE BUTTON
+        const closeBtn = document.createElement('div');
+        closeBtn.innerHTML = '&times;';
+
+        closeBtn.style.cssText = \`
+          position:absolute;
+          top:20px;
+          right:25px;
+          color:#fff;
+          font-size:42px;
+          font-weight:bold;
+          cursor:pointer;
+          z-index:100000;
+          line-height:1;
+          user-select:none;
+        \`;
+
+        closeBtn.onclick = () => {
+          overlay.remove();
+        };
+
+        const img = document.createElement('img');
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/draftt.webp";
+
+        img.style.cssText = \`
+          max-width:95%;
+          max-height:95%;
+          border-radius:12px;
+          transition:transform .15s ease;
+          cursor:zoom-in;
+          will-change:transform;
+          user-select:none;
+        \`;
+
+        let scale = 1;
+
+        // scroll zoom
+        overlay.onwheel = (e) => {
+          e.preventDefault();
+
+          scale += e.deltaY * -0.001;
+          scale = Math.min(Math.max(1, scale), 5);
+
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        // double click zoom
+        img.ondblclick = () => {
+          scale = scale === 1 ? 2 : 1;
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        overlay.appendChild(closeBtn);
+        overlay.appendChild(img);
+
+        document.body.appendChild(overlay);
+
+        // close overlay
+        overlay.onclick = (e) => {
+          if (e.target === overlay) {
+            overlay.remove();
+          }
+        };
+
+        // esc close
+        document.onkeydown = (e) => {
+          if (e.key === 'Escape') {
+            overlay.remove();
+          }
+        };
+      `})])],-1),o("",5),n("p",null,[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2026/10/draftproduct.webp",alt:"Change Active Product to Draft",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+        const existing = document.getElementById('wk-image-overlay');
+        if(existing) existing.remove();
+
+        const overlay = document.createElement('div');
+        overlay.id = 'wk-image-overlay';
+
+        overlay.style.cssText = \`
+          position:fixed;
+          inset:0;
+          background:rgba(0,0,0,0.88);
+          display:flex;
+          align-items:center;
+          justify-content:center;
+          z-index:99999;
+          padding:20px;
+          cursor:zoom-out;
+          overflow:hidden;
+          backdrop-filter: blur(3px);
+        \`;
+
+        // 🔹 CLOSE BUTTON
+        const closeBtn = document.createElement('div');
+        closeBtn.innerHTML = '&times;';
+
+        closeBtn.style.cssText = \`
+          position:absolute;
+          top:20px;
+          right:25px;
+          color:#fff;
+          font-size:42px;
+          font-weight:bold;
+          cursor:pointer;
+          z-index:100000;
+          line-height:1;
+          user-select:none;
+        \`;
+
+        closeBtn.onclick = () => {
+          overlay.remove();
+        };
+
+        const img = document.createElement('img');
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2026/10/draftproduct.webp";
+
+        img.style.cssText = \`
+          max-width:95%;
+          max-height:95%;
+          border-radius:12px;
+          transition:transform .15s ease;
+          cursor:zoom-in;
+          will-change:transform;
+          user-select:none;
+        \`;
+
+        let scale = 1;
+
+        // scroll zoom
+        overlay.onwheel = (e) => {
+          e.preventDefault();
+
+          scale += e.deltaY * -0.001;
+          scale = Math.min(Math.max(1, scale), 5);
+
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        // double click zoom
+        img.ondblclick = () => {
+          scale = scale === 1 ? 2 : 1;
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        overlay.appendChild(closeBtn);
+        overlay.appendChild(img);
+
+        document.body.appendChild(overlay);
+
+        // close overlay
+        overlay.onclick = (e) => {
+          if (e.target === overlay) {
+            overlay.remove();
+          }
+        };
+
+        // esc close
+        document.onkeydown = (e) => {
+          if (e.key === 'Escape') {
+            overlay.remove();
+          }
+        };
+      `})],-1),n("p",null,[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2026/10/draftstatus.webp",alt:"Draft Product Configuration",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+        const existing = document.getElementById('wk-image-overlay');
+        if(existing) existing.remove();
+
+        const overlay = document.createElement('div');
+        overlay.id = 'wk-image-overlay';
+
+        overlay.style.cssText = \`
+          position:fixed;
+          inset:0;
+          background:rgba(0,0,0,0.88);
+          display:flex;
+          align-items:center;
+          justify-content:center;
+          z-index:99999;
+          padding:20px;
+          cursor:zoom-out;
+          overflow:hidden;
+          backdrop-filter: blur(3px);
+        \`;
+
+        // 🔹 CLOSE BUTTON
+        const closeBtn = document.createElement('div');
+        closeBtn.innerHTML = '&times;';
+
+        closeBtn.style.cssText = \`
+          position:absolute;
+          top:20px;
+          right:25px;
+          color:#fff;
+          font-size:42px;
+          font-weight:bold;
+          cursor:pointer;
+          z-index:100000;
+          line-height:1;
+          user-select:none;
+        \`;
+
+        closeBtn.onclick = () => {
+          overlay.remove();
+        };
+
+        const img = document.createElement('img');
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2026/10/draftstatus.webp";
+
+        img.style.cssText = \`
+          max-width:95%;
+          max-height:95%;
+          border-radius:12px;
+          transition:transform .15s ease;
+          cursor:zoom-in;
+          will-change:transform;
+          user-select:none;
+        \`;
+
+        let scale = 1;
+
+        // scroll zoom
+        overlay.onwheel = (e) => {
+          e.preventDefault();
+
+          scale += e.deltaY * -0.001;
+          scale = Math.min(Math.max(1, scale), 5);
+
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        // double click zoom
+        img.ondblclick = () => {
+          scale = scale === 1 ? 2 : 1;
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        overlay.appendChild(closeBtn);
+        overlay.appendChild(img);
+
+        document.body.appendChild(overlay);
+
+        // close overlay
+        overlay.onclick = (e) => {
+          if (e.target === overlay) {
+            overlay.remove();
+          }
+        };
+
+        // esc close
+        document.onkeydown = (e) => {
+          if (e.key === 'Escape') {
+            overlay.remove();
+          }
+        };
+      `})],-1),n("h2",{id:"shopify-taxonomy-category-added-to-the-product-form",tabindex:"-1"},[n("strong",null,"Shopify Taxonomy category added to the product form"),e(),n("a",{class:"header-anchor",href:"#shopify-taxonomy-category-added-to-the-product-form","aria-label":'Permalink to "**Shopify Taxonomy category added to the product form**"'},"​")],-1),n("p",null,"We've added a new option to the Product form: Shopify Taxonomy Category, making product categorization easier and more accurate.",-1),n("p",null,"To display this field in the product form, the Admin can enable the Product taxonomy category config.",-1),n("p",null,[e("To enable, go to Multivendor Admin Panel > Configuration > Product Configuration, and enable the "),n("strong",null,"Product Taxonomy Category"),e(" config.")],-1),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
+          event.preventDefault();
+
+          const existing = document.getElementById('wk-image-overlay');
+          if(existing) existing.remove();
+
+          const overlay = document.createElement('div');
+          overlay.id = 'wk-image-overlay';
+
+          overlay.style.cssText = \`
+            position:fixed;
+            inset:0;
+            background:rgba(0,0,0,0.88);
+            display:flex;
+            align-items:center;
+            justify-content:center;
+            z-index:99999;
+            padding:20px;
+            cursor:zoom-out;
+            overflow:hidden;
+            backdrop-filter: blur(3px);
+          \`;
+
+          // 🔹 CLOSE BUTTON
+          const closeBtn = document.createElement('div');
+          closeBtn.innerHTML = '&times;';
+
+          closeBtn.style.cssText = \`
+            position:absolute;
+              top:20px;
+              right:25px;
+              background:#0c7484;
+              color:#fff;
+              width:50px;
+              height:50px;
+              border-radius:50%;
+              display:flex;
+              align-items:center;
+              justify-content:center;
+              font-size:32px;
+              font-weight:bold;
+              cursor:pointer;
+              z-index:100000;
+              line-height:1;
+              user-select:none;
+              box-shadow:0 4px 12px rgba(0,0,0,0.35);     
+          \`;
+
+          closeBtn.onclick = () => {
+            overlay.remove();
+          };
+
+          const img = document.createElement('img');
+          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/producttaxconfig.webp";
+
+          img.style.cssText = \`
+            max-width:95%;
+            max-height:95%;
+            border-radius:12px;
+            transition:transform .15s ease;
+            cursor:zoom-in;
+            will-change:transform;
+            user-select:none;
+          \`;
+
+          let scale = 1;
+
+          // scroll zoom
+          overlay.onwheel = (e) => {
+            e.preventDefault();
+
+            scale += e.deltaY * -0.001;
+            scale = Math.min(Math.max(1, scale), 5);
+
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          // double click zoom
+          img.ondblclick = () => {
+            scale = scale === 1 ? 2 : 1;
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          overlay.appendChild(closeBtn);
+          overlay.appendChild(img);
+
+          document.body.appendChild(overlay);
+
+          // close overlay
+          overlay.onclick = (e) => {
+            if (e.target === overlay) {
+              overlay.remove();
+            }
+          };
+
+          // esc close
+          document.onkeydown = (e) => {
+            if (e.key === 'Escape') {
+              overlay.remove();
+            }
+          };
+        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/producttaxconfig.webp",alt:"Product configuration",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+        const existing = document.getElementById('wk-image-overlay');
+        if(existing) existing.remove();
+
+        const overlay = document.createElement('div');
+        overlay.id = 'wk-image-overlay';
+
+        overlay.style.cssText = \`
+          position:fixed;
+          inset:0;
+          background:rgba(0,0,0,0.88);
+          display:flex;
+          align-items:center;
+          justify-content:center;
+          z-index:99999;
+          padding:20px;
+          cursor:zoom-out;
+          overflow:hidden;
+          backdrop-filter: blur(3px);
+        \`;
+
+        // 🔹 CLOSE BUTTON
+        const closeBtn = document.createElement('div');
+        closeBtn.innerHTML = '&times;';
+
+        closeBtn.style.cssText = \`
+          position:absolute;
+          top:20px;
+          right:25px;
+          color:#fff;
+          font-size:42px;
+          font-weight:bold;
+          cursor:pointer;
+          z-index:100000;
+          line-height:1;
+          user-select:none;
+        \`;
+
+        closeBtn.onclick = () => {
+          overlay.remove();
+        };
+
+        const img = document.createElement('img');
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/producttaxconfig.webp";
+
+        img.style.cssText = \`
+          max-width:95%;
+          max-height:95%;
+          border-radius:12px;
+          transition:transform .15s ease;
+          cursor:zoom-in;
+          will-change:transform;
+          user-select:none;
+        \`;
+
+        let scale = 1;
+
+        // scroll zoom
+        overlay.onwheel = (e) => {
+          e.preventDefault();
+
+          scale += e.deltaY * -0.001;
+          scale = Math.min(Math.max(1, scale), 5);
+
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        // double click zoom
+        img.ondblclick = () => {
+          scale = scale === 1 ? 2 : 1;
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        overlay.appendChild(closeBtn);
+        overlay.appendChild(img);
+
+        document.body.appendChild(overlay);
+
+        // close overlay
+        overlay.onclick = (e) => {
+          if (e.target === overlay) {
+            overlay.remove();
+          }
+        };
+
+        // esc close
+        document.onkeydown = (e) => {
+          if (e.key === 'Escape') {
+            overlay.remove();
+          }
+        };
+      `})])],-1),n("p",null,[e("Then, go to the "),n("strong",null,"Product Form Customization"),e(" section and make sure the "),n("strong",null,"Product Taxonomy Category"),e(" field is marked as visible.")],-1),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
+          event.preventDefault();
+
+          const existing = document.getElementById('wk-image-overlay');
+          if(existing) existing.remove();
+
+          const overlay = document.createElement('div');
+          overlay.id = 'wk-image-overlay';
+
+          overlay.style.cssText = \`
+            position:fixed;
+            inset:0;
+            background:rgba(0,0,0,0.88);
+            display:flex;
+            align-items:center;
+            justify-content:center;
+            z-index:99999;
+            padding:20px;
+            cursor:zoom-out;
+            overflow:hidden;
+            backdrop-filter: blur(3px);
+          \`;
+
+          // 🔹 CLOSE BUTTON
+          const closeBtn = document.createElement('div');
+          closeBtn.innerHTML = '&times;';
+
+          closeBtn.style.cssText = \`
+            position:absolute;
+              top:20px;
+              right:25px;
+              background:#0c7484;
+              color:#fff;
+              width:50px;
+              height:50px;
+              border-radius:50%;
+              display:flex;
+              align-items:center;
+              justify-content:center;
+              font-size:32px;
+              font-weight:bold;
+              cursor:pointer;
+              z-index:100000;
+              line-height:1;
+              user-select:none;
+              box-shadow:0 4px 12px rgba(0,0,0,0.35);     
+          \`;
+
+          closeBtn.onclick = () => {
+            overlay.remove();
+          };
+
+          const img = document.createElement('img');
+          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/productformtax.webp";
+
+          img.style.cssText = \`
+            max-width:95%;
+            max-height:95%;
+            border-radius:12px;
+            transition:transform .15s ease;
+            cursor:zoom-in;
+            will-change:transform;
+            user-select:none;
+          \`;
+
+          let scale = 1;
+
+          // scroll zoom
+          overlay.onwheel = (e) => {
+            e.preventDefault();
+
+            scale += e.deltaY * -0.001;
+            scale = Math.min(Math.max(1, scale), 5);
+
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          // double click zoom
+          img.ondblclick = () => {
+            scale = scale === 1 ? 2 : 1;
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          overlay.appendChild(closeBtn);
+          overlay.appendChild(img);
+
+          document.body.appendChild(overlay);
+
+          // close overlay
+          overlay.onclick = (e) => {
+            if (e.target === overlay) {
+              overlay.remove();
+            }
+          };
+
+          // esc close
+          document.onkeydown = (e) => {
+            if (e.key === 'Escape') {
+              overlay.remove();
+            }
+          };
+        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/productformtax.webp",alt:"Product form Customisation",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+        const existing = document.getElementById('wk-image-overlay');
+        if(existing) existing.remove();
+
+        const overlay = document.createElement('div');
+        overlay.id = 'wk-image-overlay';
+
+        overlay.style.cssText = \`
+          position:fixed;
+          inset:0;
+          background:rgba(0,0,0,0.88);
+          display:flex;
+          align-items:center;
+          justify-content:center;
+          z-index:99999;
+          padding:20px;
+          cursor:zoom-out;
+          overflow:hidden;
+          backdrop-filter: blur(3px);
+        \`;
+
+        // 🔹 CLOSE BUTTON
+        const closeBtn = document.createElement('div');
+        closeBtn.innerHTML = '&times;';
+
+        closeBtn.style.cssText = \`
+          position:absolute;
+          top:20px;
+          right:25px;
+          color:#fff;
+          font-size:42px;
+          font-weight:bold;
+          cursor:pointer;
+          z-index:100000;
+          line-height:1;
+          user-select:none;
+        \`;
+
+        closeBtn.onclick = () => {
+          overlay.remove();
+        };
+
+        const img = document.createElement('img');
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/productformtax.webp";
+
+        img.style.cssText = \`
+          max-width:95%;
+          max-height:95%;
+          border-radius:12px;
+          transition:transform .15s ease;
+          cursor:zoom-in;
+          will-change:transform;
+          user-select:none;
+        \`;
+
+        let scale = 1;
+
+        // scroll zoom
+        overlay.onwheel = (e) => {
+          e.preventDefault();
+
+          scale += e.deltaY * -0.001;
+          scale = Math.min(Math.max(1, scale), 5);
+
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        // double click zoom
+        img.ondblclick = () => {
+          scale = scale === 1 ? 2 : 1;
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        overlay.appendChild(closeBtn);
+        overlay.appendChild(img);
+
+        document.body.appendChild(overlay);
+
+        // close overlay
+        overlay.onclick = (e) => {
+          if (e.target === overlay) {
+            overlay.remove();
+          }
+        };
+
+        // esc close
+        document.onkeydown = (e) => {
+          if (e.key === 'Escape') {
+            overlay.remove();
+          }
+        };
+      `})])],-1),n("p",null,"Once these steps are completed, the field will appear in the product form.",-1),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
+          event.preventDefault();
+
+          const existing = document.getElementById('wk-image-overlay');
+          if(existing) existing.remove();
+
+          const overlay = document.createElement('div');
+          overlay.id = 'wk-image-overlay';
+
+          overlay.style.cssText = \`
+            position:fixed;
+            inset:0;
+            background:rgba(0,0,0,0.88);
+            display:flex;
+            align-items:center;
+            justify-content:center;
+            z-index:99999;
+            padding:20px;
+            cursor:zoom-out;
+            overflow:hidden;
+            backdrop-filter: blur(3px);
+          \`;
+
+          // 🔹 CLOSE BUTTON
+          const closeBtn = document.createElement('div');
+          closeBtn.innerHTML = '&times;';
+
+          closeBtn.style.cssText = \`
+            position:absolute;
+              top:20px;
+              right:25px;
+              background:#0c7484;
+              color:#fff;
+              width:50px;
+              height:50px;
+              border-radius:50%;
+              display:flex;
+              align-items:center;
+              justify-content:center;
+              font-size:32px;
+              font-weight:bold;
+              cursor:pointer;
+              z-index:100000;
+              line-height:1;
+              user-select:none;
+              box-shadow:0 4px 12px rgba(0,0,0,0.35);     
+          \`;
+
+          closeBtn.onclick = () => {
+            overlay.remove();
+          };
+
+          const img = document.createElement('img');
+          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/productlistingtax-scaled.webp";
+
+          img.style.cssText = \`
+            max-width:95%;
+            max-height:95%;
+            border-radius:12px;
+            transition:transform .15s ease;
+            cursor:zoom-in;
+            will-change:transform;
+            user-select:none;
+          \`;
+
+          let scale = 1;
+
+          // scroll zoom
+          overlay.onwheel = (e) => {
+            e.preventDefault();
+
+            scale += e.deltaY * -0.001;
+            scale = Math.min(Math.max(1, scale), 5);
+
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          // double click zoom
+          img.ondblclick = () => {
+            scale = scale === 1 ? 2 : 1;
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          overlay.appendChild(closeBtn);
+          overlay.appendChild(img);
+
+          document.body.appendChild(overlay);
+
+          // close overlay
+          overlay.onclick = (e) => {
+            if (e.target === overlay) {
+              overlay.remove();
+            }
+          };
+
+          // esc close
+          document.onkeydown = (e) => {
+            if (e.key === 'Escape') {
+              overlay.remove();
+            }
+          };
+        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/productlistingtax-scaled.webp",alt:"Product category",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+        const existing = document.getElementById('wk-image-overlay');
+        if(existing) existing.remove();
+
+        const overlay = document.createElement('div');
+        overlay.id = 'wk-image-overlay';
+
+        overlay.style.cssText = \`
+          position:fixed;
+          inset:0;
+          background:rgba(0,0,0,0.88);
+          display:flex;
+          align-items:center;
+          justify-content:center;
+          z-index:99999;
+          padding:20px;
+          cursor:zoom-out;
+          overflow:hidden;
+          backdrop-filter: blur(3px);
+        \`;
+
+        // 🔹 CLOSE BUTTON
+        const closeBtn = document.createElement('div');
+        closeBtn.innerHTML = '&times;';
+
+        closeBtn.style.cssText = \`
+          position:absolute;
+          top:20px;
+          right:25px;
+          color:#fff;
+          font-size:42px;
+          font-weight:bold;
+          cursor:pointer;
+          z-index:100000;
+          line-height:1;
+          user-select:none;
+        \`;
+
+        closeBtn.onclick = () => {
+          overlay.remove();
+        };
+
+        const img = document.createElement('img');
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/productlistingtax-scaled.webp";
+
+        img.style.cssText = \`
+          max-width:95%;
+          max-height:95%;
+          border-radius:12px;
+          transition:transform .15s ease;
+          cursor:zoom-in;
+          will-change:transform;
+          user-select:none;
+        \`;
+
+        let scale = 1;
+
+        // scroll zoom
+        overlay.onwheel = (e) => {
+          e.preventDefault();
+
+          scale += e.deltaY * -0.001;
+          scale = Math.min(Math.max(1, scale), 5);
+
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        // double click zoom
+        img.ondblclick = () => {
+          scale = scale === 1 ? 2 : 1;
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        overlay.appendChild(closeBtn);
+        overlay.appendChild(img);
+
+        document.body.appendChild(overlay);
+
+        // close overlay
+        overlay.onclick = (e) => {
+          if (e.target === overlay) {
+            overlay.remove();
+          }
+        };
+
+        // esc close
+        document.onkeydown = (e) => {
+          if (e.key === 'Escape') {
+            overlay.remove();
+          }
+        };
+      `})])],-1),n("p",null,[e("Additionally, this option has been added to "),n("strong",null,"Dual Sync"),e(".")],-1),n("p",null,[e("If the admin wants to sync product categories from "),n("strong",null,"Shopify to Multivendor"),e(", they can go to the "),n("strong",null,"Dual Sync"),e(" section and select "),n("strong",null,"Product Taxonomy Category"),e(" for syncing.")],-1),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
+          event.preventDefault();
+
+          const existing = document.getElementById('wk-image-overlay');
+          if(existing) existing.remove();
+
+          const overlay = document.createElement('div');
+          overlay.id = 'wk-image-overlay';
+
+          overlay.style.cssText = \`
+            position:fixed;
+            inset:0;
+            background:rgba(0,0,0,0.88);
+            display:flex;
+            align-items:center;
+            justify-content:center;
+            z-index:99999;
+            padding:20px;
+            cursor:zoom-out;
+            overflow:hidden;
+            backdrop-filter: blur(3px);
+          \`;
+
+          // 🔹 CLOSE BUTTON
+          const closeBtn = document.createElement('div');
+          closeBtn.innerHTML = '&times;';
+
+          closeBtn.style.cssText = \`
+            position:absolute;
+              top:20px;
+              right:25px;
+              background:#0c7484;
+              color:#fff;
+              width:50px;
+              height:50px;
+              border-radius:50%;
+              display:flex;
+              align-items:center;
+              justify-content:center;
+              font-size:32px;
+              font-weight:bold;
+              cursor:pointer;
+              z-index:100000;
+              line-height:1;
+              user-select:none;
+              box-shadow:0 4px 12px rgba(0,0,0,0.35);     
+          \`;
+
+          closeBtn.onclick = () => {
+            overlay.remove();
+          };
+
+          const img = document.createElement('img');
+          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/dualsyncproducttax.webp";
+
+          img.style.cssText = \`
+            max-width:95%;
+            max-height:95%;
+            border-radius:12px;
+            transition:transform .15s ease;
+            cursor:zoom-in;
+            will-change:transform;
+            user-select:none;
+          \`;
+
+          let scale = 1;
+
+          // scroll zoom
+          overlay.onwheel = (e) => {
+            e.preventDefault();
+
+            scale += e.deltaY * -0.001;
+            scale = Math.min(Math.max(1, scale), 5);
+
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          // double click zoom
+          img.ondblclick = () => {
+            scale = scale === 1 ? 2 : 1;
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          overlay.appendChild(closeBtn);
+          overlay.appendChild(img);
+
+          document.body.appendChild(overlay);
+
+          // close overlay
+          overlay.onclick = (e) => {
+            if (e.target === overlay) {
+              overlay.remove();
+            }
+          };
+
+          // esc close
+          document.onkeydown = (e) => {
+            if (e.key === 'Escape') {
+              overlay.remove();
+            }
+          };
+        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/dualsyncproducttax.webp",alt:"Dual sync",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+        const existing = document.getElementById('wk-image-overlay');
+        if(existing) existing.remove();
+
+        const overlay = document.createElement('div');
+        overlay.id = 'wk-image-overlay';
+
+        overlay.style.cssText = \`
+          position:fixed;
+          inset:0;
+          background:rgba(0,0,0,0.88);
+          display:flex;
+          align-items:center;
+          justify-content:center;
+          z-index:99999;
+          padding:20px;
+          cursor:zoom-out;
+          overflow:hidden;
+          backdrop-filter: blur(3px);
+        \`;
+
+        // 🔹 CLOSE BUTTON
+        const closeBtn = document.createElement('div');
+        closeBtn.innerHTML = '&times;';
+
+        closeBtn.style.cssText = \`
+          position:absolute;
+          top:20px;
+          right:25px;
+          color:#fff;
+          font-size:42px;
+          font-weight:bold;
+          cursor:pointer;
+          z-index:100000;
+          line-height:1;
+          user-select:none;
+        \`;
+
+        closeBtn.onclick = () => {
+          overlay.remove();
+        };
+
+        const img = document.createElement('img');
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/dualsyncproducttax.webp";
+
+        img.style.cssText = \`
+          max-width:95%;
+          max-height:95%;
+          border-radius:12px;
+          transition:transform .15s ease;
+          cursor:zoom-in;
+          will-change:transform;
+          user-select:none;
+        \`;
+
+        let scale = 1;
+
+        // scroll zoom
+        overlay.onwheel = (e) => {
+          e.preventDefault();
+
+          scale += e.deltaY * -0.001;
+          scale = Math.min(Math.max(1, scale), 5);
+
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        // double click zoom
+        img.ondblclick = () => {
+          scale = scale === 1 ? 2 : 1;
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        overlay.appendChild(closeBtn);
+        overlay.appendChild(img);
+
+        document.body.appendChild(overlay);
+
+        // close overlay
+        overlay.onclick = (e) => {
+          if (e.target === overlay) {
+            overlay.remove();
+          }
+        };
+
+        // esc close
+        document.onkeydown = (e) => {
+          if (e.key === 'Escape') {
+            overlay.remove();
+          }
+        };
+      `})])],-1),n("h2",{id:"separate-filters-filter-by-search-by-at-product-listing",tabindex:"-1"},[n("strong",null,'Separate filters "Filter By" & "Search By" at Product Listing'),e(),n("a",{class:"header-anchor",href:"#separate-filters-filter-by-search-by-at-product-listing","aria-label":'Permalink to "**Separate filters "Filter By" & "Search By" at Product Listing**"'},"​")],-1),n("p",null,"We’ve enhanced the product listing page by adding more specific filter options for admins and sellers. These new filters make it easier to manage and organize products efficiently.",-1),n("p",null,"Admins and sellers can now filter products by status, such as Global Product, Approved, Approval Pending, and more, using the available filters.",-1),n("p",null,"Additionally, they can perform a specific search using the 'Search by' option simultaneously.",-1),n("p",null,"Both the filter and search functionalities also work independently.",-1),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
+          event.preventDefault();
+
+          const existing = document.getElementById('wk-image-overlay');
+          if(existing) existing.remove();
+
+          const overlay = document.createElement('div');
+          overlay.id = 'wk-image-overlay';
+
+          overlay.style.cssText = \`
+            position:fixed;
+            inset:0;
+            background:rgba(0,0,0,0.88);
+            display:flex;
+            align-items:center;
+            justify-content:center;
+            z-index:99999;
+            padding:20px;
+            cursor:zoom-out;
+            overflow:hidden;
+            backdrop-filter: blur(3px);
+          \`;
+
+          // 🔹 CLOSE BUTTON
+          const closeBtn = document.createElement('div');
+          closeBtn.innerHTML = '&times;';
+
+          closeBtn.style.cssText = \`
+            position:absolute;
+              top:20px;
+              right:25px;
+              background:#0c7484;
+              color:#fff;
+              width:50px;
+              height:50px;
+              border-radius:50%;
+              display:flex;
+              align-items:center;
+              justify-content:center;
+              font-size:32px;
+              font-weight:bold;
+              cursor:pointer;
+              z-index:100000;
+              line-height:1;
+              user-select:none;
+              box-shadow:0 4px 12px rgba(0,0,0,0.35);     
+          \`;
+
+          closeBtn.onclick = () => {
+            overlay.remove();
+          };
+
+          const img = document.createElement('img');
+          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/productlistingfilter-scaled.webp";
+
+          img.style.cssText = \`
+            max-width:95%;
+            max-height:95%;
+            border-radius:12px;
+            transition:transform .15s ease;
+            cursor:zoom-in;
+            will-change:transform;
+            user-select:none;
+          \`;
+
+          let scale = 1;
+
+          // scroll zoom
+          overlay.onwheel = (e) => {
+            e.preventDefault();
+
+            scale += e.deltaY * -0.001;
+            scale = Math.min(Math.max(1, scale), 5);
+
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          // double click zoom
+          img.ondblclick = () => {
+            scale = scale === 1 ? 2 : 1;
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          overlay.appendChild(closeBtn);
+          overlay.appendChild(img);
+
+          document.body.appendChild(overlay);
+
+          // close overlay
+          overlay.onclick = (e) => {
+            if (e.target === overlay) {
+              overlay.remove();
+            }
+          };
+
+          // esc close
+          document.onkeydown = (e) => {
+            if (e.key === 'Escape') {
+              overlay.remove();
+            }
+          };
+        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/productlistingfilter-scaled.webp",alt:"filter by",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+        const existing = document.getElementById('wk-image-overlay');
+        if(existing) existing.remove();
+
+        const overlay = document.createElement('div');
+        overlay.id = 'wk-image-overlay';
+
+        overlay.style.cssText = \`
+          position:fixed;
+          inset:0;
+          background:rgba(0,0,0,0.88);
+          display:flex;
+          align-items:center;
+          justify-content:center;
+          z-index:99999;
+          padding:20px;
+          cursor:zoom-out;
+          overflow:hidden;
+          backdrop-filter: blur(3px);
+        \`;
+
+        // 🔹 CLOSE BUTTON
+        const closeBtn = document.createElement('div');
+        closeBtn.innerHTML = '&times;';
+
+        closeBtn.style.cssText = \`
+          position:absolute;
+          top:20px;
+          right:25px;
+          color:#fff;
+          font-size:42px;
+          font-weight:bold;
+          cursor:pointer;
+          z-index:100000;
+          line-height:1;
+          user-select:none;
+        \`;
+
+        closeBtn.onclick = () => {
+          overlay.remove();
+        };
+
+        const img = document.createElement('img');
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/productlistingfilter-scaled.webp";
+
+        img.style.cssText = \`
+          max-width:95%;
+          max-height:95%;
+          border-radius:12px;
+          transition:transform .15s ease;
+          cursor:zoom-in;
+          will-change:transform;
+          user-select:none;
+        \`;
+
+        let scale = 1;
+
+        // scroll zoom
+        overlay.onwheel = (e) => {
+          e.preventDefault();
+
+          scale += e.deltaY * -0.001;
+          scale = Math.min(Math.max(1, scale), 5);
+
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        // double click zoom
+        img.ondblclick = () => {
+          scale = scale === 1 ? 2 : 1;
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        overlay.appendChild(closeBtn);
+        overlay.appendChild(img);
+
+        document.body.appendChild(overlay);
+
+        // close overlay
+        overlay.onclick = (e) => {
+          if (e.target === overlay) {
+            overlay.remove();
+          }
+        };
+
+        // esc close
+        document.onkeydown = (e) => {
+          if (e.key === 'Escape') {
+            overlay.remove();
+          }
+        };
+      `})])],-1),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
+          event.preventDefault();
+
+          const existing = document.getElementById('wk-image-overlay');
+          if(existing) existing.remove();
+
+          const overlay = document.createElement('div');
+          overlay.id = 'wk-image-overlay';
+
+          overlay.style.cssText = \`
+            position:fixed;
+            inset:0;
+            background:rgba(0,0,0,0.88);
+            display:flex;
+            align-items:center;
+            justify-content:center;
+            z-index:99999;
+            padding:20px;
+            cursor:zoom-out;
+            overflow:hidden;
+            backdrop-filter: blur(3px);
+          \`;
+
+          // 🔹 CLOSE BUTTON
+          const closeBtn = document.createElement('div');
+          closeBtn.innerHTML = '&times;';
+
+          closeBtn.style.cssText = \`
+            position:absolute;
+              top:20px;
+              right:25px;
+              background:#0c7484;
+              color:#fff;
+              width:50px;
+              height:50px;
+              border-radius:50%;
+              display:flex;
+              align-items:center;
+              justify-content:center;
+              font-size:32px;
+              font-weight:bold;
+              cursor:pointer;
+              z-index:100000;
+              line-height:1;
+              user-select:none;
+              box-shadow:0 4px 12px rgba(0,0,0,0.35);     
+          \`;
+
+          closeBtn.onclick = () => {
+            overlay.remove();
+          };
+
+          const img = document.createElement('img');
+          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/productlistingfiltertwo-scaled.webp";
+
+          img.style.cssText = \`
+            max-width:95%;
+            max-height:95%;
+            border-radius:12px;
+            transition:transform .15s ease;
+            cursor:zoom-in;
+            will-change:transform;
+            user-select:none;
+          \`;
+
+          let scale = 1;
+
+          // scroll zoom
+          overlay.onwheel = (e) => {
+            e.preventDefault();
+
+            scale += e.deltaY * -0.001;
+            scale = Math.min(Math.max(1, scale), 5);
+
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          // double click zoom
+          img.ondblclick = () => {
+            scale = scale === 1 ? 2 : 1;
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          overlay.appendChild(closeBtn);
+          overlay.appendChild(img);
+
+          document.body.appendChild(overlay);
+
+          // close overlay
+          overlay.onclick = (e) => {
+            if (e.target === overlay) {
+              overlay.remove();
+            }
+          };
+
+          // esc close
+          document.onkeydown = (e) => {
+            if (e.key === 'Escape') {
+              overlay.remove();
+            }
+          };
+        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/productlistingfiltertwo-scaled.webp",alt:"search by",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+        const existing = document.getElementById('wk-image-overlay');
+        if(existing) existing.remove();
+
+        const overlay = document.createElement('div');
+        overlay.id = 'wk-image-overlay';
+
+        overlay.style.cssText = \`
+          position:fixed;
+          inset:0;
+          background:rgba(0,0,0,0.88);
+          display:flex;
+          align-items:center;
+          justify-content:center;
+          z-index:99999;
+          padding:20px;
+          cursor:zoom-out;
+          overflow:hidden;
+          backdrop-filter: blur(3px);
+        \`;
+
+        // 🔹 CLOSE BUTTON
+        const closeBtn = document.createElement('div');
+        closeBtn.innerHTML = '&times;';
+
+        closeBtn.style.cssText = \`
+          position:absolute;
+          top:20px;
+          right:25px;
+          color:#fff;
+          font-size:42px;
+          font-weight:bold;
+          cursor:pointer;
+          z-index:100000;
+          line-height:1;
+          user-select:none;
+        \`;
+
+        closeBtn.onclick = () => {
+          overlay.remove();
+        };
+
+        const img = document.createElement('img');
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/productlistingfiltertwo-scaled.webp";
+
+        img.style.cssText = \`
+          max-width:95%;
+          max-height:95%;
+          border-radius:12px;
+          transition:transform .15s ease;
+          cursor:zoom-in;
+          will-change:transform;
+          user-select:none;
+        \`;
+
+        let scale = 1;
+
+        // scroll zoom
+        overlay.onwheel = (e) => {
+          e.preventDefault();
+
+          scale += e.deltaY * -0.001;
+          scale = Math.min(Math.max(1, scale), 5);
+
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        // double click zoom
+        img.ondblclick = () => {
+          scale = scale === 1 ? 2 : 1;
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        overlay.appendChild(closeBtn);
+        overlay.appendChild(img);
+
+        document.body.appendChild(overlay);
+
+        // close overlay
+        overlay.onclick = (e) => {
+          if (e.target === overlay) {
+            overlay.remove();
+          }
+        };
+
+        // esc close
+        document.onkeydown = (e) => {
+          if (e.key === 'Escape') {
+            overlay.remove();
+          }
+        };
+      `})])],-1),o("",7),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
+          event.preventDefault();
+
+          const existing = document.getElementById('wk-image-overlay');
+          if(existing) existing.remove();
+
+          const overlay = document.createElement('div');
+          overlay.id = 'wk-image-overlay';
+
+          overlay.style.cssText = \`
+            position:fixed;
+            inset:0;
+            background:rgba(0,0,0,0.88);
+            display:flex;
+            align-items:center;
+            justify-content:center;
+            z-index:99999;
+            padding:20px;
+            cursor:zoom-out;
+            overflow:hidden;
+            backdrop-filter: blur(3px);
+          \`;
+
+          // 🔹 CLOSE BUTTON
+          const closeBtn = document.createElement('div');
+          closeBtn.innerHTML = '&times;';
+
+          closeBtn.style.cssText = \`
+            position:absolute;
+              top:20px;
+              right:25px;
+              background:#0c7484;
+              color:#fff;
+              width:50px;
+              height:50px;
+              border-radius:50%;
+              display:flex;
+              align-items:center;
+              justify-content:center;
+              font-size:32px;
+              font-weight:bold;
+              cursor:pointer;
+              z-index:100000;
+              line-height:1;
+              user-select:none;
+              box-shadow:0 4px 12px rgba(0,0,0,0.35);     
+          \`;
+
+          closeBtn.onclick = () => {
+            overlay.remove();
+          };
+
+          const img = document.createElement('img');
+          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/listing.webp";
+
+          img.style.cssText = \`
+            max-width:95%;
+            max-height:95%;
+            border-radius:12px;
+            transition:transform .15s ease;
+            cursor:zoom-in;
+            will-change:transform;
+            user-select:none;
+          \`;
+
+          let scale = 1;
+
+          // scroll zoom
+          overlay.onwheel = (e) => {
+            e.preventDefault();
+
+            scale += e.deltaY * -0.001;
+            scale = Math.min(Math.max(1, scale), 5);
+
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          // double click zoom
+          img.ondblclick = () => {
+            scale = scale === 1 ? 2 : 1;
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          overlay.appendChild(closeBtn);
+          overlay.appendChild(img);
+
+          document.body.appendChild(overlay);
+
+          // close overlay
+          overlay.onclick = (e) => {
+            if (e.target === overlay) {
+              overlay.remove();
+            }
+          };
+
+          // esc close
+          document.onkeydown = (e) => {
+            if (e.key === 'Escape') {
+              overlay.remove();
+            }
+          };
+        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/listing.webp",alt:"Product Activity Logs",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+        const existing = document.getElementById('wk-image-overlay');
+        if(existing) existing.remove();
+
+        const overlay = document.createElement('div');
+        overlay.id = 'wk-image-overlay';
+
+        overlay.style.cssText = \`
+          position:fixed;
+          inset:0;
+          background:rgba(0,0,0,0.88);
+          display:flex;
+          align-items:center;
+          justify-content:center;
+          z-index:99999;
+          padding:20px;
+          cursor:zoom-out;
+          overflow:hidden;
+          backdrop-filter: blur(3px);
+        \`;
+
+        // 🔹 CLOSE BUTTON
+        const closeBtn = document.createElement('div');
+        closeBtn.innerHTML = '&times;';
+
+        closeBtn.style.cssText = \`
+          position:absolute;
+          top:20px;
+          right:25px;
+          color:#fff;
+          font-size:42px;
+          font-weight:bold;
+          cursor:pointer;
+          z-index:100000;
+          line-height:1;
+          user-select:none;
+        \`;
+
+        closeBtn.onclick = () => {
+          overlay.remove();
+        };
+
+        const img = document.createElement('img');
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/listing.webp";
+
+        img.style.cssText = \`
+          max-width:95%;
+          max-height:95%;
+          border-radius:12px;
+          transition:transform .15s ease;
+          cursor:zoom-in;
+          will-change:transform;
+          user-select:none;
+        \`;
+
+        let scale = 1;
+
+        // scroll zoom
+        overlay.onwheel = (e) => {
+          e.preventDefault();
+
+          scale += e.deltaY * -0.001;
+          scale = Math.min(Math.max(1, scale), 5);
+
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        // double click zoom
+        img.ondblclick = () => {
+          scale = scale === 1 ? 2 : 1;
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        overlay.appendChild(closeBtn);
+        overlay.appendChild(img);
+
+        document.body.appendChild(overlay);
+
+        // close overlay
+        overlay.onclick = (e) => {
+          if (e.target === overlay) {
+            overlay.remove();
+          }
+        };
+
+        // esc close
+        document.onkeydown = (e) => {
+          if (e.key === 'Escape') {
+            overlay.remove();
+          }
+        };
+      `})])],-1),n("h3",{id:"schedule-demo",tabindex:"-1"},[e("SCHEDULE DEMO "),n("a",{class:"header-anchor",href:"#schedule-demo","aria-label":'Permalink to "SCHEDULE DEMO"'},"​")],-1),n("p",null,[n("a",{href:"https://egsma.io/shopify-multivendor-marketplace/",target:"_blank",rel:"noreferrer"},"Click here to Schedule the demo of Multivendor marketplace App for Shopify ")],-1)])])}const v=l(i,[["render",a]]);export{y as __pageData,v as default};

@@ -243,7 +243,7 @@ import{_ as l,c as s,o as r,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
           };
 
           const img = document.createElement('img');
-          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2019/07/apiv3-1200x574.webp";
+          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2026/10/api.webp";
 
           img.style.cssText = \`
             max-width:95%;
@@ -291,7 +291,7 @@ import{_ as l,c as s,o as r,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
               overlay.remove();
             }
           };
-        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2019/07/apiv3-1200x574.webp",alt:"AwesomeScreenshot-shopify-trunk-webkul-mvmapi-2019-07-31_2_45",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2026/10/api.webp",alt:"AwesomeScreenshot-shopify-trunk-webkul-mvmapi-2019-07-31_2_45",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
         const existing = document.getElementById('wk-image-overlay');
         if(existing) existing.remove();
 
@@ -334,7 +334,7 @@ import{_ as l,c as s,o as r,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
         };
 
         const img = document.createElement('img');
-        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2019/07/apiv3-1200x574.webp";
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2026/10/api.webp";
 
         img.style.cssText = \`
           max-width:95%;
@@ -382,7 +382,7 @@ import{_ as l,c as s,o as r,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
             overlay.remove();
           }
         };
-      `})])],-1),n("p",null,[n("strong",null,"Base URL"),e(": "),n("a",{href:"https://mvmapi.webkul.com/",target:"_blank",rel:"noreferrer"},"https://mvmapi.webkul.com")],-1),n("h2",{id:"how-to-add-users",tabindex:"-1"},[e("How to Add Users? "),n("a",{class:"header-anchor",href:"#how-to-add-users","aria-label":'Permalink to "How to Add Users?"'},"​")],-1),n("p",null,[e("As soon as you enable the Multi-vendor API feature app, the "),n("strong",null,"Multi-vendor API"),e(" menu gets reflected in the side menu of the admin panel.")],-1),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
+      `})])],-1),n("p",null,[n("strong",null,"Base URL"),e(": "),n("a",{href:"https://mvmapi.webkul.com/api/v3/",target:"_blank",rel:"noreferrer"},"https://mvmapi.webkul.com/api/v3/")],-1),n("h2",{id:"how-to-add-users",tabindex:"-1"},[e("How to Add Users? "),n("a",{class:"header-anchor",href:"#how-to-add-users","aria-label":'Permalink to "How to Add Users?"'},"​")],-1),n("p",null,[e("As soon as you enable the Multi-vendor API feature app, the "),n("strong",null,"Multi-vendor API"),e(" menu gets reflected in the side menu of the admin panel.")],-1),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
           event.preventDefault();
 
           const existing = document.getElementById('wk-image-overlay');

@@ -1,4 +1,4 @@
-import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnrZd.js";const h=JSON.parse('{"title":"Custom Fields","description":"Custom Fields","frontmatter":{"title":"Custom Fields","description":"Custom Fields","date":"2025-10-07T00:00:00.000Z","author":"Chirag Tyagi"},"headers":[],"relativePath":"zenith/configuration/custom-fields.md","filePath":"zenith/configuration/custom-fields.md"}'),a={name:"zenith/configuration/custom-fields.md"};function r(c,t,d,m,p,u){return i(),s("div",null,[...t[0]||(t[0]=[o("",9),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
+import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnrZd.js";const y=JSON.parse('{"title":"Seller Profile Page Settings","description":"Seller Profile Page Settings","frontmatter":{"title":"Seller Profile Page Settings","description":"Seller Profile Page Settings","date":"2025-07-10T00:00:00.000Z","author":"Chirag Tyagi"},"headers":[],"relativePath":"zenith/seller/seller-profile-page-settings.md","filePath":"zenith/seller/seller-profile-page-settings.md"}'),r={name:"zenith/seller/seller-profile-page-settings.md"};function a(c,t,d,m,p,g){return i(),s("div",null,[...t[0]||(t[0]=[o('<h1 id="user-guide-for-seller-profile-page-settings" tabindex="-1">User Guide for Seller Profile Page Settings <a class="header-anchor" href="#user-guide-for-seller-profile-page-settings" aria-label="Permalink to &quot;User Guide for Seller Profile Page Settings&quot;">​</a></h1><p>We have updated the <a href="/zenith/introduction/overview.html">Multivendor Marketplace app</a> for Shopify and is now available with a new feature of Seller Profile Page.</p><p>Each seller will have their respective seller profile page on the admin&#39;s Marketplace where all the products of that seller will be displayed itself.</p><p>This User Guide will help you to understand how an admin can customize it as per his/her requirements.</p><p>All the products of that particular Seller will be displayed on each seller&#39;s profile page.</p><p>There will be a separate section of reviews given to that seller, policies &amp; description (if added by the seller).</p><p>Also, there will be a Feedback section from where customers will give their feedback for the seller&#39;s products.</p><p>Now, from the <strong>Seller Profile Page Settings</strong> menu, you can customize the seller&#39;s profile page by editing/changing the content of the page.</p><p>In addition to it, you can change the content position of the profile page, show/hide content, change the theme as well.</p><p>If you want the customers to get redirected to the seller&#39;s profile page, you have to paste the code in <strong>product.liquid template</strong> file mentioned in the configuration page.</p><p>After pasting the code, a seller link will be displayed on the product description page. By clicking the link, you will be straightaway redirected to the seller&#39;s profile page.</p><p>Admin can also create a menu of Seller Listing Page on his/her store by referring to below-given steps:</p><ul><li>Visit Shopify Store Backend</li><li>Click &quot;Online Store&quot;</li><li>Go to Navigation</li><li>Click on Main Menu (if Created otherwise Add Menu)</li><li>Enter Title and Link of Profile Page.</li><li>Lastly, click on Add &amp; Save the Menu.</li></ul><p>This way, you can add a Seller Listing Page menu to your store&#39;s frontend.</p><h2 id="features" tabindex="-1">Features <a class="header-anchor" href="#features" aria-label="Permalink to &quot;Features&quot;">​</a></h2><ul><li>Option to Show/Hide the content on the profile page of Sellers.</li><li>You can write your own CSS for further changes in the profile page</li><li>Admin can choose the position of Seller&#39;s Page content to be displayed on Seller&#39;s description page.</li><li>You can upload a banner image or a background video to display on Seller&#39;s profile page.</li><li>Admin can select the Theme for the Profile Page.</li></ul><p><strong>Admin can now edit the Theme code for Seller Profile Page. You will get the variables to edit the theme template and customize CSS of the profile page.</strong></p><blockquote><p><strong>Custom CSS</strong> for seller dashboard option is now <strong>available</strong> in <strong>all the three plans</strong> (Basic, Executive, Pro) of the Multi-vendor Marketplace App.</p></blockquote><h2 id="seller-profile-page-settings" tabindex="-1">Seller Profile Page Settings <a class="header-anchor" href="#seller-profile-page-settings" aria-label="Permalink to &quot;Seller Profile Page Settings&quot;">​</a></h2><p>Admin will follow the below steps to visit Seller Profile Page Settings section:</p>',20),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
           event.preventDefault();
 
           const existing = document.getElementById('wk-image-overlay');
@@ -51,7 +51,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
           };
 
           const img = document.createElement('img');
-          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/1signuppage.webp";
+          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/sell-1.webp";
 
           img.style.cssText = \`
             max-width:95%;
@@ -99,7 +99,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
               overlay.remove();
             }
           };
-        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/1signuppage.webp",alt:"seller signup page",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/sell-1.webp",alt:"seller's profile",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
         const existing = document.getElementById('wk-image-overlay');
         if(existing) existing.remove();
 
@@ -142,7 +142,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
         };
 
         const img = document.createElement('img');
-        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/1signuppage.webp";
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/sell-1.webp";
 
         img.style.cssText = \`
           max-width:95%;
@@ -190,7 +190,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
             overlay.remove();
           }
         };
-      `})])],-1),o("",3),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
+      `})])],-1),n("p",null,[e("Multivendor App Admin Panel>>Go to "),n("strong",null,"Sellers"),e(">>"),n("strong",null,"Seller Profile Page Settings"),e(" (from the drop-down menu).")],-1),n("p",null,"Following are the fields admin can set up for Seller's profile pages:",-1),n("p",null,[e("1: "),n("strong",null,"Seller Profile Page Theme"),e(" From this section, you can select the Theme of your Seller's profile page. You can click the radio button & choose the theme of your choice.")],-1),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
           event.preventDefault();
 
           const existing = document.getElementById('wk-image-overlay');
@@ -243,7 +243,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
           };
 
           const img = document.createElement('img');
-          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/10/addcustomfield.webp";
+          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/sel0.webp";
 
           img.style.cssText = \`
             max-width:95%;
@@ -291,7 +291,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
               overlay.remove();
             }
           };
-        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2025/10/addcustomfield.webp",alt:"add custom fields",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/sel0.webp",alt:"seller profile page settings",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
         const existing = document.getElementById('wk-image-overlay');
         if(existing) existing.remove();
 
@@ -334,7 +334,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
         };
 
         const img = document.createElement('img');
-        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/10/addcustomfield.webp";
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/sel0.webp";
 
         img.style.cssText = \`
           max-width:95%;
@@ -382,7 +382,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
             overlay.remove();
           }
         };
-      `})])],-1),n("p",null,"The system will redirect you to the following page:",-1),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
+      `})])],-1),n("h2",{id:"theme-1",tabindex:"-1"},[e("Theme 1 "),n("a",{class:"header-anchor",href:"#theme-1","aria-label":'Permalink to "Theme 1"'},"​")],-1),n("p",null,"In Theme 1, You will get an option to edit the theme code as well. You can customize CSS and edit the theme template of the profile page as per your choice.",-1),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
           event.preventDefault();
 
           const existing = document.getElementById('wk-image-overlay');
@@ -435,7 +435,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
           };
 
           const img = document.createElement('img');
-          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/10/addcustomfieldform.webp";
+          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/sel0.webp";
 
           img.style.cssText = \`
             max-width:95%;
@@ -483,7 +483,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
               overlay.remove();
             }
           };
-        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2025/10/addcustomfieldform.webp",alt:"fill the custom field details",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/sel0.webp",alt:"select a Theme",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
         const existing = document.getElementById('wk-image-overlay');
         if(existing) existing.remove();
 
@@ -526,7 +526,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
         };
 
         const img = document.createElement('img');
-        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/10/addcustomfieldform.webp";
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/sel0.webp";
 
         img.style.cssText = \`
           max-width:95%;
@@ -574,7 +574,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
             overlay.remove();
           }
         };
-      `})])],-1),o("",11),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
+      `})])],-1),n("p",null,"After clicking the Edit Theme Code button, you will get the option to edit the Theme template & edit CSS for the seller's profile page.",-1),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
           event.preventDefault();
 
           const existing = document.getElementById('wk-image-overlay');
@@ -627,7 +627,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
           };
 
           const img = document.createElement('img');
-          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/2contactsignup.webp";
+          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/sel1.webp";
 
           img.style.cssText = \`
             max-width:95%;
@@ -675,7 +675,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
               overlay.remove();
             }
           };
-        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/2contactsignup.webp",alt:"custom fields",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/sel1.webp",alt:"seller page",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
         const existing = document.getElementById('wk-image-overlay');
         if(existing) existing.remove();
 
@@ -718,7 +718,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
         };
 
         const img = document.createElement('img');
-        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/2contactsignup.webp";
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/sel1.webp";
 
         img.style.cssText = \`
           max-width:95%;
@@ -766,7 +766,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
             overlay.remove();
           }
         };
-      `})])],-1),n("h3",{id:"text-area",tabindex:"-1"},[e("TEXT AREA "),n("a",{class:"header-anchor",href:"#text-area","aria-label":'Permalink to "TEXT AREA"'},"​")],-1),n("p",null,"Admin can use this to create custom fields for details like the seller’s address or their previous experience.",-1),n("p",null,"This input type provides a larger text column to fill up lengthy information.",-1),n("p",null,"Frontend:",-1),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
+      `})])],-1),n("p",null,'As soon as you edit any code and Save it, the "Publish" button gets enabled. Now, to make the changes work for the seller page, you need to publish the edited code.',-1),n("p",null,[n("strong",null,"Please note"),e(" that if you have saved the edited code and not published it then, the default code will work for the profile page.")],-1),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
           event.preventDefault();
 
           const existing = document.getElementById('wk-image-overlay');
@@ -819,7 +819,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
           };
 
           const img = document.createElement('img');
-          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/3addresssignup.webp";
+          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/se3.webp";
 
           img.style.cssText = \`
             max-width:95%;
@@ -867,7 +867,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
               overlay.remove();
             }
           };
-        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/3addresssignup.webp",alt:"custom fields",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/se3.webp",alt:"seller profile 1",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
         const existing = document.getElementById('wk-image-overlay');
         if(existing) existing.remove();
 
@@ -910,7 +910,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
         };
 
         const img = document.createElement('img');
-        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/3addresssignup.webp";
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/se3.webp";
 
         img.style.cssText = \`
           max-width:95%;
@@ -958,7 +958,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
             overlay.remove();
           }
         };
-      `})])],-1),n("h3",{id:"file",tabindex:"-1"},[e("FILE "),n("a",{class:"header-anchor",href:"#file","aria-label":'Permalink to "FILE"'},"​")],-1),n("p",null,"This input type is used to fetch information like seller's GST documents, policy documents, profile image or any like of document that you want.",-1),n("blockquote",null,[n("p",null,"Make sure that the maximum file size which can be upload shouldn't exceed 3MB.")],-1),n("p",null,"Frontend:",-1),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
+      `})])],-1),o("<p>Moreover, clicking on the <strong>Preview</strong> button, you can preview the change you made for each seller&#39;s profile.</p><p>Admin can anytime restore the default code by clicking the &quot;<strong>Restore to Default</strong>&quot; button.</p><p>FILTER OPTION IN THEME 1 If you want to filter any seller&#39;s products by Category, Tag or Type on the seller profile page then, this feature is available in Theme 1.</p><p>For this, you need to enable the &quot;Restrict Collection&quot;, &quot;Restrict Tag&quot; &amp; &quot;Restrict Type&quot; tab from the &quot;<strong>Restriction Configuration</strong>&quot; menu of the app.</p><p>Make sure that you have added product <strong>collection</strong>, <strong>tags</strong> &amp; product <strong>type</strong>s in the app.</p>",5),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
           event.preventDefault();
 
           const existing = document.getElementById('wk-image-overlay');
@@ -1011,7 +1011,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
           };
 
           const img = document.createElement('img');
-          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/4filesignup.webp";
+          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/tg1.webp";
 
           img.style.cssText = \`
             max-width:95%;
@@ -1059,7 +1059,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
               overlay.remove();
             }
           };
-        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/4filesignup.webp",alt:"custom fields",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/tg1.webp",alt:"Product Tag",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
         const existing = document.getElementById('wk-image-overlay');
         if(existing) existing.remove();
 
@@ -1102,7 +1102,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
         };
 
         const img = document.createElement('img');
-        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/4filesignup.webp";
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/tg1.webp";
 
         img.style.cssText = \`
           max-width:95%;
@@ -1150,7 +1150,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
             overlay.remove();
           }
         };
-      `})])],-1),n("h3",{id:"dropdown",tabindex:"-1"},[e("DROPDOWN "),n("a",{class:"header-anchor",href:"#dropdown","aria-label":'Permalink to "DROPDOWN"'},"​")],-1),n("p",null,"This input field is used to create custom fields for entries like DOB, Gender, Country or State.",-1),n("p",null,[e("So, when the admin selects 'Dropdown' as the input field, he will get options to add the dropdown menus."),n("br"),e(" **Note: As per the current flow the app can accommodate a maximum of 250 dropdown options."),n("br"),e(" **"),n("br"),e(" Refer:")],-1),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
+      `})])],-1),n("p",null,"Now, the product categories, tags or types that you have added in the app will be visible to customers while adding/editing products.",-1),n("p",null,"Thus, you can restrict sellers to add only those categories, tags or types to the products",-1),n("p",null,"and accordingly the added categories, tags or types will be visible with the products in a filter option on the seller profile page.",-1),n("p",null,"This filter option will be visible like this on the seller profile page:-",-1),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
           event.preventDefault();
 
           const existing = document.getElementById('wk-image-overlay');
@@ -1203,7 +1203,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
           };
 
           const img = document.createElement('img');
-          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/10/editcustomfieldform.webp";
+          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/03072417/AwesomeScreenshot-Seller-Profile-multivendor-marketplace-4-2019-07-03-12-07-18.png";
 
           img.style.cssText = \`
             max-width:95%;
@@ -1251,7 +1251,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
               overlay.remove();
             }
           };
-        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2025/10/editcustomfieldform.webp",alt:"custom fields",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/03072417/AwesomeScreenshot-Seller-Profile-multivendor-marketplace-4-2019-07-03-12-07-18.png",alt:"filter option on seller profile page",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
         const existing = document.getElementById('wk-image-overlay');
         if(existing) existing.remove();
 
@@ -1294,7 +1294,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
         };
 
         const img = document.createElement('img');
-        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/10/editcustomfieldform.webp";
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/03072417/AwesomeScreenshot-Seller-Profile-multivendor-marketplace-4-2019-07-03-12-07-18.png";
 
         img.style.cssText = \`
           max-width:95%;
@@ -1342,7 +1342,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
             overlay.remove();
           }
         };
-      `})])],-1),n("p",null,"Frontend:",-1),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
+      `})])],-1),n("p",null,[n("strong",null,"NOTE:- The Edit Theme Code feature is available only in Theme 1.")],-1),n("p",null,"Moving on to the other options available in all the Themes to set profile pages of your sellers...",-1),n("p",null,"You will also get an option to select the color of Seller's rating star.",-1),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
           event.preventDefault();
 
           const existing = document.getElementById('wk-image-overlay');
@@ -1395,7 +1395,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
           };
 
           const img = document.createElement('img');
-          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/5dropdownsignup.webp";
+          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/Screenshot-14.png";
 
           img.style.cssText = \`
             max-width:95%;
@@ -1443,7 +1443,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
               overlay.remove();
             }
           };
-        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/5dropdownsignup.webp",alt:"custom fields",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/Screenshot-14.png",alt:"rating star color",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
         const existing = document.getElementById('wk-image-overlay');
         if(existing) existing.remove();
 
@@ -1486,7 +1486,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
         };
 
         const img = document.createElement('img');
-        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/5dropdownsignup.webp";
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/Screenshot-14.png";
 
         img.style.cssText = \`
           max-width:95%;
@@ -1534,7 +1534,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
             overlay.remove();
           }
         };
-      `})])],-1),o("",10),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
+      `})])],-1),n("p",null,`Also, you can select the default "Sort by" option for the profile page. This is up to you that how you want your seller's profiles to be listed on the page.`,-1),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
           event.preventDefault();
 
           const existing = document.getElementById('wk-image-overlay');
@@ -1587,7 +1587,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
           };
 
           const img = document.createElement('img');
-          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/6numbersignup.webp";
+          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/tt2.webp";
 
           img.style.cssText = \`
             max-width:95%;
@@ -1635,7 +1635,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
               overlay.remove();
             }
           };
-        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/6numbersignup.webp",alt:"number type custom filed",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/tt2.webp",alt:"seller profile",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
         const existing = document.getElementById('wk-image-overlay');
         if(existing) existing.remove();
 
@@ -1678,7 +1678,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
         };
 
         const img = document.createElement('img');
-        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/6numbersignup.webp";
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/tt2.webp";
 
         img.style.cssText = \`
           max-width:95%;
@@ -1726,7 +1726,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
             overlay.remove();
           }
         };
-      `})])],-1),n("h3",{id:"help-text-for-seller-custom-fields",tabindex:"-1"},[e("Help Text for Seller Custom fields "),n("a",{class:"header-anchor",href:"#help-text-for-seller-custom-fields","aria-label":'Permalink to "Help Text for Seller Custom fields"'},"​")],-1),n("ul",null,[n("li",null,[n("p",null,'We have added the field "Help Text" to the create custom field for the sellers.')]),n("li",null,[n("p",null,"To add help text to the custom field for the sellers, navigate to the Multivendor Admin panel, then go to Configuration > Custom Field.")])],-1),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
+      `})])],-1),n("p",null,[e("You can also upload a default banner for your seller's profile page either as "),n("strong",null,"Banner Image"),e(" or "),n("strong",null,"Background Video"),e(".")],-1),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
           event.preventDefault();
 
           const existing = document.getElementById('wk-image-overlay');
@@ -1779,7 +1779,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
           };
 
           const img = document.createElement('img');
-          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/10/helptextcustomfield.webp";
+          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/tt4.webp";
 
           img.style.cssText = \`
             max-width:95%;
@@ -1827,7 +1827,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
               overlay.remove();
             }
           };
-        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2025/10/helptextcustomfield.webp",alt:"help text",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/tt4.webp",alt:"show/hide content",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
         const existing = document.getElementById('wk-image-overlay');
         if(existing) existing.remove();
 
@@ -1870,7 +1870,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
         };
 
         const img = document.createElement('img');
-        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/10/helptextcustomfield.webp";
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/tt4.webp";
 
         img.style.cssText = \`
           max-width:95%;
@@ -1918,7 +1918,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
             overlay.remove();
           }
         };
-      `})])],-1),n("p",null,[e("If the "),n("strong",null,'"Show Custom Field"'),e(" setting is enabled, the help text will appear directly beneath the custom field title. (making it always visible to users)")],-1),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
+      `})])],-1),n("p",null,"Additionally, you can Show or Hide the content of Profile Page as per your requirement.",-1),n("p",null,[e("NOTE:- "),n("strong",null,"The Show/Hide Seller Page Content Option is available only in Theme 1.")],-1),n("p",null,"You can anytime re-position the Toggle Logo and Description on the profile page.",-1),n("h2",{id:"admin-can-also-write-his-her-own-css-for-profile-page",tabindex:"-1"},[e("Admin can also write his/her own CSS for Profile Page. "),n("a",{class:"header-anchor",href:"#admin-can-also-write-his-her-own-css-for-profile-page","aria-label":'Permalink to "Admin can also write his/her own CSS for Profile Page."'},"​")],-1),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
           event.preventDefault();
 
           const existing = document.getElementById('wk-image-overlay');
@@ -1971,7 +1971,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
           };
 
           const img = document.createElement('img');
-          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/7helptextsignup.webp";
+          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/tt5.webp";
 
           img.style.cssText = \`
             max-width:95%;
@@ -2019,7 +2019,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
               overlay.remove();
             }
           };
-        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/7helptextsignup.webp",alt:"Text",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/tt5.webp",alt:"change position",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
         const existing = document.getElementById('wk-image-overlay');
         if(existing) existing.remove();
 
@@ -2062,7 +2062,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
         };
 
         const img = document.createElement('img');
-        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/7helptextsignup.webp";
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/tt5.webp";
 
         img.style.cssText = \`
           max-width:95%;
@@ -2110,7 +2110,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
             overlay.remove();
           }
         };
-      `})])],-1),n("p",null,"However, if this setting is disabled, the help text will only appear when users click the (?) question mark icon next to the field title.",-1),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
+      `})])],-1),n("p",null,"If you select Theme 1, sellers page will look as shown in the screenshot below:",-1),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
           event.preventDefault();
 
           const existing = document.getElementById('wk-image-overlay');
@@ -2163,7 +2163,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
           };
 
           const img = document.createElement('img');
-          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/8helptextsignup.webp";
+          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/Seller-Profile-%E2%80%93-Demo-Store-2.png";
 
           img.style.cssText = \`
             max-width:95%;
@@ -2211,7 +2211,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
               overlay.remove();
             }
           };
-        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/8helptextsignup.webp",alt:"Question",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/Seller-Profile-%E2%80%93-Demo-Store-2.png",alt:"Seller Profile Theme1",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
         const existing = document.getElementById('wk-image-overlay');
         if(existing) existing.remove();
 
@@ -2254,7 +2254,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
         };
 
         const img = document.createElement('img');
-        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/8helptextsignup.webp";
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/Seller-Profile-%E2%80%93-Demo-Store-2.png";
 
         img.style.cssText = \`
           max-width:95%;
@@ -2302,7 +2302,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
             overlay.remove();
           }
         };
-      `})])],-1),n("h2",{id:"custom-fields-on-the-seller-s-account-page",tabindex:"-1"},[e("Custom Fields on the Seller's Account Page: "),n("a",{class:"header-anchor",href:"#custom-fields-on-the-seller-s-account-page","aria-label":`Permalink to "Custom Fields on the Seller's Account Page:"`},"​")],-1),n("p",null,[e("After registration, the seller can view the custom fields details on the following page: "),n("strong",null,"MultiVendor Marketplace Seller Panel"),e(" > "),n("strong",null,"Profile"),e(" > "),n("strong",null,"My Account"),e(":")],-1),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
+      `})])],-1),n("h2",{id:"theme-2",tabindex:"-1"},[e("Theme 2 "),n("a",{class:"header-anchor",href:"#theme-2","aria-label":'Permalink to "Theme 2"'},"​")],-1),n("p",null,"Similarly, you can check the features for Theme 2 as well.",-1),n("p",null,"Once you select Theme 2, the Profile Page will be visible like this as shown in the screenshot below:",-1),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
           event.preventDefault();
 
           const existing = document.getElementById('wk-image-overlay');
@@ -2355,7 +2355,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
           };
 
           const img = document.createElement('img');
-          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/10/sellerextrainfo.webp";
+          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/03114424/AwesomeScreenshot-Seller-Profile-multivendor-marketplace-4-2019-07-03-17-07-52.png";
 
           img.style.cssText = \`
             max-width:95%;
@@ -2403,7 +2403,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
               overlay.remove();
             }
           };
-        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2025/10/sellerextrainfo.webp",alt:"seller custom fields",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/03114424/AwesomeScreenshot-Seller-Profile-multivendor-marketplace-4-2019-07-03-17-07-52.png",alt:"Theme 2",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
         const existing = document.getElementById('wk-image-overlay');
         if(existing) existing.remove();
 
@@ -2446,7 +2446,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
         };
 
         const img = document.createElement('img');
-        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/10/sellerextrainfo.webp";
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/03114424/AwesomeScreenshot-Seller-Profile-multivendor-marketplace-4-2019-07-03-17-07-52.png";
 
         img.style.cssText = \`
           max-width:95%;
@@ -2494,7 +2494,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
             overlay.remove();
           }
         };
-      `})])],-1),n("p",null,"The seller can update this information from this section.",-1),n("h2",{id:"custom-field-on-the-seller-s-profile-page",tabindex:"-1"},[e("Custom Field on the Seller's Profile Page: "),n("a",{class:"header-anchor",href:"#custom-field-on-the-seller-s-profile-page","aria-label":`Permalink to "Custom Field on the Seller's Profile Page:"`},"​")],-1),n("p",null,"This is how the custom details will be present on the storefront for your customers.",-1),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
+      `})])],-1),n("h2",{id:"theme-3",tabindex:"-1"},[e("Theme 3 "),n("a",{class:"header-anchor",href:"#theme-3","aria-label":'Permalink to "Theme 3"'},"​")],-1),n("p",null,"Similarly, you can set your seller's profile page using Theme 3 as well.",-1),n("p",null,"If you select Theme 3, seller page will look as shown in the screenshot below:",-1),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
           event.preventDefault();
 
           const existing = document.getElementById('wk-image-overlay');
@@ -2547,7 +2547,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
           };
 
           const img = document.createElement('img');
-          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2019/07/24071303/AwesomeScreenshot-Seller-Profile-demo-store-2019-07-24-12-07-10.png";
+          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/Seller-Profile-%E2%80%93-Demo-Store-4.png";
 
           img.style.cssText = \`
             max-width:95%;
@@ -2595,7 +2595,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
               overlay.remove();
             }
           };
-        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2019/07/24071303/AwesomeScreenshot-Seller-Profile-demo-store-2019-07-24-12-07-10.png",alt:"seller custom fields",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/Seller-Profile-%E2%80%93-Demo-Store-4.png",alt:"Seller Profile Theme 3",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
         const existing = document.getElementById('wk-image-overlay');
         if(existing) existing.remove();
 
@@ -2638,7 +2638,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
         };
 
         const img = document.createElement('img');
-        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2019/07/24071303/AwesomeScreenshot-Seller-Profile-demo-store-2019-07-24-12-07-10.png";
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/Seller-Profile-%E2%80%93-Demo-Store-4.png";
 
         img.style.cssText = \`
           max-width:95%;
@@ -2686,7 +2686,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
             overlay.remove();
           }
         };
-      `})])],-1),n("h3",{id:"how-can-the-admin-download-the-files-uploaded-by-the-seller-via-custom-field",tabindex:"-1"},[e("How can the admin download the files uploaded by the seller via custom field? "),n("a",{class:"header-anchor",href:"#how-can-the-admin-download-the-files-uploaded-by-the-seller-via-custom-field","aria-label":'Permalink to "How can the admin download the files uploaded by the seller via custom field?"'},"​")],-1),n("p",null,"The admin can easily download the files by visiting Multivendor Marketplace Admin Panel > Sellers > Seller Listing > Edit:",-1),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
+      `})])],-1),n("h2",{id:"theme-4",tabindex:"-1"},[e("Theme 4 "),n("a",{class:"header-anchor",href:"#theme-4","aria-label":'Permalink to "Theme 4"'},"​")],-1),n("p",null,"In Theme 4, you will get an option to edit the theme code as well. You can customize CSS and edit the theme template of the profile page as per your choice.",-1),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
           event.preventDefault();
 
           const existing = document.getElementById('wk-image-overlay');
@@ -2739,7 +2739,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
           };
 
           const img = document.createElement('img');
-          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/10/downloadimgcustomfield.webp";
+          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/tty6.webp";
 
           img.style.cssText = \`
             max-width:95%;
@@ -2787,7 +2787,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
               overlay.remove();
             }
           };
-        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2025/10/downloadimgcustomfield.webp",alt:"custom fields",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/tty6.webp",alt:"Theme 4",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
         const existing = document.getElementById('wk-image-overlay');
         if(existing) existing.remove();
 
@@ -2830,7 +2830,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
         };
 
         const img = document.createElement('img');
-        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/10/downloadimgcustomfield.webp";
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/tty6.webp";
 
         img.style.cssText = \`
           max-width:95%;
@@ -2878,7 +2878,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
             overlay.remove();
           }
         };
-      `})])],-1),o("",8),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
+      `})])],-1),o('<p>Click on the &#39;<strong>Edit Seller Listing</strong>&#39; option on the &#39;<strong>Seller Profile Page Settings</strong>&#39; page,</p><p>you will get the option to <strong>edit the Theme template</strong> &amp; <strong>edit CSS</strong> for the seller’s listing page.</p><p>As soon as you edit any code and Save it, the “Publish” button gets enabled. Now, to make the changes work for the seller page, you need to publish the edited code.</p><p><strong>Please note</strong> that if you have saved the edited code and not published it then, the default code will work for the profile page.</p><p>Moreover, clicking on the <strong>Preview</strong> button, you can preview the change you made for each seller’s profile.</p><p>Admin can anytime restore the default code by clicking the “<strong>Restore to Default</strong>” button.</p><h2 id="edit-theme-template" tabindex="-1">Edit Theme Template <a class="header-anchor" href="#edit-theme-template" aria-label="Permalink to &quot;Edit Theme Template&quot;">​</a></h2>',7),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
           event.preventDefault();
 
           const existing = document.getElementById('wk-image-overlay');
@@ -2931,7 +2931,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
           };
 
           const img = document.createElement('img');
-          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/10/addcustomfieldproductform.webp";
+          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/dt4.webp";
 
           img.style.cssText = \`
             max-width:95%;
@@ -2979,7 +2979,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
               overlay.remove();
             }
           };
-        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2025/10/addcustomfieldproductform.webp",alt:"screenshot-sp-seller.webkul.com-2022.02.01-10_15_43",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/dt4.webp",alt:"edit theme",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
         const existing = document.getElementById('wk-image-overlay');
         if(existing) existing.remove();
 
@@ -3022,7 +3022,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
         };
 
         const img = document.createElement('img');
-        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/10/addcustomfieldproductform.webp";
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/dt4.webp";
 
         img.style.cssText = \`
           max-width:95%;
@@ -3070,7 +3070,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
             overlay.remove();
           }
         };
-      `})])],-1),n("p",null,"On product form:",-1),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
+      `})])],-1),n("h3",{id:"edit-theme-css",tabindex:"-1"},[e("Edit Theme CSS "),n("a",{class:"header-anchor",href:"#edit-theme-css","aria-label":'Permalink to "Edit Theme CSS"'},"​")],-1),n("hr",null,null,-1),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
           event.preventDefault();
 
           const existing = document.getElementById('wk-image-overlay');
@@ -3123,7 +3123,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
           };
 
           const img = document.createElement('img');
-          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/10/customfieldmultiselect.webp";
+          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/vn4.webp";
 
           img.style.cssText = \`
             max-width:95%;
@@ -3171,7 +3171,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
               overlay.remove();
             }
           };
-        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2025/10/customfieldmultiselect.webp",alt:"screenshot-sp-seller.webkul.com-2022.02.01-10_20_46",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/vn4.webp",alt:"edit css",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
         const existing = document.getElementById('wk-image-overlay');
         if(existing) existing.remove();
 
@@ -3214,7 +3214,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
         };
 
         const img = document.createElement('img');
-        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/10/customfieldmultiselect.webp";
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/vn4.webp";
 
         img.style.cssText = \`
           max-width:95%;
@@ -3262,7 +3262,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
             overlay.remove();
           }
         };
-      `})])],-1),o("",13),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
+      `})])],-1),n("p",null,[n("strong",null,"Seller Profile Page"),e(" will be the same as that for Theme 1:")],-1),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
           event.preventDefault();
 
           const existing = document.getElementById('wk-image-overlay');
@@ -3315,7 +3315,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
           };
 
           const img = document.createElement('img');
-          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/10/dropdownaddtagtoproduct.webp";
+          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2019/11/Seller-Profile-%E2%80%93-demo-store-2-1200x850.png";
 
           img.style.cssText = \`
             max-width:95%;
@@ -3363,7 +3363,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
               overlay.remove();
             }
           };
-        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2025/10/dropdownaddtagtoproduct.webp",alt:"image-4",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2019/11/Seller-Profile-%E2%80%93-demo-store-2-1200x850.png",alt:"seller profile",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
         const existing = document.getElementById('wk-image-overlay');
         if(existing) existing.remove();
 
@@ -3406,7 +3406,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
         };
 
         const img = document.createElement('img');
-        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/10/dropdownaddtagtoproduct.webp";
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2019/11/Seller-Profile-%E2%80%93-demo-store-2-1200x850.png";
 
         img.style.cssText = \`
           max-width:95%;
@@ -3454,7 +3454,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
             overlay.remove();
           }
         };
-      `})])],-1),o("",2),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
+      `})])],-1),n("p",null,[e("Here is a look of "),n("strong",null,"seller listing page"),e(" for this theme:")],-1),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
           event.preventDefault();
 
           const existing = document.getElementById('wk-image-overlay');
@@ -3507,7 +3507,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
           };
 
           const img = document.createElement('img');
-          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/10/extrainfofiletype.webp";
+          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2019/11/collage-1-1-2.png";
 
           img.style.cssText = \`
             max-width:95%;
@@ -3555,7 +3555,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
               overlay.remove();
             }
           };
-        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2025/10/extrainfofiletype.webp",alt:"seller custom fields",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2019/11/collage-1-1-2.png",alt:"seller listing",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
         const existing = document.getElementById('wk-image-overlay');
         if(existing) existing.remove();
 
@@ -3598,7 +3598,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
         };
 
         const img = document.createElement('img');
-        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/10/extrainfofiletype.webp";
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2019/11/collage-1-1-2.png";
 
         img.style.cssText = \`
           max-width:95%;
@@ -3646,7 +3646,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
             overlay.remove();
           }
         };
-      `})])],-1),o("",4),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
+      `})])],-1),n("h2",{id:"display-on-seller-listing-page",tabindex:"-1"},[e("Display on seller listing page "),n("a",{class:"header-anchor",href:"#display-on-seller-listing-page","aria-label":'Permalink to "Display on seller listing page"'},"​")],-1),n("p",null,"You can choose whether you want to display seller logo or seller profile image on seller listing page from:",-1),n("p",null,[e("Multivendor App Admin Panel>>Go to "),n("strong",null,"Sellers"),e(">>"),n("strong",null,"Seller Profile Page Settings"),e(" (from the drop-down menu).")],-1),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
           event.preventDefault();
 
           const existing = document.getElementById('wk-image-overlay');
@@ -3699,7 +3699,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
           };
 
           const img = document.createElement('img');
-          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/10/customfieldsseller.webp";
+          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2026/07/sp1.webp";
 
           img.style.cssText = \`
             max-width:95%;
@@ -3747,7 +3747,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
               overlay.remove();
             }
           };
-        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2025/10/customfieldsseller.webp",alt:"custom fields",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2026/07/sp1.webp",alt:"logo-or-profile-",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
         const existing = document.getElementById('wk-image-overlay');
         if(existing) existing.remove();
 
@@ -3790,7 +3790,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
         };
 
         const img = document.createElement('img');
-        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/10/customfieldsseller.webp";
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2026/07/sp1.webp";
 
         img.style.cssText = \`
           max-width:95%;
@@ -3838,7 +3838,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
             overlay.remove();
           }
         };
-      `})])],-1),n("p",null,"Furthermore, once the seller will add a new product with the following details, here is how it will be visible on the storefront:",-1),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
+      `})])],-1),n("h2",{id:"how-can-seller-upload-a-banner-for-the-seller-profile-page",tabindex:"-1"},[e("How can Seller upload a banner for the seller profile page "),n("a",{class:"header-anchor",href:"#how-can-seller-upload-a-banner-for-the-seller-profile-page","aria-label":'Permalink to "How can Seller upload a banner for the seller profile page"'},"​")],-1),n("p",null,"To upload banner on the seller profile page, the seller has to visit My Account page from the Profile menu.",-1),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
           event.preventDefault();
 
           const existing = document.getElementById('wk-image-overlay');
@@ -3891,7 +3891,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
           };
 
           const img = document.createElement('img');
-          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2019/07/Custom-Field-Test-Product-%E2%80%93-JohnDoe2-1.png";
+          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/sdd5.webp";
 
           img.style.cssText = \`
             max-width:95%;
@@ -3939,7 +3939,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
               overlay.remove();
             }
           };
-        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2019/07/Custom-Field-Test-Product-%E2%80%93-JohnDoe2-1.png",alt:"custom fields",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/sdd5.webp",alt:"Seller 11",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
         const existing = document.getElementById('wk-image-overlay');
         if(existing) existing.remove();
 
@@ -3982,7 +3982,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
         };
 
         const img = document.createElement('img');
-        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2019/07/Custom-Field-Test-Product-%E2%80%93-JohnDoe2-1.png";
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/sdd5.webp";
 
         img.style.cssText = \`
           max-width:95%;
@@ -4030,7 +4030,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
             overlay.remove();
           }
         };
-      `})])],-1),n("p",null,"If the admin has added a file type custom field then he can download the file from the edit product page > multivendor admin panel.",-1),n("h3",{id:"help-text-for-product-custom-fields",tabindex:"-1"},[e("Help Text for Product Custom fields "),n("a",{class:"header-anchor",href:"#help-text-for-product-custom-fields","aria-label":'Permalink to "Help Text for Product Custom fields"'},"​")],-1),n("ul",null,[n("li",null,[n("p",null,'We have added the field "Help Text" on the create custom field for the products.')]),n("li",null,[n("p",null,"To add help text to the custom field for the product, navigate to the Multivendor Admin panel, then go to Configuration > Custom Field.")])],-1),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
+      `})])],-1),n("p",null,[e("On "),n("strong",null,"My Account"),e(" page click on 'Upload Banner' to upload banner on the seller profile page.")],-1),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
           event.preventDefault();
 
           const existing = document.getElementById('wk-image-overlay');
@@ -4083,7 +4083,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
           };
 
           const img = document.createElement('img');
-          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/10/helptextcustomfield.webp";
+          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/sd7-scaled.webp";
 
           img.style.cssText = \`
             max-width:95%;
@@ -4131,7 +4131,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
               overlay.remove();
             }
           };
-        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2025/10/helptextcustomfield.webp",alt:"help test",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/sd7-scaled.webp",alt:"Seller My Account",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
         const existing = document.getElementById('wk-image-overlay');
         if(existing) existing.remove();
 
@@ -4174,7 +4174,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
         };
 
         const img = document.createElement('img');
-        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/10/helptextcustomfield.webp";
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/sd7-scaled.webp";
 
         img.style.cssText = \`
           max-width:95%;
@@ -4222,7 +4222,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
             overlay.remove();
           }
         };
-      `})])],-1),n("p",null,[e("If the "),n("strong",null,'"Show Custom Field"'),e(" setting is enabled, the help text will appear directly beneath the custom field title."),n("br"),e(" (making it always visible to users)")],-1),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
+      `})])],-1),n("p",null,"Once you click on Upload Banner, the box will open where you will get the option to upload the Image as well as video.",-1),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
           event.preventDefault();
 
           const existing = document.getElementById('wk-image-overlay');
@@ -4275,7 +4275,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
           };
 
           const img = document.createElement('img');
-          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/10/customfieldhelptext.webp";
+          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/hy6.webp";
 
           img.style.cssText = \`
             max-width:95%;
@@ -4323,7 +4323,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
               overlay.remove();
             }
           };
-        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2025/10/customfieldhelptext.webp",alt:"plz enter",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/hy6.webp",alt:"banner image",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
         const existing = document.getElementById('wk-image-overlay');
         if(existing) existing.remove();
 
@@ -4366,7 +4366,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
         };
 
         const img = document.createElement('img');
-        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/10/customfieldhelptext.webp";
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/hy6.webp";
 
         img.style.cssText = \`
           max-width:95%;
@@ -4414,7 +4414,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
             overlay.remove();
           }
         };
-      `})])],-1),n("p",null,"However, if this setting is disabled, the help text will only appear when users click the (?) question mark icon next to the field title.",-1),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
+      `})])],-1),n("p",null,'Sellers can also remove the banner from the "My Account" section.',-1),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
           event.preventDefault();
 
           const existing = document.getElementById('wk-image-overlay');
@@ -4467,7 +4467,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
           };
 
           const img = document.createElement('img');
-          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/10/helptextsymbol.webp";
+          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/ddd7.webp";
 
           img.style.cssText = \`
             max-width:95%;
@@ -4515,7 +4515,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
               overlay.remove();
             }
           };
-        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2025/10/helptextsymbol.webp",alt:"No help text",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/ddd7.webp",alt:"banner",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
         const existing = document.getElementById('wk-image-overlay');
         if(existing) existing.remove();
 
@@ -4558,7 +4558,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
         };
 
         const img = document.createElement('img');
-        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/10/helptextsymbol.webp";
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/ddd7.webp";
 
         img.style.cssText = \`
           max-width:95%;
@@ -4606,7 +4606,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
             overlay.remove();
           }
         };
-      `})])],-1),n("h3",{id:"default-value-for-product-custom-fields",tabindex:"-1"},[e("Default Value for Product Custom fields "),n("a",{class:"header-anchor",href:"#default-value-for-product-custom-fields","aria-label":'Permalink to "Default Value for Product Custom fields"'},"​")],-1),n("ul",null,[n("li",null,"You can set a Default Value for a custom field for Products. This allows you to pre-fill the field with a specific value, making it easier for sellers to provide consistent information and ensuring a smoother data entry process."),n("li",null,'To enable the default value on the custom field option, you can navigate to the Multivendor Admin panel, and then go to Configuration > Custom Field. When you add a custom field and select "Product" for the field type, then the “Enable default value on Custom field” option will become available.')],-1),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
+      `})])],-1),n("h2",{id:"how-to-upload-the-video-on-the-seller-profile-page",tabindex:"-1"},[e("How to upload the video on the seller profile page "),n("a",{class:"header-anchor",href:"#how-to-upload-the-video-on-the-seller-profile-page","aria-label":'Permalink to "How to upload the video on the seller profile page"'},"​")],-1),n("p",null,"Sellers can upload video by clicking on the video as shown in the above screenshot.",-1),n("p",null,"After clicking on Video a new box will open where you have to enter YouTube embedded link.",-1),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
           event.preventDefault();
 
           const existing = document.getElementById('wk-image-overlay');
@@ -4659,7 +4659,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
           };
 
           const img = document.createElement('img');
-          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/10/customfielddefaultvalue.webp";
+          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/sh8.webp";
 
           img.style.cssText = \`
             max-width:95%;
@@ -4707,7 +4707,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
               overlay.remove();
             }
           };
-        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2025/10/customfielddefaultvalue.webp",alt:"Default",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/sh8.webp",alt:"9",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
         const existing = document.getElementById('wk-image-overlay');
         if(existing) existing.remove();
 
@@ -4750,7 +4750,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
         };
 
         const img = document.createElement('img');
-        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/10/customfielddefaultvalue.webp";
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/sh8.webp";
 
         img.style.cssText = \`
           max-width:95%;
@@ -4798,7 +4798,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
             overlay.remove();
           }
         };
-      `})])],-1),o("",5),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
+      `})])],-1),n("h2",{id:"how-to-get-youtube-embedded-code",tabindex:"-1"},[e("How to get Youtube Embedded code "),n("a",{class:"header-anchor",href:"#how-to-get-youtube-embedded-code","aria-label":'Permalink to "How to get Youtube Embedded code"'},"​")],-1),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
           event.preventDefault();
 
           const existing = document.getElementById('wk-image-overlay');
@@ -4851,7 +4851,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
           };
 
           const img = document.createElement('img');
-          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/10/allowsellertoaddextrainfo.webp";
+          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/Screenshot-1-2.png";
 
           img.style.cssText = \`
             max-width:95%;
@@ -4899,7 +4899,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
               overlay.remove();
             }
           };
-        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2025/10/allowsellertoaddextrainfo.webp",alt:"order-1",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/Screenshot-1-2.png",alt:"10",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
         const existing = document.getElementById('wk-image-overlay');
         if(existing) existing.remove();
 
@@ -4942,7 +4942,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
         };
 
         const img = document.createElement('img');
-        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/10/allowsellertoaddextrainfo.webp";
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/Screenshot-1-2.png";
 
         img.style.cssText = \`
           max-width:95%;
@@ -4990,7 +4990,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
             overlay.remove();
           }
         };
-      `})])],-1),o("",4),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
+      `})])],-1),n("p",null,[e("Open the video on Youtube which you want to upload on the seller profile page."),n("br"),e(" Now click on the share button and click on the embed link.")],-1),n("p",null,"Copy that 'embed Url' from there and pastes it in the URL box shown above.",-1),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
           event.preventDefault();
 
           const existing = document.getElementById('wk-image-overlay');
@@ -5043,7 +5043,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
           };
 
           const img = document.createElement('img');
-          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/10/ordercustomfield.webp";
+          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/Screenshot-2-3.png";
 
           img.style.cssText = \`
             max-width:95%;
@@ -5091,7 +5091,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
               overlay.remove();
             }
           };
-        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2025/10/ordercustomfield.webp",alt:"Add custom field ",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/Screenshot-2-3.png",alt:"11",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
         const existing = document.getElementById('wk-image-overlay');
         if(existing) existing.remove();
 
@@ -5134,7 +5134,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
         };
 
         const img = document.createElement('img');
-        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/10/ordercustomfield.webp";
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/Screenshot-2-3.png";
 
         img.style.cssText = \`
           max-width:95%;
@@ -5182,7 +5182,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
             overlay.remove();
           }
         };
-      `})])],-1),n("h3",{id:"code-pasting",tabindex:"-1"},[e("Code Pasting "),n("a",{class:"header-anchor",href:"#code-pasting","aria-label":'Permalink to "Code Pasting"'},"​")],-1),n("p",null,"To reflect the product custom fields on the product description page, the admin needs to do some code pasting.",-1),n("p",null,[e("Admin will have the code on the following page: "),n("strong",null,"MultiVendor Marketplace Admin Panel"),e(" > "),n("strong",null,"Configuration"),e(" > "),n("strong",null,"Instruction for Marketplace"),e(":")],-1),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
+      `})])],-1),n("h3",{id:"how-to-upload-logo-on-the-seller-profile-page",tabindex:"-1"},[e("How to Upload Logo on the Seller profile page "),n("a",{class:"header-anchor",href:"#how-to-upload-logo-on-the-seller-profile-page","aria-label":'Permalink to "How to Upload Logo on the Seller profile page"'},"​")],-1),n("p",null,[n("strong",null,"How can a Seller upload his/her Shop LOGO?")],-1),n("p",null,[e('The seller can upload the Logo from the "'),n("strong",null,"My Account"),e('" menu of his/her profile.')],-1),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
           event.preventDefault();
 
           const existing = document.getElementById('wk-image-overlay');
@@ -5235,7 +5235,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
           };
 
           const img = document.createElement('img');
-          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/10/extrainfoproductcode.webp";
+          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/sdd7.webp";
 
           img.style.cssText = \`
             max-width:95%;
@@ -5283,7 +5283,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
               overlay.remove();
             }
           };
-        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2025/10/extrainfoproductcode.webp",alt:"custom fields",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/sdd7.webp",alt:"Seller Profile",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
         const existing = document.getElementById('wk-image-overlay');
         if(existing) existing.remove();
 
@@ -5326,7 +5326,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
         };
 
         const img = document.createElement('img');
-        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/10/extrainfoproductcode.webp";
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/sdd7.webp";
 
         img.style.cssText = \`
           max-width:95%;
@@ -5374,7 +5374,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
             overlay.remove();
           }
         };
-      `})])],-1),o("",26),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
+      `})])],-1),n("p",null,"Now click on upload image as shown in the screenshot below:",-1),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
           event.preventDefault();
 
           const existing = document.getElementById('wk-image-overlay');
@@ -5427,7 +5427,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
           };
 
           const img = document.createElement('img');
-          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2019/07/24085248/AwesomeScreenshot-demo-store-Themes-Shopify-2019-07-24-14-07-54.png";
+          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2026/02/shoplogo.webp";
 
           img.style.cssText = \`
             max-width:95%;
@@ -5475,7 +5475,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
               overlay.remove();
             }
           };
-        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2019/07/24085248/AwesomeScreenshot-demo-store-Themes-Shopify-2019-07-24-14-07-54.png",alt:"edit theme",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2026/02/shoplogo.webp",alt:"Seller Shop logo",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
         const existing = document.getElementById('wk-image-overlay');
         if(existing) existing.remove();
 
@@ -5518,7 +5518,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
         };
 
         const img = document.createElement('img');
-        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2019/07/24085248/AwesomeScreenshot-demo-store-Themes-Shopify-2019-07-24-14-07-54.png";
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2026/02/shoplogo.webp";
 
         img.style.cssText = \`
           max-width:95%;
@@ -5566,7 +5566,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
             overlay.remove();
           }
         };
-      `})])],-1),n("p",null,"Search for the file name, paste the codes and save.",-1),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
+      `})])],-1),n("p",null,"After clicking on 'Upload Image' box will open then click on upload image,",-1),n("p",null,"then select the image you want to upload for the logo, to display on seller profile page then click on save.",-1),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
           event.preventDefault();
 
           const existing = document.getElementById('wk-image-overlay');
@@ -5619,7 +5619,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
           };
 
           const img = document.createElement('img');
-          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2019/07/24085524/AwesomeScreenshot-demo-store-Edit-Debut-Shopify-2019-07-24-14-07-73.png";
+          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/dasdd7.webp";
 
           img.style.cssText = \`
             max-width:95%;
@@ -5667,7 +5667,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
               overlay.remove();
             }
           };
-        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2019/07/24085524/AwesomeScreenshot-demo-store-Edit-Debut-Shopify-2019-07-24-14-07-73.png",alt:"liquid files",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/dasdd7.webp",alt:"Upload LOGO",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
         const existing = document.getElementById('wk-image-overlay');
         if(existing) existing.remove();
 
@@ -5710,7 +5710,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
         };
 
         const img = document.createElement('img');
-        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2019/07/24085524/AwesomeScreenshot-demo-store-Edit-Debut-Shopify-2019-07-24-14-07-73.png";
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/dasdd7.webp";
 
         img.style.cssText = \`
           max-width:95%;
@@ -5758,7 +5758,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
             overlay.remove();
           }
         };
-      `})])],-1),o("",4),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
+      `})])],-1),o("<p><strong>Now, admin can also upload Seller Shop Logo from his/her admin Panel of the Multivendor App.</strong></p><p>Admin needs to follow the below procedure to Upload Logo for his/her Seller:</p><p>Multivendor admin panel&gt;&gt;Go to <strong>Sellers</strong>&gt;&gt;Click &quot;<strong>Seller Listing</strong>&quot; from the drop-down menu&gt;&gt;Select the seller to upload his store logo&gt;&gt;</p><p>Click on &quot;<strong>Edit</strong>&quot; from Action menu&gt;&gt;Scroll down and <strong>Upload</strong> the Logo&gt;&gt;<strong>Save</strong> Changes.</p>",4),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
           event.preventDefault();
 
           const existing = document.getElementById('wk-image-overlay');
@@ -5811,7 +5811,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
           };
 
           const img = document.createElement('img');
-          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/10/restrictcustomfieldproduct.webp";
+          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2026/07/sp2.webp";
 
           img.style.cssText = \`
             max-width:95%;
@@ -5859,7 +5859,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
               overlay.remove();
             }
           };
-        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2025/10/restrictcustomfieldproduct.webp",alt:"Restrict ",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2026/07/sp2.webp",alt:"upload seller logo ",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
         const existing = document.getElementById('wk-image-overlay');
         if(existing) existing.remove();
 
@@ -5902,7 +5902,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
         };
 
         const img = document.createElement('img');
-        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/10/restrictcustomfieldproduct.webp";
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2026/07/sp2.webp";
 
         img.style.cssText = \`
           max-width:95%;
@@ -5950,7 +5950,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
             overlay.remove();
           }
         };
-      `})])],-1),n("p",null,[e("Once the admin enable this configuration, a new option will be added on the "),n("strong",null,"Add Product"),e(" page.")],-1),n("p",null,[e("So, the seller/admin can now enable "),n("strong",null,"Restrict Custom Field"),e(" for individual products.")],-1),n("p",null,"After enabling this option, you can further select which fields you want to display on front end and which don't.",-1),n("p",null,"If you don't restrict custom fields, all the fields will be displayed by default.",-1),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
+      `})])],-1),n("h2",{id:"admin-end",tabindex:"-1"},[n("strong",null,"Admin End"),e(),n("a",{class:"header-anchor",href:"#admin-end","aria-label":'Permalink to "**Admin End**"'},"​")],-1),n("p",null,"Now, go to Edit Seller Section and Upload the Shop Logo of that Particular seller from admin panel.",-1),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
           event.preventDefault();
 
           const existing = document.getElementById('wk-image-overlay');
@@ -6003,7 +6003,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
           };
 
           const img = document.createElement('img');
-          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/10/restrictcustomfieldaddproduct.webp";
+          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/sad4.webp";
 
           img.style.cssText = \`
             max-width:95%;
@@ -6051,7 +6051,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
               overlay.remove();
             }
           };
-        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2025/10/restrictcustomfieldaddproduct.webp",alt:"Product Type",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/sad4.webp",alt:"Seller Logo Admin end",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
         const existing = document.getElementById('wk-image-overlay');
         if(existing) existing.remove();
 
@@ -6094,7 +6094,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
         };
 
         const img = document.createElement('img');
-        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/10/restrictcustomfieldaddproduct.webp";
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/sad4.webp";
 
         img.style.cssText = \`
           max-width:95%;
@@ -6142,7 +6142,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
             overlay.remove();
           }
         };
-      `})])],-1),n("h2",{id:"grouping-of-custom-fields",tabindex:"-1"},[e("Grouping of Custom Fields "),n("a",{class:"header-anchor",href:"#grouping-of-custom-fields","aria-label":'Permalink to "Grouping of Custom Fields"'},"​")],-1),n("p",null,"The admin can group multiple custom fields into different groups for improved display structure.",-1),n("p",null,"To do that, first, enable this configuration from the Admin Panel>>Configuration>>General configuration",-1),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
+      `})])],-1),o('<h6 id="to-display-logo-on-the-product-description-page-paste-the-below-code-on-product-liquid-template" tabindex="-1">To display Logo on the product description page, paste the below code on product.liquid template: <a class="header-anchor" href="#to-display-logo-on-the-product-description-page-paste-the-below-code-on-product-liquid-template" aria-label="Permalink to &quot;To display Logo on the product description page, paste the below code on product.liquid template:&quot;">​</a></h6><div class="language-liquid vp-adaptive-theme"><button title="Copy Code" class="copy"></button><span class="lang">liquid</span><pre class="shiki shiki-themes github-light github-dark vp-code" tabindex="0"><code><span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;">&lt;</span><span style="--shiki-light:#22863A;--shiki-dark:#85E89D;">div</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0;"> class</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;">=</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF;">&quot;wk\\_seller\\_store\\_logo&quot;</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0;"> data-productid</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;"> =</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF;">&quot;{{</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF;">product</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF;">.</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;">id</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF;">}}&quot;</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;">&gt;&lt;/</span><span style="--shiki-light:#22863A;--shiki-dark:#85E89D;">div</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;">&gt;</span></span></code></pre></div><h3 id="to-display-seller-profile-picture-link-on-the-product-description-page-paste-the-below-code-on-product-liquid-template" tabindex="-1">To display Seller Profile Picture Link on the product description page, paste the below code on product.liquid template: <a class="header-anchor" href="#to-display-seller-profile-picture-link-on-the-product-description-page-paste-the-below-code-on-product-liquid-template" aria-label="Permalink to &quot;To display Seller Profile Picture Link on the product description page, paste the below code on product.liquid template:&quot;">​</a></h3><div class="language-liquid vp-adaptive-theme"><button title="Copy Code" class="copy"></button><span class="lang">liquid</span><pre class="shiki shiki-themes github-light github-dark vp-code" tabindex="0"><code><span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;">&lt;</span><span style="--shiki-light:#22863A;--shiki-dark:#85E89D;">div</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0;"> class</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;">=</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF;">&quot;wk\\_seller\\_detail\\_logo&quot;</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0;"> data-productid</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;"> =</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF;">&quot;{{</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF;">product</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF;">.</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;">id</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF;">}}&quot;</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;">&gt;&lt;/</span><span style="--shiki-light:#22863A;--shiki-dark:#85E89D;">div</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;">&gt;</span></span></code></pre></div>',4),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
           event.preventDefault();
 
           const existing = document.getElementById('wk-image-overlay');
@@ -6195,7 +6195,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
           };
 
           const img = document.createElement('img');
-          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2026/02/groupingcustomfield.webp";
+          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/ssssssc4.webp";
 
           img.style.cssText = \`
             max-width:95%;
@@ -6243,7 +6243,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
               overlay.remove();
             }
           };
-        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2026/02/groupingcustomfield.webp",alt:"general config",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/ssssssc4.webp",alt:"Instruction for Marketplace",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
         const existing = document.getElementById('wk-image-overlay');
         if(existing) existing.remove();
 
@@ -6286,7 +6286,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
         };
 
         const img = document.createElement('img');
-        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2026/02/groupingcustomfield.webp";
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/ssssssc4.webp";
 
         img.style.cssText = \`
           max-width:95%;
@@ -6334,7 +6334,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
             overlay.remove();
           }
         };
-      `})])],-1),n("p",null,'Once this configuration is enabled, an option called "Manage Groups" will start to appear under Configuration>>Custom fields',-1),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
+      `})])],-1),o('<p>Follow the below process to paste the code:</p><ul><li>Go To Themes</li><li>Click on Customize Theme button</li><li>Click on Edit HTML/CSS button</li><li>Select product.liquid file from the Templates where you want to show the link</li><li>Paste the code</li><li>Click on save</li></ul><h2 id="edit-change-the-labels-of-the-field" tabindex="-1">Edit/Change the Labels of the field <a class="header-anchor" href="#edit-change-the-labels-of-the-field" aria-label="Permalink to &quot;Edit/Change the Labels of the field&quot;">​</a></h2><p>Admin can edit or change the labels as per requirement.</p><p>Go to Sellers “Shop Page Settings” from the main menu of the app as shown below.</p>',5),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
           event.preventDefault();
 
           const existing = document.getElementById('wk-image-overlay');
@@ -6387,7 +6387,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
           };
 
           const img = document.createElement('img');
-          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2026/02/managegroup.webp";
+          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/gt6.webp";
 
           img.style.cssText = \`
             max-width:95%;
@@ -6435,7 +6435,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
               overlay.remove();
             }
           };
-        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2026/02/managegroup.webp",alt:"manage groups",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/gt6.webp",alt:"Admin Dashboard",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
         const existing = document.getElementById('wk-image-overlay');
         if(existing) existing.remove();
 
@@ -6478,7 +6478,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
         };
 
         const img = document.createElement('img');
-        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2026/02/managegroup.webp";
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/gt6.webp";
 
         img.style.cssText = \`
           max-width:95%;
@@ -6526,7 +6526,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
             overlay.remove();
           }
         };
-      `})])],-1),n("p",null,"Clicking on manage groups will redirect you to this page, where you can add a group.",-1),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
+      `})])],-1),n("p",null,"You can change the labels as shown in below screenshot:",-1),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
           event.preventDefault();
 
           const existing = document.getElementById('wk-image-overlay');
@@ -6579,7 +6579,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
           };
 
           const img = document.createElement('img');
-          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2026/02/addgroup.webp";
+          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/final1.webp";
 
           img.style.cssText = \`
             max-width:95%;
@@ -6627,7 +6627,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
               overlay.remove();
             }
           };
-        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2026/02/addgroup.webp",alt:"Add Group",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/final1.webp",alt:"Change Labels",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
         const existing = document.getElementById('wk-image-overlay');
         if(existing) existing.remove();
 
@@ -6670,7 +6670,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
         };
 
         const img = document.createElement('img');
-        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2026/02/addgroup.webp";
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/final1.webp";
 
         img.style.cssText = \`
           max-width:95%;
@@ -6718,7 +6718,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
             overlay.remove();
           }
         };
-      `})])],-1),n("p",null,"Add the Group Name, select whether it is for Seller or Products, and enter the sequence.",-1),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
+      `})])],-1),n("h2",{id:"display-of-seller-products-on-the-seller-profile-page",tabindex:"-1"},[e("Display of seller products on the seller profile page "),n("a",{class:"header-anchor",href:"#display-of-seller-products-on-the-seller-profile-page","aria-label":'Permalink to "Display of seller products on the seller profile page"'},"​")],-1),n("p",null,"All the products of that particular seller will be displayed on the seller profile page itself.",-1),n("p",null,"The updated seller profile page with the banner and the configuration set by admin will look like this.",-1),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
           event.preventDefault();
 
           const existing = document.getElementById('wk-image-overlay');
@@ -6771,7 +6771,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
           };
 
           const img = document.createElement('img');
-          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2026/02/addcustomfieldgroup.webp";
+          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/Seller-Profile-%E2%80%93-Demo-Store-6.png";
 
           img.style.cssText = \`
             max-width:95%;
@@ -6819,7 +6819,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
               overlay.remove();
             }
           };
-        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2026/02/addcustomfieldgroup.webp",alt:"Add groups",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/Seller-Profile-%E2%80%93-Demo-Store-6.png",alt:"Seller Profile Page 11",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
         const existing = document.getElementById('wk-image-overlay');
         if(existing) existing.remove();
 
@@ -6862,7 +6862,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
         };
 
         const img = document.createElement('img');
-        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2026/02/addcustomfieldgroup.webp";
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/Seller-Profile-%E2%80%93-Demo-Store-6.png";
 
         img.style.cssText = \`
           max-width:95%;
@@ -6910,7 +6910,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
             overlay.remove();
           }
         };
-      `})])],-1),n("p",null,"Next, select which custom fields you want to be included in this group.",-1),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
+      `})])],-1),o('<h2 id="seller-collection" tabindex="-1">SELLER COLLECTION: <a class="header-anchor" href="#seller-collection" aria-label="Permalink to &quot;SELLER COLLECTION:&quot;">​</a></h2><p>Now you can create seller collection pages instead of a seller profile page with all the similar seller information from the: Admin panel &gt;&gt; sellers &gt;&gt; seller profile page settings.</p><p>The seller collection page can be created in two ways i.e,</p><p>with collections OR without collection.<br> With collection: Select this if you want to create collections corresponding to all sellers on the Shopify side.</p><p>Without collection: Select this if you want to display the collection pages without creating the collections for all the corresponding sellers on the Shopify side.</p><blockquote><p><strong>NOTE: Please check carefully before saving the changes</strong></p><p><strong>whether you want to select &quot;with collection&quot; or &quot;Without collection&quot; as once the collections are created selecting &quot;with collection&quot;,</strong></p><p><strong>you will have to delete the collection manually in case you want to change the seller profile type to &quot;without collections</strong>&quot;.</p><p><strong>Also if Merchant have more than 5000 sellers than we would recommend to not use with collection for Seller profile type.</strong></p></blockquote>',6),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
           event.preventDefault();
 
           const existing = document.getElementById('wk-image-overlay');
@@ -6963,7 +6963,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
           };
 
           const img = document.createElement('img');
-          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2026/02/secectcustomfield.webp";
+          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/sdd6.webp";
 
           img.style.cssText = \`
             max-width:95%;
@@ -7011,7 +7011,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
               overlay.remove();
             }
           };
-        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2026/02/secectcustomfield.webp",alt:"select custom fields",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/sdd6.webp",alt:"screenshot-akram-sh.webkul.com-2022.03.07-22_16_58",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
         const existing = document.getElementById('wk-image-overlay');
         if(existing) existing.remove();
 
@@ -7054,7 +7054,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
         };
 
         const img = document.createElement('img');
-        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2026/02/secectcustomfield.webp";
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/sdd6.webp";
 
         img.style.cssText = \`
           max-width:95%;
@@ -7102,7 +7102,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
             overlay.remove();
           }
         };
-      `})])],-1),n("p",null,"On the Add product page, the custom fields will be displayed in their respective groups.",-1),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
+      `})])],-1),n("p",null,'Please NOTE: On updating the seller profile type, you need to regenerate the seller category page from the "Storefront configuration" section here:',-1),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
           event.preventDefault();
 
           const existing = document.getElementById('wk-image-overlay');
@@ -7155,7 +7155,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
           };
 
           const img = document.createElement('img');
-          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2026/02/editproduct.webp";
+          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/fg67.webp";
 
           img.style.cssText = \`
             max-width:95%;
@@ -7203,7 +7203,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
               overlay.remove();
             }
           };
-        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2026/02/editproduct.webp",alt:"Add product page",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/fg67.webp",alt:"screenshot-akram-sh.webkul.com-2022.03.07-22_32_41",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
         const existing = document.getElementById('wk-image-overlay');
         if(existing) existing.remove();
 
@@ -7246,7 +7246,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
         };
 
         const img = document.createElement('img');
-        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2026/02/editproduct.webp";
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/fg67.webp";
 
         img.style.cssText = \`
           max-width:95%;
@@ -7294,7 +7294,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
             overlay.remove();
           }
         };
-      `})])],-1),o("",4),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
+      `})])],-1),n("p",null,"Also, please note: If you have a customized seller profile page and you want to change the seller profile type,",-1),n("p",null,[e("you need to make some changes from the "),n("strong",null,"wk-seller-category.liquid"),e(" file in your theme instead of regenerating")],-1),n("p",null,"the page as regenerating the page will vanish the custom work and populate the default seller profile page provided by us.",-1),n("p",null,'If you want to change the seller profile type from "with collection" to "without collection" set the value to "0"',-1),n("p",null,'If you want to change the seller profile type from "without collection to with collection" set the value to "1"',-1),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
           event.preventDefault();
 
           const existing = document.getElementById('wk-image-overlay');
@@ -7347,7 +7347,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
           };
 
           const img = document.createElement('img');
-          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2026/02/defaultvalue.webp";
+          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2022/03/screenshot-akram-store2.myshopify.com-2022.03.07-22_55_32-1200x581.png";
 
           img.style.cssText = \`
             max-width:95%;
@@ -7395,7 +7395,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
               overlay.remove();
             }
           };
-        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2026/02/defaultvalue.webp",alt:"customfield edit default value ",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2022/03/screenshot-akram-store2.myshopify.com-2022.03.07-22_55_32-1200x581.png",alt:"screenshot-akram-store2.myshopify.com-2022.03.07-22_55_32",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
         const existing = document.getElementById('wk-image-overlay');
         if(existing) existing.remove();
 
@@ -7438,199 +7438,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
         };
 
         const img = document.createElement('img');
-        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2026/02/defaultvalue.webp";
-
-        img.style.cssText = \`
-          max-width:95%;
-          max-height:95%;
-          border-radius:12px;
-          transition:transform .15s ease;
-          cursor:zoom-in;
-          will-change:transform;
-          user-select:none;
-        \`;
-
-        let scale = 1;
-
-        // scroll zoom
-        overlay.onwheel = (e) => {
-          e.preventDefault();
-
-          scale += e.deltaY * -0.001;
-          scale = Math.min(Math.max(1, scale), 5);
-
-          img.style.transform = 'scale(' + scale + ')';
-        };
-
-        // double click zoom
-        img.ondblclick = () => {
-          scale = scale === 1 ? 2 : 1;
-          img.style.transform = 'scale(' + scale + ')';
-        };
-
-        overlay.appendChild(closeBtn);
-        overlay.appendChild(img);
-
-        document.body.appendChild(overlay);
-
-        // close overlay
-        overlay.onclick = (e) => {
-          if (e.target === overlay) {
-            overlay.remove();
-          }
-        };
-
-        // esc close
-        document.onkeydown = (e) => {
-          if (e.key === 'Escape') {
-            overlay.remove();
-          }
-        };
-      `})])],-1),o("",2),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
-          event.preventDefault();
-
-          const existing = document.getElementById('wk-image-overlay');
-          if(existing) existing.remove();
-
-          const overlay = document.createElement('div');
-          overlay.id = 'wk-image-overlay';
-
-          overlay.style.cssText = \`
-            position:fixed;
-            inset:0;
-            background:rgba(0,0,0,0.88);
-            display:flex;
-            align-items:center;
-            justify-content:center;
-            z-index:99999;
-            padding:20px;
-            cursor:zoom-out;
-            overflow:hidden;
-            backdrop-filter: blur(3px);
-          \`;
-
-          // 🔹 CLOSE BUTTON
-          const closeBtn = document.createElement('div');
-          closeBtn.innerHTML = '&times;';
-
-          closeBtn.style.cssText = \`
-            position:absolute;
-              top:20px;
-              right:25px;
-              background:#0c7484;
-              color:#fff;
-              width:50px;
-              height:50px;
-              border-radius:50%;
-              display:flex;
-              align-items:center;
-              justify-content:center;
-              font-size:32px;
-              font-weight:bold;
-              cursor:pointer;
-              z-index:100000;
-              line-height:1;
-              user-select:none;
-              box-shadow:0 4px 12px rgba(0,0,0,0.35);     
-          \`;
-
-          closeBtn.onclick = () => {
-            overlay.remove();
-          };
-
-          const img = document.createElement('img');
-          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2026/05/1customfield.webp";
-
-          img.style.cssText = \`
-            max-width:95%;
-            max-height:95%;
-            border-radius:12px;
-            transition:transform .15s ease;
-            cursor:zoom-in;
-            will-change:transform;
-            user-select:none;
-          \`;
-
-          let scale = 1;
-
-          // scroll zoom
-          overlay.onwheel = (e) => {
-            e.preventDefault();
-
-            scale += e.deltaY * -0.001;
-            scale = Math.min(Math.max(1, scale), 5);
-
-            img.style.transform = 'scale(' + scale + ')';
-          };
-
-          // double click zoom
-          img.ondblclick = () => {
-            scale = scale === 1 ? 2 : 1;
-            img.style.transform = 'scale(' + scale + ')';
-          };
-
-          overlay.appendChild(closeBtn);
-          overlay.appendChild(img);
-
-          document.body.appendChild(overlay);
-
-          // close overlay
-          overlay.onclick = (e) => {
-            if (e.target === overlay) {
-              overlay.remove();
-            }
-          };
-
-          // esc close
-          document.onkeydown = (e) => {
-            if (e.key === 'Escape') {
-              overlay.remove();
-            }
-          };
-        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2026/05/1customfield.webp",alt:"edit custom field default value ",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
-        const existing = document.getElementById('wk-image-overlay');
-        if(existing) existing.remove();
-
-        const overlay = document.createElement('div');
-        overlay.id = 'wk-image-overlay';
-
-        overlay.style.cssText = \`
-          position:fixed;
-          inset:0;
-          background:rgba(0,0,0,0.88);
-          display:flex;
-          align-items:center;
-          justify-content:center;
-          z-index:99999;
-          padding:20px;
-          cursor:zoom-out;
-          overflow:hidden;
-          backdrop-filter: blur(3px);
-        \`;
-
-        // 🔹 CLOSE BUTTON
-        const closeBtn = document.createElement('div');
-        closeBtn.innerHTML = '&times;';
-
-        closeBtn.style.cssText = \`
-          position:absolute;
-          top:20px;
-          right:25px;
-          color:#fff;
-          font-size:42px;
-          font-weight:bold;
-          cursor:pointer;
-          z-index:100000;
-          line-height:1;
-          user-select:none;
-        \`;
-
-        closeBtn.onclick = () => {
-          overlay.remove();
-        };
-
-        const img = document.createElement('img');
-        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2026/05/1customfield.webp";
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2022/03/screenshot-akram-store2.myshopify.com-2022.03.07-22_55_32-1200x581.png";
 
         img.style.cssText = \`
           max-width:95%;
@@ -7731,7 +7539,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
           };
 
           const img = document.createElement('img');
-          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2026/05/2editvalue.webp";
+          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2022/03/screenshot-akram-store2.myshopify.com-2022.03.07-22_55_51-1200x581.png";
 
           img.style.cssText = \`
             max-width:95%;
@@ -7779,7 +7587,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
               overlay.remove();
             }
           };
-        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2026/05/2editvalue.webp",alt:"edit custom field ",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2022/03/screenshot-akram-store2.myshopify.com-2022.03.07-22_55_51-1200x581.png",alt:"screenshot-akram-store2.myshopify.com-2022.03.07-22_55_51",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
         const existing = document.getElementById('wk-image-overlay');
         if(existing) existing.remove();
 
@@ -7822,7 +7630,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
         };
 
         const img = document.createElement('img');
-        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2026/05/2editvalue.webp";
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2022/03/screenshot-akram-store2.myshopify.com-2022.03.07-22_55_51-1200x581.png";
 
         img.style.cssText = \`
           max-width:95%;
@@ -7870,7 +7678,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
             overlay.remove();
           }
         };
-      `})])],-1),n("p",null,"Now if you want to update multiple custom fields at once?",-1),n("ul",null,[n("li",null,[n("strong",null,"Select multiple custom fields"),e(" using the checkboxes.")]),n("li",null,[e("Click on "),n("strong",null,"Bulk Action > Edit Default Value"),e(".")]),n("li",null,"Enter the updated values and save")],-1),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
+      `})])],-1),o('<h2 id="use-store-name-description-as-meta-title-and-description-for-seller-pages" tabindex="-1">Use Store Name &amp; Description as Meta Title and Description for Seller Pages <a class="header-anchor" href="#use-store-name-description-as-meta-title-and-description-for-seller-pages" aria-label="Permalink to &quot;Use Store Name &amp; Description as Meta Title and Description for Seller Pages&quot;">​</a></h2><p>When a seller profile is displayed as a collection page (showing all products from a particular seller),</p><p>it&#39;s important to ensure that the <strong>meta title and meta description are optimized for search engines</strong>.</p><p>To keep it effective and consistent:</p><ul><li><strong>Meta Title</strong> should reflect the <strong>seller’s store name</strong></li><li><strong>Meta Description</strong> should use the <strong>seller’s store description</strong></li></ul><h2 id="how-to-set-it-in-multivendor-marketplace-app" tabindex="-1">How to Set It in Multivendor Marketplace App: <a class="header-anchor" href="#how-to-set-it-in-multivendor-marketplace-app" aria-label="Permalink to &quot;How to Set It in Multivendor Marketplace App:&quot;">​</a></h2><ol><li>Open the <strong>Multivendor Marketplace</strong> app.</li><li>Go to the <strong>“Sellers”</strong> section.</li><li>Click on any seller profile to <strong>edit</strong>.</li><li>Ensure that the <strong>Store Name</strong> and <strong>Store Description</strong> fields are properly filled.</li><li><strong>Save</strong> the changes.</li></ol>',7),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
           event.preventDefault();
 
           const existing = document.getElementById('wk-image-overlay');
@@ -7923,7 +7731,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
           };
 
           const img = document.createElement('img');
-          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/07/editinbulk-edited.webp";
+          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2026/02/metadetails.webp";
 
           img.style.cssText = \`
             max-width:95%;
@@ -7971,7 +7779,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
               overlay.remove();
             }
           };
-        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2025/07/editinbulk-edited.webp",alt:"edit default value in bulk ",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2026/02/metadetails.webp",alt:"meta",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
         const existing = document.getElementById('wk-image-overlay');
         if(existing) existing.remove();
 
@@ -8014,7 +7822,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
         };
 
         const img = document.createElement('img');
-        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/07/editinbulk-edited.webp";
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2026/02/metadetails.webp";
 
         img.style.cssText = \`
           max-width:95%;
@@ -8115,7 +7923,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
           };
 
           const img = document.createElement('img');
-          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/07/save-edited.webp";
+          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2026/02/metatitle.webp";
 
           img.style.cssText = \`
             max-width:95%;
@@ -8163,7 +7971,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
               overlay.remove();
             }
           };
-        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2025/07/save-edited.webp",alt:"edit in bulk ",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2026/02/metatitle.webp",alt:"metam",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
         const existing = document.getElementById('wk-image-overlay');
         if(existing) existing.remove();
 
@@ -8206,7 +8014,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
         };
 
         const img = document.createElement('img');
-        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/07/save-edited.webp";
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2026/02/metatitle.webp";
 
         img.style.cssText = \`
           max-width:95%;
@@ -8254,7 +8062,108 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
             overlay.remove();
           }
         };
-      `})])],-1),o("",6),n("p",null,[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/customfieldnewconfig.webp",alt:"Permission for Seller Configuration",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+      `})])],-1),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
+          event.preventDefault();
+
+          const existing = document.getElementById('wk-image-overlay');
+          if(existing) existing.remove();
+
+          const overlay = document.createElement('div');
+          overlay.id = 'wk-image-overlay';
+
+          overlay.style.cssText = \`
+            position:fixed;
+            inset:0;
+            background:rgba(0,0,0,0.88);
+            display:flex;
+            align-items:center;
+            justify-content:center;
+            z-index:99999;
+            padding:20px;
+            cursor:zoom-out;
+            overflow:hidden;
+            backdrop-filter: blur(3px);
+          \`;
+
+          // 🔹 CLOSE BUTTON
+          const closeBtn = document.createElement('div');
+          closeBtn.innerHTML = '&times;';
+
+          closeBtn.style.cssText = \`
+            position:absolute;
+              top:20px;
+              right:25px;
+              background:#0c7484;
+              color:#fff;
+              width:50px;
+              height:50px;
+              border-radius:50%;
+              display:flex;
+              align-items:center;
+              justify-content:center;
+              font-size:32px;
+              font-weight:bold;
+              cursor:pointer;
+              z-index:100000;
+              line-height:1;
+              user-select:none;
+              box-shadow:0 4px 12px rgba(0,0,0,0.35);     
+          \`;
+
+          closeBtn.onclick = () => {
+            overlay.remove();
+          };
+
+          const img = document.createElement('img');
+          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2026/02/sellermeta.webp";
+
+          img.style.cssText = \`
+            max-width:95%;
+            max-height:95%;
+            border-radius:12px;
+            transition:transform .15s ease;
+            cursor:zoom-in;
+            will-change:transform;
+            user-select:none;
+          \`;
+
+          let scale = 1;
+
+          // scroll zoom
+          overlay.onwheel = (e) => {
+            e.preventDefault();
+
+            scale += e.deltaY * -0.001;
+            scale = Math.min(Math.max(1, scale), 5);
+
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          // double click zoom
+          img.ondblclick = () => {
+            scale = scale === 1 ? 2 : 1;
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          overlay.appendChild(closeBtn);
+          overlay.appendChild(img);
+
+          document.body.appendChild(overlay);
+
+          // close overlay
+          overlay.onclick = (e) => {
+            if (e.target === overlay) {
+              overlay.remove();
+            }
+          };
+
+          // esc close
+          document.onkeydown = (e) => {
+            if (e.key === 'Escape') {
+              overlay.remove();
+            }
+          };
+        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2026/02/sellermeta.webp",alt:"meta",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
         const existing = document.getElementById('wk-image-overlay');
         if(existing) existing.remove();
 
@@ -8297,7 +8206,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
         };
 
         const img = document.createElement('img');
-        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/customfieldnewconfig.webp";
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2026/02/sellermeta.webp";
 
         img.style.cssText = \`
           max-width:95%;
@@ -8345,7 +8254,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
             overlay.remove();
           }
         };
-      `})],-1),n("h3",{id:"_1-read-only",tabindex:"-1"},[e("1. Read Only "),n("a",{class:"header-anchor",href:"#_1-read-only","aria-label":'Permalink to "1. Read Only"'},"​")],-1),n("p",null,"When Read Only is selected:",-1),n("ul",null,[n("li",null,"The custom field will be visible to the seller on the add prouduct form page and edit product page.")],-1),n("p",null,[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/readonly.webp",alt:"Read Only Permission",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+      `})])],-1),o('<p>These values will automatically be used as the meta title and meta description on the seller&#39;s collection page.</p><h3 id="sync-seller-image-and-description-with-the-corresponding-shopify-collection" tabindex="-1">Sync Seller Image and Description with the Corresponding Shopify Collection <a class="header-anchor" href="#sync-seller-image-and-description-with-the-corresponding-shopify-collection" aria-label="Permalink to &quot;Sync Seller Image and Description with the Corresponding Shopify Collection&quot;">​</a></h3><p>Follow these steps to sync the seller&#39;s image and description with the corresponding Shopify collection:</p><ol><li>Go to <strong>MVM Admin Panel &gt; Sellers &gt; Seller Profile Page Settings</strong>.</li><li>Enable <strong>Sync Seller Details With Seller Collection</strong>.</li><li>Select the details you want to sync, such as the seller&#39;s image and description.</li><li>Click <strong>Save Changes</strong> to apply the settings.</li></ol><p>Once configured, the selected seller details will sync with the corresponding Shopify collection.</p>',5),n("p",null,[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/collection-1200x564.webp",alt:"collection",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
         const existing = document.getElementById('wk-image-overlay');
         if(existing) existing.remove();
 
@@ -8388,7 +8297,7 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
         };
 
         const img = document.createElement('img');
-        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/readonly.webp";
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/collection-1200x564.webp";
 
         img.style.cssText = \`
           max-width:95%;
@@ -8436,4 +8345,964 @@ import{_ as l,c as s,o as i,ah as o,j as n,a as e}from"./chunks/framework.PvdZnr
             overlay.remove();
           }
         };
-      `})],-1),o("",28)])])}const y=l(a,[["render",r]]);export{h as __pageData,y as default};
+      `})],-1),o('<h2 id="code-implementation-for-seller-collection-page" tabindex="-1">CODE IMPLEMENTATION FOR SELLER COLLECTION PAGE: <a class="header-anchor" href="#code-implementation-for-seller-collection-page" aria-label="Permalink to &quot;CODE IMPLEMENTATION FOR SELLER COLLECTION PAGE:&quot;">​</a></h2><p>You need to add these codes for the seller collection pages:</p><p>Copy following code into <strong>collection.liquid</strong> template before collection name and banner.</p><div class="language-liquid vp-adaptive-theme"><button title="Copy Code" class="copy"></button><span class="lang">liquid</span><pre class="shiki shiki-themes github-light github-dark vp-code" tabindex="0"><code><span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;">{% </span><span style="--shiki-light:#22863A;--shiki-dark:#85E89D;">section</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF;"> &#39;wk-seller-category&#39;</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;"> %}</span></span></code></pre></div><p>Copy following code into <strong>collection-template.liquid</strong> template and add class inside the collection banner and collection title div.</p><p>To hide the collection banner and collection title from the Seller Collection page.<br> &quot;wk-collection-profile-hide&quot;</p><p>Copy following code into <strong>collection-template.liquid</strong> template and add class inside the parent div for products and filters.</p><p>To hide the products when customer switches from one Tab to another( Seller Product , Feedback , Reviews, Policy, Description ).<br> &quot;wk-seller-products&quot;</p><p><strong>NOTE: Now, the seller collection is now compatible with Shopify store 2.0.</strong></p>',9),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
+          event.preventDefault();
+
+          const existing = document.getElementById('wk-image-overlay');
+          if(existing) existing.remove();
+
+          const overlay = document.createElement('div');
+          overlay.id = 'wk-image-overlay';
+
+          overlay.style.cssText = \`
+            position:fixed;
+            inset:0;
+            background:rgba(0,0,0,0.88);
+            display:flex;
+            align-items:center;
+            justify-content:center;
+            z-index:99999;
+            padding:20px;
+            cursor:zoom-out;
+            overflow:hidden;
+            backdrop-filter: blur(3px);
+          \`;
+
+          // 🔹 CLOSE BUTTON
+          const closeBtn = document.createElement('div');
+          closeBtn.innerHTML = '&times;';
+
+          closeBtn.style.cssText = \`
+            position:absolute;
+              top:20px;
+              right:25px;
+              background:#0c7484;
+              color:#fff;
+              width:50px;
+              height:50px;
+              border-radius:50%;
+              display:flex;
+              align-items:center;
+              justify-content:center;
+              font-size:32px;
+              font-weight:bold;
+              cursor:pointer;
+              z-index:100000;
+              line-height:1;
+              user-select:none;
+              box-shadow:0 4px 12px rgba(0,0,0,0.35);     
+          \`;
+
+          closeBtn.onclick = () => {
+            overlay.remove();
+          };
+
+          const img = document.createElement('img');
+          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2022/05/akram-1200x564.png";
+
+          img.style.cssText = \`
+            max-width:95%;
+            max-height:95%;
+            border-radius:12px;
+            transition:transform .15s ease;
+            cursor:zoom-in;
+            will-change:transform;
+            user-select:none;
+          \`;
+
+          let scale = 1;
+
+          // scroll zoom
+          overlay.onwheel = (e) => {
+            e.preventDefault();
+
+            scale += e.deltaY * -0.001;
+            scale = Math.min(Math.max(1, scale), 5);
+
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          // double click zoom
+          img.ondblclick = () => {
+            scale = scale === 1 ? 2 : 1;
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          overlay.appendChild(closeBtn);
+          overlay.appendChild(img);
+
+          document.body.appendChild(overlay);
+
+          // close overlay
+          overlay.onclick = (e) => {
+            if (e.target === overlay) {
+              overlay.remove();
+            }
+          };
+
+          // esc close
+          document.onkeydown = (e) => {
+            if (e.key === 'Escape') {
+              overlay.remove();
+            }
+          };
+        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2022/05/akram-1200x564.png",alt:"akram",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+        const existing = document.getElementById('wk-image-overlay');
+        if(existing) existing.remove();
+
+        const overlay = document.createElement('div');
+        overlay.id = 'wk-image-overlay';
+
+        overlay.style.cssText = \`
+          position:fixed;
+          inset:0;
+          background:rgba(0,0,0,0.88);
+          display:flex;
+          align-items:center;
+          justify-content:center;
+          z-index:99999;
+          padding:20px;
+          cursor:zoom-out;
+          overflow:hidden;
+          backdrop-filter: blur(3px);
+        \`;
+
+        // 🔹 CLOSE BUTTON
+        const closeBtn = document.createElement('div');
+        closeBtn.innerHTML = '&times;';
+
+        closeBtn.style.cssText = \`
+          position:absolute;
+          top:20px;
+          right:25px;
+          color:#fff;
+          font-size:42px;
+          font-weight:bold;
+          cursor:pointer;
+          z-index:100000;
+          line-height:1;
+          user-select:none;
+        \`;
+
+        closeBtn.onclick = () => {
+          overlay.remove();
+        };
+
+        const img = document.createElement('img');
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2022/05/akram-1200x564.png";
+
+        img.style.cssText = \`
+          max-width:95%;
+          max-height:95%;
+          border-radius:12px;
+          transition:transform .15s ease;
+          cursor:zoom-in;
+          will-change:transform;
+          user-select:none;
+        \`;
+
+        let scale = 1;
+
+        // scroll zoom
+        overlay.onwheel = (e) => {
+          e.preventDefault();
+
+          scale += e.deltaY * -0.001;
+          scale = Math.min(Math.max(1, scale), 5);
+
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        // double click zoom
+        img.ondblclick = () => {
+          scale = scale === 1 ? 2 : 1;
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        overlay.appendChild(closeBtn);
+        overlay.appendChild(img);
+
+        document.body.appendChild(overlay);
+
+        // close overlay
+        overlay.onclick = (e) => {
+          if (e.target === overlay) {
+            overlay.remove();
+          }
+        };
+
+        // esc close
+        document.onkeydown = (e) => {
+          if (e.key === 'Escape') {
+            overlay.remove();
+          }
+        };
+      `})])],-1),n("p",null,"In the Shopify store 2.0:",-1),n("p",null,[e("Follow the path to add seller category profile section "),n("strong",null,"shopify store > online store > customize > collections > add section > select,")],-1),n("p",null,[n("strong",null,"seller category profile"),e(" and click on save button.")],-1),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
+          event.preventDefault();
+
+          const existing = document.getElementById('wk-image-overlay');
+          if(existing) existing.remove();
+
+          const overlay = document.createElement('div');
+          overlay.id = 'wk-image-overlay';
+
+          overlay.style.cssText = \`
+            position:fixed;
+            inset:0;
+            background:rgba(0,0,0,0.88);
+            display:flex;
+            align-items:center;
+            justify-content:center;
+            z-index:99999;
+            padding:20px;
+            cursor:zoom-out;
+            overflow:hidden;
+            backdrop-filter: blur(3px);
+          \`;
+
+          // 🔹 CLOSE BUTTON
+          const closeBtn = document.createElement('div');
+          closeBtn.innerHTML = '&times;';
+
+          closeBtn.style.cssText = \`
+            position:absolute;
+              top:20px;
+              right:25px;
+              background:#0c7484;
+              color:#fff;
+              width:50px;
+              height:50px;
+              border-radius:50%;
+              display:flex;
+              align-items:center;
+              justify-content:center;
+              font-size:32px;
+              font-weight:bold;
+              cursor:pointer;
+              z-index:100000;
+              line-height:1;
+              user-select:none;
+              box-shadow:0 4px 12px rgba(0,0,0,0.35);     
+          \`;
+
+          closeBtn.onclick = () => {
+            overlay.remove();
+          };
+
+          const img = document.createElement('img');
+          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2022/05/ak5.png";
+
+          img.style.cssText = \`
+            max-width:95%;
+            max-height:95%;
+            border-radius:12px;
+            transition:transform .15s ease;
+            cursor:zoom-in;
+            will-change:transform;
+            user-select:none;
+          \`;
+
+          let scale = 1;
+
+          // scroll zoom
+          overlay.onwheel = (e) => {
+            e.preventDefault();
+
+            scale += e.deltaY * -0.001;
+            scale = Math.min(Math.max(1, scale), 5);
+
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          // double click zoom
+          img.ondblclick = () => {
+            scale = scale === 1 ? 2 : 1;
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          overlay.appendChild(closeBtn);
+          overlay.appendChild(img);
+
+          document.body.appendChild(overlay);
+
+          // close overlay
+          overlay.onclick = (e) => {
+            if (e.target === overlay) {
+              overlay.remove();
+            }
+          };
+
+          // esc close
+          document.onkeydown = (e) => {
+            if (e.key === 'Escape') {
+              overlay.remove();
+            }
+          };
+        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2022/05/ak5.png",alt:"ak5",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+        const existing = document.getElementById('wk-image-overlay');
+        if(existing) existing.remove();
+
+        const overlay = document.createElement('div');
+        overlay.id = 'wk-image-overlay';
+
+        overlay.style.cssText = \`
+          position:fixed;
+          inset:0;
+          background:rgba(0,0,0,0.88);
+          display:flex;
+          align-items:center;
+          justify-content:center;
+          z-index:99999;
+          padding:20px;
+          cursor:zoom-out;
+          overflow:hidden;
+          backdrop-filter: blur(3px);
+        \`;
+
+        // 🔹 CLOSE BUTTON
+        const closeBtn = document.createElement('div');
+        closeBtn.innerHTML = '&times;';
+
+        closeBtn.style.cssText = \`
+          position:absolute;
+          top:20px;
+          right:25px;
+          color:#fff;
+          font-size:42px;
+          font-weight:bold;
+          cursor:pointer;
+          z-index:100000;
+          line-height:1;
+          user-select:none;
+        \`;
+
+        closeBtn.onclick = () => {
+          overlay.remove();
+        };
+
+        const img = document.createElement('img');
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2022/05/ak5.png";
+
+        img.style.cssText = \`
+          max-width:95%;
+          max-height:95%;
+          border-radius:12px;
+          transition:transform .15s ease;
+          cursor:zoom-in;
+          will-change:transform;
+          user-select:none;
+        \`;
+
+        let scale = 1;
+
+        // scroll zoom
+        overlay.onwheel = (e) => {
+          e.preventDefault();
+
+          scale += e.deltaY * -0.001;
+          scale = Math.min(Math.max(1, scale), 5);
+
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        // double click zoom
+        img.ondblclick = () => {
+          scale = scale === 1 ? 2 : 1;
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        overlay.appendChild(closeBtn);
+        overlay.appendChild(img);
+
+        document.body.appendChild(overlay);
+
+        // close overlay
+        overlay.onclick = (e) => {
+          if (e.target === overlay) {
+            overlay.remove();
+          }
+        };
+
+        // esc close
+        document.onkeydown = (e) => {
+          if (e.key === 'Escape') {
+            overlay.remove();
+          }
+        };
+      `})])],-1),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
+          event.preventDefault();
+
+          const existing = document.getElementById('wk-image-overlay');
+          if(existing) existing.remove();
+
+          const overlay = document.createElement('div');
+          overlay.id = 'wk-image-overlay';
+
+          overlay.style.cssText = \`
+            position:fixed;
+            inset:0;
+            background:rgba(0,0,0,0.88);
+            display:flex;
+            align-items:center;
+            justify-content:center;
+            z-index:99999;
+            padding:20px;
+            cursor:zoom-out;
+            overflow:hidden;
+            backdrop-filter: blur(3px);
+          \`;
+
+          // 🔹 CLOSE BUTTON
+          const closeBtn = document.createElement('div');
+          closeBtn.innerHTML = '&times;';
+
+          closeBtn.style.cssText = \`
+            position:absolute;
+              top:20px;
+              right:25px;
+              background:#0c7484;
+              color:#fff;
+              width:50px;
+              height:50px;
+              border-radius:50%;
+              display:flex;
+              align-items:center;
+              justify-content:center;
+              font-size:32px;
+              font-weight:bold;
+              cursor:pointer;
+              z-index:100000;
+              line-height:1;
+              user-select:none;
+              box-shadow:0 4px 12px rgba(0,0,0,0.35);     
+          \`;
+
+          closeBtn.onclick = () => {
+            overlay.remove();
+          };
+
+          const img = document.createElement('img');
+          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2022/05/akram-2-1200x578.png";
+
+          img.style.cssText = \`
+            max-width:95%;
+            max-height:95%;
+            border-radius:12px;
+            transition:transform .15s ease;
+            cursor:zoom-in;
+            will-change:transform;
+            user-select:none;
+          \`;
+
+          let scale = 1;
+
+          // scroll zoom
+          overlay.onwheel = (e) => {
+            e.preventDefault();
+
+            scale += e.deltaY * -0.001;
+            scale = Math.min(Math.max(1, scale), 5);
+
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          // double click zoom
+          img.ondblclick = () => {
+            scale = scale === 1 ? 2 : 1;
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          overlay.appendChild(closeBtn);
+          overlay.appendChild(img);
+
+          document.body.appendChild(overlay);
+
+          // close overlay
+          overlay.onclick = (e) => {
+            if (e.target === overlay) {
+              overlay.remove();
+            }
+          };
+
+          // esc close
+          document.onkeydown = (e) => {
+            if (e.key === 'Escape') {
+              overlay.remove();
+            }
+          };
+        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2022/05/akram-2-1200x578.png",alt:"akram-2",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+        const existing = document.getElementById('wk-image-overlay');
+        if(existing) existing.remove();
+
+        const overlay = document.createElement('div');
+        overlay.id = 'wk-image-overlay';
+
+        overlay.style.cssText = \`
+          position:fixed;
+          inset:0;
+          background:rgba(0,0,0,0.88);
+          display:flex;
+          align-items:center;
+          justify-content:center;
+          z-index:99999;
+          padding:20px;
+          cursor:zoom-out;
+          overflow:hidden;
+          backdrop-filter: blur(3px);
+        \`;
+
+        // 🔹 CLOSE BUTTON
+        const closeBtn = document.createElement('div');
+        closeBtn.innerHTML = '&times;';
+
+        closeBtn.style.cssText = \`
+          position:absolute;
+          top:20px;
+          right:25px;
+          color:#fff;
+          font-size:42px;
+          font-weight:bold;
+          cursor:pointer;
+          z-index:100000;
+          line-height:1;
+          user-select:none;
+        \`;
+
+        closeBtn.onclick = () => {
+          overlay.remove();
+        };
+
+        const img = document.createElement('img');
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2022/05/akram-2-1200x578.png";
+
+        img.style.cssText = \`
+          max-width:95%;
+          max-height:95%;
+          border-radius:12px;
+          transition:transform .15s ease;
+          cursor:zoom-in;
+          will-change:transform;
+          user-select:none;
+        \`;
+
+        let scale = 1;
+
+        // scroll zoom
+        overlay.onwheel = (e) => {
+          e.preventDefault();
+
+          scale += e.deltaY * -0.001;
+          scale = Math.min(Math.max(1, scale), 5);
+
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        // double click zoom
+        img.ondblclick = () => {
+          scale = scale === 1 ? 2 : 1;
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        overlay.appendChild(closeBtn);
+        overlay.appendChild(img);
+
+        document.body.appendChild(overlay);
+
+        // close overlay
+        overlay.onclick = (e) => {
+          if (e.target === overlay) {
+            overlay.remove();
+          }
+        };
+
+        // esc close
+        document.onkeydown = (e) => {
+          if (e.key === 'Escape') {
+            overlay.remove();
+          }
+        };
+      `})])],-1),o('<p><strong>CODE IMPLEMENTATION OF SELLER COLLECTION PAGE FOR SHOPIFY STORE 2.0.</strong></p><p>You need to add these codes for the seller collection pages:</p><p>Copy the following code into <strong>main-collection-banner.liquid</strong> template in the parent div.<br><strong>{wk-collection-profile-hide}</strong></p><p>Copy the following code into <strong>main-collection-product-grid.liquid</strong> template in the parent div.<br><strong>{wk-seller-products}</strong></p><h2 id="seller-collection-page-on-the-storefront" tabindex="-1">Seller collection page on the storefront: <a class="header-anchor" href="#seller-collection-page-on-the-storefront" aria-label="Permalink to &quot;Seller collection page on the storefront:&quot;">​</a></h2><p>The seller collection page will look similar to the seller profile page:</p>',6),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
+          event.preventDefault();
+
+          const existing = document.getElementById('wk-image-overlay');
+          if(existing) existing.remove();
+
+          const overlay = document.createElement('div');
+          overlay.id = 'wk-image-overlay';
+
+          overlay.style.cssText = \`
+            position:fixed;
+            inset:0;
+            background:rgba(0,0,0,0.88);
+            display:flex;
+            align-items:center;
+            justify-content:center;
+            z-index:99999;
+            padding:20px;
+            cursor:zoom-out;
+            overflow:hidden;
+            backdrop-filter: blur(3px);
+          \`;
+
+          // 🔹 CLOSE BUTTON
+          const closeBtn = document.createElement('div');
+          closeBtn.innerHTML = '&times;';
+
+          closeBtn.style.cssText = \`
+            position:absolute;
+              top:20px;
+              right:25px;
+              background:#0c7484;
+              color:#fff;
+              width:50px;
+              height:50px;
+              border-radius:50%;
+              display:flex;
+              align-items:center;
+              justify-content:center;
+              font-size:32px;
+              font-weight:bold;
+              cursor:pointer;
+              z-index:100000;
+              line-height:1;
+              user-select:none;
+              box-shadow:0 4px 12px rgba(0,0,0,0.35);     
+          \`;
+
+          closeBtn.onclick = () => {
+            overlay.remove();
+          };
+
+          const img = document.createElement('img');
+          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2022/03/screenshot-akram-store2.myshopify.com-2022.03.07-22_39_03-1200x581.png";
+
+          img.style.cssText = \`
+            max-width:95%;
+            max-height:95%;
+            border-radius:12px;
+            transition:transform .15s ease;
+            cursor:zoom-in;
+            will-change:transform;
+            user-select:none;
+          \`;
+
+          let scale = 1;
+
+          // scroll zoom
+          overlay.onwheel = (e) => {
+            e.preventDefault();
+
+            scale += e.deltaY * -0.001;
+            scale = Math.min(Math.max(1, scale), 5);
+
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          // double click zoom
+          img.ondblclick = () => {
+            scale = scale === 1 ? 2 : 1;
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          overlay.appendChild(closeBtn);
+          overlay.appendChild(img);
+
+          document.body.appendChild(overlay);
+
+          // close overlay
+          overlay.onclick = (e) => {
+            if (e.target === overlay) {
+              overlay.remove();
+            }
+          };
+
+          // esc close
+          document.onkeydown = (e) => {
+            if (e.key === 'Escape') {
+              overlay.remove();
+            }
+          };
+        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2022/03/screenshot-akram-store2.myshopify.com-2022.03.07-22_39_03-1200x581.png",alt:"screenshot-akram-store2.myshopify.com-2022.03.07-22_39_03",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+        const existing = document.getElementById('wk-image-overlay');
+        if(existing) existing.remove();
+
+        const overlay = document.createElement('div');
+        overlay.id = 'wk-image-overlay';
+
+        overlay.style.cssText = \`
+          position:fixed;
+          inset:0;
+          background:rgba(0,0,0,0.88);
+          display:flex;
+          align-items:center;
+          justify-content:center;
+          z-index:99999;
+          padding:20px;
+          cursor:zoom-out;
+          overflow:hidden;
+          backdrop-filter: blur(3px);
+        \`;
+
+        // 🔹 CLOSE BUTTON
+        const closeBtn = document.createElement('div');
+        closeBtn.innerHTML = '&times;';
+
+        closeBtn.style.cssText = \`
+          position:absolute;
+          top:20px;
+          right:25px;
+          color:#fff;
+          font-size:42px;
+          font-weight:bold;
+          cursor:pointer;
+          z-index:100000;
+          line-height:1;
+          user-select:none;
+        \`;
+
+        closeBtn.onclick = () => {
+          overlay.remove();
+        };
+
+        const img = document.createElement('img');
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2022/03/screenshot-akram-store2.myshopify.com-2022.03.07-22_39_03-1200x581.png";
+
+        img.style.cssText = \`
+          max-width:95%;
+          max-height:95%;
+          border-radius:12px;
+          transition:transform .15s ease;
+          cursor:zoom-in;
+          will-change:transform;
+          user-select:none;
+        \`;
+
+        let scale = 1;
+
+        // scroll zoom
+        overlay.onwheel = (e) => {
+          e.preventDefault();
+
+          scale += e.deltaY * -0.001;
+          scale = Math.min(Math.max(1, scale), 5);
+
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        // double click zoom
+        img.ondblclick = () => {
+          scale = scale === 1 ? 2 : 1;
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        overlay.appendChild(closeBtn);
+        overlay.appendChild(img);
+
+        document.body.appendChild(overlay);
+
+        // close overlay
+        overlay.onclick = (e) => {
+          if (e.target === overlay) {
+            overlay.remove();
+          }
+        };
+
+        // esc close
+        document.onkeydown = (e) => {
+          if (e.key === 'Escape') {
+            overlay.remove();
+          }
+        };
+      `})])],-1),n("p",null,[n("strong",null,"Note:")],-1),n("ul",null,[n("li",null,"Before proceeding further kindly make sure that the handle name should be the same on the Shopify seller collection end and multi-vendor seller end"),n("li",null,[e("In case Collection is not created then you can create it by going to "),n("strong",null,"Multivendor Admin Panel >> Sellers >> Sellers Listing >> Click on Three dots >> Select Edit >>")]),n("li",null,[n("strong",null,'On Edit Seller Page click on "More Action" Button >> Click on Create Collection'),e(" as shown below.")]),n("li",null,"In case you are not finding this button then kindly wait as it takes a little time to create a collection at the Shopify end.")],-1),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
+          event.preventDefault();
+
+          const existing = document.getElementById('wk-image-overlay');
+          if(existing) existing.remove();
+
+          const overlay = document.createElement('div');
+          overlay.id = 'wk-image-overlay';
+
+          overlay.style.cssText = \`
+            position:fixed;
+            inset:0;
+            background:rgba(0,0,0,0.88);
+            display:flex;
+            align-items:center;
+            justify-content:center;
+            z-index:99999;
+            padding:20px;
+            cursor:zoom-out;
+            overflow:hidden;
+            backdrop-filter: blur(3px);
+          \`;
+
+          // 🔹 CLOSE BUTTON
+          const closeBtn = document.createElement('div');
+          closeBtn.innerHTML = '&times;';
+
+          closeBtn.style.cssText = \`
+            position:absolute;
+              top:20px;
+              right:25px;
+              background:#0c7484;
+              color:#fff;
+              width:50px;
+              height:50px;
+              border-radius:50%;
+              display:flex;
+              align-items:center;
+              justify-content:center;
+              font-size:32px;
+              font-weight:bold;
+              cursor:pointer;
+              z-index:100000;
+              line-height:1;
+              user-select:none;
+              box-shadow:0 4px 12px rgba(0,0,0,0.35);     
+          \`;
+
+          closeBtn.onclick = () => {
+            overlay.remove();
+          };
+
+          const img = document.createElement('img');
+          img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2022/08/create-collection.png";
+
+          img.style.cssText = \`
+            max-width:95%;
+            max-height:95%;
+            border-radius:12px;
+            transition:transform .15s ease;
+            cursor:zoom-in;
+            will-change:transform;
+            user-select:none;
+          \`;
+
+          let scale = 1;
+
+          // scroll zoom
+          overlay.onwheel = (e) => {
+            e.preventDefault();
+
+            scale += e.deltaY * -0.001;
+            scale = Math.min(Math.max(1, scale), 5);
+
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          // double click zoom
+          img.ondblclick = () => {
+            scale = scale === 1 ? 2 : 1;
+            img.style.transform = 'scale(' + scale + ')';
+          };
+
+          overlay.appendChild(closeBtn);
+          overlay.appendChild(img);
+
+          document.body.appendChild(overlay);
+
+          // close overlay
+          overlay.onclick = (e) => {
+            if (e.target === overlay) {
+              overlay.remove();
+            }
+          };
+
+          // esc close
+          document.onkeydown = (e) => {
+            if (e.key === 'Escape') {
+              overlay.remove();
+            }
+          };
+        `,target:"_blank",rel:"noreferrer"},[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2022/08/create-collection.png",alt:"create-collection",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+        const existing = document.getElementById('wk-image-overlay');
+        if(existing) existing.remove();
+
+        const overlay = document.createElement('div');
+        overlay.id = 'wk-image-overlay';
+
+        overlay.style.cssText = \`
+          position:fixed;
+          inset:0;
+          background:rgba(0,0,0,0.88);
+          display:flex;
+          align-items:center;
+          justify-content:center;
+          z-index:99999;
+          padding:20px;
+          cursor:zoom-out;
+          overflow:hidden;
+          backdrop-filter: blur(3px);
+        \`;
+
+        // 🔹 CLOSE BUTTON
+        const closeBtn = document.createElement('div');
+        closeBtn.innerHTML = '&times;';
+
+        closeBtn.style.cssText = \`
+          position:absolute;
+          top:20px;
+          right:25px;
+          color:#fff;
+          font-size:42px;
+          font-weight:bold;
+          cursor:pointer;
+          z-index:100000;
+          line-height:1;
+          user-select:none;
+        \`;
+
+        closeBtn.onclick = () => {
+          overlay.remove();
+        };
+
+        const img = document.createElement('img');
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2022/08/create-collection.png";
+
+        img.style.cssText = \`
+          max-width:95%;
+          max-height:95%;
+          border-radius:12px;
+          transition:transform .15s ease;
+          cursor:zoom-in;
+          will-change:transform;
+          user-select:none;
+        \`;
+
+        let scale = 1;
+
+        // scroll zoom
+        overlay.onwheel = (e) => {
+          e.preventDefault();
+
+          scale += e.deltaY * -0.001;
+          scale = Math.min(Math.max(1, scale), 5);
+
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        // double click zoom
+        img.ondblclick = () => {
+          scale = scale === 1 ? 2 : 1;
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        overlay.appendChild(closeBtn);
+        overlay.appendChild(img);
+
+        document.body.appendChild(overlay);
+
+        // close overlay
+        overlay.onclick = (e) => {
+          if (e.target === overlay) {
+            overlay.remove();
+          }
+        };
+
+        // esc close
+        document.onkeydown = (e) => {
+          if (e.key === 'Escape') {
+            overlay.remove();
+          }
+        };
+      `})])],-1),n("h3",{id:"schedule-demo",tabindex:"-1"},[e("SCHEDULE DEMO "),n("a",{class:"header-anchor",href:"#schedule-demo","aria-label":'Permalink to "SCHEDULE DEMO"'},"​")],-1),n("p",null,[n("a",{href:"https://egsma.io/shopify-multivendor-marketplace/",target:"_blank",rel:"noreferrer"},"Click here to Schedule the demo of Multivendor marketplace App for Shopify ")],-1)])])}const h=l(r,[["render",a]]);export{y as __pageData,h as default};

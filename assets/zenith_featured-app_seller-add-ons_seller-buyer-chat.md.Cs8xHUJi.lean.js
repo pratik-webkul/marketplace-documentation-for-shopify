@@ -1,4 +1,4 @@
-import{_ as t,c as r,o as a,j as n,ah as o,a as e}from"./chunks/framework.PvdZnrZd.js";const f=JSON.parse('{"title":"Influencer Marketplace","description":"Influencer Marketplace","frontmatter":{"title":"Influencer Marketplace","description":"Influencer Marketplace","author":"Chirag Tyagi"},"headers":[],"relativePath":"zenith/featured-app/marketplace-other-add-ons/influencer-marketplace.md","filePath":"zenith/featured-app/marketplace-other-add-ons/influencer-marketplace.md"}'),i={name:"zenith/featured-app/marketplace-other-add-ons/influencer-marketplace.md"};function s(c,l,m,d,u,p){return a(),r("div",null,[...l[0]||(l[0]=[n("h1",{id:"user-guide-for-influencer-marketplace",tabindex:"-1"},[e("User Guide for Influencer Marketplace "),n("a",{class:"header-anchor",href:"#user-guide-for-influencer-marketplace","aria-label":'Permalink to "User Guide for Influencer Marketplace"'},"​")],-1),n("h2",{id:"influencer-marketplace-a-powerful-add-on-for-multivendor-marketplace",tabindex:"-1"},[e("Influencer Marketplace: A Powerful Add-on for Multivendor Marketplace "),n("a",{class:"header-anchor",href:"#influencer-marketplace-a-powerful-add-on-for-multivendor-marketplace","aria-label":'Permalink to "Influencer Marketplace: A Powerful Add-on for Multivendor Marketplace"'},"​")],-1),n("p",null,[e("The "),n("strong",null,"Influencer Marketplace"),e(" is an advanced feature app designed to connect sellers with influencers, enabling collaboration to boost product sales through influencer marketing.")],-1),n("p",null,"Click here to watch the video ⬇️",-1),n("div",{style:{position:"relative","padding-bottom":"56.25%",height:"0",overflow:"hidden","border-radius":"12px"}},[n("iframe",{src:"https://www.youtube.com/embed/-KvcY1Lznio?si=iPh5xV3T23hEUYHY",title:"YouTube video player",frameborder:"0",allow:"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share",referrerpolicy:"strict-origin-when-cross-origin",allowfullscreen:"",style:{position:"absolute",top:"0",left:"0",width:"100%",height:"100%","border-radius":"12px"}})],-1),n("p",null,[e("This guide covers the complete workflow, including "),n("strong",null,"installation, configuration, and usage"),e(" from "),n("strong",null,"Admin, Seller, and Influencer perspectives"),e(".")],-1),n("p",null,[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2026/04/influencermarketplaceone.webp",alt:"Influencer Marketplace Overview",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+import{_ as l,c as s,o as r,ah as o,j as n,a as e}from"./chunks/framework.PvdZnrZd.js";const y=JSON.parse('{"title":"SELLER BUYER CHAT","description":"SELLER BUYER CHAT","frontmatter":{"title":"SELLER BUYER CHAT","description":"SELLER BUYER CHAT","date":"2025-07-29T00:00:00.000Z","author":"Chirag Tyagi"},"headers":[],"relativePath":"zenith/featured-app/seller-add-ons/seller-buyer-chat.md","filePath":"zenith/featured-app/seller-add-ons/seller-buyer-chat.md"}'),a={name:"zenith/featured-app/seller-add-ons/seller-buyer-chat.md"};function i(c,t,d,m,p,g){return r(),s("div",null,[...t[0]||(t[0]=[o("",7),n("p",null,[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2022/06/c1-1-1200x811.png",alt:"c1-1",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
         const existing = document.getElementById('wk-image-overlay');
         if(existing) existing.remove();
 
@@ -41,7 +41,7 @@ import{_ as t,c as r,o as a,j as n,ah as o,a as e}from"./chunks/framework.PvdZnr
         };
 
         const img = document.createElement('img');
-        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2026/04/influencermarketplaceone.webp";
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2022/06/c1-1-1200x811.png";
 
         img.style.cssText = \`
           max-width:95%;
@@ -89,7 +89,7 @@ import{_ as t,c as r,o as a,j as n,ah as o,a as e}from"./chunks/framework.PvdZnr
             overlay.remove();
           }
         };
-      `})],-1),n("h2",{id:"installation-process-overview",tabindex:"-1"},[e("Installation Process & Overview "),n("a",{class:"header-anchor",href:"#installation-process-overview","aria-label":'Permalink to "Installation Process & Overview"'},"​")],-1),n("p",null,"To begin using the Influencer Marketplace, install the app:",-1),n("p",null,[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2026/04/influencermarketplacetwo.webp",alt:"Installation Process",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+      `})],-1),n("p",null,"Thereafter, you need to enter the email and your workspace URL.",-1),n("p",null,[n("strong",null,"Email-"),e(" Your active email so that you can easily receive emails related to the ChatWhizz account.")],-1),n("p",null,[n("strong",null,"Workspace URL-"),e(" Enter the domain name that you would like for your chatwhizz account. It should be alphanumeric.")],-1),n("p",null,"Workspace URL must not have empty space.",-1),n("p",null,[n("strong",null,"Choose country:"),e(" Select your country to continue.")],-1),n("p",null,[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2022/06/chatwhiz1-1200x857.webp",alt:"Country",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
         const existing = document.getElementById('wk-image-overlay');
         if(existing) existing.remove();
 
@@ -132,7 +132,7 @@ import{_ as t,c as r,o as a,j as n,ah as o,a as e}from"./chunks/framework.PvdZnr
         };
 
         const img = document.createElement('img');
-        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2026/04/influencermarketplacetwo.webp";
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2022/06/chatwhiz1-1200x857.webp";
 
         img.style.cssText = \`
           max-width:95%;
@@ -180,7 +180,7 @@ import{_ as t,c as r,o as a,j as n,ah as o,a as e}from"./chunks/framework.PvdZnr
             overlay.remove();
           }
         };
-      `})],-1),o('<ul><li>Navigate to the <strong>Multivendor Marketplace App</strong></li><li>Go to the <strong>Featured Apps</strong> section</li><li>Under <strong>Marketplace Other Add-ons</strong>, locate <strong>Influencer Marketplace</strong></li><li>The app is available at a cost of <strong>$10/month</strong></li><li>Click on <strong>Install</strong> to activate the feature</li></ul><p>This app allows sellers to:</p><ul><li>Hire influencers</li><li>Track commissions</li><li>Manage influencer-based promotions</li></ul><h2 id="login-process" tabindex="-1">Login Process <a class="header-anchor" href="#login-process" aria-label="Permalink to &quot;Login Process&quot;">​</a></h2><p>There is <strong>no separate login required</strong> for influencers or sellers.</p>',5),n("p",null,[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2026/04/influencermarketplacethree.webp",alt:"Login Process",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+      `})],-1),n("p",null,[n("strong",null,"Once you click “Create Account,” you’ll see two options appear. You have to choose Seller-Buyer Chat .")],-1),n("p",null,"The system selects Organization Chat by default, but you need to switch to Seller-Buyer Chat here .",-1),n("p",null,[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2021/04/sellerbuyerreg-1200x943.webp",alt:"SELLER BUYER REGISTRATION",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
         const existing = document.getElementById('wk-image-overlay');
         if(existing) existing.remove();
 
@@ -223,7 +223,7 @@ import{_ as t,c as r,o as a,j as n,ah as o,a as e}from"./chunks/framework.PvdZnr
         };
 
         const img = document.createElement('img');
-        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2026/04/influencermarketplacethree.webp";
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2021/04/sellerbuyerreg-1200x943.webp";
 
         img.style.cssText = \`
           max-width:95%;
@@ -271,7 +271,7 @@ import{_ as t,c as r,o as a,j as n,ah as o,a as e}from"./chunks/framework.PvdZnr
             overlay.remove();
           }
         };
-      `})],-1),o('<ul><li>Users can log in through the <strong>same panel used by sellers</strong></li><li>After installation, a new option called <strong>“Influencer”</strong> appears in the dropdown menu</li><li>This option is visible only after installation</li></ul><h2 id="admin-panel-configuration" tabindex="-1">Admin Panel Configuration <a class="header-anchor" href="#admin-panel-configuration" aria-label="Permalink to &quot;Admin Panel Configuration&quot;">​</a></h2><p>The admin manages and controls the influencer marketplace setup.</p><h3 id="influencer-marketplace-configuration" tabindex="-1">Influencer Marketplace Configuration <a class="header-anchor" href="#influencer-marketplace-configuration" aria-label="Permalink to &quot;Influencer Marketplace Configuration&quot;">​</a></h3><h4 id="a-allow-influencers-to-self-register" tabindex="-1">a. Allow Influencers to Self-Register <a class="header-anchor" href="#a-allow-influencers-to-self-register" aria-label="Permalink to &quot;a. Allow Influencers to Self-Register&quot;">​</a></h4><ul><li>Enable this option to allow users to sign up as influencers</li></ul>',6),n("p",null,[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2026/04/influencermarketplacefour.webp",alt:"Self Register",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+      `})],-1),n("p",null,"After that, you need to select the plan as per your organizational need, as ChatWhizz is the subscription-based platform where you need to select the plan.",-1),n("p",null,[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2026/10/sellerbuyer1.webp",alt:"seller buyer plan ",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
         const existing = document.getElementById('wk-image-overlay');
         if(existing) existing.remove();
 
@@ -314,7 +314,7 @@ import{_ as t,c as r,o as a,j as n,ah as o,a as e}from"./chunks/framework.PvdZnr
         };
 
         const img = document.createElement('img');
-        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2026/04/influencermarketplacefour.webp";
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2026/10/sellerbuyer1.webp";
 
         img.style.cssText = \`
           max-width:95%;
@@ -362,7 +362,7 @@ import{_ as t,c as r,o as a,j as n,ah as o,a as e}from"./chunks/framework.PvdZnr
             overlay.remove();
           }
         };
-      `})],-1),n("p",null,[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2026/04/influencermarketplacefive.webp",alt:"Self Register Form",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+      `})],-1),n("p",null,"Once you select the plan you will be redirected to the home page of seller buyer chat .",-1),n("p",null,[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2021/04/sellerbuyerdash-1200x857.webp",alt:"seller buyer dashborad",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
         const existing = document.getElementById('wk-image-overlay');
         if(existing) existing.remove();
 
@@ -405,7 +405,7 @@ import{_ as t,c as r,o as a,j as n,ah as o,a as e}from"./chunks/framework.PvdZnr
         };
 
         const img = document.createElement('img');
-        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2026/04/influencermarketplacefive.webp";
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2021/04/sellerbuyerdash-1200x857.webp";
 
         img.style.cssText = \`
           max-width:95%;
@@ -453,7 +453,7 @@ import{_ as t,c as r,o as a,j as n,ah as o,a as e}from"./chunks/framework.PvdZnr
             overlay.remove();
           }
         };
-      `})],-1),n("h4",{id:"b-allow-seller-to-set-commission-rate",tabindex:"-1"},[e("b. Allow Seller to Set Commission Rate "),n("a",{class:"header-anchor",href:"#b-allow-seller-to-set-commission-rate","aria-label":'Permalink to "b. Allow Seller to Set Commission Rate"'},"​")],-1),n("ul",null,[n("li",null,"Sellers can define custom commission rates for each influencer")],-1),n("p",null,[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2026/04/influencermarketplacesix.webp",alt:"Commission Setting",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+      `})],-1),n("h2",{id:"installation-at-multivendor-marketplace-end-seller-buyer-chat-add-on",tabindex:"-1"},[e("Installation at Multivendor Marketplace End: Seller-Buyer Chat Add-on "),n("a",{class:"header-anchor",href:"#installation-at-multivendor-marketplace-end-seller-buyer-chat-add-on","aria-label":'Permalink to "Installation at Multivendor Marketplace End: Seller-Buyer Chat Add-on"'},"​")],-1),n("p",null,[e("To install the add-on, visit "),n("strong",null,"Multivendor Marketplace Admin Panel"),e(" > Hover over the "),n("strong",null,"three dots"),e(" on the top right of the dashboard > "),n("strong",null,"Feature Apps"),e(". Next, enable the "),n("strong",null,"Seller-Buyer Chat"),e(" add-on:")],-1),n("p",null,[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/addsellerbuyer.webp",alt:"r9",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
         const existing = document.getElementById('wk-image-overlay');
         if(existing) existing.remove();
 
@@ -496,7 +496,7 @@ import{_ as t,c as r,o as a,j as n,ah as o,a as e}from"./chunks/framework.PvdZnr
         };
 
         const img = document.createElement('img');
-        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2026/04/influencermarketplacesix.webp";
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/addsellerbuyer.webp";
 
         img.style.cssText = \`
           max-width:95%;
@@ -544,7 +544,7 @@ import{_ as t,c as r,o as a,j as n,ah as o,a as e}from"./chunks/framework.PvdZnr
             overlay.remove();
           }
         };
-      `})],-1),n("h4",{id:"c-commission-bear-by",tabindex:"-1"},[e("c. Commission Bear By "),n("a",{class:"header-anchor",href:"#c-commission-bear-by","aria-label":'Permalink to "c. Commission Bear By"'},"​")],-1),n("ul",null,[n("li",null,[e("Currently, only the "),n("strong",null,"Seller"),e(" option is available")]),n("li",null,"The seller bears the influencer commission cost")],-1),n("h4",{id:"d-deduct-influencer-commission-on-order-refund",tabindex:"-1"},[e("d. Deduct Influencer Commission On Order Refund "),n("a",{class:"header-anchor",href:"#d-deduct-influencer-commission-on-order-refund","aria-label":'Permalink to "d. Deduct Influencer Commission On Order Refund"'},"​")],-1),n("p",null,[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2026/04/influencermarketplaceseven.webp",alt:"Refund Deduction",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+      `})],-1),n("p",null,[e("Once enabled, visit "),n("strong",null,"Configuration"),e(" > "),n("strong",null,"Seller Buyer Chat"),e(":")],-1),n("p",null,[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/configurationsellerbuyer.webp",alt:"image-25",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
         const existing = document.getElementById('wk-image-overlay');
         if(existing) existing.remove();
 
@@ -587,7 +587,7 @@ import{_ as t,c as r,o as a,j as n,ah as o,a as e}from"./chunks/framework.PvdZnr
         };
 
         const img = document.createElement('img');
-        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2026/04/influencermarketplaceseven.webp";
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/configurationsellerbuyer.webp";
 
         img.style.cssText = \`
           max-width:95%;
@@ -635,7 +635,7 @@ import{_ as t,c as r,o as a,j as n,ah as o,a as e}from"./chunks/framework.PvdZnr
             overlay.remove();
           }
         };
-      `})],-1),n("ul",null,[n("li",null,"If enabled, influencer commission is deducted when an order is refunded")],-1),n("h2",{id:"influencer-marketplace-section",tabindex:"-1"},[e("Influencer Marketplace Section "),n("a",{class:"header-anchor",href:"#influencer-marketplace-section","aria-label":'Permalink to "Influencer Marketplace Section"'},"​")],-1),n("h4",{id:"a-influencer-payment-methods",tabindex:"-1"},[e("a. Influencer Payment Methods "),n("a",{class:"header-anchor",href:"#a-influencer-payment-methods","aria-label":'Permalink to "a. Influencer Payment Methods"'},"​")],-1),n("ul",null,[n("li",null,"Admin can enable payment methods for influencers")],-1),n("p",null,[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2026/04/influencermarketplaceeight.webp",alt:"Payment Methods",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+      `})],-1),n("p",null,"Next, you need to configure the add-on by entering the following details:",-1),n("ul",null,[n("li",null,"Email ID (Admin needs to mention marketplace admin email ID)"),n("li",null,"Access Token"),n("li",null,"Refresh Token")],-1),n("p",null,[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/apiseller.webp",alt:"c2",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
         const existing = document.getElementById('wk-image-overlay');
         if(existing) existing.remove();
 
@@ -678,7 +678,7 @@ import{_ as t,c as r,o as a,j as n,ah as o,a as e}from"./chunks/framework.PvdZnr
         };
 
         const img = document.createElement('img');
-        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2026/04/influencermarketplaceeight.webp";
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/apiseller.webp";
 
         img.style.cssText = \`
           max-width:95%;
@@ -726,7 +726,7 @@ import{_ as t,c as r,o as a,j as n,ah as o,a as e}from"./chunks/framework.PvdZnr
             overlay.remove();
           }
         };
-      `})],-1),n("h4",{id:"b-manage-influencers",tabindex:"-1"},[e("b. Manage Influencers "),n("a",{class:"header-anchor",href:"#b-manage-influencers","aria-label":'Permalink to "b. Manage Influencers"'},"​")],-1),n("ul",null,[n("li",null,"Add new influencers")],-1),n("p",null,[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2026/04/influencermarketplacenine.webp",alt:"Add Influencer",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+      `})],-1),n("p",null,[e("To get the access token and refresh token, visit "),n("strong",null,"ChatWhizz admin > API details:")],-1),n("p",null,[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2021/04/sellerbuyertocket.webp",alt:"access tocken",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
         const existing = document.getElementById('wk-image-overlay');
         if(existing) existing.remove();
 
@@ -769,7 +769,7 @@ import{_ as t,c as r,o as a,j as n,ah as o,a as e}from"./chunks/framework.PvdZnr
         };
 
         const img = document.createElement('img');
-        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2026/04/influencermarketplacenine.webp";
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2021/04/sellerbuyertocket.webp";
 
         img.style.cssText = \`
           max-width:95%;
@@ -817,7 +817,7 @@ import{_ as t,c as r,o as a,j as n,ah as o,a as e}from"./chunks/framework.PvdZnr
             overlay.remove();
           }
         };
-      `})],-1),n("ul",null,[n("li",null,"View associated sellers")],-1),n("p",null,[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2026/04/influencermarketplaceten.webp",alt:"Seller Association",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+      `})],-1),n("p",null,"Here, you will have both the keys:",-1),n("p",null,"Once you'll save the details, you will get this success message on the screen:",-1),n("p",null,[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/savedconfig.webp",alt:"c3",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
         const existing = document.getElementById('wk-image-overlay');
         if(existing) existing.remove();
 
@@ -860,7 +860,7 @@ import{_ as t,c as r,o as a,j as n,ah as o,a as e}from"./chunks/framework.PvdZnr
         };
 
         const img = document.createElement('img');
-        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2026/04/influencermarketplaceten.webp";
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/savedconfig.webp";
 
         img.style.cssText = \`
           max-width:95%;
@@ -908,7 +908,7 @@ import{_ as t,c as r,o as a,j as n,ah as o,a as e}from"./chunks/framework.PvdZnr
             overlay.remove();
           }
         };
-      `})],-1),n("ul",null,[n("li",null,"Check earnings per seller")],-1),n("p",null,[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2026/04/influencermarketplaceeleven.webp",alt:"Earnings",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+      `})],-1),n("p",null,[e("Once the seller-buyer chat is successfully configured, it will appear under the "),n("strong",null,"Domain"),e(" section on the ChatWhizz dashboard.")],-1),n("p",null,[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2021/04/sellerbuyerdomain-1200x857.webp",alt:"seller buyer domain",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
         const existing = document.getElementById('wk-image-overlay');
         if(existing) existing.remove();
 
@@ -951,7 +951,7 @@ import{_ as t,c as r,o as a,j as n,ah as o,a as e}from"./chunks/framework.PvdZnr
         };
 
         const img = document.createElement('img');
-        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2026/04/influencermarketplaceeleven.webp";
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2021/04/sellerbuyerdomain-1200x857.webp";
 
         img.style.cssText = \`
           max-width:95%;
@@ -999,7 +999,7 @@ import{_ as t,c as r,o as a,j as n,ah as o,a as e}from"./chunks/framework.PvdZnr
             overlay.remove();
           }
         };
-      `})],-1),n("ul",null,[n("li",null,"Edit influencer details")],-1),n("p",null,[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2026/04/influencermarketplacetwelve.webp",alt:"Edit Influencer",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+      `})],-1),n("p",null,"NOTE:",-1),n("p",null,[e("If the admin enables "),n("strong",null,"Allow Sellers to Configure this Feature"),e(" tab, then the seller will be able to see and configure the feature on the seller panel.")],-1),n("p",null,[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/chatconfig.webp",alt:"c5",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
         const existing = document.getElementById('wk-image-overlay');
         if(existing) existing.remove();
 
@@ -1042,7 +1042,7 @@ import{_ as t,c as r,o as a,j as n,ah as o,a as e}from"./chunks/framework.PvdZnr
         };
 
         const img = document.createElement('img');
-        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2026/04/influencermarketplacetwelve.webp";
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/chatconfig.webp";
 
         img.style.cssText = \`
           max-width:95%;
@@ -1090,7 +1090,7 @@ import{_ as t,c as r,o as a,j as n,ah as o,a as e}from"./chunks/framework.PvdZnr
             overlay.remove();
           }
         };
-      `})],-1),o('<h2 id="seller-panel-workflow" tabindex="-1">Seller Panel Workflow <a class="header-anchor" href="#seller-panel-workflow" aria-label="Permalink to &quot;Seller Panel Workflow&quot;">​</a></h2><h3 id="hiring-an-influencer" tabindex="-1">Hiring an Influencer <a class="header-anchor" href="#hiring-an-influencer" aria-label="Permalink to &quot;Hiring an Influencer&quot;">​</a></h3><ul><li>Navigate to <strong>Influencer Marketplace → Influencers</strong></li><li>View the list of available influencers</li><li>Click on <strong>three dots (⋮)</strong> → Select <strong>Hire</strong></li></ul>',3),n("p",null,[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2026/04/influencermarketplacefifteen.webp",alt:"Hire Influencer",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+      `})],-1),n("p",null,[e('But if the admin disables "'),n("strong",null,"Allow Sellers to Configure this Feature"),e('" tab, then the seller will not be able to configure.')],-1),n("p",null,[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/chatsellerend.webp",alt:"Seller-Buyer Chat",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
         const existing = document.getElementById('wk-image-overlay');
         if(existing) existing.remove();
 
@@ -1133,7 +1133,7 @@ import{_ as t,c as r,o as a,j as n,ah as o,a as e}from"./chunks/framework.PvdZnr
         };
 
         const img = document.createElement('img');
-        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2026/04/influencermarketplacefifteen.webp";
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/chatsellerend.webp";
 
         img.style.cssText = \`
           max-width:95%;
@@ -1181,7 +1181,7 @@ import{_ as t,c as r,o as a,j as n,ah as o,a as e}from"./chunks/framework.PvdZnr
             overlay.remove();
           }
         };
-      `})],-1),n("ul",null,[n("li",null,"Set the commission rate while sending the request")],-1),n("p",null,[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2026/04/influencermarketplaceeighteen.webp",alt:"Set Commission",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+      `})],-1),n("h2",{id:"auto-login-to-seller-buyer-chat",tabindex:"-1"},[e("Auto-login to Seller-Buyer Chat "),n("a",{class:"header-anchor",href:"#auto-login-to-seller-buyer-chat","aria-label":'Permalink to "Auto-login to Seller-Buyer Chat"'},"​")],-1),n("p",null,"Sellers can now auto-login to the Chatwhizz panel from within their own seller panel.",-1),n("p",null,"They will find the option under Seller panel>> Configuration>>Seller-Buyer Chat>> Chat login",-1),n("p",null,[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/chatlogin.webp",alt:"Seller-Buyer Chat cofigs ",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
         const existing = document.getElementById('wk-image-overlay');
         if(existing) existing.remove();
 
@@ -1224,7 +1224,7 @@ import{_ as t,c as r,o as a,j as n,ah as o,a as e}from"./chunks/framework.PvdZnr
         };
 
         const img = document.createElement('img');
-        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2026/04/influencermarketplaceeighteen.webp";
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/chatlogin.webp";
 
         img.style.cssText = \`
           max-width:95%;
@@ -1272,7 +1272,7 @@ import{_ as t,c as r,o as a,j as n,ah as o,a as e}from"./chunks/framework.PvdZnr
             overlay.remove();
           }
         };
-      `})],-1),n("h3",{id:"managing-influencers",tabindex:"-1"},[e("Managing Influencers "),n("a",{class:"header-anchor",href:"#managing-influencers","aria-label":'Permalink to "Managing Influencers"'},"​")],-1),n("p",null,"Sellers can:",-1),n("ul",null,[n("li",null,"Cancel hiring requests")],-1),n("p",null,[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2026/04/influencermarketplacenineteen.webp",alt:"Cancel Request",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+      `})],-1),o("",4),n("p",null,[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/codepasting.webp",alt:"Seller-Buyer Chat codes ",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
         const existing = document.getElementById('wk-image-overlay');
         if(existing) existing.remove();
 
@@ -1315,7 +1315,7 @@ import{_ as t,c as r,o as a,j as n,ah as o,a as e}from"./chunks/framework.PvdZnr
         };
 
         const img = document.createElement('img');
-        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2026/04/influencermarketplacenineteen.webp";
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/codepasting.webp";
 
         img.style.cssText = \`
           max-width:95%;
@@ -1363,7 +1363,7 @@ import{_ as t,c as r,o as a,j as n,ah as o,a as e}from"./chunks/framework.PvdZnr
             overlay.remove();
           }
         };
-      `})],-1),n("ul",null,[n("li",null,"Terminate hired influencers")],-1),n("p",null,[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2026/04/influencermarketplacesixteen.webp",alt:"Terminate Influencer",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+      `})],-1),n("h3",{id:"code-for-online-store-2-0",tabindex:"-1"},[e("Code For Online Store 2.0 "),n("a",{class:"header-anchor",href:"#code-for-online-store-2-0","aria-label":'Permalink to "Code For Online Store 2.0"'},"​")],-1),n("p",null,"If you are using Online Store 2.0 (Example- Dawn), the codes to show the chatbox will remain the same.",-1),n("h2",{id:"marketplace-seller-panel",tabindex:"-1"},[e("Marketplace Seller Panel "),n("a",{class:"header-anchor",href:"#marketplace-seller-panel","aria-label":'Permalink to "Marketplace Seller Panel"'},"​")],-1),n("p",null,[e("On the marketplace seller panel, a seller needs to visit "),n("strong",null,"Configuration"),e(" > "),n("strong",null,"Seller Buyer Chat"),e(":")],-1),n("p",null,[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/chatmenu.webp",alt:"Seller-Buyer Chat seller config",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
         const existing = document.getElementById('wk-image-overlay');
         if(existing) existing.remove();
 
@@ -1406,7 +1406,7 @@ import{_ as t,c as r,o as a,j as n,ah as o,a as e}from"./chunks/framework.PvdZnr
         };
 
         const img = document.createElement('img');
-        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2026/04/influencermarketplacesixteen.webp";
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/chatmenu.webp";
 
         img.style.cssText = \`
           max-width:95%;
@@ -1454,7 +1454,7 @@ import{_ as t,c as r,o as a,j as n,ah as o,a as e}from"./chunks/framework.PvdZnr
             overlay.remove();
           }
         };
-      `})],-1),n("h3",{id:"viewing-influencer-details",tabindex:"-1"},[e("Viewing Influencer Details "),n("a",{class:"header-anchor",href:"#viewing-influencer-details","aria-label":'Permalink to "Viewing Influencer Details"'},"​")],-1),n("p",null,"Sellers can view:",-1),n("p",null,[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2026/04/influencermarketplacefourteen.webp",alt:"Influencer Details",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+      `})],-1),n("p",null,"Lastly, enable the option & save the changes:",-1),n("p",null,[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/sbchat.webp",alt:"Seller-Buyer Chat configuration",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
         const existing = document.getElementById('wk-image-overlay');
         if(existing) existing.remove();
 
@@ -1497,7 +1497,7 @@ import{_ as t,c as r,o as a,j as n,ah as o,a as e}from"./chunks/framework.PvdZnr
         };
 
         const img = document.createElement('img');
-        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2026/04/influencermarketplacefourteen.webp";
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/sbchat.webp";
 
         img.style.cssText = \`
           max-width:95%;
@@ -1545,7 +1545,7 @@ import{_ as t,c as r,o as a,j as n,ah as o,a as e}from"./chunks/framework.PvdZnr
             overlay.remove();
           }
         };
-      `})],-1),n("ul",null,[n("li",null,"Total earnings"),n("li",null,"Due payments"),n("li",null,"Payment history")],-1),n("h3",{id:"payments-to-influencers",tabindex:"-1"},[e("Payments to Influencers "),n("a",{class:"header-anchor",href:"#payments-to-influencers","aria-label":'Permalink to "Payments to Influencers"'},"​")],-1),n("p",null,[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2026/04/influencermarketplacetwenty.webp",alt:"Payments",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+      `})],-1),n("p",null,"Once done, an operator account will be created for the seller. The seller will receive an email regarding the same with login credentials.",-1),n("h2",{id:"chat-box-on-storefront",tabindex:"-1"},[e("Chat Box on Storefront "),n("a",{class:"header-anchor",href:"#chat-box-on-storefront","aria-label":'Permalink to "Chat Box on Storefront"'},"​")],-1),n("p",null,"You will have the chat widget on the bottom of the page (depending on the configuration):",-1),n("p",null,[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2021/04/image-32-1200x597.png",alt:"Seller-Buyer Chat store front",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
         const existing = document.getElementById('wk-image-overlay');
         if(existing) existing.remove();
 
@@ -1588,7 +1588,7 @@ import{_ as t,c as r,o as a,j as n,ah as o,a as e}from"./chunks/framework.PvdZnr
         };
 
         const img = document.createElement('img');
-        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2026/04/influencermarketplacetwenty.webp";
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2021/04/image-32-1200x597.png";
 
         img.style.cssText = \`
           max-width:95%;
@@ -1636,7 +1636,7 @@ import{_ as t,c as r,o as a,j as n,ah as o,a as e}from"./chunks/framework.PvdZnr
             overlay.remove();
           }
         };
-      `})],-1),n("ul",null,[n("li",null,"Use configured payment methods (if available)"),n("li",null,[e("Or: "),n("ul",null,[n("li",null,"Make manual payments"),n("li",null,"Record transactions within the app")])])],-1),n("h3",{id:"order-based-commission-management",tabindex:"-1"},[e("Order-Based Commission Management "),n("a",{class:"header-anchor",href:"#order-based-commission-management","aria-label":'Permalink to "Order-Based Commission Management"'},"​")],-1),n("p",null,[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2026/04/orderview.webp",alt:"Order Commission",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+      `})],-1),n("p",null,"Customers can send their queries in this chat box:",-1),n("p",null,[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2021/04/image-33.png",alt:"Seller-Buyer Chat store front ",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
         const existing = document.getElementById('wk-image-overlay');
         if(existing) existing.remove();
 
@@ -1679,7 +1679,7 @@ import{_ as t,c as r,o as a,j as n,ah as o,a as e}from"./chunks/framework.PvdZnr
         };
 
         const img = document.createElement('img');
-        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2026/04/orderview.webp";
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2021/04/image-33.png";
 
         img.style.cssText = \`
           max-width:95%;
@@ -1727,7 +1727,7 @@ import{_ as t,c as r,o as a,j as n,ah as o,a as e}from"./chunks/framework.PvdZnr
             overlay.remove();
           }
         };
-      `})],-1),o('<ul><li>Go to <strong>Order Listing</strong></li><li>View <strong>Influencer Earnings</strong></li><li>Accept or reject commission per order</li></ul><p><strong>Note:</strong> This option is available only after the order is <strong>fulfilled</strong>.</p><h2 id="influencer-panel-dashboard" tabindex="-1">Influencer Panel / Dashboard <a class="header-anchor" href="#influencer-panel-dashboard" aria-label="Permalink to &quot;Influencer Panel / Dashboard&quot;">​</a></h2>',3),n("p",null,[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2026/04/influencermarketplacetwentyone.webp",alt:"Influencer Dashboard",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+      `})],-1),n("p",null,"The operators/sellers will monitor it from the ChatWhizz backend.",-1),n("p",null,[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2021/04/image-34-1200x590.png",alt:"image-34",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
         const existing = document.getElementById('wk-image-overlay');
         if(existing) existing.remove();
 
@@ -1770,7 +1770,7 @@ import{_ as t,c as r,o as a,j as n,ah as o,a as e}from"./chunks/framework.PvdZnr
         };
 
         const img = document.createElement('img');
-        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2026/04/influencermarketplacetwentyone.webp";
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2021/04/image-34-1200x590.png";
 
         img.style.cssText = \`
           max-width:95%;
@@ -1818,7 +1818,7 @@ import{_ as t,c as r,o as a,j as n,ah as o,a as e}from"./chunks/framework.PvdZnr
             overlay.remove();
           }
         };
-      `})],-1),n("h3",{id:"sellers-section",tabindex:"-1"},[e("Sellers Section "),n("a",{class:"header-anchor",href:"#sellers-section","aria-label":'Permalink to "Sellers Section"'},"​")],-1),n("ul",null,[n("li",null,"View seller requests"),n("li",null,"Accept or reject requests")],-1),n("p",null,[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2026/04/influencermarketplacetwentytwo.webp",alt:"Requests",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+      `})],-1),n("p",null,[n("strong",null,"Note"),e(": Suppose a customer is on the product description page of product A. If the customer initiates the chat from this page, the seller selling product A will receive the message.")],-1),n("p",null,"Similarly, the product page from where the chat starts will decide which seller will get the chat notification.",-1),n("p",null,"Now, in case the customer is on any other page that is not a product page, the chat notification will go to the admin. The admin needs to conduct the chat in that case.",-1),n("h2",{id:"show-chat-history-to-customers",tabindex:"-1"},[e("Show chat history to customers "),n("a",{class:"header-anchor",href:"#show-chat-history-to-customers","aria-label":'Permalink to "Show chat history to customers"'},"​")],-1),n("p",null,"Now, you can show chat history to your customers on their account page. For this, firstly admin needs to regenerate the file from the storefront configuration",-1),n("p",null,"Multivendor marketplace admin panel>>Configuration>>Storefront configuration>> regenerate Seller buyer chat",-1),n("p",null,[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/regenarate.webp",alt:"Seller-Buyer Chat admin config",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
         const existing = document.getElementById('wk-image-overlay');
         if(existing) existing.remove();
 
@@ -1861,7 +1861,7 @@ import{_ as t,c as r,o as a,j as n,ah as o,a as e}from"./chunks/framework.PvdZnr
         };
 
         const img = document.createElement('img');
-        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2026/04/influencermarketplacetwentytwo.webp";
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/regenarate.webp";
 
         img.style.cssText = \`
           max-width:95%;
@@ -1909,7 +1909,7 @@ import{_ as t,c as r,o as a,j as n,ah as o,a as e}from"./chunks/framework.PvdZnr
             overlay.remove();
           }
         };
-      `})],-1),n("ul",null,[n("li",null,"View seller details")],-1),n("p",null,[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2026/04/influencermarketplacetwentythree.webp",alt:"Seller Details",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+      `})],-1),n("p",null,'A page named "Seller Buyer Chat" will be created on the Shopify pages section.',-1),n("p",null,[n("strong",null,"NOTE-"),e(" Make sure to add the code to the respective liquid file on Shopify as "),n("a",{href:"/zenith/featured-app/seller-add-ons/seller-buyer-chat.html#code-instructions"},[n("strong",null,"mentioned above")]),e(".")],-1),n("h2",{id:"seller-end",tabindex:"-1"},[e("SELLER END "),n("a",{class:"header-anchor",href:"#seller-end","aria-label":'Permalink to "SELLER END"'},"​")],-1),n("p",null,"On the seller's end, a chat widget will appear in the dashboard like this.",-1),n("p",null,[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/widget.webp",alt:"Seller-Buyer Chat seller dashboard",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
         const existing = document.getElementById('wk-image-overlay');
         if(existing) existing.remove();
 
@@ -1952,7 +1952,7 @@ import{_ as t,c as r,o as a,j as n,ah as o,a as e}from"./chunks/framework.PvdZnr
         };
 
         const img = document.createElement('img');
-        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2026/04/influencermarketplacetwentythree.webp";
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/widget.webp";
 
         img.style.cssText = \`
           max-width:95%;
@@ -2000,7 +2000,7 @@ import{_ as t,c as r,o as a,j as n,ah as o,a as e}from"./chunks/framework.PvdZnr
             overlay.remove();
           }
         };
-      `})],-1),n("ul",null,[n("li",null,"Track earnings (Total, Paid, Due)")],-1),n("p",null,"This is the referral link that the influencer will use to promote the seller’s products.",-1),n("p",null,[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2026/09/influencer.webp",alt:"Referral link",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+      `})],-1),n("p",null,[n("strong",null,"NOTE- To show the chat widget on the seller dashboard make sure that"),e(),n("strong",null,"add-on is enabled for that particular seller.")],-1),n("p",null,"Seller can accept/decline the chat and can create a ticket or end chat of an ongoing chat.",-1),n("p",null,"Enable UV desk addon on chatwhizz end for ticket creation.",-1),n("p",null,[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/chat.webp",alt:"Seller-Buyer Chat seller dashboard",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
         const existing = document.getElementById('wk-image-overlay');
         if(existing) existing.remove();
 
@@ -2043,7 +2043,7 @@ import{_ as t,c as r,o as a,j as n,ah as o,a as e}from"./chunks/framework.PvdZnr
         };
 
         const img = document.createElement('img');
-        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2026/09/influencer.webp";
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/chat.webp";
 
         img.style.cssText = \`
           max-width:95%;
@@ -2091,7 +2091,7 @@ import{_ as t,c as r,o as a,j as n,ah as o,a as e}from"./chunks/framework.PvdZnr
             overlay.remove();
           }
         };
-      `})],-1),n("h3",{id:"payment-methods",tabindex:"-1"},[e("Payment Methods "),n("a",{class:"header-anchor",href:"#payment-methods","aria-label":'Permalink to "Payment Methods"'},"​")],-1),n("ul",null,[n("li",null,"Choose from admin-enabled methods")],-1),n("p",null,[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2026/04/influencermarketplacetwentysix.webp",alt:"Payment Config",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+      `})],-1),n("p",null,[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/chatbox.webp",alt:"Seller-Buyer Chat seller end ",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
         const existing = document.getElementById('wk-image-overlay');
         if(existing) existing.remove();
 
@@ -2134,7 +2134,7 @@ import{_ as t,c as r,o as a,j as n,ah as o,a as e}from"./chunks/framework.PvdZnr
         };
 
         const img = document.createElement('img');
-        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2026/04/influencermarketplacetwentysix.webp";
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/chatbox.webp";
 
         img.style.cssText = \`
           max-width:95%;
@@ -2182,7 +2182,7 @@ import{_ as t,c as r,o as a,j as n,ah as o,a as e}from"./chunks/framework.PvdZnr
             overlay.remove();
           }
         };
-      `})],-1),n("ul",null,[n("li",null,"Configure to receive payments")],-1),n("h3",{id:"payouts",tabindex:"-1"},[e("Payouts "),n("a",{class:"header-anchor",href:"#payouts","aria-label":'Permalink to "Payouts"'},"​")],-1),n("p",null,[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2026/04/influencermarketplacetwentyfour.webp",alt:"Payouts",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+      `})],-1),n("h2",{id:"on-customer-end",tabindex:"-1"},[e("On customer end "),n("a",{class:"header-anchor",href:"#on-customer-end","aria-label":'Permalink to "On customer end"'},"​")],-1),n("p",null,"This is how it will look on the customer end",-1),n("p",null,[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2024/01/screenshot_1706088448749-1200x575.png",alt:"screenshot_1706088448749",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
         const existing = document.getElementById('wk-image-overlay');
         if(existing) existing.remove();
 
@@ -2225,7 +2225,7 @@ import{_ as t,c as r,o as a,j as n,ah as o,a as e}from"./chunks/framework.PvdZnr
         };
 
         const img = document.createElement('img');
-        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2026/04/influencermarketplacetwentyfour.webp";
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2024/01/screenshot_1706088448749-1200x575.png";
 
         img.style.cssText = \`
           max-width:95%;
@@ -2273,7 +2273,7 @@ import{_ as t,c as r,o as a,j as n,ah as o,a as e}from"./chunks/framework.PvdZnr
             overlay.remove();
           }
         };
-      `})],-1),n("ul",null,[n("li",null,"Track total earnings"),n("li",null,"View payout history")],-1),n("h3",{id:"profile",tabindex:"-1"},[e("Profile "),n("a",{class:"header-anchor",href:"#profile","aria-label":'Permalink to "Profile"'},"​")],-1),n("p",null,[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2026/04/influencermarketplacetwentyfive.webp",alt:"Profile",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+      `})],-1),n("p",null,[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2024/01/screenshot_1706088463155-1200x575.png",alt:"Seller-Buyer Chat customer end",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
         const existing = document.getElementById('wk-image-overlay');
         if(existing) existing.remove();
 
@@ -2316,7 +2316,7 @@ import{_ as t,c as r,o as a,j as n,ah as o,a as e}from"./chunks/framework.PvdZnr
         };
 
         const img = document.createElement('img');
-        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2026/04/influencermarketplacetwentyfive.webp";
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2024/01/screenshot_1706088463155-1200x575.png";
 
         img.style.cssText = \`
           max-width:95%;
@@ -2364,7 +2364,7 @@ import{_ as t,c as r,o as a,j as n,ah as o,a as e}from"./chunks/framework.PvdZnr
             overlay.remove();
           }
         };
-      `})],-1),o('<ul><li>Edit personal details</li><li>Update profile information</li></ul><h2 id="influencer-orders-listing-on-admin-and-seller-end" tabindex="-1">Influencer Orders Listing on Admin and Seller End <a class="header-anchor" href="#influencer-orders-listing-on-admin-and-seller-end" aria-label="Permalink to &quot;Influencer Orders Listing on Admin and Seller End&quot;">​</a></h2><p>A new <strong>Influencer Orders</strong> listing section has been introduced for both the <strong>Admin</strong> and <strong>Seller</strong> panels. This feature allows marketplace users to easily track and manage orders generated through influencer referrals directly from their respective dashboards.</p><h3 id="admin-panel" tabindex="-1">Admin Panel <a class="header-anchor" href="#admin-panel" aria-label="Permalink to &quot;Admin Panel&quot;">​</a></h3><p>The Admin can view all influencer-generated orders from a dedicated listing section, making it easier to monitor order activity and manage influencer-related sales across the marketplace.</p>',5),n("p",null,[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/adminorders1.webp",alt:"Influencer Orders Listing - Admin",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+      `})],-1),n("p",null,[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2024/01/seller-buyer-chat.myshopify.com_pages_seller-buyer-chat_clientId65b0d6fa1a4d0420fc29f108-1200x942.png",alt:"Seller-Buyer Chat",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
         const existing = document.getElementById('wk-image-overlay');
         if(existing) existing.remove();
 
@@ -2407,7 +2407,7 @@ import{_ as t,c as r,o as a,j as n,ah as o,a as e}from"./chunks/framework.PvdZnr
         };
 
         const img = document.createElement('img');
-        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/adminorders1.webp";
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2024/01/seller-buyer-chat.myshopify.com_pages_seller-buyer-chat_clientId65b0d6fa1a4d0420fc29f108-1200x942.png";
 
         img.style.cssText = \`
           max-width:95%;
@@ -2455,7 +2455,7 @@ import{_ as t,c as r,o as a,j as n,ah as o,a as e}from"./chunks/framework.PvdZnr
             overlay.remove();
           }
         };
-      `})],-1),n("h3",{id:"seller-panel",tabindex:"-1"},[e("Seller Panel "),n("a",{class:"header-anchor",href:"#seller-panel","aria-label":'Permalink to "Seller Panel"'},"​")],-1),n("p",null,"Sellers can access a separate Influencer Orders listing to view orders generated through influencers associated with their products. This helps sellers track influencer performance and monitor sales generated through influencer marketing campaigns.",-1),n("p",null,[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/sellerorders2.webp",alt:"Influencer Orders Listing - Seller",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+      `})],-1),o("",7),n("p",null,[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2026/04/prera.webp",alt:"domain",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
         const existing = document.getElementById('wk-image-overlay');
         if(existing) existing.remove();
 
@@ -2498,7 +2498,7 @@ import{_ as t,c as r,o as a,j as n,ah as o,a as e}from"./chunks/framework.PvdZnr
         };
 
         const img = document.createElement('img');
-        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/sellerorders2.webp";
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2026/04/prera.webp";
 
         img.style.cssText = \`
           max-width:95%;
@@ -2546,7 +2546,7 @@ import{_ as t,c as r,o as a,j as n,ah as o,a as e}from"./chunks/framework.PvdZnr
             overlay.remove();
           }
         };
-      `})],-1),n("h2",{id:"export-commission-data-from-order-listing-admin",tabindex:"-1"},[e("Export Commission Data from Order Listing (Admin) "),n("a",{class:"header-anchor",href:"#export-commission-data-from-order-listing-admin","aria-label":'Permalink to "Export Commission Data from Order Listing (Admin)"'},"​")],-1),n("p",null,[e("The "),n("strong",null,"Order Listing"),e(" page at the Admin end has been enhanced with a new "),n("strong",null,"Export Commission"),e(" functionality. Using this feature, Admin can export influencer commission details directly from the order listing for reporting, analysis, and management purposes.")],-1),n("p",null,"This makes it easier to maintain commission records and review influencer earnings associated with marketplace orders.",-1),n("p",null,[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/exportcommission3.webp",alt:"Export Commission Data",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+      `})],-1),n("h3",{id:"enable-auto-response",tabindex:"-1"},[n("strong",null,"Enable Auto Response"),e(),n("a",{class:"header-anchor",href:"#enable-auto-response","aria-label":'Permalink to "**Enable Auto Response**"'},"​")],-1),n("ol",null,[n("li",null,[e("After adding the domain, click on the "),n("strong",null,"Eye Icon"),e(" next to it")])],-1),n("p",null,[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2026/04/kkkkkkk.webp",alt:"image",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
         const existing = document.getElementById('wk-image-overlay');
         if(existing) existing.remove();
 
@@ -2589,7 +2589,7 @@ import{_ as t,c as r,o as a,j as n,ah as o,a as e}from"./chunks/framework.PvdZnr
         };
 
         const img = document.createElement('img');
-        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/exportcommission3.webp";
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2026/04/kkkkkkk.webp";
 
         img.style.cssText = \`
           max-width:95%;
@@ -2637,7 +2637,7 @@ import{_ as t,c as r,o as a,j as n,ah as o,a as e}from"./chunks/framework.PvdZnr
             overlay.remove();
           }
         };
-      `})],-1),n("h2",{id:"storefront-influencer-listing-configuration",tabindex:"-1"},[e("Storefront Influencer Listing Configuration "),n("a",{class:"header-anchor",href:"#storefront-influencer-listing-configuration","aria-label":'Permalink to "Storefront Influencer Listing Configuration"'},"​")],-1),n("p",null,[e("A new configuration has been introduced to display the "),n("strong",null,"Influencer Listing"),e(" on the storefront.")],-1),n("p",null,"To enable this feature, navigate to:",-1),n("p",null,[n("strong",null,"Configuration → Influencer Marketplace Configuration → Show Influencer Listing on Storefront")],-1),n("p",null,[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/influencerlistingstorefront4.webp",alt:"Storefront Influencer Listing Configuration",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+      `})],-1),o("",3),n("p",null,[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2026/04/saedkj.webp",alt:"image",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
         const existing = document.getElementById('wk-image-overlay');
         if(existing) existing.remove();
 
@@ -2680,7 +2680,7 @@ import{_ as t,c as r,o as a,j as n,ah as o,a as e}from"./chunks/framework.PvdZnr
         };
 
         const img = document.createElement('img');
-        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/influencerlistingstorefront4.webp";
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2026/04/saedkj.webp";
 
         img.style.cssText = \`
           max-width:95%;
@@ -2728,4 +2728,823 @@ import{_ as t,c as r,o as a,j as n,ah as o,a as e}from"./chunks/framework.PvdZnr
             overlay.remove();
           }
         };
-      `})],-1),o('<p>Enable this configuration and then generate the influencer storefront assets from:</p><p><strong>Admin Dashboard → Configuration → Storefront Configuration</strong></p><p>Once the configuration is enabled and the assets are generated successfully, the influencer listing page will become visible on the storefront, allowing customers to browse and explore registered influencers directly from the marketplace.</p><h2 id="conclusion" tabindex="-1">Conclusion <a class="header-anchor" href="#conclusion" aria-label="Permalink to &quot;Conclusion&quot;">​</a></h2><p>The <strong>Influencer Marketplace add-on</strong> enhances your multivendor store by enabling seamless collaboration between <strong>sellers and influencers</strong>.</p><p>With:</p><ul><li>Flexible commission settings</li><li>Transparent earnings tracking</li><li>Easy payment management</li></ul><p>It creates a <strong>win-win ecosystem</strong> for all parties.</p><p>Whether you&#39;re an <strong>admin</strong>, <strong>seller</strong>, or <strong>influencer</strong>, this feature simplifies the entire process efficiently.</p><h2 id="need-help" tabindex="-1">Need Help? <a class="header-anchor" href="#need-help" aria-label="Permalink to &quot;Need Help?&quot;">​</a></h2><p>If you face any issues:</p><ul><li>Email: <strong><a href="mailto:support@webkul.com" target="_blank" rel="noreferrer">support@webkul.com</a></strong></li><li>Or create a ticket at <strong>Webkul UV Desk</strong></li></ul><h3 id="schedule-demo" tabindex="-1">SCHEDULE DEMO <a class="header-anchor" href="#schedule-demo" aria-label="Permalink to &quot;SCHEDULE DEMO&quot;">​</a></h3><p><a href="https://egsma.io/shopify-multivendor-marketplace/" target="_blank" rel="noreferrer">Click here to Schedule the demo of Multivendor marketplace App for Shopify </a></p>',14)])])}const y=t(i,[["render",s]]);export{f as __pageData,y as default};
+      `})],-1),o("",5),n("p",null,[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2026/04/firt.webp",alt:"image",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+        const existing = document.getElementById('wk-image-overlay');
+        if(existing) existing.remove();
+
+        const overlay = document.createElement('div');
+        overlay.id = 'wk-image-overlay';
+
+        overlay.style.cssText = \`
+          position:fixed;
+          inset:0;
+          background:rgba(0,0,0,0.88);
+          display:flex;
+          align-items:center;
+          justify-content:center;
+          z-index:99999;
+          padding:20px;
+          cursor:zoom-out;
+          overflow:hidden;
+          backdrop-filter: blur(3px);
+        \`;
+
+        // 🔹 CLOSE BUTTON
+        const closeBtn = document.createElement('div');
+        closeBtn.innerHTML = '&times;';
+
+        closeBtn.style.cssText = \`
+          position:absolute;
+          top:20px;
+          right:25px;
+          color:#fff;
+          font-size:42px;
+          font-weight:bold;
+          cursor:pointer;
+          z-index:100000;
+          line-height:1;
+          user-select:none;
+        \`;
+
+        closeBtn.onclick = () => {
+          overlay.remove();
+        };
+
+        const img = document.createElement('img');
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2026/04/firt.webp";
+
+        img.style.cssText = \`
+          max-width:95%;
+          max-height:95%;
+          border-radius:12px;
+          transition:transform .15s ease;
+          cursor:zoom-in;
+          will-change:transform;
+          user-select:none;
+        \`;
+
+        let scale = 1;
+
+        // scroll zoom
+        overlay.onwheel = (e) => {
+          e.preventDefault();
+
+          scale += e.deltaY * -0.001;
+          scale = Math.min(Math.max(1, scale), 5);
+
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        // double click zoom
+        img.ondblclick = () => {
+          scale = scale === 1 ? 2 : 1;
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        overlay.appendChild(closeBtn);
+        overlay.appendChild(img);
+
+        document.body.appendChild(overlay);
+
+        // close overlay
+        overlay.onclick = (e) => {
+          if (e.target === overlay) {
+            overlay.remove();
+          }
+        };
+
+        // esc close
+        document.onkeydown = (e) => {
+          if (e.key === 'Escape') {
+            overlay.remove();
+          }
+        };
+      `})],-1),o("",4),n("p",null,[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2026/04/prera-1.webp",alt:"opem",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+        const existing = document.getElementById('wk-image-overlay');
+        if(existing) existing.remove();
+
+        const overlay = document.createElement('div');
+        overlay.id = 'wk-image-overlay';
+
+        overlay.style.cssText = \`
+          position:fixed;
+          inset:0;
+          background:rgba(0,0,0,0.88);
+          display:flex;
+          align-items:center;
+          justify-content:center;
+          z-index:99999;
+          padding:20px;
+          cursor:zoom-out;
+          overflow:hidden;
+          backdrop-filter: blur(3px);
+        \`;
+
+        // 🔹 CLOSE BUTTON
+        const closeBtn = document.createElement('div');
+        closeBtn.innerHTML = '&times;';
+
+        closeBtn.style.cssText = \`
+          position:absolute;
+          top:20px;
+          right:25px;
+          color:#fff;
+          font-size:42px;
+          font-weight:bold;
+          cursor:pointer;
+          z-index:100000;
+          line-height:1;
+          user-select:none;
+        \`;
+
+        closeBtn.onclick = () => {
+          overlay.remove();
+        };
+
+        const img = document.createElement('img');
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2026/04/prera-1.webp";
+
+        img.style.cssText = \`
+          max-width:95%;
+          max-height:95%;
+          border-radius:12px;
+          transition:transform .15s ease;
+          cursor:zoom-in;
+          will-change:transform;
+          user-select:none;
+        \`;
+
+        let scale = 1;
+
+        // scroll zoom
+        overlay.onwheel = (e) => {
+          e.preventDefault();
+
+          scale += e.deltaY * -0.001;
+          scale = Math.min(Math.max(1, scale), 5);
+
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        // double click zoom
+        img.ondblclick = () => {
+          scale = scale === 1 ? 2 : 1;
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        overlay.appendChild(closeBtn);
+        overlay.appendChild(img);
+
+        document.body.appendChild(overlay);
+
+        // close overlay
+        overlay.onclick = (e) => {
+          if (e.target === overlay) {
+            overlay.remove();
+          }
+        };
+
+        // esc close
+        document.onkeydown = (e) => {
+          if (e.key === 'Escape') {
+            overlay.remove();
+          }
+        };
+      `})],-1),n("p",null,[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2026/04/prera2.webp",alt:"api",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+        const existing = document.getElementById('wk-image-overlay');
+        if(existing) existing.remove();
+
+        const overlay = document.createElement('div');
+        overlay.id = 'wk-image-overlay';
+
+        overlay.style.cssText = \`
+          position:fixed;
+          inset:0;
+          background:rgba(0,0,0,0.88);
+          display:flex;
+          align-items:center;
+          justify-content:center;
+          z-index:99999;
+          padding:20px;
+          cursor:zoom-out;
+          overflow:hidden;
+          backdrop-filter: blur(3px);
+        \`;
+
+        // 🔹 CLOSE BUTTON
+        const closeBtn = document.createElement('div');
+        closeBtn.innerHTML = '&times;';
+
+        closeBtn.style.cssText = \`
+          position:absolute;
+          top:20px;
+          right:25px;
+          color:#fff;
+          font-size:42px;
+          font-weight:bold;
+          cursor:pointer;
+          z-index:100000;
+          line-height:1;
+          user-select:none;
+        \`;
+
+        closeBtn.onclick = () => {
+          overlay.remove();
+        };
+
+        const img = document.createElement('img');
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2026/04/prera2.webp";
+
+        img.style.cssText = \`
+          max-width:95%;
+          max-height:95%;
+          border-radius:12px;
+          transition:transform .15s ease;
+          cursor:zoom-in;
+          will-change:transform;
+          user-select:none;
+        \`;
+
+        let scale = 1;
+
+        // scroll zoom
+        overlay.onwheel = (e) => {
+          e.preventDefault();
+
+          scale += e.deltaY * -0.001;
+          scale = Math.min(Math.max(1, scale), 5);
+
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        // double click zoom
+        img.ondblclick = () => {
+          scale = scale === 1 ? 2 : 1;
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        overlay.appendChild(closeBtn);
+        overlay.appendChild(img);
+
+        document.body.appendChild(overlay);
+
+        // close overlay
+        overlay.onclick = (e) => {
+          if (e.target === overlay) {
+            overlay.remove();
+          }
+        };
+
+        // esc close
+        document.onkeydown = (e) => {
+          if (e.key === 'Escape') {
+            overlay.remove();
+          }
+        };
+      `})],-1),n("p",null,[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2026/04/jhsjsdkljkljasdkjfksajdfs.webp",alt:"key ",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+        const existing = document.getElementById('wk-image-overlay');
+        if(existing) existing.remove();
+
+        const overlay = document.createElement('div');
+        overlay.id = 'wk-image-overlay';
+
+        overlay.style.cssText = \`
+          position:fixed;
+          inset:0;
+          background:rgba(0,0,0,0.88);
+          display:flex;
+          align-items:center;
+          justify-content:center;
+          z-index:99999;
+          padding:20px;
+          cursor:zoom-out;
+          overflow:hidden;
+          backdrop-filter: blur(3px);
+        \`;
+
+        // 🔹 CLOSE BUTTON
+        const closeBtn = document.createElement('div');
+        closeBtn.innerHTML = '&times;';
+
+        closeBtn.style.cssText = \`
+          position:absolute;
+          top:20px;
+          right:25px;
+          color:#fff;
+          font-size:42px;
+          font-weight:bold;
+          cursor:pointer;
+          z-index:100000;
+          line-height:1;
+          user-select:none;
+        \`;
+
+        closeBtn.onclick = () => {
+          overlay.remove();
+        };
+
+        const img = document.createElement('img');
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2026/04/jhsjsdkljkljasdkjfksajdfs.webp";
+
+        img.style.cssText = \`
+          max-width:95%;
+          max-height:95%;
+          border-radius:12px;
+          transition:transform .15s ease;
+          cursor:zoom-in;
+          will-change:transform;
+          user-select:none;
+        \`;
+
+        let scale = 1;
+
+        // scroll zoom
+        overlay.onwheel = (e) => {
+          e.preventDefault();
+
+          scale += e.deltaY * -0.001;
+          scale = Math.min(Math.max(1, scale), 5);
+
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        // double click zoom
+        img.ondblclick = () => {
+          scale = scale === 1 ? 2 : 1;
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        overlay.appendChild(closeBtn);
+        overlay.appendChild(img);
+
+        document.body.appendChild(overlay);
+
+        // close overlay
+        overlay.onclick = (e) => {
+          if (e.target === overlay) {
+            overlay.remove();
+          }
+        };
+
+        // esc close
+        document.onkeydown = (e) => {
+          if (e.key === 'Escape') {
+            overlay.remove();
+          }
+        };
+      `})],-1),o("",3),n("p",null,[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2026/04/newwww.webp",alt:"install",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+        const existing = document.getElementById('wk-image-overlay');
+        if(existing) existing.remove();
+
+        const overlay = document.createElement('div');
+        overlay.id = 'wk-image-overlay';
+
+        overlay.style.cssText = \`
+          position:fixed;
+          inset:0;
+          background:rgba(0,0,0,0.88);
+          display:flex;
+          align-items:center;
+          justify-content:center;
+          z-index:99999;
+          padding:20px;
+          cursor:zoom-out;
+          overflow:hidden;
+          backdrop-filter: blur(3px);
+        \`;
+
+        // 🔹 CLOSE BUTTON
+        const closeBtn = document.createElement('div');
+        closeBtn.innerHTML = '&times;';
+
+        closeBtn.style.cssText = \`
+          position:absolute;
+          top:20px;
+          right:25px;
+          color:#fff;
+          font-size:42px;
+          font-weight:bold;
+          cursor:pointer;
+          z-index:100000;
+          line-height:1;
+          user-select:none;
+        \`;
+
+        closeBtn.onclick = () => {
+          overlay.remove();
+        };
+
+        const img = document.createElement('img');
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2026/04/newwww.webp";
+
+        img.style.cssText = \`
+          max-width:95%;
+          max-height:95%;
+          border-radius:12px;
+          transition:transform .15s ease;
+          cursor:zoom-in;
+          will-change:transform;
+          user-select:none;
+        \`;
+
+        let scale = 1;
+
+        // scroll zoom
+        overlay.onwheel = (e) => {
+          e.preventDefault();
+
+          scale += e.deltaY * -0.001;
+          scale = Math.min(Math.max(1, scale), 5);
+
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        // double click zoom
+        img.ondblclick = () => {
+          scale = scale === 1 ? 2 : 1;
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        overlay.appendChild(closeBtn);
+        overlay.appendChild(img);
+
+        document.body.appendChild(overlay);
+
+        // close overlay
+        overlay.onclick = (e) => {
+          if (e.target === overlay) {
+            overlay.remove();
+          }
+        };
+
+        // esc close
+        document.onkeydown = (e) => {
+          if (e.key === 'Escape') {
+            overlay.remove();
+          }
+        };
+      `})],-1),n("ol",{start:"4"},[n("li",null,[e("After installation: "),n("ul",null,[n("li",null,[e("You will see "),n("strong",null,"Choose Your Chat Mode")]),n("li",null,[e("Select "),n("strong",null,"Seller Buyer Chat")]),n("li",null,[e("Click "),n("strong",null,"Continue")])])])],-1),n("p",null,[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2026/04/prer.webp",alt:"choose mode",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+        const existing = document.getElementById('wk-image-overlay');
+        if(existing) existing.remove();
+
+        const overlay = document.createElement('div');
+        overlay.id = 'wk-image-overlay';
+
+        overlay.style.cssText = \`
+          position:fixed;
+          inset:0;
+          background:rgba(0,0,0,0.88);
+          display:flex;
+          align-items:center;
+          justify-content:center;
+          z-index:99999;
+          padding:20px;
+          cursor:zoom-out;
+          overflow:hidden;
+          backdrop-filter: blur(3px);
+        \`;
+
+        // 🔹 CLOSE BUTTON
+        const closeBtn = document.createElement('div');
+        closeBtn.innerHTML = '&times;';
+
+        closeBtn.style.cssText = \`
+          position:absolute;
+          top:20px;
+          right:25px;
+          color:#fff;
+          font-size:42px;
+          font-weight:bold;
+          cursor:pointer;
+          z-index:100000;
+          line-height:1;
+          user-select:none;
+        \`;
+
+        closeBtn.onclick = () => {
+          overlay.remove();
+        };
+
+        const img = document.createElement('img');
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2026/04/prer.webp";
+
+        img.style.cssText = \`
+          max-width:95%;
+          max-height:95%;
+          border-radius:12px;
+          transition:transform .15s ease;
+          cursor:zoom-in;
+          will-change:transform;
+          user-select:none;
+        \`;
+
+        let scale = 1;
+
+        // scroll zoom
+        overlay.onwheel = (e) => {
+          e.preventDefault();
+
+          scale += e.deltaY * -0.001;
+          scale = Math.min(Math.max(1, scale), 5);
+
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        // double click zoom
+        img.ondblclick = () => {
+          scale = scale === 1 ? 2 : 1;
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        overlay.appendChild(closeBtn);
+        overlay.appendChild(img);
+
+        document.body.appendChild(overlay);
+
+        // close overlay
+        overlay.onclick = (e) => {
+          if (e.target === overlay) {
+            overlay.remove();
+          }
+        };
+
+        // esc close
+        document.onkeydown = (e) => {
+          if (e.key === 'Escape') {
+            overlay.remove();
+          }
+        };
+      `})],-1),n("p",null,"Once done, Auto Bot functionality will be activated.",-1),n("p",null,[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2026/04/pereir.webp",alt:"activated",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+        const existing = document.getElementById('wk-image-overlay');
+        if(existing) existing.remove();
+
+        const overlay = document.createElement('div');
+        overlay.id = 'wk-image-overlay';
+
+        overlay.style.cssText = \`
+          position:fixed;
+          inset:0;
+          background:rgba(0,0,0,0.88);
+          display:flex;
+          align-items:center;
+          justify-content:center;
+          z-index:99999;
+          padding:20px;
+          cursor:zoom-out;
+          overflow:hidden;
+          backdrop-filter: blur(3px);
+        \`;
+
+        // 🔹 CLOSE BUTTON
+        const closeBtn = document.createElement('div');
+        closeBtn.innerHTML = '&times;';
+
+        closeBtn.style.cssText = \`
+          position:absolute;
+          top:20px;
+          right:25px;
+          color:#fff;
+          font-size:42px;
+          font-weight:bold;
+          cursor:pointer;
+          z-index:100000;
+          line-height:1;
+          user-select:none;
+        \`;
+
+        closeBtn.onclick = () => {
+          overlay.remove();
+        };
+
+        const img = document.createElement('img');
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2026/04/pereir.webp";
+
+        img.style.cssText = \`
+          max-width:95%;
+          max-height:95%;
+          border-radius:12px;
+          transition:transform .15s ease;
+          cursor:zoom-in;
+          will-change:transform;
+          user-select:none;
+        \`;
+
+        let scale = 1;
+
+        // scroll zoom
+        overlay.onwheel = (e) => {
+          e.preventDefault();
+
+          scale += e.deltaY * -0.001;
+          scale = Math.min(Math.max(1, scale), 5);
+
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        // double click zoom
+        img.ondblclick = () => {
+          scale = scale === 1 ? 2 : 1;
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        overlay.appendChild(closeBtn);
+        overlay.appendChild(img);
+
+        document.body.appendChild(overlay);
+
+        // close overlay
+        overlay.onclick = (e) => {
+          if (e.target === overlay) {
+            overlay.remove();
+          }
+        };
+
+        // esc close
+        document.onkeydown = (e) => {
+          if (e.key === 'Escape') {
+            overlay.remove();
+          }
+        };
+      `})],-1),o("",5),n("p",null,[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2026/04/dafsdfasdf.webp",alt:"frontend",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+        const existing = document.getElementById('wk-image-overlay');
+        if(existing) existing.remove();
+
+        const overlay = document.createElement('div');
+        overlay.id = 'wk-image-overlay';
+
+        overlay.style.cssText = \`
+          position:fixed;
+          inset:0;
+          background:rgba(0,0,0,0.88);
+          display:flex;
+          align-items:center;
+          justify-content:center;
+          z-index:99999;
+          padding:20px;
+          cursor:zoom-out;
+          overflow:hidden;
+          backdrop-filter: blur(3px);
+        \`;
+
+        // 🔹 CLOSE BUTTON
+        const closeBtn = document.createElement('div');
+        closeBtn.innerHTML = '&times;';
+
+        closeBtn.style.cssText = \`
+          position:absolute;
+          top:20px;
+          right:25px;
+          color:#fff;
+          font-size:42px;
+          font-weight:bold;
+          cursor:pointer;
+          z-index:100000;
+          line-height:1;
+          user-select:none;
+        \`;
+
+        closeBtn.onclick = () => {
+          overlay.remove();
+        };
+
+        const img = document.createElement('img');
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2026/04/dafsdfasdf.webp";
+
+        img.style.cssText = \`
+          max-width:95%;
+          max-height:95%;
+          border-radius:12px;
+          transition:transform .15s ease;
+          cursor:zoom-in;
+          will-change:transform;
+          user-select:none;
+        \`;
+
+        let scale = 1;
+
+        // scroll zoom
+        overlay.onwheel = (e) => {
+          e.preventDefault();
+
+          scale += e.deltaY * -0.001;
+          scale = Math.min(Math.max(1, scale), 5);
+
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        // double click zoom
+        img.ondblclick = () => {
+          scale = scale === 1 ? 2 : 1;
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        overlay.appendChild(closeBtn);
+        overlay.appendChild(img);
+
+        document.body.appendChild(overlay);
+
+        // close overlay
+        overlay.onclick = (e) => {
+          if (e.target === overlay) {
+            overlay.remove();
+          }
+        };
+
+        // esc close
+        document.onkeydown = (e) => {
+          if (e.key === 'Escape') {
+            overlay.remove();
+          }
+        };
+      `})],-1),o("",3),n("p",null,[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2026/04/dfasdfasdfasdfasf.webp",alt:"custom message",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+        const existing = document.getElementById('wk-image-overlay');
+        if(existing) existing.remove();
+
+        const overlay = document.createElement('div');
+        overlay.id = 'wk-image-overlay';
+
+        overlay.style.cssText = \`
+          position:fixed;
+          inset:0;
+          background:rgba(0,0,0,0.88);
+          display:flex;
+          align-items:center;
+          justify-content:center;
+          z-index:99999;
+          padding:20px;
+          cursor:zoom-out;
+          overflow:hidden;
+          backdrop-filter: blur(3px);
+        \`;
+
+        // 🔹 CLOSE BUTTON
+        const closeBtn = document.createElement('div');
+        closeBtn.innerHTML = '&times;';
+
+        closeBtn.style.cssText = \`
+          position:absolute;
+          top:20px;
+          right:25px;
+          color:#fff;
+          font-size:42px;
+          font-weight:bold;
+          cursor:pointer;
+          z-index:100000;
+          line-height:1;
+          user-select:none;
+        \`;
+
+        closeBtn.onclick = () => {
+          overlay.remove();
+        };
+
+        const img = document.createElement('img');
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2026/04/dfasdfasdfasdfasf.webp";
+
+        img.style.cssText = \`
+          max-width:95%;
+          max-height:95%;
+          border-radius:12px;
+          transition:transform .15s ease;
+          cursor:zoom-in;
+          will-change:transform;
+          user-select:none;
+        \`;
+
+        let scale = 1;
+
+        // scroll zoom
+        overlay.onwheel = (e) => {
+          e.preventDefault();
+
+          scale += e.deltaY * -0.001;
+          scale = Math.min(Math.max(1, scale), 5);
+
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        // double click zoom
+        img.ondblclick = () => {
+          scale = scale === 1 ? 2 : 1;
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        overlay.appendChild(closeBtn);
+        overlay.appendChild(img);
+
+        document.body.appendChild(overlay);
+
+        // close overlay
+        overlay.onclick = (e) => {
+          if (e.target === overlay) {
+            overlay.remove();
+          }
+        };
+
+        // esc close
+        document.onkeydown = (e) => {
+          if (e.key === 'Escape') {
+            overlay.remove();
+          }
+        };
+      `})],-1),n("h3",{id:"schedule-demo",tabindex:"-1"},[e("SCHEDULE DEMO "),n("a",{class:"header-anchor",href:"#schedule-demo","aria-label":'Permalink to "SCHEDULE DEMO"'},"​")],-1),n("p",null,[n("a",{href:"https://egsma.io/shopify-multivendor-marketplace/",target:"_blank",rel:"noreferrer"},"Click here to Schedule the demo of Multivendor marketplace App for Shopify ")],-1)])])}const h=l(a,[["render",i]]);export{y as __pageData,h as default};

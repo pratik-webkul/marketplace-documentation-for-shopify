@@ -9214,7 +9214,189 @@ import{_ as l,c as r,o as s,j as n,ah as o,a as e}from"./chunks/framework.PvdZnr
             overlay.remove();
           }
         };
-      `})])],-1),n("h2",{id:"hide-show-product-images-in-product-listing",tabindex:"-1"},[e("HIDE/SHOW PRODUCT IMAGES IN PRODUCT LISTING "),n("a",{class:"header-anchor",href:"#hide-show-product-images-in-product-listing","aria-label":'Permalink to "HIDE/SHOW PRODUCT IMAGES IN PRODUCT LISTING"'},"​")],-1),n("p",null,"You can now hide/show the product images in the product listing section by enabling/disabling the below configuration from the product configuration section.",-1),n("p",null,[e("Multivendor Marketplace App Admin panel>>Configuration>>Product Configuration>> Enable/disable "),n("strong",null,'SHOW PRODUCT IMAGE FIELD UNDER "PRODUCT LISTING"'),e(" SECTION>>Save.")],-1),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
+      `})])],-1),o('<h2 id="how-to-make-shipping-method-selection-mandatory-for-sellers" tabindex="-1">How to Make Shipping Method Selection Mandatory for Sellers <a class="header-anchor" href="#how-to-make-shipping-method-selection-mandatory-for-sellers" aria-label="Permalink to &quot;How to Make Shipping Method Selection Mandatory for Sellers&quot;">​</a></h2><p>The Multivendor Marketplace app allows the admin to make shipping method selection mandatory for sellers when adding or editing products. This ensures that sellers select the required shipping method before saving a product.</p><p>If the shipping method is configured as a required field, sellers must select a shipping method on the product Add page. If they do not select one, they will not be able to save the product.</p><h3 id="steps-to-make-shipping-method-selection-mandatory" tabindex="-1">Steps to Make Shipping Method Selection Mandatory <a class="header-anchor" href="#steps-to-make-shipping-method-selection-mandatory" aria-label="Permalink to &quot;Steps to Make Shipping Method Selection Mandatory&quot;">​</a></h3><p>To configure this setting, the admin needs to follow these steps:</p><ol><li>Log in to the <strong>Multi Vendor Marketplace Admin Panel</strong>.</li><li>Navigate to <strong>Product → Product Form Customization</strong>.</li><li>Locate the <strong>Require Shipping</strong> checkbox and tick it to make shipping method selection mandatory.</li><li>Save the configuration.</li></ol>',6),n("p",null,[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2026/10/com.webp",alt:"Require Shipping Configuration",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+        const existing = document.getElementById('wk-image-overlay');
+        if(existing) existing.remove();
+
+        const overlay = document.createElement('div');
+        overlay.id = 'wk-image-overlay';
+
+        overlay.style.cssText = \`
+          position:fixed;
+          inset:0;
+          background:rgba(0,0,0,0.88);
+          display:flex;
+          align-items:center;
+          justify-content:center;
+          z-index:99999;
+          padding:20px;
+          cursor:zoom-out;
+          overflow:hidden;
+          backdrop-filter: blur(3px);
+        \`;
+
+        // 🔹 CLOSE BUTTON
+        const closeBtn = document.createElement('div');
+        closeBtn.innerHTML = '&times;';
+
+        closeBtn.style.cssText = \`
+          position:absolute;
+          top:20px;
+          right:25px;
+          color:#fff;
+          font-size:42px;
+          font-weight:bold;
+          cursor:pointer;
+          z-index:100000;
+          line-height:1;
+          user-select:none;
+        \`;
+
+        closeBtn.onclick = () => {
+          overlay.remove();
+        };
+
+        const img = document.createElement('img');
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2026/10/com.webp";
+
+        img.style.cssText = \`
+          max-width:95%;
+          max-height:95%;
+          border-radius:12px;
+          transition:transform .15s ease;
+          cursor:zoom-in;
+          will-change:transform;
+          user-select:none;
+        \`;
+
+        let scale = 1;
+
+        // scroll zoom
+        overlay.onwheel = (e) => {
+          e.preventDefault();
+
+          scale += e.deltaY * -0.001;
+          scale = Math.min(Math.max(1, scale), 5);
+
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        // double click zoom
+        img.ondblclick = () => {
+          scale = scale === 1 ? 2 : 1;
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        overlay.appendChild(closeBtn);
+        overlay.appendChild(img);
+
+        document.body.appendChild(overlay);
+
+        // close overlay
+        overlay.onclick = (e) => {
+          if (e.target === overlay) {
+            overlay.remove();
+          }
+        };
+
+        // esc close
+        document.onkeydown = (e) => {
+          if (e.key === 'Escape') {
+            overlay.remove();
+          }
+        };
+      `})],-1),n("h3",{id:"how-it-works",tabindex:"-1"},[e("How It Works "),n("a",{class:"header-anchor",href:"#how-it-works","aria-label":'Permalink to "How It Works"'},"​")],-1),n("p",null,"Once this setting is enabled, sellers must select a shipping method while adding a new product.",-1),n("ul",null,[n("li",null,[n("p",null,[n("strong",null,"When enabled:"),e(" Selecting a shipping method is mandatory. Sellers cannot save the product without selecting a shipping method.")]),n("p",null,[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2026/10/comonee.webp",alt:"Shipping Method Required",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+        const existing = document.getElementById('wk-image-overlay');
+        if(existing) existing.remove();
+
+        const overlay = document.createElement('div');
+        overlay.id = 'wk-image-overlay';
+
+        overlay.style.cssText = \`
+          position:fixed;
+          inset:0;
+          background:rgba(0,0,0,0.88);
+          display:flex;
+          align-items:center;
+          justify-content:center;
+          z-index:99999;
+          padding:20px;
+          cursor:zoom-out;
+          overflow:hidden;
+          backdrop-filter: blur(3px);
+        \`;
+
+        // 🔹 CLOSE BUTTON
+        const closeBtn = document.createElement('div');
+        closeBtn.innerHTML = '&times;';
+
+        closeBtn.style.cssText = \`
+          position:absolute;
+          top:20px;
+          right:25px;
+          color:#fff;
+          font-size:42px;
+          font-weight:bold;
+          cursor:pointer;
+          z-index:100000;
+          line-height:1;
+          user-select:none;
+        \`;
+
+        closeBtn.onclick = () => {
+          overlay.remove();
+        };
+
+        const img = document.createElement('img');
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2026/10/comonee.webp";
+
+        img.style.cssText = \`
+          max-width:95%;
+          max-height:95%;
+          border-radius:12px;
+          transition:transform .15s ease;
+          cursor:zoom-in;
+          will-change:transform;
+          user-select:none;
+        \`;
+
+        let scale = 1;
+
+        // scroll zoom
+        overlay.onwheel = (e) => {
+          e.preventDefault();
+
+          scale += e.deltaY * -0.001;
+          scale = Math.min(Math.max(1, scale), 5);
+
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        // double click zoom
+        img.ondblclick = () => {
+          scale = scale === 1 ? 2 : 1;
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        overlay.appendChild(closeBtn);
+        overlay.appendChild(img);
+
+        document.body.appendChild(overlay);
+
+        // close overlay
+        overlay.onclick = (e) => {
+          if (e.target === overlay) {
+            overlay.remove();
+          }
+        };
+
+        // esc close
+        document.onkeydown = (e) => {
+          if (e.key === 'Escape') {
+            overlay.remove();
+          }
+        };
+      `})])]),n("li",null,[n("p",null,[n("strong",null,"When disabled:"),e(" Selecting a shipping method is optional, allowing sellers to save products without selecting one.")])])],-1),n("p",null,"This configuration helps the admin ensure that sellers provide the required shipping information for their products before saving them.",-1),n("h2",{id:"hide-show-product-images-in-product-listing",tabindex:"-1"},[e("HIDE/SHOW PRODUCT IMAGES IN PRODUCT LISTING "),n("a",{class:"header-anchor",href:"#hide-show-product-images-in-product-listing","aria-label":'Permalink to "HIDE/SHOW PRODUCT IMAGES IN PRODUCT LISTING"'},"​")],-1),n("p",null,"You can now hide/show the product images in the product listing section by enabling/disabling the below configuration from the product configuration section.",-1),n("p",null,[e("Multivendor Marketplace App Admin panel>>Configuration>>Product Configuration>> Enable/disable "),n("strong",null,'SHOW PRODUCT IMAGE FIELD UNDER "PRODUCT LISTING"'),e(" SECTION>>Save.")],-1),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
           event.preventDefault();
 
           const existing = document.getElementById('wk-image-overlay');
@@ -13439,7 +13621,189 @@ import{_ as l,c as r,o as s,j as n,ah as o,a as e}from"./chunks/framework.PvdZnr
             overlay.remove();
           }
         };
-      `})])],-1),n("h2",{id:"shopify-taxonomy-category-added-to-the-product-form",tabindex:"-1"},[n("strong",null,"Shopify Taxonomy category added to the product form"),e(),n("a",{class:"header-anchor",href:"#shopify-taxonomy-category-added-to-the-product-form","aria-label":'Permalink to "**Shopify Taxonomy category added to the product form**"'},"​")],-1),n("p",null,"We've added a new option to the Product form: Shopify Taxonomy Category, making product categorization easier and more accurate.",-1),n("p",null,"To display this field in the product form, the Admin can enable the Product taxonomy category config.",-1),n("p",null,[e("To enable, go to Multivendor Admin Panel > Configuration > Product Configuration, and enable the "),n("strong",null,"Product Taxonomy Category"),e(" config.")],-1),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
+      `})])],-1),o('<h2 id="change-an-active-product-to-draft" tabindex="-1">Change an Active Product to Draft <a class="header-anchor" href="#change-an-active-product-to-draft" aria-label="Permalink to &quot;Change an Active Product to Draft&quot;">​</a></h2><p>Sellers can now change an active product&#39;s status back to <strong>Draft</strong> from the Seller Panel.</p><p>To enable this functionality, the admin must ensure that the following configurations are enabled in the MultiVendor Marketplace app:</p><ul><li><strong>Save Product as Draft</strong></li><li><strong>Create Product as Draft on Shopify</strong></li></ul><p>Once both configurations are enabled, sellers can change their active products to Draft status as required.</p>',5),n("p",null,[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2026/10/draftproduct.webp",alt:"Change Active Product to Draft",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+        const existing = document.getElementById('wk-image-overlay');
+        if(existing) existing.remove();
+
+        const overlay = document.createElement('div');
+        overlay.id = 'wk-image-overlay';
+
+        overlay.style.cssText = \`
+          position:fixed;
+          inset:0;
+          background:rgba(0,0,0,0.88);
+          display:flex;
+          align-items:center;
+          justify-content:center;
+          z-index:99999;
+          padding:20px;
+          cursor:zoom-out;
+          overflow:hidden;
+          backdrop-filter: blur(3px);
+        \`;
+
+        // 🔹 CLOSE BUTTON
+        const closeBtn = document.createElement('div');
+        closeBtn.innerHTML = '&times;';
+
+        closeBtn.style.cssText = \`
+          position:absolute;
+          top:20px;
+          right:25px;
+          color:#fff;
+          font-size:42px;
+          font-weight:bold;
+          cursor:pointer;
+          z-index:100000;
+          line-height:1;
+          user-select:none;
+        \`;
+
+        closeBtn.onclick = () => {
+          overlay.remove();
+        };
+
+        const img = document.createElement('img');
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2026/10/draftproduct.webp";
+
+        img.style.cssText = \`
+          max-width:95%;
+          max-height:95%;
+          border-radius:12px;
+          transition:transform .15s ease;
+          cursor:zoom-in;
+          will-change:transform;
+          user-select:none;
+        \`;
+
+        let scale = 1;
+
+        // scroll zoom
+        overlay.onwheel = (e) => {
+          e.preventDefault();
+
+          scale += e.deltaY * -0.001;
+          scale = Math.min(Math.max(1, scale), 5);
+
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        // double click zoom
+        img.ondblclick = () => {
+          scale = scale === 1 ? 2 : 1;
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        overlay.appendChild(closeBtn);
+        overlay.appendChild(img);
+
+        document.body.appendChild(overlay);
+
+        // close overlay
+        overlay.onclick = (e) => {
+          if (e.target === overlay) {
+            overlay.remove();
+          }
+        };
+
+        // esc close
+        document.onkeydown = (e) => {
+          if (e.key === 'Escape') {
+            overlay.remove();
+          }
+        };
+      `})],-1),n("p",null,[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2026/10/draftstatus.webp",alt:"Draft Product Configuration",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+        const existing = document.getElementById('wk-image-overlay');
+        if(existing) existing.remove();
+
+        const overlay = document.createElement('div');
+        overlay.id = 'wk-image-overlay';
+
+        overlay.style.cssText = \`
+          position:fixed;
+          inset:0;
+          background:rgba(0,0,0,0.88);
+          display:flex;
+          align-items:center;
+          justify-content:center;
+          z-index:99999;
+          padding:20px;
+          cursor:zoom-out;
+          overflow:hidden;
+          backdrop-filter: blur(3px);
+        \`;
+
+        // 🔹 CLOSE BUTTON
+        const closeBtn = document.createElement('div');
+        closeBtn.innerHTML = '&times;';
+
+        closeBtn.style.cssText = \`
+          position:absolute;
+          top:20px;
+          right:25px;
+          color:#fff;
+          font-size:42px;
+          font-weight:bold;
+          cursor:pointer;
+          z-index:100000;
+          line-height:1;
+          user-select:none;
+        \`;
+
+        closeBtn.onclick = () => {
+          overlay.remove();
+        };
+
+        const img = document.createElement('img');
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2026/10/draftstatus.webp";
+
+        img.style.cssText = \`
+          max-width:95%;
+          max-height:95%;
+          border-radius:12px;
+          transition:transform .15s ease;
+          cursor:zoom-in;
+          will-change:transform;
+          user-select:none;
+        \`;
+
+        let scale = 1;
+
+        // scroll zoom
+        overlay.onwheel = (e) => {
+          e.preventDefault();
+
+          scale += e.deltaY * -0.001;
+          scale = Math.min(Math.max(1, scale), 5);
+
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        // double click zoom
+        img.ondblclick = () => {
+          scale = scale === 1 ? 2 : 1;
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        overlay.appendChild(closeBtn);
+        overlay.appendChild(img);
+
+        document.body.appendChild(overlay);
+
+        // close overlay
+        overlay.onclick = (e) => {
+          if (e.target === overlay) {
+            overlay.remove();
+          }
+        };
+
+        // esc close
+        document.onkeydown = (e) => {
+          if (e.key === 'Escape') {
+            overlay.remove();
+          }
+        };
+      `})],-1),n("h2",{id:"shopify-taxonomy-category-added-to-the-product-form",tabindex:"-1"},[n("strong",null,"Shopify Taxonomy category added to the product form"),e(),n("a",{class:"header-anchor",href:"#shopify-taxonomy-category-added-to-the-product-form","aria-label":'Permalink to "**Shopify Taxonomy category added to the product form**"'},"​")],-1),n("p",null,"We've added a new option to the Product form: Shopify Taxonomy Category, making product categorization easier and more accurate.",-1),n("p",null,"To display this field in the product form, the Admin can enable the Product taxonomy category config.",-1),n("p",null,[e("To enable, go to Multivendor Admin Panel > Configuration > Product Configuration, and enable the "),n("strong",null,"Product Taxonomy Category"),e(" config.")],-1),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
           event.preventDefault();
 
           const existing = document.getElementById('wk-image-overlay');

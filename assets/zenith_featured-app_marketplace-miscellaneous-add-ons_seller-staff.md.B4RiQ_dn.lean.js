@@ -1,4 +1,4 @@
-import{_ as l,c as s,o as a,ah as t,j as n,a as e}from"./chunks/framework.PvdZnrZd.js";const y=JSON.parse('{"title":"Seller Staff","description":"Seller Staff","frontmatter":{"title":"Seller Staff","description":"Seller Staff","date":"2025-07-25T00:00:00.000Z","author":"Chirag Tyagi"},"headers":[],"relativePath":"zenith/featured-app/marketplace-miscellaneous-add-ons/seller-staff.md","filePath":"zenith/featured-app/marketplace-miscellaneous-add-ons/seller-staff.md"}'),i={name:"zenith/featured-app/marketplace-miscellaneous-add-ons/seller-staff.md"};function r(c,o,d,m,p,g){return a(),s("div",null,[...o[0]||(o[0]=[t('<h1 id="user-guide-for-seller-staff" tabindex="-1">User Guide for Seller Staff <a class="header-anchor" href="#user-guide-for-seller-staff" aria-label="Permalink to &quot;User Guide for Seller Staff&quot;">​</a></h1><p><strong>Shopify Multivendor Marketplace App | Seller Staff |</strong></p><p>We are here with an another &quot;Feature App&quot; of  <a href="/zenith/introduction/">Multivendor Marketplace</a> on your high demand called <strong>&quot;Seller Staff&quot;.</strong></p><p>With this feature app, the seller can add staffs and assign permission to them to manage activities on seller panel.</p><p>Admin can enable his seller to add staffs who can manage seller&#39;s account on behalf of that seller.</p><p>Once you approve the charges, 10 USD per month will get added over and above your current multivendor plan.</p><p><strong>It is currently not compatible with the social media login feature app</strong></p><h2 id="additional-features-of-this-app" tabindex="-1">Additional Features of this app <a class="header-anchor" href="#additional-features-of-this-app" aria-label="Permalink to &quot;Additional Features of this app&quot;">​</a></h2><ul><li>Admin can allow his seller to add staff.</li><li>Seller can add staff and permit him/her to manage seller&#39;s account on his behalf.</li><li>Seller can deny the permission of any section of the seller account.</li><li>The added staff can manage the activities on behalf of seller.</li><li>All the activities of the staff will be visible to the seller in &quot;Staff Activity&quot; section of seller panel.</li><li>Seller can edit the staff details.</li><li>Seller has full right to disable or delete any staff on his end.</li></ul><h2 id="activation" tabindex="-1">Activation <a class="header-anchor" href="#activation" aria-label="Permalink to &quot;Activation&quot;">​</a></h2><p>To enable the &quot;Seller Staff&quot; feature in your Multivendor Marketplace app, first you need to enable it from the &quot;Feature App&quot; section of the admin panel.</p>',11),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
+import{_ as l,c as s,o as a,ah as o,j as n,a as e}from"./chunks/framework.PvdZnrZd.js";const f=JSON.parse('{"title":"Seller Staff","description":"Seller Staff","frontmatter":{"title":"Seller Staff","description":"Seller Staff","date":"2025-07-25T00:00:00.000Z","author":"Chirag Tyagi"},"headers":[],"relativePath":"zenith/featured-app/marketplace-miscellaneous-add-ons/seller-staff.md","filePath":"zenith/featured-app/marketplace-miscellaneous-add-ons/seller-staff.md"}'),i={name:"zenith/featured-app/marketplace-miscellaneous-add-ons/seller-staff.md"};function r(c,t,d,m,p,g){return a(),s("div",null,[...t[0]||(t[0]=[o("",11),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
           event.preventDefault();
 
           const existing = document.getElementById('wk-image-overlay');
@@ -3646,7 +3646,7 @@ import{_ as l,c as s,o as a,ah as t,j as n,a as e}from"./chunks/framework.PvdZnr
             overlay.remove();
           }
         };
-      `})])],-1),t('<p>In this way, the member you added will get access of the Seller&#39;s account as a &quot;Staff&quot; and can manage all the activities on behalf of that seller on the seller&#39;s end.</p><p><strong>Please Note</strong>:- The staff can change his password only if the seller adds permission for staff to visit the seller&#39;s profile page.</p><h2 id="auto-approve-staff-product" tabindex="-1">Auto Approve Staff Product <a class="header-anchor" href="#auto-approve-staff-product" aria-label="Permalink to &quot;Auto Approve Staff Product&quot;">​</a></h2><p>The Auto Approve Staff Product feature enables sellers to automatically approve products added by their staff.</p><p>When the admin activates the &quot;Auto Approve Product&quot; option in the product configuration of the Admin Panel, the &quot;Auto Approve Seller Staff Product&quot; setting is automatically enabled as well.</p><p>If a seller prefers not to have their staff&#39;s products auto-approved, they can disable the &quot;Auto Approve Staff Product&quot; configuration from the Seller Panel.</p><p>To disable the &quot;Auto Approve Staff Product&quot; configuration, navigate to the Seller Panel, then go to <strong>Configuration</strong> and select <strong>General Configuration</strong>.</p><p>From there, you can disable the &quot;Auto Approve Staff Product&quot; option as per your preference.</p>',8),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
+      `})])],-1),o("",8),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
           event.preventDefault();
 
           const existing = document.getElementById('wk-image-overlay');
@@ -3838,4 +3838,95 @@ import{_ as l,c as s,o as a,ah as t,j as n,a as e}from"./chunks/framework.PvdZnr
             overlay.remove();
           }
         };
-      `})])],-1),n("h3",{id:"demo-details",tabindex:"-1"},[e("Demo Details "),n("a",{class:"header-anchor",href:"#demo-details","aria-label":'Permalink to "Demo Details"'},"​")],-1),n("p",null,"Follow the below links to use the demo of Multivendor Marketplace app for Shopify:",-1),n("p",null,[n("a",{href:"https://egsma.io/shopify-multivendor-marketplace/",target:"_blank",rel:"noreferrer"},"https://egsma.io/shopify-multivendor-marketplace/")],-1)])])}const f=l(i,[["render",r]]);export{y as __pageData,f as default};
+      `})])],-1),o("",5),n("p",null,[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2026/10/sellerstaff.webp",alt:"Full Access Configuration",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+        const existing = document.getElementById('wk-image-overlay');
+        if(existing) existing.remove();
+
+        const overlay = document.createElement('div');
+        overlay.id = 'wk-image-overlay';
+
+        overlay.style.cssText = \`
+          position:fixed;
+          inset:0;
+          background:rgba(0,0,0,0.88);
+          display:flex;
+          align-items:center;
+          justify-content:center;
+          z-index:99999;
+          padding:20px;
+          cursor:zoom-out;
+          overflow:hidden;
+          backdrop-filter: blur(3px);
+        \`;
+
+        // 🔹 CLOSE BUTTON
+        const closeBtn = document.createElement('div');
+        closeBtn.innerHTML = '&times;';
+
+        closeBtn.style.cssText = \`
+          position:absolute;
+          top:20px;
+          right:25px;
+          color:#fff;
+          font-size:42px;
+          font-weight:bold;
+          cursor:pointer;
+          z-index:100000;
+          line-height:1;
+          user-select:none;
+        \`;
+
+        closeBtn.onclick = () => {
+          overlay.remove();
+        };
+
+        const img = document.createElement('img');
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2026/10/sellerstaff.webp";
+
+        img.style.cssText = \`
+          max-width:95%;
+          max-height:95%;
+          border-radius:12px;
+          transition:transform .15s ease;
+          cursor:zoom-in;
+          will-change:transform;
+          user-select:none;
+        \`;
+
+        let scale = 1;
+
+        // scroll zoom
+        overlay.onwheel = (e) => {
+          e.preventDefault();
+
+          scale += e.deltaY * -0.001;
+          scale = Math.min(Math.max(1, scale), 5);
+
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        // double click zoom
+        img.ondblclick = () => {
+          scale = scale === 1 ? 2 : 1;
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        overlay.appendChild(closeBtn);
+        overlay.appendChild(img);
+
+        document.body.appendChild(overlay);
+
+        // close overlay
+        overlay.onclick = (e) => {
+          if (e.target === overlay) {
+            overlay.remove();
+          }
+        };
+
+        // esc close
+        document.onkeydown = (e) => {
+          if (e.key === 'Escape') {
+            overlay.remove();
+          }
+        };
+      `})],-1),n("h3",{id:"demo-details",tabindex:"-1"},[e("Demo Details "),n("a",{class:"header-anchor",href:"#demo-details","aria-label":'Permalink to "Demo Details"'},"​")],-1),n("p",null,"Follow the below links to use the demo of Multivendor Marketplace app for Shopify:",-1),n("p",null,[n("a",{href:"https://egsma.io/shopify-multivendor-marketplace/",target:"_blank",rel:"noreferrer"},"https://egsma.io/shopify-multivendor-marketplace/")],-1)])])}const y=l(i,[["render",r]]);export{f as __pageData,y as default};

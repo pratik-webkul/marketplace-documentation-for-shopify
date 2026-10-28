@@ -190,7 +190,7 @@ import{_ as l,c as r,o as a,j as n,ah as o,a as e}from"./chunks/framework.PvdZnr
             overlay.remove();
           }
         };
-      `})])],-1),o("",9),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
+      `})])],-1),o('<p>This Guide is dedicated to letting you aware of all the new Seller menu of the <a href="/zenith/introduction/">Multi-Vendor Marketplace App</a> for Shopify.</p><p>Please keep following and tracking the <strong>Seller Updates</strong> to know about all the updates in the app.</p><p>Have a look at the newly introduced and updated features of the Seller menu of Multi vendor Marketplace app for Shopify:</p><h2 id="update-seller-handle" tabindex="-1">Update Seller Handle <a class="header-anchor" href="#update-seller-handle" aria-label="Permalink to &quot;Update Seller Handle&quot;">​</a></h2><p>When a new seller gets registered to your marketplace, it creates a seller handle for the particular seller profile page that is same as the seller name.</p><p>Suppose your seller name is <strong>&quot;Test Vendor&quot;</strong>, a seller profile page link will be created for that seller with seller handle <strong>&quot;test-vendor&quot;</strong>.</p><p>By default, the seller name will be added as seller handle for respective seller.</p><p>But, we have provided an option in the app through which you can <strong>update the seller handle for your seller profile page</strong>.</p><p>To do this, visit the Multi-vendor admin panel&gt;&gt;Configuration&gt;&gt;Seller Configuration&gt;&gt;Enable the Update Seller Handle tab&gt;&gt;Save.</p>',9),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
           event.preventDefault();
 
           const existing = document.getElementById('wk-image-overlay');
@@ -574,7 +574,7 @@ import{_ as l,c as r,o as a,j as n,ah as o,a as e}from"./chunks/framework.PvdZnr
             overlay.remove();
           }
         };
-      `})])],-1),o("",12),n("p",null,[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2026/08/a1787050153259.webp",alt:"Global Seller Profile Avatar",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+      `})])],-1),o('<p>This is how you can update seller handle in the app.</p><h2 id="enable-global-profile-avatars-for-sellers-seller-staff-and-influencers" tabindex="-1">Enable Global Profile Avatars for Sellers, Seller Staff, and Influencers <a class="header-anchor" href="#enable-global-profile-avatars-for-sellers-seller-staff-and-influencers" aria-label="Permalink to &quot;Enable Global Profile Avatars for Sellers, Seller Staff, and Influencers&quot;">​</a></h2><h3 id="overview" tabindex="-1">Overview <a class="header-anchor" href="#overview" aria-label="Permalink to &quot;Overview&quot;">​</a></h3><p>The <strong>Global Profile Avatar</strong> configuration allows marketplace admins to set a default avatar style for sellers, seller staff, and influencers across the marketplace.</p><p>This makes profiles easier to identify and provides a consistent look across the seller and influencer panels. The available avatar options vary depending on the profile type.</p><h3 id="_1-global-seller-profile-avatar" tabindex="-1">1. Global Seller Profile Avatar <a class="header-anchor" href="#_1-global-seller-profile-avatar" aria-label="Permalink to &quot;1. Global Seller Profile Avatar&quot;">​</a></h3><p>Admins can configure a global avatar for all sellers from the marketplace admin panel.</p><h4 id="how-to-configure" tabindex="-1">How to Configure <a class="header-anchor" href="#how-to-configure" aria-label="Permalink to &quot;How to Configure&quot;">​</a></h4><p>Navigate to:</p><p><strong>Marketplace Admin Panel → Configuration → Seller Configuration → Enable Global Seller Profile Avatar</strong></p><p>After enabling the configuration, you can select one of the following avatar options:</p><ul><li><strong>Seller Initial Name</strong></li><li><strong>Store Initial Name</strong></li><li><strong>Seller Profile Image</strong></li></ul>',12),n("p",null,[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2026/08/a1787050153259.webp",alt:"Global Seller Profile Avatar",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
         const existing = document.getElementById('wk-image-overlay');
         if(existing) existing.remove();
 
@@ -665,7 +665,7 @@ import{_ as l,c as r,o as a,j as n,ah as o,a as e}from"./chunks/framework.PvdZnr
             overlay.remove();
           }
         };
-      `})],-1),o("",3),n("p",null,[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2026/08/a1787050255709.webp",alt:"Seller Initial Name",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+      `})],-1),o('<h4 id="seller-initial-name" tabindex="-1">Seller Initial Name <a class="header-anchor" href="#seller-initial-name" aria-label="Permalink to &quot;Seller Initial Name&quot;">​</a></h4><p>If <strong>Seller Initial Name</strong> is selected, the avatar will display the initial letters of the seller&#39;s name.</p><p><strong>Example:</strong><br> If the seller&#39;s name is <strong>John Smith</strong>, the avatar will display <strong>JS</strong>.</p>',3),n("p",null,[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2026/08/a1787050255709.webp",alt:"Seller Initial Name",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
         const existing = document.getElementById('wk-image-overlay');
         if(existing) existing.remove();
 
@@ -756,7 +756,7 @@ import{_ as l,c as r,o as a,j as n,ah as o,a as e}from"./chunks/framework.PvdZnr
             overlay.remove();
           }
         };
-      `})],-1),o("",5),n("p",null,[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2026/08/a1787050404297.webp",alt:"Seller Profile Image",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+      `})],-1),o('<h4 id="store-initial-name" tabindex="-1">Store Initial Name <a class="header-anchor" href="#store-initial-name" aria-label="Permalink to &quot;Store Initial Name&quot;">​</a></h4><p>If <strong>Store Initial Name</strong> is selected, the avatar will display the initial letters of the seller&#39;s store name.</p><p><strong>Example:</strong><br> If the store name is <strong>Fashion Hub</strong>, the avatar will display <strong>FH</strong>.</p><h4 id="seller-profile-image" tabindex="-1">Seller Profile Image <a class="header-anchor" href="#seller-profile-image" aria-label="Permalink to &quot;Seller Profile Image&quot;">​</a></h4><p>If <strong>Seller Profile Image</strong> is selected, the seller&#39;s profile image will be displayed as the avatar.</p>',5),n("p",null,[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2026/08/a1787050404297.webp",alt:"Seller Profile Image",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
         const existing = document.getElementById('wk-image-overlay');
         if(existing) existing.remove();
 
@@ -847,7 +847,7 @@ import{_ as l,c as r,o as a,j as n,ah as o,a as e}from"./chunks/framework.PvdZnr
             overlay.remove();
           }
         };
-      `})],-1),o("",6),n("p",null,[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2026/08/a1787051148141.webp",alt:"Global Staff Profile Avatar",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+      `})],-1),o('<h3 id="_2-global-staff-profile-avatar" tabindex="-1">2. Global Staff Profile Avatar <a class="header-anchor" href="#_2-global-staff-profile-avatar" aria-label="Permalink to &quot;2. Global Staff Profile Avatar&quot;">​</a></h3><p>A similar configuration is available for <strong>Seller Staff</strong>. Admins can define a global avatar style for staff members associated with sellers.</p><p>Navigate to:</p><p><strong>Marketplace Admin Panel → Configuration → Seller Configuration → Global Staff Profile Avatar</strong></p><p>The following options are available:</p><ul><li><strong>Staff Initial Name</strong></li><li><strong>Store Initial Name</strong></li></ul>',6),n("p",null,[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2026/08/a1787051148141.webp",alt:"Global Staff Profile Avatar",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
         const existing = document.getElementById('wk-image-overlay');
         if(existing) existing.remove();
 
@@ -1029,7 +1029,7 @@ import{_ as l,c as r,o as a,j as n,ah as o,a as e}from"./chunks/framework.PvdZnr
             overlay.remove();
           }
         };
-      `})],-1),o("",9),n("p",null,[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2026/08/a1787051186263.webp",alt:"Global Influencer Profile Avatar",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+      `})],-1),o('<h4 id="store-initial-name-1" tabindex="-1">Store Initial Name <a class="header-anchor" href="#store-initial-name-1" aria-label="Permalink to &quot;Store Initial Name&quot;">​</a></h4><p>When this option is selected, the initial letters of the associated store name will be displayed.</p><p><strong>Example:</strong><br> If the store name is <strong>Fashion Hub</strong>, the avatar will display <strong>FH</strong>.</p><h3 id="_3-global-influencer-profile-avatar" tabindex="-1">3. Global Influencer Profile Avatar <a class="header-anchor" href="#_3-global-influencer-profile-avatar" aria-label="Permalink to &quot;3. Global Influencer Profile Avatar&quot;">​</a></h3><p>The <strong>Global Influencer Profile Avatar</strong> configuration allows admins to define how influencer avatars should appear throughout the influencer account.</p><p>Navigate to:</p><p><strong>Marketplace Admin Panel → Configuration → Influencer Configuration → Global Influencer Profile Avatar</strong></p><p>The following options are available:</p><ul><li><strong>Influencer Initial Name</strong></li><li><strong>Influencer Profile Image</strong></li></ul>',9),n("p",null,[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2026/08/a1787051186263.webp",alt:"Global Influencer Profile Avatar",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
         const existing = document.getElementById('wk-image-overlay');
         if(existing) existing.remove();
 
@@ -1120,7 +1120,7 @@ import{_ as l,c as r,o as a,j as n,ah as o,a as e}from"./chunks/framework.PvdZnr
             overlay.remove();
           }
         };
-      `})],-1),o("",5),n("p",null,[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2026/08/a1787050772201.webp",alt:"Influencer Profile Image",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+      `})],-1),o('<h3 id="influencer-initial-name" tabindex="-1">Influencer Initial Name <a class="header-anchor" href="#influencer-initial-name" aria-label="Permalink to &quot;Influencer Initial Name&quot;">​</a></h3><p>When this option is selected, the initial letters of the influencer&#39;s name will be displayed as the avatar.</p><p><strong>Example:</strong><br> If the influencer&#39;s name is <strong>Emma Roy</strong>, the avatar will display <strong>ER</strong>.</p><h3 id="influencer-profile-image" tabindex="-1">Influencer Profile Image <a class="header-anchor" href="#influencer-profile-image" aria-label="Permalink to &quot;Influencer Profile Image&quot;">​</a></h3><p>When this option is selected, the influencer&#39;s uploaded profile image will be displayed as their avatar.</p>',5),n("p",null,[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2026/08/a1787050772201.webp",alt:"Influencer Profile Image",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
         const existing = document.getElementById('wk-image-overlay');
         if(existing) existing.remove();
 
@@ -1211,7 +1211,7 @@ import{_ as l,c as r,o as a,j as n,ah as o,a as e}from"./chunks/framework.PvdZnr
             overlay.remove();
           }
         };
-      `})],-1),o("",6),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
+      `})],-1),o('<h2 id="restrict-seller-to-disable-feedback" tabindex="-1">Restrict Seller To Disable Feedback <a class="header-anchor" href="#restrict-seller-to-disable-feedback" aria-label="Permalink to &quot;Restrict Seller To Disable Feedback&quot;">​</a></h2><p>In the Multi-vendor Marketplace app, the customers will have the option to provide feedback to a seller from the seller profile page.</p><p>Now, by default, the seller feedback won&#39;t be visible until it is enabled by the seller. Once enabled, the seller feedback will appear on the seller profile page.</p><p>It can later be disabled from the seller panel.</p><p>Now, you can restrict your sellers to disable the &quot;Feedbacks received from the customers&quot; i.e <strong>Hide the &quot;Disable&quot; option</strong> on the seller end.</p><p>Visiting the Configuration&gt;&gt;<strong>Seller Configuration</strong> menu, disable the tab &quot;Restrict Seller To Disable Feedback&quot;. And disallow sellers to disable the seller feedbacks.</p>',6),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
           event.preventDefault();
 
           const existing = document.getElementById('wk-image-overlay');
@@ -1787,7 +1787,98 @@ import{_ as l,c as r,o as a,j as n,ah as o,a as e}from"./chunks/framework.PvdZnr
             overlay.remove();
           }
         };
-      `})])],-1),n("h2",{id:"seller-zip-code-on-seller-profile-page",tabindex:"-1"},[e("Seller Zip code on Seller profile page "),n("a",{class:"header-anchor",href:"#seller-zip-code-on-seller-profile-page","aria-label":'Permalink to "Seller Zip code on Seller profile page"'},"​")],-1),n("p",null,"You can now display the seller zipcode with the seller's address on the seller profile page of your store.",-1),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
+      `})])],-1),n("h2",{id:"customer-favorites-and-email-notification-status",tabindex:"-1"},[e("Customer Favorites and Email Notification Status "),n("a",{class:"header-anchor",href:"#customer-favorites-and-email-notification-status","aria-label":'Permalink to "Customer Favorites and Email Notification Status"'},"​")],-1),n("p",null,"Sellers can now view additional customer engagement information for their products in the Seller Panel.",-1),n("ul",null,[n("li",null,[n("strong",null,"Favorite Count:"),e(" Sellers can see how many customers have added their products to their favorites.")]),n("li",null,[n("strong",null,"Email Unsubscribe Count:"),e(" Sellers can view how many customers have unsubscribed from email notifications.")])],-1),n("p",null,"This information helps sellers better understand customer interest in their products and track email notification preferences.",-1),n("p",null,[n("img",{src:"https://cdnblog.webkul.com/blog/wp-content/uploads/2026/10/customerfav.webp",alt:"Customer Favorites and Email Notification Status",style:{cursor:"zoom-in","max-width":"100%"},onclick:`
+        const existing = document.getElementById('wk-image-overlay');
+        if(existing) existing.remove();
+
+        const overlay = document.createElement('div');
+        overlay.id = 'wk-image-overlay';
+
+        overlay.style.cssText = \`
+          position:fixed;
+          inset:0;
+          background:rgba(0,0,0,0.88);
+          display:flex;
+          align-items:center;
+          justify-content:center;
+          z-index:99999;
+          padding:20px;
+          cursor:zoom-out;
+          overflow:hidden;
+          backdrop-filter: blur(3px);
+        \`;
+
+        // 🔹 CLOSE BUTTON
+        const closeBtn = document.createElement('div');
+        closeBtn.innerHTML = '&times;';
+
+        closeBtn.style.cssText = \`
+          position:absolute;
+          top:20px;
+          right:25px;
+          color:#fff;
+          font-size:42px;
+          font-weight:bold;
+          cursor:pointer;
+          z-index:100000;
+          line-height:1;
+          user-select:none;
+        \`;
+
+        closeBtn.onclick = () => {
+          overlay.remove();
+        };
+
+        const img = document.createElement('img');
+        img.src = "https://cdnblog.webkul.com/blog/wp-content/uploads/2026/10/customerfav.webp";
+
+        img.style.cssText = \`
+          max-width:95%;
+          max-height:95%;
+          border-radius:12px;
+          transition:transform .15s ease;
+          cursor:zoom-in;
+          will-change:transform;
+          user-select:none;
+        \`;
+
+        let scale = 1;
+
+        // scroll zoom
+        overlay.onwheel = (e) => {
+          e.preventDefault();
+
+          scale += e.deltaY * -0.001;
+          scale = Math.min(Math.max(1, scale), 5);
+
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        // double click zoom
+        img.ondblclick = () => {
+          scale = scale === 1 ? 2 : 1;
+          img.style.transform = 'scale(' + scale + ')';
+        };
+
+        overlay.appendChild(closeBtn);
+        overlay.appendChild(img);
+
+        document.body.appendChild(overlay);
+
+        // close overlay
+        overlay.onclick = (e) => {
+          if (e.target === overlay) {
+            overlay.remove();
+          }
+        };
+
+        // esc close
+        document.onkeydown = (e) => {
+          if (e.key === 'Escape') {
+            overlay.remove();
+          }
+        };
+      `})],-1),n("h2",{id:"seller-zip-code-on-seller-profile-page",tabindex:"-1"},[e("Seller Zip code on Seller profile page "),n("a",{class:"header-anchor",href:"#seller-zip-code-on-seller-profile-page","aria-label":'Permalink to "Seller Zip code on Seller profile page"'},"​")],-1),n("p",null,"You can now display the seller zipcode with the seller's address on the seller profile page of your store.",-1),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
           event.preventDefault();
 
           const existing = document.getElementById('wk-image-overlay');
@@ -2747,7 +2838,7 @@ import{_ as l,c as r,o as a,j as n,ah as o,a as e}from"./chunks/framework.PvdZnr
             overlay.remove();
           }
         };
-      `})])],-1),o("",3),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
+      `})])],-1),o('<h2 id="restrict-seller-signup" tabindex="-1">Restrict Seller Signup <a class="header-anchor" href="#restrict-seller-signup" aria-label="Permalink to &quot;Restrict Seller Signup&quot;">​</a></h2><p>If you want to restrict new members to signup on your marketplace, you can enable the <strong>Restrict Seller Signup</strong> from the <strong>Seller Configuration</strong> page.</p><p>After enabling this feature, the <strong>Join Now</strong> button will be hidden from the <strong>seller login page</strong>. Refer:</p>',3),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
           event.preventDefault();
 
           const existing = document.getElementById('wk-image-overlay');
@@ -3131,7 +3222,7 @@ import{_ as l,c as r,o as a,j as n,ah as o,a as e}from"./chunks/framework.PvdZnr
             overlay.remove();
           }
         };
-      `})])],-1),o("",5),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
+      `})])],-1),o('<p><strong>NOTE:</strong> The admin can still add new sellers from his own marketplace admin panel.</p><h2 id="seller-email-verification" tabindex="-1">Seller Email Verification <a class="header-anchor" href="#seller-email-verification" aria-label="Permalink to &quot;Seller Email Verification&quot;">​</a></h2><p>If a seller registered to your marketplace is somehow not verified or missed the email verification email can now be verified via the app.</p><p>Visit: <strong>Multivendor Admin Panel</strong> &gt; <strong>Configuration</strong> &gt; <strong>Seller Configuration</strong>.</p><p>By enabling this option, the seller whose email is not verified after registration will get an email verification link on the seller dashboard.</p>',5),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
           event.preventDefault();
 
           const existing = document.getElementById('wk-image-overlay');
@@ -5243,7 +5334,7 @@ import{_ as l,c as r,o as a,j as n,ah as o,a as e}from"./chunks/framework.PvdZnr
             overlay.remove();
           }
         };
-      `})])],-1),o("",4),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
+      `})])],-1),o('<h2 id="display-seller-s-store-logo-carousel-on-homepage" tabindex="-1">Display Seller&#39;s Store Logo Carousel on Homepage <a class="header-anchor" href="#display-seller-s-store-logo-carousel-on-homepage" aria-label="Permalink to &quot;Display Seller&#39;s Store Logo Carousel on Homepage&quot;">​</a></h2><p>You can now get an option to add a logo carousel to the home page of your store. For this, you need to follow the below-given steps:-</p><p>Go to the admin panel of the Multi-vendor app.</p><ul><li>Visit the <strong>Configuration</strong>.</li><li>Click <strong>Instruction for Marketplace</strong>.</li><li>Get the option to display the seller&#39;s store logo carousel.</li><li>Click the &quot;<strong>Generate</strong>&quot; button to generate liquid files on the Shopify end.</li></ul>',4),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
           event.preventDefault();
 
           const existing = document.getElementById('wk-image-overlay');
@@ -6395,7 +6486,7 @@ import{_ as l,c as r,o as a,j as n,ah as o,a as e}from"./chunks/framework.PvdZnr
             overlay.remove();
           }
         };
-      `})])],-1),o("",6),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
+      `})])],-1),o("<p><strong>2. PAYMENT DETAILS</strong></p><p>Also, make the option mandatory for sellers to configure at least one payment method from the seller panel to receive their earnings.</p><p>Now, once you enable this option, the seller will be able to add products only after configuring a payment method from their panel.</p><p><strong>3. SELLER &quot;MY ACCOUNT&quot; DETAILS</strong></p><p>From here, You can set mandatory &quot;My Account&quot; fields for the sellers.</p><p>Please Note:- Before enabling these fields here, make sure that these fields are enabled from the &quot;<strong>Seller Policy</strong>&quot; (normal &amp; advanced) and from the &quot;<strong>Seller Form Customization</strong>&quot; section of the app.</p>",6),n("p",null,[n("a",{href:"javascript:void(0)",onclick:`
           event.preventDefault();
 
           const existing = document.getElementById('wk-image-overlay');
