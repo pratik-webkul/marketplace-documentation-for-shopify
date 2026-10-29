@@ -17,7 +17,7 @@ Using this featured app, the admin can send different kinds of push notification
 
 **CHARGES**
 
-This feature will have an additional charge of **USD 10 per month** over & above your current Multivendor Marketplace plan.  
+This feature will have an additional charge of **USD 11 per month** over & above your current Multivendor Marketplace plan.
 
  Installation
 --------------------

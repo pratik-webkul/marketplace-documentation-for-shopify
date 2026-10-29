@@ -13,7 +13,7 @@ author: Chirag Tyagi
 
 They provide the fastest Parcel Transportation, Warehousing & more. Using this featured app, merchants can allow vendors to ship their goods via Delhivery and then print the shipping label.
 
-**Charges:** This feature will have an additional charge of **USD 10 per month** over & above your current multivendor marketplace plan.
+**Charges:** This feature will have an additional charge of **USD 11 per month** over & above your current multivendor marketplace plan.
 
 **Before You Install**: It is mandatory to have **[real-time carrier calculated shipping](https://help.shopify.com/en/manual/shipping/setting-up-and-managing-your-shipping/enabling-shipping-carriers)** within your Shopify store.
 

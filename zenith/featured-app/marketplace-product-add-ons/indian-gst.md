@@ -35,7 +35,7 @@ Here, you will get the Indian GST feature after clicking on "Feature Apps". Just
 
 Once you click on the "Enable" button, you need to agree with the plan and approve the charge
 
-Which will add up $5 per month over and above the monthly plan of your Multivendor Marketplace app.
+Which will add up $10 per month over and above the monthly plan of your Multivendor Marketplace app.
 
  How it works?
 --------------

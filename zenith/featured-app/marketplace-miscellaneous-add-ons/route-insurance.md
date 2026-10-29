@@ -17,7 +17,7 @@ With the "**Route Insurance**" feature app, you can provide an "Insurance" optio
 
 Enabling the option, the customers need to pay the insurance amount configured via Route.
 
-This feature app comes with the pricing of **$7 USD/month** in addition to your current Multi-vendor plan.
+This feature app comes with the pricing of **$10 USD/month** in addition to your current Multi-vendor plan.
 
 **MAKE A NOTE:-**
 

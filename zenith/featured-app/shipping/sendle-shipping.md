@@ -11,7 +11,7 @@ author: Chirag Tyagi
 
 The Sendle shipping is now integrated with the [Multi-vendor Marketplace App](/zenith/introduction/) for Shopify to let sellers fulfill their orders via Sendle shipment service and generate shipping labels.
 
-This feature app costs you a minimal amount of **$10 per month** over and above your current Multivendor plan.
+This feature app costs you a minimal amount of **$11 per month** over and above your current Multivendor plan.
 
 **NOTE**:-
 

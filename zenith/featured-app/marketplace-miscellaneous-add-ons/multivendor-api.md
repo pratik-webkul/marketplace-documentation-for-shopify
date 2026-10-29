@@ -22,7 +22,7 @@ _The Multivendor API is currently not supported on JS or any other client-side i
 
 You have to enable this API feature from the feature app section so that you can access the API.
 
-Moreover, this feature will have additional charges of USD15 per month over and above your current multivendor plan.
+Moreover, this feature will have additional charges of USD20 per month over and above your current multivendor plan.
 
 Let's understand this in detail.
 
@@ -33,7 +33,7 @@ To enable the API feature you will have to visit **features app s**ection of the
 
 You have to enable this API feature from the featured app section so that you can access the API.
 
-Besides that, this will have additional charges of USD15 per month over and above your current multivendor plan.
+Besides that, this will have additional charges of USD20 per month over and above your current multivendor plan.
 
 [![Multivendor API](http://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/multivendorapi.webp)](http://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/multivendorapi.webp)
 

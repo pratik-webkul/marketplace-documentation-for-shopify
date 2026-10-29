@@ -20,7 +20,7 @@ The **Vamaship** feature app is available only with the Multivendor **Pro** **
 
 **CHARGES:**
 
-This feature will have an additional charge of **USD 10 per month** over & above your current Multivendor plan.
+This feature will have an additional charge of **USD 11 per month** over & above your current Multivendor plan.
 
 **NOTE:**
 

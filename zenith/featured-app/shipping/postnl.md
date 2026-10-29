@@ -17,7 +17,7 @@ Multivendor **Pro** **Plan** ($60/month). Moreover, you need to enable the *
 
 MARK:- Access to Shipping requires your Shopify store to be on the plan that supports **Real-Time Carrier-Calculated Shipping**.
 
-This feature app will charge you a minimal amount of **$10 per month** over and above your current Multivendor plan.
+This feature app will charge you a minimal amount of **$11 per month** over and above your current Multivendor plan.
 
 **NOTE**:- Dutch language is now supported in Shipment Type of PostNL Shipping.
 

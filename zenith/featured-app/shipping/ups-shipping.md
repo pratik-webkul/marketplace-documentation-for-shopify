@@ -13,7 +13,7 @@ You can now visit the feature app section and enable the "UPS" feature app to le
 
 For this, you need to have a UPS account as you need your account details to configure UPS shipping in the app. In addition to it, you can allow sellers to generate shipping labels of fulfilled orders through UPS.
 
-This feature of the Multivendor app will charge you an additional amount of $10 USD per month over and above your current Multivendor plan.
+This feature of the Multivendor app will charge you an additional amount of USD 11 per month over and above your current Multivendor plan.
 
 > To make UPS shipping feature work, you need to choose the Shopify store plan which supports the **“Real-Time Carrier-Calculated Shipping”.**
 

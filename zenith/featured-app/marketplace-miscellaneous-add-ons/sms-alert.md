@@ -15,7 +15,7 @@ Enable the SMS Alert feature app to include this functionality in your marketpla
 
 Earlier in the multivendor marketplace, notification of a new order placed by the customer was sent only via email.
 
-**Charges:** This will cost an additional **5 USD** per month over & above your current Multivendor Marketplace plan.
+**Charges:** This will cost an additional **10 USD** per month over & above your current Multivendor Marketplace plan.
 
  Enable SMS Alert Feature App
 ---------------

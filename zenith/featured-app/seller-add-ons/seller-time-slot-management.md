@@ -11,7 +11,7 @@ author: Chirag Tyagi
 
 **Purpose of the app**: Using this feature app seller and admin can manage opening and closing time for the seller's store. This is a great way to make your customers aware of the seller's availability.
 
-**Pricing:** This feature will have an additional charge of **USD 5 per month** over & above your current Multivendor Marketplace plan charges.
+**Pricing:** This feature will have an additional charge of **USD 10 per month** over & above your current Multivendor Marketplace plan charges.
 
 **Caution**: In case the admin changes the time zone, then he has to manually update the time slots of every seller.
 

@@ -17,7 +17,7 @@ Moreover, if the merchant will edit those SooPOS products from Shopify end then,
 
 You can enable the **SooPOS connector** from the “**Feature App**” section of the app.
 
-Then, approve the additional charge of $10 USD/month over and above your current Multi-vendor app plan.
+Then, approve the additional charge of $11 USD/month over and above your current Multi-vendor app plan.
 
 Let’s explore the connector in detail.
 

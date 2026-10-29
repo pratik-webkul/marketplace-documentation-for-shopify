@@ -13,7 +13,7 @@ Merchants can visit the Multi-vendor admin panel and enable the **EasyPost shipp
 
 Also, automatically generate shipping labels of the orders.
 
-This feature app will charge you a minimal amount of **$10 per month** over and above your current Multivendor plan.
+This feature app will charge you a minimal amount of **$11 per month** over and above your current Multivendor plan.
 
 NOTE:- This EasyPost shipping feature app is available only with the
 

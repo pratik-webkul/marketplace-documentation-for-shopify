@@ -16,7 +16,7 @@ Presenting Australia Post Feature app using which admin can allow the sellers to
 
 **Please Note**:- “Australia Post Shipping Feature is available only in the Multivendor **PRO** ($60/month) Plan **+** You need to enable the “Shipping” Feature App which is **FREE** of cost.”
 
-This feature will have an additional charge of USD 10 per month over and above your current multivendor plan.
+This feature will have an additional charge of USD 11 per month over and above your current multivendor plan.
 
 Note:- To make Australia Post shipping feature work, you need to choose the Shopify store plan that supports the **“Real-Time Carrier-Calculated Shipping”.**
 
@@ -53,7 +53,7 @@ In order to install this feature app to your store, you need to follow some simp
 [![Dashboard Admin-Multivendor Australia Post](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/featuredapps.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/featuredapps.webp)
 
 *   Click the "**Enable**" button.
-*   Now, agree with the charge of USD 10 per month by clicking the "**Agree"** button.
+*   Now, agree with the charge of USD 11 per month by clicking the "**Agree"** button.
 *   Click the "**Approve Charges**" button.
 
 So, that is how you can install the Australia Post feature app to the multivendor app. Let's proceed to know how to configure the feature app.

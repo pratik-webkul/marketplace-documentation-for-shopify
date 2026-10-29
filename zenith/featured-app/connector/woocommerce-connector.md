@@ -15,7 +15,7 @@ So, if your sellers have their online store on WooCommerce, they can easily impo
 
 To make this feature work for the sellers, the admin needs to enable it from the Feature Apps section of the Multivendor App.
 
-After that, proceed to approve the charge of $25 USD per month over and above your current Multivendor Plan.
+After that, proceed to approve the charge of $30 USD per month over and above your current Multivendor Plan.
 
 Let's understand more about this feature:
 
@@ -81,7 +81,7 @@ Now, to activate this feature, you first need to visit the Feature Apps section 
 
 [![WooCommerce2](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/wooconn2.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/wooconn2.webp)
 
-So, once you click on the Enable button, you need to agree with the charges of USD 25 per month over and above your current Multivendor Plan.
+So, once you click on the Enable button, you need to agree with the charges of USD 30 per month over and above your current Multivendor Plan.
 
 [![WooCommerce3](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/wooconn3.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/wooconn3.webp)
 

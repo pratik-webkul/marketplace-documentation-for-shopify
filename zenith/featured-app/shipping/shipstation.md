@@ -27,7 +27,7 @@ Also, you can enabled only one shipping method within ShipStation to calculate t
 
 **CHARGES**
 
-This feature will have an additional charge of **USD 15 per month** over & above your current Multivendor Marketplace plan.
+This feature will have an additional charge of **USD 17 per month** over & above your current Multivendor Marketplace plan.
 
 SHIPSTATION SHIPPING FEATURE APP IS AVAILABLE **BOTH FOR RATE CALCULATION & FULFILLMENT**.
 

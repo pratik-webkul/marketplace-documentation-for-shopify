@@ -21,7 +21,7 @@ This setup ensures **different product pricing for different customer groups**.
 
 To install this app on your marketplace, you must first **enable it from the "Feature Apps" section**.
 
-**Note:** You’ll need to **agree to an additional charge of $10 USD/month**, over and above your existing Multivendor plan.
+**Note:** You’ll need to **agree to an additional charge of $11 USD/month**, over and above your existing Multivendor plan.
 
 **NOTE:- Slot Pricing Feature App works only with Normal Products**.
 

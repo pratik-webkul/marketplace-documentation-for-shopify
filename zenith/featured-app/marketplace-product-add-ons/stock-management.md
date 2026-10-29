@@ -11,7 +11,7 @@ In the [Multivendor Marketplace](/zenith/introduction/) app for Shopify: Stock
 
 Admin can track the shipment while the seller has the choice to select who will fulfill the order, the admin or the seller.
 
-To get this app, you have to pay 10$ (USD) per month over and above the monthly charges of the Multivendor Marketplace App.
+To get this app, you have to pay 11$ (USD) per month over and above the monthly charges of the Multivendor Marketplace App.
 
  Features
 -------------

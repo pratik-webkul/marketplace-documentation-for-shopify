@@ -18,7 +18,7 @@ ensuring the integrity and availability of this data has become paramount.
 
 We as a webkul introduce a feature app, **Multi-vendor Database Backup**. This feature helps you to get the past data in an app form.
 
-The cost of this feature is **10$ per month.**
+The cost of this feature is **11$ per month.**
 
 Feature: **Multi-vendor Database Backup**
 -----------------------------------------

@@ -20,7 +20,7 @@ Using this featured app, the merchants can enable shipment through **FedEx**. Mo
 
 **CHARGES:**
 
-This feature will have an additional charge of **USD 10 per month** over & above your current multivendor marketplace plan.
+This feature will have an additional charge of **USD 11 per month** over & above your current multivendor marketplace plan.
 
 **NOTE:**
 

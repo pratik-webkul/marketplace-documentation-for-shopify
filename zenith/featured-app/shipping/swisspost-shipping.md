@@ -13,7 +13,7 @@ By enabling the Swiss Post shipping featured app, the admin can allow sellers to
 
 Also, automatically generate shipping labels for the orders.
 
-This feature app will charge you a minimal amount of **$10 per month** over and above your current Multivendor plan.
+This feature app will charge you a minimal amount of **$11 per month** over and above your current Multivendor plan.
 
 NOTE:- This Swiss Post shipping feature app is available only with the Multivendor **Pro** **Plan** ($60/month).
 

@@ -35,7 +35,7 @@ Which makes it confirms that the seller is not available and is on Vacation for 
 
  How to Install the App?
 --------------------
-Since it is the add-on feature of the Multivendor Marketplace app, you need to pay an additional amount of 5 USD per month along with the App charge.
+Since it is the add-on feature of the Multivendor Marketplace app, you need to pay an additional amount of 10 USD per month along with the App charge.
 
 Once you install this app, you can approve the charges.
 

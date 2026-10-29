@@ -13,7 +13,7 @@ The [Multivendor Marketplace App for Shopify](/zenith/introduction/) is up with 
 
 **CHARGES**:
 
-This feature will have an additional charge of **USD 5 per month** over & above your current Multivendor Marketplace plan.
+This feature will have an additional charge of **USD 10 per month** over & above your current Multivendor Marketplace plan.
 
  Enabling the featured app
 --------------

@@ -14,7 +14,7 @@ Blue Dart is an Indian logistics company that provides courier delivery services
 
 Now, Blue Dart is integrated with the very popular [Multi-vendor Marketplace](/zenith/introduction/) App for Shopify. So, you can now allow sellers to fulfill orders via Blue Dart fulfillment & courier delivery services. Additionally, allow sellers to generate shipping labels for fulfilled orders.
 
-This feature of the Multivendor app will charge you a minimal amount of $10 per month over and above your current Multivendor plan.
+This feature of the Multivendor app will charge you a minimal amount of $11 per month over and above your current Multivendor plan.
 
 BLUEDART SHIPPING FEATURE APP IS AVAILABLE **ONLY FOR FULFILLMENT**.
 
