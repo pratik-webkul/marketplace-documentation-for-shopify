@@ -491,20 +491,20 @@ Go through the [**User Manual**](/zenith/featured-app/seller-add-ons/social-netw
 SELLER TAGS AND CATEGORIES
 --------------------------
 
-[![image](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/sllrtagsndctgrs.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/sllrtagsndctgrs.webp)
+[![image](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/10/sellercat.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/10/sellercat.webp)
 
 Shopify Multivendor Marketplace SELLER TAGS AND CATEGORIES feature app.
 
 Using this featured app, the vendors will be able to choose tags & categories for themselves added by the admin. Further, these can be used as filters on the storefront.
 
-This feature will have an additional charge of **USD 5 per month** over & above your current Multivendor Marketplace plan.
+This feature will have an additional charge of **USD 10 per month** over & above your current Multivendor Marketplace plan.
 
 Go through the [**User Manual**](/zenith/featured-app/seller-add-ons/seller-tags-and-categories) to know more about this feature app.
 
 ASK A QUESTION
 --------------
 
-[![Ask a question](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/askaqstn.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/askaqstn.webp)
+[![Ask a question](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/10/askques.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/10/askques.webp)
 
 Shopify Multivendor Marketplace Ask a Question feature app.
 
@@ -519,7 +519,7 @@ Once you enable this feature, you will add 17 USD per month over and above your 
 Seller Membership
 -----------------
 
-[![seller membership](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/sllrmmbrship.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/sllrmmbrship.webp)
+[![seller membership](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/10/membership.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/10/membership.webp)
 
 [Shopify Multivendor Marketplace](/zenith/introduction/) Seller Membership feature.
 
@@ -529,14 +529,14 @@ Admin will charge this membership fee from his seller within this feature app.
 
 To get this feature installed in your Multivendor app, click on enable button in “Feature Apps” section.
 
-Once clicked, you need to pay the monthly charge of USD 25 over and above your current Multivendor plan.
+Once clicked, you need to pay the monthly charge of USD 28 over and above your current Multivendor plan.
 
 [To know more about this feature, do refer this **User Guide**](/zenith/featured-app/seller-add-ons/seller-membership).
 
 Seller Vacation App
 -------------------
 
-[![seller vacation](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/sllrvctnapp.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/sllrvctnapp.webp)
+[![seller vacation](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/10/sellervacation.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/10/sellervacation.webp)
 
 Shopify Multivendor Marketplace Seller Vacation App is here to provide the information to the admin as well as to the buyer about the unavailability of the seller
 
@@ -551,7 +551,7 @@ This feature has an additional monthly charge of USD 10 over and above your curr
 PWA for Sellers
 ---------------
 
-[![Screenshot_by_Lightshot_1200x535_png_1200×535_-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/pwa.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/pwa.webp)
+[![Screenshot_by_Lightshot_1200x535_png_1200×535_-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/10/pwa.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/10/pwa.webp)
 
 Multivendor Marketplace App for Shopify is here with another feature app called **PWA** which lets you enable progressive web application functionality for your marketplace sellers.
 
@@ -562,7 +562,7 @@ Using this [featured app](/zenith/featured-app/seller-add-ons/pwa), the admin ca
 Seller and customer badge
 -------------------------
 
-[![screenshot_1691564551300](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/sllrndcstmbadge.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/sllrndcstmbadge.webp)
+[![screenshot_1691564551300](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/10/sellerbadge.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/10/sellerbadge.webp)
 
 Using this application, you can create & assign multiple seller and customer badges on your marketplace.
 
@@ -573,13 +573,13 @@ Customers can see the seller badges assigned badges on the shop/seller profile p
 Seller Time Slot Management
 ---------------------------
 
-[![image-87](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/sllrtimeslotmngmnt.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/sllrtimeslotmngmnt.webp)
+[![image-87](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/10/sellertime.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/10/sellertime.webp)
 
 Multi-Vendor Marketplace for Shopify is here with another featured app called Seller Time Slot Management.
 
 Using this feature app seller and admin can manage opening and closing time for the seller’s store. This is a great way to make your customers aware of the seller’s availability.
 
-This feature will have an additional charge of **USD 5 per month** over & above your current Multivendor Marketplace plan charges.
+This feature will have an additional charge of **USD 10 per month** over & above your current Multivendor Marketplace plan charges.
 
 [Refer to the **user guide** to know more .](/zenith/featured-app/seller-add-ons/seller-time-slot-management)
 
@@ -595,20 +595,20 @@ Shopify Multivendor Marketplace SELLER BUYER CHAT CONNECTOR feature is here.
 SOCIAL MEDIA LOGIN
 ------------------
 
-[![image](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/sclmdialogin.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/sclmdialogin.webp)
+[![image](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/10/socialmedia.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/10/socialmedia.webp)
 
 Shopify Multivendor Marketplace Social Media Login feature is here.
 
 Through this sellers can log in to their [Multivendor Marketplace](/zenith/introduction/) seller panel using Gmail and Facebook accounts.
 
-Admin can enable this feature with an additional charge of USD 10 per month over and above your selected Multivendor plan.
+Admin can enable this feature with an additional charge of USD 11 per month over and above your selected Multivendor plan.
 
 [To know more about this feature, refer the **USER GUIDE**](/zenith/featured-app/seller-add-ons/social-media-login).  
 
 EMAIL MARKETING
 ---------------
 
-[![email](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/emailmareting.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/emailmareting.webp)
+[![email](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/10/emailmarketing.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/10/emailmarketing.webp)
 
 Shopify Multivendor Marketplace EMAIL MARKETING feature is here.
 
@@ -616,14 +616,14 @@ If you are planning to send bulk emails to sellers manually, and want to create 
 
 Using this email marketing featured app you can connect klaviyo account with your [multivendor marketplace app](/zenith/introduction/) and your seller profiles will transfer to your klaviyo account also.
 
-Admin can enable this feature with an additional charge of USD 5 per month over and above your selected Multivendor plan.
+Admin can enable this feature with an additional charge of USD 10 per month over and above your selected Multivendor plan.
 
 [To know more about this feature, refer the **USER GUIDE**](/zenith/featured-app/seller-add-ons/email-marketing).
 
 WHATSAPP INTEGRATION
 --------------------
 
-[![image](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/whtsppintgrtn.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/whtsppintgrtn.webp)
+[![image](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/10/whatsapp.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/10/whatsapp.webp)
 
 Shopify Multivendor Marketplace WHATSAPP INTEGRATION feature is here.
 

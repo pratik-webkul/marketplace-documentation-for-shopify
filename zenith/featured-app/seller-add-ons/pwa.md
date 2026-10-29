@@ -29,7 +29,7 @@ Enable the following app by visiting:
 *   Search for ‘**PWA**‘ & click on ‘**Enable**‘
 *   After accepting the charges, you’ll be good to configure the app!
 
-[![PWA](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/11/Screenshot-by-Lightshot-1200x535.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/11/Screenshot-by-Lightshot-1200x535.png)
+[![PWA](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/10/pwa.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/10/pwa.webp)
 
  Configuration: Admin Panel
 -------------------

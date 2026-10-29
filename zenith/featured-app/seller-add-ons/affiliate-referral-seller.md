@@ -25,7 +25,7 @@ Once activated, nonprofit organizations or affiliates will have access to a sepa
 
 To enable this app, go to the Multivendor Marketplace Admin Panel, hover over the three dots, and select "Featured Apps." From there, you can search for and activate the Affiliate/Referral Seller app.
 
-[![Affiliate/Referral Seller App](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/oneaffiliateslr.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/oneaffiliateslr.webp)
+[![Affiliate/Referral Seller App](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/10/affilieate.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/10/affilieate.webp)
 
 Once you activate the featured app, you'll need to approve an additional charge of 10 USD per month.
 

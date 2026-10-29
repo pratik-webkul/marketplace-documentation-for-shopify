@@ -19,7 +19,7 @@ Go to the multivendor admin panel >> hover on three dots >> click on feature app
 
 Now, scroll down and Click on enable to pay for Social media login feature app.
 
-[![Screenshot1-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/social2.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/social2.webp)
+[![Screenshot1-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/10/socialmedia.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/10/socialmedia.webp)
 
 Once the admin has paid for this featured app then a sub menu named "SOCIAL MEDIA CONFIGURATION is added under the configuration dropdown.
 

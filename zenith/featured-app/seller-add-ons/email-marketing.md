@@ -24,7 +24,7 @@ Scroll down and search for "Email Marketing" featured app.
 
 click the "Enable" button and Approve the charge & get this featured app to your marketplace.
 
-[![Screenshot1-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/emailmareting.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/emailmareting.webp)
+[![Screenshot1-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/10/emailmarketing.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/10/emailmarketing.webp)
 
 As soon as you approve the app charges then in the admin panel, an "email marketing configuration" menu will appears under the configuration dropdown.  
   

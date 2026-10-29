@@ -46,7 +46,7 @@ Go to the "Feature App" section of the admin panel>>Select "Seller Vacation App"
 [![Seller Vacation1](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/new1772775864403.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/new1772775864403.webp)
 
 
-[![Screenshot-59](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/new1772775875005.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/new1772775875005.webp)
+[![Screenshot-59](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/10/sellervacation.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/10/sellervacation.webp)
 
 [![Seller Vacation3](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/new1772775893540.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/new1772775893540.webp)
 
