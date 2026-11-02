@@ -15,7 +15,7 @@ Thus, buyers will have different products from various sellers in their cart but
 
 With this feature, the admin will have an easily manageable order process and thus, can have the separate orders of each seller's products.
 
-You can get the Split Cart feature app simply by paying an amount of $14 per month over and above your current multivendor plan.
+You can get the Split Cart feature app simply by paying an amount of $15 USD per month over and above your current multivendor plan.
 
  Additional Features
 ------------------
@@ -45,7 +45,7 @@ To enable this feature app, You need to visit the "Feature Apps" section of the 
 
 Once you get this feature, you need to click on the "Enable" button to activate this feature in Multivendor app.
 
-[![Screenshot-90](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/splitcartfappenbl.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/splitcartfappenbl.webp)
+[![Screenshot-90](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/splitcart.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/splitcart.webp)
 
 Once you approve the charge for this app, the feature will be installed in your Multivendor Marketplace app.
 

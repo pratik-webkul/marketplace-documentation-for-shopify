@@ -29,7 +29,7 @@ This guide covers the complete workflow, including **installation, configuration
 
 
 
-![Influencer Marketplace Overview](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/04/influencermarketplaceone.webp)
+![Influencer Marketplace Overview](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/influencer.webp)
 
 
 
@@ -42,7 +42,7 @@ To begin using the Influencer Marketplace, install the app:
 - Navigate to the **Multivendor Marketplace App**
 - Go to the **Featured Apps** section
 - Under **Marketplace Other Add-ons**, locate **Influencer Marketplace**
-- The app is available at a cost of **$10/month**
+- The app is available at a cost of **$11/month**
 - Click on **Install** to activate the feature
 
 This app allows sellers to:

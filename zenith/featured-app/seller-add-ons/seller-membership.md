@@ -34,9 +34,9 @@ You need to enable the App from here:
 
 **Go to Admin Panel → Feature App section → Enable the feature → Save Changes.**
 
-[![seller membership](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/activatesellermemship.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/activatesellermemship.webp)
+[![seller membership](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/10/membership.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/10/membership.webp)
 
-Once you enable the featured app, you need to approve the charges for the app i.e. **$25 USD/month**.
+Once you enable the featured app, you need to approve the charges for the app i.e. **$28 USD/month**.
 
 
 

@@ -1135,13 +1135,13 @@ Here is the list of all the miscellaneous add-ons available for the marketplace:
 SMS ALERT
 ---------
 
-[![sms alert](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/11/Screenshot-8-11.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/11/Screenshot-8-11.png)
+[![sms alert](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/smsalert.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/smsalert.webp)
 
 In order to send the automated message to the admin and the seller for newly placed orders, you can now integrate your multivendor app with "Clockwork SMS Tool".
 
 This will notify the seller about the new order simply via SMS.
 
-You just need to enable the "SMS Alert" feature from the "Feature Apps" section and agree to pay the monthly charge of 5 USD over and above your Multivendor plan.
+You just need to enable the "SMS Alert" feature from the "Feature Apps" section and agree to pay the monthly charge of 10 USD over and above your Multivendor plan.
 
 **Note**:- To make this feature work on your store, you need to have a clockwork account. Select the [**Pricing Plan**](https://www.clockworksms.com/pricing/) and get this additional benefit.
 
@@ -1200,7 +1200,7 @@ LOCATE YOUR PICKUP STORE
 PRODUCT SUBSCRIPTION
 --------------------
 
-[![Image](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/10/tfgfgf.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/10/tfgfgf.webp)
+[![Image](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/subscription.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/subscription.webp)
 
 To get this feature simply enable the Product subscription feature app in your [Multivendor Marketplace app](/zenith/introduction/).
 
@@ -1208,7 +1208,7 @@ Now allow your Sellers to add subscription for their products and provide maximu
 
 Allow your sellers to create their own Subscription on a weekly, monthly, or yearly basis.
 
-Once you enable this feature, it will cost you 40 USD per month in addition to your current multivendor plan.
+Once you enable this feature, it will cost you 45 USD per month in addition to your current multivendor plan.
 
 [User Guide  ](/zenith/featured-app/marketplace-other-add-ons/subscription-product-with-stripe-connect)
 
@@ -1230,7 +1230,7 @@ Once you enable this feature, it will cost you 50 USD per month in addition to y
 CHAT GPT
 --------
 
-[![image](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/10/poiuhgf.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/10/poiuhgf.webp)
+[![image](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/chatgpt.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/chatgpt.webp)
 
 We have launched Chat GPT integration with [Multivendor app](/zenith/introduction/) which allows admin and seller to generate unique descriptions of products using OpenAI API ( which is used in Chat GPT )
 
@@ -1241,7 +1241,7 @@ Once you enable this feature, it will cost you 17 USD per month in addition to y
 MULTIVENDOR DATABASE BACKUP
 ---------------------------
 
-[![image](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/10/hgfbvgfr.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/10/hgfbvgfr.webp)
+[![image](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/dbbackup.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/dbbackup.webp)
 
 We as a webkul introduce a feature app, **Multi-vendor Database Backup**. This feature helps you to get the past data in an app form.
 
@@ -1260,20 +1260,20 @@ The cost of this feature is **11$ per month.**
 WATERMARK
 ---------
 
-[![image](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/10/hgfgfbgfbgbg.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/10/hgfgfbgfbgbg.webp)
+[![image](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/watermark.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/watermark.webp)
 
 The [Multi-vendor Marketplace](/zenith/introduction/) comes up with another shipping feature app here namely **Watermark**.
 
 This feature app allows merchant to add watermark on the digital files (PDFs and Images).
 
-Once you enable this feature, it will cost you 10 USD per month in addition to your current multivendor plan.
+Once you enable this feature, it will cost you 11 USD per month in addition to your current multivendor plan.
 
 [User Guide ](/zenith/featured-app/marketplace-other-add-ons/watermark)
 
 SELLER BLOG
 -----------
 
-[![image](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/10/hgggddgbygb.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/10/hgggddgbygb.webp)
+[![image](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/sellerblog.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/sellerblog.webp)
 
 The Seller Blog is a feature of our multivendor marketplace app, offering each registered seller their own blog.
 
@@ -1284,7 +1284,7 @@ Sellers can use this space to publish articles, updates, and content related to 
 Multivendor API
 ---------------
 
-[![Multivendor API](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/04/Screenshot-23-1.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/04/Screenshot-23-1.png)
+[![Multivendor API](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/mvmapi.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/mvmapi.webp)
 
 With this Shopify Multivendor Marketplace **API** feature, admin can access the API (Application Programming Interface)
 
@@ -1296,20 +1296,20 @@ Refer to the [**User Guide**](/zenith/featured-app/marketplace-miscellaneous-ad
 Seller Staff
 ------------
 
-[![Seller Staff](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/04/Screenshot-28-1.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/04/Screenshot-28-1.png)
+[![Seller Staff](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/sellerstaff.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/sellerstaff.webp)
 
 Through this Seller Staff feature app, the seller can add staff and add permission to them so that the staff can manage the activities on the seller panel.
 
 Only admin can enable his seller to add staff and allow him to manage activities on behalf of the seller.
 
-This feature has an additional monthly charge of 10 USD over and above your current multivendor plan.
+This feature has an additional monthly charge of 11 USD over and above your current multivendor plan.
 
 For more details, refer to the [**USER GUIDE**](/zenith/featured-app/marketplace-miscellaneous-add-ons/seller-staff) of Seller Staff feature app.
 
 Admin Staff
 -----------
 
-[![Admin Staff](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/04/Screenshot-31-1.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/04/Screenshot-31-1.png)
+[![Admin Staff](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/adminstaff.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/adminstaff.webp)
 
 Shopify Multivendor Marketplace Admin Staff feature app enables the store owner to add staff members and assign different permissions to them in order to manage activities on the admin panel.
 
@@ -1334,7 +1334,7 @@ To know more about this featured app, do refer to the [**USER GUIDE**](/zenith
 Split Cart
 ----------
 
-[![split cart](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/11/Feature-Apps-Admin-11.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/11/Feature-Apps-Admin-11.png)
+[![split cart](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/splitcart.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/splitcart.webp)
 
  [Multivendor Marketplace](/zenith/introduction/) module has come up with a featured app named **Split Cart.** It helps your buyers to have split carts during the checkout process.
 
@@ -1344,7 +1344,7 @@ Thus, buyers will have different products from various sellers in their cart but
 
 With this feature, the admin will have an easily manageable order process and thus, can have the separate orders of each seller’s products.
 
-You can get the Split Cart feature app simply by paying an amount of $14 per month over and above your current multivendor plan.  
+You can get the Split Cart feature app simply by paying an amount of $15 per month over and above your current multivendor plan.  
 [Explore!](/zenith/featured-app/marketplace-miscellaneous-add-ons/split-cart)
 
 Customer Order Management
@@ -1372,7 +1372,7 @@ The app is **FREE** of cost but you have to pay for the integration that will 
 Hyperlocal Marketplace
 ----------------------
 
-[![hyperlocal marketplace](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/11/Feature-Apps-Admin-13.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/11/Feature-Apps-Admin-13.png)
+[![hyperlocal marketplace](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/hyperlocal.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/hyperlocal.webp)
 
 [Multi-Vendor Marketplace for Shopify](https://webkul.com/blog/shopify-multivendor-marketplace-app-new-upgraded-features/) is here with another feature app called **Hyperlocal Marketplace.**
 
@@ -1413,7 +1413,7 @@ Also, you can approve/deny the customer's review from your admin panel and thus,
 ZOHO Integration
 ----------------
 
-[![screenshot_1691577503232](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/08/screenshot_1691577503232.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/08/screenshot_1691577503232.png)
+[![screenshot_1691577503232](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/zoho.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/zoho.webp)
 
 **Zoho Integration For Shopify Multi-vendor** is an efficient tool that sets up a connection between your Shopify Store and Zoho.
 
@@ -1428,7 +1428,7 @@ To know more about this feature app, do refer to the [**user guide.**](/zenith/f
 Route Insurance
 ---------------
 
-[![screenshot_1691651724408](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/08/screenshot_1691651724408.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/08/screenshot_1691651724408.png)
+[![screenshot_1691651724408](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/route.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/route.webp)
 
 Using the [Multi-vendor Marketplace app](/zenith/introduction/) for Shopify, you can allow customers to ensure their orders with **[Route](https://route.com/)**.
 

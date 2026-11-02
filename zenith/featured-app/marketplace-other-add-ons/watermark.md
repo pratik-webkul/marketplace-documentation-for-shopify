@@ -18,7 +18,7 @@ This feature app will charge you **$11 monthly** in addition to your current mul
 
 To enable the feature app, all you need to do is visit the “**Featured Apps**” section of the admin panel and enable it from there.
 
-[![From here, you can enable the feature app.](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/wm1.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/wm1.webp)
+[![From here, you can enable the feature app.](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/watermark.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/watermark.webp)
 
 ### Workflow
 

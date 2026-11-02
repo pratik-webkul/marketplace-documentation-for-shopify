@@ -35,7 +35,7 @@ You have to enable this API feature from the featured app section so that you ca
 
 Besides that, this will have additional charges of USD20 per month over and above your current multivendor plan.
 
-[![Multivendor API](http://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/multivendorapi.webp)](http://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/multivendorapi.webp)
+[![Multivendor API](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/mvmapi.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/mvmapi.webp)
 
 Click the **ENABLE** button to activate the Multi-vendor API feature app.
 

@@ -42,7 +42,7 @@ Installation
 
 To install the **Multi-vendor Database Backup**, you need to go to admin panel >> 3dots >> feature app.
 
-[![21-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/databasefeat.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/databasefeat.webp)
+[![21-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/dbbackup.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/dbbackup.webp)
 
 Now, search for it and click on the enable button to install the feature app.
 

@@ -17,7 +17,7 @@ As well for order placed, order fulfilled, order refund, order cancelled, and ma
 ----------------------
 Visit the ‘**Feature app**‘ section from your multivendor marketplace admin panel. Now, click on the enable button to install the app
 
-[![screenshot_1678775013217](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/whatsapp1.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/whatsapp1.webp)
+[![screenshot_1678775013217](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/10/whatsapp.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/10/whatsapp.webp)
 
 Once done, you need to accept the payment. Further, you can enable the app successfully.
 

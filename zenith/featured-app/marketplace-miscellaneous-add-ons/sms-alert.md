@@ -21,7 +21,7 @@ Earlier in the multivendor marketplace, notification of a new order placed by th
 ---------------
 Visit the '**Feature app**' section from your multivendor marketplace admin panel. Now, click on the enable button to install the app.
 
-[![Multivendor Marketplace for Shopify: Clockwork Integration](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/sms11.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/sms11.webp)
+[![Multivendor Marketplace for Shopify: Clockwork Integration](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/smsalert.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/smsalert.webp)
 
 Once done, you need to accept the payment. Further, you can enable the app successfully.
 

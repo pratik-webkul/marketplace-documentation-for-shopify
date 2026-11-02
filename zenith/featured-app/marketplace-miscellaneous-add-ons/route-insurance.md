@@ -32,7 +32,7 @@ To enable this feature app, first visit the Feature Apps section. Now, search fo
 
 Now, activate the Route Insurance feature app.
 
-[![Screenshot-2020-10-07T105719.027](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/routeinsurance.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/routeinsurance.webp)
+[![Screenshot-2020-10-07T105719.027](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/route.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/route.webp)
 
 Click the “**Enable**” button.
 

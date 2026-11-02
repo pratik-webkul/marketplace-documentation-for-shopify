@@ -24,7 +24,7 @@ In order to use this feature admin needs to navigate from admin panel **click on
 
 This will cost you additional 17 USD **Per month** upon your active Multivendor plan.
 
-[![CHAT GPT](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/chatgptfea.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/chatgptfea.webp)
+[![CHAT GPT](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/chatgpt.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/chatgpt.webp)
 
  Getting an API key for OpenAI
 --------------------

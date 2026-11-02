@@ -48,7 +48,6 @@ Go to the "Feature App" section of the admin panel>>Select "Seller Vacation App"
 
 [![Screenshot-59](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/10/sellervacation.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/10/sellervacation.webp)
 
-[![Seller Vacation3](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/new1772775893540.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/new1772775893540.webp)
 
 
 Once you approve this charge, you will end up getting this feature installed in your Multivendor app.
