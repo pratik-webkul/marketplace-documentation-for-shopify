@@ -15,7 +15,7 @@ By enabling this featured app, the admin can allow sellers to manage the order f
 
 This feature app will charge you a minimal amount of **$11 per month** over and above your current Multivendor plan.
 
-NOTE:- This J&T Express shipping feature app is available only with the Multivendor **Pro** **Plan** ($60/month).
+NOTE:- This J&T Express shipping feature app is available only with the Multivendor **Pro** **Plan** ($100/month).
 
 Moreover, you need to enable the **[Shipping](/zenith/featured-app/shipping/marketplace-shipping)** Add-on for FREE from the ‘Feature Apps’ section of the app.
 

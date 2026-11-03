@@ -17,7 +17,7 @@ This feature will have an additional charge of **USD 10 per month** over & abo
 
 **NOTE:**
 
-This feature app is available only with the Multivendor **Pro** **Plan** ($60/month). Moreover, you need to enable the [**Shipping**](/zenith/featured-app/overview) add-on (free) from the ‘featured apps’ section of the app.
+This feature app is available only with the Multivendor **Pro** **Plan** ($100/month). Moreover, you need to enable the [**Shipping**](/zenith/featured-app/overview) add-on (free) from the ‘featured apps’ section of the app.
 
 Above all, access to Shipping requires your Shopify store to be on the plan that supports **Real-Time Carrier-Calculated Shipping**.
 

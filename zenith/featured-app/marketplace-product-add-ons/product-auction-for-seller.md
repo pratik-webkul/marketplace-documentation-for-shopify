@@ -20,7 +20,7 @@ Using Multivendor Marketplace **Product Auction for Seller** feature app, You a
 
 Note:- This feature app is free of cost but to use the feature app, you need to install the product auction app on your store i.e. $30 per month over and above your currently Multivendor plan.
 
-Suppose you opt for $60 USD per month plan, then, you will be charged $60+$30=$90 per month.
+Suppose you opt for $100 USD per month plan, then, you will be charged $100+$30=$130 per month.
 
 **NOTE**:- It is mandatory to install the Product Auction App first on your Store to make this Feature App work for your Sellers.
 

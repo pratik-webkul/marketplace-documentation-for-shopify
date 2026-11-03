@@ -21,7 +21,7 @@ Using this featured app, merchants can allow vendors to ship their goods via mul
 
 This is a requirement defined by Shopify for your store to retrieve shipping rates from third-party sources, such as this shipping app.
 
-This feature app is available only with the Multivendor **Pro** **Plan** ($60/month). Moreover, you need to enable the [**Shipping**](/zenith/featured-app/overview) add-on (free) from the ‘featured apps’ section of the app.
+This feature app is available only with the Multivendor **Pro** **Plan** ($100/month). Moreover, you need to enable the [**Shipping**](/zenith/featured-app/overview) add-on (free) from the ‘featured apps’ section of the app.
 
  Installation
 -----------------------

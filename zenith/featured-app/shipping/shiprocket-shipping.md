@@ -17,7 +17,7 @@ the admin can allow the sellers to manage both the order fulfillment using the S
 
 This feature app comes will charge you **$10 per month** in addition to your current Multivendor plan.
 
-**Note**:- “Shiprocket feature is available only in the Multivendor **PRO ($60/month)** Plan and you need to enable the [**Shipping Feature App**](/zenith/featured-app/overview)" that is **FREE** of cost.”
+**Note**:- “Shiprocket feature is available only in the Multivendor Max Plan ($100/month)** Plan and you need to enable the [**Shipping Feature App**](/zenith/featured-app/overview)" that is **FREE** of cost.”
 
 To make the shipping feature work, you need to choose the Shopify store plan which supports the **“Real-Time Carrier-Calculated Shipping”**
 

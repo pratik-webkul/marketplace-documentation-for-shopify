@@ -17,7 +17,7 @@ The admin will be responsible to add the reason for the cancellation of orders f
 
 You can configure the shipping charges of the product with the same shipping flow procedure explained in [Multivendor Marketplace Shipping.](/zenith/featured-app/overview) The order fulfillment process will be more simple now with the use of the Ecom Express Shipping service.
 
-**Important Note**:- “Ecom Express Shipping Feature is available only in the Multivendor **PRO ($60/month)** Plan **+** You need to enable the “Shipping” Feature App which is **FREE** of cost.”
+**Important Note**:- “Ecom Express Shipping Feature is available only in the Multivendor Max Plan ($100/month)** Plan **+** You need to enable the “Shipping” Feature App which is **FREE** of cost.”
 
 Please Note:- To make Ecom Express shipping feature work, you need to choose the Shopify store plan which supports the **“Real-Time Carrier-Calculated Shipping”.**
 

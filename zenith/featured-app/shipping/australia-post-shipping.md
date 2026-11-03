@@ -14,7 +14,7 @@ Australia Post, a government-owned corporation known to provide postal services 
 
 Presenting Australia Post Feature app using which admin can allow the sellers to deliver their shipment via **Australia Post shipment method** and can also **Generate Shipping Labels** from the app.
 
-**Please Note**:- “Australia Post Shipping Feature is available only in the Multivendor **PRO** ($60/month) Plan **+** You need to enable the “Shipping” Feature App which is **FREE** of cost.”
+**Please Note**:- “Australia Post Shipping Feature is available only in the Multivendor **PRO** ($100/month) Plan **+** You need to enable the “Shipping” Feature App which is **FREE** of cost.”
 
 This feature will have an additional charge of USD 11 per month over and above your current multivendor plan.
 

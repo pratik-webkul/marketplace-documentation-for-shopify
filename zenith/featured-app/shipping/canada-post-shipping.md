@@ -11,7 +11,7 @@ author: Chirag Tyagi
 
 And sellers can also generate "shipping label" from their account on Multivendor Marketplace App.
 
-**Important Note**:- “This Shipping Feature is available only in the Multivendor **PRO ($60/month)** Plan **+** You need to enable the “Shipping” Feature App which is **FREE** of cost.”
+**Important Note**:- “This Shipping Feature is available only in the Multivendor Max Plan ($100/month)** Plan **+** You need to enable the “Shipping” Feature App which is **FREE** of cost.”
 
 This feature will have additional charges of USD 10 per month over and above your current multivendor plan.
 

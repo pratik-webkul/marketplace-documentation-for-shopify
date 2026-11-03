@@ -17,7 +17,7 @@ This feature of the Multivendor app will charge you an additional amount of USD 
 
 > To make UPS shipping feature work, you need to choose the Shopify store plan which supports the **“Real-Time Carrier-Calculated Shipping”.**
 
-**Important Note**:- “UPS Feature is available only in the Multivendor **PRO ($60/month)** Plan **+** You need to enable the “[Shipping” Feature App](/zenith/featured-app/overview) which is **FREE** of cost.”
+**Important Note**:- “UPS Feature is available only in the Multivendor Max Plan ($100/month)** Plan **+** You need to enable the “[Shipping” Feature App](/zenith/featured-app/overview) which is **FREE** of cost.”
 
 THIS SHIPPING FEATURE APP IS USED FOR **BOTH RATE CALCULATION** AND **FULFILLMENT.**
 

@@ -17,7 +17,7 @@ This feature app will charge you a minimal amount of **$11 per month** over and 
 
 NOTE:- This EasyPost shipping feature app is available only with the
 
-Multivendor **Pro** **Plan** ($60/month). Moreover, you need to enable the **[Shipping](/zenith/featured-app/overview)** Add-on for FREE from the ‘Feature Apps’ section of the app.
+Multivendor **Pro** **Plan** ($100/month). Moreover, you need to enable the **[Shipping](/zenith/featured-app/overview)** Add-on for FREE from the ‘Feature Apps’ section of the app.
 
 Also, Access to Shipping requires your Shopify store to be on the plan that supports [**Real-Time Carrier-Calculated Shipping**.](https://help.shopify.com/en/manual/shipping/setting-up-and-managing-your-shipping/enabling-shipping-carriers)
 

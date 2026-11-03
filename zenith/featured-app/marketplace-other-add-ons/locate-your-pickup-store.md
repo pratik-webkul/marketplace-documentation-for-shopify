@@ -15,7 +15,7 @@ Now provide your Seller store location to your customers so they can easily find
 You need to install the [Locate Your Pickup Store](https://webkul.com/blog/locate-your-pickup-store-app-for-shopify/) app on your store i.e. $7 per month over and above your current Multivendor plan.
 
   
-Suppose you opt for $60 USD per month plan, then, you will be charged $60+$7=$67 per month.
+Suppose you opt for $100 USD per month plan, then, you will be charged $100+$7=$107 per month.
 
 Now, Let's understand how we can use this app with Multivendor Marketplace
 

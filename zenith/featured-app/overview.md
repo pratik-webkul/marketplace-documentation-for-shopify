@@ -39,7 +39,7 @@ This feature also allows sellers to add shipping range for products, add countri
 
 If you want to get access to this shipping feature, you need to choose the Shopify store plan which supports “**Real-Time Carrier-Calculated Shipping”.**
 
-**Important Note**:- This Shipping feature is available in the Pro Plan ($60 USD) of the Multivendor App.
+**Important Note**:- This Shipping feature is available in the Max Plan ($100 USD) of the Multivendor App.
 
 There is no need to pay an additional charge to install this feature app.
 
@@ -90,7 +90,7 @@ The [Multi-vendor Marketplace](/zenith/introduction/) comes up with another shi
 
 The admin can allow sellers to manage the order fulfillment via J&T Express and automatically generate shipping labels for the orders.
 
-**NOTE:- This J&T Express shipping feature app is available only with the Multivendor ProPlan ($60/month).**
+**NOTE:- This J&T Express shipping feature app is available only with the Multivendor MaxPlan ($100/month).**
 
 **Moreover, you need to enable the [Shipping](/zenith/featured-app/shipping/marketplace-shipping) Add-on for FREE from the ‘Feature Apps’ section of the app.**
 
@@ -136,7 +136,7 @@ Using this featured app, merchants can allow vendors to ship their goods via mul
 
 This is a requirement defined by Shopify for your store to retrieve shipping rates from third-party sources, such as this shipping app.
 
-This feature app is available only with the Multivendor **Pro** **Plan** ($60/month). Moreover, you need to enable the [**Shipping**](/zenith/featured-app/shipping/marketplace-shipping) add-on (free) from the ‘featured apps’ section of the app.
+This feature app is available only with the Multivendor Max Plan ($100/month). Moreover, you need to enable the [**Shipping**](/zenith/featured-app/shipping/marketplace-shipping) add-on (free) from the ‘featured apps’ section of the app.
 
 [Refer to the User Guide to know more about this feature.](/zenith/featured-app/shipping/shipmondo)
 
@@ -153,7 +153,7 @@ This feature app costs you a minimal amount of **$11 per month** over and above 
 
 **NOTE**:-
 
-*   The Sendle shipping feature app is available only with the Multivendor **Pro** **Plan** ($60/month).
+*   The Sendle shipping feature app is available only with the Multivendor Max Plan ($100/month).
 *   You need to enable the **[Shipping](https://marketplace-doc.webkul.com/zenith/Featured-App/Shipping/Marketplace%20Shipping.html)** Add-on for FREE from the ‘Feature Apps’ section of the app.
 
 Moreover, access to Shipping requires your Shopify store to be on the plan that supports [Real-Time Carrier-Calculated Shipping.](https://help.shopify.com/en/manual/shipping/setting-up-and-managing-your-shipping/enabling-shipping-carriers)
@@ -173,7 +173,7 @@ Also, automatically generate shipping labels for the orders.
 
 This feature app will charge you a minimal amount of **$10 per month** over and above your current Multivendor plan.
 
-NOTE:- This Swiss Post shipping feature app is available only with the Multivendor **Pro** **Plan** ($60/month).
+NOTE:- This Swiss Post shipping feature app is available only with the Multivendor Max Plan ($100/month).
 
 Moreover, you need to enable the **[Shipping](/zenith/featured-app/shipping/marketplace-shipping)** Add-on for FREE from the ‘Feature Apps’ section of the app.
 
@@ -346,7 +346,7 @@ This feature of the Multivendor app will charge you an additional amount of $10 
 
 > To make UPS shipping feature work, you need to choose the Shopify store plan which supports the **“Real-Time Carrier-Calculated Shipping”.**
 
-**Important Note**:- “UPS Feature is available only in the Multivendor **PRO ($60/month)** Plan **+** You need to enable the “[Shipping” Feature App](/zenith/featured-app/shipping/marketplace-shipping) which is **FREE** of cost.”  
+**Important Note**:- “UPS Feature is available only in the Multivendor Max Plan ($100/month)** Plan **+** You need to enable the “[Shipping” Feature App](/zenith/featured-app/shipping/marketplace-shipping) which is **FREE** of cost.”  
 
 [Refer to the **User Guide** to know more about this feature.](/zenith/featured-app/shipping/ups-shipping)
 
@@ -359,7 +359,7 @@ FedEx
 
 Using this featured app, the merchants can enable shipment through **FedEx**. Moreover, he can allow **US** **sellers** to automatically generate shipping labels.
 
-> **FedEx** feature app is available only with the Multivendor **PRO** **Plan** ($60/month). Moreover, you need to enable the [**Shipping**](/zenith/featured-app/shipping/marketplace-shipping) add-on (free) from feature apps section of the app.
+> **FedEx** feature app is available only with the Multivendor Max Plan ($100/month). Moreover, you need to enable the [**Shipping**](/zenith/featured-app/shipping/marketplace-shipping) add-on (free) from feature apps section of the app.
 
 **CHARGES:** This feature will have an additional charge of **USD 10 per month** over & above your current MVM plan.
 
@@ -377,7 +377,7 @@ VAMASHIP
 
 Using this featured app, the merchants can enable shipment through Vamaship. Moreover, he can automatically generate shipping labels for the same.
 
-> **Vamaship** feature app is available only with the Multivendor **PRO** **Plan** ($60/month).
+> **Vamaship** feature app is available only with the Multivendor Max Plan ($100/month).
 > 
 > Moreover, you need to enable the [**Shipping**](/zenith/featured-app/shipping/marketplace-shipping) add-on (free) from feature apps section of the app.
 
@@ -402,7 +402,7 @@ This feature of the Multivendor app will charge you a minimal amount of $10 per 
 
 ### Points to be Noted
 
-*   “Blue Dart Feature is available only in the Multivendor **PRO ($60/month)** Plan **+** You need to enable the “Shipping” Feature App which is **FREE** of cost.”
+*   “Blue Dart Feature is available only in the Multivendor Max Plan ($100/month)** Plan **+** You need to enable the “Shipping” Feature App which is **FREE** of cost.”
 *   Please make sure that it is necessary for admin to have an account on Blue Dart. These Blue Dart account details will help the admin to configure settings in the app.
 *   Please Note:- To make this feature work, you need to choose the Shopify store plan which supports the **“Real-Time Carrier-Calculated Shipping”.**
 *   Make the **Contact Number, a mandatory field for the customers** for checkout.

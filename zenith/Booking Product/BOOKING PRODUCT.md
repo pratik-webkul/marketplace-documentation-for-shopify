@@ -24,7 +24,7 @@ Customers can request the admin to "**Reschedule**" or "**Cancel**" the bookings
 
 **Please Note:**\- This feature app is FREE of cost but this integration will add a USD 18 per month in addition to your existing Multivendor plan.
 
-If you choose the Pro plan ($60/month) and enable the Booking App by Webkul ($18/month), your total monthly charge will be $78/month ($60 + $18).
+If you choose the Max plan ($100/month) and enable the Booking App by Webkul ($18/month), your total monthly charge will be $118/month ($100 + $18).
 
 ### Features
 
