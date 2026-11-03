@@ -25,7 +25,6 @@ Firstly you need to enable the "Expiry App" feature from the 'Feature Apps' sect
 
 Once you will click on Enable button you need to agree on additional charges USD 5 per month which is over and above your current Multivendor marketplace plan.
 
-[![Multivendor Marketplace Product Expiry App](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/02/productexb.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/02/productexb.webp)
 
 Now you will be able to add the expiry date for new products as well as for existing products
 
