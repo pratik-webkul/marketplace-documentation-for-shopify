@@ -31,7 +31,7 @@ You can enable this feature simply from the "Feature Apps" section of the multiv
 
 Here, you will get the Indian GST feature after clicking on "Feature Apps". Just click on the enable button to activate this feature.
 
-[![Screenshot-55](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/ig2.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/ig2.webp)
+[![Screenshot-55](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/indiangst.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/indiangst.webp)
 
 Once you click on the "Enable" button, you need to agree with the plan and approve the charge
 

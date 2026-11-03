@@ -642,7 +642,7 @@ Here is the list of all the product add-ons available for the marketplace:-
 Global Product
 --------------
 
-[![global product](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/globlprdct.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/globlprdct.webp)
+[![global product](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/gloabalproduct.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/gloabalproduct.webp)
 
 Shopify Multivendor Marketplace Global Product feature is here.
 
@@ -658,7 +658,7 @@ Admin can enable this feature with an additional charge of USD 20 per month over
 Favorite Product/Seller
 -----------------------
 
-[![favorite product/seller](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/fvrtprdctseller.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/fvrtprdctseller.webp)
+[![favorite product/seller](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/faveproduct.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/faveproduct.webp)
 
 Shopify Multivendor Marketplace Favorite Product/Seller.
 
@@ -666,13 +666,13 @@ Through this feature you can have your customers like your seller as well as you
 
 Also, the customer will get all the updates through email related to his liked seller whenever the seller adds any new product or make changes in the existing product.
 
-Once you enable this feature, it will cost you 11 USD per month in addition to your current multivendor plan.
+Once you enable this feature, it will cost you 10 USD per month in addition to your current multivendor plan.
 [Go through its **User Manual** to know more about this feature.](/zenith/featured-app/marketplace-product-add-ons/favorite-product-seller)
 
 Stock Management
 ----------------
 
-[![stock management](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/stckmngmnt.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/stckmngmnt.webp)
+[![stock management](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/stockmanagement.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/stockmanagement.webp)
 
 Shopify Multivendor Marketplace Stock Management feature enables the admin to manage the product stock from seller.
 
@@ -686,7 +686,7 @@ Once you enable this feature, you will add 11 USD per month over and above your 
 Make An Offer
 -------------
 
-[![make an offer](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/makeanoffr.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/makeanoffr.webp)
+[![make an offer](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/makeanoffer.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/makeanoffer.webp)
 
 Shopify Multivendor Marketplace “Make an Offer” feature app is here.
 
@@ -698,7 +698,7 @@ This feature has an additional monthly charge of USD 11 over and above your curr
 Product Feed
 ------------
 
-[![product feed](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/productfeed.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/productfeed.webp)
+[![product feed](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/productfeed.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/productfeed.webp)
 
 With the help of [Shopify Multivendor Marketplace](/zenith/introduction/) Product Feed app, merchant can add products from different ecommerce platform into Shopify store.
 
@@ -734,7 +734,7 @@ This feature has an additional monthly charge of USD 10 over and above your curr
 Slot Pricing
 ------------
 
-[![Slot pricing](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/slotpricing.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/slotpricing.webp)
+[![Slot pricing](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/slotpricing.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/slotpricing.webp)
 
 Now Onwards, using Multivendor Marketplace App, admin can allow their sellers to add different product prices for different customers on the basis of Customer Tags.
 
@@ -748,7 +748,7 @@ To get this app, admin needs to approve the charge of $11 USD per month over and
 Booking Product
 ---------------
 
-[![Booking Product 2](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/bookinggproduct.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/bookinggproduct.webp)
+[![Booking Product 2](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/bookingproduct.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/bookingproduct.webp)
 
 Shopify Multivendor Marketplace Booking Product.
 
@@ -762,7 +762,7 @@ This feature has an additional monthly charge of USD 10 over and above your curr
 Daily Deals
 -----------
 
-[![daily deals](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/dailydeals.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/dailydeals.webp)
+[![daily deals](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/dailydeals.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/dailydeals.webp)
 
 _Multivendor Marketplace for Shopify- Daily Deals_ will now allow the Admin to grant permission to Sellers so that they can also add deals on their products.
 
@@ -772,7 +772,7 @@ Moreover, this is a great way to draw customers and increase sales of your shop.
 Artist Product Design
 ---------------------
 
-[![artist product design ](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/artistproductdesign.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/artistproductdesign.webp)
+[![artist product design ](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/artistproductdesign.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/artistproductdesign.webp)
 
 Till now, the Admin was able to create/allow Sellers on his [Multivendor Marketplace for Shopify](/zenith/introduction/), but now with the new Multivendor Marketplace feature app, **Artist Product Design**,
 
@@ -780,14 +780,14 @@ Admin can create/add Artists on his store and let them add designs for the produ
 
 If the Admin wants to sell products with designs from different Artists then he can do so by using this featured app.
 
-This app comes at a cost of $10.00 per month.
+This app comes at a cost of $15.00 per month.
 
 [Explore!](/zenith/featured-app/marketplace-product-add-ons/artist-product-design)
 
 Product Auction for Sellers
 ---------------------------
 
-[![Feature_Apps_Admin_png_360×599_-1](http://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/prdctactnforsller.webp)](http://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/prdctactnforsller.webp)
+[![Feature_Apps_Admin_png_360×599_-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/auction.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/auction.webp)
 
 You might have used the [**Product Auction**](https://webkul.com/blog/shopify-product-auction/) app on your Shopify Store earlier but this time you will have this featured app available for your marketplace.
 
@@ -798,7 +798,7 @@ This integration is free of cost i.e. You will be charged only for the Multiven
 SPONSORED PRODUCT
 -----------------
 
-[![image](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/spnsrdprdct.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/spnsrdprdct.webp)
+[![image](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/sponseredproduct.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/sponseredproduct.webp)
 
 This feature app allows Admin to create plans for the Sellers so that they can promote their product on the Admin Shopify store.
 
@@ -824,7 +824,7 @@ You can get this feature app at a monthly subscription of $ 11 (USD) over & abov
 CROWDFUNDING
 ------------
 
-[![image](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/crowdfunding.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/crowdfunding.webp)
+[![image](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/crowdfunding.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/crowdfunding.webp)
 
 The [Multivendor Marketplace App](/zenith/introduction/) is now integrated with the [Crowd Funding App](https://apps.shopify.com/crowd-funding) for Shopify. Allow sellers to add crowdfunding projects/campaigns and raise funds for the cause.
 
@@ -837,7 +837,7 @@ The app will cost you **$15/month**.
 PREORDER INTEGRATION
 --------------------
 
-[![image](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/preorerintegration.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/preorerintegration.webp)
+[![image](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/preorder.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/preorder.webp)
 
 [PreOrder](https://webkul.com/blog/preorder-strategy-2020-rev-up-your-shopify-store-sales/) is a great approach to determine the product in high demand. You can allow pre-order on your marketplace products and earn even before the product release.
 
@@ -852,7 +852,7 @@ Thus, customers can preorder products from your marketplace by paying the preord
 Delivery slot Management
 ------------------------
 
-[![image](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/deliveryslotmanagement.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/deliveryslotmanagement.webp)
+[![image](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/dsm.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/dsm.webp)
 
 Now, the [Delivery Slot Management app](https://webkul.com/blog/delivery-slot-management-for-shopify/) is integrated with the very popular **[Multi-vendor Marketplace app](/zenith/introduction/)** for Shopify.
 
@@ -865,7 +865,7 @@ Thus, let customers select a slot when they wish to get the item delivered.
 PACK PRODUCT INTEGRATION
 ------------------------
 
-[![image](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/packproductintegration.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/packproductintegration.webp)
+[![image](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/packproduct.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/packproduct.webp)
 
 The [Pack & Combo Product app](https://webkul.com/blog/shopify-pack-product-app/) is now integrated with the [Multi-vendor Marketplace App](/zenith/introduction/) for Shopify.
 
@@ -876,7 +876,7 @@ Enabling this feature, you can allow sellers to create pack and combo products f
 DELIVERY BOY INTEGRATION
 ------------------------
 
-[![image](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/deliveryboyintegration.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/deliveryboyintegration.webp)
+[![image](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/deliveryboy.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/deliveryboy.webp)
 
 Now, the Delivery boy app by Webkul is integrated with the very popular Multi-vendor Marketplace app for Shopify.
 
@@ -887,20 +887,20 @@ Delivery boy app by Webkul is a simplified solution for admin to add agents as d
 E-SIGNATURE
 -----------
 
-[![image](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/esignature.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/esignature.webp)
+[![image](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/esign.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/esign.webp)
 
 Using our E-Signature Feature app in the [Multivendor Marketplace App for Shopify, admins,](https://apps.shopify.com/multi-vendor-marketplace) and sellers can effortlessly create E-Signature documents.
 
 These documents can be connected to seller products, allowing customers to sign them before adding items to their cart, streamlining the shopping experience.
 
-The E-Signature feature app will have an additional charge of **USD 20 per month** over & above your current Multivendor Marketplace app plan.
+The E-Signature feature app will have an additional charge of **USD 22 per month** over & above your current Multivendor Marketplace app plan.
 
 [User Guide](/zenith/featured-app/marketplace-product-add-ons/e-signature)
 
 Pay What You Want
 -----------------
 
-[![Feature_Apps_Admin_1_1200x597_png_1200×597_](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/paywhatyouwant.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/paywhatyouwant.webp)
+[![Feature_Apps_Admin_1_1200x597_png_1200×597_](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/paywhatyouwant.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/paywhatyouwant.webp)
 
 **[Pay what you want](/zenith/featured-app/marketplace-product-add-ons/pay-what-you-want)** (**PWYW**) also known as **Value-for-Value** model is a pricing strategy where buyers pay their desired amount for a given commodity.
 
@@ -1388,7 +1388,7 @@ It further scans the nearest registered service providers (vendors). Therefore, 
 Custom Product Option
 ---------------------
 
-[![custom options ](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/customoptions.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/customoptions.webp)
+[![custom options ](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/customoptions.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/customoptions.webp)
 
 With the Custom Option feature app, you can allow sellers to add custom product options while adding products from their seller panels.
 
@@ -1401,7 +1401,7 @@ You can create a **maximum of 10 custom options** for a product.
 Product Review
 --------------
 
-[![product review](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/productreview.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/productreview.webp)
+[![product review](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/productreview.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/productreview.webp)
 
 You can now allow customers to rate and review your marketplace products using the **Product Review** feature app.
 

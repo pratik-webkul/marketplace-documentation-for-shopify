@@ -13,7 +13,7 @@ Which enables both admins as well as sellers to set an expiry date for the produ
 
 Once you will set the expiry date for any product, the product will automatically become unavailable on that set date.
 
-This feature cost is USD 5 per month over and above your current multivendor marketplace plan.
+This feature cost is USD 10 per month over and above your current multivendor marketplace plan.
 
 So let's understand its workflow:-
 
@@ -21,7 +21,7 @@ So let's understand its workflow:-
 ------------
 Firstly you need to enable the "Expiry App" feature from the 'Feature Apps' section by click on the (...) three dots of the main menu in the app.
 
-[![Multivendor Marketplace Product Expiry App](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/02/productexa.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/02/productexa.webp)
+[![Multivendor Marketplace Product Expiry App](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/productexpiry.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/productexpiry.webp)
 
 Once you will click on Enable button you need to agree on additional charges USD 5 per month which is over and above your current Multivendor marketplace plan.
 

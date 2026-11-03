@@ -37,11 +37,11 @@ Once you enable the feature app, you will get some additional features.
 ----------------
 You can enable this feature from the "featured app" menu of the Multivendor Marketplace for Shopify app.
 
-Just click on the enable button and use this feature on your store. Which will cost you 10$ USD per month in addition to the Multivendor app plan.
+Just click on the enable button and use this feature on your store. Which will cost you 11$ USD per month in addition to the Multivendor app plan.
 
 Dashboard>> Feature Apps>> Make an offer>> Click on **Enable** button.
 
-[![Make an Offer](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/makeanoffer.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/makeanoffer.webp)
+[![Make an Offer](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/makeanoffer.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/makeanoffer.webp)
 
 Once you enable the 'Make an Offer' feature within your app, you accept the additional monthly charges for this feature.
 

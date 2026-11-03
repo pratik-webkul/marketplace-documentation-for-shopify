@@ -27,7 +27,7 @@ To get this app, you have to pay 11$ (USD) per month over and above the monthly 
 ----------------
 Go to the feature app section and click on enable as shown in the screenshot below:
 
-[![Multivendor Marketplace for Shopify: Stock Management](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/1780384768633.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/1780384768633.webp)
+[![Multivendor Marketplace for Shopify: Stock Management](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/stockmanagement.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/stockmanagement.webp)
 
 Once you have clicked on enable, a new box will open where you need to agree:
 

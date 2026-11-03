@@ -23,11 +23,10 @@ Firstly visit the "Feature Apps" section by clicking the (...) three dots in the
 
 Now Enable the " Favorite Product/Seller" Feature.
 
-[![Favorite Product/Seller](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/favpo.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/favpo.webp)
+[![Favorite Product/Seller](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/faveproduct.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/faveproduct.webp)
 
-Once you will click on the "Enable button" then you need to agree on an additional charge of USD 5 per month which are over and above your current multivendor marketplace plan.
+Once you will click on the "Enable button" then you need to agree on an additional charge of USD 10 per month which are over and above your current multivendor marketplace plan.
 
-[![Favorite Product/Seller](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/favpot.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/favpot.webp)
 
  FRONT END DISPLAY IN NEW THEME
 ---------------

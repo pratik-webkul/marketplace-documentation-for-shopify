@@ -54,7 +54,7 @@ Also, if you have your seller pages customized, please reach us at [support@webk
 
 To get the **Product Auction for Seller**, You need to go to the Feature Apps section of the Multivendor app and activate this feature from there.
 
-[![Feature App5](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/auctionacivate.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/auctionacivate.webp)
+[![Feature App5](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/auction.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/auction.webp)
 
 Click on Enable button to activate this feature.
 

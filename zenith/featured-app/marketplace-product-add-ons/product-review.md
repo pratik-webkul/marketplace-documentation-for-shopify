@@ -15,7 +15,7 @@ After purchasing an item, customers can rate it to share their experience. Admin
 
 **CHARGES**:
 
-This feature will have an additional charge of **USD 7 per month** over & above your current Multivendor Marketplace plan.
+This feature will have an additional charge of **USD 10 per month** over & above your current Multivendor Marketplace plan.
 
  Enabling the featured app
 ------------------
@@ -27,7 +27,7 @@ Enable the app by accessing the following:
 *   Search for ‘**Product Review**‘ & click on ‘**Enable**‘
 *   After accepting the charges, you’ll be good to configure the app!
 
-[![Feature-Apps-Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/productreview1.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/productreview1.webp)
+[![Feature-Apps-Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/productreview.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/productreview.webp)
 
  Adding Codes
 ----------------

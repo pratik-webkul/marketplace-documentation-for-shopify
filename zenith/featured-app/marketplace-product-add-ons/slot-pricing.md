@@ -62,11 +62,11 @@ To get this featured app on your Marketplace, You need to visit the Feature Apps
 
 Now, You can sort the feature app by "Product" from the drop-down menu to get the Slot Pricing feature app. Click on the "Enable" button to activate it.
 
-[![Slot Pricing](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/slotpricingtwo.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/slotpricingtwo.webp)
+[![Slot Pricing](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/slotpricing.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/slotpricing.webp)
 
 [![Agree with charge](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/09/Feature-Apps-Admin-2-1-png-1286×657-.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/09/Feature-Apps-Admin-2-1-png-1286×657-.png)
 
-Once you click on the "Enable" button, You need to agree with the charge of $10/month which will be added to your current Multivendor app charge.
+Once you click on the "Enable" button, You need to agree with the charge of $11/month which will be added to your current Multivendor app charge.
 
 [![Approve Charges](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/09/Demo-Store-Approve-fees-Shopify-1.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/09/Demo-Store-Approve-fees-Shopify-1.png)
 

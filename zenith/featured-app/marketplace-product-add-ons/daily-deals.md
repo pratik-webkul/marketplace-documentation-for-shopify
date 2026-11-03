@@ -35,7 +35,7 @@ After installing the app, the **admin navigates to the Featured Apps section** f
 
 From the **Multivendor feature app store**, the admin then **searches for 'Daily Deals'** and **clicks the Enable button** to activate it.
 
-[![Feature Apps Admin (3)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/new1772777465768.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/new1772777465768.webp)
+[![Feature Apps Admin (3)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/dailydeals.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/dailydeals.webp)
 
 Click on Agree and you are done:
 

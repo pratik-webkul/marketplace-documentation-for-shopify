@@ -33,11 +33,11 @@ Just click on the three dots available on the upper right corner of the admin's 
 
 [![Dashboard-Admin-2](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/10/first.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/10/first.webp)
 
-[![global product](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/10/globalp.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/10/globalp.webp)
+[![global product](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/gloabalproduct.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/gloabalproduct.webp)
 
 Click on the "**Enable"** button to activate the "Global Product" feature of the Multivendor app.
 
-Once you enable this feature, you will add up USD 15 per month in the monthly charges of the multivendor app plan. Now, if you agree with this plan, you need to approve the charge.
+Once you enable this feature, you will add up USD 20 per month in the monthly charges of the multivendor app plan. Now, if you agree with this plan, you need to approve the charge.
 
 Now, the Global Product menu will appear both on admin as well as seller panel.
 
