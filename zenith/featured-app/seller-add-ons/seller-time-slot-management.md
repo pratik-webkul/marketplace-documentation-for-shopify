@@ -11,7 +11,7 @@ author: Chirag Tyagi
 
 **Purpose of the app**: Using this feature app seller and admin can manage opening and closing time for the seller's store. This is a great way to make your customers aware of the seller's availability.
 
-**Pricing:** This feature will have an additional charge of **USD 5 per month** over & above your current Multivendor Marketplace plan charges.
+**Pricing:** This feature will have an additional charge of **USD 10 per month** over & above your current Multivendor Marketplace plan charges.
 
 **Caution**: In case the admin changes the time zone, then he has to manually update the time slots of every seller.
 
@@ -25,7 +25,7 @@ Enable the following app by visiting:
 *   Search for ‘**Seller Time Slot Management**‘ & click on ‘**Enable**‘
 *   After accepting the charges, you’ll be good to configure the app!
 
-[![collage_3_-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/new1772774278198.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/new1772774278198.webp)
+[![collage_3_-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/10/sellertime.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/10/sellertime.webp)
 
 To make this feature display on the frontend, the admin needs to paste a few codes.
 

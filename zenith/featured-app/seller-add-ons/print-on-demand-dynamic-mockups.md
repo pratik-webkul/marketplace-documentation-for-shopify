@@ -31,9 +31,9 @@ To enable the Print on Demand - Dynamic Mockup feature, go to the **Multivendor 
 
 Hover over the three dots (...), select **Featured Apps**, then search for **Print on Demand - Dynamic Mockups** and click **Enable**.
 
-[![Print-On-Demand Products:](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/printondemandapp.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/printondemandapp.webp)
+[![Print-On-Demand Products:](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/10/printondemand.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/10/printondemand.webp)
 
-Once you enable this featured app, you need to approve the charges for the app i.e. $10 per month.
+Once you enable this featured app, you need to approve the charges for the app i.e. $11 per month.
 
  Admin end Configuration
 ------------------

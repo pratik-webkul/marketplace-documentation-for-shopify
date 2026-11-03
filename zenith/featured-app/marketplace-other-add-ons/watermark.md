@@ -12,13 +12,13 @@ Using the Multivendor Marketplace app, you can convert your store into a fully f
 
 where multiple sellers register and sell their products globally/locally. Also, you, as an admin, can earn a commission from the seller's earnings.
 
-This feature app will charge you $10 monthly in addition to your current multivendor plan.
+This feature app will charge you **$11 monthly** in addition to your current multivendor plan.
 
 ### How to Enable Watermark Feature?
 
 To enable the feature app, all you need to do is visit the “**Featured Apps**” section of the admin panel and enable it from there.
 
-[![From here, you can enable the feature app.](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/wm1.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/wm1.webp)
+[![From here, you can enable the feature app.](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/watermark.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/watermark.webp)
 
 ### Workflow
 

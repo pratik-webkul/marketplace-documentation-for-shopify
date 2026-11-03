@@ -13,7 +13,7 @@ Where now after the customer pays the amount for the order, the amount will go t
 
 Both admin & seller needs to have their respective Stripe accounts.
 
-This feature is available at a cost of USD 10 per month over and above your monthly plan. And you can use marketplace shipping or any other shipping of your store with this feature.
+This feature is available at a cost of USD 15 per month over and above your monthly plan. And you can use marketplace shipping or any other shipping of your store with this feature.
 
 **NOTE**: If you as Store Owner sell products, then you have to become Seller to get Payment through Stripe Connect.
 
@@ -43,7 +43,7 @@ Firstly, enable the app from the Feature App section.
 
 [![Feature app](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/stripeconnect2.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/stripeconnect2.webp)
 
-Once you click on the "Enable" button, you need to agree on additional charges which are USD 10 per month.
+Once you click on the "Enable" button, you need to agree on additional charges which are USD 15 per month.
 
 [![Stripe Connect13](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/stripeconnect1.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/stripeconnect1.webp)
 

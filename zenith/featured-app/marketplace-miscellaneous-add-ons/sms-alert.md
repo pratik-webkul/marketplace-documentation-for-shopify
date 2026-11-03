@@ -15,13 +15,13 @@ Enable the SMS Alert feature app to include this functionality in your marketpla
 
 Earlier in the multivendor marketplace, notification of a new order placed by the customer was sent only via email.
 
-**Charges:** This will cost an additional **5 USD** per month over & above your current Multivendor Marketplace plan.
+**Charges:** This will cost an additional **10 USD** per month over & above your current Multivendor Marketplace plan.
 
  Enable SMS Alert Feature App
 ---------------
 Visit the '**Feature app**' section from your multivendor marketplace admin panel. Now, click on the enable button to install the app.
 
-[![Multivendor Marketplace for Shopify: Clockwork Integration](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/sms11.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/sms11.webp)
+[![Multivendor Marketplace for Shopify: Clockwork Integration](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/smsalert.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/smsalert.webp)
 
 Once done, you need to accept the payment. Further, you can enable the app successfully.
 

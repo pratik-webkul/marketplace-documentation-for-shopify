@@ -22,9 +22,9 @@ Check the below video of Chat GPT feature app for the multivendor marketplace ap
 -----------------
 In order to use this feature admin needs to navigate from admin panel **click on 3 dots >> feature apps >> Enable Chat GPT**
 
-This will cost you additional 15 USD **Per month** upon your active Multivendor plan.
+This will cost you additional 17 USD **Per month** upon your active Multivendor plan.
 
-[![CHAT GPT](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/chatgptfea.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/chatgptfea.webp)
+[![CHAT GPT](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/chatgpt.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/chatgpt.webp)
 
  Getting an API key for OpenAI
 --------------------

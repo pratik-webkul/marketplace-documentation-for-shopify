@@ -36,7 +36,7 @@ To enable the feature app, visit the featured apps section of the Multivendor Ma
 
 Now Activate the "Sponsored Product App" from the feature app section. After that, accept the charges and you are ready to use the app.
 
-[![dssd](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/esygrp1773038467932-1.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/esygrp1773038467932-1.webp)
+[![dssd](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/sponseredproduct.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/sponseredproduct.webp)
 
 Once you enable the app, Two new submenus one under the Configuration "Sponsorship Configuration" And the second "Sponsored".
 

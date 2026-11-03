@@ -13,7 +13,7 @@ With the help of the [**Multivendor Marketplace app for Shopify**](/zenith/intr
 
 Admin can enable his/her sellers to connect their seller profile page with their own social media platforms like Facebook, Instagram, Digg, Flickr, Vimeo, etc.
 
-This feature will have an additional cost of USD 5 per month which is over and above your current Multivendor Marketplace plan.
+This feature will have an additional cost of USD 10 per month which is over and above your current Multivendor Marketplace plan.
 
  FEATURES
 ---------------

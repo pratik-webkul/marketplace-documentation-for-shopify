@@ -32,7 +32,7 @@ Enable the following app by visiting:
 *   Search for '**Hyperlocal Marketplace**' & click on '**Enable**'
 *   After accepting the charges, you'll be good to configure the app!
 
-[![HYPERLOCAL MARKETPLACE ADD-ON](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/hyperlocal.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/hyperlocal.webp)
+[![HYPERLOCAL MARKETPLACE ADD-ON](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/hyperlocal.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/hyperlocal.webp)
 
 The video tutorials is available now please check below:
 

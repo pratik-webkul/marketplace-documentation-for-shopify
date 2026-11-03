@@ -18,11 +18,10 @@ To enable this feature app, just turn it on in the "Feature App" section of the 
 
 Scroll down to enable the "Seller Blog" feature app and click on the 'Enable' button to activate this.
 
-[![image](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/sellerblog11.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/sellerblog11.webp)
+[![image](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/sellerblog.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/sellerblog.webp)
 
-Once you click on the enable button, you need to agree with the additional amount of 10 USD per month which will be charged over and above your current marketplace subscription.
+Once you click on the enable button, you need to agree with the additional amount of 11 USD per month which will be charged over and above your current marketplace subscription.
 
-[![image](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/sellerblog10.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/sellerblog10.webp)
 
 After approving these charges, you can begin utilizing the seller blog feature in your Multivendor Marketplace App.
 

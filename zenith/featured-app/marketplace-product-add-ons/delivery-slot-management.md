@@ -39,7 +39,7 @@ To get this feature app firstly, you need to install the Delivery Slot Managemen
 
 Once done, visit the Feature App section and install the app.
 
-[![Delivery Slot Management](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/deliveryslot.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/deliveryslot.webp)
+[![Delivery Slot Management](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/dsm.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/dsm.webp)
 
  Configuration
 ---------------

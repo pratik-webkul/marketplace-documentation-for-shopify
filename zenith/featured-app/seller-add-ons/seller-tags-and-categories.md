@@ -13,7 +13,7 @@ The [Multivendor Marketplace App for Shopify](/zenith/introduction/) is up with 
 
 **CHARGES**:
 
-This feature will have an additional charge of **USD 5 per month** over & above your current Multivendor Marketplace plan.
+This feature will have an additional charge of **USD 10 per month** over & above your current Multivendor Marketplace plan.
 
  Enabling the featured app
 --------------
@@ -25,7 +25,7 @@ Enable the following app by visiting:
 *   Search for the app & click on ‘**Enable**‘
 *   After accepting the charges, you’ll be good to configure the app!
 
-[![image-82](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/sellertag1.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/sellertag1.webp)
+[![image-82](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/10/sellercat.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/10/sellercat.webp)
 
  Configuration
 --------------

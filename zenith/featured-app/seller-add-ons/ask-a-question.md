@@ -30,11 +30,10 @@ So let's understand its workflow:-
 -----------------
 Firstly, enable the "ASK A QUESTION" feature from the "Features Section" by clicking on (...) three dots of the main menu.
 
-[![Ask a Question ](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/02/1askaquestion.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/02/1askaquestion.webp)
+[![Ask a Question ](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/10/askques.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/10/askques.webp)
 
 After clicking on the enable button, just agree to additional charges, which are over and above to your current multivendor Market Plan.
 
-[![Ask a Question ](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/02/2agree.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/02/2agree.webp)
 
 Once you agree to the additional charges, a new menu called "Ask a Question Configuration" will be added to the configuration section of your Multivendor Marketplace app.
 

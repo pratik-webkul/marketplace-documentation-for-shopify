@@ -23,7 +23,7 @@ Customers can request the admin to "**Reschedule**" or "**Cancel**" the bookings
 
 **Please Note:**\- This feature app is FREE of cost but this integration will add a USD 18 per month in addition to your existing Multivendor plan.
 
-If you choose the Pro plan ($60/month) and enable the Booking App by Webkul ($18/month), your total monthly charge will be $78/month ($60 + $18).
+If you choose the Max plan ($100/month) and enable the Booking App by Webkul ($18/month), your total monthly charge will be $78/month ($60 + $18).
 
  Features
 ------
@@ -42,7 +42,7 @@ If you choose the Pro plan ($60/month) and enable the Booking App by Webkul ($18
 ----------------
 [![Booking App](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/1featuredapp.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/1featuredapp.webp)
 
-[![Feature Apps-Booking App](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/2activatebookingproduct.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/2activatebookingproduct.webp)
+[![Feature Apps-Booking App](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/bookingproduct.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/bookingproduct.webp)
 
 To make this app work, first of all, you need to visit the "Feature Apps" section of the multivendor app. There you will get the "Booking Product" feature app.
 

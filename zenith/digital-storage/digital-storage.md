@@ -19,7 +19,7 @@ Now, for adding digital products to your multivendor store, you require digital 
 
 The digital storage provided in the Multivendor Marketplace for Shopify depends on the plan that you have activated:
 
-*   Pro Plan ($60/month)- 15 GB digital storage
+*   Max Plan ($100/month)- 15 GB digital storage
 *   Executive Plan ($40/month)- 5 GB digital storage
 *   Basic Plan ($15/month)- 3 GB digital storage
 

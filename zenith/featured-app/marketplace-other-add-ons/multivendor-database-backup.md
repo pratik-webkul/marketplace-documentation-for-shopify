@@ -18,7 +18,7 @@ ensuring the integrity and availability of this data has become paramount.
 
 We as a webkul introduce a feature app, **Multi-vendor Database Backup**. This feature helps you to get the past data in an app form.
 
-The cost of this feature is **10$ per month.**
+The cost of this feature is **11$ per month.**
 
 Feature: **Multi-vendor Database Backup**
 -----------------------------------------
@@ -42,7 +42,7 @@ Installation
 
 To install the **Multi-vendor Database Backup**, you need to go to admin panel >> 3dots >> feature app.
 
-[![21-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/databasefeat.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/databasefeat.webp)
+[![21-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/dbbackup.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/dbbackup.webp)
 
 Now, search for it and click on the enable button to install the feature app.
 

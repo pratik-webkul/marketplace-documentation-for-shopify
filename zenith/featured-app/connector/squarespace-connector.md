@@ -20,9 +20,9 @@ To enable the **Connector**, visit the “**Feature App**” section of the app 
 -----------------
 Go to the **Feature App** section and enable the **Squarespace Connector** feature app.
 
-[![Squarespace Connector feature app](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/sqspc-1.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/sqspc-1.webp)
+[![Squarespace Connector feature app](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/squarespace.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/squarespace.webp)
 
-Then, approve the additional charge of $25 USD/month over and above your current Multi-vendor app plan.
+Then, approve the additional charge of $28 USD/month over and above your current Multi-vendor app plan.
 
  Admin Panel Configuration
 ---------------

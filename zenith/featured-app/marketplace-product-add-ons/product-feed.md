@@ -39,15 +39,14 @@ There are certain limitations of this feature app listed below which you need to
 
  Installation
 --------------
-[![Feature App](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/07/Dashboard-Admin.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/07/Dashboard-Admin.png)
 
 To make this app work on your marketplace, first of all, you need to enable this feature from the "Featured Apps" section of the Multivendor app.
 
-[![asdvbn](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/10/Feature-Apps-Admin-1.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/10/Feature-Apps-Admin-1.png)
+[![asdvbn](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/productfeed.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/productfeed.webp)
 
 Once you visit the Feature Apps section you will get this feature app. You just need to click the **Enable** button to activate this feature on your marketplace.
 
-Once you click on the enable button you need to agree with the payment condition. Once you enable this feature $10 per month gets added to your current Multivendor plan.
+Once you click on the enable button you need to agree with the payment condition. Once you enable this feature $11 per month gets added to your current Multivendor plan.
 
 [![Agree](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/07/Feature-Apps-Admin-1.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/07/Feature-Apps-Admin-1.png)
 

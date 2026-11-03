@@ -17,7 +17,7 @@ With the "**Route Insurance**" feature app, you can provide an "Insurance" optio
 
 Enabling the option, the customers need to pay the insurance amount configured via Route.
 
-This feature app comes with the pricing of **$7 USD/month** in addition to your current Multi-vendor plan.
+This feature app comes with the pricing of **$10 USD/month** in addition to your current Multi-vendor plan.
 
 **MAKE A NOTE:-**
 
@@ -32,7 +32,7 @@ To enable this feature app, first visit the Feature Apps section. Now, search fo
 
 Now, activate the Route Insurance feature app.
 
-[![Screenshot-2020-10-07T105719.027](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/routeinsurance.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/routeinsurance.webp)
+[![Screenshot-2020-10-07T105719.027](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/route.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/route.webp)
 
 Click the “**Enable**” button.
 

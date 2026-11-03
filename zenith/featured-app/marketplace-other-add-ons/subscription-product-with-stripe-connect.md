@@ -32,7 +32,7 @@ To enable this app, visit the "feature apps" section of the Multivendor Marketpl
 
 Now Activate the “Product Subscription App” from the feature app section. After that, accept the charges and you are ready to use the app.
 
-[![bd](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/subscriptionactive.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/subscriptionactive.webp)
+[![bd](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/subscription.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/subscription.webp)
 
  Admin End
 --------------------
