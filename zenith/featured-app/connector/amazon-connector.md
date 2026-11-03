@@ -29,7 +29,7 @@ To activate the Amazon Connector feature app, first, you need to visit the Featu
 
 You will find the feature app named 'Amazon Connector' there
 
-[![Amazon2](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/ac2.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/ac2.webp)
+[![Amazon2](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/amazonconnector.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/amazonconnector.webp)
 
 Now, upon clicking on the enable button, you will need to choose the plan that suits your requirements.
 

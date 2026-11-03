@@ -33,7 +33,7 @@ The connector will work with newly added products, if the below three important 
 
 To enable this feature app, you need to visit the Feature app section and enable the SooPOS connector feature app. Click the **Enable** button to activate the feature app.
 
-[![Feature-Apps-Admin-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/05/soopos1779172496129.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/05/soopos1779172496129.webp)
+[![Feature-Apps-Admin-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/soopos.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/soopos.webp)
 
  WorkFlow
 -----------------------

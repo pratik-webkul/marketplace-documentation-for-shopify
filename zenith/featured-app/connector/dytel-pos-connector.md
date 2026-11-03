@@ -21,7 +21,7 @@ To make this app work, first of all, you need to visit the “Feature Apps” se
 
 [![dytel-pos-integration-feature-app](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/dpc1.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/dpc1.webp)
 
-[![dytel-pos-integration-enable](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/dpc2.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/dpc2.webp)
+[![dytel-pos-integration-enable](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/dytelconnector.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/dytelconnector.webp)
 
 After that you have to approve the payments of this feature app to use this on your store.
 

@@ -913,7 +913,7 @@ Here is the list of all the connector add-ons available for the marketplace:-
 **Seller Shopify Store Connector**
 ----------------------------------
 
-[![Screenshot-2020-06-10T165956.831](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/sellershopifystore.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/sellershopifystore.webp)
+[![Screenshot-2020-06-10T165956.831](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/shopifyconnector.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/shopifyconnector.webp)
 
 If your sellers also have Shopify stores and they want to add products from their respective stores to your Shopify store
 
@@ -926,8 +926,7 @@ You can get this feature app at a monthly subscription of $ 40 (USD) over & abov
 Woocommerce Connector
 ---------------------
 
-[![woocommerce connector 
-](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/woocommerce.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/woocommerce.webp)
+[![woocommerce connector ](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/woocomm.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/woocomm.webp)
 
 Here is another feature app in the [Multivendor App](/zenith/introduction/) named **WooCommerce Connector** using which
 
@@ -935,14 +934,14 @@ You as a Store Owner can allow your Sellers to sync their WooCommerce Store’s 
 
 If your sellers have their online store on WooCommerce then they can use this app to sync their products.
 
-To get this app on your store, You need to agree with the charge of $25 USD per month over and above your current Multivendor Plan.
+To get this app on your store, You need to agree with the charge of $30 USD per month over and above your current Multivendor Plan.
 
 [You can go through the **User Guide** of this Feature App for app understanding.](/zenith/featured-app/connector/woocommerce-connector)
 
 Bigcommerce Connector
 ---------------------
 
-[![screenshot_1690815446918](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/bigcommerce.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/bigcommerce.webp)
+[![screenshot_1690815446918](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/biggcomm.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/biggcomm.webp)
 
 Here is another feature app in the [Multivendor App](/zenith/introduction/) named **BigCommerce Connector** using which
 
@@ -967,7 +966,7 @@ To get this feature app, admin needs to approve the charge of $20 USD over and a
 Amazon Connector
 ----------------
 
-[![screenshot_1690815428463](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/amazon.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/amazon.webp)
+[![screenshot_1690815428463](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/amazonconnector.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/amazonconnector.webp)
 
 Seller can import Amazon store products into the Shopify store and manage inventory, sync collection etc.
 
@@ -976,7 +975,7 @@ Seller can import Amazon store products into the Shopify store and manage invent
 SOOPOS CONNECTOR
 ----------------
 
-[![image](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/soopos.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/soopos.webp)
+[![image](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/soopos.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/soopos.webp)
 
 The Multi-vendor Marketplace app has come up with yet another connector add-on i.e. SooPOS Connector.
 
@@ -991,7 +990,7 @@ Moreover, if the merchant will edit those SooPOS products from Shopify end then,
 SHOPIFY EBAY CONNECTOR
 ----------------------
 
-[![image](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/shopifyebay.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/shopifyebay.webp)
+[![image](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/ebayconnector.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/ebayconnector.webp)
 
 The Shopify eBay Connector allows sellers to integrate their eBay products into your marketplace, simplifying inventory management across both platforms.
 
@@ -1006,7 +1005,7 @@ Admin can activate this feature by approving an additional charge of up to $200 
 DYTEL POS CONNECTOR
 -------------------
 
-[![image](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/dytelpos.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/dytelpos.webp)
+[![image](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/dytelconnector.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/dytelconnector.webp)
 
 DYTEL POS offers a seamless, centralized system for managing orders, payments, and inventory in one place.
 
@@ -1017,7 +1016,7 @@ If you have a restaurant marketplace and use DYTEL POS, you can streamline opera
 Shopify Magento Connector
 -------------------------
 
-[![Magento connector](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/shopifymagento.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/shopifymagento.webp)
+[![Magento connector](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/magentoconnector.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/magentoconnector.webp)
 
 We have now introduced the most awaited feature app i.e. Shopify-Magento Connector using which you as a store owner
 
@@ -1031,7 +1030,7 @@ To get this feature app, admin needs to approve the charge of $25 USD over and a
 Shopify Prestashop Connector
 ----------------------------
 
-[![PrestaShop connector](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/shopifyprestashop.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/shopifyprestashop.webp)
+[![PrestaShop connector](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/prestaconnector.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/prestaconnector.webp)
 
 If the sellers registered on admin’s marketplace have their stores on Prestashop and they want to connect their stores with admin’s Shopify store then,
 
@@ -1042,7 +1041,7 @@ this can be achieved using **PrestaShop Connector** Feature App.
 Shopify Etsy Connector
 ----------------------
 
-[![Etsy connector](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/shopifyetsy.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/shopifyetsy.webp)
+[![Etsy connector](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/etsyconnector.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/etsyconnector.webp)
 
 You might have heard about [Etsy](https://www.etsy.com/), a well-known online global marketplace focused in selling specialized handmade goods and vintage items.
 
@@ -1053,7 +1052,7 @@ So, if Your registered sellers have their stores on [Etsy](https://www.etsy.com
 Squareup Connector
 ------------------
 
-[![Screenshot-55](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/squareup.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/squareup.webp)
+[![Screenshot-55](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/squareup.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/squareup.webp)
 
 [**Square up**](/zenith/featured-app/connector/squareup-connector) is now integrated with the Multi-vendor Marketplace app for Shopify. This integration will help your sellers to connect their Square POS to the admin’s Shopify store.
 
@@ -1062,7 +1061,7 @@ Thus, the marketplace sellers can manage products, inventory, pricing at a singl
 Squarespace connector
 ---------------------
 
-[![screenshot_1690783006248](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/squarespace.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/squarespace.webp)
+[![screenshot_1690783006248](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/squarespace.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/squarespace.webp)
 
 **[Square space](https://www.squarespace.com/ecommerce-website)** is now integrated with the Multi-vendor Marketplace app for Shopify.
 
@@ -1075,7 +1074,7 @@ Refer to the [**user guide**](https://webkul.com/blog/squarespace-connector/) to
 Linnworks Connector
 -------------------
 
-[![screenshot_1690807352097](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/linnworks.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/linnworks.webp)
+[![screenshot_1690807352097](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/linnworkss.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/linnworkss.webp)
 
 **[Linnworks](https://www.linnworks.com/)** is an eCommerce platform that helps online retailers automate key processes, reduce costs, and grow their business.
 

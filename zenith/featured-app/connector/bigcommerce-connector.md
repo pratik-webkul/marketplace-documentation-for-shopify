@@ -27,7 +27,7 @@ Let’s dig deeper to know more about the BigCommerce Connector.
 
 Go to the **Feature App** section and enable the **BigCommerce Connector** feature app.
 
-[![screenshot-sp-seller.webkul.com-2021.09.27-16_13_42-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/big.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/big.webp)
+[![screenshot-sp-seller.webkul.com-2021.09.27-16_13_42-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/biggcomm.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/biggcomm.webp)
 
 Then, approve the additional charge of $25 USD/month over and above your current Multi-vendor app plan.
 

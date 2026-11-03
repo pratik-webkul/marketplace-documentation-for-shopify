@@ -42,7 +42,7 @@ Go to the Feature app section and enable the Squareup connector feature app.
 
 Visiting the feature App section, search for the **Squareup Connector** & **enable** the feature app.
 
-[![Squareup](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/squareuptwo.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/squareuptwo.webp)
+[![Squareup](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/squareup.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/squareup.webp)
 
 Click the **Enable** button.
 

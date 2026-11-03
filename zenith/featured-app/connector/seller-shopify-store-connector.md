@@ -34,7 +34,7 @@ Check the video below for the Seller Shopify Store Connector:
 ------------------
 To get this feature app, go to the Feature App section & get the "Seller Shopify store connector" feature app.
 
-[![Screenshot-96](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/01/Screenshot-96.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/01/Screenshot-96.png)
+[![Screenshot-96](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/shopifyconnector.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/shopifyconnector.webp)
 
 Click the **Enable** button to activate the **Seller Shopify Store Connector** feature app.
 

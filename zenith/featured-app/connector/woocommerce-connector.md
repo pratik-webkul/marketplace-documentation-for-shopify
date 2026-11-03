@@ -79,11 +79,10 @@ Now, to activate this feature, you first need to visit the Feature Apps section 
 
 **Feature Apps:**
 
-[![WooCommerce2](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/wooconn2.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/wooconn2.webp)
+[![WooCommerce2](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/woocomm.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/woocomm.webp)
 
 So, once you click on the Enable button, you need to agree with the charges of USD 30 per month over and above your current Multivendor Plan.
 
-[![WooCommerce3](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/wooconn3.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/wooconn3.webp)
 
 Now, you need to click on the "Approve Charges" button to approve the charge for this feature app.
 
