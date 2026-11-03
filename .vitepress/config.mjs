@@ -547,7 +547,7 @@ markdown: {
                 { text: 'Influencer Marketplace', link: '/zenith/featured-app/marketplace-other-add-ons/influencer-marketplace' },
                 { text: 'Locate your pickup store', link: '/zenith/featured-app/marketplace-other-add-ons/locate-your-pickup-store' },
                 { text: 'Marketplace UGC', link: '/zenith/featured-app/marketplace-other-add-ons/marketplace-ugc' },
-                { text: 'Multivendor database backup', link: '/zenith/featured-app/marketplace-other-add-ons/multivendor-database-backup' },
+                // { text: 'Multivendor database backup', link: '/zenith/featured-app/marketplace-other-add-ons/multivendor-database-backup' },
                 { text: 'Seller blog', link: '/zenith/featured-app/marketplace-other-add-ons/seller-blog' },
                 { text: 'Subscription product with Stripe Connect', link: '/zenith/featured-app/marketplace-other-add-ons/subscription-product-with-stripe-connect' },
                 { text: 'Watermark', link: '/zenith/featured-app/marketplace-other-add-ons/watermark' }

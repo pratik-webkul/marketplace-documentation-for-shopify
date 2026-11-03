@@ -1236,7 +1236,7 @@ We have launched Chat GPT integration with [Multivendor app](/zenith/introducti
 Once you enable this feature, it will cost you 17 USD per month in addition to your current multivendor plan.
 
 [User Guide](/zenith/featured-app/marketplace-other-add-ons/chat-gpt)
-
+<!-- 
 MULTIVENDOR DATABASE BACKUP
 ---------------------------
 
@@ -1254,7 +1254,7 @@ ensuring the integrity and availability of this data has become paramount.
 
 The cost of this feature is **11$ per month.**
 
-[User Guide](/zenith/featured-app/marketplace-other-add-ons/multivendor-database-backup)
+[User Guide](/zenith/featured-app/marketplace-other-add-ons/multivendor-database-backup) -->
 
 WATERMARK
 ---------
