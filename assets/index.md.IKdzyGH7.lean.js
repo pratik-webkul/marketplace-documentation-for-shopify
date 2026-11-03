@@ -1,0 +1,1 @@
+import{ah as t,v as a,c as n,o}from"./chunks/framework.BCFlG0KT.js";const _=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"index.md","filePath":"index.md"}'),r={name:"index.md"},u=Object.assign(r,{setup(s){const e=t();return a(()=>{e.go("/zenith/introduction/")}),(c,i)=>(o(),n("div"))}});export{_ as __pageData,u as default};
