@@ -48,7 +48,7 @@ Let's Explore the Features in detail.
 
 To get this feature app, the admin needs to visit the "**Feature Apps**" section of the Multivendor app and go through below mentioned steps:
 
-[![S1](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/etsycon2.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/etsycon2.webp)
+[![S1](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/etsyconnector.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/etsyconnector.webp)
 
 In Feature Apps section, Search for "**Shopify-Etsy Connector** app".
 

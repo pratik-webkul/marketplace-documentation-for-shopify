@@ -12,6 +12,8 @@ The [Multi-vendor Marketplace app](/zenith/introduction/) for Shopify is now int
 
 Enabling the PreOrder feature app, you can **auto-enable pre-order** for the seller's products soon after the items get out of stock.
 
+[![enable app](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/preorder.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/preorder.webp)
+
 Thus, customers can preorder products from your marketplace by paying the preorder amount.
 
 You can set the default preorder quantity for products.

@@ -40,7 +40,7 @@ To enable the Shopify eBay Connector feature app, admins can follow these steps 
 
 [![feature app Shopify eBay connector](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/ebayconn1.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/ebayconn1.webp)
 
-[![shopify ebay connector](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/ebayconn2.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/ebayconn2.webp)
+[![shopify ebay connector](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/ebayconnector.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/ebayconnector.webp)
 
 1.  Navigate to the "**Feature Apps**" section.
 2.  Search for "**Shopify-Ebay Connector** app."

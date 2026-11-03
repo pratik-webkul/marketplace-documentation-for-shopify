@@ -16,11 +16,11 @@ FedEx
 
 Using this featured app, the merchants can enable shipment through **FedEx**. Moreover, he can allow **US** **sellers** to automatically generate shipping labels.
 
-**FedEx** feature app is available only with the Multivendor **Pro** **Plan** ($60/month). Moreover, you need to enable the [**Shipping**](/zenith/featured-app/overview) add-on (free) from the 'featured apps' section of the app.
+**FedEx** feature app is available only with the Multivendor **Pro** **Plan** ($100/month). Moreover, you need to enable the [**Shipping**](/zenith/featured-app/overview) add-on (free) from the 'featured apps' section of the app.
 
 **CHARGES:**
 
-This feature will have an additional charge of **USD 10 per month** over & above your current multivendor marketplace plan.
+This feature will have an additional charge of **USD 11 per month** over & above your current multivendor marketplace plan.
 
 **NOTE:**
 

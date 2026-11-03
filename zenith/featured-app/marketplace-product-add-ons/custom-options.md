@@ -63,7 +63,7 @@ Visit the Feature app section and enable the **Custom** **Options** feature app.
 
 Visiting the feature App section, search for the featured app & **enable** it.  
 
-[![Screenshot-97](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/esygrp1773048638558.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/esygrp1773048638558.webp)
+[![Screenshot-97](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/customoptions.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/customoptions.webp)
 
 Click the **Enable** button to activate the **Custom Option** feature app.
 

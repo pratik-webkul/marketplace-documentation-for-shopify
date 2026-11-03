@@ -29,7 +29,7 @@ To enable the Subscription App Connector, go to the Multivendor Marketplace Admi
 
 hover over the three dots (...), select 'Feature App, ' search for 'Subscription App Connector, ' and enable it.
 
-[![image](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/04/image1776072596147.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/04/image1776072596147.webp)
+[![image](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/shopifyconnector.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/shopifyconnector.webp)
 
 After clicking on the enable button, just click on agree to proceed.
 

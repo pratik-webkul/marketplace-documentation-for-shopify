@@ -14,7 +14,7 @@ Admin can create/add Artists on his store and let them add designs for the produ
 
 If the Admin wants to sell products with designs from different Artists then he can do so by using this featured app.
 
-This app comes at a cost of **$10.00** per month.
+This app comes at a cost of **$15.00** per month.
 
 ### NOTE THESE POINTS
 
@@ -31,11 +31,10 @@ Installation
 
 Visit the featured apps section of the Multivendor Marketplace for Shopify & enable the _Artist Product Design_ feature app:
 
-[![Feature Apps Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/apdo.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/apdo.webp)
+[![Feature Apps Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/artistproductdesign.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/artistproductdesign.webp)
 
 After accepting the charges, you are good to go!
 
-[![Feature Apps Admin (1)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/apdt.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/apdt.webp)
 
 Configuring Admin Panel
 -----------------------

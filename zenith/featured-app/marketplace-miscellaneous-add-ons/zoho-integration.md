@@ -38,11 +38,9 @@ Installation:
 
 Firstly, enable the “Zoho Integration” feature from the “Features Section” by clicking on (…) three dots of the main menu.
 
-[![z2-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/zohoone.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/zohoone.webp)
+[![z2-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/zoho.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/zoho.webp)
 
 After clicking on the enable button just agree on additional charges which are over and above to your current multivendor Market Plan.
-
-[![z1](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/zohotwo.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/zohotwo.webp)
 
 Once you will agree on additional charges a new menu name “Zoho Configuration” will be added to the configuration section of your multivendor marketplace app.
 

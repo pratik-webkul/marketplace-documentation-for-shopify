@@ -12,7 +12,7 @@ To use this feature, you need to install the **[Crowdfunding App](https://webkul
 
 The app will cost you **$15/month**. Further, you can enable this add-on on the marketplace by visiting the **Feature App** section:
 
-[![image-15](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/esygrp1773044453508-1.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/esygrp1773044453508-1.webp)
+[![image-15](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/crowdfunding.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/crowdfunding.webp)
 
 **Configure Frontend**: You need to follow the instructions given in the **Configure Frontend** section of the Crowdfunding app:
 

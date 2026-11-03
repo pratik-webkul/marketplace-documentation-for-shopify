@@ -31,7 +31,7 @@ Admin can also decide how he wants to charge tax on the products.
 -----------------------
 Visit **Multivendor Admin Panel** > **Feature Apps** \> **Enable** the add-on:
 
-[![Feature-Apps-Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/lin.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/lin.webp)
+[![Feature-Apps-Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/linnworkss.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/linnworkss.webp)
 
 Once enabled, you need to configure it.
 

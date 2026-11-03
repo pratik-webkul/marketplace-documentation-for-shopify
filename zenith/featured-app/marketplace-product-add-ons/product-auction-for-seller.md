@@ -20,7 +20,7 @@ Using Multivendor Marketplace **Product Auction for Seller** feature app, You a
 
 Note:- This feature app is free of cost but to use the feature app, you need to install the product auction app on your store i.e. $30 per month over and above your currently Multivendor plan.
 
-Suppose you opt for $60 USD per month plan, then, you will be charged $60+$30=$90 per month.
+Suppose you opt for $100 USD per month plan, then, you will be charged $100+$30=$130 per month.
 
 **NOTE**:- It is mandatory to install the Product Auction App first on your Store to make this Feature App work for your Sellers.
 
@@ -54,7 +54,7 @@ Also, if you have your seller pages customized, please reach us at [support@webk
 
 To get the **Product Auction for Seller**, You need to go to the Feature Apps section of the Multivendor app and activate this feature from there.
 
-[![Feature App5](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/auctionacivate.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/auctionacivate.webp)
+[![Feature App5](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/auction.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/auction.webp)
 
 Click on Enable button to activate this feature.
 

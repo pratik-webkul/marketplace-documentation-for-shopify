@@ -20,7 +20,7 @@ These documents can be connected to seller products, allowing customers to sign 
 
 **CHARGES**
 
-The E-Signature feature app will have an additional charge of **USD 20 per month** over & above your current Multivendor Marketplace app plan.
+The E-Signature feature app will have an additional charge of **USD 22 per month** over & above your current Multivendor Marketplace app plan.
 
  Installation
 ------------
@@ -32,7 +32,7 @@ Enable the E-Signature feature app by following the below steps:
 *   Search for **‘E-Signature‘** & click on ‘**Enable**‘
 *   After accepting the charges, you’ll be good to configure the app.
 
-[![screenshot_1698238037016](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/es1.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/es1.webp)
+[![screenshot_1698238037016](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/esign.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/esign.webp)
 
  Need to add code to allow customers to e-sign on pdf on the product page
 --------------------

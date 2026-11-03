@@ -21,7 +21,7 @@ Once the admin activates this feature on his/her end, the seller can enable the 
 
 Seller will provide his store address as the "Store Pickup Address".
 
-This feature app is at the monthly charge of **$10 USD per month** in addition to your current Multivendor plan.
+This feature app is at the monthly charge of **$11 USD per month** in addition to your current Multivendor plan.
 
 **Important Note:-** In order to make this feature work please make sure that you are using the [Shipping feature](/zenith/featured-app/overview) of the Multivendor app.
 

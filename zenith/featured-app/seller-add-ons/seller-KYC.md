@@ -16,7 +16,7 @@ The KYC Feature App allows marketplace admins to collect, review, and verify sel
 
 Once enabled and configured, sellers are required to submit their personal and document details during or after registration for verification.
 
-This Seller KYC feature app is available at a cost of **USD 15 per month** over and above your monthly plan.
+This Seller KYC feature app is available at a cost of **USD 17 per month** over and above your monthly plan.
 
 **How the Seller KYC Feature Works**
 ------------------------------------
@@ -27,7 +27,7 @@ You can easily enable the **Seller KYC Feature App** by navigating to **Multiven
 
 [![Seller KYC Feature for Multivendor Marketplace seller verification](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/kyctwoooooo-1-1200x532.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/kyctwoooooo-1-1200x532.webp)
 
-[![Seller KYC Feature in MVM](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/kycnewtwo-2-1200x792.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/kycnewtwo-2-1200x792.webp)
+[![Seller KYC Feature in MVM](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/10/sellerkyc.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/10/sellerkyc.webp)
 
 Once the Seller KYC feature app is enabled, you will need to approve the charges.
 

@@ -17,7 +17,7 @@ Using this feature app, both admin and sellers can notify the courier about the 
 
 Accordingly, sellers will manage the fulfillment from their seller panels and generate shipping labels for the fulfilled orders.
 
-This feature App comes with a charge of $10 USD/month over and above your current multivendor plan.
+This feature App comes with a charge of $11 USD/month over and above your current multivendor plan.
 
 THE AIRSPEED SHIPPING FEATURE APP IS AVAILABLE **ONLY FOR FULFILLMENT**.
 

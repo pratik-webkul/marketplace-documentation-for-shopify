@@ -13,11 +13,11 @@ Currently, the **USPS App** is not available (****depreciated****).
 
 Using this feature, you can allow sellers to ship their products using USPS. Moreover, allow them to generate shipping labels automatically using Stamps.com Integration on order fulfillment.
 
-**Important Note**:- "USPS Shipping Feature is available only in the Multivendor **PRO ($60/month)** Plan **+** You need to enable the "Shipping" Feature App which is **FREE** of cost."
+**Important Note**:- "USPS Shipping Feature is available only in the Multivendor Max Plan ($100/month)** Plan **+** You need to enable the "Shipping" Feature App which is **FREE** of cost."
 
 Please make sure that it is necessary for the admin to have an account on Stamps.com. As these stamp account details will help him to configure USPS details.
 
-This feature of the Multivendor app will charge you an additional amount of USD 10 per month over and above your current Multivendor plan.
+This feature of the Multivendor app will charge you an additional amount of USD 11 per month over and above your current Multivendor plan.
 
 Please Note:- To make the USPS shipping feature work, you need to choose the Shopify store plan which supports the **“Real-Time Carrier-Calculated Shipping”.**
 

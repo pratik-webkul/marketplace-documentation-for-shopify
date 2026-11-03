@@ -29,7 +29,7 @@ In the Multi-vendor Marketplace app, Shipping is set in three ways: Country-wise
 
 ### **PLEASE NOTE**
 
-1.  The Shipping feature is available in the Pro Plan of Multivendor marketplace app. Also, to make this feature work, you need to have the **“[Real-Time Carrier-Calculated Shipping](https://help.shopify.com/en/manual/shipping/setting-up-and-managing-your-shipping/enabling-shipping-carriers)”.**  
+1.  The Shipping feature is available in the Max Plan of Multivendor marketplace app. Also, to make this feature work, you need to have the **“[Real-Time Carrier-Calculated Shipping](https://help.shopify.com/en/manual/shipping/setting-up-and-managing-your-shipping/enabling-shipping-carriers)”.**  
     
 2.  The shipping Feature app **only supports a single shipping profile and a single location**.  
     It is **not compatible with multiple shipping profiles** **& also** **with a single shipping profile plus multiple locations**. **[About Shopify Shipping Profiles](https://help.shopify.com/en/manual/shipping/setting-up-and-managing-your-shipping/shipping-profiles)**  

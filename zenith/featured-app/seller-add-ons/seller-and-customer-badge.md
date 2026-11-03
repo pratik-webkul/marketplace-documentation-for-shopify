@@ -36,7 +36,7 @@ Sellers can see the customer badges assigned to the customers while accepting an
 *   Badges will improve seller authenticity toward the customers
 *   Badges will indicate verified and active customers.
 
-**App charges:** This feature will have an additional charge of **USD 7 per month** over & above your current Multivendor Marketplace plan.
+**App charges:** This feature will have an additional charge of **USD 10 per month** over & above your current Multivendor Marketplace plan.
 
 Let's move to the installation & configuration process of the following feature app.
 
@@ -44,7 +44,7 @@ Let's move to the installation & configuration process of the following feature 
 ---------------
 Visit the '**Feature Apps**' section from the Multivendor Marketplace **Admin Panel**. Search for the **Seller and Customer Badge** app & click on **Enable**.
 
-[![screenshot_1684332485356](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/sellerbadge1.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/sellerbadge1.webp)
+[![screenshot_1684332485356](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/10/sellerbadge.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/10/sellerbadge.webp)
 
  Adding Badges
 ----------------

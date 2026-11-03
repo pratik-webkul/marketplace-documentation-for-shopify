@@ -29,7 +29,7 @@ Let’s understand the workflow.
 ----------------
 [![feature](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/db1.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/db1.webp)
 
-[![delivery-6](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/db2.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/db2.webp)
+[![delivery-6](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/deliveryboy.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/deliveryboy.webp)
 
 Now once you have clicked on the “Enable” button you will be first asked to install and configure the “Delivery boy App by Webkul” app.
 

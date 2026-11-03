@@ -15,7 +15,7 @@ With this feature app, the seller can add staffs and assign permission to them t
 
 Admin can enable his seller to add staffs who can manage seller's account on behalf of that seller.
 
-Once you approve the charges, 10 USD per month will get added over and above your current multivendor plan.
+Once you approve the charges, 11 USD per month will get added over and above your current multivendor plan.
 
 **It is currently not compatible with the social media login feature app**
 
@@ -37,7 +37,7 @@ To enable the "Seller Staff" feature in your Multivendor Marketplace app, first 
 
 Once you click the "Feature App", you will get the list of feature app. Scroll down to get "Seller Staff" feature and click on "Enable"button to activate the same.
 
-[![Seller staff](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/two.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/two.webp)
+[![Seller staff](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/sellerstaff.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/sellerstaff.webp)
 
 Once you click this button, you need to accept the additional charge of 10 USD over and above your Multivendor App plan. Thus, approve the charge and get this feature installed in your app.
 

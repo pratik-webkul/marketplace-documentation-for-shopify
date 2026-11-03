@@ -39,7 +39,7 @@ Let's see how to configure this in the app.
 -------------
 To enable the feature app, visit the featured apps section of the Multivendor Marketplace for Shopify.
 
-[![759ee1cb-5cbb-4a57-852c-2f9a17885d6e](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/aaaa.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/aaaa.webp)
+[![759ee1cb-5cbb-4a57-852c-2f9a17885d6e](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/packproduct.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/packproduct.webp)
 
 And activate the "Pack Product Integration" feature app.  
 NOTE:- Make sure that you have enabled the [Pack & Combo product App](https://app-sp.webkul.com/pack-combo-product/index.php?p=landing_page) on your Shopify store.

@@ -35,7 +35,7 @@ Which makes it confirms that the seller is not available and is on Vacation for 
 
  How to Install the App?
 --------------------
-Since it is the add-on feature of the Multivendor Marketplace app, you need to pay an additional amount of 5 USD per month along with the App charge.
+Since it is the add-on feature of the Multivendor Marketplace app, you need to pay an additional amount of 10 USD per month along with the App charge.
 
 Once you install this app, you can approve the charges.
 
@@ -46,9 +46,8 @@ Go to the "Feature App" section of the admin panel>>Select "Seller Vacation App"
 [![Seller Vacation1](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/new1772775864403.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/new1772775864403.webp)
 
 
-[![Screenshot-59](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/new1772775875005.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/new1772775875005.webp)
+[![Screenshot-59](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/10/sellervacation.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/10/sellervacation.webp)
 
-[![Seller Vacation3](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/new1772775893540.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/03/new1772775893540.webp)
 
 
 Once you approve this charge, you will end up getting this feature installed in your Multivendor app.

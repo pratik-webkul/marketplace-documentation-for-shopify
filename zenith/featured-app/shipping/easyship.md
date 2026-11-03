@@ -17,7 +17,7 @@ Considering these traits, Webkul is here with a new feature app called Easyship 
 
 **PLEASE NOTE-**
 
-*   The Easyship feature app is available only with the Multivendor **Pro** **Plan**. Moreover, you need to enable the **[Shipping](This feature app is available only with the Multivendor **Pro** **Plan** ($60/month). Moreover, you need to enable the [**Shipping**](/zenith/featured-app/overview) add-on (free) from the ‘featured apps’ section of the app.
+*   The Easyship feature app is available only with the Multivendor **Pro** **Plan**. Moreover, you need to enable the **[Shipping](This feature app is available only with the Multivendor **Pro** **Plan** ($100/month). Moreover, you need to enable the [**Shipping**](/zenith/featured-app/overview) add-on (free) from the ‘featured apps’ section of the app.
 )** Add-on for FREE from the ‘Feature Apps’ section of the app.
 
 *   Also, Access to Shipping requires your Shopify store to be on the plan that supports [**Real-Time Carrier-Calculated Shipping**.](https://help.shopify.com/en/manual/shipping/setting-up-and-managing-your-shipping/enabling-shipping-carriers)

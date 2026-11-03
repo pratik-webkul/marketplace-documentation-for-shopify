@@ -12,7 +12,7 @@ We have introduced **Pay what you want** feature app within the [Multivendor Mar
 
 A minimum (floor) price is set, and/or a suggested price may be indicated as guidance for the buyer.
 
-**Pricing:** This feature will have an additional charge of **USD 10 per month** over & above your current Multivendor Marketplace plan charges.
+**Pricing:** This feature will have an additional charge of **USD 11 per month** over & above your current Multivendor Marketplace plan charges.
 
 Let's move on to the installation & configuration process!
 
@@ -24,7 +24,7 @@ Enable the following app by visiting:
 *   Search for ‘**Pay What You Want**‘ & click on ‘**Enable**‘
 *   After accepting the charges, you’ll be good to configure the app!
 
-[![Feature_Apps_Admin-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/paywhatyouwanta.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/paywhatyouwanta.webp)
+[![Feature_Apps_Admin-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/paywhatyouwant.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/paywhatyouwant.webp)
 
 To make this feature display on the frontend, the admin needs to paste a few codes.
 

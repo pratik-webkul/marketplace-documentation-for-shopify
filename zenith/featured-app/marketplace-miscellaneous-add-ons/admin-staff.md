@@ -11,7 +11,7 @@ We are here with another feature within [the Multivendor Marketplace App](https
 
 It enables the store owner to add members and assign different permissions to them in order to manage activities on admin panel.
 
-Once the charges have been approved, an additional USD 10 per month will be added to your current multivendor plan.
+Once the charges have been approved, an additional USD 11 per month will be added to your current multivendor plan.
 
  Features of Admin Staff
 -------------
@@ -35,13 +35,10 @@ To make this feature work within the app, you need to enable it from the "Featur
 
 Scroll down to get the feature and click on "Enable" button to activate this feature.
 
-[![Feature App enable](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/adminstaffactivate.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/adminstaffactivate.webp)
+[![Feature App enable](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/adminstaff.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/adminstaff.webp)
 
-Once you click this enable button, you need to agree with the additional amount of USD 10 and approve the charges.
+Once you click this enable button, you need to agree with the additional amount of USD 11 and approve the charges.
 
-[![Agree](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/adminstaffpayagree.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/adminstaffpayagree.webp)
-
-[![Approve the charge Admin Staff](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/06/Screenshot-24.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/06/Screenshot-24.png)
 
 In this way, you can activate this feature within your Multivendor app.
 

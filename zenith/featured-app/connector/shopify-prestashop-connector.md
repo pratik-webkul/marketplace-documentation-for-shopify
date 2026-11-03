@@ -110,7 +110,7 @@ Admin can follow below-given steps to install the Shopify-Prestashop Connector A
 
 **2nd Step:** Filter the Category by "**Connector**" and find the **Shopify PrestaShop Connector** Feature App and Click on the **Enable** button.
 
-[![Shopify-Prestashop Connector 2](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/shopifyprestashop.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/shopifyprestashop.webp)
+[![Shopify-Prestashop Connector 2](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/prestaconnector.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/prestaconnector.webp)
 
 **Step 3:** Click on the "**Agree**" button and proceed further to **Approve** the Charge.
 

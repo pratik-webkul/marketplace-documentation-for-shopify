@@ -62,7 +62,7 @@ To activate the Shopify-Magento Connector feature app, first, you need to visit 
 
 There, you will get the app named “Shopify Magento Connector".
 
-[![Magento Connector](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/shopifymagento.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/shopifymagento.webp)
+[![Magento Connector](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/magentoconnector.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/magentoconnector.webp)
 
 Now, clicking on the Enable button, You can activate the Feature app.
 
