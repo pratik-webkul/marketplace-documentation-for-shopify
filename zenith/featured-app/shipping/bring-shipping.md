@@ -13,7 +13,7 @@ Using this featured app, the merchants can allow sellers to ship goods through t
 
 **CHARGES:**
 
-This feature will have an additional charge of **USD 10 per month** over & above your current multivendor marketplace plan.
+This feature will have an additional charge of **USD 11 per month** over & above your current multivendor marketplace plan.
 
 **NOTE:**
 
@@ -31,7 +31,7 @@ Enable the following app by visiting:
 *   Search for ‘**Bring**‘ & click on ‘**Enable**‘
 *   After accepting the charges, you’ll be good to configure the app!
 
-[![image-28](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/enablebring.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/enablebring.webp)
+[![image-28](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/bring.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/bring.webp)
 
  Configuration: Admin End
 ---------------------

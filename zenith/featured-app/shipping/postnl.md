@@ -29,7 +29,7 @@ To enable this feature within your app, all you need to do is to visit the “**
 
 Once you click on “Feature Apps”, you will get the list of apps listing in this section. Now, you can scroll down to get the **PostNL** feature and click on the **enable** button.
 
-[![Screenshot-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/postn.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/postn.webp)
+[![Screenshot-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/postnl.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/postnl.webp)
 
 Click the **Enable** button to activate the feature app.
 

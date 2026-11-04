@@ -29,7 +29,7 @@ SWISS POST FEATURE APP IS AVAILABLE **ONLY FOR FULFILLMENT**.
 ----------------------
 To enable the feature app, all you need to do is to visit the “**Featured Apps**” section of the admin panel and enable it from there.
 
-[![Feature App-shipping](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/featuredapps.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/featuredapps.webp)
+[![Feature App-shipping](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/swisspost.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/swisspost.webp)
 
 Once you click on “Feature Apps”, you will get the list of apps listing in this section. There, You will get the Swiss Post feature. You just need to click the **enable** button.
 

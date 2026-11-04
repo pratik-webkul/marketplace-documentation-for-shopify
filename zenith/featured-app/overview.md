@@ -29,7 +29,7 @@ Here is the list of all the shipping feature apps available for the marketplace:
 SHIPPING
 --------
 
-[![shipping](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/shipping.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/shipping.webp)
+[![shipping](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/mpshipping.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/mpshipping.webp)
 
 Multivendor Marketplace Shipping enables the admin to configure the shipping method from his end for the seller and
 
@@ -67,7 +67,7 @@ Refer to the [**USER MANUAL**](https://marketplace-doc.webkul.com/zenith/Featur
 POST NL
 -------
 
-[![screenshot_1690022031360](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/postnl.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/postnl.webp)
+[![screenshot_1690022031360](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/postnl.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/postnl.webp)
 
 The [Multi-vendor Marketplace](/zenith/introduction/) comes up with another shipping feature app here namely **PostNL Shipping**.
 
@@ -84,7 +84,7 @@ Refer to the [**User Guide**](/zenith/featured-app/shipping/postnl) to know mo
 J&T EXPRESS
 -----------
 
-[![screenshot_1690029535450](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/jnt.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/jnt.webp)
+[![screenshot_1690029535450](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/jnt.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/jnt.webp)
 
 The [Multi-vendor Marketplace](/zenith/introduction/) comes up with another shipping feature app here namely **J&T Express.**
 
@@ -98,14 +98,14 @@ Along with this, it is mandatory to enable "Real-Time-Carrier-Calculated Shippin
 
 Kindly contact Shopify support if you face any concerns in enabling the **"Real-Time Carrier - Calculated Shipping".**
 
-**This feature has an additional monthly charge of USD 10 over and above your current multivendor plan.**
+**This feature has an additional monthly charge of USD 11 over and above your current multivendor plan.**
 
 Refer to the [**User Guide**](/zenith/featured-app/shipping/j&texpress-shipping) to know more about this feature.
 
 ECOM EXPRESS SHIPPING
 ---------------------
 
-[![ecom express shipping](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/ecomepress.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/ecomepress.webp)
+[![ecom express shipping](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/ecom.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/ecom.webp)
 
 [Shopify Multivendor Marketplace](/zenith/introduction/) Ecom Express Shipping feature allows both admin and seller to manage the fulfillment.
 
@@ -113,14 +113,14 @@ Once the customer places an order, the seller can directly fulfill it from the b
 
 If the order is fulfilled, the seller can “Edit Tracking” as well as set the delivery status of the order.
 
-This feature has an additional monthly charge of USD 10 over and above your current multivendor plan.  
+This feature has an additional monthly charge of USD 11 over and above your current multivendor plan.  
 
 To know more about this feature, refer to its [**User Guide**](/zenith/featured-app/shipping/ecom-express-shipping).  
 
 SHIPMONDO
 ---------
 
-[![image](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/shpmondo.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/shpmondo.webp)
+[![image](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/shipmondo.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/shipmondo.webp)
 
 Shopify Multivendor Marketplace's “SHIPMONDO” feature app is here.
 
@@ -143,7 +143,7 @@ This feature app is available only with the Multivendor Max Plan ($100/month).
 SENDLE
 ------
 
-[![image](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/sendle.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/sendle.webp)
+[![image](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/sendle.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/sendle.webp)
 
 Shopify Multivendor Marketplace's “SENDLE” feature app is here.
 
@@ -188,7 +188,7 @@ SWISS POST FEATURE APP IS AVAILABLE **ONLY FOR FULFILLMENT**.
 DELHIVERY
 ---------
 
-[![image](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/dlhvry.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/dlhvry.webp)
+[![image](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/delhivery.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/delhivery.webp)
 
 Shopify Multivendor Marketplace's “DELHIVERY” feature app is here.
 
@@ -205,7 +205,7 @@ merchants can allow vendors to ship their goods via Delhivery and then print the
 EASYPOST
 --------
 
-[![image](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/esypst.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/esypst.webp)
+[![image](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/easypost.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/easypost.webp)
 
 Shopify Multivendor Marketplace's “EASYPOST” feature app is here.
 
@@ -224,7 +224,7 @@ This feature app will charge you a minimal amount of **$11 per month** over and 
 EASYSHIP
 --------
 
-[![image](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/esyship.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/esyship.webp)
+[![image](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/easyship.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/easyship.webp)
 
 Shopify Multivendor Marketplace's “EASYSHIP” feature app is here.
 
@@ -239,7 +239,7 @@ However, shipping can be a complex and time-consuming process, especially for sm
 SHIPROCKET
 ----------
 
-[![image](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/shprckt.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/shprckt.webp)
+[![image](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/shiprocket.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/shiprocket.webp)
 
 Shopify Multivendor Marketplace's “SHIPROCKET” feature app is here.
 
@@ -247,25 +247,25 @@ By enabling the Shiprocket shipping featured app,
 
 the admin can allow the sellers to manage both the order fulfillment using the Shiprocket shipping and generate the shipping labels for the orders
 
-This feature app comes will charge you **$10 per month** in addition to your current Multivendor plan.
+This feature app comes will charge you **$11 per month** in addition to your current Multivendor plan.
 
 [Refer to the **User Guide** to know more about this feature.](/zenith/featured-app/shipping/shiprocket-shipping) 
 
 SBEEDY SHIPPING
 ---------------
 
-[![image](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/spdy.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/spdy.webp)
+[![image](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/sbeedy.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/sbeedy.webp)
 
 Shopify Multivendor Marketplace's “SBEEDY SHIPPING” feature app is here.
 
-This feature has an additional monthly charge of USD 10 over and above your current multivendor plan.
+This feature has an additional monthly charge of USD 11 over and above your current multivendor plan.
 
 [Refer to the **User Guide** to know more about this feature.](/zenith/featured-app/shipping/sbeedy-shipping) 
 
 CANADA POST SHIPPING
 --------------------
 
-[![canada post shipping](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/cnadapost.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/cnadapost.webp)
+[![canada post shipping](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/canadappost.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/canadappost.webp)
 
 Shopify Multivendor Marketplace's “Canada Post Shipping” feature app is here.
 
@@ -273,14 +273,14 @@ It helps Canadian sellers to ship their products worldwide. Sellers can also gen
 
 _Important Note_:- To make this Canada Post feature work, it is mandatory to choose the Shopify store plan which supports the **“Real-Time Carrier-Calculated Shipping”.**
 
-This feature has an additional monthly charge of USD 10 over and above your current multivendor plan.
+This feature has an additional monthly charge of USD 11 over and above your current multivendor plan.
 
 [Refer to the **User Guide** to know more about this feature.](/zenith/featured-app/shipping/canada-post-shipping)  
 
 STORE PICK UP
 -------------
 
-[![store pickup](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/strepckup.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/strepckup.webp)
+[![store pickup](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/storepickup.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/storepickup.webp)
 
 Using the Shopify Multivendor Marketplace Store Pickup feature app, the admin can allow his sellers to provide an order pickup option to the customers.
 
@@ -297,7 +297,7 @@ This feature app is at a monthly charge of $11 USD/month over and above your cur
 AIRSPEED SHIPPING
 -----------------
 
-[![air speed shipping](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/airspeedshping.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/airspeedshping.webp)
+[![air speed shipping](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/airspeed.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/airspeed.webp)
 
 We came up with a new feature app named “AirSpeed Shipping” to manage fulfillment on a priority basis.
 
@@ -313,7 +313,7 @@ This feature App comes with a charge of $11 USD/month over and above your curren
 AUSTRALIA POST SHIPPING
 -----------------------
 
-[![australia post](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/australiapost.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/australiapost.webp)
+[![australia post](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/australia.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/australia.webp)
 
 Australia Post, a government-owned corporation known to provide postal services in Australia. Now, we have integrated it with the **[Multi-vendor Marketplace app](/zenith/introduction/)** for Shopify.
 
@@ -330,7 +330,7 @@ Note:- To make Australia Post shipping feature work, you need to choose the Shop
 UPS
 ---
 
-[![UPS shipping](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/ups.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/ups.webp)
+[![UPS shipping](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/ups.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/ups.webp)
 
 Multi-vendor Marketplace app has come up with the **UPS** feature app to manage product shipping, track the packages &
 
@@ -342,7 +342,7 @@ For this, you need to have a UPS account as you need your account details to con
 
 In addition to it, you can allow sellers to generate shipping labels of fulfilled orders through UPS.
 
-This feature of the Multivendor app will charge you an additional amount of $10 USD per month over and above your current Multivendor plan.
+This feature of the Multivendor app will charge you an additional amount of $11 USD per month over and above your current Multivendor plan.
 
 > To make UPS shipping feature work, you need to choose the Shopify store plan which supports the **“Real-Time Carrier-Calculated Shipping”.**
 
@@ -353,7 +353,7 @@ This feature of the Multivendor app will charge you an additional amount of $10 
 FedEx
 -----
 
-[![image](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/fedex.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/fedex.webp)
+[![image](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/fedx.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/fedx.webp)
 
 [FedEx](https://www.fedex.com/en-us/home.html) Corporation is an American multinational courier delivery service.
 
@@ -361,7 +361,7 @@ Using this featured app, the merchants can enable shipment through **FedEx**. M
 
 > **FedEx** feature app is available only with the Multivendor Max Plan ($100/month). Moreover, you need to enable the [**Shipping**](/zenith/featured-app/shipping/marketplace-shipping) add-on (free) from feature apps section of the app.
 
-**CHARGES:** This feature will have an additional charge of **USD 10 per month** over & above your current MVM plan.
+**CHARGES:** This feature will have an additional charge of **USD 11 per month** over & above your current MVM plan.
 
 **NOTE:** Above all, access to Shipping requires your Shopify store to be on the plan that supports **Real-Time Carrier-Calculated Shipping**.
 
@@ -371,7 +371,7 @@ Currently, the FedEx Shipping feature app will only work for the **US Merchants
 VAMASHIP
 --------
 
-[![Vamaship](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/vamasip.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/vamasip.webp)
+[![Vamaship](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/vamaship.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/vamaship.webp)
 
 [Vamaship](https://www.vamaship.com/) is a SaaS enabled logistics marketplace. Besides, it facilitates shipping via air, ocean, and surface to over 200 countries and 26,000 pin codes within India.
 
@@ -381,7 +381,7 @@ Using this featured app, the merchants can enable shipment through Vamaship. Mor
 > 
 > Moreover, you need to enable the [**Shipping**](/zenith/featured-app/shipping/marketplace-shipping) add-on (free) from feature apps section of the app.
 
-**CHARGES:** This feature will have an additional charge of **USD 10 per month** over & above your current MVM plan.
+**CHARGES:** This feature will have an additional charge of **USD 11 per month** over & above your current MVM plan.
 
 **NOTE:** Above all, access to Shipping requires your Shopify store to be on the plan that supports **Real-Time Carrier-Calculated Shipping**.  
 
@@ -390,13 +390,13 @@ Using this featured app, the merchants can enable shipment through Vamaship. Mor
 BLUEDART
 --------
 
-[![Blue Dart](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/11/Feature-Apps-Admin-6.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/11/Feature-Apps-Admin-6.png)
+[![Blue Dart](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/bluedart.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/bluedart.webp)
 
 Blue Dart is integrated with the very popular [Multi-vendor Marketplace](/zenith/introduction/) App for Shopify. So, you can now allow sellers to fulfill orders via Blue Dart fulfillment & courier delivery services.
 
 Additionally, allow sellers to generate shipping labels for fulfilled orders.
 
-This feature of the Multivendor app will charge you a minimal amount of $10 per month over and above your current Multivendor plan.
+This feature of the Multivendor app will charge you a minimal amount of $11 per month over and above your current Multivendor plan.
 
 **Note**:- The [Split Cart feature](/zenith/featured-app/marketplace-miscellaneous-add-ons/split-cart) of the app is compatible with this shipping feature app.
 
@@ -412,7 +412,7 @@ This feature of the Multivendor app will charge you a minimal amount of $10 per 
 SHIPSTATION
 -----------
 
-[![Screenshot-38](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/shpstation.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/shpstation.webp)
+[![Screenshot-38](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/shipstation.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/shipstation.webp)
 
 ShipStation feature app allows you to ship your goods via multiple carrier shipping methods & generate shipping labels of the orders.
 
@@ -421,7 +421,7 @@ ShipStation feature app allows you to ship your goods via multiple carrier shipp
 Envia Shipping
 --------------
 
-[![image-83](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/enivia.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/enivia.webp)
+[![image-83](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/envia.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/envia.webp)
 
 Multi-Vendor Marketplace for Shopify is here with another marketplace shipping feature app, i.e., [**Envia Shipping**.](/zenith/featured-app/shipping/envia-shipping)
 
@@ -430,21 +430,21 @@ Using this featured app, the merchants can enable shipment through **Envia**. M
 Bring Shipping
 --------------
 
-[![image-85](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/bring.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/bring.webp)
+[![image-85](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/bring.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/bring.webp)
 
 Using [Bring Shipping](/zenith/featured-app/shipping/bring-shipping) featured app, the merchants can allow sellers to ship goods through the Bring shipping method and then print **Shipping Label**. Moreover, create a **pickup request**.
 
 DHL Express
 -----------
 
-[![image-86](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/dhlexprss.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/dhlexprss.webp)
+[![image-86](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/dhl.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/dhl.webp)
 
 Using [DHL Express](/zenith/featured-app/shipping/dhl-express) featured app, the merchants can allow sellers to ship your goods through **DHL** using multiple carrier shipping methods and then print **Shipping Label**.
 
 SWISS POST
 ----------
 
-[![screenshot_1691666679035](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/swsspst.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/swsspst.webp)
+[![screenshot_1691666679035](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/swisspost.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/swisspost.webp)
 
 The [Multi-vendor Marketplace](/zenith/introduction/) has introduced another shipping feature app for order fulfillment named [**Swiss Post**](https://www.post.ch/en/) i.e. **the national postal service of Switzerland.**
 

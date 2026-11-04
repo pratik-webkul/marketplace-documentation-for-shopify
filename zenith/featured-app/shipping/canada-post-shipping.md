@@ -24,9 +24,9 @@ So let's understand its workflow:-
 --------------------
 Firstly enable the feature from the "FEATURE APPS" section on the top right-hand side of the main menu in your Marketplace App.
 
-[![Multi Vendor Marketplace Canada Post](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/canadapost.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/canadapost.webp)
+[![Multi Vendor Marketplace Canada Post](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/canadappost.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/canadappost.webp)
 
-Once you will click on the Enable button, the Plan amount window will open and USD 10 will be added to your current payment.
+Once you will click on the Enable button, the Plan amount window will open and USD 11 will be added to your current payment.
 
 [![Multi Vendor Marketplace Canada Post](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/05/canada.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/05/canada.webp)
 

@@ -31,7 +31,7 @@ To enable the feature app, all you need to do is to visit the “**Featured Apps
 
 Once you click on “Feature Apps”, you will get the list of apps listing in this section. There, You will get the EasyPost feature. You just need to click the **enable** button.
 
-[![EasyPost Shipping](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/easypostone.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/easypostone.webp)
+[![EasyPost Shipping](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/easypost.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/easypost.webp)
 
 Click the **Enable** button to activate the feature app.
 

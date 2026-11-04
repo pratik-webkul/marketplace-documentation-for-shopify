@@ -35,7 +35,7 @@ To enable this 'feature app':
 
 Go to **multi vendor marketplace admin panel** > click on the **three dots** > click on the '**featured apps'**. Further, **enable** the Vamaship add-on.
 
-[![feature app](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/vamaship.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/vamaship.webp)
+[![feature app](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/vamaship.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/vamaship.webp)
 
 Furthermore, agree & approve the charges:
 

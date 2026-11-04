@@ -24,7 +24,7 @@ BLUEDART SHIPPING FEATURE APP IS AVAILABLE **ONLY FOR FULFILLMENT**.
 *   It is necessary for admin to have an account on Blue Dart as these Blue Dart account details will help the admin to configure settings in the app.
 *   Make the **Contact Number, a mandatory field for the customers** for checkout.
 
-[![Blue Dart](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/bluedart.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/bluedart.webp)
+[![Blue Dart](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/bluedart.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/bluedart.webp)
 
 Click the **Enable** Button.
 

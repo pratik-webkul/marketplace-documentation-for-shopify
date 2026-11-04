@@ -13,7 +13,7 @@ Using this featured app, the merchants can allow sellers to ship your goods thro
 
 **CHARGES:**
 
-This feature will have an additional charge of **USD 10 per month** over & above your current multivendor marketplace plan.
+This feature will have an additional charge of **USD 11 per month** over & above your current multivendor marketplace plan.
 
 **NOTE:**
 
@@ -25,7 +25,7 @@ Above all, access to Shipping requires your Shopify store to be on the plan that
 ----------------
 The admin needs to visit the **multi-vendor marketplace admin panel** > click on the **three dots** > click on the **feature apps**. Further, **enable** the **DHL Express** feature app.
 
-[![Feature_Apps_Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/featuredapps.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/featuredapps.webp)
+[![Feature_Apps_Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/dhl.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/dhl.webp)
 
 Furthermore, **agree** & **approve** the charges to complete the installation process.
 
