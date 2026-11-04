@@ -44,8 +44,8 @@ Firstly, enable the app from the Feature App section.
 [![Feature app](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/stripeconnect2.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/stripeconnect2.webp)
 
 Once you click on the "Enable" button, you need to agree on additional charges which are USD 15 per month.
-
-[![Stripe Connect13](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/stripeconnect1.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/stripeconnect1.webp)
+<!--  -->
+<!-- [![Stripe Connect13](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/stripeconnect1.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/stripeconnect1.webp) -->
 
 Now, let's understand its workflow:-
 
