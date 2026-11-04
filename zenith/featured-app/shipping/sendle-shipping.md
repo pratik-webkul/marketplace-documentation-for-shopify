@@ -36,7 +36,7 @@ To enable the feature app, all you need to do is to visit the “**Featured Apps
 
 Once you click on “Feature Apps”, you will get the list of apps listing in this section. There, You will get the Sendle feature.
 
-[![Screenshot-2020-10-09T094754.158-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/sendle.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/sendle.webp)
+[![Screenshot-2020-10-09T094754.158-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/sendle.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/sendle.webp)
 
 You need to click the **"Enable**" button.
 

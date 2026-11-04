@@ -15,7 +15,7 @@ By enabling the Shiprocket shipping featured app,
 
 the admin can allow the sellers to manage both the order fulfillment using the Shiprocket shipping and generate the shipping labels for the orders
 
-This feature app comes will charge you **$10 per month** in addition to your current Multivendor plan.
+This feature app comes will charge you **$11 per month** in addition to your current Multivendor plan.
 
 **Note**:- “Shiprocket feature is available only in the Multivendor Max Plan ($100/month)** Plan and you need to enable the [**Shipping Feature App**](/zenith/featured-app/overview)" that is **FREE** of cost.”
 
@@ -31,7 +31,7 @@ To enable the feature app, all you need is to visit the “**Featured Apps**” 
 
 Once you click on “Feature Apps”, you will get the list of apps listing in the section. There, You will get the Shiprocket feature. You just need to click the **enable** button.
 
-[![feature_apps___admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/shprckt.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/shprckt.webp)
+[![feature_apps___admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/shiprocket.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/shiprocket.webp)
 
  **Workflow**
 ---------------------

@@ -36,7 +36,7 @@ Marketplace Admin Panel → Feature App → Enable Japanese Shipping
 
 Once enabled, proceed to the next configuration.
 
-[![image](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/02/fdgrgrefeqr.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/02/fdgrgrefeqr.webp)
+[![image](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/japanese.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/japanese.webp)
 
 ### Step 2: Enable Shipping Method
 

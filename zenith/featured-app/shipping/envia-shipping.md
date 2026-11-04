@@ -28,11 +28,10 @@ Installation
 
 The admin needs to visit the **multi-vendor marketplace admin panel** > click on the **three dots** > click on the **featured apps**. Further, **enable** the **Envia Shipping** feature app.
 
-[![Feature-Apps-Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/sixthree.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/sixthree.webp)
+[![Feature-Apps-Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/envia.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/envia.webp)
 
 Furthermore, **agree** & **approve** the charges:
 
-[![demo-store-Approve-fees-Shopify](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/04/demo-store-Approve-fees-Shopify-1200x597.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/04/demo-store-Approve-fees-Shopify-1200x597.png)
 
 Configuration: Admin End
 ------------------------

@@ -78,7 +78,7 @@ Check the below video of Zone Wise Shipping:
 
 In order to get the app, first, you need to visit the **[Feature App](https://webkul.com/blog/shopify-multivendor-marketplace-feature-apps/#panel-0)** section of the multi-vendor app and search for the Shipping feature app. Now, click the **Enable** button and activate **Shipping**.
 
-[![Multi-vendor-Shipping Feature](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/1mpshipping.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/1mpshipping.webp)
+[![Multi-vendor-Shipping Feature](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/mpshipping.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/mpshipping.webp)
 
 That is how you can enable the shipping feature in the multi-vendor marketplace app.
 
