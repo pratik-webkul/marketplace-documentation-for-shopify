@@ -34,15 +34,13 @@ After accessing the **"Feature Apps"** section, you will see a list of available
 
 then click on the **Enable** button to activate it in your [multivendor marketplace app](/zenith/introduction/).
 
-[![image-6-](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/esyship.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/esyship.webp)
+[![image-6-](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/easyship.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/easyship.webp)
 
 After clicking on Enable button, you need to click on Agree button to proceed with approving the feature app's charges.
 
-[![screenshot_1683281833143](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/nineeight.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/nineeight.webp)
 
 You can easily approve the charges by simply clicking on the "Approve" button in Shopify.
 
-[![navin-store1-·-Approve-subscription-·-Shopify](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/05/navin-store1-%C2%B7-Approve-subscription-%C2%B7-Shopify-1200x627.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/05/navin-store1-%C2%B7-Approve-subscription-%C2%B7-Shopify-1200x627.png)
 
   
 With the help of these steps, you can easily enable the Easyship feature within your [Multivendor Marketplace App](/zenith/introduction/).

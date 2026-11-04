@@ -47,11 +47,11 @@ In order to make this feature app work on your Marketplace, first, you need to e
 
 Visit the Feature Apps section and scroll to the bottom to get the Store Pickup feature app.
 
-[![store pickup](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/storepickup.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/01/storepickup.webp)
+[![store pickup](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/storepickup.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/storepickup.webp)
 
 Click the "**Enable**" button to activate this feature app.
 
-Once you find this feature app, click on the Enable button to proceed. Now, you need to agree with the charge of $10 per month for this feature app.
+Once you find this feature app, click on the Enable button to proceed. Now, you need to agree with the charge of $11 per month for this feature app.
 
 [![Approve Charges](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/08/Demo-Store-Approve-fees-Shopify.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/08/Demo-Store-Approve-fees-Shopify.png)
 

@@ -33,7 +33,7 @@ Enable the following app by visiting:
 *   Search for ‘**Delhivery**‘ & click on ‘**Enable**‘
 *   After accepting the charges, you’ll be good to configure the app!
 
-[![delhivery shipping](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/delhiveryone.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/delhiveryone.webp)
+[![delhivery shipping](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/delhivery.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/delhivery.webp)
 
  Configuration: Admin End
 ----------------------

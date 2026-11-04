@@ -58,7 +58,7 @@ You need to follow the below-given steps to activate the UPS feature app:-
 *   Click the "**Enable**" button.
 *   **Proceed** and **Approve** the charge for the same.
 
-[![UPS feature app](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/ups.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/ups.webp)
+[![UPS feature app](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/ups.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/ups.webp)
 
  Admin Panel
 -----------------

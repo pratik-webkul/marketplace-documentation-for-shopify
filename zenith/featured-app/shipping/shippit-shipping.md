@@ -26,7 +26,7 @@ Also, you can enable only one shipping method within Shippit to calculate the sh
 
 **CHARGES**:
 
-This feature will have an additional charge of **USD 10 per month** over & above your current Multivendor Marketplace plan.
+This feature will have an additional charge of **USD 11 per month** over & above your current Multivendor Marketplace plan.
 
 SHIPPIT SHIPPING FEATURE APP IS AVAILABLE **BOTH FOR RATE CALCULATION & FULFILLMENT**.
 
@@ -35,11 +35,9 @@ Installation
 
 The admin needs to visit the **Multi-vendor Marketplace Admin panel** > click on the **three dots** > and click on the **feature apps**. Further, **enable** the **Shippit** feature app.
 
-[![Enable Shipping](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/shippit.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/shippit.webp)
+[![Enable Shipping](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/shippit.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/shippit.webp)
 
 Furthermore, agree & approve the charges:
-
-[![Shippit  Shipping payment](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/12/testttt-2.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/12/testttt-2.webp)
 
 Configuration: Admin End
 ------------------------

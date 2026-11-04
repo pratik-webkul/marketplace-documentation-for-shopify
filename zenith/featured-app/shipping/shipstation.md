@@ -35,7 +35,7 @@ SHIPSTATION SHIPPING FEATURE APP IS AVAILABLE **BOTH FOR RATE CALCULATION & FULF
 -------------------
 The admin needs to visit the **multi-vendor marketplace admin panel** > click on the **three dots** > click on the **feature apps**. Further, **enable** the **ShipStation** feature app.
 
-[![Feature-Apps-Admin-2 ShipStation integration ](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/shpstation.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/shpstation.webp)
+[![Feature-Apps-Admin-2 ShipStation integration ](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/shipstation.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/shipstation.webp)
 
 Furthermore, **agree** & **approve** the charges:
 

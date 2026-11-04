@@ -35,9 +35,9 @@ There, you will get "**Feature Apps**". Click on it and scroll down to get the "
 
 Now, tap the enable button and proceed further to accept the payment for this feature.
 
-[![Screenshot-52](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/ecomexpress.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/ecomexpress.webp)
+[![Screenshot-52](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/ecom.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/ecom.webp)
 
-Once you click on approve charges, you will add up $10 per month additionally in your current Multivendor Marketplace plan.
+Once you click on approve charges, you will add up $11 per month additionally in your current Multivendor Marketplace plan.
 
 [![agree with plan](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/activate.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/activate.webp)
 

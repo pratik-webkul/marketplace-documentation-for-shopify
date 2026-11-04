@@ -33,7 +33,7 @@ Enable the following app by visiting:
 *   Search for ‘**Shipmondo**‘ & click on ‘**Enable**‘
 *   After accepting the charges, you’ll be good to configure the app!
 
-[![Feature-Apps-Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/shpmondo.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/shpmondo.webp)
+[![Feature-Apps-Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/shipmondo.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/shipmondo.webp)
 
  Configuration: Admin End
 ------------------

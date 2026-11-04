@@ -25,11 +25,10 @@ To enable the featured app, all you need to do is to visit the “**Feature Apps
 
 Once you click on “Feature Apps”, you will get the list of apps listed in this section. There, You will get the Sbeedy shipping feature. You just need to click the **enable** button.
 
-[![enable-sbeedy](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/spdy.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/spdy.webp)
+[![enable-sbeedy](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/sbeedy.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/sbeedy.webp)
 
 After enabling this you have to accept the charges and click on agree to enable the shipping on your store .
 
-[![agree-sbeedy](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/fifteen.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/fifteen.webp)
 
 In this way, you can enable the feature within your Multivendor App.
 

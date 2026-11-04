@@ -50,7 +50,7 @@ In order to install this feature app to your store, you need to follow some simp
 *   Go to **Feature Apps** section.
 *   Search for **Australia Post**.
 
-[![Dashboard Admin-Multivendor Australia Post](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/featuredapps.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/featuredapps.webp)
+[![Dashboard Admin-Multivendor Australia Post](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/australia.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/australia.webp)
 
 *   Click the "**Enable**" button.
 *   Now, agree with the charge of USD 11 per month by clicking the "**Agree"** button.

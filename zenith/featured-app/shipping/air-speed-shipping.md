@@ -39,7 +39,7 @@ To get this feature app installed on your marketplace, admin needs to follow bel
 
 *   Search for the **AirSpeed Shipping** Feature App and Click on **Enable** button.
 
-[![AirSpeed1](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/airspeed.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/airspeed.webp)
+[![AirSpeed1](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/airspeed.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/airspeed.webp)
 
 *   Further, click on **Agree** button if you agree with the feature app charge.
 

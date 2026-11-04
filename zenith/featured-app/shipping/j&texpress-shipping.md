@@ -15,7 +15,7 @@ By enabling this featured app, the admin can allow sellers to manage the order f
 
 This feature app will charge you a minimal amount of **$11 per month** over and above your current Multivendor plan.
 
-NOTE:- This J&T Express shipping feature app is available only with the Multivendor **Pro** **Plan** ($100/month).
+NOTE:- This J&T Express shipping feature app is available only with the Multivendor **MAX** **Plan** ($100/month).
 
 Moreover, you need to enable the **[Shipping](/zenith/featured-app/shipping/marketplace-shipping)** Add-on for FREE from the ‘Feature Apps’ section of the app.
 
@@ -29,7 +29,7 @@ J&T EXPRESS SHIPPING FEATURE APP IS AVAILABLE **ONLY FOR FULFILLMENT**.
 --------------------------
 To enable the feature app, all you need to do is to visit the “**Featured Apps**” section of the admin panel and enable it from there.
 
-[![Feature App-shipping](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/featuredapps.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/featuredapps.webp)
+[![Feature App-shipping](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/jnt.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/jnt.webp)
 
 Once you click on “Feature Apps”, you will get the list of apps listing in this section. There, You will get the **J&T Express** feature. You just need to click the **enable** button.
 

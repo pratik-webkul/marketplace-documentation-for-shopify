@@ -68,7 +68,7 @@ Now, You can sort the feature app by "Product" from the drop-down menu to get th
 
 Once you click on the "Enable" button, You need to agree with the charge of $11/month which will be added to your current Multivendor app charge.
 
-[![Approve Charges](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/09/Demo-Store-Approve-fees-Shopify-1.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/09/Demo-Store-Approve-fees-Shopify-1.png)
+
 
 Once You agree with the feature app charge, you need to approve this charge and thus get this app on your marketplace.
 

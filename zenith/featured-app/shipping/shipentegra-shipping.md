@@ -16,7 +16,7 @@ Shipentegra ships your products worldwide with multiple services and competitive
 
 To enable the feature in the app, the admin can allow sellers to manage order fulfillment using Shipentegra and generate shipping labels for their orders.
 
-This feature app will charge you **$10 per month** in addition to your current Multivendor plan.
+This feature app will charge you **$11 per month** in addition to your current Multivendor plan.
 
 THIS SHIPPING FEATURE APP IS USED **ONLY FOR FULFILLMENT**.
 
@@ -29,7 +29,7 @@ To enable the feature app, simply visit the “**Featured Apps**” section of t
 
 Once you click on **“Feature Apps”**, you will see the list of apps available in that section. From there, locate the feature app and simply click the **Activate** button.
 
-![Shipentegra Marketplace Shipping Integration](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/shipentratwo-1200x837.webp)
+![Shipentegra Marketplace Shipping Integration](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/shipentegra.webp)
 
 Once you click on **“Activate”**, you will be prompted to approve the charge for this feature app.
 

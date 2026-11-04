@@ -35,7 +35,7 @@ Installation
 
 The admin needs to visit the **multi-vendor marketplace admin panel** > click on the **three dots** > click on the **featured apps**. Further, **enable** the **FedEx** feature app.
 
-[![image-13](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/fedex.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/fedex.webp)
+[![image-13](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/fedx.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/fedx.webp)
 
 Furthermore, **agree** & **approve** the charges:
 
