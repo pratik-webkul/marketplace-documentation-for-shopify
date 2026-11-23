@@ -41,7 +41,7 @@ The minimum amount you can charge 0.5$ and the maximum is up to eight digits (e.
 
 Firstly, enable the app from the Feature App section.
 
-[![Feature app](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/stripeconnect2.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/06/stripeconnect2.webp)
+[![Feature app](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/stripee.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/stripee.webp)
 
 Once you click on the "Enable" button, you need to agree on additional charges which are USD 15 per month.
 <!--  -->

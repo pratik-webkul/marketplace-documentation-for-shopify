@@ -22,7 +22,7 @@ This feature app allows the Admin/Store Owner to make plans for the Sellers and 
 
 Admin will set the payment methods through which he/she wants the payment from sellers. You can activate any of the payment methods of your choice from the **Payment Details** section.
 
-The featured app is a monthly costing of **$25 USD** per month apart from the Multivendor App.
+The featured app is a monthly costing of **$28 USD** per month apart from the Multivendor App.
 
 Check the below video of Seller Membership:
 
