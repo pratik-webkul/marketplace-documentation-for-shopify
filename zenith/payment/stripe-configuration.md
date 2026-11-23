@@ -20,7 +20,7 @@ But if seller is bearing the discount, the amount will be split, i.e., the whole
 
 To use this payment gateway, the admin needs to enable the [Stripe Connect](/zenith/payment/stripe.html) from the **feature app section**:
 
-[![Feature app SCA STRIPE](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/pay31.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/pay31.webp)
+[![Feature app SCA STRIPE](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/stripee.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/11/stripee.webp)
 
 Multivendor Admin Panel > 'Feature Apps'
 
