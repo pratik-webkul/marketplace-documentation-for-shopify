@@ -1,6 +1,6 @@
 ---
-title: Country Wise Shipping
-description: Country Wise Shipping
+title: Network Payout
+description: Network Payout
 author: Chirag Tyagi
 ---
 

@@ -393,6 +393,7 @@ markdown: {
             { text: 'Stripe configuration', link: '/zenith/payment/stripe-configuration' },
             { text: 'Paypal', link: '/zenith/payment/paypal' },
             { text: 'Razorpay-X', link: '/zenith/payment/razorpayx' },
+            { text: 'Mollie Connect', link: '/zenith/payment/mollie-connect' },
             { text: 'Network payout', link: '/zenith/payment/network-payout' },
             { text: 'Seller payment configuration', link: '/zenith/payment/seller-payment-configuration' },
             { text: 'Seller membership payment methods', link: '/zenith/payment/seller-membership-payment-methods' }
